@@ -1,0 +1,35 @@
+{
+    "slug": "schufa",
+    "name": "SCHUFA Holding AG",
+    "address": "Postfach 10 25 66\n44725 Bochum\nDeutschland",
+    "phone": "+49 611 9278 0",
+    "fax": "+49 611 9278 109",
+    "email": "datenschutz@schufa.de",
+    "web": "https://www.schufa.de",
+    "sources": [
+        "https://www.meineschufa.de/index.php?site=11_3_1",
+        "https://www.schufa.de/de/datenschutz/",
+        "https://www.schufa.de/de/impressum/"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "comments": [
+        "Frühere Adresse nur angeben, wenn sie sich in den letzten 12 Monaten geändert hat.",
+        "Entgegen der Angaben im Formular der Schufa ist in aller Regel keine Kopie des Personalausweises oder Reisepasses nötig."
+    ]
+}

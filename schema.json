@@ -1,0 +1,123 @@
+{
+	"$schema": "http://json-schema.org/draft-03/schema#",
+	"type": "object",
+	"properties": {
+		"slug": {
+			"type": "string",
+			"title": "Slug",
+			"required": true
+		},
+		"categories": {
+			"type": "array",
+			"title": "Categories",
+			"uniqueItems": true,
+			"items": {
+				"type": "string"
+			}
+		},
+		"name": {
+			"type": "string",
+			"title": "Name",
+			"required": true
+		},
+		"address": {
+			"type": "string",
+			"title": "Address",
+			"format": "text",
+			"required": true
+		},
+		"phone": {
+			"type": "string",
+			"title": "Phone"
+		},
+		"fax": {
+			"type": "string",
+			"title": "Fax"
+		},
+		"email": {
+			"type": "string",
+			"title": "E-mail"
+		},
+		"web": {
+			"type": "string",
+			"title": "Website"
+		},
+		"sources": {
+			"type": "array",
+			"title": "Sources",
+			"uniqueItems": true,
+			"items": {
+				"type": "string"
+			},
+			"required": true
+		},
+		"required-elements-access": {
+			"type": "array",
+			"title": "Access elements",
+			"uniqueItems": true,
+			"items": {
+				"type": "object",
+				"properties": {
+					"desc": {
+						"type": "string",
+						"title": "Description",
+						"required": true
+					},
+					"type": {
+						"type": "string",
+						"title": "Type",
+						"required": true,
+						"default": "input",
+						"enum": [ "input", "textarea", "address" ]
+					},
+					"optional": {
+						"type": "boolean",
+						"title": "Optional?"
+					}
+				}
+			}
+		},
+		"required-elements-erasure": {
+			"type": "array",
+			"title": "Erasure elements",
+			"uniqueItems": true,
+			"items": {
+				"type": "object",
+				"properties": {
+					"desc": {
+						"type": "string",
+						"title": "Description",
+						"required": true
+					},
+					"type": {
+						"type": "string",
+						"title": "Type",
+						"required": true,
+						"default": "input",
+						"enum": [ "input", "textarea", "address" ]
+					},
+					"optional": {
+						"type": "boolean",
+						"title": "Optional?"
+					}
+				}
+			}
+		},
+		"custom-access-template": {
+			"type": "string",
+			"title": "Custom access template"
+		},
+		"custom-erasure-template": {
+			"type": "string",
+			"title": "Custom erasure template"
+		},
+		"comments": {
+			"type": "array",
+			"title": "Comments",
+			"items": {
+				"type": "string",
+				"format": "text"
+			}
+		}
+	}
+}
