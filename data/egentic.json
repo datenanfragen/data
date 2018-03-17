@@ -1,0 +1,31 @@
+{
+    "slug": "egentic",
+    "categories": [
+        "Adressen"
+    ],
+    "name": "eGENTIC GmbH",
+    "address": "Oberliederbacher Weg 25\n65843 Sulzbach/Taunus\nDeutschland",
+    "fax": "+49 6151 9503 201",
+    "web": "https://www.egentic.com",
+    "sources": [
+        "https://www.egentic.com/datenschutz/?lang=de",
+        "https://www.egentic.com/the-imprint/?lang=de"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "comments": [
+        "Antwort kommt regelmäßig von Talk2 GmbH mit Sitz Rheinstraße 22, 64283 Darmstadt, Deutschland im Auftrag der eGENTIC GmbH."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "slug": "deutsche-post-adress",
+    "categories": [
+        "Adressen"
+    ],
+    "name": "Deutsche Post Adress GmbH & Co. KG",
+    "address": "Am Anger 33\n33332 Gütersloh\nDeutschland",
+    "phone": "+49 5241 5393 0",
+    "fax": "+49 5241 5393 49",
+    "email": "auskunft@postadress.de",
+    "web": "https://www.deutschepost.de/de/p/postadress.html",
+    "sources": [
+        "https://www.deutschepost.de/de/p/postadress/kontakt.html"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "slug": "panadress",
+    "categories": [
+        "Adressen"
+    ],
+    "name": "panadress marketing intelligence GmbH",
+    "address": "Nymphenburger Straße 14\n80335 München\nDeutschland",
+    "phone": "+49 89 89083350",
+    "email": "info@panadress.de",
+    "web": "http://www.panadress.de",
+    "sources": [
+        "http://www.panadress.de/impressum",
+        "http://www.panadress.de/data-und-services/adressen#btocadressen"
+    ]
+}

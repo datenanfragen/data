@@ -1,0 +1,30 @@
+{
+    "slug": "deutsche-post-direkt",
+    "categories": [
+        "Adressen"
+    ],
+    "name": "Deutsche Post Direkt GmbH",
+    "address": "Datenschutzbeauftragter\nHerr Rechtsanwalt Markus Giese\nJunkersring 57\n53844 Troisdorf\nDeutschland",
+    "phone": "+49 800 936 937 3",
+    "fax": "+49 2241 2661 1111",
+    "email": "datenservice@postdirekt.de",
+    "web": "https://service.postdirekt.de/pdportal/PublicServlet",
+    "sources": [
+        "https://service.postdirekt.de/pdportal/PublicServlet?command=content&page=datenschutz",
+        "https://service.postdirekt.de/pdportal/PublicServlet?command=content&page=impressum"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}

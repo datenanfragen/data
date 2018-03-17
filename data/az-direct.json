@@ -1,0 +1,30 @@
+{
+    "slug": "az-direct",
+    "categories": [
+        "Adressen"
+    ],
+    "name": "AZ Direct GmbH",
+    "address": "Datenschutzabteilung\nCarl-Bertelsmann-Straße 161S\n33311 Gütersloh\nDeutschland",
+    "phone": "+49 5241 80 75039",
+    "fax": "+49 5241 80 66909",
+    "email": "az.datenschutz@bertelsmann.de",
+    "web": "http://www.az-direct.com",
+    "sources": [
+        "http://www.az-direct.com/site/datenschutz/",
+        "http://www.az-direct.com/site/impressum/"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}
