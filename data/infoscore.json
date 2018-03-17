@@ -1,0 +1,35 @@
+{
+    "slug": "infoscore",
+    "categories": [
+        "Auskunftei"
+    ],
+    "name": "infoscore Consumer Data GmbH",
+    "address": "Abteilung Datenschutz\nRheinstraße 99\n76532 Baden-Baden\nDeutschland",
+    "phone": "+49 7221 5040 3200",
+    "fax": "+49 7221 5040 3201",
+    "web": "https://finance.arvato.com/de/verbraucher/selbstauskunft/infoscore-consumer-data-gmbh.html",
+    "sources": [
+        "https://finance.arvato.com/de/verbraucher/selbstauskunft.html",
+        "https://www.arvato.com/content/dam/arvato/documents/financial-solutions/Antrag_Selbstauskunft_infoscore_Consumer_Data_GmbH.pdf"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "comments": [
+        "Erbitten Anschriften der letzten fünf Jahre für vollständigere Auskunft."
+    ]
+}

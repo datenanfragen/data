@@ -1,0 +1,33 @@
+{
+    "slug": "universum-inkasso",
+    "categories": [
+        "Auskunftei"
+    ],
+    "name": "UNIVERSUM Inkasso GmbH",
+    "address": "Datenschutzbeauftragter\nHanauer Landstraße 164\n60314 Frankfurt am Main",
+    "phone": "+49 69 42091 325",
+    "fax": "+49 69 42091 353",
+    "email": "datenschutz@universum-group.de",
+    "web": "https://www.universum-group.de",
+    "sources": [
+        "https://www.universum-group.de/datenschutz/",
+        "https://www.universum-group.de/impressum/"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "comments": [
+        "Erbitten frühere Anschriften nur, wenn Änderung in den letzten 36 Monaten stattgefunden hat."
+    ]
+}

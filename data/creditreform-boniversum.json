@@ -1,0 +1,31 @@
+{
+    "slug": "creditreform-boniversum",
+    "categories": [
+        "Auskunftei"
+    ],
+    "name": "Creditreform Boniversum GmbH",
+    "address": "Consumer Service\nHellersbergstraße 11\n41460 Neuss\nDeutschland",
+    "phone": "+49 2131 36845 560",
+    "fax": "+49 2131 36845 570",
+    "email": "selbstauskunft@boniversum.de",
+    "web": "https://www.boniversum.de",
+    "sources": [
+        "https://www.boniversum.de/selbstauskunft/",
+        "https://www.boniversum.de/datenschutzerklaerung/",
+        "https://www.boniversum.de/impressum/"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}

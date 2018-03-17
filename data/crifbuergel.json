@@ -1,0 +1,33 @@
+{
+    "slug": "crifbuergel",
+    "categories": [
+        "Auskunftei",
+        "Adressen"
+    ],
+    "name": "CRIF Bürgel GmbH",
+    "address": "Abteilung Datenschutz\nKaiserstraße 217\n76133 Karlsruhe\nDeutschland",
+    "phone": "+49 40 89803 0",
+    "fax": "+49 721 151 16 86",
+    "email": "datenschutz.de@crif.com",
+    "web": "https://www.crifbuergel.de",
+    "sources": [
+        "https://www.crifbuergel.de/de/kontakt/selbstauskunft"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "comments": [
+        "Entgegen der Angabe auf der CRIF Bürgel-Webseite sollte eine Personalausweiskopie – wenn überhaupt – nur auf explizite Nachfrage verschickt werden und nicht direkt mit dem ersten Schreiben."
+    ]
+}
