@@ -3,7 +3,10 @@
     "categories": [
         "Bank"
     ],
-    "name": "Star Finanz GmbH (yomo)",
+    "name": "Star Finanz GmbH",
+    "runs": [
+        "yomo – mobiles App-Girokonto der Sparkassen"
+    ],
     "address": "Grüner Deich 15\n20097 Hamburg\nDeutschland",
     "phone": "+49 40 23728 0",
     "fax": "+49 40 23728 350",

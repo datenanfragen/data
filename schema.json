@@ -20,6 +20,14 @@
 			"title": "Name",
 			"required": true
 		},
+		"runs": {
+			"type": "array",
+			"title": "Runs",
+			"uniqueItems": true,
+			"items": {
+				"type": "string"
+			}
+		},
 		"address": {
 			"type": "string",
 			"title": "Address",
