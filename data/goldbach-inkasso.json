@@ -1,0 +1,16 @@
+{
+    "slug": "goldbach-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "Inkasso Goldbach GmbH",
+    "address": "Datenschutzbeauftragter\nSeligenstädter Straße 100\n63791 Karlstein\nDeutschland",
+    "phone": "+49 6188 30630 0",
+    "fax": "+49 6188 30630 10",
+    "email": "datenschutz@inkasso-goldbach.de",
+    "web": "https://inkasso-goldbach.com/",
+    "sources": [
+        "https://inkasso-goldbach.com/datenschutz",
+        "https://inkasso-goldbach.com/impressum"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "slug": "bernhardt-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "Bernhardt-Inkasso Unternehmen",
+    "address": "Osterstraße 20\n49661 Cloppenburg\nDeutschland",
+    "phone": "+49 4471 933537",
+    "fax": "+49 4471 933538",
+    "email": "info@bernhardt-inkasso.de",
+    "web": "https://www.bernhardt-inkasso.de/",
+    "sources": [
+        "https://www.bernhardt-inkasso.de/impressum/"
+    ]
+}

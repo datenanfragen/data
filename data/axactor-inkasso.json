@@ -1,0 +1,16 @@
+{
+    "slug": "axactor-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "Axactor Germany GmbH",
+    "address": "Datenschutzbeauftragte\nMarion Thomas (Assessor Jur.)\nIm Breitspiel 13\n69126 Heidelberg\nDeutschland",
+    "phone": "+49 6221 987 60",
+    "fax": "+49 6221 987 999",
+    "email": "marion.thomas@axactor.de",
+    "web": "https://www.axactor.de/",
+    "sources": [
+        "https://www.axactor.de/privacy",
+        "https://www.axactor.de/impressum"
+    ]
+}

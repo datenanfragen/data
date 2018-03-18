@@ -1,0 +1,15 @@
+{
+    "slug": "deurema-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "DEUREMA Deutsche Rechnungsmanagement GmbH",
+    "address": "Ludwig-Erhard-Straße 4\n84034 Landshut\nDeutschland ",
+    "phone": "+49 871 92318 10",
+    "fax": "+49 871 92318 90",
+    "email": "email@deurema.de",
+    "web": "https://www.deurema.de",
+    "sources": [
+        "https://www.deurema.de/impressum-dl-infov.html"
+    ]
+}

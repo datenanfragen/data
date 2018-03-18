@@ -1,0 +1,16 @@
+{
+    "slug": "adu-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "Allgemeiner Debitoren- und Inkassodienst GmbH",
+    "address": "Datenschutzbeauftragter Gregor Bartosinski\nEduard-Pestel-Straße 7\n49080 Osnabrück\nDeutschland",
+    "phone": "+49 541 80018 155",
+    "fax": "+49 541 80018 55",
+    "email": "datenschutz@adu-inkasso.de",
+    "web": "https://www.adu-inkasso.de",
+    "sources": [
+        "https://www.adu-inkasso.de/impressum/datenschutz/",
+        "https://www.adu-inkasso.de/Impressum/"
+    ]
+}

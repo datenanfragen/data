@@ -1,0 +1,15 @@
+{
+    "slug": "sirius-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "Sirius Inkasso GmbH",
+    "address": "Datenschutzbeauftragter Thomas Schauf\nWerdener Straße 4\n40227 Düsseldorf\nDeutschland",
+    "phone": "+49 221 88 29 10",
+    "fax": "+49 221 88 29 11333",
+    "email": "siriusinfo@gfkl.com",
+    "web": "http://www.sirius-inkasso.de/",
+    "sources": [
+        "http://www.sirius-inkasso.de/impressum/"
+    ]
+}

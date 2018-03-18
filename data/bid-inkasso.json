@@ -1,0 +1,16 @@
+{
+    "slug": "bid-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "BID Bayerischer Inkasso Dienst AG",
+    "address": "Betrieblicher Datenschutzbeauftragter\nMarco Groeger\nWeichengereuth 26\n96450 Coburg\nDeutschland",
+    "phone": "+49 9561 8060 0",
+    "fax": "+49 9561 8060 805",
+    "email": "bid@bid-coburg.de",
+    "web": "http://www.bid-coburg.de/",
+    "sources": [
+        "http://www.bid-coburg.de/impressum/#datenschutz",
+        "http://www.bid-coburg.de/impressum/"
+    ]
+}

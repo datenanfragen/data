@@ -1,0 +1,30 @@
+{
+    "slug": "ihd-kredit",
+    "categories": [
+        "Inkasso",
+        "Auskunftei"
+    ],
+    "name": "IHD Gesellschaft für Kredit- und Forderungsmanagement mbH",
+    "address": "Augustinusstraße 11B\n50226 Frechen\nDeutschland",
+    "phone": "+49 22 34 96 42 0",
+    "fax": "+49 22 34 96 42 13",
+    "email": "inkasso@ihd.de",
+    "web": "https://www.ihd.de",
+    "sources": [
+        "https://www.ihd.de/impressum/"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "slug": "gfkl-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "Lowell Financial Services GmbH",
+    "runs": [
+        "GFKL-Inkasso"
+    ],
+    "address": "Am Europa-Center 1b\n45145 Essen\nDeutschland",
+    "phone": "+49 201 102 0",
+    "fax": "+49 201 102 1199",
+    "email": "webmaster@lowellgroup.de",
+    "web": "https://www.gfkl.com",
+    "sources": [
+        "https://www.gfkl.com/datenschutz/"
+    ]
+}

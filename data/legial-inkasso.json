@@ -1,0 +1,19 @@
+{
+    "slug": "legial-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "LEGIAL AG",
+    "address": "c/o ERGO Group AG\nDatenschutzbeauftragter\nVictoriaplatz 2\n40198 Düsseldorf\nDeutschland",
+    "phone": "+49 89 6275 6800",
+    "fax": "+49 89 6275 6833",
+    "email": "datenschutz@ergo.de",
+    "web": "https://www.legial.de/",
+    "sources": [
+        "https://www.legial.de/datenschutz",
+        "https://www.legial.de/impressum"
+    ],
+    "comments": [
+        "Die LEGIAL AG selbst sitzt: Thomas-Dehler-Straße 2, 81737 München, Deutschland."
+    ]
+}

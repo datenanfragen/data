@@ -1,0 +1,15 @@
+{
+    "slug": "liquida-inkasso",
+    "categories": [
+        "Inkasso"
+    ],
+    "name": "LIQUIDA Inkasso GmbH",
+    "address": "Lise-Meitner-Straße 23\n74074 Heilbronn\nDeutschland",
+    "phone": "+49 7131 58206 0",
+    "fax": "+49 7131 58206 209",
+    "email": "info@liquida-inkasso.de",
+    "web": "http://www.liquida-inkasso.de/",
+    "sources": [
+        "http://www.liquida-inkasso.de/kontakt/impressum.html"
+    ]
+}
