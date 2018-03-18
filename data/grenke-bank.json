@@ -1,0 +1,16 @@
+{
+    "slug": "grenke-bank",
+    "categories": [
+        "Bank"
+    ],
+    "name": "GRENKE BANK AG",
+    "address": "Datenschutz\nNeuer Markt 2\n76532 Baden-Baden \nDeutschland",
+    "phone": "+49 7221 500772 00",
+    "fax": "+49 7221 500772 50",
+    "email": "service@grenkebank.de",
+    "web": "https://www.grenkebank.de",
+    "sources": [
+        "https://www.grenkebank.de/de/footernavigation/datenschutz.html",
+        "https://www.grenkebank.de/de/footernavigation/impressum.html"
+    ]
+}

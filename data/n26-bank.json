@@ -1,0 +1,30 @@
+{
+    "slug": "n26-bank",
+    "categories": [
+        "Bank"
+    ],
+    "name": "N26 Bank GmbH",
+    "address": "Klosterstraße 62\n10179 Berlin\nDeutschland",
+    "phone": "+49 30 364 28 68 80",
+    "fax": "+49 30 364 50 80",
+    "email": "datenschutz@n26.com",
+    "web": "https://n26.com",
+    "sources": [
+        "https://next.n26.com/de-de/legal-documents/privacy-policy",
+        "https://next.n26.com/de-de/legal-documents/imprint"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}

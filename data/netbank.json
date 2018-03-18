@@ -1,0 +1,15 @@
+{
+    "slug": "netbank",
+    "categories": [
+        "Bank"
+    ],
+    "name": "netbank",
+    "address": "c/o Augsburger Aktienbank AG\nHalderstraße 21\n86150 Augsburg\nDeutschland",
+    "phone": "+49 40 380 83 888",
+    "fax": "+49 40 380 23 561",
+    "email": "info@netbank.de",
+    "web": "https://www.netbank.de/",
+    "sources": [
+        "https://www.netbank.de/privatkunden/ueber-uns/impressum/"
+    ]
+}

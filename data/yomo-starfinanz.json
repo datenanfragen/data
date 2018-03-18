@@ -1,0 +1,16 @@
+{
+    "slug": "yomo-starfinanz",
+    "categories": [
+        "Bank"
+    ],
+    "name": "Star Finanz GmbH (yomo)",
+    "address": "Grüner Deich 15\n20097 Hamburg\nDeutschland",
+    "phone": "+49 40 23728 0",
+    "fax": "+49 40 23728 350",
+    "email": "datenschutz@starfinanz.de",
+    "web": "https://yomo.de",
+    "sources": [
+        "https://yomo.de/datenschutz",
+        "https://yomo.de/impressum/"
+    ]
+}

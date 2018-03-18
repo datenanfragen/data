@@ -1,0 +1,30 @@
+{
+    "slug": "cosmosdirekt",
+    "categories": [
+        "Versicherung"
+    ],
+    "name": "CosmosDirekt",
+    "address": "Betrieblicher Datenschutzbeauftragter\n66101 Saarbrücken",
+    "phone": "+49 681 9 66 66 66",
+    "fax": "+49 681 9 66 66 33",
+    "email": "datenschutz@cosmosdirekt.de",
+    "web": "https://www.cosmosdirekt.de/",
+    "sources": [
+        "https://www.cosmosdirekt.de/datenschutz/",
+        "https://www.cosmosdirekt.de/impressum/"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "slug": "s-broker",
+    "categories": [
+        "Bank"
+    ],
+    "name": "S Broker AG & Co. KG",
+    "address": "Datenschutzbeauftragter\nCarl-Bosch-Straße 10\n65203 Wiesbaden\nDeutschland",
+    "phone": "+49 611 2044 1911",
+    "email": "datenschutz@sbroker.de",
+    "web": "https://www.sbroker.de",
+    "sources": [
+        "https://www.sbroker.de/sbl/home/ds",
+        "https://www.sbroker.de/sbl/home/impressum"
+    ]
+}

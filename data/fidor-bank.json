@@ -1,0 +1,16 @@
+{
+    "slug": "fidor-bank",
+    "categories": [
+        "Bank"
+    ],
+    "name": "Fidor Bank AG",
+    "address": "Sandstraße 33\n80335 München\nDeutschland",
+    "phone": "+49 89 189 085 233",
+    "fax": "+49 89 189 085 199",
+    "email": "info@fidor.de",
+    "web": "https://www.fidor.de",
+    "sources": [
+        "https://www.fidor.de/document-center/privacy-policy",
+        "https://www.fidor.de/legal-notice"
+    ]
+}

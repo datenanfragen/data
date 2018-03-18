@@ -1,0 +1,19 @@
+{
+    "slug": "sparda-bank-hannover",
+    "categories": [
+        "Bank"
+    ],
+    "name": "Sparda-Bank Hannover eG",
+    "address": "Sven Böbel\nDatenschutzbeauftragter\nSimrockstraße 4\n53113 Bonn\nDeutschland",
+    "phone": "+49 511 3018 0",
+    "fax": "+49 511 3018 100",
+    "email": "sven.boebel@siz.de",
+    "web": "https://www.sparda-h.de/",
+    "sources": [
+        "https://www.sparda-h.de/datenschutzhinweise.php",
+        "https://www.sparda-h.de/impressum.php"
+    ],
+    "comments": [
+        "Die Sparda-Bank Hannover selbst sitzt: Ernst-August-Platz 8, 30159 Hannover, Deutschland."
+    ]
+}
