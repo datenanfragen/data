@@ -1,0 +1,15 @@
+{
+    "slug": "paydirekt",
+    "categories": [
+        "Bank"
+    ],
+    "name": "paydirekt GmbH",
+    "address": "Hamburger Allee 26 – 28\n60486 Frankfurt\nDeutschland",
+    "phone": "+49 69 2475 382 200",
+    "email": "datenschutz@paydirekt.de",
+    "web": "https://www.paydirekt.de",
+    "sources": [
+        "https://www.paydirekt.de/agb/index.html",
+        "https://www.paydirekt.de/impressum/index.html"
+    ]
+}

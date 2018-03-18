@@ -1,0 +1,18 @@
+{
+    "slug": "ayden",
+    "categories": [
+        "Bank"
+    ],
+    "name": "Adyen GmbH",
+    "runs": [
+        "Adyen MarketPay"
+    ],
+    "address": "Hackescher Markt 4\nGebäude 44\n10178 Berlin\nDeutschland",
+    "phone": "+49 30 30808505",
+    "email": "germany@adyen.com",
+    "web": "https://www.adyen.com/de_DE/",
+    "sources": [
+        "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/privacy-policy",
+        "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/impressum"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "slug": "paymill",
+    "categories": [
+        "Bank"
+    ],
+    "name": "PAYMILL GmbH",
+    "address": "St.-Cajetan-Straße 43\n81669 München\nDeutschland",
+    "fax": "+49 89 189 045 109",
+    "email": "security@paymill.com",
+    "web": "https://www.paymill.com",
+    "sources": [
+        "https://www.paymill.com/de/datenschutz",
+        "https://www.paymill.com/de/impressum"
+    ]
+}
