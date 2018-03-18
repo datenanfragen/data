@@ -1,0 +1,16 @@
+{
+    "slug": "degussa-goldhandel",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Degussa Goldhandel GmbH",
+    "address": "Promenadeplatz 12\n80333 München\nDeutschland",
+    "phone": "+49 69 860068 0",
+    "fax": "+49 69 860068 222",
+    "email": "datenschutz@degussa-goldhandel.de",
+    "web": "https://shop.degussa-goldhandel.de/",
+    "sources": [
+        "https://shop.degussa-goldhandel.de/datenschutz",
+        "https://shop.degussa-goldhandel.de/impressum"
+    ]
+}

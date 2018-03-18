@@ -1,0 +1,20 @@
+{
+    "slug": "lidl",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Lidl Digital International GmbH & Co. KG",
+    "runs": [
+        "Lidl Online-Shop (lidl-shop.de)"
+    ],
+    "address": "Datenschutz\nStiftsbergstraße 1\n74172 Neckarsulm\nDeutschland",
+    "phone": "+49 800 43 53 361",
+    "fax": "+49 33055 200 331",
+    "email": "datenschutz@lidl-shop.de",
+    "web": "https://www.lidl.de/",
+    "sources": [
+        "https://www.lidl.de/de/datenschutz/s21",
+        "https://www.lidl.de/de/impressum/s5",
+        "https://www.lidl.de/de/gesetzliche-zusatzinformationen/s9"
+    ]
+}

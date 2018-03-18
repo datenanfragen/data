@@ -1,0 +1,24 @@
+{
+    "slug": "consorsfinanz",
+    "categories": [
+        "Bank",
+        "Versicherung"
+    ],
+    "name": "BNP Paribas S.A. Niederlassung Deutschland",
+    "runs": [
+        "Consors Finanz",
+        "Commerz Finanz (ehemals)"
+    ],
+    "address": "Schwanthalerstraße 31\n80336 München\nDeutschland",
+    "phone": "+49 203 34 69 54 02",
+    "fax": "+49 203 34 69 54 09",
+    "email": "datenschutz@consorsfinanz.de",
+    "web": "https://www.consorsfinanz.de",
+    "sources": [
+        "https://www.consorsfinanz.de/datenschutz/index.html",
+        "https://www.consorsfinanz.de/impressum/index.html"
+    ],
+    "comments": [
+        "Erbittet datenschutzspezifische Anfragen per E-Mail zu stellen."
+    ]
+}

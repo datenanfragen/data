@@ -1,0 +1,19 @@
+{
+    "slug": "douglas",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Parfümerie Douglas GmbH",
+    "runs": [
+        "Mein Douglas"
+    ],
+    "address": "Luise-Rainer-Straße 7 – 11\n40235 Düsseldorf\nDeutschland",
+    "phone": "+49 800 690 690 5",
+    "fax": "+49 2331 6907178",
+    "email": "datenschutz@douglas.de",
+    "web": "https://www.douglas.de/",
+    "sources": [
+        "https://www.douglas.de/help/datenschutzinformationen",
+        "https://www.douglas.de/help/impressum"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "slug": "qvc-shop",
+    "categories": [
+        "Handel"
+    ],
+    "name": "QVC Handel S.á r.l. & Co. KG",
+    "address": "Rhein Studios\nBetrieblicher Datenschutzbeauftragter Dr. Thorsten B. Behling\nPlockstraße 30\n40221 Düsseldorf\nDeutschland",
+    "phone": "+49 800 29 33 333",
+    "email": "konzerndatenschutz@qvc.com",
+    "web": "http://www.qvc.de/",
+    "sources": [
+        "http://www.qvc.de/ServiceDatensicherheit.content.html",
+        "http://www.qvc.de/ServiceDatenschutzbestimmungen.content.html"
+    ],
+    "comments": [
+        "Erbittet datenschutzspezifische Anfragen per E-Mail zu senden."
+    ]
+}

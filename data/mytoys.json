@@ -1,0 +1,28 @@
+{
+    "slug": "mytoys",
+    "categories": [
+        "Handel"
+    ],
+    "name": "myToys.de GmbH",
+    "runs": [
+        "mirapodo Online-Schuh-Shop (www.mirapodo.de)",
+        "ambellis Online-Damenmode-Shop (www.ambellis.de)",
+        "yomonda Online-Haushaltartikel-Shop (www.yomonda.de)"
+    ],
+    "address": "Datenschutzbeauftragte Stefanie Hromek\nPotsdamer Straße 192\n10783 Berlin\nDeutschland",
+    "phone": "+49 30 726 201 0",
+    "fax": "+49 30 726 201 444",
+    "email": "datenschutz@myToys.de",
+    "web": "https://www.mytoys.de/",
+    "sources": [
+        "https://www.mytoys.de/c/datenschutz.html",
+        "https://www.mytoys.de/c/impressum.html",
+        "https://www.mirapodo.de/c/datenschutz.html",
+        "https://www.ambellis.de/c/datenschutz.html",
+        "https://www.yomonda.de/c/datenschutz.html",
+        "http://images.mytoys.com/mytoys/images/misc/oeffentliches_verfahrensverzeichnis_aktuell_1_2_2016.pdf"
+    ],
+    "comments": [
+        "Telefonnummer laut Impressum: 01806/698697 (Festnetz 20 Cent/Anruf, Mobilfunk max. 60 Cent/Anruf). Alternative Nummer übernommen von https://www.0180.info/suche.html?s=01806698697"
+    ]
+}

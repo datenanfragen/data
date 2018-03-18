@@ -1,0 +1,19 @@
+{
+    "slug": "ikea",
+    "categories": [
+        "Handel"
+    ],
+    "name": "IKEA Deutschland GmbH & Co. KG",
+    "runs": [
+        "IKEA FAMILY"
+    ],
+    "address": "Betrieblicher Datenschutzbeauftragter\nAm Wandersmann 2 – 4\n65719 Hofheim-Wallau\nDeutschland",
+    "phone": "+49 61 92 93 99999",
+    "fax": "+49 61 92 93 99998",
+    "email": "dsb@ikea.com",
+    "web": "https://www.ikea.com",
+    "sources": [
+        "https://www.ikea.com/ms/de_DE/popup/pp_popup.html",
+        "https://www.ikea.com/ms/de_DE/customer_service/impressum.html"
+    ]
+}

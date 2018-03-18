@@ -1,0 +1,19 @@
+{
+    "slug": "westfalia",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Westfalia Werkzeugcompany GmbH & Co KG",
+    "address": "Werkzeugstraße 1\n58082 Hagen\nDeutschland",
+    "phone": "+49 2331 355 0",
+    "fax": "+49 2331 355 530",
+    "email": "datenschutz@westfalia.de",
+    "web": "https://www.westfalia.de/",
+    "sources": [
+        "https://www.westfalia.de/static/unternehmen/datenschutzerklaerung.html",
+        "https://www.westfalia.de/static/unternehmen/impressum.html"
+    ],
+    "comments": [
+        "Erbittet datenschutzspezifische Anfragen per E-Mail zu stellen."
+    ]
+}

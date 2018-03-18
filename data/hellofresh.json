@@ -1,0 +1,15 @@
+{
+    "slug": "hellofresh",
+    "categories": [
+        "Handel"
+    ],
+    "name": "HelloFresh Deutschland SE & Co. KG",
+    "address": "Legal / Datenschutzbeauftragter\nSaarbrücker Straße 37a\n10405 Berlin\nDeutschland",
+    "phone": "+49 30 2240304 59",
+    "email": "datenschutz@hellofresh.de",
+    "web": "https://www.hellofresh.de/",
+    "sources": [
+        "https://www.hellofresh.de/datenschutz/",
+        "https://www.hellofresh.de/impressum/"
+    ]
+}
