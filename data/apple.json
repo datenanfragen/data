@@ -1,0 +1,15 @@
+{
+    "slug": "apple",
+    "categories": [
+        "Handel",
+        "Social Media"
+    ],
+    "name": "Apple Distribution International",
+    "address": "Hollyhill Industrial Estate\nHollyhill, Cork\nRepublic of Ireland",
+    "email": "contactus.de@euro.apple.com",
+    "web": "https://www.apple.com",
+    "sources": [
+        "https://www.apple.com/legal/privacy/de-ww/",
+        "https://www.apple.com/de/contact/"
+    ]
+}

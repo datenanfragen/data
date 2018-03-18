@@ -1,0 +1,45 @@
+{
+    "slug": "amazon-de",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Amazon Deutschland Services GmbH",
+    "runs": [
+        "Amazon Kindle",
+        "Kindle Direct Publishing",
+        "Amazon Warehouse Deals",
+        "Amazon Media",
+        "Amazon Services",
+        "Amazon Marketplace"
+    ],
+    "address": "Marcel-Breuer-Straße 12\n80807 München\nDeutschland",
+    "phone": "+49 800 3 63 84 69",
+    "fax": "+49 89 38 03 88 01",
+    "email": "impressum@amazon.de",
+    "web": "https://www.amazon.de",
+    "sources": [
+        "https://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=201909010",
+        "https://www.amazon.de/gp/help/customer/display.html/ref=footer_impressum?ie=UTF8&nodeId=202024860"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        },
+        {
+            "desc": "E-Mail-Adresse Kundenkonto",
+            "type": "input"
+        }
+    ],
+    "comments": [
+        "Laut Datenschutzerklärung: Verantwortliche Stelle im Sinne der Datenschutzgesetze sind die Amazon Europe Core S.à.r.l., die Amazon EU S.à.r.l, die Amazon Services Europe S.à.r.l. und die Amazon Media EU S.à.r.l., alle vier ansässig 5, Rue Plaetis, L-2338 Luxemburg sowie Amazon Instant Video Germany GmbH, Domagkstr. 28, 80807 München. Als Datenverarbeiter wird in ihrem Auftrag die Amazon Deutschland Services GmbH, Marcel-Breuer-Str. 12, 80807 München, tätig."
+    ]
+}

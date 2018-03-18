@@ -4,6 +4,9 @@
         "Bank"
     ],
     "name": "Klarna Bank AB (publ)",
+    "runs": [
+        "Sofortüberweisung (Sofort GmbH)"
+    ],
     "address": "Datenschutzbeauftragter\nSveavägen 46\n111 34 Stockholm\nSchweden",
     "phone": "+46 8 120 120 00",
     "fax": "+46 8 120 120 99",

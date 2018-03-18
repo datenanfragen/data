@@ -1,0 +1,15 @@
+{
+    "slug": "hm-mode",
+    "categories": [
+        "Handel"
+    ],
+    "name": "H&M Hennes & Mauritz B.V. & Co. KG",
+    "address": "c/o H&M-Kundenservice\nPostfach 2318\n36243 Niederaula\nDeutschland",
+    "phone": "+46 8 796 55 00",
+    "email": "kundenservice.de@hm.com",
+    "web": "http://www.hm.com",
+    "sources": [
+        "https://www.hm.com/de/customer-service/legal-and-privacy/privacy-policy",
+        "https://www.hm.com/de/customer-service/impressum"
+    ]
+}

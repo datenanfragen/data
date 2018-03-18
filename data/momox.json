@@ -1,0 +1,24 @@
+{
+    "slug": "momox",
+    "categories": [
+        "Handel"
+    ],
+    "runs": [
+        "Medimops (www.medimops.de)"
+    ],
+    "address": "c/o intersoft consulting services AG\nHerr RA Christian Regnery (MOX)\nFrankenstraße 18a\n20097 Hamburg\nDeutschland",
+    "phone": "+49 30 488 288 100",
+    "email": "datenschutzbeauftragter@momox.biz",
+    "web": "https://www.momox.de",
+    "sources": [
+        "https://www.momox.de/impressum/",
+        "https://www.momox.de/datenschutz/",
+        "https://www.medimops.de/Impressum/",
+        "https://www.medimops.de/Datenschutz/"
+    ],
+    "comments": [
+        "E-Mails speziell für Auskünfte:\nmomox:\nMedimops: auskunft@medimops.de",
+        "Alternative E-Mail Datenschutzbeauftragter: cregnery@intersoft-consulting.de",
+        "Die momox GmbH selbst sitzt: Frankfurter Allee 77,\n10247 Berlin, Deutschland."
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "slug": "docmorris",
+    "categories": [
+        "Handel"
+    ],
+    "name": "DocMorris N.V.",
+    "address": "Datenschutzbeauftragter\nAvantisallee 152\n6422 RA Heerlen\nNiederlande",
+    "phone": "+49 800 480 8000",
+    "fax": "+49 180 3 48 40 40",
+    "email": "service@docmorris.de",
+    "web": "https://www.docmorris.de/",
+    "sources": [
+        "https://www.docmorris.de/service/bestellung/datenschutz",
+        "https://www.docmorris.de/service/unternehmen/impressum"
+    ],
+    "comments": [
+        "Achtung: Faxnummer ist kostenpflichtig (9 ct/min aus dem dt. Festnetz, max. 42 ct/min aus dem dt. Mobilfunknetz)."
+    ]
+}

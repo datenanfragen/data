@@ -1,0 +1,19 @@
+{
+    "slug": "rebuy",
+    "categories": [
+        "Handel"
+    ],
+    "name": "reBuy reCommerce GmbH",
+    "address": "Datenschutzbeauftragter Norman Bäuerle\nPotsdamer Straße 188\n10783 Berlin\nDeutschland",
+    "phone": "+49 30 565 995 822",
+    "fax": "+49 30 565 995 8333",
+    "email": "datenschutz@rebuy.com",
+    "web": "https://www.rebuy.de",
+    "sources": [
+        "https://www.rebuy.de/s/datenschutz",
+        "https://www.rebuy.de/s/impressum"
+    ],
+    "comments": [
+        "Logistik und Kundenservice werden betrieben von reBuy reCommerce GmbH & Co.KG, Kanalstr. 139, 12357 Berlin, Deutschland."
+    ]
+}

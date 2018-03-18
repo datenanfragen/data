@@ -1,0 +1,16 @@
+{
+    "slug": "zalando",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Zalando SE",
+    "address": "Tamara-Danz-Straße 1\n10243 Berlin\nDeutschland",
+    "phone": "+49 800 33 00 900",
+    "fax": "+49 30 2759 46 93",
+    "email": "datenschutz@zalando.de",
+    "web": "https://www.zalando.de/",
+    "sources": [
+        "https://www.zalando.de/zalando-datenschutz/",
+        "https://www.zalando.de/zalando-impressum/"
+    ]
+}

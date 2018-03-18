@@ -1,0 +1,17 @@
+{
+    "slug": "otto-handel",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Otto GmbH & Co KG",
+    "address": "Datenschutzbeauftragter\nWerner-Otto-Straße 1 – 7\n22179 Hamburg\nDeutschland",
+    "phone": "+49 40 64 61 0",
+    "fax": "+49 40 64 61 85 71",
+    "email": "service@otto.de",
+    "web": "https://www.otto.de/",
+    "sources": [
+        "https://www.otto.de/shoppages/service/about/datenschutzinformation/aboutprivacyproceduraldirectory",
+        "https://www.otto.de/shoppages/service/about/datenschutzinformation/aboutprivacyneedtoknow",
+        "https://www.otto.de/shoppages/service/impressum"
+    ]
+}

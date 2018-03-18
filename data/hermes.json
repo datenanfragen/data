@@ -1,0 +1,29 @@
+{
+    "slug": "hermes",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Hermes Germany GmbH",
+    "address": "Datenschutzbeauftragter\nEssener Straße 89\n22419 Hamburg\nDeutschland",
+    "phone": "+49 40 53755 0",
+    "fax": "+49 40 53754 870",
+    "email": "datenschutz@hermesworld.com",
+    "web": "https://www.myhermes.de/",
+    "sources": [
+        "https://www.myhermes.de/datenschutz/",
+        "https://www.myhermes.de/impressum/"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "comments": [
+        "Erbitten datenschutzspezifische Anfragen per E-Mail zur schnelleren Bearbeitung."
+    ]
+}

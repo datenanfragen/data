@@ -1,0 +1,15 @@
+{
+    "slug": "tchibo",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Tchibo GmbH",
+    "address": "Der Datenschutzbeauftragte\nÜberseering 18\n22297 Hamburg\nDeutschland",
+    "phone": "+49 40 63 87 0",
+    "email": "service@tchibo.de",
+    "web": "https://www.tchibo.de/",
+    "sources": [
+        "https://www.tchibo.de/datenschutz-s400007324.html",
+        "https://www.tchibo.de/impressum-bei-tchibo-c400001300.html"
+    ]
+}

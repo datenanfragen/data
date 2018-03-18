@@ -1,0 +1,23 @@
+{
+    "slug": "saturn-shop",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Saturn online GmbH",
+    "runs": [
+        "Saturn Card"
+    ],
+    "address": "Wankelstraße 5\n85046 Ingolstadt\nDeutschland",
+    "phone": "+49 221 22 243 123",
+    "fax": "+49 841 634 99 1835",
+    "email": "datenschutz@saturn.de",
+    "web": "http://www.saturn.de/",
+    "sources": [
+        "http://www.saturn.de/?langId=-3&layer=privacy",
+        "http://www.saturn.de/?layer=legalnotice",
+        "https://hilfe.saturn.de/app/answers/detail/a_id/5025/~/kundenservice-saturn"
+    ],
+    "comments": [
+        "Verantwortliche Stelle für Saturn Card laut Datenschutzerklärung ist die redblue services GmbH, Helene-Wessel-Bogen 3, 80939 München, Deutschland, aber mit gleicher E-Mail-Adresse."
+    ]
+}

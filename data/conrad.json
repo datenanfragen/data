@@ -1,0 +1,19 @@
+{
+    "slug": "conrad",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Conrad Electronic SE",
+    "address": "Datenschutzbeauftragter\nChristian Volkmer\nKlaus-Conrad-Straße 1\n92240 Hirschau\nDeutschland",
+    "phone": "+49 9604 40 87 87",
+    "fax": "+49 9604 40 88 00",
+    "email": "datenschutz@conrad.de",
+    "web": "https://www.conrad.de/",
+    "sources": [
+        "https://www.conrad.de/de/ueber-conrad/rechtliches/datenschutz.html",
+        "https://www.conrad.de/de/ueber-conrad/rechtliches/impressum.html"
+    ],
+    "comments": [
+        "Faxnummer laut Datenschutzerklärung: +49 180 5 312110 (0,14 €/Min. inkl. MwSt. aus dem Festnetz). Alternative Nummer übernommen von https://www.0180.info/suche.html?s=01805312110"
+    ]
+}

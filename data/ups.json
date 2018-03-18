@@ -1,0 +1,25 @@
+{
+    "slug": "ups",
+    "categories": [
+        "Handel"
+    ],
+    "name": "United Parcel Service Deutschland S.à r.l. & Co. OHG",
+    "runs": [
+        "UPS Paketdienst",
+        "UPS My Choice"
+    ],
+    "address": "Görlitzer Straße 1\n41460 Neuss\nDeutschland",
+    "phone": "+49 2131 15 43 59",
+    "fax": "+49 2131 94 72 222",
+    "email": "custsvcdede@ups.com",
+    "web": "https://www.ups.com",
+    "sources": [
+        "https://www.ups.com/de/de/help-center/legal-terms-conditions/privacy-notice.page?",
+        "https://www.ups.com/de/de/help-center/contact.page",
+        "https://kundendienst-info.de/ups-service/"
+    ],
+    "comments": [
+        "Verantwortliche Stelle laut Datenschutzerklärung: UPS Europe SA, Global Privacy Manager, Ave Ariane 5, Brüssel, B-1200, Belgien.",
+        "Telefonnummer laut Impressum: 01806 882 663 (20 Cent / Anruf aus dem dt. Festnetz; Mobilfunk max. 60 Cent / Anruf). Alternative Nummer übernommen von https://www.0180.info/suche.html?s=01806882663"
+    ]
+}

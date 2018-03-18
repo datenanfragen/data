@@ -1,0 +1,15 @@
+{
+    "slug": "mediamarkt",
+    "categories": [
+        "Handel"
+    ],
+    "name": "MediaMarkt E-Business GmbH",
+    "address": "Wankelstraße 5\n85046 Ingolstadt\nDeutschland",
+    "phone": "+49 221 22243 333",
+    "email": "datenschutz@mediamarkt.de",
+    "web": "https://www.mediamarkt.de/",
+    "sources": [
+        "https://www.mediamarkt.de/de/shop/Datenschutzerklaerung.html",
+        "https://www.mediamarkt.de/de/shop/Impressum-Mediamarkt.html"
+    ]
+}

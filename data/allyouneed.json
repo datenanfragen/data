@@ -1,0 +1,22 @@
+{
+    "slug": "allyouneed",
+    "categories": [
+        "Handel"
+    ],
+    "name": "All you need GmbH",
+    "runs": [
+        "Allyouneed Marketplatz",
+        "AllyouneedFresh (allyouneedfresh.de)"
+    ],
+    "address": "Herrn Jens Drubel\nFriedrichstraße 210\n10969 Berlin\nDeutschland",
+    "phone": "+49 30 609 840 40",
+    "email": "datenschutz@allyouneedfresh.de",
+    "web": "https://de.allyouneed.com",
+    "sources": [
+        "https://www.allyouneedfresh.de/kundenservice/datenschutz",
+        "https://www.allyouneedfresh.de/kundenservice/impressum"
+    ],
+    "comments": [
+        "Auf der Webseite von Allyouneed wird die DHL Paket GmbH als Betreiber angeben."
+    ]
+}

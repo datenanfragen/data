@@ -1,0 +1,16 @@
+{
+    "slug": "audible",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Audible GmbH",
+    "address": "Schumannstraße 6\n10117 Berlin\nDeutschland",
+    "phone": "+49 800 58900 73",
+    "fax": "+49 30 310 191 488",
+    "email": "impressum@audible.de",
+    "web": "https://www.audible.de",
+    "sources": [
+        "https://www.audible.de/legal-terms/privacy-policy?moduleId=201648650",
+        "https://www.audible.de/mt/impressum"
+    ]
+}

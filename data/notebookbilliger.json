@@ -1,0 +1,38 @@
+{
+    "slug": "notebookbilliger",
+    "categories": [
+        "Handel"
+    ],
+    "name": "notebooksbilliger.de AG",
+    "runs": [
+        "www.nullprozentshop.de",
+        "www.raubtierbrause.de"
+    ],
+    "address": "Wiedemannstraße 3\n31157 Sarstedt\nDeutschland",
+    "phone": "+49 30 398202100",
+    "fax": "+49 331 73099119",
+    "email": "service@notebooksbilliger.de",
+    "web": "https://www.notebooksbilliger.de/",
+    "sources": [
+        "https://www.notebooksbilliger.de/infocenter/section/privacy",
+        "https://www.notebooksbilliger.de/infocenter/section/impressum",
+        "http://www.nullprozentshop.de/datenschutzerklaerung/",
+        "http://www.raubtierbrause.de/datenschutzerklaerung/",
+        "https://support.notebooksbilliger.de/hc/de/articles/213043449-Wie-kann-ich-notebooksbilliger-de-kontaktieren-Kontakt-",
+        "https://support.notebooksbilliger.de/hc/de/articles/211861809-Wie-kann-ich-Sie-telefonisch-erreichen-"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}

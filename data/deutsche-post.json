@@ -1,0 +1,26 @@
+{
+    "slug": "deutsche-post",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Deutsche Post AG",
+    "runs": [
+        "Efiliale (efiliale.de)",
+        "Shop der Deutschen Post (shop.deutschepost.de)",
+        "E-Post (epost.de)",
+        "DHL (dhl.de)",
+        "DHL Express"
+    ],
+    "address": "Datenschutzbeauftragte\nGabriela Krader, LL.M\n53250 Bonn\nDeutschland",
+    "phone": "+49 228 182 0",
+    "fax": "+49 228 182 7099",
+    "email": "service-shop@deutschepost.de",
+    "web": "https://www.deutschepost.de",
+    "sources": [
+        "https://shop.deutschepost.de/shop/infocenter/datenschutz.jsp",
+        "https://www.deutschepost.de/de/f/footer/impressum.html",
+        "https://www.dhl.de/de/toolbar/footer/datenschutz.html",
+        "https://www.dhl.de/de/toolbar/footer/impressum/vertragspartner-impressum.html",
+        "http://www.dpdhl.com/reports/2010/zwischenbericht-q3/files/pdf/5.pdf"
+    ]
+}
