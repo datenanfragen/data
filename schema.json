@@ -76,7 +76,7 @@
 						"title": "Type",
 						"required": true,
 						"default": "input",
-						"enum": [ "input", "textarea", "address" ]
+						"enum": [ "input", "textarea", "address", "name" ]
 					},
 					"optional": {
 						"type": "boolean",
@@ -102,7 +102,7 @@
 						"title": "Type",
 						"required": true,
 						"default": "input",
-						"enum": [ "input", "textarea", "address" ]
+						"enum": [ "input", "textarea", "address", "name" ]
 					},
 					"optional": {
 						"type": "boolean",

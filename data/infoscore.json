@@ -15,18 +15,15 @@
     "required-elements-access": [
         {
             "desc": "Name",
-            "type": "input",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Geburtsdatum",
-            "type": "input",
-            "optional": false
+            "type": "input"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
     "comments": [

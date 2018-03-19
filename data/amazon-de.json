@@ -24,7 +24,7 @@
     "required-elements-access": [
         {
             "desc": "Name",
-            "type": "input"
+            "type": "name"
         },
         {
             "desc": "Geburtsdatum",
