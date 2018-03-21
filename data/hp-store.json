@@ -1,0 +1,22 @@
+{
+    "slug": "hp-store",
+    "categories": [
+        "Handel"
+    ],
+    "name": "HP Deutschland GmbH",
+    "runs": [
+        "HP Instant Ink",
+        "HP Connected",
+        "Hewlett Packard"
+    ],
+    "address": "Schickardstraße 32\n71034 Böblingen\nDeutschland",
+    "phone": "+49 7031 450 7000",
+    "email": "firmen.kunden@hp.com",
+    "web": "http://store.hp.com/GermanyStore/Merch/Default.aspx?v=mar1",
+    "sources": [
+        "http://www8.hp.com/de/de/privacy/privacy.html"
+    ],
+    "comments": [
+        "Ansprechpartner laut Datenschutzerklärung: HP France SAS, Global Legal Affairs, ATTN: Privacy Office, 20 Quai du Point-du-Jour, 7th Floor (Seine) C.P. 92100, Boulogne-Billancourt, France."
+    ]
+}

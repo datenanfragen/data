@@ -4,6 +4,9 @@
         "Handel"
     ],
     "name": "Zalando SE",
+    "runs": [
+        "Zalando Lounge (www.zalando-lounge.de)"
+    ],
     "address": "Tamara-Danz-Straße 1\n10243 Berlin\nDeutschland",
     "phone": "+49 800 33 00 900",
     "fax": "+49 30 2759 46 93",
@@ -11,6 +14,7 @@
     "web": "https://www.zalando.de/",
     "sources": [
         "https://www.zalando.de/zalando-datenschutz/",
-        "https://www.zalando.de/zalando-impressum/"
+        "https://www.zalando.de/zalando-impressum/",
+        "https://www.zalando-lounge.de/privacy"
     ]
 }

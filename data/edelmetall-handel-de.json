@@ -1,0 +1,19 @@
+{
+    "slug": "edelmetall-handel-de",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Edelmetall-Service GmbH & Co. KG.",
+    "runs": [
+        "ESG Edelmetalle"
+    ],
+    "address": "Gewerbering 29b\n76287 Rheinstetten\nDeutschland",
+    "phone": "+49 7242 95351 11",
+    "fax": "+49 7242 95351 29",
+    "email": "shop@edelmetall-handel.de",
+    "web": "http://www.edelmetall-handel.de/",
+    "sources": [
+        "http://www.edelmetall-handel.de/datenschutz/",
+        "http://www.edelmetall-handel.de/impressum/"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "slug": "reuter-shop",
+    "categories": [
+        "Handel"
+    ],
+    "name": "reuter europe GmbH",
+    "address": "Datenschutz\nTextilstraße 2\n41751 Viersen\nDeutschland",
+    "phone": "+49 2161 9020 0",
+    "fax": "+49 2161 9020 297",
+    "email": "info@reuter.de",
+    "web": "https://www.reuter.de/",
+    "sources": [
+        "https://www.reuter.de/rechtliches/datenschutz.html",
+        "https://www.reuter.de/rechtliches/impressum.html"
+    ],
+    "comments": [
+        "Externer Datenschutzbeauftragter: Herr Olaf C. Nilgens, Streitz Consult GmbH, Pingsdorfer Straße 54, 50321 Brühl, Deutschland.\nE-Mail: nilgens@streitz-consult.de ",
+        "Betreiber laut Impressum ist die reuter onlineshop GmbH an gleicher Adresse."
+    ]
+}

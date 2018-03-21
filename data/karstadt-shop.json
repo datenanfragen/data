@@ -1,0 +1,19 @@
+{
+    "slug": "karstadt-shop",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Karstadt Warenhaus GmbH",
+    "runs": [
+        "Karstadt Kundenkarte"
+    ],
+    "address": "Datenschutzbeauftragter\nTheodor-Althoff-Straße 2\n45133 Essen\nDeutschland",
+    "phone": "+49 6103 313 4444",
+    "fax": "+49 6102 2082 5005",
+    "email": "datenschutz@karstadt.de",
+    "web": "http://www.karstadt.de/",
+    "sources": [
+        "https://www.karstadt.de/privacy.html",
+        "https://www.karstadt.de/legal.html"
+    ]
+}

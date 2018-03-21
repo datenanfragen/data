@@ -1,0 +1,16 @@
+{
+    "slug": "auragentum",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Auragentum GmbH",
+    "address": "Datenschutzbeauftragter Markus Schwaiger\nAm Kletthamer Feld 13a\n85435 Erding\nDeutschland",
+    "phone": "+49 8122 94 54 6 0",
+    "fax": "+49 8122 94 54 6 100",
+    "email": "info@auragentum.de",
+    "web": "https://auragentum.de/",
+    "sources": [
+        "https://auragentum.de/datenschutz",
+        "https://auragentum.de/impressum"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "slug": "weltbild",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Weltbild GmbH & Co. KG",
+    "address": "Werner-von-Siemens-Straße 1\n86159 Augsburg\nDeutschland",
+    "email": "datenschutz@weltbild.com",
+    "web": "https://www.weltbild.de/",
+    "sources": [
+        "https://www.weltbild.de/service/datenschutz",
+        "https://www.weltbild.de/service/impressum"
+    ],
+    "required-elements-access": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}

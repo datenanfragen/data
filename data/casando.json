@@ -1,0 +1,19 @@
+{
+    "slug": "casando",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Holz-Richter GmbH",
+    "runs": [
+        "Online-Baumarkt casando (www.casando.de)"
+    ],
+    "address": "Herrn Marcel Baldsiefen\nIndustriepark Klause\nSchmiedeweg 1\n51789 Lindlar\nDeutschland",
+    "phone": "+49 22 66 47 35 610",
+    "fax": "+49 22 66 47 35 869",
+    "email": "info@casando.de",
+    "web": "https://www.casando.de/",
+    "sources": [
+        "https://www.casando.de/info/datenschutz/",
+        "https://www.casando.de/info/impressum/"
+    ]
+}

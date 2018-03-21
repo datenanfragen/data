@@ -1,0 +1,15 @@
+{
+    "slug": "comtech",
+    "categories": [
+        "Handel"
+    ],
+    "name": "comtech GmbH",
+    "address": "Talstraße 13\n71546 Aspach\nDeutschland",
+    "phone": "+49 7191 890 9999",
+    "email": "shop@comtech.de",
+    "web": "https://www.comtech.de/",
+    "sources": [
+        "https://www.comtech.de/datenschutz",
+        "https://www.comtech.de/impressum"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "slug": "brands4friends",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Private Sale GmbH",
+    "runs": [
+        "www.brands4friends.de"
+    ],
+    "address": "Datenschutzanfragen\nKommandantenstraße 22\n10969 Berlin\nDeutschland",
+    "phone": "+49 0800 51 000 52",
+    "email": "service@brands4friends.de",
+    "web": "https://www.brands4friends.de/",
+    "sources": [
+        "https://www.brands4friends.de/webshop/about/privacy",
+        "https://www.brands4friends.de/webshop/about/imprint"
+    ]
+}

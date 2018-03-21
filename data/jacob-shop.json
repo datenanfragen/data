@@ -1,0 +1,19 @@
+{
+    "slug": "jacob-shop",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Jacob Elektronik GmbH",
+    "address": "An der Rossweid 5\n76229 Karlsruhe\nDeutschland",
+    "phone": "+49 721 94176 0",
+    "fax": "+49 721 94176 191",
+    "email": "info@jacob.de",
+    "web": "https://www.jacob.de/",
+    "sources": [
+        "https://www.jacob.de/datenschutz.html",
+        "https://www.jacob.de/impressum.html"
+    ],
+    "comments": [
+        "Externer Datenschutzbeauftragter: xDSB, Herr Michael Bätzler, Greschbachstrasse 6a, 76229 Karlsruhe, Deutschland.\nE-Mail: info@xdsb.de, Telefon: 0721/828030"
+    ]
+}

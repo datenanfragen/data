@@ -1,0 +1,23 @@
+{
+    "slug": "witt-weiden",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Josef WITT GmbH",
+    "runs": [
+        "WITT WEIDEN (www.witt-weiden.de)"
+    ],
+    "address": "Datenschutzbeauftragter\nSchillerstraße 4 – 12\n92637 Weiden\nDeutschland",
+    "phone": "+49 961 400 5000",
+    "fax": "+49 961 400 1198",
+    "email": "kundenservice@witt-weiden.de",
+    "web": "https://www.witt-weiden.de/",
+    "sources": [
+        "https://www.witt-weiden.de/_/viewname/vt__vt_verfahrensverzeichnis/showstatic.html",
+        "https://www.witt-weiden.de/_/viewname/vt__vt_impressum/showstatic.html"
+    ],
+    "comments": [
+        "Telefonnummer laut Impressum eigentlich 01805-21 21 00 (Anrufkosten: 0,14 Euro/Minute Festnetz/Mobilfunk max. 0,42 Euro/Minute). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01805212100",
+        "Faxnummer laut Impressum eigentlich 01805-21 21 01 (Anrufkosten: 0,14 Euro/Minute Festnetz/Mobilfunk max. 0,42 Euro/Minute). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01805212101"
+    ]
+}

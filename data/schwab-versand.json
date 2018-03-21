@@ -1,0 +1,21 @@
+{
+    "slug": "schwab-versand",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Schwab Versand GmbH",
+    "runs": [
+        "Schwab VIP",
+        "sheego – Mode in großen Größen (www.sheego.de)"
+    ],
+    "address": "Betrieblicher Datenschutzbeauftragter Jörg Franke\nKinzigheimer Weg 6\n63450 Hanau\nDeutschland",
+    "phone": "+49 6181 368 0",
+    "fax": "+49 6181 368 707 229",
+    "email": "dsb@schwab.de",
+    "web": "https://www.schwab.de/",
+    "sources": [
+        "https://www.schwab.de/service/datenschutz/verfahrensverzeichnis/",
+        "https://www.schwab.de/service/impressum/",
+        "https://www.sheego.de/service/datenschutz/oeffentliches-verfahrensverzeichnis/"
+    ]
+}

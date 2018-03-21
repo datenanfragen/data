@@ -1,0 +1,20 @@
+{
+    "slug": "sanicare",
+    "categories": [
+        "Handel"
+    ],
+    "name": "BS-Apotheken OHG",
+    "runs": [
+        "Sanicare-Apotheke (www.sanicare.de)"
+    ],
+    "address": "Datenschutzbeauftragter Marko Leibe \nGrüner Weg 1\n49196 Bad Laer\nDeutschland",
+    "phone": "+49 5424 801 0",
+    "fax": "+49 5424 801 109",
+    "email": "service@sanicare.de",
+    "web": "https://www.sanicare.de/",
+    "sources": [
+        "https://www.sanicare.de/datenschutz",
+        "https://www.sanicare.de/images/generic_attachments/attachments/sanicare/Oeffentliches_Verfahrensverzeichnis_V5.pdf",
+        "https://www.sanicare.de/impressum"
+    ]
+}

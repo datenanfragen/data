@@ -1,0 +1,16 @@
+{
+    "slug": "pearl-shop",
+    "categories": [
+        "Handel"
+    ],
+    "name": "PEARL.GmbH",
+    "address": "Der Datenschutzbeauftragte\nPEARL-Straße 1 – 3\n79426 Buggingen\nDeutschland",
+    "phone": "+49 7631 360 0",
+    "fax": "+49 7631 360 444",
+    "email": "ds@pearl.de",
+    "web": "https://www.pearl.de/",
+    "sources": [
+        "https://www.pearl.de/infos/datenschutz.htm",
+        "https://www.pearl.de/infos/default.htm"
+    ]
+}

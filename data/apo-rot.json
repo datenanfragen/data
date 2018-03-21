@@ -1,0 +1,19 @@
+{
+    "slug": "apo-rot",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Apotheke am Rothenbaum Birgit Dumke e.K.",
+    "runs": [
+        "apo-rot Versandapotheke (www.apo-rot.de)"
+    ],
+    "address": "Rothenbaumchaussee 76\n20148 Hamburg\nDeutschland",
+    "phone": "+49 40 533089 0",
+    "fax": "+49 40 533089 139",
+    "email": "info@apo-rot.de",
+    "web": "https://www.apo-rot.de/",
+    "sources": [
+        "https://www.apo-rot.de/index_datenschutz.html",
+        "https://www.apo-rot.de/index_impressum.html"
+    ]
+}

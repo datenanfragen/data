@@ -1,0 +1,35 @@
+{
+    "slug": "delticom",
+    "categories": [
+        "Handel"
+    ],
+    "name": "Delticom AG",
+    "runs": [
+        "Reifen-Online-Shop ReifenDirekt.de",
+        "Motorradreifen-Online-Shop MotorradreifenDirekt.de",
+        "Autoteile-Online-Shop Autoteile-Meile.de",
+        "Katalysatoren-Online-Shop Katdirekt.de",
+        "Motoröl-Online-Shop Motoroel-direkt.de",
+        "Reifen-Testportal Reifentest.com",
+        "Schneeketten-Online-Shop Schneeketten-24.de",
+        "Sportfahrwerk.biz",
+        "Kompletträder-Online-Shop Komplettraeder24.de"
+    ],
+    "address": "Brühlstraße 11\n30169 Hannover\nDeutschland",
+    "phone": "+49 511 9363 4960",
+    "fax": "+49 511 8798 9071",
+    "email": "datenschutz@delti.com",
+    "web": "https://www.delti.com/",
+    "sources": [
+        "https://www.reifendirekt.de/datenschutz.html",
+        "https://www.motorradreifendirekt.de/i/datenschutz",
+        "https://www.autoteile-meile.de/datenschutz",
+        "https://www.katdirekt.de/datenschutz.html",
+        "https://www.motoroel-direkt.de/datenschutz.html",
+        "http://www.reifentest.com/wir.html",
+        "https://www.schneeketten-24.de/datenschutz.html",
+        "https://www.sportfahrwerk.biz/datenschutz.html",
+        "https://www.komplettraeder24.de/datenschutz.html",
+        "https://www.reifendirekt.de/Impressum.html"
+    ]
+}

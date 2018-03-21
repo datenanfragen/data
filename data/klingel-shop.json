@@ -1,0 +1,24 @@
+{
+    "slug": "klingel-shop",
+    "categories": [
+        "Handel"
+    ],
+    "name": "K - Mail Order GmbH & Co. KG",
+    "runs": [
+        "Versandhaus KLiNGEL (www.klingel.de)"
+    ],
+    "address": "Datenschutzbeauftragter\nSachsenstraße 23\n75177 Pforzheim\nDeutschland",
+    "phone": "+49 7231 900",
+    "fax": "+49 7231 30567",
+    "email": "datenschutz@klingel.de",
+    "web": "https://www.klingel.de/",
+    "sources": [
+        "https://www.klingel.de/datenschutz-und-datensicherheit/",
+        "https://www.klingel.de/impressum/",
+        "https://www.klingel.de/ContactFormView?catalogId=100000&langId=-3&name=Service&pageNodeId=18241&storeId=100004"
+    ],
+    "comments": [
+        "Telefonnummer eigentlich +49 180 53 200 (14 Cent/Minute inkl. MwSt. aus dem deutschen Festnetz. Mobilfunkhöchstpreis: 42 Cent/Minute\ninkl. MwSt.). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=018053200",
+        "Faxnummer eigentlich +49 180 530 56 70 (14 Cent/Minute inkl. MwSt. aus dem deutschen Festnetz. Mobilfunkhöchstpreis: 42 Cent/Minute\ninkl. MwSt.). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01805305670"
+    ]
+}
