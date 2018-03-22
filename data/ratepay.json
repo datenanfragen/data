@@ -1,0 +1,16 @@
+{
+    "slug": "ratepay",
+    "categories": [
+        "Bank"
+    ],
+    "name": "RatePAY GmbH",
+    "address": "Franklinstraße 28 – 29\n10587 Berlin\nDeutschland",
+    "phone": "+49 30 339 88 56 0",
+    "fax": "+49 30 339 88 56 10",
+    "email": "info@ratepay.com",
+    "web": "https://www.ratepay.com",
+    "sources": [
+        "https://www.ratepay.com/zusaetzliche-geschaeftsbedingungen-und-datenschutzhinweis-dach/#dse_de",
+        "https://www.ratepay.com/impressum/"
+    ]
+}
