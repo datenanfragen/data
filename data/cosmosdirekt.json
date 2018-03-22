@@ -4,6 +4,11 @@
         "Versicherung"
     ],
     "name": "CosmosDirekt",
+    "runs": [
+        "Cosmos Lebensversicherungs-AG",
+        "Cosmos Versicherung AG",
+        "Cosmos Finanzservice GmbH"
+    ],
     "address": "Betrieblicher Datenschutzbeauftragter\n66101 Saarbrücken",
     "phone": "+49 681 9 66 66 66",
     "fax": "+49 681 9 66 66 33",

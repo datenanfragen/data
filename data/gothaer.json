@@ -1,0 +1,23 @@
+{
+    "slug": "gothaer",
+    "categories": [
+        "Versicherung"
+    ],
+    "name": "Gothaer Versicherungsbank VVaG",
+    "runs": [
+        "Gothaer Krankenversicherung AG",
+        "Gothaer Lebensversicherung AG",
+        "Gothaer Allgemeine Versicherung AG",
+        "Gothaer Versicherungsbank VVaG",
+        "Gothaer Pensionskasse AG"
+    ],
+    "address": "Konzernbeauftragter für den Datenschutz\nThomas Müller\nGothaer Allee 1\n50969 Köln\nDeutschland",
+    "phone": "+49 221 308 00",
+    "fax": "+49 221 308 103",
+    "email": "datenschutz@gothaer.de",
+    "web": "https://www.gothaer.de/",
+    "sources": [
+        "https://www.gothaer.de/ueber-uns/rechtliche-informationen/datenschutz/",
+        "https://www.gothaer.de/ueber-uns/rechtliche-informationen/impressum/"
+    ]
+}

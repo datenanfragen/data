@@ -1,0 +1,44 @@
+{
+    "slug": "talanx",
+    "categories": [
+        "Versicherung"
+    ],
+    "name": "Talanx AG",
+    "runs": [
+        "HDI Versicherung AG",
+        "HDI Lebensversicherung AG",
+        "HDI Vertriebs AG",
+        "HDI Global SE",
+        "Ampega Investment GmbH",
+        "HDI Pensionsfonds AG",
+        "HDI Pensionskasse AG",
+        "ROLAND Rechtsschutz-Versicherungs-AG",
+        "Lifestyle Protection AG",
+        "Lifestyle Protection Lebensversicherung AG",
+        "neue leben Lebensversicherung AG",
+        "neue leben Unfallversicherung AG",
+        "neue leben Pensionskasse AG",
+        "neue leben Pensionsverwaltung AG",
+        "Postbank Lebensversicherung AG",
+        "Postbank Versicherung AG ",
+        "TARGO Lebensversicherung AG",
+        "TARGO Versicherung AG"
+    ],
+    "address": "Group Data Protection\nRiethorst 2\n30659 Hannover\nDeutschland",
+    "phone": "+49 511 3747 0",
+    "fax": "+49 511 3747 2525",
+    "email": "privacy@talanx.com",
+    "web": "http://www.talanx.com/",
+    "sources": [
+        "http://www.talanx.com/site-services/datenschutz.aspx?sc_lang=de-DE",
+        "http://www.talanx.com/site-services/impressum.aspx?sc_lang=de-DE",
+        "https://www.hdi.de/privatkunden/datenschutz",
+        "http://www.lifestyle-protection.net/Datenschutz.html",
+        "http://www.neue-leben.de/html/2711.php",
+        "http://www.pb-versicherung.de/pb-versicherung/datenschutz_allgemeines.html",
+        "https://www.targoversicherung.de/html/Datenschutz.html"
+    ],
+    "comments": [
+        "Die einzelnen genannten Versicherungen sind separate Unternehmen, für den Datenschutz ist laut den verschiedenen Datenschutzerklärungen aber immer die Talanx AG verantwortlich."
+    ]
+}

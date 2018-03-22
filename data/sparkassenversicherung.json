@@ -1,0 +1,22 @@
+{
+    "slug": "sparkassenversicherung",
+    "categories": [
+        "Versicherung"
+    ],
+    "name": "SV SparkassenVersicherung",
+    "runs": [
+        "SV SparkassenVersicherung Holding AG",
+        "SV SparkassenVersicherung Gebäudeversicherung AG",
+        "SV SparkassenVersicherung Lebensversicherung AG"
+    ],
+    "address": "Datenschutzbeauftragter\nLöwentorstraße 65\n70376 Stuttgart\nDeutschland",
+    "phone": "+49 711 898 100",
+    "fax": "+49 711 898 109",
+    "email": "datenschutz@sparkassenversicherung.de",
+    "web": "https://www.sparkassenversicherung.de",
+    "sources": [
+        "https://www.sparkassenversicherung.de/content/privatkunden/datenschutz/",
+        "https://www.sparkassenversicherung.de/export/sites/svag/_resources/download_galerien/die_sv/datenschutz/21-092-0518-04.pdf",
+        "https://www.sparkassenversicherung.de/content/privatkunden/impressum/"
+    ]
+}

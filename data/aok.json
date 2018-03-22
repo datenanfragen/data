@@ -1,0 +1,16 @@
+{
+    "slug": "aok",
+    "categories": [
+        "Versicherung"
+    ],
+    "name": "AOK-Bundesverband GbR",
+    "address": "Datenschutzbeauftragte(r)\nRosenthaler Straße 31\n10178 Berlin\nDeutschland",
+    "phone": "+49 30 346 46 0",
+    "fax": "+49 30 346 46 2502",
+    "email": "datenschutz@bv.aok.de",
+    "web": "https://www.aok.de/",
+    "sources": [
+        "https://www.aok.de/inhalt/informationen-zur-datenverarbeitung/",
+        "https://www.aok.de/inhalt/impressum-6/"
+    ]
+}

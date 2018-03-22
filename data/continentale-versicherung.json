@@ -1,0 +1,21 @@
+{
+    "slug": "continentale-versicherung",
+    "categories": [
+        "Versicherung"
+    ],
+    "name": "Continentale Versicherungsverbund",
+    "runs": [
+        "Continentale Krankenversicherung a.G.",
+        "Continentale Lebensversicherung AG",
+        "Continentale Sachversicherung AG"
+    ],
+    "address": "Datenschutzbeauftragter Herr Guido Wiedefeld\nRuhrallee 92 – 94\n44139 Dortmund\nDeutschland",
+    "phone": "+49 231 919 0",
+    "fax": "+49 231 919 2913",
+    "email": "datenschutz@continentale.de",
+    "web": "https://www.continentale.de",
+    "sources": [
+        "https://www.continentale.de/kontakt-datenschutz",
+        "https://www.continentale.de/impressum"
+    ]
+}

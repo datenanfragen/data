@@ -1,0 +1,28 @@
+{
+    "slug": "nuernberger-versicherung",
+    "categories": [
+        "Versicherung"
+    ],
+    "name": "NÜRNBERGER Versicherung",
+    "runs": [
+        "NÜRNBERGER Lebensversicherung AG",
+        "NÜRNBERGER Allgemeine Versicherungs-AG",
+        "NÜRNBERGER Krankenversicherung AG",
+        "NÜRNBERGER Beamten Lebensversicherung AG",
+        "NÜRNBERGER Beamten Allgemeine Versicherung AG",
+        "NÜRNBERGER Pensionsfonds AG",
+        "NÜRNBERGER Pensionskasse AG",
+        "GARANTA Versicherungs-AG",
+        "Neue Rechtsschutz-Versicherungsgesellschaft AG"
+    ],
+    "address": "Datenschutzbeauftragter\nOstendstraße 100\n90334 Nürnberg\nDeutschland",
+    "phone": "+49 911 531 3436",
+    "fax": "+49 911 531 3206",
+    "email": "datenschutzbeauftragter@nuernberger.de",
+    "web": "https://www.nuernberger.de",
+    "sources": [
+        "https://www.nuernberger.de/datenschutz/",
+        "https://www.nuernberger.de/medien/pdf/datenschutz/datenschutzhinweise-fuer-vn.pdf",
+        "https://www.nuernberger.de/impressum/"
+    ]
+}

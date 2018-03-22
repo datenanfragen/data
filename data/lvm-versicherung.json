@@ -1,0 +1,16 @@
+{
+    "slug": "lvm-versicherung",
+    "categories": [
+        "Versicherung"
+    ],
+    "name": "LVM Versicherung",
+    "address": "Konzerdatenschutzbeauftragter\nKolde-Ring 21\n48151 Münster\nDeutschland",
+    "phone": "+49 251 702 0",
+    "fax": "+49 251 702 1099",
+    "email": "datenschutz@lvm.de",
+    "web": "https://www.lvm.de",
+    "sources": [
+        "https://www.lvm.de/wps/portal/lvm/die-lvm/unternehmen/wir-als-versicherer/rechtliches/rechtliches-kundendaten-tab1",
+        "https://www.lvm.de/wps/portal/lvm/die-lvm/unternehmen/wir-als-versicherer/rechtliches/rechtliches-impressum"
+    ]
+}
