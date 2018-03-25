@@ -1,0 +1,20 @@
+{
+    "slug": "eprimo",
+    "categories": [
+        "Versorgung"
+    ],
+    "name": "eprimo GmbH",
+    "runs": [
+        "mein eprimo",
+        "eprimoShop"
+    ],
+    "address": "Datenschutz\nFlughafenstraße 20\n63263 Neu-Isenburg\nDeutschland",
+    "phone": "+49 69 76 70 0",
+    "fax": "+49 69 76 70 111",
+    "email": "datenschutz@eprimo.de",
+    "web": "https://www.eprimo.de/",
+    "sources": [
+        "https://www.eprimo.de/ueber-eprimo/datenschutzerklaerung",
+        "https://www.eprimo.de/ueber-eprimo/impressum"
+    ]
+}

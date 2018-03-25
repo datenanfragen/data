@@ -1,0 +1,21 @@
+{
+    "slug": "eon-energie",
+    "categories": [
+        "Versorgung"
+    ],
+    "name": "E.ON Energie Deutschland GmbH",
+    "runs": [
+        "Mein E.ON",
+        "SmartCheck",
+        "Mein E.ON App"
+    ],
+    "address": "Datenschutzbeauftragter\nBrüsseler Platz 1\n45131 Essen\nDeutschland",
+    "phone": "+49 871 95 38 62 00",
+    "fax": "+49 871 95 38 62 20",
+    "email": "edg-datenschutz@eon.com",
+    "web": "https://www.eon.de",
+    "sources": [
+        "https://www.eon.de/de/pk/datenschutz.html",
+        "https://www.eon.de/de/pk/impressum.html"
+    ]
+}

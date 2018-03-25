@@ -1,0 +1,24 @@
+{
+    "slug": "vattenfall",
+    "categories": [
+        "Versorgung"
+    ],
+    "name": "Vattenfall GmbH",
+    "runs": [
+        "Vattenfall Europe Sales GmbH",
+        "Vattenfall Wärme Berlin AG",
+        "Vattenfall Wärme Hamburg GmbH",
+        "Vattenfall Real Estate Energy Sales GmbH",
+        "Vattenfall Europe Innovation GmbH",
+        "Vattenfall Smarter Living GmbH",
+        "Mein Vattenfall"
+    ],
+    "address": "Datenschutzbeauftragter\nChausseestraße 23\n10115 Berlin\nDeutschland",
+    "phone": "+49 40 657 988 000",
+    "email": "datenschutz@vattenfall.de",
+    "web": "https://www.vattenfall.de/",
+    "sources": [
+        "https://www.vattenfall.de/de/datenschutz.htm",
+        "https://www.vattenfall.de/de/impressum.htm"
+    ]
+}

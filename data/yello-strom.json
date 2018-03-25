@@ -1,0 +1,22 @@
+{
+    "slug": "yello-strom",
+    "categories": [
+        "Versorgung"
+    ],
+    "name": "Yello Strom GmbH",
+    "runs": [
+        "Yello Solar GmbH",
+        "Solar Smart",
+        "Mein Yello",
+        "Yello Shop (yelloshop.de)"
+    ],
+    "address": "Andreas Fritz\nSiegburger Straße 229\n50679 Köln\nDeutschland",
+    "phone": "+49 221 996 90 100",
+    "fax": "+49 221 996 90 101",
+    "email": "datenschutz@yello.de",
+    "web": "https://www.yello.de/",
+    "sources": [
+        "https://www.yello.de/privatkunden/datenschutz",
+        "https://www.yello.de/privatkunden/impressum"
+    ]
+}
