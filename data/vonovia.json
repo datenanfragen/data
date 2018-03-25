@@ -1,0 +1,17 @@
+{
+    "slug": "vonovia",
+    "name": "Vonovia SE",
+    "runs": [
+        "Vonovia Kundenservice GmbH"
+    ],
+    "address": "Datenschutzbeauftragter\nPhilippstraße 3\n44803 Bochum\nDeutschland",
+    "phone": "+49 234 314 0",
+    "fax": "+49 234 314 888 4414",
+    "email": "dsb@vonovia.de",
+    "web": "https://www.vonovia.de/",
+    "sources": [
+        "https://www.vonovia.de/datenschutz",
+        "https://www.vonovia.de/kundenportal/datenschutz",
+        "https://www.vonovia.de/impressum"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "slug": "adler-real-estate",
+    "name": "ADLER Real Estate AG",
+    "address": "Joachimsthaler Straße 34\n10719 Berlin\nDeutschland",
+    "phone": "+49 30 398 018 10",
+    "fax": "+49 40 29 81 30 99",
+    "email": "info@adler-ag.com",
+    "web": "http://adler-ag.com/",
+    "sources": [
+        "http://adler-ag.com/impressum/"
+    ]
+}
