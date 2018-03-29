@@ -1,5 +1,8 @@
 {
     "slug": "deutsche-bahn",
+    "categories": [
+        "Reise"
+    ],
     "name": "DB Vertrieb GmbH",
     "runs": [
         "BahnCard",
