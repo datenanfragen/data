@@ -1,10 +1,8 @@
 Guten Tag,
 
 ich stelle hiermit Antrag auf unverzügliche Löschung mich betreffender personenbezogener Daten gemäß Art. 17 Abs 1 DSGVO.
-
-[erase_all>Bitte löschen Sie sämtliche mich betreffenden personenbezogenen Daten nach der Definition des Art. 4 Nr. DSGVO.]
-
-[erase_some>Bitte löschen Sie die folgenden mich betreffenden personenbezogenen Daten:
+[erase_all>
+Bitte löschen Sie sämtliche mich betreffenden personenbezogenen Daten nach der Definition des Art. 4 Nr. DSGVO.][erase_some>Bitte löschen Sie die folgenden mich betreffenden personenbezogenen Daten:
 {erasure_data}]
 
 Ich bin der Meinung, dass die Voraussetzungen des Art. 17 Abs. 1 DSGVO gegeben sind.
