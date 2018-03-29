@@ -1,7 +1,9 @@
 {
     "slug": "medpex",
     "categories": [
-        "Handel",
+        "Handel"
+    ],
+    "runs": [
         "medpex Versandapotheke (www.medpex.de)"
     ],
     "name": "Stifts-Apotheke Christiane Bülow-Bichler e.K.",
