@@ -1,0 +1,16 @@
+{
+    "slug": "wirecard",
+    "categories": [
+        "finance"
+    ],
+    "name": "Wirecard AG",
+    "address": "Einsteinring 35\n85609 Aschheim\nDeutschland",
+    "phone": "+49 89 44 24 14 00",
+    "fax": "+49 89 44 24 15 00",
+    "email": "data.privacy@wirecard.com",
+    "web": "https://www.wirecard.de/",
+    "sources": [
+        "https://www.wirecard.de/datenschutz/",
+        "https://www.wirecard.de/impressum/"
+    ]
+}
