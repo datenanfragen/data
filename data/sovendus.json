@@ -1,0 +1,16 @@
+{
+    "slug": "sovendus",
+    "categories": [
+        "ads"
+    ],
+    "name": "Sovendus GmbH",
+    "address": "Datenschutzbeauftragter\nMoltkestraße 11\n76133 Karlsruhe\nDeutschland",
+    "phone": "+49 721 957 846 0",
+    "fax": "+49 721 957 846 129",
+    "email": "datenschutz@sovendus.de",
+    "web": "https://www.sovendus.de",
+    "sources": [
+        "https://www.sovendus.de/de/datenschutz/",
+        "https://www.sovendus.de/de/impressum/"
+    ]
+}
