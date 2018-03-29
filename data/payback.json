@@ -1,0 +1,27 @@
+{
+    "slug": "payback",
+    "categories": [
+        "ads",
+        "commerce",
+        "finance"
+    ],
+    "name": "PAYBACK GmbH",
+    "runs": [
+        "PAYBACK American Express-Karte",
+        "PAYBACK Internet Assistent",
+        "PAYBACK Partner Services",
+        "PAYBACK Prämienshop"
+    ],
+    "address": "Datenschutzbeauftragter\nTheresienhöhe 12\n80339 München\nDeutschland",
+    "phone": "+49 89 540 20 80 20",
+    "fax": "+49 180 510 511 0",
+    "email": "datenschutz@payback.de",
+    "web": "https://www.payback.de",
+    "sources": [
+        "https://www.payback.de/pb/id/252686/",
+        "https://www.payback.de/pb/impressum/id/1890/"
+    ],
+    "comments": [
+        "Achtung: Faxnummer ist kostenpflichtig (0,14 €/Min. aus dem deutschen Festnetz, max. 0,42 €/Min. aus dem Mobilfunknetz)!"
+    ]
+}
