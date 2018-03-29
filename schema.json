@@ -119,6 +119,10 @@
 			"type": "string",
 			"title": "Custom erasure template"
 		},
+		"needs-id-document": {
+			"type": "boolean",
+			"title": "Needs ID document?"
+		},
 		"comments": {
 			"type": "array",
 			"title": "Comments",
