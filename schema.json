@@ -12,7 +12,8 @@
 			"title": "Categories",
 			"uniqueItems": true,
 			"items": {
-				"type": "string"
+				"type": "string",
+				"enum": [ "addresses", "ads", "collection agency", "commerce", "credit agency", "finance", "insurance", "social media", "travel", "utility" ]
 			}
 		},
 		"name": {

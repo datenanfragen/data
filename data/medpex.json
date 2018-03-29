@@ -1,7 +1,7 @@
 {
     "slug": "medpex",
     "categories": [
-        "Handel"
+        "commerce"
     ],
     "runs": [
         "medpex Versandapotheke (www.medpex.de)"
