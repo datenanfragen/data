@@ -1,0 +1,27 @@
+{
+    "slug": "deutsche-messe",
+    "name": "Deutsche Messe AG",
+    "runs": [
+        "CEBIT (www.cebit.de)",
+        "CeAMT (www.cemat.de)",
+        "HANNOVER MESSE (www.hannovermesse.de)",
+        "DOMOTEX (www.domotex.de)",
+        "INTERSCHUTZ (www.interschutz.de)",
+        "LIGNA (www.ligna.de)"
+    ],
+    "address": "Datenschutzbeauftragter\nMessegelände\n30521 Hannover\nDeutschland",
+    "phone": "+49 511 89 0",
+    "fax": "+49 511 89 32626",
+    "email": "datenschutz@messe.de",
+    "web": "http://www.messe.de",
+    "sources": [
+        "http://www.messe.de/de/datenschutz/datenschutz.xhtml",
+        "http://www.messe.de/de/impressum/",
+        "https://www.cebit.de/de/deutsche-messe-ag/datenschutz",
+        "http://www.cemat.de/de/datenschutz/",
+        "http://www.hannovermesse.de/de/datenschutz/",
+        "http://www.domotex.de/de/datenschutz/",
+        "http://www.interschutz.de/de/datenschutz/",
+        "http://www.ligna.de/de/datenschutz/"
+    ]
+}
