@@ -1,0 +1,25 @@
+{
+    "slug": "deutschlandcard",
+    "categories": [
+        "ads",
+        "commerce"
+    ],
+    "name": "DeutschlandCard GmbH",
+    "runs": [
+        "DeutschlandCard App"
+    ],
+    "address": "c/o Bertelsmann SE & Co KGaA\nKonzerndatenschutz\nCarl-Bertelsmann-Straße 270\n33311 Gütersloh\nDeutschland",
+    "phone": "+49 89 411 411 51",
+    "email": "datenschutz@deutschlandcard.de",
+    "web": "https://www.deutschlandcard.de/",
+    "sources": [
+        "https://www.deutschlandcard.de/Datenschutz-201503",
+        "https://www.deutschlandcard.de/Datenschutz1",
+        "https://www.deutschlandcard.de/1918936/Datenschutz-in-unserer-DeutschlandCard-App",
+        "https://www.deutschlandcard.de/Impressum",
+        "https://www.deutschlandcard.de/Kontakt"
+    ],
+    "comments": [
+        "Die DeutschlandCard GmbH selbst sitzt: Neumarkter Straße 22, 81637 München, Deutschland."
+    ]
+}
