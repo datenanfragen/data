@@ -1,0 +1,21 @@
+{
+    "slug": "deutsche-bahn",
+    "name": "DB Vertrieb GmbH",
+    "runs": [
+        "BahnCard",
+        "bahn.bonus",
+        "Meine Bahn",
+        "DB Navigator"
+    ],
+    "address": "Datenschutzbeauftragte\nStephensonstraße 1\n60326 Frankfurt\nDeutschland",
+    "phone": "+49 180 6 99 66 33",
+    "email": "ecommerce-datenschutz@bahn.de",
+    "web": "https://www.bahn.de",
+    "sources": [
+        "https://www.bahn.de/p/view/home/datenschutz/schutz.shtml",
+        "https://www.bahn.de/p/view/home/info/impressum.shtml"
+    ],
+    "comments": [
+        "Achtung: Telefonnummer ist kostenpflichtig (20 ct/Anruf aus dem Festnetz, Tarif bei Mobilfunk max. 60 ct/Anruf)!"
+    ]
+}
