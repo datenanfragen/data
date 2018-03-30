@@ -1,0 +1,21 @@
+{
+    "slug": "eurowings",
+    "categories": [
+        "travel"
+    ],
+    "name": "Eurowings GmbH",
+    "runs": [
+        "Germanwings"
+    ],
+    "address": "Datenschutzbeauftragter\nGroßenbaumer Weg 6\n40472 Düsseldorf\nDeutschland",
+    "phone": "+49 2203 10270",
+    "email": "datenschutz@eurowings.com",
+    "web": "https://www.eurowings.com",
+    "sources": [
+        "https://www.eurowings.com/de/rechtliches/datenschutz.html",
+        "https://www.eurowings.com/de/rechtliches/impressum.html"
+    ],
+    "comments": [
+        "Telefonnummer eigentlich +49 180 6 320 320 (dt. Festnetz: 0,20 € pro Anruf – dt. Mobilfunknetz: max. 0,60 € pro Anruf). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01806320320"
+    ]
+}
