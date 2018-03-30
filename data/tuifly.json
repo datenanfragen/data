@@ -1,0 +1,20 @@
+{
+    "slug": "tuifly",
+    "categories": [
+        "travel"
+    ],
+    "name": "TUIfly Vermarktungs GmbH",
+    "runs": [
+        "TUI fly Flugportal"
+    ],
+    "address": "Karl-Wiechert-Allee 23\n30625 Hannover\nDeutschland",
+    "phone": "+49 511 2200 4700",
+    "email": "datenschutz@tuifly.com",
+    "web": "https://www.tuifly.com/",
+    "sources": [
+        "https://www.tuifly.com/de/service/bestimmungen_datenschutz.html"
+    ],
+    "comments": [
+        "Telefonnummer eigentlich +49 180 6000 120 (20 Cent pro Anruf aus dem deutschen Festnetz, Mobilfunk maximal 60 Cent pro Anruf). Alternative übernommen von: https://www.0180.info/suche.html?s=01806000120"
+    ]
+}
