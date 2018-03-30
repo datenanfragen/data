@@ -1,0 +1,20 @@
+{
+    "slug": "booking-com",
+    "categories": [
+        "travel"
+    ],
+    "name": "Booking.com B.V.",
+    "runs": [
+        "Booking.basic",
+        "Booking.com App"
+    ],
+    "address": "Herengracht 597\n1017 CE Amsterdam\nNiederlande",
+    "phone": "+31 70 770 3884",
+    "fax": "+31 20 712 5609",
+    "email": "kunden.service@booking.de",
+    "web": "https://www.booking.com",
+    "sources": [
+        "https://www.booking.com/content/privacy.de.html",
+        "https://www.booking.com/content/legal.de.html"
+    ]
+}
