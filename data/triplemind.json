@@ -1,0 +1,29 @@
+{
+    "slug": "triplemind",
+    "categories": [
+        "travel",
+        "insurance"
+    ],
+    "name": "Triplemind GmbH",
+    "runs": [
+        "TravelScout24 (www.travelscout24.de)",
+        "Reise.de (www.reise.de)",
+        "Unterkunft.de (www.unterkunft.de)",
+        "Mietwagen.info (www.mietwagen.info)",
+        "Billigweg.de (www.billigweg.de)"
+    ],
+    "address": "Berliner Strasse 2\n63065 Offenbach am Main\nDeutschland",
+    "phone": "+49 69 823 676 70",
+    "fax": "+49 69 823 676 54",
+    "email": "info@triplemind.com",
+    "web": "http://www.triplemind.com",
+    "sources": [
+        "https://www.travelscout24.de/datenschutz/",
+        "https://www.travelscout24.de/impressum/",
+        "https://www.reise.de/datenschutz/",
+        "https://www.unterkunft.de/company/",
+        "http://www.mietwagen.info/datenschutz/",
+        "https://www.billigweg.de/impressum/",
+        "http://www.triplemind.com/kontakt/"
+    ]
+}
