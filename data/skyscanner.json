@@ -1,0 +1,15 @@
+{
+    "slug": "skyscanner",
+    "categories": [
+        "travel"
+    ],
+    "name": "Skyscanner Ltd",
+    "address": "Chief Legal Officer\nQuartermile One\n15 Lauriston Place\nEdinburgh EH3 9EN\nUnited Kingdom",
+    "phone": "+44 131 252 5353",
+    "fax": "+44 131 252 5354",
+    "web": "https://www.skyscanner.de/",
+    "sources": [
+        "https://www.skyscanner.de/privacypolicy.aspx",
+        "https://www.skyscanner.de/companydetails.aspx"
+    ]
+}
