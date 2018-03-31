@@ -1,0 +1,16 @@
+{
+    "slug": "sixt",
+    "categories": [
+        "travel"
+    ],
+    "name": "Sixt GmbH & Co. Autovermietung KG",
+    "address": "Datenschutzbeauftragter\nZugspitzstraße 1\n82049 Pullach\nDeutschland",
+    "phone": "+49 89 7 44 44 0",
+    "fax": "+49 89 7 44 44 8 66 66",
+    "email": "datenschutz@sixt.de",
+    "web": "https://www.sixt.de/",
+    "sources": [
+        "https://www.sixt.de/informationen/datenschutz/",
+        "https://www.sixt.de/informationen/impressum/"
+    ]
+}
