@@ -1,0 +1,21 @@
+{
+    "slug": "hertz",
+    "categories": [
+        "travel"
+    ],
+    "name": "Hertz Autovermietung GmbH",
+    "runs": [
+        "Hertz Gold Plus Rewards",
+        "Hertz 24/7",
+        "Hertz NeverLost.com"
+    ],
+    "address": "Ludwig-Erhard-Straße 12\n65760 Eschborn\nDeutschland",
+    "phone": "+49 6196 937 0",
+    "fax": "+49 6196 937 289",
+    "email": "alpha_de@hertz.com",
+    "web": "https://www.hertz.de",
+    "sources": [
+        "https://www.hertz.de/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp",
+        "https://www.hertz.de/rentacar/misc/simpleIndex.jsp?targetPage=Impressum.xml"
+    ]
+}
