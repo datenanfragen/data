@@ -1,0 +1,19 @@
+{
+    "slug": "kayak",
+    "categories": [
+        "travel"
+    ],
+    "name": "Kayak Europe GmbH",
+    "runs": [
+        "SWOODOO (www.swoodoo.com)"
+    ],
+    "address": "c/o Legal Department\n Fraumünsterstraße 16\n8001 Zürich\nSchweiz\nDeutschland",
+    "email": "privacy@kayak.com",
+    "web": "https://www.kayak.de/",
+    "sources": [
+        "https://www.kayak.de/privacy",
+        "https://www.kayak.de/impressum",
+        null,
+        "https://www.swoodoo.com/info/impressum"
+    ]
+}
