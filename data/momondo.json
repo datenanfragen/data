@@ -1,0 +1,15 @@
+{
+    "slug": "momondo",
+    "categories": [
+        "travel"
+    ],
+    "name": "momondo A/S",
+    "address": "Løvstræde 1\nDK-1152 Kopenhagen K\nDenmark",
+    "phone": "+45 7878 8137",
+    "email": "feedback@momondo.de",
+    "web": "https://www.momondo.de/",
+    "sources": [
+        "https://www.momondo.de/ueber-uns/datenschutzrichtlinien",
+        "https://www.momondo.de/ueber-uns/kontakt"
+    ]
+}
