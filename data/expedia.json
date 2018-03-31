@@ -1,0 +1,19 @@
+{
+    "slug": "expedia",
+    "categories": [
+        "travel"
+    ],
+    "name": "Expedia, Inc.",
+    "address": "333 108th Ave. NE\nBellevue\nWA 98004\nUnited States of America",
+    "phone": "+49 69 945 19 23 20",
+    "fax": "+351 211 57 04 18",
+    "email": "service@expedia.de",
+    "web": "https://www.expedia.de/",
+    "sources": [
+        "https://www.expedia.de/p/support/privacy",
+        "https://www.expedia.de/g/rf/impressum"
+    ],
+    "comments": [
+        "Kontaktadresse in Deutschland laut Impressum: Expedia.de, c/o Convergys, Komturstraße 18, 12099 Berlin, Deutschland."
+    ]
+}
