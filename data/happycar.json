@@ -1,0 +1,19 @@
+{
+    "slug": "happycar",
+    "categories": [
+        "travel",
+        "insurance"
+    ],
+    "name": "HAPPYCAR GmbH",
+    "runs": [
+        "HAPPYCAR UG"
+    ],
+    "address": "Datenschutzbeauftragter\nGroße Reichenstraße 27\n20457 Hamburg\nDeutschland",
+    "phone": "+49 800 707 88 99",
+    "email": "datenschutz@happycar.de",
+    "web": "https://www.happycar.de/",
+    "sources": [
+        "https://www.happycar.de/info/datenschutz",
+        "https://www.happycar.de/impressum"
+    ]
+}
