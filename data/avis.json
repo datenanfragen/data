@@ -1,0 +1,20 @@
+{
+    "slug": "avis",
+    "categories": [
+        "travel",
+        "insurance"
+    ],
+    "name": "Avis Budget Autovermietung GmbH & Co. KG",
+    "runs": [
+        "Avis Preferred",
+        "Avis Wizard"
+    ],
+    "address": "Zimmersmühlenweg 21\n61437 Oberursel\nDeutschland",
+    "phone": "+49 6171 68 0",
+    "email": "customerservice@avis.de",
+    "web": "https://www.avis.de/",
+    "sources": [
+        "https://www.avis.de/das-kleingedruckte/datenschutzrichtlinien",
+        "https://www.avis.de/das-kleingedruckte/impressum"
+    ]
+}
