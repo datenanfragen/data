@@ -1,0 +1,24 @@
+{
+    "slug": "travix",
+    "categories": [
+        "travel"
+    ],
+    "name": "Travix Nederland B.V.",
+    "runs": [
+        "Flugladen.de (www.flugladen.de)",
+        "BudgetAir.com (www.budgetair.com)",
+        "CheapTickets.nl (www.cheaptickets.nl)",
+        "Vliegwinkel.nl (www.vliegwinkel.nl)"
+    ],
+    "address": "Piet Heinkade 55\n1019 GM Amsterdam\nNetherlands",
+    "phone": "+49 30 2240 9372",
+    "email": "info@flugladen.de",
+    "web": "https://www.travix.com/",
+    "sources": [
+        "https://s1.travix.com/flugladen/DE/flde-privacy-de.pdf",
+        "https://www.flugladen.de/impressum",
+        "https://s1.travix.com/budgetair/UK/buauk-privacy-en.pdf",
+        "https://s1.travix.com/cheaptickets/NL/assets/pdf/ctnl-privacy-nl.pdf",
+        "https://s1.travix.com/vliegwinkel/NL/assets/pdf/vwnl-privacy-nl.pdf"
+    ]
+}
