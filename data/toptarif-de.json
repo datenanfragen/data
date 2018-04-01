@@ -1,0 +1,20 @@
+{
+    "slug": "toptarif-de",
+    "categories": [
+        "ads",
+        "insurance",
+        "finance",
+        "telecommunication",
+        "commerce"
+    ],
+    "name": "TopTarif Internet GmbH",
+    "address": "Datenschutzbeauftragter\nErich-Weinert-Straße 145\n10409 Berlin\nDeutschland",
+    "phone": "+49 800 72 45 817 ",
+    "fax": "+49 30 23 32 81 02",
+    "email": "datenschutz@toptarif.de",
+    "web": "https://www.toptarif.de/",
+    "sources": [
+        "https://www.toptarif.de/datenschutz/",
+        "https://www.toptarif.de/impressum/"
+    ]
+}
