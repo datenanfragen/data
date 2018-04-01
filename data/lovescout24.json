@@ -1,0 +1,16 @@
+{
+    "slug": "lovescout24",
+    "name": "FriendScout24 GmbH",
+    "runs": [
+        "FriendScout24.de (ehem.)",
+        "LoveScout24.de"
+    ],
+    "address": "Datenschutz\nWeihenstephaner Straße 7\n81673 München\nDeutschland",
+    "fax": "+49 89 125 012 941",
+    "email": "kundenservice@lovescout24.de",
+    "web": "https://www.lovescout24.de",
+    "sources": [
+        "https://www.lovescout24.de/pages/misc/privacy",
+        "https://www.lovescout24.de/pages/misc/impressum"
+    ]
+}
