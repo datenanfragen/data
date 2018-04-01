@@ -1,0 +1,21 @@
+{
+    "slug": "flixbus",
+    "categories": [
+        "travel"
+    ],
+    "name": "FlixMobility GmbH",
+    "runs": [
+        "FlixBus (www.flixbus.de)",
+        "FlixBus Mein Fernbus (www.meinfernbus.de)"
+    ],
+    "address": "Datenschutzbeauftragte\nBirketweg 33\n80639 München\nDeutschland",
+    "phone": "+49 30 300 137 300",
+    "email": "datenschutz@flixbus.de",
+    "web": "https://www.flixbus.de/",
+    "sources": [
+        "https://www.flixbus.de/datenschutz",
+        "https://meinfernbus.de/de/datenschutz.html",
+        "https://cdn.flixbus.de/2017-11/data-privacy.pdf",
+        "https://www.flixbus.de/impressum"
+    ]
+}
