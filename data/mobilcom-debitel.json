@@ -1,0 +1,15 @@
+{
+    "slug": "mobilcom-debitel",
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "mobilcom-debitel GmbH",
+    "address": "Datenschutzbeauftragter\nHollerstraße 126\n24782 Büdelsdorf\nDeutschland",
+    "fax": "+49 40 55 55 41 001",
+    "email": "datenschutz@md.de",
+    "web": "https://www.mobilcom-debitel.de/",
+    "sources": [
+        "https://www.mobilcom-debitel.de/legal/datenschutz/",
+        "https://www.mobilcom-debitel.de/legal/impressum/"
+    ]
+}
