@@ -1,0 +1,25 @@
+{
+    "slug": "sipgate",
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "sipgate GmbH",
+    "runs": [
+        "sipgate basic (www.sipgatebasic.de)",
+        "simquadrat (www.simquadrat.de)",
+        "sipgate team (www.sipgateteam.de)",
+        "sipgate trunking (www.sipgatetrunking.de)",
+        "sipgate.io (www.sipgate.io)",
+        "www.sipgate.co.uk"
+    ],
+    "address": "Datenschutzbeauftragter\nGladbacher Straße 74\n40219 Düsseldorf\nDeutschland",
+    "email": "datenschutz@sipgate.de",
+    "web": "https://www.sipgate.de/",
+    "sources": [
+        "https://www.sipgate.de/datenschutz",
+        "https://www.sipgate.de/impressum",
+        "https://www.sipgatebasic.de/datenschutz",
+        "https://www.simquadrat.de/datenschutz",
+        "https://www.sipgateteam.co.uk/privacy-policy"
+    ]
+}
