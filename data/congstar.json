@@ -1,0 +1,22 @@
+{
+    "slug": "congstar",
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "congstar GmbH",
+    "runs": [
+        "congstar E-Mail",
+        "congstar Musik",
+        "congstar App"
+    ],
+    "address": "Datenschutzbeauftragter\nWeinsbergstraße 70\n50823 Köln\nDeutschland",
+    "phone": "+49 221 79 700 700 ",
+    "fax": "+49 221 79 700 601",
+    "email": "datenschutz@congstar.de",
+    "web": "https://www.congstar.de/",
+    "sources": [
+        "https://www.congstar.de/datenschutz/",
+        "https://www.congstar.de/impressum/",
+        "https://www.congstar.de/hilfe-service/kontakt/"
+    ]
+}
