@@ -1,0 +1,29 @@
+{
+    "slug": "1und1-gmx",
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "GMX.de",
+    "runs": [
+        "GMX Mail",
+        "GMX MailCheck",
+        "GMX Mail App",
+        "GMX Premium Postfach",
+        "GMX FreeMessage",
+        "GMX MediaCenter",
+        "GMX Tresor",
+        "GMX Internet Browser"
+    ],
+    "address": "c/o 1&1 Mail & Media GmbH\nDatenschutz\nElgendorfer Straße 57\n56410 Montabaur\nDeutschland",
+    "phone": "+49 89 143 39 0",
+    "email": "datenschutz@gmxnet.de",
+    "web": "https://www.gmx.net",
+    "sources": [
+        "https://agb-server.gmx.net/datenschutz",
+        "https://www.gmx.net/impressum/",
+        "https://hilfe.gmx.net/kontakt/kontakt.html#topmenu_help_suche"
+    ],
+    "comments": [
+        "Telefonnummer laut Kontaktseite eigentlich +49 900 1000 877 (3,99 EUR pro Anruf – nur aus dem deutschen Festnetz erreichbar)."
+    ]
+}

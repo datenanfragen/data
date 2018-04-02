@@ -1,0 +1,31 @@
+{
+    "slug": "1und1-webde",
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "WEB.DE",
+    "runs": [
+        "WEB.DE Vorteilswelt",
+        "WEB.DE FreeMail",
+        "WEB.DE Tresor",
+        "WEB.DE Online-Speicher",
+        "WEB.DE E-Mail-App",
+        "WEB.DE Internet Browser",
+        "WEB.DE Club",
+        "WEB.DE Homepage & Mail",
+        "WEB.DE Cyberschutz",
+        "WEB.DE PreisCheck",
+        "WEB.Cent Bonusprogramm"
+    ],
+    "address": "c/o 1&1 Mail & Media GmbH\nDatenschutz\nElgendorfer Straße 57\n56410 Montabaur\nDeutschland",
+    "phone": "+49 900 1 93 23 30",
+    "email": "datenschutz@webde.de",
+    "web": "https://web.de/",
+    "sources": [
+        "https://agb.web.de/Datenschutzerklaerung/AGB/20170227/",
+        "https://web.de/impressum/"
+    ],
+    "comments": [
+        "Achtung: Telefonnummer ist kostenpflichtig (3,99 EUR pro Anruf – nur aus dem deutschen Festnetz erreichbar)!"
+    ]
+}
