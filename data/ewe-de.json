@@ -1,0 +1,25 @@
+{
+    "slug": "ewe-de",
+    "categories": [
+        "telecommunication",
+        "utility"
+    ],
+    "name": "EWE AG",
+    "runs": [
+        "onsatel (www.osnatel.de)",
+        "Mein EWE",
+        "EWE Webmail",
+        "EWE TEL GmbH",
+        "EWE VERTRIEB GmbH"
+    ],
+    "address": "Datenschutzbeauftragter\nTirpitzstraße 39\n26122 Oldenburg\nDeutschland",
+    "phone": "+49 441 4805 0",
+    "fax": "+49 441 803 3999",
+    "email": "datenschutz@ewe.de",
+    "web": "https://www.ewe.de/",
+    "sources": [
+        "https://www2.ewe.de/privatkunden/datenschutzerklaerung",
+        "https://www2.ewe.de/privatkunden/impressum",
+        "https://www.osnatel.de/osnatel-erkunden/datenschutz"
+    ]
+}
