@@ -13,7 +13,8 @@
         "WhatsApp SIM (www.whatsappsim.de)",
         "Blau (www.blau.de)",
         "FONIC (www.fonic.de)",
-        "netzclub (www.netzclub.net)"
+        "netzclub (www.netzclub.net)",
+        "simyo (www.simyo.de, ehem.)"
     ],
     "address": "Datenschutzbeauftragter\nGeorg-Brauchle-Ring 23 – 25\n80992 München\nDeutschland",
     "phone": "+49 89 78 79 79 40 0",
@@ -34,6 +35,8 @@
         "https://www.fonic.de/datenschutz",
         "https://www.fonic.de/impressum",
         "https://www.netzclub.net/datenschutz/",
-        "https://www.netzclub.net/impressum/"
+        "https://www.netzclub.net/impressum/",
+        "https://www.simyo.de/daten-jugendschutz/",
+        "https://www.simyo.de/impressum/"
     ]
 }
