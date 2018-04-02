@@ -4,12 +4,18 @@
         "commerce"
     ],
     "name": "Tchibo GmbH",
+    "runs": [
+        "Tchibo mobil",
+        "TchiboCard"
+    ],
     "address": "Der Datenschutzbeauftragte\nÜberseering 18\n22297 Hamburg\nDeutschland",
     "phone": "+49 40 63 87 0",
     "email": "service@tchibo.de",
     "web": "https://www.tchibo.de/",
     "sources": [
         "https://www.tchibo.de/datenschutz-s400007324.html",
-        "https://www.tchibo.de/impressum-bei-tchibo-c400001300.html"
+        "https://www.tchibo.de/impressum-bei-tchibo-c400001300.html",
+        "https://www.tchibo.de/handys-sim-karten-internetflatrates-und-vieles-mehr-bei-tchibo-c5.html",
+        "https://www.tchibo.de/tchibocard-nutzen-sie-die-exklusiven-vorteile-bei-tchibo-c400004472.html"
     ]
 }
