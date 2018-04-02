@@ -8,7 +8,8 @@
         "Vodafone Community",
         "Vodafone Apps",
         "Vodafone Kabel Deutschland GmbH",
-        "EDEKA mobil (www.edeka-mobil.de)"
+        "EDEKA mobil (www.edeka-mobil.de)",
+        "otelo (www.otelo.de)"
     ],
     "address": "Datenschutzbeauftragter\nFerdinand-Braun-Platz 1\n40549 Düsseldorf\nDeutschland",
     "phone": "+49 800 172 12 12",
@@ -20,6 +21,8 @@
         "https://www.vodafone.de/impressum.html",
         "https://www.vodafone.de/hilfe/kontakt-zu-vodafone.html",
         "https://www.edeka-mobil.de/datenschutz.html",
-        "https://www.edeka-mobil.de/impressum.html"
+        "https://www.edeka-mobil.de/impressum.html",
+        "https://www.otelo.de/datenschutz",
+        "https://www.otelo.de/impressum"
     ]
 }
