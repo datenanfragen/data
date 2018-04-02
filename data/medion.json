@@ -1,0 +1,26 @@
+{
+    "slug": "medion",
+    "categories": [
+        "commerce"
+    ],
+    "name": "MEDION AG",
+    "runs": [
+        "Medion Webshop (www.medion.com)",
+        "ALDI Talk (www.alditalk.de)",
+        "MEDIONmobile"
+    ],
+    "address": "Datenschutzbeauftrager Herr Peter Staab\nAm Zehnthof 77\n45307 Essen\nDeutschland",
+    "phone": "+49 201 83 83 0",
+    "fax": "+49 201 83 83 1112",
+    "email": "datenschutz@medion.com",
+    "web": "https://www.medion.com/de/shop/",
+    "sources": [
+        "https://www.medion.com/de/shop/",
+        "https://www.alditalk.de/datenschutz",
+        "https://www.alditalk.de/impressum"
+    ],
+    "comments": [
+        "Spezielle E-Mail-Adresse für den Webshop: datenschutz-webshop@medion.com",
+        "Spezielle E-Mail-Adresse für MEDIONmobile (ALDI Talk): datenschutz-alditalk@medion.com"
+    ]
+}
