@@ -1,0 +1,20 @@
+{
+    "slug": "o2-de",
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Telefónica Germany GmbH & Co. OHG",
+    "runs": [
+        "O2",
+        "Mein O2"
+    ],
+    "address": "Datenschutzbeauftragter\nGeorg-Brauchle-Ring 23 – 25\n80992 München\nDeutschland",
+    "phone": "+49 89 78 79 79 40 0",
+    "email": "datenschutz@telefonica.com",
+    "web": "https://www.o2online.de/",
+    "sources": [
+        "https://www.o2online.de/recht/datenschutz/",
+        "https://static2.o9.de/blob/10418706/v=16/Binary/oeffentliches-verfahrensverzeichnis.pdf",
+        "https://www.o2online.de/recht/impressum/"
+    ]
+}
