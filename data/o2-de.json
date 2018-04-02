@@ -11,7 +11,8 @@
         "AY YILDIZ Communications GmbH (www.ayyildiz.de)",
         "simfinity (www.simfinity.de)",
         "WhatsApp SIM (www.whatsappsim.de)",
-        "Blau (www.blau.de)"
+        "Blau (www.blau.de)",
+        "FONIC (www.fonic.de)"
     ],
     "address": "Datenschutzbeauftragter\nGeorg-Brauchle-Ring 23 – 25\n80992 München\nDeutschland",
     "phone": "+49 89 78 79 79 40 0",
@@ -28,6 +29,8 @@
         "https://www.simfinity.de/impressum",
         "https://www.whatsappsim.de/service/kontakt#datenschutz",
         "https://www.blau.de/recht/datenschutz/",
-        "https://www.blau.de/recht/impressum/"
+        "https://www.blau.de/recht/impressum/",
+        "https://www.fonic.de/datenschutz",
+        "https://www.fonic.de/impressum"
     ]
 }
