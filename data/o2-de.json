@@ -7,7 +7,8 @@
     "runs": [
         "O2",
         "Mein O2",
-        "BASE (www.base.de)"
+        "BASE (www.base.de)",
+        "AY YILDIZ Communications GmbH (www.ayyildiz.de)"
     ],
     "address": "Datenschutzbeauftragter\nGeorg-Brauchle-Ring 23 – 25\n80992 München\nDeutschland",
     "phone": "+49 89 78 79 79 40 0",
@@ -18,6 +19,8 @@
         "https://static2.o9.de/blob/10418706/v=16/Binary/oeffentliches-verfahrensverzeichnis.pdf",
         "https://www.o2online.de/recht/impressum/",
         "https://www.base.de/datenschutz",
-        "https://www.base.de/impressum"
+        "https://www.base.de/impressum",
+        "https://www.ayyildiz.de/datenschutz",
+        "https://www.ayyildiz.de/impressum"
     ]
 }
