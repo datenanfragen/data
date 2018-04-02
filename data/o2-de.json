@@ -8,7 +8,8 @@
         "O2",
         "Mein O2",
         "BASE (www.base.de)",
-        "AY YILDIZ Communications GmbH (www.ayyildiz.de)"
+        "AY YILDIZ Communications GmbH (www.ayyildiz.de)",
+        "simfinity (www.simfinity.de)"
     ],
     "address": "Datenschutzbeauftragter\nGeorg-Brauchle-Ring 23 – 25\n80992 München\nDeutschland",
     "phone": "+49 89 78 79 79 40 0",
@@ -21,6 +22,7 @@
         "https://www.base.de/datenschutz",
         "https://www.base.de/impressum",
         "https://www.ayyildiz.de/datenschutz",
-        "https://www.ayyildiz.de/impressum"
+        "https://www.ayyildiz.de/impressum",
+        "https://www.simfinity.de/impressum"
     ]
 }
