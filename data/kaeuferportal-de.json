@@ -1,0 +1,19 @@
+{
+    "slug": "kaeuferportal-de",
+    "categories": [
+        "ads"
+    ],
+    "name": "Beko Käuferportal GmbH",
+    "runs": [
+        "Käuferportal (www.kaeuferportal.de)"
+    ],
+    "address": "Potsdamer Platz 11\n10785 Berlin\nDeutschland",
+    "phone": "+49 800 29 29 29 4",
+    "fax": "+49 30 290 455 35",
+    "email": "datenschutz@kaeuferportal.de",
+    "web": "https://www.kaeuferportal.de/",
+    "sources": [
+        "https://www.kaeuferportal.de/datenschutzerklaerung/",
+        "https://www.kaeuferportal.de/impressum/"
+    ]
+}
