@@ -1,0 +1,13 @@
+{
+    "slug": "identity-tm",
+    "name": "identity Trust Management AG",
+    "address": "Datenschutzbeauftragter\nLierenfelderstraße 51\n40231 Düsseldorf\nDeutschland",
+    "phone": "+49 211 68 77 3 0",
+    "email": "datenschutz@identity.tm",
+    "web": "https://www.identity.tm",
+    "sources": [
+        "https://www.identity.tm/download/Datenschutzerklaerung_iTM-ident.pdf",
+        "https://www.identity.tm/download/Datenschutzerklaerung_iTM-website.pdf",
+        "https://www.identity.tm/impressum.html"
+    ]
+}
