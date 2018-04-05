@@ -1,0 +1,19 @@
+{
+    "slug": "printpeter",
+    "categories": [
+        "ads",
+        "commerce"
+    ],
+    "name": "PrintPeter GmbH",
+    "runs": [
+        "PlusPeter (www.pluspeter.com)"
+    ],
+    "address": "Chausseestraße 84\n10115 Berlin\nDeutschland",
+    "phone": "+49 30 5557 988 21",
+    "email": "datenschutz@pluspeter.com",
+    "web": "https://www.pluspeter.com",
+    "sources": [
+        "https://www.pluspeter.com/datenschutzerklarung/",
+        "https://www.pluspeter.com/impressum/"
+    ]
+}
