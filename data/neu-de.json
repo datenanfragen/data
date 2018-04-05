@@ -1,0 +1,21 @@
+{
+    "slug": "neu-de",
+    "name": "NEU.DE GmbH",
+    "runs": [
+        "Partnerbörse NEU.de (www.neu.de)",
+        "Partnerbörse partner.de (www.partner.de)"
+    ],
+    "address": "Datenschutzbeauftragter\nWeihenstephaner Straße 7\n81673 München\nDeutschland",
+    "fax": "+49 89 125 012 942",
+    "email": "support@neu.de",
+    "web": "https://www.neu.de/",
+    "sources": [
+        "https://www.neu.de/pages/misc/privacy",
+        "https://www.neu.de/pages/misc/impressum",
+        "https://www.partner.de/misc/privacy.php",
+        "https://www.partner.de/misc/impressum.php"
+    ],
+    "comments": [
+        "Alternative E-Mail-Adresse für partner.de: datenschutz@partner.de"
+    ]
+}
