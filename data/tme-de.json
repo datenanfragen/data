@@ -1,0 +1,16 @@
+{
+    "slug": "tme-de",
+    "categories": [
+        "commerce"
+    ],
+    "name": "TME Germany GmbH",
+    "address": "Humboldtstraße 2\n04105 Leipzig\nDeutschland",
+    "phone": "+49 341 2120 340",
+    "fax": "+49 341 2120 3429",
+    "email": "tme@tme-germany.de",
+    "web": "https://www.tme.eu",
+    "sources": [
+        "https://www.tme.eu/de/pages/Datenschutz.html",
+        "https://www.tme.eu/de/pages/Impressum.html"
+    ]
+}
