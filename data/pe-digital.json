@@ -1,8 +1,9 @@
 {
-    "slug": "parship",
+    "slug": "pe-digital",
     "name": "PE Digital GmbH",
     "runs": [
-        "Online-Partnervermittlung Parship (www.parship.de)"
+        "Online-Partnervermittlung Parship (www.parship.de)",
+        "Online-Partnervermittlung ElitePartner (www.elitepartner.de)"
     ],
     "address": "Kundenservice Parship Deutschland\nSpeersort 10\n20095 Hamburg\nDeutschland",
     "fax": "+49 40 46 00 26 596",
@@ -10,6 +11,8 @@
     "web": "https://www.parship.de/",
     "sources": [
         "https://www.parship.de/privacypolicy/",
-        "https://www.parship.de/aboutus/"
+        "https://www.parship.de/aboutus/",
+        "https://www.elitepartner.de/privacypolicy/",
+        "https://www.elitepartner.de/aboutus/"
     ]
 }
