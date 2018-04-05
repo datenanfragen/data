@@ -1,0 +1,16 @@
+{
+    "slug": "jimdo",
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Jimdo GmbH",
+    "address": "Datenschutz\nStresemannstraße 375\n22761 Hamburg\nDeutschland",
+    "phone": "+49 40 8 22 44 997",
+    "fax": "+49 40 8 22 44 998",
+    "email": "info@jimdo.com",
+    "web": "https://jimdo.com/",
+    "sources": [
+        "https://de.jimdo.com/info/datenschutzerklaerung/",
+        "https://de.jimdo.com/impressum/"
+    ]
+}
