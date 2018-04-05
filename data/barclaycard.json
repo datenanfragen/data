@@ -1,0 +1,16 @@
+{
+    "slug": "barclaycard",
+    "categories": [
+        "finance",
+        "insurance"
+    ],
+    "name": "Barclaycard Barclays Bank PLC",
+    "address": "Datenschutzbeauftragte\nGasstraße 4c\n22761 Hamburg\nDeutschland",
+    "phone": "+49 40 890 99 866",
+    "email": "datenschutz@barclaycard.de",
+    "web": "https://www.barclaycard.de",
+    "sources": [
+        "https://www.barclaycard.de/index.php?page=Datenschutz_und_Sicherheit",
+        "https://www.barclaycard.de/index.php?page=Impressum"
+    ]
+}
