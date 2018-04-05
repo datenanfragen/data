@@ -1,0 +1,15 @@
+{
+    "slug": "visa-eu",
+    "categories": [
+        "finance"
+    ],
+    "name": "Visa Europe Services Inc.",
+    "address": "1 Sheldon Square\nLondon W2 6TT\nUnited Kingdom",
+    "phone": "+44 20 7795 5777",
+    "email": "anfragen.europa@visa.com",
+    "web": "https://www.visa.de/",
+    "sources": [
+        "https://www.visa.de/datenschutz",
+        "https://www.visa.de/impressum"
+    ]
+}
