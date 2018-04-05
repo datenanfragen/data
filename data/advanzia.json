@@ -1,0 +1,24 @@
+{
+    "slug": "advanzia",
+    "categories": [
+        "finance"
+    ],
+    "name": "Advanzia Bank S.A.",
+    "runs": [
+        "Gebührenfrei Mastercard GOLD (www.gebuhrenfrei.com)",
+        "Carte de crédit ZERO Gold Mastercard (www.cartezero.fr)",
+        "free Mastercard Gold (www.free.at)",
+        "Advanzia deposit account (www.advanziakonto.com)"
+    ],
+    "address": "9, rue Gabriel Lippmann\nParc d'Activité Syrdall 2\nL-5365 Munsbach\nLuxembourg",
+    "phone": "+49 800 880 2120",
+    "fax": "+352 26 38 75 69 9",
+    "email": "advanzia@advanzia.com",
+    "web": "https://www.advanzia.com",
+    "sources": [
+        "https://www.advanzia.com/Legal-notes/",
+        "https://www.gebuhrenfrei.com/Impressum/",
+        "https://www.cartezero.fr/mentions-legales/",
+        "https://www.free.at/Impressum/"
+    ]
+}
