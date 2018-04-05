@@ -1,0 +1,16 @@
+{
+    "slug": "denic",
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "DENIC eG",
+    "address": "Datenschutzbeauftragter\nKaiserstraße 75 – 77\n60329 Frankfurt am Main\nDeutschland",
+    "phone": "+49 69 27 235 0",
+    "fax": "+49 69 27 235 238",
+    "email": "privacy@denic.de",
+    "web": "https://www.denic.de/",
+    "sources": [
+        "https://www.denic.de/ueber-denic/datenschutzerklaerung/",
+        "https://www.denic.de/ueber-denic/impressum/"
+    ]
+}
