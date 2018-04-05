@@ -1,0 +1,19 @@
+{
+    "slug": "wix",
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Wix.com Luxembourg S.a.r.l",
+    "runs": [
+        null,
+        "Wix.com Inc."
+    ],
+    "address": "5, rue Guillaume Kroll\nL-1882 Luxembourg\nLuxembourg",
+    "phone": "+1 415 639 9034",
+    "email": "privacy@wix.com",
+    "web": "https://www.wix.com/",
+    "sources": [
+        "https://de.wix.com/about/privacy",
+        "http://de.wix.com/about/impressum-wix"
+    ]
+}
