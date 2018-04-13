@@ -1,0 +1,25 @@
+To Whom It May Concern:
+
+I am hereby requesting immediate erasure of personal data concerning me according to Article 15 GDPR.
+
+[erase_all>
+Please erase all personal data concerning me as defined by Article 4(1) GDPR.][erase_some>Please delete the following personal data concerning me:
+{erasure_data}]
+
+I am of the opinion that the requirements set forth in Article 17(1) GDPR are fulfilled.
+
+If I have given consent to the processing of my personal data (e.g. according to Article 6(1) or Article 9(2) GDPR), I am hereby withdrawing said consent.
+In addition, I am objecting to the processing of personal data concerning me (which includes profiling), according to Article 21 GDPR.
+
+In case you have disclosed the affected personal data to third parties, you have to communicate my request for erasure of the affected personal data, as well as any references to it, to each recipient as laid down in Article 19 GDPR. Please also inform me about those recipients.
+
+If you object to the requested erasure, you have to justify that to me.
+
+As laid down in Article 12(3) GDPR, you have to confirm the erasure to me without undue delay and in any event within one month of receipt of the request.
+
+I am including the following information necessary to identify me:
+{id_data}
+
+If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
+
+Yours sincerely,
