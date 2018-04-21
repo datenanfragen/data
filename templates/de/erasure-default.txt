@@ -14,6 +14,8 @@ Sofern Sie die betroffenen personenbezogenen Daten Dritten offengelegt haben, ha
 
 Sollten Sie die Löschung ablehnen, haben Sie dies mir gegenüber zu begründen.
 
+Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des Art. 4 Nr. 7 DSGVO sind[runs>: {runs_list}].
+
 Nach Art. 12 Abs. 3 haben Sie mich unverzüglich, spätestens aber innerhalb eines Monats nach Eingang des Antrags, über die vorgenommenen Löschungen zu informieren.
 
 Zur Identifikation meiner Person habe ich folgende Daten beigefügt:

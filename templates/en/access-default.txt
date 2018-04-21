@@ -12,11 +12,10 @@ In case you are, I am hereby requesting access to the following information purs
 7. the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for me.
 
 If you are transferring my personal data to a third country or an international organisation, I request to be informed about the appropriate safeguards according to Article 46 GDPR concerning the transfer.
-
 [data_portability>
-Please make the personal data concerning me, which I have provided to you, available to me in a structured, commonly used and machine-readable format as laid down in Article 20(1) GDPR.]
-
-My request explicitly includes [runs>the following as well as] any other services and companies for which you are the controller as defined by Article 4(7) GDPR[runs>: {runs_list}].
+Please make the personal data concerning me, which I have provided to you, available to me in a structured, commonly used and machine-readable format as laid down in Article 20(1) GDPR.
+]
+My request explicitly includes [runs>the following as well as ]any other services and companies for which you are the controller as defined by Article 4(7) GDPR[runs>: {runs_list}].
 
 As laid down in Article 12(3) GDPR, you have to provide the requested information to me without undue delay and in any event within one month of receipt of the request. According to Article 15(3) GDPR, you have to answer this request without cost to me.
 
