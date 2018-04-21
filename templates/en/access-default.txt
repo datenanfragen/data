@@ -22,7 +22,6 @@ As laid down in Article 12(3) GDPR, you have to provide the requested informatio
 
 I am including the following information necessary to identify me:
 {id_data}
-
 If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
 
 Yours sincerely,
