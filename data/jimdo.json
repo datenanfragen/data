@@ -11,9 +11,10 @@
     "web": "https://jimdo.com/",
     "sources": [
         "https://de.jimdo.com/info/datenschutzerklaerung/",
-        "https://de.jimdo.com/impressum/"
+        "https://de.jimdo.com/impressum/",
+        "https://www.jimdo.com/info/privacy/"
     ],
     "relevant-countries": [
-        "de"
+        "all"
     ]
 }

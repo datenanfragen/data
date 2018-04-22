@@ -7,18 +7,22 @@
     "runs": [
         "Hertz Gold Plus Rewards",
         "Hertz 24/7",
-        "Hertz NeverLost.com"
+        "Hertz NeverLost.com",
+        "Hertz Autovermietung GmbH"
     ],
-    "address": "Ludwig-Erhard-Straße 12\n65760 Eschborn\nDeutschland",
+    "address": "Hertz House\n11 Vine Street\nUxbridge, Middlesex\nUB8 1QE\nUnited Kingdom",
     "phone": "+49 6196 937 0",
     "fax": "+49 6196 937 289",
     "email": "alpha_de@hertz.com",
     "web": "https://www.hertz.de",
     "sources": [
         "https://www.hertz.de/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp",
-        "https://www.hertz.de/rentacar/misc/simpleIndex.jsp?targetPage=Impressum.xml"
+        "https://www.hertz.de/rentacar/misc/simpleIndex.jsp?targetPage=Impressum.xml",
+        "https://www.hertz.at/rentacar/misc/simpleIndex.jsp?targetPage=ATImpressumNew.xml"
     ],
     "relevant-countries": [
-        "de"
+        "de",
+        "at",
+        "ch"
     ]
 }

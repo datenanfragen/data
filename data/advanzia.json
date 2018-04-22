@@ -22,6 +22,10 @@
         "https://www.free.at/Impressum/"
     ],
     "relevant-countries": [
-        "de"
+        "de",
+        "fr",
+        "at",
+        "gb",
+        "lu"
     ]
 }

@@ -10,9 +10,13 @@
     "web": "https://www.aboutyou.de",
     "sources": [
         "https://www.aboutyou.de/datenschutz",
-        "https://www.aboutyou.de/impressum"
+        "https://www.aboutyou.de/impressum",
+        "https://www.aboutyou.at/datenschutz",
+        "https://www.aboutyou.ch/datenschutz"
     ],
     "relevant-countries": [
-        "de"
+        "de",
+        "at",
+        "ch"
     ]
 }

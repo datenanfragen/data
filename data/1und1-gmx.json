@@ -21,12 +21,16 @@
     "sources": [
         "https://agb-server.gmx.net/datenschutz",
         "https://www.gmx.net/impressum/",
-        "https://hilfe.gmx.net/kontakt/kontakt.html#topmenu_help_suche"
+        "https://hilfe.gmx.net/kontakt/kontakt.html#topmenu_help_suche",
+        "https://www.gmx.at/impressum/",
+        "https://www.gmx.ch/impressum/",
+        "https://www.gmx.fr/entreprise/a-propos-de-gmx/",
+        "https://www.gmx.com/company/about/"
     ],
     "comments": [
         "Telefonnummer laut Kontaktseite eigentlich +49 900 1000 877 (3,99 EUR pro Anruf – nur aus dem deutschen Festnetz erreichbar)."
     ],
     "relevant-countries": [
-        "de"
+        "all"
     ]
 }

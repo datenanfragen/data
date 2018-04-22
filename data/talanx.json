@@ -22,7 +22,10 @@
         "Postbank Lebensversicherung AG",
         "Postbank Versicherung AG ",
         "TARGO Lebensversicherung AG",
-        "TARGO Versicherung AG"
+        "TARGO Versicherung AG",
+        "Warta Group",
+        "TU Europa SA",
+        "Posta Biztosító"
     ],
     "address": "Group Data Protection\nRiethorst 2\n30659 Hannover\nDeutschland",
     "phone": "+49 511 3747 0",
@@ -36,12 +39,17 @@
         "http://www.lifestyle-protection.net/Datenschutz.html",
         "http://www.neue-leben.de/html/2711.php",
         "http://www.pb-versicherung.de/pb-versicherung/datenschutz_allgemeines.html",
-        "https://www.targoversicherung.de/html/Datenschutz.html"
+        "https://www.targoversicherung.de/html/Datenschutz.html",
+        "https://www.warta.pl/en/web/warta-en/warta-group-details",
+        "https://tueuropa.pl/",
+        "https://www.postabiztosito.hu/"
     ],
     "comments": [
         "Die einzelnen genannten Versicherungen sind separate Unternehmen, für den Datenschutz ist laut den verschiedenen Datenschutzerklärungen aber immer die Talanx AG verantwortlich."
     ],
     "relevant-countries": [
-        "de"
+        "de",
+        "pl",
+        "hu"
     ]
 }
