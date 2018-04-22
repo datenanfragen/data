@@ -8,6 +8,15 @@
 			"type": "string",
 			"title": "Slug"
 		},
+		"relevant-countries": {
+			"type": "array",
+			"title": "Relevant countries",
+			"uniqueItems": true,
+			"items": {
+				"type": "string",
+				"pattern": "^([a-z]{2}|all)$"
+			}
+		},
 		"categories": {
 			"type": "array",
 			"title": "Categories",
@@ -138,6 +147,11 @@
 				"required": [ "desc", "type" ]
 			}
 		},
+		"request-language": {
+			"type": "string",
+			"title": "Request language",
+			"pattern": "^[a-z]{2}$"
+		},
 		"custom-access-template": {
 			"type": "string",
 			"title": "Custom access template"
@@ -163,5 +177,5 @@
 			}
 		}
 	},
-	"required": [ "slug", "name", "address", "sources" ]
+	"required": [ "slug", "relevant-countries", "name", "address", "sources" ]
 }
