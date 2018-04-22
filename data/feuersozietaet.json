@@ -15,5 +15,8 @@
     "sources": [
         "https://www.feuersozietaet.de/content/ueber-uns/unternehmen/datenschutz-compliance/datenschutz/",
         "https://www.feuersozietaet.de/content/ueber-uns/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

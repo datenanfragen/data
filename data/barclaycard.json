@@ -12,5 +12,8 @@
     "sources": [
         "https://www.barclaycard.de/index.php?page=Datenschutz_und_Sicherheit",
         "https://www.barclaycard.de/index.php?page=Impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

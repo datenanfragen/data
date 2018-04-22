@@ -11,5 +11,8 @@
     "sources": [
         "https://www.sbroker.de/sbl/home/ds",
         "https://www.sbroker.de/sbl/home/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

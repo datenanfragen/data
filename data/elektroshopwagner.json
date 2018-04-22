@@ -15,5 +15,8 @@
     "sources": [
         "https://www.elektroshopwagner.de/shop_content.php/coID/2/content/Datenschutz",
         "https://www.elektroshopwagner.de/shop_content.php/coID/4/content/Impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

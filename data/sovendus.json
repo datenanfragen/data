@@ -12,5 +12,8 @@
     "sources": [
         "https://www.sovendus.de/de/datenschutz/",
         "https://www.sovendus.de/de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

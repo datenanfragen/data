@@ -11,5 +11,8 @@
     "sources": [
         "https://www.baur.de/service-hilfe/ueber-uns/datenschutz/datenschutzhinweis/",
         "https://www.baur.de/service-hilfe/ueber-uns/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

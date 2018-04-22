@@ -12,5 +12,8 @@
     "sources": [
         "https://www.aok.de/inhalt/informationen-zur-datenverarbeitung/",
         "https://www.aok.de/inhalt/impressum-6/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

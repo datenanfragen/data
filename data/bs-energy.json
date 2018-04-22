@@ -16,5 +16,8 @@
     "sources": [
         "https://www.bs-energy.de/rechtliches/datenschutz/",
         "https://www.bs-energy.de/rechtliches/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

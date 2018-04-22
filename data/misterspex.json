@@ -12,5 +12,8 @@
     "sources": [
         "https://www.misterspex.de/rechtliche-hinweise/datenschutzbestimmung",
         "https://www.misterspex.de/rechtliche-hinweise/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

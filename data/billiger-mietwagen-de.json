@@ -16,5 +16,8 @@
     "sources": [
         "https://www.billiger-mietwagen.de/datenschutz/daten-aendern-loeschen-widerrufen.htm",
         "https://www.billiger-mietwagen.de/impressum.htm"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -14,5 +14,8 @@
     "sources": [
         "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/privacy-policy",
         "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

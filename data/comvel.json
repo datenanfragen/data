@@ -19,5 +19,8 @@
         "https://www.weg.de/ueber-wegde/impressum",
         "http://www.ferien.de/ueber-feriende/impressum",
         "http://www.restplatzboerse.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

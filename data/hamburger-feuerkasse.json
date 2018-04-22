@@ -11,5 +11,8 @@
     "web": "https://www.hamburger-feuerkasse.de",
     "sources": [
         "https://www.provinzial-nordwest.de/export/sites/pkp/_resources/download/meta/Hinweise_zum_Datenschutz.pdf"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

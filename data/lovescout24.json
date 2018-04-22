@@ -12,5 +12,8 @@
     "sources": [
         "https://www.lovescout24.de/pages/misc/privacy",
         "https://www.lovescout24.de/pages/misc/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

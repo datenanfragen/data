@@ -11,5 +11,8 @@
     "sources": [
         "https://www.hellofresh.de/datenschutz/",
         "https://www.hellofresh.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

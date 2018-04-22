@@ -3,6 +3,7 @@
     "categories": [
         "commerce"
     ],
+    "name": "momox GmbH",
     "runs": [
         "Medimops (www.medimops.de)"
     ],
@@ -20,5 +21,8 @@
         "E-Mails speziell für Auskünfte:\nmomox:\nMedimops: auskunft@medimops.de",
         "Alternative E-Mail Datenschutzbeauftragter: cregnery@intersoft-consulting.de",
         "Die momox GmbH selbst sitzt: Frankfurter Allee 77,\n10247 Berlin, Deutschland."
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

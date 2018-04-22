@@ -15,5 +15,8 @@
     "sources": [
         "https://www.kaeuferportal.de/datenschutzerklaerung/",
         "https://www.kaeuferportal.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

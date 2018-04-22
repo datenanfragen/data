@@ -22,5 +22,8 @@
     "sources": [
         "https://www.axa.de/datenschutz",
         "https://www.axa.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

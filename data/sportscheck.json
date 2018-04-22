@@ -12,5 +12,8 @@
     "sources": [
         "https://www.sportscheck.com/datenschutz/",
         "https://www.sportscheck.com/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

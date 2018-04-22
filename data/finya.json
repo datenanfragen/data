@@ -9,5 +9,8 @@
     "sources": [
         "https://www.finya.de/Legal/privacy",
         "https://www.finya.de/Legal/about"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

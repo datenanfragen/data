@@ -11,5 +11,8 @@
     "sources": [
         "https://www.mobilcom-debitel.de/legal/datenschutz/",
         "https://www.mobilcom-debitel.de/legal/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

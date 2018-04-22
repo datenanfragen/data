@@ -12,5 +12,8 @@
     "sources": [
         "https://www.emp.de/customer-service/terms-%26-conditions/terms-privacy-policy.html",
         "https://www.emp.de/impressum/imprint.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

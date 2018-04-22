@@ -22,5 +22,8 @@
         "https://www.dhl.de/de/toolbar/footer/datenschutz.html",
         "https://www.dhl.de/de/toolbar/footer/impressum/vertragspartner-impressum.html",
         "http://www.dpdhl.com/reports/2010/zwischenbericht-q3/files/pdf/5.pdf"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

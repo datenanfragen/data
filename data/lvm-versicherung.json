@@ -12,5 +12,8 @@
     "sources": [
         "https://www.lvm.de/wps/portal/lvm/die-lvm/unternehmen/wir-als-versicherer/rechtliches/rechtliches-kundendaten-tab1",
         "https://www.lvm.de/wps/portal/lvm/die-lvm/unternehmen/wir-als-versicherer/rechtliches/rechtliches-impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

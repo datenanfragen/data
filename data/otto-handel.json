@@ -13,5 +13,8 @@
         "https://www.otto.de/shoppages/service/about/datenschutzinformation/aboutprivacyproceduraldirectory",
         "https://www.otto.de/shoppages/service/about/datenschutzinformation/aboutprivacyneedtoknow",
         "https://www.otto.de/shoppages/service/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

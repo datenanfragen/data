@@ -15,5 +15,8 @@
     "sources": [
         "http://www.edelmetall-handel.de/datenschutz/",
         "http://www.edelmetall-handel.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

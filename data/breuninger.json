@@ -20,5 +20,8 @@
     "sources": [
         "https://www.breuninger.com/layer/print/privacy.cmd",
         "https://www.breuninger.com/service/impressum.cmd"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

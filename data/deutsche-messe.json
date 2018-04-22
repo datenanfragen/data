@@ -23,5 +23,8 @@
         "http://www.domotex.de/de/datenschutz/",
         "http://www.interschutz.de/de/datenschutz/",
         "http://www.ligna.de/de/datenschutz/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

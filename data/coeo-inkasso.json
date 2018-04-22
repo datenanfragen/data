@@ -12,5 +12,8 @@
     "sources": [
         "http://www.coeo-inkasso.de/de/datenschutz-2.html",
         "http://www.coeo-inkasso.de/de/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

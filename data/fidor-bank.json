@@ -12,5 +12,8 @@
     "sources": [
         "https://www.fidor.de/document-center/privacy-policy",
         "https://www.fidor.de/legal-notice"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

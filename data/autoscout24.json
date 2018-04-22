@@ -13,5 +13,8 @@
     "sources": [
         "http://about.autoscout24.com/de-de/au-company/au-company-privacy.aspx?genlnk=foot&genlnkorigin=de-all-all-home",
         "http://about.autoscout24.com/de-de/au-company/au-company-imprint.aspx?genlnk=foot&genlnkorigin=de-vm-custom-b2c-lp-autokreditvergleich"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

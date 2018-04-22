@@ -18,5 +18,8 @@
         "https://www.congstar.de/datenschutz/",
         "https://www.congstar.de/impressum/",
         "https://www.congstar.de/hilfe-service/kontakt/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

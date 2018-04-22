@@ -21,5 +21,8 @@
         "https://www.sipgatebasic.de/datenschutz",
         "https://www.simquadrat.de/datenschutz",
         "https://www.sipgateteam.co.uk/privacy-policy"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

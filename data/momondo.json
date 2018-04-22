@@ -11,5 +11,8 @@
     "sources": [
         "https://www.momondo.de/ueber-uns/datenschutzrichtlinien",
         "https://www.momondo.de/ueber-uns/kontakt"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

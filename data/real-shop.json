@@ -12,5 +12,8 @@
     "sources": [
         "https://www.real.de/rechtliches/datenschutz/",
         "https://www.real.de/rechtliches/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

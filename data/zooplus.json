@@ -11,5 +11,8 @@
     "sources": [
         "http://www.zooplus.de/content/privacy",
         "http://www.zooplus.de/content/imprint"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -12,5 +12,8 @@
     "sources": [
         "https://www.lycamobile.de/de/datenschutzrichtlinie",
         "https://www.lycamobile.de/de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

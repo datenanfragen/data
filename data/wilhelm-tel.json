@@ -12,5 +12,8 @@
     "sources": [
         "https://www.wilhelm-tel.de/meta-navigation/datenschutzhinweise/",
         "https://www.wilhelm-tel.de/meta-navigation/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

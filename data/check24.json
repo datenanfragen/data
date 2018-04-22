@@ -37,5 +37,8 @@
     "sources": [
         "https://www.check24.de/popup/datenschutz/",
         "https://www.check24.de/unternehmen/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

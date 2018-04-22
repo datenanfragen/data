@@ -17,5 +17,8 @@
     "sources": [
         "https://www.eon.de/de/pk/datenschutz.html",
         "https://www.eon.de/de/pk/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

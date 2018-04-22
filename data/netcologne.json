@@ -12,5 +12,8 @@
     "sources": [
         "https://www.netcologne.de/datenschutz",
         "https://www.netcologne.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

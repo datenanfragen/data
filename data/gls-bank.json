@@ -12,5 +12,8 @@
     "sources": [
         "https://www.gls.de/privatkunden/datenschutz/",
         "https://www.gls.de/privatkunden/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

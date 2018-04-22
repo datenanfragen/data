@@ -15,5 +15,8 @@
     "sources": [
         "https://www.bavariadirekt.de/datenschutz/",
         "https://www.bavariadirekt.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

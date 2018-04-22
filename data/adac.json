@@ -21,5 +21,8 @@
     "sources": [
         "https://www.adac.de/datenschutz-cookies/",
         "https://www.adac.de/impressum-ev/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

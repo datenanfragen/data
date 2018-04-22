@@ -13,5 +13,8 @@
     "sources": [
         "https://www.creditplus.de/service/datenschutz-und-datensicherheit/",
         "https://www.creditplus.de/service/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

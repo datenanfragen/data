@@ -16,5 +16,8 @@
         "https://www.zalando.de/zalando-datenschutz/",
         "https://www.zalando.de/zalando-impressum/",
         "https://www.zalando-lounge.de/privacy"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

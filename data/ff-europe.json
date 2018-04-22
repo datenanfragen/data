@@ -11,5 +11,8 @@
     "sources": [
         "http://ff-europe.com/privacy-policy.html",
         "http://ff-europe.com/imprint.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

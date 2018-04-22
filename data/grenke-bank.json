@@ -12,5 +12,8 @@
     "sources": [
         "https://www.grenkebank.de/de/footernavigation/datenschutz.html",
         "https://www.grenkebank.de/de/footernavigation/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

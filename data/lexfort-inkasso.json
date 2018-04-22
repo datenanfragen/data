@@ -11,5 +11,8 @@
     "web": "https://www.lexfort.de",
     "sources": [
         "https://www.lexfort.de/info/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -16,5 +16,8 @@
     "sources": [
         "https://www.ruv.de/datenschutz",
         "https://www.ruv.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

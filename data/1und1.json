@@ -17,5 +17,8 @@
         "https://www.1und1.de/DatenschutzTelecomGmbH",
         "https://hosting.1und1.de/terms-gtc/terms-privacy/",
         "https://unternehmen.1und1.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

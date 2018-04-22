@@ -14,5 +14,8 @@
     "web": "https://www.gfkl.com",
     "sources": [
         "https://www.gfkl.com/datenschutz/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

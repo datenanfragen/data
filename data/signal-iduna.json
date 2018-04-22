@@ -28,5 +28,8 @@
     "sources": [
         "https://www.signal-iduna.de/datenschutz-und-rechtliche-hinweise.php",
         "https://www.signal-iduna.de/anbieter.php"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

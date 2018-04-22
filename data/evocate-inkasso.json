@@ -13,5 +13,8 @@
     "sources": [
         "https://www.evocate-inkasso.de/datenschutz",
         "https://www.evocate-inkasso.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

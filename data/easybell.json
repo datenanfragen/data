@@ -12,5 +12,8 @@
     "sources": [
         "https://www.easybell.de/datenschutz.html",
         "https://www.easybell.de/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

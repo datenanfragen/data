@@ -19,5 +19,8 @@
     ],
     "comments": [
         "Telefon- und Faxnummer sind für Neukunden gedacht, andere Daten sind jedoch auf der Webseite nicht angegeben."
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

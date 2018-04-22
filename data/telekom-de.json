@@ -11,5 +11,8 @@
     "sources": [
         "https://www.telekom.de/datenschutz-ganz-einfach",
         "https://www.telekom.de/start/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -13,5 +13,8 @@
     "sources": [
         "https://www.edarling.de/datenschutz",
         "https://www.edarling.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

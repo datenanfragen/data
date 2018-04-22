@@ -9,4 +9,8 @@ schema = json.load(open('schema.json', encoding='utf-8'))
 pathlist = Path('data').glob('**/*.json')
 for path in pathlist:
     record = json.load(open(path, encoding='utf-8'))
-    validate(record, schema)
+    try:
+    	validate(record, schema)
+    except:
+    	print(path)
+    	raise

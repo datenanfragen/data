@@ -18,5 +18,8 @@
         "https://www.rewe.de/service/datenschutz/",
         "https://www.rewe.de/service/impressum/",
         "https://www.jamobil.de/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

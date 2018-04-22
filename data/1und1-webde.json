@@ -27,5 +27,8 @@
     ],
     "comments": [
         "Achtung: Telefonnummer ist kostenpflichtig (3,99 EUR pro Anruf – nur aus dem deutschen Festnetz erreichbar)!"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -12,5 +12,8 @@
     "sources": [
         "https://www.kfzteile24.de/datenschutz",
         "https://www.kfzteile24.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

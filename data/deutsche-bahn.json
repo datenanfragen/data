@@ -20,5 +20,8 @@
     ],
     "comments": [
         "Achtung: Telefonnummer ist kostenpflichtig (20 ct/Anruf aus dem Festnetz, Tarif bei Mobilfunk max. 60 ct/Anruf)!"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -12,5 +12,8 @@
     "sources": [
         "http://branchenflat.de/de/datenschutz.html",
         "http://branchenflat.de/de/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -11,5 +11,8 @@
     "web": "https://www.netbank.de/",
     "sources": [
         "https://www.netbank.de/privatkunden/ueber-uns/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

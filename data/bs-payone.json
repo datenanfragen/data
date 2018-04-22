@@ -17,5 +17,8 @@
         "https://www.payone.com/impressum/",
         "https://www.bspayone.com/de/imprint",
         "https://www.bspayone.com/de/privacy"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -9,5 +9,8 @@
     "web": "https://www.opodo.de/",
     "sources": [
         "https://www.opodo.de/kundenservice/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

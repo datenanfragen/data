@@ -11,5 +11,8 @@
     "web": "https://www.bernhardt-inkasso.de/",
     "sources": [
         "https://www.bernhardt-inkasso.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

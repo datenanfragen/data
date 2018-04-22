@@ -11,5 +11,8 @@
     "sources": [
         "https://www.apple.com/legal/privacy/de-ww/",
         "https://www.apple.com/de/contact/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

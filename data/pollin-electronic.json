@@ -12,5 +12,8 @@
     "sources": [
         "https://www.pollin.de/datenschutz-und-sicherheit",
         "https://www.pollin.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

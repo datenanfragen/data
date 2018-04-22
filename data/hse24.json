@@ -15,5 +15,8 @@
     ],
     "comments": [
         "Achtung: Faxnummer ist gebührenpflichtig (3,9 Ct./Min aus dem Festnetz, max. 42 Ct./Min aus dem Mobilnetz)!"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

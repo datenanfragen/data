@@ -9,5 +9,8 @@
     "sources": [
         "https://www.terrashop.de/sicherheit_datenschutz.php",
         "https://www.terrashop.de/impressum.php"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

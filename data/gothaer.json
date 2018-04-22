@@ -19,5 +19,8 @@
     "sources": [
         "https://www.gothaer.de/ueber-uns/rechtliche-informationen/datenschutz/",
         "https://www.gothaer.de/ueber-uns/rechtliche-informationen/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

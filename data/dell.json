@@ -15,5 +15,8 @@
     "sources": [
         "http://www.dell.com/learn/de/de/decorp1/policies-privacy",
         "http://www.dell.com/learn/de/de/decorp1/legal-notices?s=corp"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

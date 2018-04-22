@@ -12,5 +12,8 @@
     "sources": [
         "https://www.solarisbank.com/de/datenschutzhinweise/",
         "https://www.solarisbank.com/de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

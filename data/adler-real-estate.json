@@ -8,5 +8,8 @@
     "web": "http://adler-ag.com/",
     "sources": [
         "http://adler-ag.com/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -13,5 +13,8 @@
     "sources": [
         "https://www.blablacar.de/ueber-uns/datenschutzerklaerung",
         "https://www.blablacar.de/ueber-uns/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

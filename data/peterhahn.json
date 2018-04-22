@@ -12,5 +12,8 @@
     "sources": [
         "https://www.peterhahn.de/datenschutz",
         "https://www.peterhahn.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -18,5 +18,8 @@
     "sources": [
         "https://www.yello.de/privatkunden/datenschutz",
         "https://www.yello.de/privatkunden/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -9,5 +9,8 @@
         "https://www.identity.tm/download/Datenschutzerklaerung_iTM-ident.pdf",
         "https://www.identity.tm/download/Datenschutzerklaerung_iTM-website.pdf",
         "https://www.identity.tm/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

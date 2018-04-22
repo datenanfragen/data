@@ -16,5 +16,8 @@
     "sources": [
         "https://www.saarland-versicherungen.de/content/ihre-saarland/unternehmen/compliance-datenschutz/#datenschutz",
         "https://www.saarland-versicherungen.de/content/ihre-saarland/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

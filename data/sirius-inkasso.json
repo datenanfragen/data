@@ -11,5 +11,8 @@
     "web": "http://www.sirius-inkasso.de/",
     "sources": [
         "http://www.sirius-inkasso.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

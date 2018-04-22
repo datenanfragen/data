@@ -11,5 +11,8 @@
     "sources": [
         "https://www.allianz.com/de/info/datenschutzprinzipien/",
         "https://www.allianz.com/de/info/impressum-allianz-se/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

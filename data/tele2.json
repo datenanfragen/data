@@ -12,5 +12,8 @@
     "sources": [
         "https://www.tele2.de/Unternehmen/Datenschutz",
         "https://www.tele2.de/Unternehmen/Impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

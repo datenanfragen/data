@@ -12,5 +12,8 @@
     "sources": [
         "https://www.audible.de/legal-terms/privacy-policy?moduleId=201648650",
         "https://www.audible.de/mt/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

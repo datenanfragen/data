@@ -12,5 +12,8 @@
     "sources": [
         "https://all-inkl.com/datenschutz/",
         "https://all-inkl.com/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

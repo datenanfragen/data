@@ -23,5 +23,8 @@
         "https://www.urlaub.de/impressum/",
         "http://www.airmarin.de/impressum.html",
         "https://www.neckermann-urlaubswelt.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

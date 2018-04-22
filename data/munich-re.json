@@ -12,5 +12,8 @@
     "sources": [
         "https://www.munichre.com/de/service/privacy-statement/index.html",
         "https://www.munichre.com/de/service/imprint/index.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

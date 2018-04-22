@@ -12,5 +12,8 @@
     "sources": [
         "https://de.jimdo.com/info/datenschutzerklaerung/",
         "https://de.jimdo.com/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

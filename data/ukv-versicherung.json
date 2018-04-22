@@ -12,5 +12,8 @@
     "sources": [
         "https://www.ukv.de/content/ueber_uns/datenschutz/",
         "https://www.ukv.de/content/ueber_uns/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

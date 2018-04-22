@@ -11,5 +11,8 @@
     "web": "http://www.adressen-riek.de",
     "sources": [
         "http://www.adressen-riek.de/datenschutz/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

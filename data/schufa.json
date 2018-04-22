@@ -31,5 +31,8 @@
     "comments": [
         "Frühere Adresse nur angeben, wenn sie sich in den letzten 12 Monaten geändert hat.",
         "Entgegen der Angaben im Formular der Schufa ist in aller Regel keine Kopie des Personalausweises oder Reisepasses nötig."
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

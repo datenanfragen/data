@@ -12,5 +12,8 @@
     "sources": [
         "https://www.volksbank-brawo.de/service/datenschutzhinweis.html",
         "https://www.volksbank-brawo.de/service/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

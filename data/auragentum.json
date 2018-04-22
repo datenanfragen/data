@@ -12,5 +12,8 @@
     "sources": [
         "https://auragentum.de/datenschutz",
         "https://auragentum.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

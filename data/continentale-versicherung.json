@@ -17,5 +17,8 @@
     "sources": [
         "https://www.continentale.de/kontakt-datenschutz",
         "https://www.continentale.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

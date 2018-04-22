@@ -11,5 +11,8 @@
     "sources": [
         "https://www.skyscanner.de/privacypolicy.aspx",
         "https://www.skyscanner.de/companydetails.aspx"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

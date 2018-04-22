@@ -15,5 +15,8 @@
     "sources": [
         "https://www.apo-rot.de/index_datenschutz.html",
         "https://www.apo-rot.de/index_impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -11,5 +11,8 @@
     "sources": [
         "https://www.paydirekt.de/agb/index.html",
         "https://www.paydirekt.de/impressum/index.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

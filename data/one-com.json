@@ -14,5 +14,8 @@
     "sources": [
         "https://www.one.com/de/info/datenschutzrichtlinie",
         "https://www.one.com/de/info/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

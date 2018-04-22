@@ -11,5 +11,8 @@
     "sources": [
         "https://sedo.com/de/ueber-uns/policies-gmbh/datenschutzrichtlinien-der-sedo-gmbh/",
         "https://sedo.com/de/ueber-uns/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

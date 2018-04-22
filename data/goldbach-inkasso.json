@@ -12,5 +12,8 @@
     "sources": [
         "https://inkasso-goldbach.com/datenschutz",
         "https://inkasso-goldbach.com/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

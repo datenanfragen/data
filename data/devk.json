@@ -25,5 +25,8 @@
     "sources": [
         "https://www.devk.de/footer/rechtliches/datenschutz/index.jsp",
         "https://www.devk.de/footer/rechtliches/impressum/index.jsp"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -12,5 +12,8 @@
     "sources": [
         "https://finance.arvato.com/de/ueber-arvato/impressum.html",
         "https://finance.arvato.com/de/ueber-arvato/datenschutz.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

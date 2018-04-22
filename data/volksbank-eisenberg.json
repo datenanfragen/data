@@ -11,5 +11,8 @@
     "web": "https://www.my-volksbank.de/",
     "sources": [
         "https://www.my-volksbank.de/datenschutz.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -13,5 +13,8 @@
         "https://www.deutsche-bank.de/pfb/content/pk-datenschutz.html",
         "https://www.deutsche-bank.de/pfb/content/pk-rechtliche-hinweise.html?pfb_toggle=34735-34741",
         "https://www.deutsche-bank.de/pfb/data/docs/ser-DB_EU-Datenschutzhinweise_AG.pdf"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

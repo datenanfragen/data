@@ -20,5 +20,8 @@
     "sources": [
         "https://www.vattenfall.de/de/datenschutz.htm",
         "https://www.vattenfall.de/de/impressum.htm"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

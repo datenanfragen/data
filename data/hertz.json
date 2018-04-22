@@ -17,5 +17,8 @@
     "sources": [
         "https://www.hertz.de/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp",
         "https://www.hertz.de/rentacar/misc/simpleIndex.jsp?targetPage=Impressum.xml"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

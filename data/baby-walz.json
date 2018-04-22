@@ -11,5 +11,8 @@
     "sources": [
         "https://www.baby-walz.de/datenschutz/",
         "https://www.baby-walz.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -12,5 +12,8 @@
     "sources": [
         "https://www.dkb.de/info/impressum/",
         "https://www.dkb.de/kundenservice/datenschutz"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

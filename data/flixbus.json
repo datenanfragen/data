@@ -17,5 +17,8 @@
         "https://meinfernbus.de/de/datenschutz.html",
         "https://cdn.flixbus.de/2017-11/data-privacy.pdf",
         "https://www.flixbus.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

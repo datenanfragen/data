@@ -15,5 +15,8 @@
     "sources": [
         "https://www.casando.de/info/datenschutz/",
         "https://www.casando.de/info/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

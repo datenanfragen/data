@@ -42,5 +42,8 @@
             "type": "input",
             "optional": true
         }
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

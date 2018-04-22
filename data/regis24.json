@@ -27,5 +27,8 @@
             "desc": "Adresse",
             "type": "address"
         }
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

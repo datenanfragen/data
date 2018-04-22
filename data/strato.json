@@ -12,5 +12,8 @@
     "sources": [
         "https://www.strato.de/datenschutz/",
         "https://www.strato.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

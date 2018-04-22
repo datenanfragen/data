@@ -18,5 +18,8 @@
     "sources": [
         "https://www.roland-rechtsschutz.de/datenschutz/datenschutz.html",
         "https://www.roland-rechtsschutz.de/impressum/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

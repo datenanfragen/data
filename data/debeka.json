@@ -20,5 +20,8 @@
     "sources": [
         "https://www.debeka.de/datenschutz/index.html",
         "https://www.debeka.de/anbieter.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

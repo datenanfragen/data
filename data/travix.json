@@ -20,5 +20,8 @@
         "https://s1.travix.com/budgetair/UK/buauk-privacy-en.pdf",
         "https://s1.travix.com/cheaptickets/NL/assets/pdf/ctnl-privacy-nl.pdf",
         "https://s1.travix.com/vliegwinkel/NL/assets/pdf/vwnl-privacy-nl.pdf"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

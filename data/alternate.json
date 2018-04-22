@@ -11,5 +11,8 @@
     "web": "https://www.alternate.de/",
     "sources": [
         "https://www.alternate.de/HILFE/ALTERNATE/Datenschutz"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

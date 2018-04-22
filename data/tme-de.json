@@ -12,5 +12,8 @@
     "sources": [
         "https://www.tme.eu/de/pages/Datenschutz.html",
         "https://www.tme.eu/de/pages/Impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

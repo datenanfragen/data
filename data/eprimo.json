@@ -16,5 +16,8 @@
     "sources": [
         "https://www.eprimo.de/ueber-eprimo/datenschutzerklaerung",
         "https://www.eprimo.de/ueber-eprimo/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

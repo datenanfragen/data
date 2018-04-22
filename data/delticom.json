@@ -31,5 +31,8 @@
         "https://www.sportfahrwerk.biz/datenschutz.html",
         "https://www.komplettraeder24.de/datenschutz.html",
         "https://www.reifendirekt.de/Impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

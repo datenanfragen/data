@@ -12,5 +12,8 @@
     "sources": [
         "https://www.adu-inkasso.de/impressum/datenschutz/",
         "https://www.adu-inkasso.de/Impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

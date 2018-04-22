@@ -12,5 +12,8 @@
     "sources": [
         "https://www.abebooks.de/Unternehmen/Datenschutzerklaerung.shtml",
         "https://www.abebooks.de/Unternehmen/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

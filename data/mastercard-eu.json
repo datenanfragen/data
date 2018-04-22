@@ -12,5 +12,8 @@
     "sources": [
         "https://www.mastercard.de/de-de/datenschutz.html",
         "https://www.mastercard.de/de-de/datenschutz/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

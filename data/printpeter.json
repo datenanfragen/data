@@ -15,5 +15,8 @@
     "sources": [
         "https://www.pluspeter.com/datenschutzerklarung/",
         "https://www.pluspeter.com/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -6,7 +6,7 @@
     "name": "General Logistics Systems Germany GmbH & Co. OHG",
     "runs": [
         "GLS Paketdienst",
-        null
+        "GLS-ONE"
     ],
     "address": "GLS Germany-Straße 1 – 7\n36286 Neuenstein\nDeutschland",
     "phone": "+49 6677 646907000",
@@ -21,5 +21,8 @@
     ],
     "comments": [
         "Faxnummer ist von der Debitorenbuchhaltung."
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -12,5 +12,8 @@
     "sources": [
         "http://www.bid-coburg.de/impressum/#datenschutz",
         "http://www.bid-coburg.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

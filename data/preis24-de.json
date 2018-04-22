@@ -15,5 +15,8 @@
     "sources": [
         "https://www.preis24.de/datenschutz/",
         "https://www.preis24.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

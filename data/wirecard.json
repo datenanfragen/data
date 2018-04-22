@@ -12,5 +12,8 @@
     "sources": [
         "https://www.wirecard.de/datenschutz/",
         "https://www.wirecard.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -12,5 +12,8 @@
     "sources": [
         "https://www.vwfs.de/service/rechtliches/datenschutz.html",
         "https://www.volkswagenbank.de/de/privatkunden/kundenservice/hilfe/fragen_Antworten/allgemeines/datenschutz.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

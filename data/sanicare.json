@@ -16,5 +16,8 @@
         "https://www.sanicare.de/datenschutz",
         "https://www.sanicare.de/images/generic_attachments/attachments/sanicare/Oeffentliches_Verfahrensverzeichnis_V5.pdf",
         "https://www.sanicare.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

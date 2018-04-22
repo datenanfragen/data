@@ -15,5 +15,8 @@
     "sources": [
         "https://www.happycar.de/info/datenschutz",
         "https://www.happycar.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

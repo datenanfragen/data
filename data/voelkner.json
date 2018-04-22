@@ -15,5 +15,8 @@
     "sources": [
         "https://www.voelkner.de/Datenschutz.html",
         "https://www.voelkner.de/Impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

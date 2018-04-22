@@ -10,5 +10,11 @@
     "web": "https://riskident.com",
     "comments": [
         "Externer Datenschutzbeauftragter: Christian Mommers, intersoft consulting services AG, Frankenstraße 18a, 20097 Hamburg, Deutschland.\nTelefon: +49 40 7902350, E-Mail: cmommers@intersoft-consulting.de"
+    ],
+    "sources": [
+        "https://riskident.com/en/legal-disclosure/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

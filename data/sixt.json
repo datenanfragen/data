@@ -12,5 +12,8 @@
     "sources": [
         "https://www.sixt.de/informationen/datenschutz/",
         "https://www.sixt.de/informationen/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

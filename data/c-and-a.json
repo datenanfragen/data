@@ -11,5 +11,8 @@
     "sources": [
         "https://www.c-and-a.com/de/de/shop/service/datenschutz",
         "https://www.c-and-a.com/de/de/shop/service/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

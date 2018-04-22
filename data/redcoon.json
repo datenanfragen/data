@@ -12,5 +12,8 @@
     "sources": [
         "https://www.redcoon.de/privacy",
         "https://www.redcoon.de/imprint"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

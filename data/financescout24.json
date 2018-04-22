@@ -11,5 +11,8 @@
     "sources": [
         "https://www.financescout24.de/unternehmen/datenschutz",
         "https://www.financescout24.de/unternehmen/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

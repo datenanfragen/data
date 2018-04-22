@@ -5,7 +5,6 @@
     ],
     "name": "Wix.com Luxembourg S.a.r.l",
     "runs": [
-        null,
         "Wix.com Inc."
     ],
     "address": "5, rue Guillaume Kroll\nL-1882 Luxembourg\nLuxembourg",
@@ -15,5 +14,8 @@
     "sources": [
         "https://de.wix.com/about/privacy",
         "http://de.wix.com/about/impressum-wix"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

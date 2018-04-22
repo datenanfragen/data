@@ -12,5 +12,8 @@
     "sources": [
         "https://www.targobank.de/datenschutz/index.html",
         "https://www.targobank.de/impressum/index.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

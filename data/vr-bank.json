@@ -12,5 +12,8 @@
     "sources": [
         "https://www.vr.de/privatkunden/service/datenschutz.html",
         "https://www.vr.de/privatkunden/service/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

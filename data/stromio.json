@@ -13,5 +13,8 @@
         "http://www.stromio.de/datenschutz.html",
         "http://www.stromio.de/impressum.html",
         "http://www.stromio.de/kundenservice.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

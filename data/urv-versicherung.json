@@ -12,5 +12,8 @@
     "sources": [
         "https://www.urv.de/content/privatkunden/ueber-uns/datenschutz/",
         "https://www.urv.de/content/privatkunden/ueber-uns/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

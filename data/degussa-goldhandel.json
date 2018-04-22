@@ -12,5 +12,8 @@
     "sources": [
         "https://shop.degussa-goldhandel.de/datenschutz",
         "https://shop.degussa-goldhandel.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

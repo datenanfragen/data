@@ -16,5 +16,8 @@
     "sources": [
         "https://www.generali.de/ueber-generali/datenschutz/mobility",
         "https://www.generali.de/ueber-generali/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

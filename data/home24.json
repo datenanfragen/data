@@ -16,5 +16,8 @@
     "sources": [
         "https://www.home24.de/datenschutz/",
         "https://www.home24.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

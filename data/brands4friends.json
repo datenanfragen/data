@@ -14,5 +14,8 @@
     "sources": [
         "https://www.brands4friends.de/webshop/about/privacy",
         "https://www.brands4friends.de/webshop/about/imprint"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -29,5 +29,8 @@
     ],
     "comments": [
         "Erbitten frühere Anschriften nur, wenn Änderung in den letzten 36 Monaten stattgefunden hat."
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

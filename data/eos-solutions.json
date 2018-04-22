@@ -13,5 +13,8 @@
     "sources": [
         "https://www.eos-solutions.com/de/datenschutz/",
         "https://www.eos-solutions.com/de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

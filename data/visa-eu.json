@@ -11,5 +11,8 @@
     "sources": [
         "https://www.visa.de/datenschutz",
         "https://www.visa.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

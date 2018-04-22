@@ -12,5 +12,8 @@
     "sources": [
         "https://www.htp.net/datenschutz/",
         "https://www.htp.net/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

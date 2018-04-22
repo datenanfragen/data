@@ -12,5 +12,8 @@
     "sources": [
         "https://www.obi.de/disclaimer/",
         "https://www.obi.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

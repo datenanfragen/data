@@ -11,5 +11,8 @@
     "sources": [
         "https://www.ao.de/hilfe-service/rechtliches/datenschutzerkl%C3%A4rung",
         "https://www.ao.de/hilfe-service/rechtliches/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

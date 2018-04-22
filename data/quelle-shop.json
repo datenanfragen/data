@@ -16,5 +16,8 @@
     "comments": [
         "Achtung: Telefonnummer ist kostenpflichtig (Festnetz 20 Cent/Verbindung inkl. MwSt., Mobilfunk max. 60 Cent/Verbindung inkl. MwSt.)!",
         "Achtung: Faxnummer ist kostenpflichtig!"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

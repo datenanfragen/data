@@ -11,5 +11,8 @@
     "sources": [
         "http://www.ayondo.com/de/privacy-policy/",
         "http://www.ayondo.com/de/imprint/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

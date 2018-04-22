@@ -15,5 +15,8 @@
     "sources": [
         "https://www.ikea.com/ms/de_DE/popup/pp_popup.html",
         "https://www.ikea.com/ms/de_DE/customer_service/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

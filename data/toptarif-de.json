@@ -16,5 +16,8 @@
     "sources": [
         "https://www.toptarif.de/datenschutz/",
         "https://www.toptarif.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

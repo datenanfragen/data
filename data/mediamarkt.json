@@ -11,5 +11,8 @@
     "sources": [
         "https://www.mediamarkt.de/de/shop/Datenschutzerklaerung.html",
         "https://www.mediamarkt.de/de/shop/Impressum-Mediamarkt.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

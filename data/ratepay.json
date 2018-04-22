@@ -12,5 +12,8 @@
     "sources": [
         "https://www.ratepay.com/zusaetzliche-geschaeftsbedingungen-und-datenschutzhinweis-dach/#dse_de",
         "https://www.ratepay.com/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

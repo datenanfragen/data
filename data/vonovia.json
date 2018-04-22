@@ -13,5 +13,8 @@
         "https://www.vonovia.de/datenschutz",
         "https://www.vonovia.de/kundenportal/datenschutz",
         "https://www.vonovia.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

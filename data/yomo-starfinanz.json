@@ -15,5 +15,8 @@
     "sources": [
         "https://yomo.de/datenschutz",
         "https://yomo.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

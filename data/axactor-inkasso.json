@@ -12,5 +12,8 @@
     "sources": [
         "https://www.axactor.de/privacy",
         "https://www.axactor.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

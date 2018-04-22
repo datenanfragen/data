@@ -12,5 +12,8 @@
     "sources": [
         "https://www.pearl.de/infos/datenschutz.htm",
         "https://www.pearl.de/infos/default.htm"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

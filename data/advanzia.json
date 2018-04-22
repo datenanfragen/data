@@ -20,5 +20,8 @@
         "https://www.gebuhrenfrei.com/Impressum/",
         "https://www.cartezero.fr/mentions-legales/",
         "https://www.free.at/Impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

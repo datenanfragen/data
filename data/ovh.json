@@ -12,5 +12,8 @@
     "sources": [
         "https://www.ovh.de/unternehmen/datenschutz.xml",
         "https://www.ovh.de/support/impressum-und-rechtshinweise/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

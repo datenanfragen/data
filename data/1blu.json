@@ -12,5 +12,8 @@
     "sources": [
         "https://www.1blu.de/datenschutz/",
         "https://www.1blu.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

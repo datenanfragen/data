@@ -17,5 +17,8 @@
     "sources": [
         "https://www.innogy.com/web/cms/de/3068482/home/datenschutz/",
         "https://www.innogy.com/web/cms/de/3068486/home/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -18,5 +18,8 @@
     ],
     "comments": [
         "Telefonnummer ist für Vertragskunden. Alternative Nummer für Prepaidkunden: +49 40 34 8585 305"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

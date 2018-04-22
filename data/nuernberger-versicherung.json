@@ -24,5 +24,8 @@
         "https://www.nuernberger.de/datenschutz/",
         "https://www.nuernberger.de/medien/pdf/datenschutz/datenschutzhinweise-fuer-vn.pdf",
         "https://www.nuernberger.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -13,5 +13,8 @@
     "sources": [
         "https://www.jochen-schweizer.de/datenschutz/JS_DATENSCHUTZ,default,pg.html",
         "https://www.jochen-schweizer.de/impressum-jochen-schweizer/JS_IMPRESSUM,default,pg.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

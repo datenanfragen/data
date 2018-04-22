@@ -12,5 +12,8 @@
     "sources": [
         "https://alfahosting.de/datenschutz/",
         "https://alfahosting.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

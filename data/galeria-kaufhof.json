@@ -15,5 +15,8 @@
     "sources": [
         "https://www.galeria-kaufhof.de/service/datenschutz/",
         "https://www.galeria-kaufhof.de/service/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

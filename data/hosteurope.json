@@ -12,5 +12,8 @@
     "sources": [
         "https://www.hosteurope.de/AGB/Datenschutzerklaerung/",
         "https://www.hosteurope.de/Impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

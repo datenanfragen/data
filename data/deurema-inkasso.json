@@ -11,5 +11,8 @@
     "web": "https://www.deurema.de",
     "sources": [
         "https://www.deurema.de/impressum-dl-infov.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

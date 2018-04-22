@@ -12,5 +12,8 @@
     "sources": [
         "https://www.vkb.de/content/ueber-uns/unternehmen/datenschutz-compliance/datenschutz/",
         "https://www.vkb.de/content/ueber-uns/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

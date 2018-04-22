@@ -12,5 +12,8 @@
     "sources": [
         "http://www.sparda.de/datenschutz.php",
         "http://www.sparda.de/impressum.php"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

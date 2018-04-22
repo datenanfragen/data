@@ -13,5 +13,8 @@
     "sources": [
         "https://www.fti.de/datenschutz.html",
         "https://www.fti.de/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -16,5 +16,8 @@
         "https://www.lidl.de/de/datenschutz/s21",
         "https://www.lidl.de/de/impressum/s5",
         "https://www.lidl.de/de/gesetzliche-zusatzinformationen/s9"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

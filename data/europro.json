@@ -13,5 +13,8 @@
     "sources": [
         "https://www.europro.de/datenschutz/",
         "https://www.europro.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -15,5 +15,8 @@
     "sources": [
         "https://linevast.de/datenschutz.html",
         "https://linevast.de/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

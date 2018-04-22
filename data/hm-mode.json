@@ -11,5 +11,8 @@
     "sources": [
         "https://www.hm.com/de/customer-service/legal-and-privacy/privacy-policy",
         "https://www.hm.com/de/customer-service/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

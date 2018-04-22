@@ -12,5 +12,8 @@
     "sources": [
         "https://www.limango.de/datenschutz",
         "https://www.limango.de/legal-information"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -16,5 +16,8 @@
     "sources": [
         "https://www.booking.com/content/privacy.de.html",
         "https://www.booking.com/content/legal.de.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

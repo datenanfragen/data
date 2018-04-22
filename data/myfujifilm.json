@@ -11,5 +11,8 @@
     "sources": [
         "https://www.myfujifilm.de/datenschutz",
         "https://www.myfujifilm.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -13,5 +13,8 @@
     "sources": [
         "https://www.mydays.de/datenschutz",
         "https://www.mydays.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

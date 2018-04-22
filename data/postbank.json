@@ -12,5 +12,8 @@
     "sources": [
         "https://www.postbank.de/postbank/wu_datenschutz.html",
         "https://www.postbank.de/postbank/wu_impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

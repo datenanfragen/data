@@ -15,5 +15,8 @@
     "sources": [
         "https://www.amv.de/datenschutz/",
         "https://www.amv.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

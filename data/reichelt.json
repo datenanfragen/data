@@ -12,5 +12,8 @@
     "sources": [
         "https://www.reichelt.de/Infocenter/Datenschutz/12/63/index.html?ACTION=12&LA=0&PAGE=63&SID=92WrHQzKwQAT4AADKpzw87b85bcc251e843bf0cfe1d0c4d301db4",
         "https://www.reichelt.de/Infocenter/Impressum/12/42/index.html?ACTION=12&LA=12&PAGE=42"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -16,5 +16,8 @@
     "sources": [
         "https://www.tnt.com/express/de_de/site/home/terms-conditions.html",
         "https://www.tnt.com/express/de_de/site/home/Impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

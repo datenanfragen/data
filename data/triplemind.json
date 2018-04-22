@@ -25,5 +25,8 @@
         "http://www.mietwagen.info/datenschutz/",
         "https://www.billigweg.de/impressum/",
         "http://www.triplemind.com/kontakt/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -14,5 +14,8 @@
         "https://www.parship.de/aboutus/",
         "https://www.elitepartner.de/privacypolicy/",
         "https://www.elitepartner.de/aboutus/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -24,5 +24,8 @@
         "https://www.edeka-mobil.de/impressum.html",
         "https://www.otelo.de/datenschutz",
         "https://www.otelo.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

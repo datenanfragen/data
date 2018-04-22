@@ -13,5 +13,8 @@
     "sources": [
         "https://www.psd-braunschweig.de/spezialseiten/datenschutz/c415.html",
         "https://www.psd-braunschweig.de/spezialseiten/impressum/c413.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

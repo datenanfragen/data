@@ -52,5 +52,8 @@
         "https://www.mcsim.de/datenschutz",
         "https://www.bigsim.de/datenschutz",
         "https://www.simdiscount.de/datenschutz.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

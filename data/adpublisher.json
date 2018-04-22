@@ -12,5 +12,8 @@
     "sources": [
         "https://www.adpublisher.com/de/datenschutz.html",
         "https://www.adpublisher.com/de/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

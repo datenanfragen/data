@@ -12,5 +12,8 @@
     "sources": [
         "https://www.mytheresa.com/de-de/service/privacy-policy/",
         "https://www.mytheresa.com/de-de/service/imprint/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

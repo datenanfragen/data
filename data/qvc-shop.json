@@ -14,5 +14,8 @@
     ],
     "comments": [
         "Erbittet datenschutzspezifische Anfragen per E-Mail zu senden."
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

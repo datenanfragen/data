@@ -12,5 +12,8 @@
     "sources": [
         "https://www.bonprix.de/service/datenschutz/",
         "https://www.bonprix.de/service/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

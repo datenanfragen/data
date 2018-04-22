@@ -22,5 +22,8 @@
     "comments": [
         "Spezielle E-Mail-Adresse für den Webshop: datenschutz-webshop@medion.com",
         "Spezielle E-Mail-Adresse für MEDIONmobile (ALDI Talk): datenschutz-alditalk@medion.com"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

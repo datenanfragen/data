@@ -11,5 +11,8 @@
     "sources": [
         "https://www.comtech.de/datenschutz",
         "https://www.comtech.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

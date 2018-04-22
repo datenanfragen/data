@@ -21,5 +21,8 @@
         "https://www2.ewe.de/privatkunden/datenschutzerklaerung",
         "https://www2.ewe.de/privatkunden/impressum",
         "https://www.osnatel.de/osnatel-erkunden/datenschutz"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

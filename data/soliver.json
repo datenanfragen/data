@@ -12,5 +12,8 @@
     "sources": [
         "https://www.soliver.de/datenschutzbestimmungen-GENERAL_PRIVACY.html",
         "https://www.soliver.de/impressum-GENERAL_LEGAL_NOTICE.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

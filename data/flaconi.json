@@ -12,5 +12,8 @@
     "sources": [
         "https://www.flaconi.de/datenschutz/",
         "https://www.flaconi.de/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -15,5 +15,8 @@
     "sources": [
         "https://www.karstadt.de/privacy.html",
         "https://www.karstadt.de/legal.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

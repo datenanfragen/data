@@ -11,5 +11,8 @@
     "sources": [
         "https://www.aboutyou.de/datenschutz",
         "https://www.aboutyou.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

@@ -15,5 +15,8 @@
     "sources": [
         "https://www.europcar.de/datenschutzrichtlinie",
         "https://www.europcar.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

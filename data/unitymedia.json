@@ -19,5 +19,8 @@
     "sources": [
         "https://www.unitymedia.de/privatkunden/datenschutz/",
         "https://www.unitymedia.de/privatkunden/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

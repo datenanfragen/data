@@ -11,5 +11,8 @@
     "sources": [
         "https://www.commerzbank.de/portal/de/footer1/datenschutzhinweise/Datenschutzhinweise.html",
         "https://www.commerzbank.de/portal/de/footer1/impressum/impressum_1.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

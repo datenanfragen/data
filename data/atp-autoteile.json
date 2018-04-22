@@ -12,5 +12,8 @@
     "sources": [
         "https://www.atp-autoteile.de/de/privacy",
         "https://www.atp-autoteile.de/de/imprint"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

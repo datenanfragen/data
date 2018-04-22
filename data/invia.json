@@ -47,5 +47,8 @@
         "http://www.travelchannel.de/service/impressum.html",
         "http://www.billigflug.de/service/privacy",
         "http://www.billigflug.de/service/imprint"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

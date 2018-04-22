@@ -9,5 +9,8 @@
     "sources": [
         "https://www.immobilienscout24.de/agb/datenschutz.html",
         "https://www.immobilienscout24.de/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

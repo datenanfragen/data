@@ -12,5 +12,8 @@
     "sources": [
         "https://www.norisbank.de/service/rechtliches.html",
         "https://www.norisbank.de/ueberuns/impressum.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

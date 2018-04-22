@@ -10,5 +10,8 @@
     "sources": [
         "http://www.asos.de/",
         "http://www.asos.de/datenschutz/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

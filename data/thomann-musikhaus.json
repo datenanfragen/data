@@ -12,5 +12,8 @@
     "sources": [
         "https://www.thomann.de/de/compinfo_privacy.html",
         "https://www.thomann.de/de/compinfo_imprint.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

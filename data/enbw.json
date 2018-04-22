@@ -14,5 +14,8 @@
     "sources": [
         "https://www.enbw.com/datenschutz/",
         "https://www.enbw.com/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

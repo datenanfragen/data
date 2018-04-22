@@ -13,5 +13,8 @@
         "https://www.provinzial-online.de/content/privat/service/datenschutz/index.html",
         "https://www.provinzial-nordwest.de/export/sites/pkp/_resources/download/meta/Hinweise_zum_Datenschutz.pdf",
         "https://www.provinzial-online.de/content/privat/service/impressum/index.html"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

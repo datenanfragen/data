@@ -16,5 +16,8 @@
     "sources": [
         "https://www.e-wie-einfach.de/datenschutz",
         "https://www.e-wie-einfach.de/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

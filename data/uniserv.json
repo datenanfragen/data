@@ -12,5 +12,8 @@
     "sources": [
         "https://www.uniserv.com/datenschutz/",
         "https://www.uniserv.com/impressum/"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

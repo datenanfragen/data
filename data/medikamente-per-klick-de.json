@@ -12,5 +12,8 @@
     "sources": [
         "https://www.medikamente-per-klick.de/Datenschutz",
         "https://www.medikamente-per-klick.de/Impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }

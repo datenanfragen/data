@@ -16,5 +16,8 @@
     "sources": [
         "https://www.avis.de/das-kleingedruckte/datenschutzrichtlinien",
         "https://www.avis.de/das-kleingedruckte/impressum"
+    ],
+    "relevant-countries": [
+        "de"
     ]
 }
