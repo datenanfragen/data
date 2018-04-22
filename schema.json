@@ -1,11 +1,12 @@
 {
-	"$schema": "http://json-schema.org/draft-03/schema#",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"title": "Datenanfragen.de company database record",
+	"description": "A single record of the Datenanfragen.de company database. It represents the contact information of a company (or other organization) specifically for privacy-related inquires and requests.\nMore information and access to the whole database at: https://github.com/datenanfragen/companies",
 	"type": "object",
 	"properties": {
 		"slug": {
 			"type": "string",
-			"title": "Slug",
-			"required": true
+			"title": "Slug"
 		},
 		"categories": {
 			"type": "array",
@@ -18,8 +19,7 @@
 		},
 		"name": {
 			"type": "string",
-			"title": "Name",
-			"required": true
+			"title": "Name"
 		},
 		"runs": {
 			"type": "array",
@@ -32,33 +32,36 @@
 		"address": {
 			"type": "string",
 			"title": "Address",
-			"format": "text",
-			"required": true
+			"format": "text"
 		},
 		"phone": {
 			"type": "string",
-			"title": "Phone"
+			"title": "Phone",
+			"pattern": "^\\+\\d+ \\d+ [\\d ]+$"
 		},
 		"fax": {
 			"type": "string",
-			"title": "Fax"
+			"title": "Fax",
+			"pattern": "^\\+\\d+ \\d+ [\\d ]+$"
 		},
 		"email": {
 			"type": "string",
-			"title": "E-mail"
+			"title": "E-mail",
+			"format": "idn-email"
 		},
 		"web": {
 			"type": "string",
-			"title": "Website"
+			"title": "Website",
+			"format": "uri"
 		},
 		"sources": {
 			"type": "array",
 			"title": "Sources",
 			"uniqueItems": true,
 			"items": {
-				"type": "string"
-			},
-			"required": true
+				"type": "string",
+				"format": "uri"
+			}
 		},
 		"required-elements-access": {
 			"type": "array",
@@ -69,13 +72,11 @@
 				"properties": {
 					"desc": {
 						"type": "string",
-						"title": "Description",
-						"required": true
+						"title": "Description"
 					},
 					"type": {
 						"type": "string",
 						"title": "Type",
-						"required": true,
 						"default": "input",
 						"enum": [ "input", "textarea", "address", "name" ]
 					},
@@ -83,7 +84,8 @@
 						"type": "boolean",
 						"title": "Optional?"
 					}
-				}
+				},
+				"required": [ "desc", "type" ]
 			}
 		},
 		"required-elements-erasure": {
@@ -95,13 +97,11 @@
 				"properties": {
 					"desc": {
 						"type": "string",
-						"title": "Description",
-						"required": true
+						"title": "Description"
 					},
 					"type": {
 						"type": "string",
 						"title": "Type",
-						"required": true,
 						"default": "input",
 						"enum": [ "input", "textarea", "address", "name" ]
 					},
@@ -109,7 +109,33 @@
 						"type": "boolean",
 						"title": "Optional?"
 					}
-				}
+				},
+				"required": [ "desc", "type" ]
+			}
+		},
+		"required-elements-rectification": {
+			"type": "array",
+			"title": "Erasure elements",
+			"uniqueItems": true,
+			"items": {
+				"type": "object",
+				"properties": {
+					"desc": {
+						"type": "string",
+						"title": "Description"
+					},
+					"type": {
+						"type": "string",
+						"title": "Type",
+						"default": "input",
+						"enum": [ "input", "textarea", "address", "name" ]
+					},
+					"optional": {
+						"type": "boolean",
+						"title": "Optional?"
+					}
+				},
+				"required": [ "desc", "type" ]
 			}
 		},
 		"custom-access-template": {
@@ -119,6 +145,10 @@
 		"custom-erasure-template": {
 			"type": "string",
 			"title": "Custom erasure template"
+		},
+		"custom-rectification-template": {
+			"type": "string",
+			"title": "Custom rectification template"
 		},
 		"needs-id-document": {
 			"type": "boolean",
@@ -132,5 +162,6 @@
 				"format": "text"
 			}
 		}
-	}
+	},
+	"required": [ "slug", "name", "address", "sources" ]
 }
