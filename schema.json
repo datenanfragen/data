@@ -102,7 +102,7 @@
 						"title": "Type",
 						"description": "The type of identification element.",
 						"default": "input",
-						"enum": [ "input", "textarea", "address", "name" ]
+						"enum": [ "input", "textarea", "address", "name", "birthdate" ]
 					},
 					"optional": {
 						"type": "boolean",

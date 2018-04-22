@@ -35,7 +35,7 @@
         },
         {
             "desc": "Geburtsdatum",
-            "type": "input"
+            "type": "birthdate"
         },
         {
             "desc": "E-Mail-Adresse",
