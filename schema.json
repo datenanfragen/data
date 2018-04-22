@@ -13,7 +13,7 @@
 		"relevant-countries": {
 			"type": "array",
 			"title": "Relevant countries",
-			"description": "A list of countries the record is relevant for. The countries can either be an ISO 3166-1 alpha-2 country code or 'all'. If a company has branches in different countries with unique contact data, separate records should be created for those.",
+			"description": "A list of countries the record is relevant for. The countries can either be an ISO 3166-1 alpha-2 country code or 'all'. If a company has branches in different countries with unique contact data, separate records should be created for those. If a company branch offers its services in English and isn't explicitly restricted to certain countries, 'all' should be specified.",
 			"uniqueItems": true,
 			"items": {
 				"type": "string",
@@ -117,7 +117,7 @@
 		"request-language": {
 			"type": "string",
 			"title": "Request language",
-			"description": "The language requests to the company (or specifically its branch as specified in the respective record) should be in. Has to be an ISO 639-1 language code.",
+			"description": "The language requests to the company (or specifically its branch as specified in the respective record) should be in. Has to be an ISO 639-1 language code. If not specified, fallback to the interface language.",
 			"pattern": "^[a-z]{2}$"
 		},
 		"custom-access-template": {
@@ -139,6 +139,12 @@
 			"type": "boolean",
 			"title": "Needs ID document?",
 			"description": "Whether an ID document is necessary for all requests to this company. Only to be set to `true` if an ID document is confirmed to be required in all circumstances. Default is `false`."
+		},
+		"suggested-transport-medium": {
+			"type": "string",
+			"title": "Suggested transport medium",
+			"description": "The transport medium a user should use for their privacy-related inquires and requests. If a specific privacy@[domain.tld] email address is available, 'email' should be specified. The default is a fallback chain as follows: fax -> letter -> email.",
+			"enum": [ "fax", "letter", "email" ]
 		},
 		"comments": {
 			"type": "array",
