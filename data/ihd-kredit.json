@@ -13,7 +13,7 @@
     "sources": [
         "https://www.ihd.de/impressum/"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

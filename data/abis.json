@@ -12,7 +12,7 @@
         "https://www.abis-online.de/datenschutz/datenschutzanfrage/",
         "https://www.abis-online.de/kontakt/impressum/"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

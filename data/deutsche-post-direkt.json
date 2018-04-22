@@ -13,7 +13,7 @@
         "https://service.postdirekt.de/pdportal/PublicServlet?command=content&page=datenschutz",
         "https://service.postdirekt.de/pdportal/PublicServlet?command=content&page=impressum"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

@@ -11,7 +11,7 @@
         "https://www.weltbild.de/service/datenschutz",
         "https://www.weltbild.de/service/impressum"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

@@ -14,7 +14,7 @@
         "https://www.regis24.de/datenschutz/",
         "https://www.regis24.de/impressum/"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

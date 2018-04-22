@@ -12,7 +12,7 @@
     "sources": [
         "https://www.comdirect.de/cms/hilfe-service-sicherheit-datenschutz.html"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

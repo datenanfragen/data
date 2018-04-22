@@ -18,7 +18,7 @@
         "https://www.cosmosdirekt.de/datenschutz/",
         "https://www.cosmosdirekt.de/impressum/"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

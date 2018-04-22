@@ -11,7 +11,7 @@
         "https://www.egentic.com/datenschutz/?lang=de",
         "https://www.egentic.com/the-imprint/?lang=de"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

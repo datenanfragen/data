@@ -13,7 +13,7 @@
         "https://next.n26.com/de-de/legal-documents/privacy-policy",
         "https://next.n26.com/de-de/legal-documents/imprint"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

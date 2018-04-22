@@ -14,7 +14,7 @@
         "http://www.acxiom.de/impressum/",
         "https://marketing.acxiom.com/AcxiomDE-Verbraucheranfragen.html"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

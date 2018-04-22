@@ -12,7 +12,7 @@
         "https://finance.arvato.com/de/verbraucher/selbstauskunft.html",
         "https://www.arvato.com/content/dam/arvato/documents/financial-solutions/Antrag_Selbstauskunft_infoscore_Consumer_Data_GmbH.pdf"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

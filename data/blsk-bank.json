@@ -14,7 +14,7 @@
         "https://www.nordlb.de/rechtliches/datenschutz/",
         "https://www.blsk.de/de/home/toolbar/impressum.html?n=true&stref=footer"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

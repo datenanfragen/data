@@ -13,7 +13,7 @@
         "https://pages.ebay.de/help/policies/privacy-policy.html",
         "https://pages.ebay.de/help/policies/legal-imprint.html"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

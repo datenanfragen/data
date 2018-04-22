@@ -110,6 +110,7 @@
 						"description": "Whether the identification element is optional. Default is `false`."
 					}
 				},
+				"additionalProperties": false,
 				"required": [ "desc", "type" ]
 			}
 		},
@@ -149,5 +150,6 @@
 			}
 		}
 	},
+	"additionalProperties": false,
 	"required": [ "slug", "relevant-countries", "name", "address", "sources" ]
 }

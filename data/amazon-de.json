@@ -21,7 +21,7 @@
         "https://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=201909010",
         "https://www.amazon.de/gp/help/customer/display.html/ref=footer_impressum?ie=UTF8&nodeId=202024860"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

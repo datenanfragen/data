@@ -13,7 +13,7 @@
     "sources": [
         "https://www.crifbuergel.de/de/kontakt/selbstauskunft"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

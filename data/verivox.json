@@ -24,7 +24,7 @@
         "https://www.verivox.de/company/datenschutz-versicherungsvergleich/",
         "https://www.verivox.de/company/impressum/"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

@@ -13,7 +13,7 @@
         "http://www.az-direct.com/site/datenschutz/",
         "http://www.az-direct.com/site/impressum/"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

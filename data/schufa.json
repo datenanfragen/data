@@ -14,7 +14,7 @@
         "https://www.schufa.de/de/datenschutz/",
         "https://www.schufa.de/de/impressum/"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

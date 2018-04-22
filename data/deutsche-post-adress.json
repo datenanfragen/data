@@ -12,7 +12,7 @@
     "sources": [
         "https://www.deutschepost.de/de/p/postadress/kontakt.html"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

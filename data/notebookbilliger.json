@@ -21,7 +21,7 @@
         "https://support.notebooksbilliger.de/hc/de/articles/213043449-Wie-kann-ich-notebooksbilliger-de-kontaktieren-Kontakt-",
         "https://support.notebooksbilliger.de/hc/de/articles/211861809-Wie-kann-ich-Sie-telefonisch-erreichen-"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"

@@ -14,7 +14,7 @@
         "https://www.boniversum.de/datenschutzerklaerung/",
         "https://www.boniversum.de/impressum/"
     ],
-    "required-elements-access": [
+    "required-elements": [
         {
             "desc": "Name",
             "type": "name"
