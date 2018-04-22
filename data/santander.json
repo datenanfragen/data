@@ -7,7 +7,7 @@
     "address": "Santander Platz 1\nDatenschutzbeauftragter\n41061 Mönchengladbach\nDeutschland",
     "phone": "+49 2161 90 60 599",
     "fax": "+49 2161 90 65 598",
-    "email": " datenschutz@santander.de",
+    "email": "datenschutz@santander.de",
     "web": "https://www.santander.de",
     "sources": [
         "https://www.santander.de/privatkunden/service-kontakt/datenschutz/",
@@ -15,5 +15,6 @@
     ],
     "relevant-countries": [
         "de"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }

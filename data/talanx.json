@@ -51,5 +51,6 @@
         "de",
         "pl",
         "hu"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
