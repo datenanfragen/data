@@ -1,0 +1,19 @@
+{
+    "slug": "udemy",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Udemy, Inc.",
+    "address": "Attn: Privacy/Legal\n600 Harrison Street\n3rd Floor\nSan Francisco\nCA 94107\nUnited States of America",
+    "phone": "+1 760 483 3694",
+    "email": "privacy@udemy.com",
+    "web": "https://www.udemy.com/",
+    "sources": [
+        "https://www.udemy.com/terms/privacy/",
+        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=112762633"
+    ],
+    "suggested-transport-medium": "email"
+}
