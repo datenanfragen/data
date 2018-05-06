@@ -1,0 +1,20 @@
+{
+    "slug": "banggood",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Banggood Technology Co., Ltd.",
+    "address": "Room 38, 11/F, Mecco Industrial Building\n53–55 Au Pui Wan Street\nSha Tin\nNew Territories\nHong Kong",
+    "phone": "+852 3590 3678",
+    "email": "cservice@banggood.com",
+    "web": "https://www.banggood.com",
+    "sources": [
+        "https://www.banggood.com/Privacy-Policy_hl71_at244",
+        "https://www.banggood.com/Privacy-Policy_hl71_at249",
+        "https://www.banggood.com/Terms-And-Conditions_hl71_at192"
+    ],
+    "request-language": "en"
+}
