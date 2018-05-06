@@ -1,0 +1,22 @@
+{
+    "slug": "godaddy",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "GoDaddy Deutschland GmbH",
+    "runs": [
+        "GoDaddy.com, LLC",
+        "GoDaddy Inc."
+    ],
+    "address": "Data Protection Officer\nHansestraße 79\n51149 Cologne\nDeutschland",
+    "phone": "+49 32 221 094 047",
+    "email": "privacy@godaddy.com",
+    "web": "https://godaddy.com",
+    "sources": [
+        "https://godaddy.com/agreements/showdoc.aspx?pageid=PRIVACY"
+    ],
+    "suggested-transport-medium": "email"
+}
