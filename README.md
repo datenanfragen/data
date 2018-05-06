@@ -18,7 +18,17 @@ If a company requires a special template for requests under the GDPR, these can 
 
 ## Data format guidelines and resources
 
-### Address
+### Data sources
+
+We prefer privacy-specific contact details (usually found in a company's privacy policy). In particular, email addresses like `privacy@example.com` or `dpo@example.org` and phone/fax numbers specifically of data protection officers are preferred. If no specifc details are available, we use 'regular' contact details found on the company's website.
+
+Some companies don't publish adequate contact information on their website. In these cases, you can resort to third-party sources but do check the information very thoroughly depending on the source.
+
+* For US companies that are Privacy Shield certified, the [Privacy Shield List](https://www.privacyshield.gov/list) is a valuable resource for uncovering missing contact information.
+* Companies in the UK have their information listed in the [Companies House Search Register](https://beta.companieshouse.gov.uk/).
+* German companies are required by law to publish an 'Impressum' with their contact information. In addition to that, registered companies have to be listed in the [Handelsregister](https://www.handelsregister.de). This is a paid service but some information can be accessed for free.
+
+### Addresses
 
 We want the addresses to formatted consistently, so don't just copy the information directy from the company's website. Try to format the address according to the standards of the respective country. The Universial Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.
 
