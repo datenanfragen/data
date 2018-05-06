@@ -1,0 +1,15 @@
+{
+    "slug": "duolingo",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Duolingo, Inc.",
+    "address": "5900 Penn Avenue\nPittsburgh\nPA 15206\nUnited States of America",
+    "email": "privacy@duolingo.com",
+    "web": "https://www.duolingo.com/",
+    "sources": [
+        "https://www.duolingo.com/privacy",
+        "https://www.duolingo.com/terms"
+    ],
+    "suggested-transport-medium": "email"
+}
