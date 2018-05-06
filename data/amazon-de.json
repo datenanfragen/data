@@ -1,7 +1,8 @@
 {
     "slug": "amazon-de",
     "categories": [
-        "commerce"
+        "commerce",
+        "media"
     ],
     "name": "Amazon Deutschland Services GmbH",
     "runs": [
