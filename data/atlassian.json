@@ -1,0 +1,33 @@
+{
+    "slug": "atlassian",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Atlassian B.V.",
+    "runs": [
+        "Bitbucket (bitbucket.org)",
+        "Confluence",
+        "Jira",
+        "Statuspage (www.statuspage.io)",
+        "Hipchat",
+        "Stride (www.stride.com)",
+        "Atlassian Pty Ltd",
+        "Atlassian, Inc."
+    ],
+    "address": "c/o Atlassian, Inc.\n1098 Harrison Street\nSan Francisco\nCA 94103\nUnited States of America",
+    "phone": "+31 20 796 0060",
+    "email": "eudatarep@atlassian.com",
+    "web": "https://www.atlassian.com/",
+    "sources": [
+        "https://www.atlassian.com/legal/privacy-policy-may-25th",
+        "https://www.atlassian.com/company/contact"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative email: privacy@atlassian.com"
+    ]
+}
