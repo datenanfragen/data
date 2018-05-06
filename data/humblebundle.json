@@ -1,0 +1,22 @@
+{
+    "slug": "humblebundle",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce",
+        "entertainment"
+    ],
+    "name": "Humble Bundle, Inc.",
+    "address": "Attn: Privacy Shield\n201 Post St\nFloor 11\nSan Francisco\nCA 94108\nUnited States of America",
+    "phone": "+1 877 948 6253",
+    "web": "https://www.humblebundle.com/",
+    "sources": [
+        "https://www.humblebundle.com/privacy",
+        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=130405036"
+    ],
+    "request-language": "en",
+    "comments": [
+        "Support form: https://support.humblebundle.com/hc/en-us/requests/new"
+    ]
+}
