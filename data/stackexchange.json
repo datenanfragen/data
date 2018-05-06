@@ -1,0 +1,32 @@
+{
+    "slug": "stackexchange",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Stack Exchange, Inc.",
+    "runs": [
+        "Stack Overflow (stackoverflow.com)",
+        "Server Fault (serverfault.com)",
+        "Super User (superuser.com)",
+        "Arqade (gaming.stackexchange.com)",
+        "Mathematics Stack Exchange (math.stackexchange.com)",
+        "Ask Ubuntu (askubuntu.com)",
+        "English Language & Usage Stack Exchange (english.stackexchange.com)",
+        "Ask Different (apple.stackexchange.com)"
+    ],
+    "address": "Attn: Data Protection Officer\n110 William St, 28th Floor\nNew York\nNY 10038\nUnited States of America ",
+    "fax": "+1 917 979 5453",
+    "email": "team@stackexchange.com",
+    "web": "https://stackexchange.com",
+    "sources": [
+        "https://stackexchange.com/legal/privacy-policy",
+        "https://stackexchange.com/legal/contact"
+    ],
+    "request-language": "en",
+    "comments": [
+        "A full list of network sites can be found at: https://stackexchange.com/sites"
+    ]
+}
