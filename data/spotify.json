@@ -1,0 +1,24 @@
+{
+    "slug": "spotify",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "media"
+    ],
+    "name": "Spotify AB",
+    "runs": [
+        "Spotify GmbH"
+    ],
+    "address": "Privacy Officer\nBirger Jarlsgatan 61\n113 56 Stockholm\nSweden",
+    "fax": "+49 30 5770 2443",
+    "email": "privacy@spotify.com",
+    "web": "https://www.spotify.com",
+    "sources": [
+        "https://www.spotify.com/en/legal/privacy-policy/"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Die Spotify GmbH sitzt: Leipziger Straße 125, 10117 Berlin, Deutschland."
+    ]
+}
