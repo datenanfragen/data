@@ -1,0 +1,19 @@
+{
+    "slug": "twitch",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Twitch Interactive, Inc.",
+    "address": "225 Bush Street\n9th Floor\nSan Francisco\nCA 94104\nUnited States of America",
+    "email": "privacy@twitch.tv",
+    "web": "https://www.twitch.tv",
+    "sources": [
+        "https://www.twitch.tv/p/legal/privacy-policy/",
+        "https://www.twitch.tv/p/legal/terms-of-service/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
