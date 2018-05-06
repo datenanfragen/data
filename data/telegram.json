@@ -1,0 +1,20 @@
+{
+    "slug": "telegram",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Telegram Messenger LLP",
+    "address": "71–75 Shelton Street\nCovent Garden\nLondon WC2H 9JQ\nUnited Kingdom",
+    "web": "https://telegram.org/",
+    "sources": [
+        "https://telegram.org/privacy",
+        "https://beta.companieshouse.gov.uk/company/OC391410"
+    ],
+    "request-language": "en",
+    "comments": [
+        "Support form: https://telegram.org/support"
+    ]
+}
