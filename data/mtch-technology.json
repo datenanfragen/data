@@ -1,5 +1,5 @@
 {
-    "slug": "okcupid",
+    "slug": "mtch-technology",
     "relevant-countries": [
         "all"
     ],
@@ -9,11 +9,14 @@
     "name": "MTCH Technology Services Ltd.",
     "runs": [
         "Humor Rainbow, Inc.",
-        "OkCupid (www.okcupid.com)"
+        "OkCupid (www.okcupid.com)",
+        "Plentyoffish (www.pof.com)"
     ],
     "address": "Privacy Officer\nPembroke House\n28–32 Pembroke Street Upper\nDublin 2\nIreland",
+    "email": "csr@pof.com",
     "web": "https://www.okcupid.com",
     "sources": [
-        "https://www.okcupid.com/legal/privacy"
+        "https://www.okcupid.com/legal/privacy",
+        "https://www.pof.com/cookiepolicy.aspx"
     ]
 }
