@@ -1,0 +1,18 @@
+{
+    "slug": "reddit",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Reddit, Inc.",
+    "address": "520 3rd Street\nSan Francisco\nCA 94107\nUnited States of America",
+    "email": "legal@reddit.com",
+    "web": "https://www.reddit.com/",
+    "sources": [
+        "https://www.redditinc.com/policies/privacy-policy",
+        "https://www.bloomberg.com/profiles/companies/0893288D:US-reddit-inc"
+    ],
+    "request-language": "en"
+}
