@@ -1,0 +1,27 @@
+{
+    "slug": "linkedin",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "LinkedIn Ireland Unlimited Company",
+    "runs": [
+        "LinkedIn Corp.",
+        "SlideShare (www.slideshare.net)",
+        "Lynda.com (www.lynda.com)"
+    ],
+    "address": "Attn: Legal Dept. (Privacy Policy)\nWilton Plaza\nWilton Place, Dublin 2\nIreland",
+    "email": "eu-dpo@linkedin.com",
+    "web": "https://www.linkedin.com/",
+    "sources": [
+        "https://www.linkedin.com/legal/preview/privacy-policy",
+        "https://www.linkedin.com/help/linkedin/answer/79728",
+        "https://www.lynda.com/aboutus/otl-privacy.aspx"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "How to download your data directly through the LinkedIn website: https://www.linkedin.com/help/linkedin/answer/50191"
+    ]
+}
