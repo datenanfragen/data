@@ -1,0 +1,20 @@
+{
+    "slug": "plex",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Plex GmbH",
+    "runs": [
+        "Plex Inc."
+    ],
+    "address": "Hansmatt 32\n6370 Stans\nNidwalden\nSwitzerland",
+    "email": "dataprotection@plexapp.com",
+    "web": "https://www.plex.tv",
+    "sources": [
+        "https://www.plex.tv/about/privacy-legal/privacy-policy-may-2018/"
+    ],
+    "suggested-transport-medium": "email"
+}
