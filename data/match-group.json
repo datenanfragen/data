@@ -1,0 +1,23 @@
+{
+    "slug": "match-group",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Match Group, LLC",
+    "runs": [
+        "Tinder (tinder.com)",
+        "Match.com (match.com)"
+    ],
+    "address": "Privacy Officer\n8750 North Central Expressway\nSuite 1400\nDallas\nTX 75231\nUnited States of America",
+    "email": "privacyinquiries@gotinder.com",
+    "web": "http://mtch.com",
+    "sources": [
+        "https://www.gotinder.com/privacy",
+        "http://mtch.com/brands/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
