@@ -1,0 +1,25 @@
+{
+    "slug": "adobe",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Adobe Systems Software Ireland Ltd.",
+    "runs": [
+        "Adobe Systems Inc.",
+        "Behance (www.behance.net)",
+        "Creative Cloud",
+        "Document Cloud",
+        "Adobe-ID"
+    ],
+    "address": "4–6 Riverwalk\nCity West Business Campus\nDublin 24\nIreland",
+    "phone": "+353 1 242 6700",
+    "fax": "+353 1 242 6711",
+    "email": "privacy@adobe.com",
+    "web": "https://www.adobe.com",
+    "sources": [
+        "https://www.adobe.com/privacy/policy.html",
+        "https://www.adobe.com/legal/terms.html",
+        "https://www.adobe.com/de/about-adobe/impressum.html"
+    ],
+    "suggested-transport-medium": "email"
+}
