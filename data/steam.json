@@ -1,0 +1,21 @@
+{
+    "slug": "steam",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Valve Corporation",
+    "runs": [
+        "Steam"
+    ],
+    "address": "P.O. Box 1688\nBellevue\nWA 98009\nUnited States of America",
+    "email": "webmaster@valvesoftware.com",
+    "web": "https://store.steampowered.com/",
+    "sources": [
+        "https://store.steampowered.com/privacy_agreement/",
+        "http://www.valvesoftware.com/contact/"
+    ],
+    "request-language": "en"
+}
