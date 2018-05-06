@@ -1,0 +1,20 @@
+{
+    "slug": "flipboard",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Flipboard, Inc.",
+    "address": "735 Emerson Street\nPalo Alto\nCA 94301\nUnited States of America",
+    "phone": "+1 650 488 3547",
+    "email": "privacy@flipboard.com",
+    "web": "https://flipboard.com/",
+    "sources": [
+        "https://about.flipboard.com/privacy/",
+        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=109653216"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
