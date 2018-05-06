@@ -1,0 +1,27 @@
+{
+    "slug": "snapchat",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Snap Group Ltd.",
+    "runs": [
+        "Snapchat (www.snapchat.com)",
+        "Bitmoji (www.bitmoji.com)",
+        "Snap Inc."
+    ],
+    "address": "63 Market St.\nVenice\nCA 90291\nUnited States of America",
+    "phone": "+1 424 443 6305",
+    "email": "privacy@snap.com",
+    "web": "https://www.snap.com",
+    "sources": [
+        "https://www.snap.com/en-US/privacy/privacy-policy/",
+        "https://www.snap.com/en-US/privacy/privacy-shield/",
+        "https://support.snapchat.com/en-US/a/impressum",
+        "https://www.privacyshield.gov/participant?id=a2zt0000000TNPxAAO&status=Active"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
