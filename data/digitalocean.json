@@ -1,0 +1,19 @@
+{
+    "slug": "digitalocean",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "DigitalOcean, LLC.",
+    "address": "101 Avenue of the Americas\n10th Floor\nNew York\nNY 10013\nUnited States of America",
+    "phone": "+1 888 890 6714",
+    "email": "legal@digitalocean.com",
+    "web": "https://www.digitalocean.com/",
+    "sources": [
+        "https://www.digitalocean.com/legal/privacy/",
+        "https://www.digitalocean.com/legal/terms/",
+        "https://www.ripe.net/membership/indices/data/eu.digitalocean.html"
+    ]
+}
