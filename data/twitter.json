@@ -1,0 +1,25 @@
+{
+    "slug": "twitter",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Twitter International Company",
+    "runs": [
+        "Twitter, Inc.",
+        "Periscope"
+    ],
+    "address": "Attn: Privacy Policy Inquiry\nOne Cumberland Place\nFenian Street\nDublin 2\nD02 AX07\nIreland",
+    "phone": "+1 415 222 9958",
+    "web": "https://twitter.com",
+    "sources": [
+        "https://twitter.com/en/privacy",
+        "https://legal.twitter.com/imprint"
+    ],
+    "comments": [
+        "Contact form for privacy-related questions: https://help.twitter.com/forms/privacy",
+        "Contact form for messages to the data protection officer: https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp"
+    ]
+}
