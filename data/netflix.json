@@ -1,0 +1,20 @@
+{
+    "slug": "netflix",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "media"
+    ],
+    "name": "Netflix International B.V.",
+    "address": "Stadhouderskade 55\n1072 AB Amsterdam\nNetherlands",
+    "phone": "+49 800 724 0697",
+    "email": "privacy@netflix.com",
+    "web": "https://www.netflix.com",
+    "sources": [
+        "https://help.netflix.com/legal/privacy",
+        "https://help.netflix.com/en/node/68708/de",
+        "https://help.netflix.com/en/node/2101"
+    ],
+    "suggested-transport-medium": "email"
+}
