@@ -1,0 +1,23 @@
+{
+    "slug": "pinterest",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Pinterest Europe Ltd.",
+    "runs": [
+        "Pinterest Inc.",
+        "Pinterest GmbH"
+    ],
+    "address": "Palmerston House\n2nd Floor\nFenian Street\nDublin 2\nIreland",
+    "web": "https://www.pinterest.com/",
+    "sources": [
+        "https://policy.pinterest.com/en/privacy-policy",
+        "https://policy.pinterest.com/en/impressumnetzdg"
+    ],
+    "comments": [
+        "Contact form: https://help.pinterest.com/en/contact"
+    ]
+}
