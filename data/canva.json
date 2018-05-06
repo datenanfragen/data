@@ -1,0 +1,15 @@
+{
+    "slug": "canva",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Canva Pty Ltd",
+    "address": "2/2 Lacey Street\nSurry Hills\nNSW 2010\nAustralia",
+    "email": "community@canva.com",
+    "web": "https://www.canva.com/",
+    "sources": [
+        "https://about.canva.com/privacy-policy/",
+        "https://about.canva.com/terms-of-use/"
+    ],
+    "request-language": "en"
+}
