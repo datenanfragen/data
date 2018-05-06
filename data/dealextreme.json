@@ -1,0 +1,22 @@
+{
+    "slug": "dealextreme",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Epro E-Commerce Ltd.",
+    "runs": [
+        "DealeXtreme (www.dx.com)"
+    ],
+    "address": "Room 301, Town Health Technology Centre\n10–12 Yuen Shun Circuit\nSha Tin\nNew Territories\nHong Kong",
+    "phone": "+852 755 33022388 8118",
+    "email": "ppsupport@mail.dealextreme.com",
+    "web": "https://www.dx.com/",
+    "sources": [
+        "https://www.dx.com/page-Privacy"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
