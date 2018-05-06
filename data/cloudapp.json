@@ -1,0 +1,19 @@
+{
+    "slug": "cloudapp",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "CloudPlus, Inc.",
+    "runs": [
+        "CloudApp (www.getcloudapp.com)"
+    ],
+    "address": "PO Box 29502 #96560\nLas Vegas\nNV 89126-9502\nUnited States of America",
+    "email": "privacy@getcloudapp.com",
+    "web": "https://www.getcloudapp.com/",
+    "sources": [
+        "https://www.getcloudapp.com/privacy",
+        "https://www.getcloudapp.com/terms"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
