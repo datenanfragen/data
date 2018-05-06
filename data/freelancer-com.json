@@ -1,0 +1,25 @@
+{
+    "slug": "freelancer-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce",
+        "finance"
+    ],
+    "name": "Freelancer International Pty Ltd",
+    "runs": [
+        "Freelancer Ltd."
+    ],
+    "address": "Level 20\nWorld Square\n680 George Street\nSydney NSW 2000\nAustralia",
+    "phone": "+61 2 9279 3305",
+    "email": "privacy@freelancer.com",
+    "web": "https://www.freelancer.com/",
+    "sources": [
+        "https://www.freelancer.com/about/privacy",
+        "https://www.freelancer.com/about/terms",
+        "http://www.hoovers.com/company-information/cs/company-profile.freelancer_international_pty_ltd.bcd0bcc39c4618bf.html"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
