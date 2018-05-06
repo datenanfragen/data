@@ -1,0 +1,23 @@
+{
+    "slug": "oath-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media",
+        "entertainment"
+    ],
+    "name": "Oath (EMEA) Ltd.",
+    "runs": [
+        "Yahoo (www.yahoo.com)",
+        "Aol. (www.aol.com)",
+        "Tumblr (www.tumblr.com)",
+        "Flickr (www.flickr.com)"
+    ],
+    "address": "Customer Care—Privacy Policy Issues\n5–7 Point Square\nNorth Wall Quay\nDublin 1\nIreland",
+    "web": "https://www.oath.com/",
+    "sources": [
+        "https://policies.oath.com/xw/en/oath/privacy/intl/index.html",
+        "https://www.tumblr.com/privacy"
+    ]
+}
