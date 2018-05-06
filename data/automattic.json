@@ -1,0 +1,35 @@
+{
+    "slug": "automattic",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "social media",
+        "telecommunication"
+    ],
+    "name": "Automattic Inc.",
+    "runs": [
+        "WordPress.com",
+        "WordPress Jetpack (jetpack.com)",
+        "WordPress.com VIP (vip.wordpress.com)",
+        "WooCommerce (woocommerce.com)",
+        "VaultPress (vaultpress.com)",
+        "Akismet (akismet.com)",
+        "Longreads (longreads.com)",
+        "Simplenote (simplenote.com)",
+        "Polldaddy (polldaddy.com)",
+        "Cloudup (cloudup.com)",
+        "Simperium (simperium.com)",
+        "Gravatar (gravatar.com)"
+    ],
+    "address": "60 29th Street #343\nSan Francisco\nCA 94110\nUnited States of America",
+    "phone": "+1 877 273 3049",
+    "email": "privacypolicyupdates@automattic.com",
+    "web": "https://automattic.com",
+    "sources": [
+        "https://automattic.com/privacy/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
