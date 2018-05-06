@@ -1,0 +1,24 @@
+{
+    "slug": "shopify",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Shopify International Ltd.",
+    "runs": [
+        "Shopify Data Processing (USA) Inc.",
+        "Shopify Payments (USA) Inc.",
+        "Shopify (USA) Inc."
+    ],
+    "address": "Attn: Data Protection Officer\nc/o Intertrust Ireland\n2nd Floor 1–2 Victoria Buildings\nHaddington Road\nDublin 4, D04 XN32\nIreland",
+    "phone": "+1 571 409 6451",
+    "email": "privacy@shopify.com",
+    "web": "https://www.shopify.com",
+    "sources": [
+        "https://www.shopify.com/legal/privacy",
+        "https://www.privacyshield.gov/participant?id=a2zt0000000TNSNAA4&status=Active"
+    ],
+    "suggested-transport-medium": "email"
+}
