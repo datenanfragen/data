@@ -1,0 +1,24 @@
+{
+    "slug": "uktv",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "UKTV Media Limited",
+    "runs": [
+        "UKTV Digital Services",
+        "UKTV Play"
+    ],
+    "address": "PO Box 6996\nCardiff\nCF15 5DS\nUnited Kingdom",
+    "phone": "+44 20 3192 0504",
+    "email": "viewers@uktv.co.uk",
+    "web": "https://network.uktv.co.uk/",
+    "sources": [
+        "https://network.uktv.co.uk/article/privacy-policy/",
+        "https://corporate.uktv.co.uk/about-uktv/article/contact-us/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "letter",
+    "comments": [
+        "Actual address: UKTV Media Limited, 10 Hammersmith Grove, London, W6 7AP, United Kingdom"
+    ]
+}
