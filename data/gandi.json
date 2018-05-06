@@ -1,0 +1,18 @@
+{
+    "slug": "gandi",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Gandi International",
+    "address": "23, route d'Arlon\nL-8009 Strassen\nLuxembourg ",
+    "phone": "+352 20 30 13 03",
+    "fax": "+352 27 44 98 88",
+    "email": "direction@gandi.net",
+    "web": "https://www.gandi.net",
+    "sources": [
+        "https://www.gandi.net/en/contracts/terms-of-service"
+    ]
+}
