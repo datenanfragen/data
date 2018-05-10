@@ -12,12 +12,16 @@
         "Periscope"
     ],
     "address": "Attn: Privacy Policy Inquiry\nOne Cumberland Place\nFenian Street\nDublin 2\nD02 AX07\nIreland",
-    "phone": "+1 415 222 9958",
+    "phone": "+1 415 222 9670",
+    "fax": "+1 415 222 9958",
+    "email": "eu_privacy@twitter.com",
     "web": "https://twitter.com",
     "sources": [
         "https://twitter.com/en/privacy",
-        "https://legal.twitter.com/imprint"
+        "https://legal.twitter.com/imprint",
+        "https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO"
     ],
+    "suggested-transport-medium": "email",
     "comments": [
         "Contact form for privacy-related questions: https://help.twitter.com/forms/privacy",
         "Contact form for messages to the data protection officer: https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp"
