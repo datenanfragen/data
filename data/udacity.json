@@ -16,7 +16,7 @@
     "required-elements": [
         {
             "desc": "Username",
-            "type": "input"
+            "type": "name"
         },
         {
             "desc": "Email address",

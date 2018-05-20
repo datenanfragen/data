@@ -39,3 +39,10 @@ For addresses in Hong Kong, the [Correct Addressing tool](https://www.hongkongpo
 ### Phone and fax numbers
 
 We want phone and fax numbers to be in a standard international format without any other characters than numbers, the plus for the international prefix and spaces. You can use the [Phone Number Parser Demo](https://libphonenumber.appspot.com/) based on [libphonenumber](https://github.com/googlei18n/libphonenumber/) to convert phone numbers to that format. Additional spaces may be inserted to improve readability.
+
+## Required elements
+
+If we know from previous requests (or from a privacy policy) which identification informaton is needed for requests to a company, we record that under the `required-elements` key.
+
+If `required_elements` are specified, there *should* be one element with type `name`. This does not have to be a real name but could also be a username or even an email address, if no other information is required.  
+In addition, the `required_elements` should include some way for the company to respond to the request, be it an address, an email address, a phone number or something similar. 
