@@ -1,7 +1,7 @@
-# Company data for datenanfragen.de
+# Company data for Datenanfragen.de
 
 This repository contains contact and privacy information for companies that fall under the scope of the EU GDPR.  
-It is used to power the datenanfragen.de company database but we warmly welcome you to use the data for your own projects!
+It is used to power the Datenanfragen.de company database but we warmly welcome you to use the data for your own projects!
 
 ## Contributing
 
