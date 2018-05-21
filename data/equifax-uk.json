@@ -1,0 +1,20 @@
+{
+    "slug": "equifax-uk",
+    "relevant-countries": [
+        "uk"
+    ],
+    "categories": [
+        "addresses",
+        "credit agency"
+    ],
+    "name": "Equifax Ltd.",
+    "address": "Capital House\n25 Chapel Street\nLondon\nNW1 5DS\nUnited Kingdom",
+    "phone": "+44 800 014 2955",
+    "email": "complaints@equifax.com",
+    "web": "https://www.equifax.co.uk/",
+    "sources": [
+        "https://www.equifax.co.uk/About-us/Privacy_policy.html",
+        "https://equifaxuk.custhelp.com/app/answers/detail/a_id/225"
+    ],
+    "request-language": "en"
+}
