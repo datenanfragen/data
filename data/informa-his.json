@@ -1,0 +1,44 @@
+{
+    "slug": "informa-his",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "credit agency"
+    ],
+    "name": "informa HIS GmbH",
+    "runs": [
+        "Hinweis- und Informationssystem der deutschen Versicherungswirtschaft (HIS)"
+    ],
+    "address": "Abteilung Datenschutz\nKreuzberger Ring 68\n65205 Wiesbaden\nDeutschland",
+    "phone": "+49 611 880870 0",
+    "email": "his@informa.de",
+    "web": "https://www.informa-his.de",
+    "sources": [
+        "https://www.informa-his.de/selbstauskunft/selbstauskunft/",
+        "https://www.informa-his.de/impressum/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "birthdate"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        },
+        {
+            "desc": "Vorherige Adresse",
+            "type": "address",
+            "optional": true
+        }
+    ],
+    "request-language": "de",
+    "comments": [
+        "Bitte um Angabe der vorherigen Adressen für die letzten fünf Jahre, um vollständigere Auskunft erteilen zu können."
+    ]
+}
