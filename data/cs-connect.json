@@ -1,0 +1,23 @@
+{
+    "slug": "cs-connect",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "credit agency"
+    ],
+    "name": "CS Connect GmbH & Co. KG",
+    "address": "Postfach 19 60\n65009 Wiesbaden\nDeutschland",
+    "phone": "+49 611 53269 470",
+    "fax": "+49 611 53269 468",
+    "email": "info@cs-connect.de",
+    "web": "https://www.cs-connect.de",
+    "sources": [
+        "https://www.cs-connect.de/eigenauskunft/eigenauskunft.html",
+        "https://www.cs-connect.de/impressum.html"
+    ],
+    "request-language": "de",
+    "comments": [
+        "Tatsächliche Adresse: Alte Schmelze 11, 65201 Wiesbaden, Deutschland."
+    ]
+}
