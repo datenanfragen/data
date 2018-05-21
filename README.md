@@ -5,7 +5,7 @@ It is used to power the Datenanfragen.de company database but we warmly welcome 
 
 ## Contributing
 
-Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you contribute whatever information you have. Currently, please just submit pull requests in order to do so. You can use [this tool](https://company-json.netlify.com/) to generate valid JSON records.
+Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you contribute whatever information you have. Currently, please just submit pull requests in order to do so. You can use [this tool](https://company-json.netlify.com/) to generate valid JSON records.  
 We are working on easier ways to help you contribute.
 
 Please be aware that by contributing, you agree for your work to be released under a Creative Commons CC0 1.0 Universal license, as specified in the `LICENSE` file.
@@ -15,6 +15,9 @@ Please be aware that by contributing, you agree for your work to be released und
 The core data is located in the `data` folder. Every company (or other organization) in our database is represented by a single JSON file (named after the slug in the JSON). The JSON has to follow the schema specified in the `schema.json` file.
 
 If a company requires a special template for requests under the GDPR, these can be stored in the `templates` folder and referenced by their filename in the company JSON record.
+
+The `suggested-companies` folder contains suggestions on which companies users should send access requests to. It is grouped by country (where each country is represented by a file with the ISO 3166-1 alpha-2 country code as the filename). The list should only contain companies that the user should definitely request because they are relevant to pretty much every citizen of that country (e.g. collection agencies and credit agencies). It should not contain companies that are relevant for many but not all users (like Amazon, Facebook etc.)  
+A list for a country is represented by a JSON array of the slugs representing the corresponding companies.
 
 ## Data format guidelines and resources
 
