@@ -11,8 +11,9 @@
         "Hinweis- und Informationssystem der deutschen Versicherungswirtschaft (HIS)"
     ],
     "address": "Abteilung Datenschutz\nKreuzberger Ring 68\n65205 Wiesbaden\nDeutschland",
-    "phone": "+49 611 880870 0",
-    "email": "his@informa.de",
+    "phone": "+49 611 880870 88",
+    "fax": "+49 611 880870 86",
+    "email": "his-Datenschutz@informa.de",
     "web": "https://www.informa-his.de",
     "sources": [
         "https://www.informa-his.de/selbstauskunft/selbstauskunft/",
@@ -40,5 +41,6 @@
     "request-language": "de",
     "comments": [
         "Bitte um Angabe der vorherigen Adressen für die letzten fünf Jahre, um vollständigere Auskunft erteilen zu können."
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
