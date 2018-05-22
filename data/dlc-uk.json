@@ -1,0 +1,22 @@
+{
+    "slug": "dlc-uk",
+    "relevant-countries": [
+        "uk"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Hillesden Securities Ltd.",
+    "runs": [
+        "dlc credit agency",
+        "Cabot Credit Management Group Ltd."
+    ],
+    "address": "Buckingham Road\nBrackley\nNorthants\nNN13 7DN\nUnited Kingdom",
+    "phone": "+44 20 7896 6300",
+    "email": "ops.support@dlcuk.com",
+    "web": "http://www.dlcuk.com/",
+    "sources": [
+        "http://www.dlcuk.com/privacy-policy/",
+        "https://www.mydlc.co.uk/contact"
+    ]
+}
