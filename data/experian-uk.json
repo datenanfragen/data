@@ -1,0 +1,20 @@
+{
+    "slug": "experian-uk",
+    "relevant-countries": [
+        "uk"
+    ],
+    "categories": [
+        "credit agency"
+    ],
+    "name": "Experian Ltd.",
+    "address": "The Sir John Peace Building\nExperian Way\nNG2 Business Park\nNottingham\nNG80 1ZZ\nUnited Kingdom",
+    "phone": "+44 800 013 8888",
+    "email": "consumer.helpservice@uk.experian.com",
+    "web": "https://www.experian.co.uk/",
+    "sources": [
+        "https://www.experian.co.uk/legal/privacy-statement.html",
+        "https://www.experian.co.uk/contact-us/index.html",
+        "https://www.experian.co.uk/crain/index.html"
+    ],
+    "request-language": "en"
+}
