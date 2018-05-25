@@ -6,16 +6,20 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Valve Corporation",
+    "name": "Valve GmbH",
     "runs": [
-        "Steam"
+        "Steam (store.steampowered.com)",
+        "Valve Corporation",
+        "Valve S.a.r.l."
     ],
-    "address": "P.O. Box 1688\nBellevue\nWA 98009\nUnited States of America",
-    "email": "webmaster@valvesoftware.com",
+    "address": "Att. Legal\nRödingsmarkt 9\n20354 Hamburg\nGermany",
+    "email": "karlq@valvesoftware.com",
     "web": "https://store.steampowered.com/",
     "sources": [
         "https://store.steampowered.com/privacy_agreement/",
-        "http://www.valvesoftware.com/contact/"
+        "http://www.valvesoftware.com/contact/",
+        "https://www.privacyshield.gov/participant?id=a2zt0000000TO5UAAW&status=Active"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "comments": "According to the privacy policy, Valve GmbH is the EU representative. Address of Valve Corp.: P.O. Box 1688\nBellevue\nWA 98009\nUnited States of America"
 }
