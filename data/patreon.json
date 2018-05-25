@@ -10,11 +10,12 @@
     ],
     "name": "Patreon, Inc.",
     "address": "230 9th Street\nSan Francisco\nCA 94103\nUnited States of America",
-    "email": "legal@patreon.com",
+    "email": "privacy@patreon.com",
     "web": "https://www.patreon.com/",
     "sources": [
         "https://www.patreon.com/privacy",
         "https://www.bbb.org/greater-san-francisco/business-reviews/internet-service/patreon-inc-in-san-francisco-ca-546225"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "suggested-transport-medium": "email"
 }
