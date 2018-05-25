@@ -1,0 +1,18 @@
+{
+    "slug": "mathsgear",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Maths Gear",
+    "address": "4 Chesnut Suite\nGuardian House\nBorough Road\nGodalming\nSurrey\nGU7 2AE\nUnited Kingdom",
+    "email": "data@mathsgear.co.uk",
+    "web": "https://mathsgear.co.uk",
+    "sources": [
+        "https://mathsgear.co.uk/pages/privacy-policy"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
