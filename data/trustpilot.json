@@ -1,0 +1,19 @@
+{
+    "slug": "trustpilot",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Trustpilot A/S",
+    "address": "Data Protection Officer\nPilestraede 58\n5th floor\n1112 Copenhagen\nDenmark",
+    "phone": "+45 89 87 15 73",
+    "email": "privacy@trustpilot.com",
+    "web": "https://www.trustpilot.com/",
+    "sources": [
+        "https://uk.legal.trustpilot.com/end-user-privacy-terms",
+        "https://www.trustpilot.com/contact"
+    ],
+    "suggested-transport-medium": "email"
+}
