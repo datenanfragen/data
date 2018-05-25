@@ -1,0 +1,23 @@
+{
+    "slug": "flip4new",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Flip4 GmbH",
+    "runs": [
+        "FLIP4NEW (www.flip4new.de)"
+    ],
+    "address": "Datenschutzbeauftragte_r\nIndustriestraße 21\n61381 Friedrichsdorf\nDeutschland",
+    "phone": "+49 800 354 74639",
+    "email": "datenschutz@flip4new.de",
+    "web": "https://www.flip4new.de",
+    "sources": [
+        "https://www.flip4new.de/pages/8-datenschutz"
+    ],
+    "suggested-transport-medium": "email"
+}
