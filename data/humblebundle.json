@@ -8,8 +8,9 @@
         "entertainment"
     ],
     "name": "Humble Bundle, Inc.",
-    "address": "Attn: Privacy Shield\n201 Post St\nFloor 11\nSan Francisco\nCA 94108\nUnited States of America",
+    "address": "Attention: Legal Department\n114 Fifth Avenu\n5th Floor\nNew York\nNY 10011\nUnited States of America",
     "phone": "+1 877 948 6253",
+    "email": "dpo@humblebundle.com",
     "web": "https://www.humblebundle.com/",
     "sources": [
         "https://www.humblebundle.com/privacy",
@@ -17,6 +18,7 @@
     ],
     "request-language": "en",
     "comments": [
-        "Support form: https://support.humblebundle.com/hc/en-us/requests/new"
+        "Support form: https://support.humblebundle.com/hc/en-us/requests/new",
+        "Alternative email address: privacy@humblebundle.com"
     ]
 }
