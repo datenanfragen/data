@@ -14,7 +14,7 @@
     "address": "Datenschutzbeauftragte\nGabriela Krader, LL.M\n53250 Bonn\nDeutschland",
     "phone": "+49 228 182 0",
     "fax": "+49 228 182 7099",
-    "email": "service-shop@deutschepost.de",
+    "email": "datenschutz@dpdhl.com",
     "web": "https://www.deutschepost.de",
     "sources": [
         "https://shop.deutschepost.de/shop/infocenter/datenschutz.jsp",
@@ -25,5 +25,6 @@
     ],
     "relevant-countries": [
         "de"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
