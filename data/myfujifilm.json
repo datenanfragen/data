@@ -6,7 +6,7 @@
     "name": "FUJIFILM IMAGING PRODUCTS & SOLUTIONS GmbH & Co. KG",
     "address": "Siemensring 1\n47877 Willich\nDeutschland",
     "phone": "+49 800 7238 654",
-    "email": "kundendienst@myfujifilm.de",
+    "email": "datenschutz@fujifilm-imaging.eu",
     "web": "https://www.myfujifilm.de",
     "sources": [
         "https://www.myfujifilm.de/datenschutz",
@@ -14,5 +14,6 @@
     ],
     "relevant-countries": [
         "de"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
