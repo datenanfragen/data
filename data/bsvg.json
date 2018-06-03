@@ -1,0 +1,23 @@
+{
+    "slug": "bsvg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility",
+        "travel"
+    ],
+    "name": "Braunschweiger Verkehrs-GmbH (BSVG)",
+    "runs": [
+        "Braunschweiger Verkehrs-AG (BSVAG, ehem.)"
+    ],
+    "address": "Datenschutzbeauftragter\nAm Hauptgüterbahnhof 28\n38126 Braunschweig\nDeutschland",
+    "phone": "+49 531 3 83 20 50",
+    "fax": "+49 531 3 83 27 77",
+    "email": "info@verkehr-bs.de",
+    "web": "https://verkehr-bs.de",
+    "sources": [
+        "https://www.verkehr-bs.de/seknav/datenschutz.html",
+        "https://www.verkehr-bs.de/seknav/impressum/"
+    ]
+}
