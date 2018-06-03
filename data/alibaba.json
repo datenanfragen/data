@@ -1,0 +1,19 @@
+{
+    "slug": "alibaba",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Alibaba.com Singapore E-Commerce Private Limited",
+    "address": "10 Collyer Quay\n#10-01 Ocean Financial Centre\nSingapore 049315\nRepublic of Singapore",
+    "email": "dataprotection@service.alibaba.com",
+    "web": "https://www.alibaba.com",
+    "sources": [
+        "https://rule.alibaba.com/rule/detail/2034.htm",
+        "https://www.tis.bizfile.gov.sg/ngbtisinternet/faces/oracle/webcenter/portalapp/pages/productlisting/ishopProductListing.jspx?EntityNo=200720572D"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}

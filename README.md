@@ -30,6 +30,7 @@ Some companies don't publish adequate contact information on their website. In t
 * For US companies that are Privacy Shield certified, the [Privacy Shield List](https://www.privacyshield.gov/list) is a valuable resource for uncovering missing contact information.
 * Companies in the UK have their information listed in the [Companies House Search Register](https://beta.companieshouse.gov.uk/).
 * German companies are required by law to publish an 'Impressum' with their contact information. In addition to that, registered companies have to be listed in the [Handelsregister](https://www.handelsregister.de). This is a paid service but some information can be accessed for free.
+* Companies in Singapore are assigned a unique entity number (UEN) and can be be researched via the [Business Filing Portal of ACRA (BizFile)](https://www.bizfile.gov.sg).
 
 ### Addresses
 
