@@ -13,5 +13,11 @@
     "relevant-countries": [
         "de"
     ],
+    "required-elements": [
+        {
+            "desc": "Auftragsnummer",
+            "type": "input"
+        }
+    ],
     "suggested-transport-medium": "email"
 }
