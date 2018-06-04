@@ -20,5 +20,8 @@
         "https://www.shopify.com/legal/privacy",
         "https://www.privacyshield.gov/participant?id=a2zt0000000TNSNAA4&status=Active"
     ],
+    "comments": [
+        "Shopify themselves are only the controller for data about merchants and users of their independent apps (such as Frenzy, Arrive, or Shopify Pay). Customers of one of their merchants will need to direct requests to those merchants."
+    ],
     "suggested-transport-medium": "email"
 }
