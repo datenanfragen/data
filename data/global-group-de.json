@@ -1,0 +1,39 @@
+{
+    "slug": "global-group-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Global Group Dialog Solutions AG",
+    "address": "Telco Kreisel 1\n65510 Idstein\nDeutschland",
+    "phone": "+49 6126 9375 1765",
+    "fax": "+49 6126 9375 93",
+    "email": "datenschutz@global-group.de",
+    "web": "https://www.global-group.de",
+    "sources": [
+        "https://www.global-group.de/de/unternehmen/datenschutz",
+        "https://www.global-group.de/datenschutzhinweise-fur-personen-im-auskunftsdatenbestand_gg.pdf",
+        "https://www.global-group.de/de/unternehmen/impressum"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        },
+        {
+            "desc": "Unternehmen, von dem Werbebrief kommt",
+            "type": "textarea",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Haben auch eigenes Formular für Anfragen: https://www.global-group.de/de/unternehmen/datenschutz/widerspruch-auskunftsersuchen"
+    ]
+}
