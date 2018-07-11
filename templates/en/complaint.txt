@@ -7,7 +7,7 @@ I am hereby lodging a complaint according to Article 77 GDPR. On {request_date},
 
 That is why I am lodging this complaint with you. Please check this practice by the controller and get them to abide by my request.
 
-If you need any more details, please feel free to contact me. You can reach me {description of way to contact you, e.g. email address, postal address, phone number}.
+If you need any more details, please feel free to contact me. You can reach me {description of way to contact you, e.g. email address, postal address, phone number}. {Please keep this information private in order to maintain my anonymity.}
 Thanks in advance for your help.
 
 Yours sincerely,
