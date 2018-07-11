@@ -7,7 +7,7 @@ hiermit möchte ich Beschwerde nach Art. 77 DSGVO einreichen. Am {request_date} 
 
 Daher wende ich mich nun mit dieser Beschwerde an Sie. Ich möchte Sie bitten das Verfahren zu prüfen und den Verantwortlichen zur Erfüllung der Anfrage zu bewegen.
 
-Sollten Sie weitere Informationen von mir benötigen, wenden Sie sich gerne an mich. Sie erreichen mich {Angabe von Kontaktmöglichkeit, z. B. E-Mail-Adresse, Postanschrift, Telefonnummer o. Ä.}. {Ich möchte Sie bitten, diese Informationen Dritten vorzuenthalten, damit meine Anonymität gewahrt bleibt.}
+Sollten Sie weitere Informationen von mir benötigen, wenden Sie sich gerne an mich. Sie erreichen mich {Angabe von Kontaktmöglichkeit, z. B. E-Mail-Adresse, Postanschrift, Telefonnummer o. Ä.}. [optional: Ich möchte Sie bitten, diese Informationen Dritten vorzuenthalten, damit meine Anonymität gewahrt bleibt.]
 Ich bedanke mich bereits im Voraus für Ihre Unterstützung.
 
 Mit freundlichen Grüßen
