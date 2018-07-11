@@ -1,0 +1,19 @@
+{
+    "slug": "nrwldi",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen",
+    "address": "Postfach 20 04 44\n40102 Düsseldorf\nDeutschland",
+    "phone": "+49 211 38424 0",
+    "fax": "+49 211 38424 10",
+    "email": "poststelle@ldi.nrw.de",
+    "pgp-fingerprint": "C638 12C7 8854 FBF9 BEB6  3A40 04E3 1A13 6AD6 2811",
+    "pgp-url": "https://www.ldi.nrw.de/metanavi_Kontakt/key_ldi.asc",
+    "web": "https://www.ldi.nrw.de/",
+    "sources": [
+        "https://www.ldi.nrw.de/metanavi_Kontakt/index.php"
+    ],
+    "complaint-language": "de",
+    "suggested-transport-medium": "email"
+}

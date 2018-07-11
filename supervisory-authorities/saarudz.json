@@ -1,0 +1,19 @@
+{
+    "slug": "saarudz",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Unabhängiges Datenschutzzentrum Saarland",
+    "address": "Fritz-Dobisch-Straße 12\n66111 Saarbrücken\nDeutschland",
+    "phone": "+49 681 94781 0",
+    "fax": "+49 681 94781 29",
+    "email": "poststelle@datenschutz.saarland.de",
+    "pgp-fingerprint": "FEF8 1D51 A165 A81F 00ED  EF0C F3EF 03DE 520C C9BE",
+    "pgp-url": "https://datenschutz.saarland.de/fileadmin/pgp/datenschutzzentrum-key_.asc",
+    "web": "https://datenschutz.saarland.de/",
+    "sources": [
+        "https://datenschutz.saarland.de/ueber-uns/kontakt/"
+    ],
+    "complaint-language": "de",
+    "suggested-transport-medium": "email"
+}

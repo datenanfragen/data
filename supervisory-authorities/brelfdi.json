@@ -1,0 +1,23 @@
+{
+    "slug": "brelfdi",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Die Landesbeauftragte für Datenschutz und Informationsfreiheit",
+    "address": "Arndtstraße 1\n27570 Bremerhaven\nDeutschland",
+    "phone": "+49 421 3612 010",
+    "fax": "+49 421 4961 8495",
+    "email": "office@datenschutz.bremen.de",
+    "pgp-fingerprint": "7083 9D74 276A D4FA 970D  272B 6B52 8D07 5B7D 02B2",
+    "pgp-url": "https://www.datenschutz.bremen.de/sixcms/media.php/13/lfdi_bremen.asc",
+    "web": "https://www.datenschutz.bremen.de/",
+    "sources": [
+        "https://www.datenschutz.bremen.de/wir_ueber_uns/vertrauliche_kommunikation-7303",
+        "https://www.datenschutz.bremen.de/impressum-1478"
+    ],
+    "complaint-language": "de",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Es steht auch ein Beschwerdeformular zur Verfügung: https://www.datenschutz.bremen.de/wir_ueber_uns/beschwerdeformular-15253"
+    ]
+}

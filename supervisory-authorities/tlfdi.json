@@ -1,0 +1,20 @@
+{
+    "slug": "tlfdi",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit",
+    "address": "Postfach 900455\n99107 Erfurt\nDeutschland",
+    "phone": "+49 361 57 311 29 00",
+    "fax": "+49 361 57 311 29 04",
+    "email": "poststelle@datenschutz.thueringen.de",
+    "pgp-fingerprint": "0682 D526 DABB 8D14 526B  4492 67B7 BED0 A227 764F",
+    "pgp-url": "https://www.tlfdi.de/mam/tlfdi/start/tlfdi_schluessel_ab_dez_2015.txt",
+    "web": "https://www.tlfdi.de",
+    "sources": [
+        "https://www.tlfdi.de/tlfdi/kontakt/",
+        "https://www.tlfdi.de/tlfdi/kontakt/#pgp"
+    ],
+    "complaint-language": "de",
+    "suggested-transport-medium": "email"
+}

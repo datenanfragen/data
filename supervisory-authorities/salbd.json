@@ -1,0 +1,24 @@
+{
+    "slug": "salbd",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Landesbeauftragter für den Datenschutz Sachsen-Anhalt",
+    "address": "Postfach 1947\n39009 Magdeburg\nDeutschland",
+    "phone": "+49 391 81803 0",
+    "fax": "+49 391 81803 33",
+    "email": "poststelle@lfd.sachsen-anhalt.de",
+    "pgp-fingerprint": "5CBB 4E15 9774 8921 3B27  7C96 DE25 9BE2 09AC A0DE",
+    "pgp-url": "https://datenschutz.sachsen-anhalt.de/fileadmin/Bibliothek/Landesaemter/LfD/PDF/binary/Landesbeauftragter/Anschrift/E-Mail/2015-10-30_-_PGP_0x09ACA0DE_poststelle_pub.asc",
+    "web": "https://datenschutz.sachsen-anhalt.de",
+    "sources": [
+        "https://datenschutz.sachsen-anhalt.de/landesbeauftragter/kontakt/",
+        "https://datenschutz.sachsen-anhalt.de/landesbeauftragter/kontakt/wichtige-hinweise-zur-e-mail-verwendung/"
+    ],
+    "complaint-language": "de",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative Telefonnummer: +49 800 9153 190",
+        "Es steht auch ein Beschwerdeformular zur Verfügung: https://datenschutz.sachsen-anhalt.de/nc/service/online-formulare-des-landesbeauftragten/beschwerde-anfrage/"
+    ]
+}

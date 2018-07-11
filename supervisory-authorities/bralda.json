@@ -1,0 +1,24 @@
+{
+    "slug": "bralda",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Die Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg",
+    "address": "Stahnsdorfer Damm 77\n14532 Kleinmachnow\nDeutschland",
+    "phone": "+49 33203 356 0",
+    "fax": "+49 33203 356 49",
+    "email": "poststelle@lda.brandenburg.de",
+    "pgp-fingerprint": "E899 5780 7F65 F282 8CAC  C504 37F3 83FE 0844 834D",
+    "pgp-url": "https://www.lda.brandenburg.de/media_fast/4055/LDABbgpublickey.asc",
+    "web": "https://www.lda.brandenburg.de",
+    "sources": [
+        "https://www.lda.brandenburg.de/cms/detail.php/bb1.c.241171.de",
+        "https://www.lda.brandenburg.de/cms/detail.php/bb1.c.277104.de",
+        "https://www.lda.brandenburg.de/cms/detail.php/bb1.c.417504.de"
+    ],
+    "complaint-language": "de",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Es steht auch ein Beschwerdeformular zur Verfügung: https://www.lda.brandenburg.de/de/beschwerdeformular"
+    ]
+}
