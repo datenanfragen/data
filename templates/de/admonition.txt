@@ -1,7 +1,8 @@
 Guten Tag,
 
-vor einem Monat, am {request_date}, hatte ich bei Ihnen eine Anfrage nach Art. {request_article} DSGVO gestellt. Leider erhielt ich bisher keine Antwort von Ihnen. Damit ist die Frist von maximal einem Monat nach Art. 12 (3) Satz 1 DSGVO überschritten. Sicherlich ist die Anfrage nur im täglichen Geschehen untergegangen, oder ist noch auf dem Weg. Deshalb möchte ich Ihnen erneut Zeit geben zu reagieren.
+am {request_date} hatte ich bei Ihnen eine Anfrage nach Art. {request_article} DSGVO gestellt.
+{Beschreibung des Problems, z. B.: Leider erhielt ich bisher keine Antwort von Ihnen. Damit ist die Frist von einem Monat nach Art. 12 Abs, 3 S. 1 DSGVO überschritten.}
 
-Nach Eintreffen dieser Mahnung haben Sie 2 Wochen Zeit erneut zu reagieren, andernfalls werde ich mich an die zuständige Aufsichtsbehörde wenden.
+Ich wende mich daher hiermit erneut an Sie und bitte Sie, meine Anfrage innerhalb von zwei Wochen ab Eintreffen dieser Mahnung zufriedenstellend zu beantworten, andernfalls behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
 
 Mit freundlichen Grüßen
