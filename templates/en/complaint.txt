@@ -1,4 +1,4 @@
-To whom it may concern:
+To Whom It May Concern:
 
 I am hereby lodging a complaint according to Article 77 GDPR. On {request_date}, I sent a request according to Article {request_article} GDPR to the following controller:
 {request_recepient_address}
