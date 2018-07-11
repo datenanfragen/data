@@ -1,0 +1,19 @@
+{
+    "slug": "berlbdi",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Berliner Beauftragte für Datenschutz und Informationsfreiheit",
+    "address": "Friedrichstr. 219 \n10969 Berlin\nDeutschland",
+    "phone": "+49 30 138890",
+    "fax": "+49 30 2155050",
+    "email": "mailbox@datenschutz-berlin.de",
+    "pgp-fingerprint": "D3C9 AEEA B403 7F96 7EF6 C77F B607 1D0F B27C 29A7",
+    "pgp-url": "https://www.datenschutz-berlin.de/email/mailbox_blnbdi.asc",
+    "web": "https://www.datenschutz-berlin.de",
+    "sources": [
+        "https://www.datenschutz-berlin.de/kontakt.html"
+    ],
+    "complaint-language": "de",
+    "suggested-transport-medium": "email"
+}

@@ -64,7 +64,7 @@
 		},
 		"email": {
 			"type": "string",
-			"title": "E-mail",
+			"title": "Email",
 			"description": "An email address where the company can be reached for privacy-related inquires and requests. Preferably a specific privacy@[domain.tld] address if available.",
 			"format": "idn-email"
 		},
