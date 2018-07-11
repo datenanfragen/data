@@ -1,0 +1,10 @@
+To whom it may concern:
+
+I hereby lodge a complaint according to Article 77 GDPR. On {request_date}, I send a request according to Article {request_article} GDPR to the following controller:
+{request_recepient_address}
+
+It than reacted by {offences by the controller according to GDPR}. 
+
+Please check the proceedings and pressure the controller to abide by my request.
+
+Yours sincerely,
