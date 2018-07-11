@@ -1,6 +1,6 @@
 Guten Tag,
 
-hiermit möchte ich Beschwerde nach Art. 77 DSGVO einreichen. Am {request_date} hatte mich mit einer Anfrage nach Art. {request_article} DSGVO an folgenden Verantwortlichen gewandt:
+hiermit möchte ich Beschwerde nach Art. 77 DSGVO einreichen. Am {request_date} hatte ich mich mit einer Anfrage nach Art. {request_article} DSGVO an folgenden Verantwortlichen gewandt:
 {request_recepient_address}
 
 {Beschreibung der Verstöße des Verantwortlichen und der unternommenen Schritte (z. B. Mahnungen, gesetzte Fristen oder weitere Korrespondenz; für solche auch Belege anfügen)}. 
