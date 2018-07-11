@@ -1,0 +1,13 @@
+To Whom It May Concern:
+
+I am hereby lodging a complaint according to Article 77 GDPR. On {request_date}, I sent a request according to Article {request_article} GDPR to the following controller:
+{request_recepient_address}
+
+{Description of the offences by the controller and the steps you took (e.g. admonitions or other correspondence, include receipts)}. 
+
+That is why I am lodging this complaint with you. Please check this practice by the controller and get them to abide by my request.
+
+If you need any more details, please feel free to contact me. You can reach me {description of way to contact you, e.g. email address, postal address, phone number}. [optional: Please keep this information private in order to maintain my anonymity.]
+Thanks in advance for your help.
+
+Yours sincerely,

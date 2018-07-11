@@ -1,0 +1,8 @@
+To Whom It May Concern:
+
+on {request_date} I sent you a request according to Article {request_article} GDPR.
+{Description of the problem, e.g.: Unfortunately, I did not receive an answer so far. The period of one month according to Article 12(3) sentence 1 GDPR is therefore exceeded.}
+
+That is why I am contacting you again. After the arrival of this admonition, please adequately answer my request within two weeks. Otherwise, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
+
+Yours sincerely,
