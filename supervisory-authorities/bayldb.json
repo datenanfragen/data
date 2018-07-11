@@ -1,9 +1,9 @@
 {
     "slug": "bayldb",
     "name": "Der Bayerische Landesbeauftragte für den Datenschutz",
-    "address": "Postfach 22 12 19\n80502 München ",
-    "phone": "+49 89 2126720 ",
-    "fax": "+49 89 21267250 ",
+    "address": "Postfach 22 12 19\n80502 München\nDeutschland",
+    "phone": "+49 89 2126 72 0",
+    "fax": "+49 89 2126 72 50",
     "email": "poststelle@datenschutz-bayern.de",
     "pgp-fingerprint": "AC2D 2383 4CE5 9AA0 C034 E145 8DC1 1C88 7063 3354",
     "pgp-url": "https://www.datenschutz-bayern.de/download/BayerDatenschutzbeauftragter.asc",

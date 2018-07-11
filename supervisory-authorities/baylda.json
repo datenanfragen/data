@@ -4,9 +4,9 @@
         "de"
     ],
     "name": "Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)",
-    "address": "Promenade 27\n91522 Ansbach ",
-    "phone": "+49 981 531300 ",
-    "fax": "+49 981 53981300 ",
+    "address": "Promenade 27\n91522 Ansbach\nDeutschland",
+    "phone": "+49 981 531 300",
+    "fax": "+49 981 5398 1300",
     "email": "poststelle@lda.bayern.de",
     "pgp-fingerprint": "AB6E 5D65 D09A 043C 9953 97ED 982B BF27 609C 2220",
     "pgp-url": "https://www.lda.bayern.de/media/pgp_schluessel_dsa.asc",
@@ -15,5 +15,8 @@
         "https://www.lda.bayern.de/de/kontakt.html"
     ],
     "complaint-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Für Beschwerden gegen Unternehmen ist es empfohlen sich an das Bayerische Landesamt für Datenschutzaufsicht zu wenden. Bei Beschwerden oder Anfragen zu öffentlichen Stellen ist jedoch der Landesdatenschutzbeauftragte der korrekte Ansprechpartner."
+    ]
 }
