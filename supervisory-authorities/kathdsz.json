@@ -1,0 +1,20 @@
+{
+    "slug": "kathdsz",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Katholisches Datenschutzzentrum (KdöR)",
+    "address": "Brackeler Hellweg 144\n44309 Dortmund\nDeutschland",
+    "phone": "+49 231 13 89 85 0",
+    "fax": "+49 231 13 89 85 22",
+    "email": "info@kdsz.de",
+    "web": "https://www.katholisches-datenschutzzentrum.de/",
+    "sources": [
+        "https://www.katholisches-datenschutzzentrum.de/wir-ueber-uns/team-katholisches-datenschutzzentrum/",
+        "https://www.datenschutz-kirche.de/%C3%BCbersicht_aufsichtsbeh%C3%B6rden"
+    ],
+    "complaint-language": "de",
+    "comments": [
+        "Zuständig für nordrhein-westfälische Bistümer:\n\nBistum Aachen\nBistum Essen\nErzbistum Köln\nBistum Münster (nordrhein-westfälischer Teil)\nErzbistum Paderborn"
+    ]
+}

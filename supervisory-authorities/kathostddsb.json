@@ -1,0 +1,20 @@
+{
+    "slug": "kathostddsb",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Diözesandatenschutzbeauftragter der ostdeutschen Bistümer",
+    "address": "Chausseestraße 1\n39218 Schönebeck\nDeutschland",
+    "phone": "+49 3928 7 28 71 81",
+    "fax": "+49 3928 7 28 71 82",
+    "email": "matthias.ullrich@datenschutzbeauftragter-ost.de",
+    "web": "https://www.datenschutzbeauftragter-ost.de",
+    "sources": [
+        "https://www.datenschutzbeauftragter-ost.de/o.red.r/impressum.html",
+        "https://www.datenschutz-kirche.de/%C3%BCbersicht_aufsichtsbeh%C3%B6rden"
+    ],
+    "complaint-language": "de",
+    "comments": [
+        "Zuständig für ostdeutsche Bistümer:\n\nErzbistum Berlin\nBistum Dresden-Meißen\nBistum Erfurt\nBistum Görlitz\nBistum Magdeburg"
+    ]
+}
