@@ -1,0 +1,15 @@
+{
+    "slug": "atdsb",
+    "relevant-countries": [
+        "at"
+    ],
+    "name": "Österreichische Datenschutzbehörde",
+    "address": "Wickenburggasse 8\n1080 Wien\nÖsterreich",
+    "phone": "+43 1 52 152 0",
+    "email": "dsb@dsb.gv.at",
+    "web": "https://www.dsb.gv.at/",
+    "sources": [
+        "https://www.dsb.gv.at/kontakt"
+    ],
+    "complaint-language": "de"
+}
