@@ -1,0 +1,20 @@
+{
+    "slug": "mtidpc",
+    "relevant-countries": [
+        "mt"
+    ],
+    "name": "Office of the Information and Data Protection Commissioner of Malta",
+    "address": "Level 2, Airways House\nHigh Street\nSliema SLM 1549\nMalta",
+    "phone": "+356 2328 7100",
+    "fax": "+356 2328 7198",
+    "email": "idpc.info@idpc.org.mt",
+    "web": "https://idpc.org.mt",
+    "sources": [
+        "https://idpc.org.mt/en/Pages/contact/contact-information.aspx",
+        "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080"
+    ],
+    "complaint-language": "en",
+    "comments": [
+        "A web form for complaints is also available: https://idpc.org.mt/en/Pages/contact/complaints.aspx"
+    ]
+}
