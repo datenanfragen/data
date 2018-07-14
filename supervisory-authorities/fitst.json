@@ -1,0 +1,16 @@
+{
+    "slug": "fitst",
+    "relevant-countries": [
+        "fi"
+    ],
+    "name": "Tietosuojavaltuutetun toimisto (Office of the Data Protection Ombudsman of Denmark)",
+    "address": "P.O. Box 800\n00521 Helsinki\nFinland",
+    "phone": "+358 29 566 6700",
+    "fax": "+358 29 566 6735",
+    "email": "tietosuoja@om.fi",
+    "web": "https://tietosuoja.fi",
+    "sources": [
+        "https://tietosuoja.fi/en/contact-information"
+    ],
+    "complaint-language": "fi"
+}
