@@ -1,0 +1,16 @@
+{
+    "slug": "itgpdp",
+    "relevant-countries": [
+        "it"
+    ],
+    "name": "Garante per la protezione dei dati personali (Italian Data Protection Authority)",
+    "address": "Piazza di Monte Citorio n. 121\n00186 Roma\nItaly",
+    "phone": "+39 06 69677 1",
+    "fax": "+39 06 69677 3785",
+    "email": "garante@gpdp.it",
+    "web": "https://www.garanteprivacy.it/",
+    "sources": [
+        "https://www.garanteprivacy.it/en/home/footer/contatti"
+    ],
+    "complaint-language": "it"
+}
