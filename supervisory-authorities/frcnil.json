@@ -1,0 +1,18 @@
+{
+    "slug": "frcnil",
+    "relevant-countries": [
+        "fr"
+    ],
+    "name": "Commission Nationale de l'Informatique et des Libertés – CNIL (French National Commission on Informatics and Liberty)",
+    "address": "3 Place de Fontenoy\nTSA 80715\n75334 PARIS CEDEX 07\nFrance",
+    "phone": "+33 1 53 73 22 22",
+    "fax": "+33 1 53 73 22 00",
+    "web": "https://www.cnil.fr/",
+    "sources": [
+        "https://www.cnil.fr/fr/vous-souhaitez-contacter-la-cnil"
+    ],
+    "complaint-language": "fr",
+    "comments": [
+        "Il y a aussi un formulaire de plainte en ligne: https://www.plaintes.cnil.fr/plaintes/internetsupp/coordonnees.action"
+    ]
+}
