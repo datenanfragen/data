@@ -1,0 +1,16 @@
+{
+    "slug": "iedpc",
+    "relevant-countries": [
+        "ie"
+    ],
+    "name": "Irish Data Protection Commission",
+    "address": "Canal House\nStation Road\nPortarlington\nR32 AP23 Co. Laois\nIreland",
+    "phone": "+353 57 868 4800",
+    "fax": "+353 57 868 4757",
+    "email": "info@dataprotection.ie",
+    "web": "https://www.dataprotection.ie",
+    "sources": [
+        "https://www.dataprotection.ie/docs/EN/Contact-us/m/11.htm"
+    ],
+    "complaint-language": "en"
+}
