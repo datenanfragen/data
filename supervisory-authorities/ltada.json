@@ -1,0 +1,16 @@
+{
+    "slug": "ltada",
+    "relevant-countries": [
+        "lt"
+    ],
+    "name": "Valstybinė duomenų apsaugos inspekcija (State Data Protection Inspectorate of Lithuania)",
+    "address": "A. Juozapavičiaus str. 6\nLT-09310 Vilnius\nLithuania",
+    "phone": "+370 5 279 1445",
+    "fax": "+370 5 261 9494",
+    "email": "ada@ada.lt",
+    "web": "https://www.ada.lt/",
+    "sources": [
+        "https://www.ada.lt/go.php/eng/Order-of-service-of-citizens-and-other-persons-referring-to-state-data-protection-inspectorate"
+    ],
+    "complaint-language": "lt"
+}
