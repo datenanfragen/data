@@ -1,0 +1,17 @@
+{
+    "slug": "grdpa",
+    "relevant-countries": [
+        "gr"
+    ],
+    "name": "Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (Hellenic Data Protection Authority)",
+    "address": "Kifissias 1 – 3\n115 23 Athens\nGreece",
+    "phone": "+30 210 64756 00",
+    "fax": "+30 210 64756 28",
+    "email": "complaints@dpa.gr",
+    "web": "http://www.dpa.gr/",
+    "sources": [
+        "http://www.dpa.gr/portal/page?_pageid=33,43534&_dad=portal&_schema=PORTAL",
+        "http://www.dpa.gr/portal/page?_pageid=33,15510&_dad=portal&_schema=PORTAL"
+    ],
+    "complaint-language": "el"
+}
