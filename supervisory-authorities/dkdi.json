@@ -1,0 +1,17 @@
+{
+    "slug": "dkdi",
+    "relevant-countries": [
+        "dk"
+    ],
+    "name": "Datatilsynet (Data Inspectorate of Denmark)",
+    "address": "Borgergade 28, 5.\n1300 København K\nDenmark",
+    "phone": "+45 33 19 32 00",
+    "fax": "+45 33 19 32 18",
+    "email": "dt@datatilsynet.dk",
+    "web": "https://www.datatilsynet.dk/",
+    "sources": [
+        "https://www.datatilsynet.dk/kontakt/",
+        "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080"
+    ],
+    "complaint-language": "da"
+}
