@@ -1,0 +1,19 @@
+{
+    "slug": "cydp",
+    "relevant-countries": [
+        "cy"
+    ],
+    "name": "Γραφείο Επιτρόπου Δεδομένων Προσωπικού Χαρακτήρα (Personal Data Commissioner of Cyprus)",
+    "address": "Τ.Θ. 23378\n1682 Λευκωσία (Nicosia)\nCyprus",
+    "phone": "+357 22 818456",
+    "fax": "+357 22 304565",
+    "email": "commissioner@dataprotection.gov.cy",
+    "web": "http://www.dataprotection.gov.cy",
+    "sources": [
+        "http://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_el/contact_el?opendocument"
+    ],
+    "complaint-language": "el",
+    "comments": [
+        "Forms for complaints are also available: http://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/All/2FBD2ACD407DEFE8C22582B9002E7019"
+    ]
+}
