@@ -1,0 +1,17 @@
+{
+    "slug": "eeaki",
+    "relevant-countries": [
+        "ee"
+    ],
+    "name": "Andmekaitse Inspektsioon (Estonian Data Protection Inspectorate)",
+    "address": "19 Väike-Ameerika St.\n10129 Tallinn\nEstonia",
+    "phone": "+372 627 4135",
+    "fax": "+372 627 4137",
+    "email": "info@aki.ee ",
+    "web": "http://www.aki.ee/",
+    "sources": [
+        "http://www.aki.ee/en/inspectorate/staff-and-contacts",
+        "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080"
+    ],
+    "complaint-language": "et"
+}
