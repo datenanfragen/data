@@ -1,0 +1,18 @@
+{
+    "slug": "beapd",
+    "relevant-countries": [
+        "be"
+    ],
+    "name": "Autorite Protection Donnees de Belgique, Gegevensbeschermingsautoriteit van België",
+    "address": "Rue de la Presse 35\n1000 Brussels\nBelgium",
+    "phone": "+32 2 274 48 00",
+    "fax": "+32 2 274 48 35",
+    "email": "contact@apd-gba.be",
+    "web": "https://www.dataprotectionauthority.be/",
+    "sources": [
+        "https://www.dataprotectionauthority.be/contact-us"
+    ],
+    "comments": [
+        "Preferred complaint languages are French and Dutch but English is also accepted."
+    ]
+}
