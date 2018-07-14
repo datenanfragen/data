@@ -1,0 +1,17 @@
+{
+    "slug": "hrazop",
+    "relevant-countries": [
+        "hr"
+    ],
+    "name": "Agencija za zaštitu osobnih podataka (Croatian Personal Data Protection Agency)",
+    "address": "Fra Grge Martića 14\n10 000 Zagreb\nCroatia",
+    "phone": "+385 1 4609 000",
+    "fax": "+385 1 4609 099",
+    "email": "azop@azop.hr",
+    "web": "http://azop.hr/",
+    "sources": [
+        "http://azop.hr/zastita-podataka-hrvatska/detaljnije/kontaktirajte-nas",
+        "http://azop.hr/agency-contact/"
+    ],
+    "complaint-language": "hr"
+}
