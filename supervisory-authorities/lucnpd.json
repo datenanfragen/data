@@ -1,0 +1,19 @@
+{
+    "slug": "lucnpd",
+    "relevant-countries": [
+        "lu"
+    ],
+    "name": "Commission nationale pour la protection des données (National Commission for Data Protection, Grand-Duchy of Luxembourg)",
+    "address": "Service des réclamations\n1, avenue du Rock’n’Roll\nL-4361 Esch-sur-Alzette\nLuxembourg",
+    "phone": "+352 26 10 60 1",
+    "fax": "+352 26 10 60 29",
+    "email": "info@cnpd.lu",
+    "web": "https://cnpd.public.lu",
+    "sources": [
+        "https://cnpd.public.lu/de/support/contact.html",
+        "https://cnpd.public.lu/fr/support/protection-des-donnees.html"
+    ],
+    "comments": [
+        "A web form for complaints is also available in French (https://cnpd.public.lu/fr/particuliers/faire-valoir/formulaire-plainte.html), English (https://cnpd.public.lu/en/particuliers/faire-valoir/formulaire-plainte.html) and German (https://cnpd.public.lu/de/particuliers/faire-valoir/formulaire-plainte.html)"
+    ]
+}
