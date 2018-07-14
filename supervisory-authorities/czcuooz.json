@@ -1,0 +1,16 @@
+{
+    "slug": "czcuooz",
+    "relevant-countries": [
+        "cz"
+    ],
+    "name": "Úřad pro ochranu osobních údajů (Czech Office for Personal Data Protection)",
+    "address": "Pplk. Sochora 27\n170 00 Praha 7\nCzech Republic",
+    "phone": "+420 234 665 111",
+    "fax": "+420 234 665 444",
+    "email": "posta@uoou.cz",
+    "web": "https://www.uoou.cz/",
+    "sources": [
+        "https://www.uoou.cz/vismo/o_utvar.asp?id_org=200156&id_u=10"
+    ],
+    "complaint-language": "cs"
+}
