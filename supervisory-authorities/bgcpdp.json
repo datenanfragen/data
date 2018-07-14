@@ -1,0 +1,20 @@
+{
+    "slug": "bgcpdp",
+    "relevant-countries": [
+        "bg"
+    ],
+    "name": "Commission for Personal Data Protection Bulgaria",
+    "address": "2 Prof. Tsvetan Lazarov Blvd.\nSofia 1592\nBulgaria",
+    "phone": "+359 2 915 3518",
+    "fax": "+359 2 915 3525",
+    "email": "kzld@cpdp.bg",
+    "web": "https://www.cpdp.bg",
+    "sources": [
+        "https://www.cpdp.bg/index.php?p=pages&aid=6",
+        "https://www.cpdp.bg/index.php?p=pages&aid=5"
+    ],
+    "complaint-language": "bg",
+    "comments": [
+        "Complaints by email must be signed electronically."
+    ]
+}
