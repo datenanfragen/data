@@ -1,0 +1,20 @@
+{
+    "slug": "nlap",
+    "relevant-countries": [
+        "nl"
+    ],
+    "name": "Autoriteit Persoonsgegevens (Dutch Data Protection Authority)",
+    "address": "Postbus 93374\n2509 AJ DEN HAAG\nNetherlands",
+    "phone": "+31 70 888 85 00",
+    "fax": "+31 70 888 85 01",
+    "email": "info@autoriteitpersoonsgegevens.nl",
+    "web": "https://autoriteitpersoonsgegevens.nl",
+    "sources": [
+        "https://autoriteitpersoonsgegevens.nl/en/contact-dutch-dpa/contact-us",
+        "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080"
+    ],
+    "complaint-language": "nl",
+    "comments": [
+        "A web form for complaints is also available: https://autoriteitpersoonsgegevens.nl/nl/zelf-doen/privacyrechten/klacht-indienen-bij-de-ap"
+    ]
+}
