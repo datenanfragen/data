@@ -1,0 +1,17 @@
+{
+    "slug": "skunoou",
+    "relevant-countries": [
+        "sk"
+    ],
+    "name": "Úrad na ochranu osobných údajov Slovenskej republiky (Office for Personal Data Protection of the Slovak Republic)",
+    "address": "Hraničná 12\n820 07, Bratislava 27\nSlovak Repubic",
+    "phone": "+421 2 323 132 14",
+    "fax": "+421 2 323 132 34",
+    "email": "statny.dozor@pdp.gov.sk",
+    "web": "https://dataprotection.gov.sk/uoou/",
+    "sources": [
+        "https://dataprotection.gov.sk/uoou/node/148",
+        "https://dataprotection.gov.sk/uoou/en/content/contact"
+    ],
+    "complaint-language": "sk"
+}
