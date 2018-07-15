@@ -1,0 +1,17 @@
+{
+    "slug": "isdpa",
+    "relevant-countries": [
+        "is"
+    ],
+    "name": "Persónuvernd (Icelandic Data Protection Authority)",
+    "address": "Rauðarárstígur 10\n105 Reykjavík\nIceland",
+    "phone": "+354 510 9600",
+    "fax": "+354 510 9606",
+    "email": "postur@personuvernd.is",
+    "web": "https://www.personuvernd.is/",
+    "sources": [
+        "https://www.personuvernd.is/information-in-english/",
+        "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080"
+    ],
+    "complaint-language": "is"
+}
