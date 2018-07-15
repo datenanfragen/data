@@ -1,0 +1,18 @@
+{
+    "slug": "nods",
+    "relevant-countries": [
+        "no"
+    ],
+    "name": "Datatilsynet (Norwegian Data Protection Authority)",
+    "address": "Postboks 458 Sentrum\n0105 Oslo\nNorway",
+    "phone": "+47 22 39 69 00",
+    "fax": "+47 22 42 23 50",
+    "email": "postkasse@datatilsynet.no",
+    "web": "https://www.datatilsynet.no/",
+    "sources": [
+        "https://www.datatilsynet.no/en/about-us/contact-us/",
+        "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080",
+        "https://www.datatilsynet.no/om-datatilsynet/kontakt-oss/"
+    ],
+    "complaint-language": "no"
+}
