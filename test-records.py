@@ -10,15 +10,21 @@ schema_authorities = json.load(open('schema-supervisory-authorities.json', encod
 pathlist_companies = Path('data').glob('**/*.json')
 for path in pathlist_companies: 
     try:
-    	validate(json.load(open(path, encoding='utf-8')), schema_companies)
+        record = json.load(open(path, encoding='utf-8'))
+        if(record['slug'] + '.json' != os.path.basename(path)):
+            raise ValueError('Company filename "%s" does not match slug "%s".' % (record['slug'], os.path.basename(path)))
+        validate(record, schema_companies)
     except:
-    	print(path)
-    	raise
+        print(path)
+        raise
 
 pathlist_authorities = Path('supervisory-authorities').glob('**/*.json')
 for path in pathlist_authorities: 
     try:
-    	validate(json.load(open(path, encoding='utf-8')), schema_authorities)
+        record = json.load(open(path, encoding='utf-8'))
+        if(record['slug'] + '.json' != os.path.basename(path)):
+            raise ValueError('Supervisory authority filename "%s" does not match slug "%s".' % (record['slug'], os.path.basename(path)))
+        validate(record, schema_authorities)
     except:
-    	print(path)
-    	raise
+        print(path)
+        raise
