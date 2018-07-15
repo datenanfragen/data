@@ -1,0 +1,20 @@
+{
+    "slug": "gbico",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "The Information Commissioner’s Office",
+    "address": "Wycliffe House\nWater Lane\nWilmslow\nCheshire\nSK9 5AF\nUnited Kingdom",
+    "phone": "+44 1625 545745",
+    "fax": "+44 1625 524510",
+    "email": "casework@ico.org.uk",
+    "web": "https://ico.org.uk/",
+    "sources": [
+        "https://ico.org.uk/global/contact-us/postal-addresses/",
+        "https://ico.org.uk/global/contact-us/email/"
+    ],
+    "complaint-language": "en",
+    "comments": [
+        "A web form for complaints is also available: https://ico.org.uk/make-a-complaint/"
+    ]
+}
