@@ -1,0 +1,18 @@
+{
+    "slug": "chedoeb",
+    "relevant-countries": [
+        "ch"
+    ],
+    "name": "EDÖB – Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter",
+    "address": "Feldeggweg 1\n3003 Bern\nSchweiz",
+    "phone": "+41 58 462 43 95",
+    "fax": "+41 58 465 99 96",
+    "email": "contact20@edoeb.admin.ch",
+    "web": "https://www.edoeb.admin.ch",
+    "sources": [
+        "https://www.edoeb.admin.ch/edoeb/de/home/der-edoeb/kontakt.html",
+        "https://www.edoeb.admin.ch/edoeb/de/home/der-edoeb/kontakt/adresse.html",
+        "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080"
+    ],
+    "complaint-language": "de"
+}
