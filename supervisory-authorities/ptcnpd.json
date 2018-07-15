@@ -1,0 +1,16 @@
+{
+    "slug": "ptcnpd",
+    "relevant-countries": [
+        "pt"
+    ],
+    "name": "CNPD – Comissão Nacional de Protecção de Dados",
+    "address": "Av. D. Carlos I, 134 - 1.º\n1200-651 Lisboa\nPortugal",
+    "phone": "+351 21 392 84 00",
+    "fax": "+351 21 397 68 32",
+    "email": "geral@cnpd.pt",
+    "web": "https://www.cnpd.pt",
+    "sources": [
+        "https://www.cnpd.pt/english/bin/contacts/contacts.htm"
+    ],
+    "complaint-language": "pt"
+}
