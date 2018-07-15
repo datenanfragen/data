@@ -1,0 +1,16 @@
+{
+    "slug": "sedi",
+    "relevant-countries": [
+        "se"
+    ],
+    "name": "Datainspektionen (Swedish Data Protection Authority)",
+    "address": "Box 8114\n104 20 Stockholm\nSweden",
+    "phone": "+46 8 657 61 00",
+    "fax": "+46 8 652 86 52",
+    "email": "datainspektionen@datainspektionen.se",
+    "web": "https://www.datainspektionen.se/",
+    "sources": [
+        "https://www.datainspektionen.se/kontakta-oss/"
+    ],
+    "complaint-language": "sv"
+}
