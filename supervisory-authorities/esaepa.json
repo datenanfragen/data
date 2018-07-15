@@ -1,0 +1,17 @@
+{
+    "slug": "esaepa",
+    "relevant-countries": [
+        "es"
+    ],
+    "name": "Agencia Española de Protección de Datos (Spanish Agency for Data Protection)",
+    "address": "C/ Jorge Juan, 6\n28001-Madrid\nSpain",
+    "phone": "+34 901 10 00 99",
+    "fax": "+34 91455 5699",
+    "email": "prensa@agpd.es",
+    "web": "https://www.aepd.es/",
+    "sources": [
+        "https://www.aepd.es/agencia/contacto.html",
+        "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080"
+    ],
+    "complaint-language": "es"
+}
