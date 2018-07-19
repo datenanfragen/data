@@ -9,7 +9,7 @@ index = client.init_index('companies')
 records = []
 
 # see https://stackoverflow.com/a/10378012
-pathlist = Path('data').glob('**/*.json')
+pathlist = Path('companies').glob('**/*.json')
 for path in pathlist:
     record = json.load(open(path, encoding='utf-8'))
     record['objectID'] = record['slug']

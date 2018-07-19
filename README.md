@@ -1,6 +1,6 @@
 # Company data for Datenanfragen.de
 
-This repository contains contact and privacy information for companies that fall under the scope of the EU GDPR.  
+This repository contains a directory of contact information and privacy-related data on companies (and other organizations) under the scope of the EU GDPR, a directory of supervisory authorities for privacy concerns, a collection of templates for GDPR requests and a list of suggested companies to send access requests to.  
 It is used to power the Datenanfragen.de company database but we warmly welcome you to use the data for your own projects!
 
 ## Contributing
@@ -12,14 +12,16 @@ Please be aware that by contributing, you agree for your work to be released und
 
 ## Data formats
 
-The core data is located in the `data` folder. Every company (or other organization) in our database is represented by a single JSON file (named after the slug in the JSON). The JSON has to follow the schema specified in the `schema.json` file.
+The company data is located in the `companies` folder. Every company (or other organization) in our database is represented by a single JSON file (named after the slug in the JSON). The JSON has to follow the schema specified in the `schema.json` file.
 
 If a company requires a special template for requests under the GDPR, these can be stored in the `templates` folder and referenced by their filename in the company JSON record.
 
 The `suggested-companies` folder contains suggestions on which companies users should send access requests to. It is grouped by country (where each country is represented by a file with the ISO 3166-1 alpha-2 country code as the filename). The list should only contain companies that the user should definitely request because they are relevant to pretty much every citizen of that country (e.g. collection agencies and credit agencies). It should not contain companies that are relevant for many but not all users (like Amazon, Facebook etc.)  
 A list for a country is represented by a JSON array of the slugs representing the corresponding companies.
 
-## Data format guidelines and resources
+Finally, the `supervisory-authorities` folder contains data on supervisory data protection authorities. They are structured similarly to the company records, following the schema in the `schema-supervisory-authorities.json` file.
+
+## Data format guidelines and resources (for company records)
 
 ### Data sources
 
