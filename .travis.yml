@@ -9,4 +9,4 @@ script:
   - python test-records.py
 
 after_success:
-  - python deploy-algolia.py
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then python deploy-algolia.py; fi'
