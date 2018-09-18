@@ -31,34 +31,24 @@ def get_fields_for_props(props):
     return fields
 
 
-# ---- Companies ----
-try: client.collections['companies'].delete()
-except typesense.exceptions.ObjectNotFound: pass
+def setup_index(index, schema_filename):
+    try:
+        client.collections[index].delete()
+    except typesense.exceptions.ObjectNotFound:
+        pass
 
-svas_schema = json.load(open('schema.json', encoding = 'utf-8'))
-svas_fields = get_fields_for_props(svas_schema['properties'].items())
+    schema = json.load(open(schema_filename, encoding = 'utf-8'))
+    fields = get_fields_for_props(schema['properties'].items())
 
-svas_fields.append({'name': 'id', 'type': 'string'})
-svas_fields.append({'name': 'sort-index', 'type': 'int32'})
+    fields.append({'name': 'id', 'type': 'string'})
+    fields.append({'name': 'sort-index', 'type': 'int32'})
 
-client.collections.create({
-    'name': 'companies',
-    'fields': svas_fields,
-    'default_sorting_field': 'sort-index'  # TODO: Once we have the appropriate data, we can have an actual weight here.
-})
+    client.collections.create({
+        'name': index,
+        'fields': fields,
+        'default_sorting_field': 'sort-index'  # TODO: Once we have the appropriate data, we can have an actual weight here.
+    })
 
-# ---- Supervisory authorities ----
-try: client.collections['supervisory-authorities'].delete()
-except typesense.exceptions.ObjectNotFound: pass
 
-svas_schema = json.load(open('schema-supervisory-authorities.json', encoding = 'utf-8'))
-svas_fields = get_fields_for_props(svas_schema['properties'].items())
-
-svas_fields.append({'name': 'id', 'type': 'string'})
-svas_fields.append({'name': 'sort-index', 'type': 'int32'})
-
-client.collections.create({
-    'name': 'supervisory-authorities',
-    'fields': svas_fields,
-    'default_sorting_field': 'sort-index'
-})
+setup_index('companies', 'schema.json')
+setup_index('supervisory-authorities', 'schema-supervisory-authorities.json')
