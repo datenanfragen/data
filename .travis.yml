@@ -3,10 +3,10 @@ python:
     - "3.6"
 
 install:
-  - pip install --upgrade algoliasearch jsonschema
+  - pip install --upgrade typesense jsonschema
 
 script:
   - python test-records.py
 
 after_success:
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then python deploy-algolia.py; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then python deploy-typesense.py; fi'
