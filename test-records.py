@@ -12,7 +12,7 @@ for path in pathlist_companies:
     try:
         record = json.load(open(path, encoding='utf-8'))
         if record['slug'] + '.json' != os.path.basename(path):
-            raise ValueError('Company filename "%s" does not match slug "%s".' % (os.path.basename(path)), record['slug'])
+            raise ValueError('Company filename "%s" does not match slug "%s".' % (os.path.basename(path), record['slug']))
         validate(record, schema_companies)
     except:
         print(path)
