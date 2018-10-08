@@ -1,0 +1,19 @@
+{
+    "slug": "prettylittlething",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Prettylittlething.com Ltd.",
+    "address": "49 – 51 Dale Street\nManchester M1 2HF\nUnited Kingdom",
+    "email": "customerservices@prettylittlething.com",
+    "web": "https://www.prettylittlething.com",
+    "sources": [
+        "https://www.prettylittlething.com/privacy-policy",
+        "https://www.prettylittlething.com/contact-us/",
+        "https://www.prettylittlething.com/terms"
+    ],
+    "request-language": "en"
+}
