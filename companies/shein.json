@@ -1,0 +1,21 @@
+{
+    "slug": "shein",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "ZoeTop Business Co., Ltd.",
+    "runs": [
+        "SheIn Group Ltd. (www.shein.com)"
+    ],
+    "address": "Room 19C, Lockhart Centre\n301 – 307 Lockhart Road\nWan Chai\nHong Kong",
+    "email": "data@shein.com",
+    "web": "https://www.shein.com/",
+    "sources": [
+        "https://www.shein.com/Privacy-Security-Policy-a-282.html",
+        "https://beta.companieshouse.gov.uk/company/FC033476"
+    ],
+    "suggested-transport-medium": "email"
+}
