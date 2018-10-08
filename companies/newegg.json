@@ -1,0 +1,19 @@
+{
+    "slug": "newegg",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Newegg Inc.",
+    "address": "9997 Rose Hills Road\nWhittier\nCA 90601\nUnited States of America",
+    "phone": "+1 800 390 1119",
+    "email": "privacy@newegg.com",
+    "web": "https://www.newegg.com",
+    "sources": [
+        "https://kb.newegg.com/knowledge-base/privacy-policy/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
