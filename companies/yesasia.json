@@ -1,0 +1,28 @@
+{
+    "slug": "yesasia",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "YesAsia.com Ltd.",
+    "address": "Privacy Director\n19/F, Phase II\nWyler Centre\n192-200 Tai Lin Pai Road\nKwai Chung\nNew Territories\nHong Kong",
+    "phone": "+852 2786 0817",
+    "email": "privacy@yesasia.com",
+    "web": "https://www.yesasia.com",
+    "sources": [
+        "https://www.yesasia.com/global/customer-support/0-0-0-hti.1046-en/question-answer.html"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ],
+    "request-language": "en"
+}
