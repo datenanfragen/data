@@ -4,12 +4,13 @@
         "commerce"
     ],
     "name": "ASOS",
-    "address": "Hercules Way\nLeavesden\nWatford\nHerts\nWD25 7GR\nUnited Kingdom",
+    "address": "Hercules Way\nLeavesden\nWatford\nHerts WD25 7GR\nUnited Kingdom",
     "email": "dataprotection@asos.com",
-    "web": "http://www.asos.de",
+    "web": "httsp://www.asos.com",
     "sources": [
         "http://www.asos.de/",
-        "http://www.asos.de/datenschutz/"
+        "http://www.asos.de/datenschutz/",
+        "https://www.asos.com/privacy-policy/"
     ],
     "relevant-countries": [
         "all"
