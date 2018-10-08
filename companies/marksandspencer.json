@@ -1,0 +1,35 @@
+{
+    "slug": "marksandspencer",
+    "relevant-countries": [
+        "at",
+        "be",
+        "dk",
+        "fr",
+        "de",
+        "ie",
+        "lu",
+        "nl",
+        "es",
+        "se",
+        "ch",
+        "au",
+        "ca",
+        "nz",
+        "us",
+        "je",
+        "ae",
+        "gb"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Marks and Spencer plc",
+    "address": "Chester Business Park\nWrexham Road\nChester CH4 9GA\nUnited Kingdom",
+    "phone": "+44 333 014 8555",
+    "email": "Customer.DPO@marks-and-spencer.com",
+    "web": "https://www.marksandspencer.com/",
+    "sources": [
+        "https://www.marksandspencer.com/c/faqs/legal-and-ethical-policies/what-is-our-privacy-policy"
+    ],
+    "suggested-transport-medium": "email"
+}
