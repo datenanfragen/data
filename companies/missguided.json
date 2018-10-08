@@ -1,0 +1,28 @@
+{
+    "slug": "missguided",
+    "relevant-countries": [
+        "au",
+        "de",
+        "es",
+        "fr",
+        "ie",
+        "pl",
+        "gb",
+        "us"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Missguided Ltd.",
+    "runs": [
+        "Missguided USA (Finance) Inc.",
+        "Missguided Retail Ltd."
+    ],
+    "address": "75 Trafford Wharf Road\nManchester M17 1ES\nUnited Kingdom",
+    "email": "informationrights@missguided.com",
+    "web": "https://www.missguided.eu",
+    "sources": [
+        "https://www.missguided.eu/privacy-policy"
+    ],
+    "suggested-transport-medium": "email"
+}
