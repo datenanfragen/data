@@ -1,0 +1,22 @@
+{
+    "slug": "deepdiscount-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Alliance Entertainment, LLC",
+    "runs": [
+        "DeepDiscount (www.deepdiscount.com)"
+    ],
+    "address": "740 Hilltop Drive\nItasca\nIL 60143\nUnited States of America",
+    "phone": "+1 800 264 5076",
+    "email": "cs@deepdiscount.com",
+    "web": "https://www.deepdiscount.com/",
+    "sources": [
+        "https://www.deepdiscount.com/privacy-policy",
+        "https://www.deepdiscount.com/about-us"
+    ],
+    "request-language": "en"
+}
