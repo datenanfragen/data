@@ -1,0 +1,38 @@
+{
+    "slug": "sueddeutsche",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Süddeutsche Zeitung GmbH",
+    "runs": [
+        "SZ-Bildungsmarkt (bildung.sueddeutsche.de)",
+        "Das Rezept (rezept.sz-magazin.de)",
+        "SZ-ePaper (epaper.sueddeutsche.de)",
+        "SZ-Immobilienmarkt",
+        "Jetzt (www.jetzt.de)",
+        "Kaufdown (www.kaufdown.de)",
+        "SZ-Prospekte",
+        "Satt und Glücklich (ausgehen.sueddeutsche.de)",
+        "Schule & Zeitung (schule-und-zeitung.sueddeutsche.de)",
+        "SZ-Stellenmarkt (stellenmarkt.sueddeutsche.de)",
+        "Süddeutsche Zeitung Magazin (sz-magazin.sueddeutsche.de)",
+        "SZ-Apps",
+        "SZ-Gedenken (trauer.sueddeutsche.de)",
+        "SZ-Media",
+        "SZ-Shop (szshop.sueddeutsche.de)",
+        "Zeitungsapp"
+    ],
+    "address": "Hultschiner Straße 8\n81677 München\nDeutschland",
+    "phone": "+49 89 2183 0",
+    "fax": "+49 89 2183 9715",
+    "email": "datenschutz@sz.de",
+    "web": "https://www.sueddeutsche.de",
+    "sources": [
+        "https://datenschutz.sueddeutsche.de/index.html",
+        "https://www.sueddeutsche.de/tools/impressum"
+    ],
+    "suggested-transport-medium": "email"
+}
