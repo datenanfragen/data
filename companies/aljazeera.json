@@ -1,0 +1,19 @@
+{
+    "slug": "aljazeera",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Al Jazeera Media Network",
+    "address": "PO Box 23127\nDoha\nQatar",
+    "web": "https://www.aljazeera.com/",
+    "sources": [
+        "https://network.aljazeera.com/privacy/en"
+    ],
+    "request-language": "en",
+    "comments": [
+        "There is also a web form for requests: https://network.aljazeera.com/privacy_contact_us/en"
+    ]
+}
