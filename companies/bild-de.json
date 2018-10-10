@@ -1,0 +1,28 @@
+{
+    "slug": "bild-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "BILD",
+    "runs": [
+        "BILDsmart",
+        "BILDplus",
+        "Sport BILD",
+        "BILDspielt",
+        "BILD kämpft für Sie",
+        "BILD Leser-Reporter"
+    ],
+    "address": "c/o Axel Springer SE\nAxel-Springer-Straße 65\n10888 Berlin\nDeutschland",
+    "phone": "+49 30 5858 5379",
+    "email": "datenschutz@bild.de",
+    "web": "https://www.bild.de",
+    "sources": [
+        "https://www.bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-54485502.bild.html",
+        "https://www.bild.de/corporate-site/impressum/bild-de/impressum-30746918.bild.html"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Es steht auch ein Online-Formular für Auskunftsersuchen zur Verfügung: https://www.bild.de/dsgvo/auskunftsersuchen/datenschutz/auskunftsersuchen-56476560.bild.html",
+        "Es steht auch ein Online-Formular für Löschersuchen zur Verfügung: https://www.bild.de/dsgvo/loeschersuchen/datenschutz/loeschersuchen-56563182.bild.html"
+    ]
+}
