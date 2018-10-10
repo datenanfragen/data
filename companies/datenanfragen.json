@@ -1,0 +1,25 @@
+{
+    "slug": "datenanfragen",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Datenanfragen.de e. V.",
+    "runs": [
+        "Datenanfragen.de",
+        "datarequests.org"
+    ],
+    "address": "c/o Benjamin Altpeter\nSchreinerweg 6\n38126 Braunschweig\nDeutschland",
+    "phone": "+49 531 209299 35",
+    "fax": "+49 531 209299 36",
+    "email": "datenschutz@datenanfragen.de",
+    "web": "https://verein.datenanfragen.de",
+    "sources": [
+        "https://verein.datenanfragen.de/datenschutz",
+        "https://www.datenanfragen.de/privacy",
+        "https://www.datarequests.org/privacy"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "PGP-Key: CC13 973A F8FD 11D1 4D94 98A8 0269 92F0 CF2C BB2E (https://www.datenanfragen.de/pgp/CF2CBB2E.asc)"
+    ]
+}
