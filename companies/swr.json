@@ -1,0 +1,27 @@
+{
+    "slug": "swr",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Südwestrundfunk (SWR)",
+    "runs": [
+        "SWR Kindernetz (www.kindernetz.de)",
+        "SWR Fernsehen (www.swrfernsehen.de)",
+        "DASDING (www.dasding.de)",
+        "SWR Mediathek (swrmediathek.de)"
+    ],
+    "address": "Neckarstraße 230\n70190 Stuttgart\nDeutschland",
+    "phone": "+49 711 929 13014",
+    "fax": "+49 711 929 13019",
+    "web": "https://www.swr.de/",
+    "sources": [
+        "https://www.swr.de/datenschutz/-/id=5885502/18mmzvl/index.html",
+        "https://www.swr.de/unternehmen/organisation/datenschutz-sicher-surfen/-/id=7687068/did=7846522/nid=7687068/aa5tg3/index.html"
+    ],
+    "comments": [
+        "Es steht auch ein Web-Formular zur Verfügung: https://www.swr.de/unternehmen/-/id=3586/cf=42/did=12150946/nid=3586/vv=email/12ubupp/index.html"
+    ]
+}
