@@ -16,7 +16,7 @@
     "address": "Marcel-Breuer-Straße 12\n80807 München\nDeutschland",
     "phone": "+49 800 3 63 84 69",
     "fax": "+49 89 38 03 88 01",
-    "email": "impressum@amazon.de",
+    "email": "eu-privacy@amazon.de",
     "web": "https://www.amazon.de",
     "sources": [
         "https://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=201909010",
@@ -45,5 +45,6 @@
     ],
     "relevant-countries": [
         "de"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
