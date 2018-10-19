@@ -5,6 +5,7 @@
     ],
     "name": "DB Vertrieb GmbH",
     "runs": [
+        "Deutsche Bahn Mobilitätsportal (www.bahn.de)",
         "BahnCard",
         "bahn.bonus",
         "Meine Bahn",
