@@ -1,0 +1,22 @@
+{
+    "slug": "oracle",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Oracle Corporation",
+    "address": "10 Van de Graaff Drive\nBurlington\nMA 01803\nUnited States of America",
+    "phone": "+1 650 506 7000",
+    "email": "mail@legislator.de",
+    "web": "https://www.oracle.com",
+    "sources": [
+        "https://www.oracle.com/legal/privacy/services-privacy-policy.html",
+        "https://www.oracle.com/corporate/contact/"
+    ],
+    "request-language": "en",
+    "comments": [
+        "There is also a web form for requests: https://oracle.ethicspointvp.com/custom/oracle/dp/en/form_data.asp"
+    ]
+}
