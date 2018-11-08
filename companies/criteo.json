@@ -1,0 +1,19 @@
+{
+    "slug": "criteo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Criteo",
+    "address": "32 Rue Blanche\n75009 Paris\nFrance",
+    "phone": "+33 1 40 40 22 90",
+    "email": "dpo@criteo.com",
+    "web": "https://www.criteo.com/",
+    "sources": [
+        "https://www.criteo.com/privacy/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
