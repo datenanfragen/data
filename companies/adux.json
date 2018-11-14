@@ -1,0 +1,20 @@
+{
+    "slug": "adux",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "AdUX",
+    "address": "6 Place du Colonel Bourgoin\n75012 Paris\nFrance",
+    "phone": "+33 1 73 03 89 00",
+    "email": "privacy@adux.com",
+    "web": "http://www.adux.com",
+    "sources": [
+        "http://www.adux.com/en/privacy/",
+        "http://www.adux.com/en/contact/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
