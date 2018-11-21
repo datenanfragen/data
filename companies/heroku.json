@@ -9,13 +9,14 @@
     "name": "Heroku, Inc.",
     "address": "c/o Salesforce.com, Inc.\nThe Landmark @ 1 Market Street\nSuite 300\nSan Francisco\nCA 94105\nUnited States of America",
     "phone": "+1 800 667 6389",
-    "email": "support@heroku.com",
+    "email": "privacy@salesforce.com",
     "web": "https://www.heroku.com/",
     "sources": [
         "https://www.salesforce.com/company/privacy/",
         "https://www.heroku.com/contact",
         "https://www.heroku.com/policy/support",
-        "https://github.com/datenanfragen/data/issues/22"
+        "https://github.com/datenanfragen/data/issues/22",
+        "https://github.com/datenanfragen/data/issues/26"
     ],
     "comments": [
         "Web form for privacy requests: https://pages.mail.salesforce.com/contact-privacy/"
