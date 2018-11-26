@@ -1,0 +1,24 @@
+{
+    "slug": "buenting",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Bünting E-Commerce GmbH & Co. KG",
+    "runs": [
+        "myTime.de"
+    ],
+    "address": "Brunnenstraße 37\n26789 Leer\nDeutschland",
+    "phone": "+49 800 500 22 00",
+    "fax": "+49 91 808 61 33",
+    "email": "datenschutzbeauftragte@buenting.de",
+    "web": "https://www.buenting.de",
+    "sources": [
+        "https://www.mytime.de/datenschutz",
+        "https://www.mytime.de/mytime/Informationspflichten_fur_Kunden_myTime.pdf",
+        "https://www.buenting.de/impressumdatenschutz/datenschutz.html"
+    ],
+    "suggested-transport-medium": "email"
+}

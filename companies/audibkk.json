@@ -1,0 +1,20 @@
+{
+    "slug": "audibkk",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Audi BKK",
+    "address": "Ettinger Straße 70\n85057 Ingolstadt\nDeutschland",
+    "phone": "+49 841 887 0",
+    "fax": "+49 841 887 109",
+    "email": "datenschutz@audibkk.de",
+    "web": "https://www.audibkk.de/",
+    "sources": [
+        "https://www.audibkk.de/datenschutz/",
+        "https://www.audibkk.de/impressum/"
+    ],
+    "suggested-transport-medium": "email"
+}

@@ -4,6 +4,9 @@
         "finance"
     ],
     "name": "N26 Bank GmbH",
+    "runs": [
+        "Number26 (ehem.)"
+    ],
     "address": "Klosterstraße 62\n10179 Berlin\nDeutschland",
     "phone": "+49 30 364 28 68 80",
     "fax": "+49 30 364 50 80",

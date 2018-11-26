@@ -1,9 +1,15 @@
 {
-    "slug": "volkswagen-bank",
+    "slug": "vw-bank",
     "categories": [
-        "finance"
+        "finance",
+        "insurance"
     ],
     "name": "Volkswagen Bank GmbH",
+    "runs": [
+        "Volkswagen Financial Services AG",
+        "Volkswagen Versicherung AG",
+        "Volkswagen Autoversicherung AG"
+    ],
     "address": "Datenschutzbeauftragter\nGifhorner Straße 57\n38112 Braunschweig\nDeutschland",
     "phone": "+49 531 212 02",
     "fax": "+49 531 212 2275",
