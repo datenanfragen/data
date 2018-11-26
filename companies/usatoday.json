@@ -1,0 +1,18 @@
+{
+    "slug": "usatoday",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Gannett Satellite Information Network, LLC.",
+    "runs": [
+        "USA TODAY (eu.usatoday.com)"
+    ],
+    "address": "7950 Jones Branch Drive\nMcLean\nVA 22107\nUnited States of America",
+    "web": "https://eu.usatoday.com/",
+    "sources": [
+        "https://eu.usatoday.com/privacy/"
+    ]
+}

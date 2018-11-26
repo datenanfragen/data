@@ -1,0 +1,44 @@
+{
+    "slug": "dailymail",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "travel",
+        "finance",
+        "insurance"
+    ],
+    "name": "Associated Newspapers Ltd.",
+    "runs": [
+        "Daily Mail",
+        "MyMail (www.mymail.co.uk)",
+        "The Mail on Sunday",
+        "Mail Online (www.dailymail.co.uk)",
+        "Metro.co.uk",
+        "YOU Magazine (www.you.co.uk)",
+        "Mail Plus (www.dailymailplus.co.uk)",
+        "Mail Shop (www.mailshop.co.uk)",
+        "Mail Travel (www.mailtravel.co.uk)",
+        "Mail Finance (www.mailfinance.co.uk)",
+        "This is Money (www.thisismoney.co.uk)"
+    ],
+    "address": "Northcliffe House\n2 Derry Street\nLondon W8 5TT \nUnited Kingdom",
+    "phone": "+44 20 7938 6000",
+    "email": "dataprotection@dmgmedia.co.uk",
+    "web": "https://www.dailymail.co.uk",
+    "sources": [
+        "https://www.dailymail.co.uk/home/article-1388040/Privacy-Policy-Cookies.html",
+        "https://www.mymailaccount.co.uk/pages/mymail/privacyAndCookiesPolicy",
+        "https://metro.co.uk/privacypolicy/",
+        "https://www.you.co.uk/privacy-policy/",
+        "https://www.mailshop.co.uk/privacy-policy/privacy-policy.html",
+        "https://www.mailtravel.co.uk/privacy-policy-and-cookies",
+        "https://www.mailfinance.co.uk/about/privacy-policy/",
+        "https://www.thisismoney.co.uk/home/article-1388040/Privacy-Policy-Cookies.html",
+        "https://www.dmgmedia.co.uk/privacy-cookie-policy/",
+        "https://www.dmgmedia.co.uk/contact/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}

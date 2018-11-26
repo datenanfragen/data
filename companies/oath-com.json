@@ -9,15 +9,20 @@
     ],
     "name": "Oath (EMEA) Ltd.",
     "runs": [
-        "Yahoo (www.yahoo.com)",
+        "Yahoo! (www.yahoo.com)",
+        "Yahoo! Mail (mail.yahoo.com)",
         "Aol. (www.aol.com)",
         "Tumblr (www.tumblr.com)",
-        "Flickr (www.flickr.com)"
+        "Huffington Post (HuffPost)",
+        "TechCrunch (techcrunch.com)",
+        "Engadget (www.engadget.com)",
+        "Autoblog (www.autoblog.com)"
     ],
     "address": "Customer Care—Privacy Policy Issues\n5–7 Point Square\nNorth Wall Quay\nDublin 1\nIreland",
     "web": "https://www.oath.com/",
     "sources": [
         "https://policies.oath.com/xw/en/oath/privacy/intl/index.html",
-        "https://www.tumblr.com/privacy"
+        "https://www.tumblr.com/privacy",
+        "https://www.oath.com/en-gb/our-brands/"
     ]
 }
