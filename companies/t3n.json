@@ -1,0 +1,22 @@
+{
+    "slug": "t3n",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "yeebase media GmbH",
+    "runs": [
+        "t3n – Magazin für digitales Business (t3n.de)"
+    ],
+    "address": "Kriegerstraße 40\n30161 Hannover\nDeutschland",
+    "phone": "+49 5221 85496 90",
+    "fax": "+49 5221 85496 99",
+    "email": "datenschutz@yeebase.com",
+    "web": "https://t3n.de/",
+    "sources": [
+        "https://t3n.de/datenschutz/"
+    ],
+    "suggested-transport-medium": "email"
+}

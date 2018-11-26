@@ -1,0 +1,20 @@
+{
+    "slug": "radio-bremen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Radio Bremen",
+    "address": "Diepenau 10\n28195 Bremen\nDeutschland",
+    "phone": "+49 421 246 41026",
+    "fax": "+49 421 246 41097",
+    "email": "datenschutz@radiobremen.de",
+    "web": "https://www.radiobremen.de/",
+    "sources": [
+        "https://www.radiobremen.de/datenschutzerklaerung100.html",
+        "http://www.ard.de/kinder/Datenschutz/3436692/index.html"
+    ],
+    "suggested-transport-medium": "email"
+}

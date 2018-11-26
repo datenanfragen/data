@@ -1,0 +1,30 @@
+{
+    "slug": "spiegel-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment",
+        "commerce",
+        "ads"
+    ],
+    "name": "SPIEGEL-Gruppe",
+    "runs": [
+        "SPIEGEL ONLINE GmbH & Co. KG",
+        "DER SPIEGEL Abo (abo.spiegel.de)",
+        "manager magazin (www.manager-magazin.de)",
+        "manager lounge",
+        "Harvard Business Manager (www.harvardbusinessmanager.de)",
+        "Planestream (www.planestream.de)",
+        "bento (www.bento.de)"
+    ],
+    "address": "Ericusspitze 1\n20459 Hamburg\nDeutschland",
+    "phone": "+49 40 38080 0",
+    "email": "datenschutz@spiegelgruppe.de",
+    "web": "http://www.spiegel.de",
+    "sources": [
+        "http://www.spiegel.de/extra/datenschutzerklaerung-so-gehen-wir-mit-ihren-daten-um-a-1207780.html",
+        "http://www.spiegel.de/impressum/a-941280.html"
+    ],
+    "suggested-transport-medium": "email"
+}

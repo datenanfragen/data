@@ -1,0 +1,21 @@
+{
+    "slug": "focus-online-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "FOCUS Online Group GmbH",
+    "address": "St.-Martin-Straße 66\n81541 München\nDeutschland",
+    "phone": "+49 89 92 50 0",
+    "fax": "+49 89 92 50 1240",
+    "email": "focusonline@datenschutzanfrage.de",
+    "web": "https://www.focus.de/",
+    "sources": [
+        "https://www.focus.de/intern/datenschutzerklaerung-datenschutzerklaerung-fuer-die-webseite-www-focus-de_id_6846331.html",
+        "https://www.focus.de/intern/impressum/impressum-focus-online_aid_145454.html",
+        "https://www.focus.de/intern/kontakt/kontakt-so-erreichen-sie-uns_aid_751155.html"
+    ],
+    "suggested-transport-medium": "email"
+}
