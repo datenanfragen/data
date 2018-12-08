@@ -1,0 +1,32 @@
+{
+    "slug": "microsoft",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Microsoft Ireland Operations Ltd.",
+    "runs": [
+        "Xbox Live (www.xbox.com)",
+        "Microsoft Store ",
+        "Skype (www.skype.com)",
+        "Cortana",
+        "Microsoft Edge browsing history",
+        "Bing (www.bing.com)",
+        "Windows",
+        "Microsoft Office (www.office.com)",
+        "Office 365",
+        "OneDrive (onedrive.live.com)",
+        "SwiftKey",
+        "Wunderlist c/o 6Wunderkinder GmbH (www.wunderlist.com)",
+        "Microsoft Rewards",
+        "MileIQ (www.mileiq.com)"
+    ],
+    "address": "Attn: Data Protection Officer\nOne Microsoft Place\nSouth County Business Park\nLeopardstown\nDublin 18\nIreland",
+    "phone": "+353 1 295 3826",
+    "web": "https://www.microsoft.com",
+    "sources": [
+        "https://privacy.microsoft.com/privacystatement"
+    ],
+    "comments": [
+        "There is also a web form for requests: https://privacy.microsoft.com/privacy-questions"
+    ]
+}
