@@ -1,0 +1,37 @@
+{
+    "slug": "web-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication",
+        "ads"
+    ],
+    "name": "Web.com Group, Inc.",
+    "runs": [
+        "Register.com, Inc. (www.register.com)",
+        "Network Solutions, LLC (www.networksolutions.com)",
+        "Franchise Website Solutions, LP",
+        "Monster Commerce, LLC",
+        "NameSecure, LLC (www.namesecure.com)",
+        "RPI, Inc.",
+        "SnapNames Web.com, LLC (www.snapnames.com)",
+        "Web.com Holding Company, Inc.",
+        "Yodle Web.com, Inc. (www.yodle.com)",
+        "LogoYes (logoyes.com)"
+    ],
+    "address": "Attn: Privacy Officer\n12808 Gran Bay Parkway West\nJacksonville\nFL 32258\nUnited States of America",
+    "phone": "+1 904 680 6600",
+    "fax": "+1 904 880 0350",
+    "email": "privacy@web.com",
+    "web": "https://www.web.com/",
+    "sources": [
+        "https://assets.web.com/legal/English/PrivacyPolicy.pdf",
+        "https://www.web.com/about-us/contact-us"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "There is also a web form for requests: https://dsar.web.com/retail"
+    ]
+}
