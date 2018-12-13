@@ -1,0 +1,17 @@
+{
+    "slug": "adform",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Adform A/S",
+    "address": "Wildersgade 10B\n1st floor\n1408 Copenhagen\nDenmark",
+    "email": "dpo@adform.com",
+    "web": "https://site.adform.com/",
+    "sources": [
+        "https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/"
+    ],
+    "suggested-transport-medium": "email"
+}
