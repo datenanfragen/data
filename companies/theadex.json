@@ -1,0 +1,28 @@
+{
+    "slug": "theadex",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "The ADEX GmbH",
+    "address": "Torstrasse 19\n10119 Berlin\nDeutschland",
+    "phone": "+49 30 555 7313 0",
+    "fax": "+49 30 555 7313 99",
+    "email": "mail@theadex.com",
+    "web": "https://www.theadex.com/",
+    "sources": [
+        "https://www.theadex.com/privacy-opt-out/",
+        "https://www.theadex.com/imprint/"
+    ],
+    "required-elements": [
+        {
+            "desc": "User ID",
+            "type": "input"
+        }
+    ],
+    "comments": [
+        "The User ID can be found in section “III. Your Rights” of the privacy policy (https://www.theadex.com/privacy-opt-out/)."
+    ]
+}
