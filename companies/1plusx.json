@@ -1,0 +1,18 @@
+{
+    "slug": "1plusx",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "1plusX AG",
+    "address": "Eichenstrasse 2\n8808 Pfäffikon\nSwitzerland",
+    "email": "privacy@1plusx.com",
+    "web": "https://www.1plusx.com/",
+    "sources": [
+        "https://www.1plusx.com/privacy-policy/",
+        "https://www.1plusx.com/impressum/"
+    ],
+    "suggested-transport-medium": "email"
+}
