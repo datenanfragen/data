@@ -1,0 +1,19 @@
+{
+    "slug": "adgear",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "AdGear Technologies, Inc.",
+    "address": "Data Protection Officer\n460 McGill Street, Suite 200\nMontreal, QC\nH2Y 2H2\nCanada",
+    "phone": "+1 514 394 7951",
+    "email": "privacy@adgear.com",
+    "web": "https://adgear.com/en/",
+    "sources": [
+        "https://adgear.com/en/privacy/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
