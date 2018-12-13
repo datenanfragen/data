@@ -1,0 +1,20 @@
+{
+    "slug": "adara",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "ADARA, Inc.",
+    "address": "Data Protection Officer\n1070 E. Meadow Circle\nPalo Alto\nCA 94303\nUnited States of America",
+    "phone": "+1 408 876 6360",
+    "email": "dpo@adara.com",
+    "web": "https://adara.com/",
+    "sources": [
+        "https://adara.com/privacy-promise/",
+        "https://adara.com/contact-us/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
