@@ -1,0 +1,21 @@
+{
+    "slug": "affectv",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Affectv Ltd.",
+    "address": "1 Mark Square\nLondon\nEC2A 4EG\nUnited Kingdom",
+    "phone": "+44 20 3934 2174",
+    "email": "privacy@affectv.com",
+    "web": "https://affectv.com/",
+    "sources": [
+        "https://affectv.com/privacy-policy",
+        "https://affectv.com/contact",
+        "https://beta.companieshouse.gov.uk/company/07472717"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
