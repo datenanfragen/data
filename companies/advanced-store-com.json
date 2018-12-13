@@ -1,0 +1,18 @@
+{
+    "slug": "advanced-store-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "advanced store GmbH",
+    "address": "Alte Jakobstraße 79–80\n10179 Berlin\nDeutschland",
+    "phone": "+49 30 530 49 669",
+    "email": "privacy@advanced-store.com",
+    "web": "https://www.advanced-store.com/en/",
+    "sources": [
+        "https://www.advanced-store.com/en/privacy-policy/"
+    ],
+    "suggested-transport-medium": "email"
+}
