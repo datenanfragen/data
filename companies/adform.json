@@ -13,5 +13,6 @@
     "sources": [
         "https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/"
     ],
+    "custom-access-template": "access-tracking.txt",
     "suggested-transport-medium": "email"
 }

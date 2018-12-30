@@ -15,5 +15,6 @@
         "https://adgear.com/en/privacy/"
     ],
     "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
     "suggested-transport-medium": "email"
 }

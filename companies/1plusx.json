@@ -14,5 +14,6 @@
         "https://www.1plusx.com/privacy-policy/",
         "https://www.1plusx.com/impressum/"
     ],
+    "custom-access-template": "access-tracking.txt",
     "suggested-transport-medium": "email"
 }

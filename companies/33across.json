@@ -14,5 +14,6 @@
         "https://33across.co.uk/privacy-policy/"
     ],
     "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
     "suggested-transport-medium": "email"
 }

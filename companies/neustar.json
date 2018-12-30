@@ -23,5 +23,6 @@
         "https://www.home.neustar/contact-us"
     ],
     "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
     "suggested-transport-medium": "email"
 }

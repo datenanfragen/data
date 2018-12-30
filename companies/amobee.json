@@ -19,5 +19,6 @@
         "https://www.amobee.com/company/"
     ],
     "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
     "suggested-transport-medium": "email"
 }

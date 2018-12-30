@@ -13,5 +13,6 @@
     "sources": [
         "https://www.adrollgroup.com/privacy"
     ],
+    "custom-access-template": "access-tracking.txt",
     "suggested-transport-medium": "email"
 }
