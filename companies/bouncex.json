@@ -1,0 +1,19 @@
+{
+    "slug": "bouncex",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Bounce Exchange, Inc.",
+    "address": "Attn: Privacy Officer\n620 8th Avenue\nFloor 21\nNew York\nNY 10018-1618\nUnited States of America",
+    "email": "privacy@bounceexchange.com",
+    "web": "https://www.bouncex.com/",
+    "sources": [
+        "https://www.bouncex.com/privacy/"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}

@@ -1,0 +1,26 @@
+{
+    "slug": "conversantmedia",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Conversant LLC",
+    "runs": [
+        "Commission Junction LLC"
+    ],
+    "address": "Chief Privacy Officer\n565 Fifth Avenue\n6th Floor\nNew York\nNY 10017\nUnited States of America",
+    "email": "DPOfficer@conversantmedia.com",
+    "web": "https://www.conversantmedia.eu/",
+    "sources": [
+        "https://www.conversantmedia.eu/legal/privacy-policy",
+        "https://web.archive.org/web/20181230095218/https://www.conversantmedia.eu/legal/privacy-policy"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "There is also a web form for access requests: https://www.conversantmedia.com/dsr"
+    ]
+}

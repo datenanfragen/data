@@ -1,0 +1,19 @@
+{
+    "slug": "33across",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "33Across, Inc.",
+    "address": "Attn: Privacy Officer\n229 West 28th Street\n12th Floor\nNew York\nNY 10001\nUnited States of America",
+    "email": "privacy@33across.com",
+    "web": "https://33across.co.uk/",
+    "sources": [
+        "https://33across.co.uk/privacy-policy/"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}

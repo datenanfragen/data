@@ -15,6 +15,7 @@
         "https://www.tapjoy.com/legal/#privacy-policy"
     ],
     "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
     "suggested-transport-medium": "email",
     "comments": [
         "Alternative, more specific email address: gdpr-access@tapjoy.com and gdpr-optout@tapjoy.com"

@@ -1,0 +1,24 @@
+{
+    "slug": "amobee",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Amobee, Inc.",
+    "runs": [
+        "Turn, Inc."
+    ],
+    "address": "The Place\n2nd Floor\n175 High Holborn\nLondon\nWC1V 7AA\nUnited Kingdom",
+    "phone": "+44 20 3301 5555",
+    "email": "amobeeprivacy@amobee.com",
+    "web": "https://www.amobee.com/",
+    "sources": [
+        "https://www.amobee.com/trust/privacy-guidelines/",
+        "https://www.amobee.com/company/"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}

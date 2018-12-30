@@ -15,6 +15,7 @@
         "https://www.oracle.com/legal/privacy/services-privacy-policy.html",
         "https://www.oracle.com/corporate/contact/"
     ],
+    "custom-access-template": "access-tracking.txt",
     "request-language": "en",
     "comments": [
         "There is also a web form for requests: https://oracle.ethicspointvp.com/custom/oracle/dp/en/form_data.asp"

@@ -1,0 +1,28 @@
+{
+    "slug": "thetradedesk",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "The Trade Desk, Inc.",
+    "runs": [
+        "Adbrain (www.adbrain.com)",
+        "The UK Trade Desk Ltd."
+    ],
+    "address": "Global Privacy Office\n2 Park Avenue\n5th Floor\nNew York\nNY 10016\nUnited States of America",
+    "phone": "+1 646 868 6300",
+    "email": "dpo@thetradedesk.com",
+    "web": "https://www.thetradedesk.com/",
+    "sources": [
+        "https://www.adbrain.com/",
+        "https://www.thetradedesk.com/general/privacy",
+        "https://www.thetradedesk.com/contact-us"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Address in the UK: The UK Trade Desk Ltd., 20 Farringdon Rd, 5th Floor, London, EC1M 3HE, United Kingdom"
+    ]
+}
