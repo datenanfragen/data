@@ -1,0 +1,22 @@
+{
+    "slug": "coingate",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "UAB Virtualios valiutos",
+    "runs": [
+        "CoinGate (coingate.com)"
+    ],
+    "address": "A. Goštauto g. 8\nLT-01108 Vilnius\nLithuania",
+    "email": "dpo@coingate.com",
+    "web": "https://coingate.com/",
+    "sources": [
+        "https://coingate.com/privacy",
+        "https://coingate.com/contact"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
