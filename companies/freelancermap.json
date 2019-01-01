@@ -11,7 +11,7 @@
     "web": "https://www.freelancermap.de",
     "sources": [
         "https://www.freelancermap.de/impressum.html",
-        "https://www.freelancermap.de/datenschutz.html"
-    ],
-    "suggested-transport-medium": "email"
+        "https://www.freelancermap.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/issues/33"
+    ]
 }
