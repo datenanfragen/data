@@ -14,6 +14,7 @@ def deploy_index(index, directory, fields):
     pathlist = Path(directory).glob('**/*.json')
     for path in pathlist:
         record = json.load(open(path, encoding = 'utf-8'))
+        record = {prop: (str(value) if type(value) is bool else value) for prop, value in record.items()}
 
         # TODO: Let's hope Typesense implements record updates in the future.
         try:
