@@ -1,0 +1,23 @@
+{
+    "slug": "sizmek",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Sizmek Inc.",
+    "address": "2500 Bee Caves Road\nBuilding 1, Suite 150\nAustin\nTX 78746\nUnited States of America",
+    "phone": "+1 866 438 5552",
+    "fax": "+1 512 681 6430",
+    "email": "dpo@sizmek.com",
+    "web": "https://www.sizmek.com/",
+    "sources": [
+        "https://www.sizmek.com/privacy-policy/",
+        "https://info.sizmek.com/contact.html",
+        "https://www.sizmek.com/about"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
