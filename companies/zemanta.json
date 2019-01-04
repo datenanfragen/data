@@ -1,0 +1,19 @@
+{
+    "slug": "zemanta",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Zemanta, Inc.",
+    "address": "39 West 13th Street\n3rd floor\nNew York\nNY 10011\nUnited States of America",
+    "email": "info+privacy@zemanta.com",
+    "web": "http://www.zemanta.com/",
+    "sources": [
+        "http://www.zemanta.com/legal/privacy/"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
