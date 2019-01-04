@@ -1,0 +1,22 @@
+{
+    "slug": "impressiondesk",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Infectious Media Holdings Ltd.",
+    "runs": [
+        "Impression Desk"
+    ],
+    "address": "3 – 7 Herbal Hill\nLondon\nEC1R 5EJ\nUnited Kingdom",
+    "email": "privacy@infectiousmedia.com",
+    "web": "https://impressiondesk.com/",
+    "sources": [
+        "https://impressiondesk.com/end-user-privacy-notice/"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
