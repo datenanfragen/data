@@ -1,0 +1,19 @@
+{
+    "slug": "teads",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Teads SA",
+    "address": "Legal Department (DPO)\n97 rue du Cherche midi\n75006 Paris\nFrance",
+    "phone": "+33 1 70 95 59 00",
+    "email": "dpo@teads.tv",
+    "web": "https://www.teads.tv/",
+    "sources": [
+        "https://www.teads.tv/privacy-policy/",
+        "https://www.teads.tv/teads-offices/"
+    ],
+    "custom-access-template": "access-tracking.txt"
+}
