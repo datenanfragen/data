@@ -1,0 +1,21 @@
+{
+    "slug": "outbrain",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Outbrain, Inc.",
+    "runs": [
+        "Outbrain Amplify"
+    ],
+    "address": "Attn: Privacy Questions\n39 West 13th Street\n3rd floor\nNew York\nNY 10011\nUnited States of America",
+    "email": "PrivacyQuestions@outbrain.com",
+    "web": "https://www.outbrain.com/",
+    "sources": [
+        "https://www.outbrain.com/legal/privacy#privacy-policy"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
