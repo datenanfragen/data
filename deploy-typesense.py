@@ -16,6 +16,7 @@ def deploy_index(index, directory, fields):
         record = json.load(open(path, encoding = 'utf-8'))
         record = {prop: (str(value) if type(value) is bool else value) for prop, value in record.items()}
 
+        print('Updating ' + record['slug'])
         # TODO: Let's hope Typesense implements record updates in the future.
         try:
             client.collections[index].documents[record['slug']].delete()
