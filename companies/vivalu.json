@@ -1,0 +1,21 @@
+{
+    "slug": "vivalu",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "VIVALU GmbH",
+    "address": "Fürstenwall 70\n40219 Düsseldorf\nDeutschland",
+    "phone": "+49 211 781752 0",
+    "fax": "+49 211 781752 99",
+    "email": "datenschutz@vivalu.com",
+    "web": "https://www.vivalu.com/",
+    "sources": [
+        "https://www.vivalu.com/datenschutz/",
+        "https://www.vivalu.com/impressum/"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
