@@ -1,0 +1,23 @@
+{
+    "slug": "gumgum",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "GumGum UK Ltd.",
+    "runs": [
+        "GumGum, Inc."
+    ],
+    "address": "WeWork Building\n138 Holborn\nLondon\nEC1N2SW\nUnited Kingdom",
+    "phone": "+1 310 260 9666 ",
+    "email": "gdpr@gumgum.com",
+    "web": "https://gumgum.com/",
+    "sources": [
+        "https://gumgum.com/privacy-policy"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
