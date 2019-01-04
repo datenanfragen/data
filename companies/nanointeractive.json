@@ -1,0 +1,20 @@
+{
+    "slug": "nanointeractive",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Nano Interactive GmbH",
+    "address": "Moosstraße 7\n82319 Starnberg\nGermany",
+    "phone": "+49 8151 65278 0",
+    "email": "privacy@nanointeractive.com",
+    "web": "https://www.nanointeractive.com/",
+    "sources": [
+        "https://www.nanointeractive.com/privacy",
+        "https://www.nanointeractive.com/imprint"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
