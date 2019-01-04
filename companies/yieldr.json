@@ -1,0 +1,22 @@
+{
+    "slug": "yieldr",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Yieldr UK Ltd.",
+    "runs": [
+        "Yieldr Demand Intelligence UK Ltd."
+    ],
+    "address": "Attn: Yieldr Data Protection Officer\n1 Fetter Lane\nLondon\nEC4A 1BR\nUnited Kingdom",
+    "email": "privacy@yieldr.com",
+    "web": "https://www.yieldr.com/",
+    "sources": [
+        "https://www.yieldr.com/privacy/"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
