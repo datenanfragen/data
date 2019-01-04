@@ -1,0 +1,18 @@
+{
+    "slug": "temelio",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Temelio",
+    "address": "Service Données\n10 rue Treilhard\n75008 Paris\nFrance",
+    "phone": "+33 9 77 21 55 70",
+    "email": "contact@temelio.com",
+    "web": "https://www.temelio.com/",
+    "sources": [
+        "https://www.temelio.com/vie-privee"
+    ],
+    "custom-access-template": "access-tracking.txt"
+}
