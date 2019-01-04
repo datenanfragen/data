@@ -1,0 +1,20 @@
+{
+    "slug": "twyn",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "twyn group GmbH",
+    "address": "Dr. Schauer-Straße 26\n4600 Wels\nÖsterreich",
+    "phone": "+43 7242 224 080 0",
+    "email": "privacy@twyn.com",
+    "web": "http://www.twyn.com/",
+    "sources": [
+        "http://www.twyn.com/datenschutz.html",
+        "http://www.twyn.com/impressum.html"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
