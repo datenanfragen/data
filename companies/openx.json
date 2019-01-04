@@ -1,0 +1,24 @@
+{
+    "slug": "openx",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "OpenX Software Ltd.",
+    "runs": [
+        "OpenX Technologies, Inc.",
+        "OpenX Japan Kabushiki Kaisha"
+    ],
+    "address": "6th Floor\n90 Long Acre\nCovent Garden\nWC2E 9RA\nUnited Kingdom",
+    "phone": "+1 626 466 1141",
+    "email": "privacy@openx.com",
+    "web": "https://www.openx.com/",
+    "sources": [
+        "https://www.openx.com/legal/privacy-policy/",
+        "https://www.openx.com/contact-us/"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
