@@ -1,0 +1,19 @@
+{
+    "slug": "spot-im",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Spot.IM Ltd.",
+    "address": "Attn: Data Protection Officer\nYigal Alon 94\n6789156 Tel Aviv\nIsrael",
+    "email": "privacy@spot.im",
+    "web": "https://www.spot.im/",
+    "sources": [
+        "https://www.spot.im/Privacy/"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
