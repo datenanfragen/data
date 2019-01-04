@@ -1,0 +1,21 @@
+{
+    "slug": "ligatus",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Ligatus GmbH",
+    "address": "Christophstraße 19\n50670 Köln\nGermany",
+    "phone": "+49 221 56 939 500",
+    "fax": "+49 221 56 939 599",
+    "email": "privacy@ligatus.com",
+    "web": "https://www.ligatus.com",
+    "sources": [
+        "https://www.ligatus.com/de/privacy-policy",
+        "https://www.ligatus.com/de/imprint"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
