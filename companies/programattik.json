@@ -1,0 +1,24 @@
+{
+    "slug": "programattik",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "TTNET A.Ş.",
+    "runs": [
+        "Programattik"
+    ],
+    "address": "Attn: Legal Department\nEsentepe Mahallesi\nC-D Blok\nN:16 Karamancilar Ismerkezi\nIstanbul, 34394\nTurkey",
+    "phone": "+90 212 306 10 00",
+    "fax": "+90 212 306 10 10",
+    "email": "programattik@turktelekom.com.tr",
+    "web": "https://www.programattik.com",
+    "sources": [
+        "https://www.programattik.com/en/privacy-policy.aspx",
+        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=108956790"
+    ],
+    "request-language": "en",
+    "custom-access-template": "access-tracking.txt"
+}
