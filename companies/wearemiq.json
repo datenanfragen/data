@@ -1,0 +1,27 @@
+{
+    "slug": "wearemiq",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "MiQ Digital Ltd.",
+    "runs": [
+        "MiQ Digital USA, Inc.",
+        "MiQ Digital Canada, Inc.",
+        "MiQ Digital Singapore PTE Ltd.",
+        "MiQ Digital Australia PTY Ltd.",
+        "Media iQ Digital India Pvt Ltd."
+    ],
+    "address": "6th Floor\nCharlotte Building\n17 Gresse Street\nLondon\nW1T 1QL\nUnited Kingdom",
+    "phone": "+44 207 280 4400",
+    "email": "privacy@miqdigital.com",
+    "web": "https://www.wearemiq.com/",
+    "sources": [
+        "https://www.wearemiq.com/privacy-policy/",
+        "https://www.wearemiq.com/london/"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
