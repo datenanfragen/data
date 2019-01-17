@@ -1,0 +1,23 @@
+{
+    "slug": "bamf-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesamt für Migration und Flüchtlinge",
+    "runs": [
+        "Ankommen-App (ankommenapp.de)"
+    ],
+    "address": "Datenschutzbeauftragter\nFrankenstraße 210\n90461 Nürnberg\nDeutschland",
+    "phone": "+49 911 943 0",
+    "fax": "+49 911 943 10000",
+    "email": "service@bamf.bund.de",
+    "web": "https://www.bamf.de",
+    "sources": [
+        "https://www.bamf.de/DE/Service/Top/Datenschutz/datenschutz-node.html",
+        "https://www.bamf.de/DE/Service/Top/Impressum/impressum-node.html"
+    ],
+    "request-language": "de"
+}
