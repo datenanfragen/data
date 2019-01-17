@@ -1,0 +1,26 @@
+{
+    "slug": "interamt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Deutsche Telekom AG, Geschäftsbereich Vivento",
+    "runs": [
+        "Interamt (Stellenportal des öffentlichen Dienstes)",
+        "Mein Interamt",
+        "Vivento Personaldienstleistungen (www.vivento.de)"
+    ],
+    "address": "Datenschutzbeauftragter\nFriedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
+    "phone": "+49 800 330 2204",
+    "email": "datenschutz@telekom.de",
+    "web": "https://www.interamt.de",
+    "sources": [
+        "https://www.interamt.de/cms/legal/Datenschutz-und-Genderhinweis.html",
+        "https://www.vivento.de/de/datenschutz",
+        "https://www.interamt.de/cms/legal/impressum.html"
+    ],
+    "request-language": "de",
+    "suggested-transport-medium": "email"
+}
