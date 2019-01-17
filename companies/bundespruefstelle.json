@@ -1,0 +1,20 @@
+{
+    "slug": "bundespruefstelle",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesprüfstelle für jugendgefährdende Medien (BPjM)",
+    "address": "Rochusstraße 8 – 10\n53123 Bonn\nDeutschland",
+    "phone": "+49 228 9621030",
+    "fax": "+49 228 379014",
+    "email": "datenschutz@bpjm.bund.de",
+    "web": "https://www.bundespruefstelle.de/",
+    "sources": [
+        "https://www.bundespruefstelle.de/bpjm/datenschutzerklaerung/128852",
+        "https://www.bundespruefstelle.de/bpjm/impressum/128862"
+    ],
+    "request-language": "de"
+}
