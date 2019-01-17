@@ -1,0 +1,19 @@
+{
+    "slug": "bundesnetzagentur",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (BNetzA)",
+    "address": "Behördlicher Datenschutzbeauftragter\nTulpenfeld 4\n53113 Bonn\nDeutschland",
+    "phone": "+49 228 14 4140",
+    "fax": "+49 228 14 6414",
+    "email": "bDSB@Bundesnetzagentur.de",
+    "web": "https://www.bundesnetzagentur.de",
+    "sources": [
+        "https://www.bundesnetzagentur.de/DE/Service/Datenschutz/Datenschutz_node.html"
+    ],
+    "request-language": "de"
+}
