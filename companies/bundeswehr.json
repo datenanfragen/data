@@ -1,0 +1,23 @@
+{
+    "slug": "bundeswehr",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesministerium der Verteidigung",
+    "address": "Beauftragte/r für den Datenschutz in der Bundeswehr\nR II 4\nFontainengraben 150\n52123 Bonn\nDeutschland",
+    "phone": "+49 30 1824 00",
+    "fax": "+49 30 1824 22228",
+    "email": "poststelle@bmvg.bund.de",
+    "web": "https://www.bundeswehr.de",
+    "sources": [
+        "https://www.bundeswehr.de/portal/a/bwde/start/service-datenschutz",
+        "https://www.bundeswehr.de/portal/a/bwde/start/service-impressum"
+    ],
+    "request-language": "de",
+    "comments": [
+        "Eigentliche Adresse der Behörde: Stauffenbergstraße 18, 10785 Berlin, Deutschland"
+    ]
+}
