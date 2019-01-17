@@ -1,0 +1,23 @@
+{
+    "slug": "bundesjustizamt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesamt für Justiz",
+    "address": "Datenschutzbeauftragter\nAdenauerallee 99 – 103\n53113 Bonn\nDeutschland",
+    "phone": "+49 228 99 410 5422",
+    "fax": "+49 228 99 410 5050",
+    "email": "datenschutzbeauftragter@bfj.bund.de",
+    "web": "https://www.bundesjustizamt.de",
+    "sources": [
+        "https://www.bundesjustizamt.de/DE/Servicebereich/Datenschutzerklaerung/Datenschutzerklaerung_node.html"
+    ],
+    "request-language": "de",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative Faxnummer: +49 228 99 410 4601"
+    ]
+}
