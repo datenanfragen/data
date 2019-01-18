@@ -1,0 +1,23 @@
+{
+    "slug": "bzst-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundeszentralamt für Steuern (BZSt)",
+    "address": "Datenschutzbeauftragte\nAn der Küppe 1\n53225 Bonn\nDeutschland",
+    "phone": "+49 228 406 0",
+    "fax": "+49 228 406 2661",
+    "email": "poststelle@bzst.bund.de",
+    "web": "https://www.bzst.de",
+    "sources": [
+        "https://www.bzst.de/DE/Service/Datenschutz/Datenschutz_node.html",
+        "https://www.bzst.de/DE/Service/Impressum/impressum_node.html"
+    ],
+    "request-language": "de",
+    "comments": [
+        "Kontaktformular für Datenschutzanfragen: https://www.bzst.de/SharedDocs/Kontaktformular/DE/Ueber_Uns/Datenschutz/datenschutz_kontakt_node.html"
+    ]
+}
