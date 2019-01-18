@@ -1,0 +1,19 @@
+{
+    "slug": "bib-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesinstitut für Bevölkerungsforschung (BiB)",
+    "address": "Datenschutzbeauftragte\n65180 Wiesbaden\nDeutschland",
+    "phone": "+49 611 75 3929",
+    "fax": "+49 611 75 3972",
+    "email": "datenschutzbeauftragter@destatis.de",
+    "web": "https://www.bib.bund.de",
+    "sources": [
+        "https://www.bib.bund.de/DE/Service/Datenschutz/Datenschutz.html"
+    ],
+    "request-language": "de"
+}
