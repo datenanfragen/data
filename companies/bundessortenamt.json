@@ -1,0 +1,19 @@
+{
+    "slug": "bundessortenamt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundessortenamt (BSA)",
+    "address": "Behördlicher Datenschutzbeauftragter\nOsterfelddamm 80\n30627 Hannover\nDeutschland",
+    "phone": "+49 511 9566 5624",
+    "fax": "+49 511 9566 9600",
+    "email": "datenschutz@bundessortenamt.de",
+    "web": "https://www.bundessortenamt.de/internet30/index.php",
+    "sources": [
+        "https://www.bundessortenamt.de/internet30/index.php?id=239"
+    ],
+    "request-language": "de"
+}

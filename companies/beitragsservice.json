@@ -6,6 +6,9 @@
     ],
     "name": "ARD ZDF Deutschlandradio Beitragsservice",
     "address": "Datenschutzbeauftragte\nFreimersdorfer Weg 6\n50829 Köln\nDeutschland",
+    "runs": [
+        "Gebühreneinzugszentrale GEZ (ehem.)"
+    ],
     "phone": "+49 221 5061 2632",
     "fax": "+49 221 5061 2507",
     "email": "datenschutz@beitragsservice.de",

@@ -1,0 +1,19 @@
+{
+    "slug": "bdbos-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesanstalt für den Digitalfunk BOS",
+    "address": "Behördliche Datenschutzbeauftragte\n11014 Berlin \nDeutschland",
+    "phone": "+49 30 18 681 45726",
+    "fax": "+49 30 18 681 545726",
+    "email": "DSB@bdbos.bund.de",
+    "web": "https://www.bdbos.bund.de",
+    "sources": [
+        "https://www.bdbos.bund.de/DE/Service/Datenschutzhinweis/datenschutz_node.html"
+    ],
+    "request-language": "de"
+}

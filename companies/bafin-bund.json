@@ -1,0 +1,22 @@
+{
+    "slug": "bafin-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)",
+    "address": "Behördlicher Datenschutzbeauftragter\nGraurheindorfer Straße 108\n53117 Bonn\nDeutschland",
+    "phone": "+49 228 4108 0",
+    "fax": "+49 228 4108 1550",
+    "email": "Datenschutz@bafin.de",
+    "web": "https://www.bafin.de",
+    "sources": [
+        "https://www.bafin.de/DE/DieBaFin/Datenschutz/Datenschutz_node.html"
+    ],
+    "request-language": "de",
+    "comments": [
+        "PGP-Keys für verschlüsselte Kommunikation: https://www.bafin.de/DE/DieBaFin/Kontakt/GesicherteKommunikation/gesicherte_kommunikation_artikel.html"
+    ]
+}

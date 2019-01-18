@@ -1,0 +1,23 @@
+{
+    "slug": "bibb-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesinstitut für Berufsbildung (BIBB)",
+    "address": "Datenschutzbeauftragter\nRobert-Schuman-Platz 3\n53175 Bonn\nDeutschland",
+    "phone": "+49 228 107 1713",
+    "fax": "+49 228 107 2977",
+    "email": "zentrale@bibb.de",
+    "web": "https://www.bibb.de",
+    "sources": [
+        "https://www.bibb.de/de/datenschutz.php",
+        "https://www.bibb.de/de/impressum.php"
+    ],
+    "request-language": "de",
+    "comments": [
+        "Kontaktformular für Datenschutzanfragen: https://www.bibb.de/de/kontakformular.php?maid=4061"
+    ]
+}

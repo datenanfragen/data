@@ -1,0 +1,23 @@
+{
+    "slug": "baainbw",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+    "address": "Behördliche/r Beauftragte/r für den Datenschutz der Bundeswehr\nc/o Bundesministerium der Verteidigung, R II 4\nFontainengraben 150\n53123 Bonn\nDeutschland",
+    "phone": "+49 261 400 0",
+    "fax": "+49 261 400 12660",
+    "email": "baainbwposteingang@bundeswehr.org",
+    "web": "www.baainbw.de",
+    "sources": [
+        "http://www.baainbw.de/portal/a/baain/start/service-datenschutz",
+        "http://www.baainbw.de/portal/a/baain/start/service-impressum"
+    ],
+    "request-language": "de",
+    "comments": [
+        "Eigentliche Adresse: Ferdinand-Sauerbruch-Straße 1, 56073 Koblenz, Deutschland"
+    ]
+}

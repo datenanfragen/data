@@ -1,0 +1,19 @@
+{
+    "slug": "bundessprachenamt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundessprachenamt",
+    "address": "Horbeller Straße 52\n50354 Hürth\nDeutschland",
+    "phone": "+49 2233 593 0",
+    "fax": "+49 2233 593 5616",
+    "email": "info@bundessprachenamt.de",
+    "web": "http://www.bundessprachenamt.de/",
+    "sources": [
+        "http://www.bundessprachenamt.de/deutsch/impressum/impressum.htm"
+    ],
+    "request-language": "de"
+}
