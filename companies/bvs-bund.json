@@ -1,0 +1,19 @@
+{
+    "slug": "bvs-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesanstalt für vereinigungsbedingte Sonderaufgaben",
+    "address": "Büro der Abwicklerin\nSchönhauser Allee 120\n10437 Berlin\nDeutschland",
+    "phone": "+49 30 44322301",
+    "fax": "+49 30 44322260",
+    "email": "Sekretariat.Abwicklerin@bvs-mail.de",
+    "web": "http://www.bvs.bund.de/",
+    "sources": [
+        "http://www.bvs.bund.de/002_menue_oben/2_impressum.html"
+    ],
+    "request-language": "de"
+}
