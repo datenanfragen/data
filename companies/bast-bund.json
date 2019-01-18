@@ -1,0 +1,20 @@
+{
+    "slug": "bast-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesanstalt für Straßenwesen (BASt)",
+    "address": "Behördlicher Datenschutzbeauftragter\nBrüderstraße 53\n51427 Bergisch Gladbach\nDeutschland",
+    "phone": "+49 2204 43 0",
+    "fax": "+49 2204 43 1150",
+    "email": "datenschutz@bast.de",
+    "web": "https://www.bast.de",
+    "sources": [
+        "https://www.bast.de/BASt_2017/DE/Service/Datenschutz/Datenschutz_node.html",
+        "https://www.bast.de/BASt_2017/DE/Service/Impressum/impressum_node.html"
+    ],
+    "request-language": "de"
+}
