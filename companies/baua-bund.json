@@ -1,0 +1,20 @@
+{
+    "slug": "baua-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA)",
+    "address": "Behördliche Datenschutzbeauftragte\nFriedrich-Henkel-Weg 1 – 25\n44149 Dortmund\nDeutschland",
+    "phone": "+49 231 9071 0",
+    "fax": "+49 231 9071 2454",
+    "email": "bds@baua.bund.de",
+    "web": "https://www.baua.de",
+    "sources": [
+        "https://www.baua.de/DE/Services/Datenschutz/Datenschutz_node.html",
+        "https://www.baua.de/DE/Services/Impressum/Impressum_node.html"
+    ],
+    "request-language": "de"
+}
