@@ -1,0 +1,20 @@
+{
+    "slug": "bgr-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesanstalt für Geowissenschaften und Rohstoffe (BGR)",
+    "address": "Datenschutzbeauftragte\nStilleweg 2\n30655 Hannover\nDeutschland",
+    "phone": "+49 511 643 3688",
+    "fax": "+49 511 643 2304",
+    "email": "Datenschutz@bgr.de",
+    "web": "https://www.bgr.bund.de",
+    "sources": [
+        "https://www.bgr.bund.de/DE/Allgemeines/Wm/Impressum/datenschutzerklaerung.html?nn=1542388",
+        "https://www.bgr.bund.de/DE/Allgemeines/Wm/Impressum/impressum_node.html"
+    ],
+    "request-language": "de"
+}
