@@ -1,0 +1,23 @@
+{
+    "slug": "bundesversicherungsamt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesversicherungsamt (BVA)",
+    "address": "Friedrich-Ebert-Allee 38\n53113 Bonn\nDeutschland",
+    "phone": "+49 228 619 1948",
+    "fax": "+49 228 619 1870",
+    "email": "datenschutzbeauftragter@bvamt.bund.de",
+    "web": "https://www.bundesversicherungsamt.de/",
+    "sources": [
+        "https://www.bundesversicherungsamt.de/datenschutz.html",
+        "https://www.bundesversicherungsamt.de/impressum.html"
+    ],
+    "request-language": "de",
+    "comments": [
+        "Es stehen auch PGP-Keys für die verschlüsselte Kommunikation zur Verfügung: https://www.bundesversicherungsamt.de/kontakt/verschluesselte-kommunikation-mit-dem-bundesversicherungsamt.html"
+    ]
+}
