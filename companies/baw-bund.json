@@ -1,0 +1,20 @@
+{
+    "slug": "baw-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Bundesanstalt für Wasserbau (BAW)",
+    "address": "Behördliche Datenschutzbeauftragte\nPostfach 210253\n76152 Karlsruhe\nDeutschland",
+    "phone": "+49 721 9726 4225",
+    "fax": "+49 721 9726 4540",
+    "email": "datenschutzbeauftragter@baw.de",
+    "web": "https://www.baw.de",
+    "sources": [
+        "https://www.baw.de/DE/datenschutz/datenschutz.html",
+        "https://www.baw.de/DE/kontakt/kontakt.html"
+    ],
+    "request-language": "de"
+}
