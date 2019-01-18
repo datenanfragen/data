@@ -1,0 +1,20 @@
+{
+    "slug": "dnb-bund",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Deutsche Nationalbibliothek (DNB)",
+    "address": "Behördlicher Datenschutzbeauftragter\nAdickesallee 1\n60322 Frankfurt am Main\nDeutschland",
+    "phone": "+49 69 1525 0",
+    "fax": "+49 69 1525 1010",
+    "email": "datenschutzbeauftragter@dnb.de",
+    "web": "https://www.dnb.de",
+    "sources": [
+        "https://www.dnb.de/DE/Header/Datenschutz/datenschutz_node.html",
+        "https://www.dnb.de/DE/Header/Impressum/impressum_node.html"
+    ],
+    "request-language": "de"
+}
