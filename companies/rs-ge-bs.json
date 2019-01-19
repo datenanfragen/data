@@ -1,0 +1,19 @@
+{
+    "slug": "rs-ge-bs",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Realschule Georg-Eckert-Straße Braunschweig",
+    "address": "Georg-Eckert-Straße 1\n38100 Braunschweig\nDeutschland",
+    "phone": "+49 531 20 89 93 1",
+    "fax": "+49 531 20 89 93 39",
+    "email": "schulleitung@rs-ge.de",
+    "web": "https://www.rs-ge.de/",
+    "sources": [
+        "https://www.rs-ge.de/ateam_impressum/impressum.html"
+    ],
+    "request-language": "de"
+}
