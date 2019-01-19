@@ -1,0 +1,20 @@
+{
+    "slug": "gsbue-bs",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Grundschule Bültenweg Braunschweig",
+    "address": "Bültenweg 9\n38106 Braunschweig\nDeutschland",
+    "phone": "+49 531 23863 0",
+    "fax": "+49 531 23863 19",
+    "email": "datenschutz@gs‐bueltenweg.de",
+    "web": "https://wordpress.nibis.de/gsbue/",
+    "sources": [
+        "https://wordpress.nibis.de/gsbue/kontakt/",
+        "http://wordpress.nibis.de/gsbue/files/Informationsblatt_DGSVO__GS_B%C3%BCltenweg.pdf"
+    ],
+    "request-language": "de"
+}
