@@ -1,0 +1,20 @@
+{
+    "slug": "iserv",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication",
+        "social media"
+    ],
+    "name": "IServ GmbH",
+    "address": "Bültenweg 73\n38106 Braunschweig\nDeutschland",
+    "phone": "+49 531 22 43 666 0",
+    "fax": "+49 531 22 43 666 9",
+    "email": "datenschutz@iserv.eu",
+    "web": "https://iserv.eu/",
+    "sources": [
+        "https://iserv.eu/legal/privacy",
+        "https://iserv.eu/legal"
+    ]
+}
