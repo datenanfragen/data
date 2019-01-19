@@ -1,0 +1,20 @@
+{
+    "slug": "gs-comenius-bs",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Grundschule Comeniusstraße Braunschweig",
+    "address": "Comeniusstraße 11\n38102 Braunschweig\nDeutschland",
+    "phone": "+49 531 220140",
+    "fax": "+49 531 2201444",
+    "email": "datenschutzkoordinator@gs-comenius.de",
+    "web": "https://www.gs-comenius.de/",
+    "sources": [
+        "https://www.gs-comenius.de/kontakt/datenschutzerklaerung.html",
+        "https://www.gs-comenius.de/kontakt.html"
+    ],
+    "request-language": "de"
+}
