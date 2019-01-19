@@ -1,0 +1,20 @@
+{
+    "slug": "grundschule-edith-stein-bs",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Grundschule Edith Stein Braunschweig",
+    "address": "Friesenstraße 50\n38100 Braunschweig\nDeutschland",
+    "phone": "+49 531 120 5148",
+    "fax": "+49 531 240 8664",
+    "email": "gs.edithstein@braunschweig.de",
+    "web": "http://www.grundschule-edith-stein.de/",
+    "sources": [
+        "http://www.grundschule-edith-stein.de/impressum.html",
+        "http://www.grundschule-edith-stein.de/dse.html"
+    ],
+    "request-language": "de"
+}
