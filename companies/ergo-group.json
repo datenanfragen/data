@@ -1,0 +1,19 @@
+{
+    "slug": "ergo-group",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "ERGO Group AG",
+    "address": "ERGO-Platz 1\n40198 Düsseldorf\nDeutschland",
+    "phone": "+49 800 3746 000",
+    "email": "datenschutz@ergo.de",
+    "web": "https://www.ergo.de",
+    "sources": [
+        "https://www.ergo.de/de/Service/Datenschutz",
+        "https://github.com/datenanfragen/data/issues/41"
+    ],
+    "suggested-transport-medium": "email"
+}
