@@ -1,0 +1,24 @@
+{
+	"slug": "ergo-direkt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "ERGO Direkt Versicherungen",
+    "runs": [
+    	"ERGO Direkt Lebensversicherung AG",
+    	"ERGO Direkt Versicherung AG",
+    	"ERGO Direkt Krankenversicherung AG"
+    ],
+    "address": "Karl-Martell-Straße 60\n90344 Nürnberg\nDeutschland",
+    "phone": "+49 800 444 1000",
+    "email": "datenschutz.beauftragter@ergodirekt.de",
+    "web": "https://ergodirekt.de",
+    "sources": [
+        "https://ergodirekt.de/de/datenschutzunddatensicherheit.html",
+        "https://github.com/datenanfragen/data/issues/42"
+    ],
+    "suggested-transport-medium": "email"
+}
