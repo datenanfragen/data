@@ -1,0 +1,23 @@
+{
+	"slug": "infoscore-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "infoscore Forderungsmanagement GmbH",
+    "runs": [
+    	"BFS risk & collection GmbH (ehem.)"
+    ],
+    "address": "Datenschutzbeauftragter\nGütersloher Straße 123\n33401 Verl\nDeutschland",
+    "phone": "+49 5246 939 1021",
+    "fax": "+49 5241 8043 190",
+    "email": "info@arvato-infoscore.de",
+    "web": "https://www.inkassoportal.de/",
+    "sources": [
+        "https://www.inkassoportal.de/rechtliches/datenschutz",
+        "https://www.inkassoportal.de/impressum",
+        "https://github.com/datenanfragen/data/issues/43"
+    ]
+}
