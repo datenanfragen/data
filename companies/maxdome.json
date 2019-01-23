@@ -1,0 +1,23 @@
+{
+	"slug": "maxdome",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "7TV Joint Venture GmbH",
+    "runs": [
+        "maxdome (www.maxdome.de)"
+    ],
+    "address": "Landsberger Straße 110\n80339 München\nDeutschland",
+    "phone": "+49 89 88 56 57 54",
+    "email": "datenschutz@service.maxdome.de",
+    "web": "https://www.maxdome.de",
+    "sources": [
+        "https://www.maxdome.de/datenschutz",
+        "https://github.com/datenanfragen/data/issues/44",
+        "https://www.maxdome.de/impressum"
+    ],
+    "suggested-transport-medium": "email"
+}
