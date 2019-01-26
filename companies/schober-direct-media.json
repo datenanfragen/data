@@ -1,0 +1,21 @@
+{
+	"slug": "schober-direct-media",
+	"relevant-countries": [
+	    "de"
+	],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Schober Direct Media GmbH + Co. KG",
+    "address": "Datenschutzbeauftragte\nSophienstraße 40\n70178 Stuttgart\nDeutschland",
+    "phone": "+49 711 94 52 97 10",
+    "fax": "+49 711 94 52 97 99",
+    "email": "datenschutz@schober-direct-media.de",
+    "web": "https://www.schober-direct-media.de",
+    "sources": [
+    	"https://github.com/datenanfragen/data/issues/45",
+    	"https://www.schober-direct-media.de/datenschutz/",
+    	"https://www.schober-direct-media.de/impressum/"
+    ],
+    "suggested-transport-medium": "email"
+}
