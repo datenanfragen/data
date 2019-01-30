@@ -1,0 +1,48 @@
+{
+	"slug": "avira",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication",
+        "commerce"
+    ],
+    "name": "Avira Operations GmbH & Co. KG",
+    "runs": [
+        "Avira Holding GmbH & Co. KG",
+        "Avira Sales GmbH & Co. KG",
+        "Avira, Inc.",
+        "Avira GmbH & Co. KG",
+        "Avira International Holding GmbH",
+        "Avira OP GmbH",
+        "Avira Security Suite (Anti Virus)",
+        "Avira Connect",
+        "Avira Phantom VPN",
+        "Avira SafeSearch",
+        "Avira URL Cloud",
+        "Avira Protection Cloud",
+        "Avira Home Guard",
+        "Avira Safe Things",
+        "Avira Safe Shopping",
+        "Avira Software Updater",
+        "Avira Password Manager",
+        "Avira Identity Scanner",
+        "Avira Prime"
+    ],
+    "address": "Data Protection Officer\nKaplaneiweg 1\n88069 Tettnang\nGermany",
+    "phone": "+49 7542 500 0",
+    "fax": "+49 7542 500 3000",
+    "email": "data-privacy@avira.com",
+    "web": "https://www.avira.com",
+    "sources": [
+        "https://www.avira.com/de/general-privacy",
+        "https://www.avira.com/en/general-privacy",
+        "https://github.com/datenanfragen/data/issues/49",
+        "https://www.avira.com/de/general-imprint"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative email addresses: privacy@avira.com, datenschutz@avira.de"
+    ]
+}
