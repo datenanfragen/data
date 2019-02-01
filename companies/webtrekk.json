@@ -1,0 +1,17 @@
+{
+	"slug": "webtrekk",
+	"relevant-countries": [
+		"all"
+	],
+    "name": "Webtrekk GmbH",
+    "phone": "+49 30 755 415 0",
+    "fax": "+49 30 755 415 100",
+    "address": "Robert-Koch-Platz 4\n10115 Berlin\nDeutschland",
+    "email": "datenschutz@webtrekk.com",
+    "web": "https://www.webtrekk.com/de/startseite/",
+    "sources": [
+        "https://www.webtrekk.com/en/legal/opt-out-webtrekk/",
+        "https://github.com/datenanfragen/data/issues/64",
+        "https://www.webtrekk.com/en/legal/legal/"
+    ]
+}
