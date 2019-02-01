@@ -1,0 +1,23 @@
+{
+	"slug": "smava",
+	"relevant-countries": [
+		"de"
+	],
+    "categories": [
+        "finance"
+    ],
+    "name": "smava GmbH",
+    "address": "Datenschutzbeauftragter\nKopernikusstraße 35\n10243 Berlin\nDeutschland",
+    "phone": "+49 800 0700 620",
+    "fax": "+49 30 617 4800 0",
+    "email": "datenschutz@smava.de",
+    "web": "https://www.smava.de/",
+    "sources": [
+        "https://www.smava.de/Downloads/smava_Datenschutzerklaerung_062017.pdf",
+        "https://github.com/datenanfragen/data/issues/68"
+    ],
+    "comments": [
+    	"Faxnummer laut Datenschutzerklärung eigentlich +49 180 5 700 621 (0,14 €/Min aus dem Festnetz, Mobilfunk max. 0,42 €/Min). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01805700621"
+    ],
+    "suggested-transport-medium": "email"
+}
