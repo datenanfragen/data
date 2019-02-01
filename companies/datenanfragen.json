@@ -3,20 +3,21 @@
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "non-profit"
+    ],
     "name": "Datenanfragen.de e. V.",
     "runs": [
         "Datenanfragen.de",
         "datarequests.org"
     ],
-    "address": "c/o Benjamin Altpeter\nSchreinerweg 6\n38126 Braunschweig\nDeutschland",
+    "address": "Schreinerweg 6\n38126 Braunschweig\nDeutschland",
     "phone": "+49 531 209299 35",
     "fax": "+49 531 209299 36",
     "email": "datenschutz@datenanfragen.de",
     "web": "https://verein.datenanfragen.de",
     "sources": [
-        "https://verein.datenanfragen.de/datenschutz",
-        "https://www.datenanfragen.de/privacy",
-        "https://www.datarequests.org/privacy"
+        "https://verein.datenanfragen.de/datenschutz"
     ],
     "suggested-transport-medium": "email",
     "comments": [
