@@ -1,0 +1,21 @@
+{
+	"slug": "4wave",
+	"relevant-countries": [
+		"de"
+	],
+    "categories": [
+        "ads"
+    ],
+    "name": "4Wave Marketing GmbH",
+    "address": "Unterländer Straße 74\n70435 Stuttgart\nDeutschland",
+    "phone": "+49 711 184271 20",
+    "fax": "+49 711 184271 29",
+    "email": "datenschutz@4wave-marketing.de",
+    "web": "http://www.4wave-marketing.de",
+    "sources": [
+        "http://www.4wave-marketing.de/datenschutz/",
+        "https://github.com/datenanfragen/data/issues/70",
+        "http://www.4wave-marketing.de/impressum/"
+    ],
+    "suggested-transport-medium": "email"
+}
