@@ -1,0 +1,24 @@
+{
+    "relevant-countries": [
+        "de"
+    ],
+	"slug": "demda",
+    "categories": [
+        "credit agency"
+    ],
+    "name": "DEMDA Deutsche Mieter Datenbank GmbH & Co. KG",
+    "address": "Datenschutzbeauftragter\nLangenstraße 52 – 54\n28195 Bremen\nDeutschland",
+    "phone": "+49 800 6060260",
+    "fax": "+49 421 380 105 0",
+    "email": "koehler@demda.de",
+    "web": "https://www.demda.de/",
+    "sources": [
+        "https://www.demda.de/index.php?ids=24",
+        "https://www.demda.de/datenschutzerklaerung.php",
+        "https://github.com/datenanfragen/data/issues/61"
+    ],
+    "comments": [
+        "Beantragung der Eigenauskunft auch über Formular unter https://www.demda.de/eigenauskunft.php möglich."
+    ],
+    "suggested-transport-medium": "email"
+}
