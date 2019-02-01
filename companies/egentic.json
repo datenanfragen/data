@@ -1,15 +1,20 @@
 {
     "slug": "egentic",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "addresses"
     ],
     "name": "eGENTIC GmbH",
-    "address": "Oberliederbacher Weg 25\n65843 Sulzbach/Taunus\nDeutschland",
+    "address": "Am Unisys-Park 1\n65843 Sulzbach/Ts\nDeutschland",
     "fax": "+49 6151 9503 201",
+    "email": "datenschutz@www.egentic.com",
     "web": "https://www.egentic.com",
     "sources": [
         "https://www.egentic.com/datenschutz/?lang=de",
-        "https://www.egentic.com/the-imprint/?lang=de"
+        "https://www.egentic.com/the-imprint/?lang=de",
+        "https://github.com/datenanfragen/data/issues/52"
     ],
     "required-elements": [
         {
@@ -28,7 +33,5 @@
     "comments": [
         "Antwort kommt regelmäßig von Talk2 GmbH mit Sitz Rheinstraße 22, 64283 Darmstadt, Deutschland im Auftrag der eGENTIC GmbH."
     ],
-    "relevant-countries": [
-        "de"
-    ]
+    "suggested-transport-medium": "email"
 }
