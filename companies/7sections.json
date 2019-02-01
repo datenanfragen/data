@@ -1,0 +1,30 @@
+{
+	"slug": "7sections",
+	"relevant-countries": [
+		"de",
+		"at",
+		"ch"
+	],
+    "categories": [
+        "ads"
+    ],
+    "name": "7sections GmbH",
+    "address": "Barckhausstraße 1\n60325 Frankfurt\nDeutschland",
+    "phone": "+49 800 4005110",
+    "fax": "+49 800 5892569",
+    "email": "datenschutz@7sections.com",
+    "web": "https://7sections.com/",
+    "sources": [
+        "https://7sections.com/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/issues/56",
+        "https://7sections.com/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        }
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email"
+}
