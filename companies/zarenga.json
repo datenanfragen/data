@@ -1,0 +1,18 @@
+{
+	"slug": "zarenga",
+	"relevant-countries": [
+		"de"
+	],
+    "categories": [
+        "ads"
+    ],
+    "name": "Zarenga GmbH",
+    "address": "Pfaffenweg 15\n53227 Bonn\nDeutschland",
+    "email": "datenschutz@zarenga.de",
+    "sources": [
+        "https://www.zarenga.com/datenschutz.php",
+        "https://github.com/datenanfragen/data/issues/77"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email"
+}
