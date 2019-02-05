@@ -1,0 +1,18 @@
+{
+	"slug": "adtargeting-de",
+	"relevant-countries": [
+		"de"
+	],
+    "categories": [
+        "ads"
+    ],
+    "name": "Adtargeting GmbH",
+    "address": "Robert-Bosch-Straße 31\n33178 Paderborn\nDeutschland",
+    "phone": "+49 5251 2020270",
+    "fax": "+49 5251 2020271",
+    "email": "widerruf@adtargeting.de",
+    "sources": [
+    	"https://github.com/datenanfragen/data/issues/78"
+    ],
+    "needs-id-document": false
+}
