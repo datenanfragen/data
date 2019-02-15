@@ -23,11 +23,11 @@
 		"categories": {
 			"type": "array",
 			"title": "Categories",
-			"description": "A list of categories (in English) that the company fits into. These are purposefully fairly vague and may be applied generously.",
+			"description": "A list of categories that the company fits into. These are purposefully fairly vague and may be applied generously.",
 			"uniqueItems": true,
 			"items": {
 				"type": "string",
-				"enum": [ "addresses", "ads", "collection agency", "commerce", "credit agency", "entertainment", "finance", "insurance", "nonprofit", "public body", "social media", "telecommunication", "travel", "utility" ]
+				"enum": [ "addresses", "ads", "collection agency", "commerce", "credit agency", "entertainment", "finance", "insurance", "nonprofit", "public body", "school", "social media", "telecommunication", "travel", "utility" ]
 			}
 		},
 		"name": {
