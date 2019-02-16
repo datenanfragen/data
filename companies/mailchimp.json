@@ -11,7 +11,7 @@
     "runs": [
         "MailChimp (mailchimp.com)"
     ],
-    "address": "Data Protection Officer\n675 Ponce de Leon Ave NE\nSuite 5000\nAtlanta\nGA 30308\nUnited States of America",
+    "address": "675 Ponce de Leon Ave NE\nSuite 5000\nAtlanta\nGA 30308\nUnited States of America",
     "email": "dpo@mailchimp.com",
     "web": "https://mailchimp.com",
     "sources": [

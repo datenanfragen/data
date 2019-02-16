@@ -1,13 +1,14 @@
 {
     "slug": "post-at",
     "relevant-countries": [
+        "de",
         "at"
     ],
     "categories": [
         "commerce"
     ],
     "name": "Österreichische Post AG",
-    "address": "Datenschutzbeauftragte\nRochusplatz 1\n1030 Wien\nÖsterreich",
+    "address": "Rochusplatz 1\n1030 Wien\nÖsterreich",
     "phone": "+43 800 010100",
     "fax": "+43 57 7672 2071",
     "email": "datenschutz@post.at",

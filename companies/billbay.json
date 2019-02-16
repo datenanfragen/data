@@ -4,7 +4,7 @@
         "finance"
     ],
     "name": "BillPay GmbH",
-    "address": "c/o HK2 Comtection GmbH\nExterner betrieblicher Datenschutzbeauftragter\nMichael Schramm\nHausvogteiplatz 11A\n10117 Berlin\nDeutschland",
+    "address": "c/o HK2 Comtection GmbH\nHausvogteiplatz 11A\n10117 Berlin\nDeutschland",
     "phone": "+49 30 609 89 355 0",
     "fax": "+49 30 609 89 355 9",
     "email": "datenschutzbeauftragter@billpay.de",
@@ -15,7 +15,7 @@
     ],
     "comments": [
         "Alternative E-Mail: datenschutz@billpay.de",
-        "Die BillPay GmbH selbst sitzt: Zinnowitzer Straße 1,\n10115 Berlin, Deutschland."
+        "Die BillPay GmbH selbst sitzt: Zinnowitzer Straße 1, 10115 Berlin, Deutschland."
     ],
     "relevant-countries": [
         "de"
