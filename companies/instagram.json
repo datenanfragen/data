@@ -1,0 +1,26 @@
+{
+    "slug": "instagram",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "social media"
+    ],
+    "name": "Instagram",
+    "address": "c/o Facebook Ireland Ltd.\n4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland ",
+    "fax": "+1 650 543 5340",
+    "email": "datarequests@support.instagram.com",
+    "web": "https://www.instagram.com/",
+    "sources": [
+        "https://help.instagram.com/519522125107875",
+        "https://help.instagram.com/contact/163695614321277",
+        "https://github.com/datenanfragen/data/issues/93",
+        "https://help.instagram.com/581066165581870"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Web form for privacy questions: https://help.instagram.com/contact/186020218683230",
+        "We have previously listed Instagram under Facebook’s record. We have since discovered better direct contact details and thus split the records."
+    ]
+}

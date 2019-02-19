@@ -9,8 +9,7 @@
     ],
     "name": "Facebook Ireland Ltd.",
     "runs": [
-        "Facebook, Inc.",
-        "Instagram (www.instagram.com)"
+        "Facebook, Inc."
     ],
     "address": "4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
     "phone": "+1 650 543 4800",
@@ -20,16 +19,16 @@
     "sources": [
         "https://www.facebook.com/privacy/explanation",
         "https://www.facebook.com/legal/terms",
-        "https://help.instagram.com/519522125107875",
-        "https://help.instagram.com/581066165581870",
         "https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC",
         "https://www.facebook.com/careers/privacy",
-        "https://github.com/datenanfragen/data/issues/92"
+        "https://github.com/datenanfragen/data/issues/92",
+        "https://github.com/datenanfragen/data/issues/93"
     ],
     "suggested-transport-medium": "email",
     "comments": [
-        "Various privacy controls (including the ability to download your data as HTML or JSON) are already available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information\n\nIt is up to you to decide whether you still want to send a request to Facebook.",
+        "Various privacy controls (including the ability to download your data as HTML or JSON) are available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information",
         "Facebook's Data Protection Officer can be contacted via this form: https://www.facebook.com/help/contact/540977946302970",
-        "The email address mydataprivacyrights@fb.com is listed on Facebook's careers privacy policy."
+        "The email address mydataprivacyrights@fb.com is listed on Facebook's careers privacy policy.",
+        "We have previously listed Instagram under this record. We have since discovered better direct contact details and thus split the records."
     ]
 }
