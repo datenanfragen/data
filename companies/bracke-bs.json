@@ -16,5 +16,6 @@
     "sources": [
         "https://www.bracke.eu/pages/main_pages/Datenschutz.php"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

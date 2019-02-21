@@ -19,5 +19,6 @@
     "request-language": "de",
     "comments": [
         "Es stehen auch PGP-Keys für die verschlüsselte Kommunikation zur Verfügung: https://www.bundesversicherungsamt.de/kontakt/verschluesselte-kommunikation-mit-dem-bundesversicherungsamt.html"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }

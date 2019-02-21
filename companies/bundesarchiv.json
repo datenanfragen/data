@@ -16,5 +16,6 @@
         "https://www.bundesarchiv.de/DE/Navigation/Footer/Datenschutz/datenschutz.html",
         "https://www.bundesarchiv.de/DE/Navigation/Footer/Impressum/impressum.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

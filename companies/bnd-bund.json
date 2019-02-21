@@ -13,5 +13,6 @@
     "sources": [
         "https://www.bnd.bund.de/DE/Service/Datenschutz/datenschutz_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

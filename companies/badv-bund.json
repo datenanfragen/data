@@ -19,5 +19,6 @@
         "https://www.badv.bund.de/DE/Sonstiges/Datenschutzerklaerung/start.html",
         "https://www.badv.bund.de/DE/Sonstiges/Impressum/start.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

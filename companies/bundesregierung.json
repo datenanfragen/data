@@ -15,5 +15,6 @@
     "sources": [
         "https://www.bundesregierung.de/breg-de/service/datenschutzhinweis"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

@@ -16,5 +16,6 @@
         "https://www.banst-pt.de/datenschutz",
         "https://www.banst-pt.de/impressum/?S=0"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

@@ -16,5 +16,6 @@
     "sources": [
         "http://www.bbs5bs.de/impressum/index.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

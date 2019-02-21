@@ -15,5 +15,6 @@
     "sources": [
         "https://www.bfarm.de/DE/Servicefunktionen/Datenschutz/_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

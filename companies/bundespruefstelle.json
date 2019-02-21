@@ -16,5 +16,6 @@
         "https://www.bundespruefstelle.de/bpjm/datenschutzerklaerung/128852",
         "https://www.bundespruefstelle.de/bpjm/impressum/128862"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

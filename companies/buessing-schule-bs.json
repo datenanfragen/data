@@ -18,5 +18,6 @@
         "https://buessing.schule/media/archive1/pdfs/2018-08-15-informationspflichten-schuelerdaten-hbs.pdf",
         "https://buessing.schule/de/?section=imprint"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

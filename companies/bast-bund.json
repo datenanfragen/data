@@ -16,5 +16,6 @@
         "https://www.bast.de/BASt_2017/DE/Service/Datenschutz/Datenschutz_node.html",
         "https://www.bast.de/BASt_2017/DE/Service/Impressum/impressum_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

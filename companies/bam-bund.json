@@ -16,5 +16,6 @@
         "https://www.bam.de/Navigation/DE/Services/Datenschutz/datenschutz.html",
         "https://www.bam.de/Navigation/DE/Services/Impressum/impressum.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

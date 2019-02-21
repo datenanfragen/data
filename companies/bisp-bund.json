@@ -16,5 +16,6 @@
         "https://www.bisp.de/DE/Service/Datenschutz/datenschutz_node.html",
         "https://www.bisp.de/DE/Service/Impressum/impressum_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

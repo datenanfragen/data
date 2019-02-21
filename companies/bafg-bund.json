@@ -15,5 +15,6 @@
     "sources": [
         "https://www.bafg.de/DE/Service/Impressum/Datenschutz_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }

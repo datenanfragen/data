@@ -16,5 +16,6 @@
         "https://www.bgr.bund.de/DE/Allgemeines/Wm/Impressum/datenschutzerklaerung.html?nn=1542388",
         "https://www.bgr.bund.de/DE/Allgemeines/Wm/Impressum/impressum_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "suggested-transport-medium": "email"
 }
