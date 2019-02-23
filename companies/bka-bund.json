@@ -10,12 +10,13 @@
     "address": "65173 Wiesbaden\nDeutschland",
     "phone": "+49 611 55 0",
     "fax": "+49 611 55 45641",
-    "email": "impressum-bka-internetauftritt@bka.de",
+    "email": "petenten@bka.bund.de",
     "web": "https://www.bka.de",
     "sources": [
         "https://www.bka.de/DE/Service/Datenschutzerklaerung/datenschutz_node.html"
     ],
     "request-language": "de",
+    "needs-id-document": true,
     "comments": [
         "Kontaktformular für Anfragen: https://www.bka.de/DE/KontaktAufnehmen/Kontaktinformationen/Datenschutzbeauftragte/datenschutzbeauftragte_node.html"
     ]
