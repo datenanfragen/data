@@ -21,6 +21,8 @@ As laid down in Article 12(3) GDPR, you have to provide the requested informatio
 
 Please tell me which information (cookie ID, device advertising ID, etc.) is necessary for you to identify me and explain to me how to obtain said information.
 
+My contact details are as follows:
+{id_data}
 If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
 
 Yours sincerely,
