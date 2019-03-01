@@ -1,10 +1,13 @@
 {
     "slug": "easybell",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
     "name": "easybell GmbH",
-    "address": "Magazinstraße 15 – 16\n10179 Berlin\nDeutschland",
+    "address": "Brückenstraße 5a\n10179 Berlin\nDeutschland",
     "phone": "+49 30 80 95 1081",
     "fax": "+49 30 80 95 1009",
     "email": "datenschutz@easybell.de",
@@ -12,9 +15,6 @@
     "sources": [
         "https://www.easybell.de/datenschutz.html",
         "https://www.easybell.de/impressum.html"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email"
 }
