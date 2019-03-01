@@ -26,11 +26,8 @@
             "type": "address"
         }
     ],
-    "comments": [
-        "Geben keine Auskunft ohne eigenhändige Unterschrift. Anfrage muss daher per Brief erfolgen."
-    ],
     "relevant-countries": [
         "de"
     ],
-    "suggested-transport-medium": "letter"
+    "suggested-transport-medium": "email"
 }
