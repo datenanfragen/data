@@ -1,0 +1,21 @@
+{
+	"slug": "funidelai",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Funiglobal Development S.L.",
+    "runs": [
+        "Funidelia"
+    ],
+    "address": "Calle Alfonso I 17\noficina 5.2\n50003, Zaragoza\nSpain",
+    "email": "kontakt@funidelai.de",
+    "web": "https://www.funidelia.de",
+    "sources": [
+        "https://www.funidelia.de/content/2-impressum-und-agb",
+        "https://github.com/datenanfragen/data/issues/101",
+        "https://www.funidelia.de/content/7-datenschutz"
+    ]
+}
