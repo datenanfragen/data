@@ -1,0 +1,35 @@
+{
+	"slug": "sgd",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Studiengemeinschaft Werner Kamprath Darmstadt GmbH",
+    "address": "Ostendstr. 3\n64319 Pfungstadt\nDeutschland",
+    "phone": "+49 6157 806 0",
+    "fax": "+49 6157 806 12",
+    "email": "datenschutzbeauftragte@sgd.de",
+    "web": "https://www.sgd.de",
+    "sources": [
+        "https://m.sgd.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/issues/108",
+        "https://www.sgd.de/impressum.html"
+    ],
+    "required-elements": [
+    	{
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false
+}
