@@ -1,0 +1,46 @@
+{
+    "slug": "tuev-saarland",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body",
+        "school",
+        "telecommunication",
+        "travel",
+        "commerce",
+        "utility",
+        "nonprofit",
+        "health"
+    ],
+    "name": "TÜV Saarland-Gruppe",
+    "runs": [
+        "TÜV Saarland e.V.",
+        "TÜV Saarland Stiftung",
+        "TÜV Saarland Holding GmbH",
+        "TÜV Saarland Bildung + Consulting GmbH",
+        "TÜV Saarland Certification GmbH",
+        "proTerra Umweltschutz- und Managementberatung GmbH Umweltgutachter",
+        "SECTOR Cert – Gesellschaft für Zertifizierung GmbH",
+        "tekit Consult Bonn GmbH",
+        "VECTOR Technische Unternehmensberatung (TUB) GmbH"
+    ],
+    "address": "c/o tekit Consult Bonn GmbH\nAlexanderstraße 10\n53111 Bonn\nDeutschland",
+    "phone": "+49 228 608890",
+    "fax": "+49 228 6088920",
+    "email": "datenschutz@tuev-saar.de",
+    "web": "https://www.tuev-saar.de/",
+    "sources": [
+        "https://www.tuev-saar.de/datenschutz/",
+        "https://www.tuev-seminare.net/datenschutz.html",
+        "https://www.tuev-certification.com/impressum",
+        "https://www.proterra-umwelt.de/datenschutz/",
+        "http://www.sectorcert.com/fussbemerkungen/datenschutz0.html",
+        "https://www.tekit.de/organisatorisch/impressum_dse/",
+        "http://www.vectortub.com/footer/vectortub-datenschutz.html"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Angegebene Adresse ist die des Datenschutzbeauftragten. Eigentliche Adresse: Am TÜV 1, 66280 Sulzbach, Deutschland"
+    ]
+}
