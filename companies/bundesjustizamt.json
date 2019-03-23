@@ -16,8 +16,10 @@
         "https://www.bundesjustizamt.de/DE/Servicebereich/Datenschutzerklaerung/Datenschutzerklaerung_node.html"
     ],
     "request-language": "de",
+    "needs-id-document": true,
     "suggested-transport-medium": "email",
     "comments": [
-        "Alternative Faxnummer: +49 228 99 410 4601"
+        "Alternative Faxnummer: +49 228 99 410 4601",
+        "Auf der Ausweiskopie müssen die folgenden Daten ersichtlich sein: Name, Vorname, Geburtsdatum, Geburtsort, Gültigkeitsdatum, Unterschrift, Anschrift\n\nAlle sonstigen Daten können und sollten geschwärzt werden."
     ]
 }
