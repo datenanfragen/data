@@ -10,7 +10,7 @@
     "address": "An der Küppe 1\n53225 Bonn\nDeutschland",
     "phone": "+49 228 406 0",
     "fax": "+49 228 406 2661",
-    "email": "poststelle@bzst.bund.de",
+    "email": "datenschutz@bzst.bund.de",
     "web": "https://www.bzst.de",
     "sources": [
         "https://www.bzst.de/DE/Service/Datenschutz/Datenschutz_node.html",
@@ -19,5 +19,6 @@
     "request-language": "de",
     "comments": [
         "Kontaktformular für Datenschutzanfragen: https://www.bzst.de/SharedDocs/Kontaktformular/DE/Ueber_Uns/Datenschutz/datenschutz_kontakt_node.html"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
