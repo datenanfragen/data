@@ -1,0 +1,22 @@
+{
+    "slug": "lusha",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads",
+        "addresses"
+    ],
+    "name": "Lusha Systems Inc.",
+    "address": "c/o DP-Dock GmbH\nBallindamm 39\n20095 Hamburg\nGermany",
+    "email": "Support@Lusha.co",
+    "web": "https://www.lusha.co/",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/115",
+        "https://github.com/datenanfragen/data/issues/114",
+        "https://www.lusha.co/gdpr/",
+        "https://www.lusha.co/privacy_policy/"
+    ],
+    "request-language": "en",
+    "needs-id-document": false
+}
