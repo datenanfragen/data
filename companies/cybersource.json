@@ -1,0 +1,26 @@
+{
+    "slug": "cybersource",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "CyberSource Corporation",
+    "runs": [
+        "Authorize.Net LLC",
+        "CyberSource Limited",
+        "CyberSource NI Ltd.",
+        "CYBS Singapore Pte. Ltd.",
+        "CyberSource K.K.",
+        "CyberSource Payment Solutions Pty Ltd"
+    ],
+    "address": "c/o Visa Global Privacy Office\n900 Metro Center Boulevard\nFoster City\nCA 94404\nUnited States of America",
+    "email": "privacy@visa.com",
+    "web": "https://www.cybersource.com",
+    "sources": [
+        "https://www.cybersource.com/en-EMEA/privacy/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}
