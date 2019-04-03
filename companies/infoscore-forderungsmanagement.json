@@ -1,0 +1,22 @@
+{
+    "slug": "infoscore-forderungsmanagement",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "infoscore Forderungsmanagement GmbH",
+    "runs": [
+        "BFS risk & collection GmbH (ehem.)",
+        "Nürnberger Inkasso GmbH (ehem.)",
+        "Süd-Westdeutsche Inkasso GmbH (ehem.)"
+    ],
+    "address": "Gütersloher Straße 123\n33415 Verl\nDeutschland",
+    "phone": "+49 5246 9391021",
+    "fax": "+49 5241 8043190",
+    "email": "info@arvato-infoscore.de",
+    "sources": [
+        "https://finance.arvato.com/de/ueber-uns/impressum.html"
+    ]
+}
