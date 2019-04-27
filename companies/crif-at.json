@@ -1,0 +1,21 @@
+{
+    "slug": "crif-at",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "credit agency"
+    ],
+    "name": "CRIF GmbH",
+    "address": "Diefenbachgasse 35\n1150 Wien\nÖsterreich",
+    "phone": "+43 01 89742440",
+    "fax": "+43 1 897424431",
+    "email": "datenschutzbeauftragter@crif.com",
+    "web": "https://www.crif.at/",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/119",
+        "https://www.crif.at/datenschutzerklaerung/",
+        "https://www.crif.at/impressum/"
+    ],
+    "suggested-transport-medium": "email"
+}
