@@ -7,11 +7,12 @@
     "address": "Albert-Einstein-Ring 2 – 6\n14532 Kleinmachnow\nDeutschland",
     "phone": "+49 30 8019 50",
     "fax": "+49 30 8019 5444",
-    "email": "privacy.office@ebay.com",
+    "email": "Anna_DPO@ebay.com",
     "web": "https://www.ebay.de/",
     "sources": [
         "https://pages.ebay.de/help/policies/privacy-policy.html",
-        "https://pages.ebay.de/help/policies/legal-imprint.html"
+        "https://pages.ebay.de/help/policies/legal-imprint.html",
+        "https://www.ebayinc.com/our-company/privacy-center/privacy-notice/data-protection-officer-contacts/"
     ],
     "required-elements": [
         {
