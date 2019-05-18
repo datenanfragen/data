@@ -1,0 +1,15 @@
+{
+    "slug": "cognizant-nl",
+    "relevant-countries": [
+        "nl"
+    ],
+    "name": "Cognizant Technology Solutions B.V.",
+    "address": "Gustav Mahlerlaan 308\n1082ME\nAmsterdam\nNetherlands",
+    "email": "SAR@cognizant.com",
+    "web": "https://www.cognizant.com/nl-nl/",
+    "sources": [
+        "https://www.cognizant.com/privacy-statement",
+        "https://github.com/datenanfragen/data/issues/129"
+    ],
+    "suggested-transport-medium": "email"
+}
