@@ -1,0 +1,23 @@
+{
+    "slug": "vergoelst",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Vergölst GmbH",
+    "address": "Atrottstraße 51\n69190 Walldorf\nDeutschland",
+    "phone": "+49 6227 1690",
+    "fax": "+49 6229 63583",
+    "email": "dataprotection@conti.de",
+    "web": "https://vergoelst.de/",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/139"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Tochterfirma von Continental Reifen"
+    ]
+}
+
