@@ -1,6 +1,6 @@
 To Whom It May Concern:
 
-I am hereby requesting immediate erasure of personal data concerning me according to Article 15 GDPR.
+I am hereby requesting immediate erasure of personal data concerning me according to Article 17 GDPR.
 
 [erase_all>Please erase all personal data concerning me as defined by Article 4(1) GDPR.][erase_some>Please delete the following personal data concerning me:
 {erasure_data}]
