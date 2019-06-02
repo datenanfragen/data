@@ -1,0 +1,18 @@
+{
+    "slug": "afd",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "political party"
+    ],
+    "name": "„Alternative für Deutschland“ (AfD)",
+    "address": "Schillstraße 9\n10785 Berlin\nDeutschland",
+    "phone": "+49 30 220 56 96 0",
+    "email": "datenschutz@afd.de",
+    "web": "https://www.afd.de",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/150"
+    ],
+    "suggested-transport-medium": "email"
+}
