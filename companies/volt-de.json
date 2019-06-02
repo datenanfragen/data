@@ -1,0 +1,17 @@
+{
+    "slug": "volt-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "political party"
+    ],
+    "name": "Volt Deutschland",
+    "address": "Knaackstraße 3\n10405 Berlin\nDeutschland",
+    "email": "dpo@volteuropa.org",
+    "web": "https://www.voltdeutschland.org/",
+    "sources": [
+        "https://www.voltdeutschland.org/datenschutz"
+    ],
+    "suggested-transport-medium": "email"
+}
