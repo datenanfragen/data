@@ -4,7 +4,9 @@
         "at"
     ],
     "categories": [
-        "credit agency"
+        "credit agency",
+        "finance",
+        "ads"
     ],
     "name": "CRIF GmbH",
     "address": "Diefenbachgasse 35\n1150 Wien\nÖsterreich",
@@ -15,7 +17,11 @@
     "sources": [
         "https://github.com/datenanfragen/data/issues/119",
         "https://www.crif.at/datenschutzerklaerung/",
-        "https://www.crif.at/impressum/"
+        "https://www.crif.at/impressum/",
+        "https://www.crif.at/konsumenten/informationen-zur-dsgvo/",
+        "https://www.crif.at/datenschutzerklaerung-marketingdaten/",
+        "https://www.crif.at/datenschutzerklaerung-erhebung-oeffentliche-quellen/",
+        "https://github.com/datenanfragen/data/issues/153"
     ],
     "suggested-transport-medium": "email"
 }
