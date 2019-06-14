@@ -1,0 +1,18 @@
+{
+    "slug": "mediapublisher-ag",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "MEDIA PUBLISHER & CO. AG LIMITED",
+    "address": "Clifton House Office 70\nFitzwilliam Street Lower\nDublin 2\nIreland",
+    "email": "info@mediapublisher-ag.com",
+    "web": "http://mediapublisher-ag.com",
+    "sources": [
+        "http://mediapublisher-ag.com/imprint.html",
+        "https://github.com/datenanfragen/data/issues/160"
+    ],
+    "suggested-transport-medium": "email"
+}
