@@ -15,6 +15,25 @@
     "sources": [
         "https://www.bundespolizei.de/Web/DE/Service/Datenschutz/datenschutz_node.html"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "birthdate",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
     "request-language": "de",
+    "custom-access-template": "access-bundespolizei.txt",
+    "needs-id-document": true,
     "suggested-transport-medium": "email"
 }
