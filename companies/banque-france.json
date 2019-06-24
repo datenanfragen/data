@@ -1,0 +1,18 @@
+{
+    "slug": "banque-france",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Banque de France",
+    "address": "31 rue Croix-des-Petits Champs\n75049 Paris Cedex 01\nFrance",
+    "email": "1038-IL-UT@banque-france.fr",
+    "web": "https://www.banque-france.fr/en",
+    "sources": [
+        "https://www.banque-france.fr/en/terms-and-conditions",
+        "https://github.com/datenanfragen/data/issues/169"
+    ],
+    "suggested-transport-medium": "email"
+}
