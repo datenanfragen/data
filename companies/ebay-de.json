@@ -1,18 +1,31 @@
 {
     "slug": "ebay-de",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch",
+        "be",
+        "fr",
+        "ie",
+        "it",
+        "nl",
+        "pl",
+        "es"
+    ],
     "categories": [
         "commerce"
     ],
     "name": "eBay GmbH",
-    "address": "Albert-Einstein-Ring 2 – 6\n14532 Kleinmachnow\nDeutschland",
-    "phone": "+49 30 8019 50",
-    "fax": "+49 30 8019 5444",
+    "address": "Albert-Einstein-Ring 2 – 6\n14532 Kleinmachnow\nGermany",
+    "phone": "+49 30 801950",
+    "fax": "+49 30 80195444",
     "email": "Anna_DPO@ebay.com",
     "web": "https://www.ebay.de/",
     "sources": [
         "https://pages.ebay.de/help/policies/privacy-policy.html",
         "https://pages.ebay.de/help/policies/legal-imprint.html",
-        "https://www.ebayinc.com/our-company/privacy-center/privacy-notice/data-protection-officer-contacts/"
+        "https://www.ebayinc.com/our-company/privacy-center/privacy-notice/data-protection-officer-contacts/",
+        "https://github.com/datenanfragen/data/issues/178"
     ],
     "required-elements": [
         {
@@ -28,15 +41,10 @@
             "type": "address"
         }
     ],
+    "suggested-transport-medium": "email",
     "comments": [
         "eBay hat zum 1. Mai 2018 die verantworliche Stelle geändert: \"Ab dem ‌1‌.‌ ‌M‌a‌i‌ ‌2‌0‌1‌8‌ ist für eBay-Nutzer, die in der Europäischen Union (mit Ausnahme Großbritanniens und Nordirlands) ansässig sind, nicht mehr die eBay Europe S.à r.l. Vertragspartner für die Allgemeinen Geschäftsbedingungen, Zahlungsvereinbarungen oder andere Vereinbarungen. Neuer Vertragspartner ist dann die eBay GmbH, Albert-Einstein-Ring 2–6, 14532 Kleinmachnow, Deutschland. […] Infolge der Änderung Ihres eBay-Vertragspartners wird die eBay GmbH auch neue verantwortliche Stelle für Ihre Daten im Sinne unserer Datenschutzerklärung.\"",
         "Diensteanbieter laut Impressum ist die eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Schweiz.",
         "Nachrichten an die angegebene E-Mail-Adresse werden automatisch beantwortet mit dem Hinweis, dass das Postfach nicht überprüft werde und man die Anfrage über https://www.ebayinc.com/our-company/privacy-center/privacy-contact/ absenden solle."
-    ],
-    "relevant-countries": [
-        "de",
-        "at",
-        "ch"
-    ],
-    "suggested-transport-medium": "fax"
+    ]
 }
