@@ -116,5 +116,8 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
+.vscode
+env
+
 # Custom
 todo
