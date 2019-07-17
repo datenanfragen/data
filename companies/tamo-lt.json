@@ -1,0 +1,16 @@
+{
+    "slug": "tamo-lt",
+    "relevant-countries": [
+        "lt"
+    ],
+    "name": "UAB „Tavo mokykla“",
+    "address": "Kareivių g. 11B\nLT-09108 Vilnius\nLithuania",
+    "phone": "+370 5 279 0502",
+    "email": "info@tamo.lt",
+    "web": "https://www.tamo.lt/",
+    "sources": [
+        "https://www.tamo.lt/",
+        "https://rekvizitai.vz.lt/imone/tavo_mokykla/",
+        "https://github.com/datenanfragen/data/issues/192"
+    ]
+}
