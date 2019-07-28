@@ -81,5 +81,17 @@
         "https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI",
         "https://www.google.de/intl/en/about/products/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input",
+            "optional": false
+        }
+    ],
     "suggested-transport-medium": "email"
 }
