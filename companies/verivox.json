@@ -34,10 +34,6 @@
             "type": "address"
         },
         {
-            "desc": "Geburtsdatum",
-            "type": "birthdate"
-        },
-        {
             "desc": "E-Mail-Adresse",
             "type": "input",
             "optional": true

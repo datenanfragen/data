@@ -27,10 +27,6 @@
             "type": "name"
         },
         {
-            "desc": "Geburtsdatum",
-            "type": "birthdate"
-        },
-        {
             "desc": "Adresse",
             "type": "address"
         }

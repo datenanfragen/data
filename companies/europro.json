@@ -14,6 +14,16 @@
         "https://www.europro.de/datenschutz/",
         "https://www.europro.de/impressum/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "relevant-countries": [
         "de"
     ],
