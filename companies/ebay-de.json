@@ -33,12 +33,12 @@
             "type": "name"
         },
         {
-            "desc": "Geburtsdatum",
-            "type": "birthdate"
+            "desc": "Username",
+            "type": "input"
         },
         {
-            "desc": "Adresse",
-            "type": "address"
+            "desc": "E-Mail",
+            "type": "input"
         }
     ],
     "suggested-transport-medium": "email",

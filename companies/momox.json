@@ -17,6 +17,16 @@
         "https://www.medimops.de/Impressum/",
         "https://www.medimops.de/Datenschutz/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "comments": [
         "E-Mails speziell für Auskünfte:\nmomox:\nMedimops: auskunft@medimops.de",
         "Alternative E-Mail Datenschutzbeauftragter: cregnery@intersoft-consulting.de",

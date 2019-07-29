@@ -16,6 +16,16 @@
         "https://www.pluspeter.com/datenschutzerklarung/",
         "https://www.pluspeter.com/impressum/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "relevant-countries": [
         "de"
     ],

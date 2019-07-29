@@ -13,6 +13,16 @@
         "https://www.adpublisher.com/de/datenschutz.html",
         "https://www.adpublisher.com/de/impressum.html"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "relevant-countries": [
         "de"
     ],

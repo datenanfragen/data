@@ -19,5 +19,15 @@
     "sources": [
         "https://www.verkehr-bs.de/seknav/datenschutz.html",
         "https://www.verkehr-bs.de/seknav/impressum/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
     ]
 }

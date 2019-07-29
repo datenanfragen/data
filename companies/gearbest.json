@@ -16,5 +16,19 @@
         "https://www.gearbest.com/about/legal-window.html",
         "https://www.google.com/maps/place/Gearbest/@22.315599,114.216241,15z/data=!4m5!3m4!1s0x0:0x3dc854348d2f82b7!8m2!3d22.315599!4d114.216241"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Delivery address",
+            "type": "address"
+        },
+        {
+            "desc": "Order numbers",
+            "type": "textarea"
+        }
+    ],
     "request-language": "en"
 }

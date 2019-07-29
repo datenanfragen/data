@@ -13,6 +13,16 @@
         "https://www.fidor.de/document-center/privacy-policy",
         "https://www.fidor.de/legal-notice"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "relevant-countries": [
         "de"
     ]

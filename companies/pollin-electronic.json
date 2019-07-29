@@ -13,6 +13,16 @@
         "https://www.pollin.de/datenschutz-und-sicherheit",
         "https://www.pollin.de/impressum"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "relevant-countries": [
         "de"
     ],

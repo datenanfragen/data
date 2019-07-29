@@ -14,5 +14,15 @@
         "https://imgur.com/privacy",
         "https://imgur.com/tos",
         "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=252810438"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
     ]
 }

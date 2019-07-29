@@ -27,6 +27,16 @@
         "https://stackexchange.com/legal/contact",
         "https://stackoverflow.com/legal/privacy-policy"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "request-language": "en",
     "comments": [
         "A full list of network sites can be found at: https://stackexchange.com/sites"

@@ -13,6 +13,16 @@
     "sources": [
         "https://mathsgear.co.uk/pages/privacy-policy"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "request-language": "en",
     "suggested-transport-medium": "email"
 }

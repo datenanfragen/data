@@ -13,6 +13,20 @@
         "https://about.gitlab.com/privacy/",
         "https://www.bloomberg.com/profiles/companies/1295950D:NA-gitlab-bv"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        },
+        {
+            "desc": "Username",
+            "type": "input"
+        }
+    ],
     "request-language": "en",
     "suggested-transport-medium": "email"
 }

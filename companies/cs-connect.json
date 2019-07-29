@@ -16,6 +16,16 @@
         "https://www.cs-connect.de/eigenauskunft/eigenauskunft.html",
         "https://www.cs-connect.de/impressum.html"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "request-language": "de",
     "comments": [
         "Tatsächliche Adresse: Alte Schmelze 11, 65201 Wiesbaden, Deutschland."

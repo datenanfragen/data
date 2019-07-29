@@ -13,6 +13,16 @@
     "sources": [
         "https://www.skillshare.com/ss/privacy"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "suggested-transport-medium": "email",
     "comments": [
         "Alternative email address: help@skillshare.com"

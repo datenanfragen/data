@@ -15,5 +15,15 @@
     "sources": [
         "https://www.wikimedia.de/de/impressum"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "suggested-transport-medium": "email"
 }

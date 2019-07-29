@@ -14,6 +14,16 @@
     "sources": [
         "https://www.3dhubs.com/privacy-policy"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "request-language": "en",
     "suggested-transport-medium": "email"
 }

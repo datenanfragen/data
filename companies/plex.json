@@ -16,5 +16,15 @@
     "sources": [
         "https://www.plex.tv/about/privacy-legal/privacy-policy-may-2018/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "suggested-transport-medium": "email"
 }

@@ -13,6 +13,16 @@
         "http://www.panadress.de/impressum",
         "http://www.panadress.de/data-und-services/adressen#btocadressen"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "relevant-countries": [
         "de"
     ],

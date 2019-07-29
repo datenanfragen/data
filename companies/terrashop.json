@@ -13,6 +13,16 @@
         "https://www.terrashop.de/sicherheit_datenschutz.php",
         "https://www.terrashop.de/impressum.php"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "relevant-countries": [
         "de"
     ]

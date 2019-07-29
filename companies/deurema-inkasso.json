@@ -12,6 +12,16 @@
     "sources": [
         "https://www.deurema.de/impressum-dl-infov.html"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "relevant-countries": [
         "de"
     ],

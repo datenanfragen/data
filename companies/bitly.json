@@ -12,5 +12,15 @@
         "https://bitly.com/pages/privacy",
         "https://www.bloomberg.com/profiles/companies/8167727Z:US-bitly-inc"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "request-language": "en"
 }

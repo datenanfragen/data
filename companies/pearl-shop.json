@@ -13,6 +13,16 @@
         "https://www.pearl.de/infos/datenschutz.htm",
         "https://www.pearl.de/infos/default.htm"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "relevant-countries": [
         "de"
     ],

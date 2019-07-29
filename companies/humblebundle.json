@@ -16,6 +16,16 @@
         "https://www.humblebundle.com/privacy",
         "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=130405036"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "request-language": "en",
     "comments": [
         "Support form: https://support.humblebundle.com/hc/en-us/requests/new",

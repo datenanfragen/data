@@ -16,5 +16,15 @@
         "https://www.digitalocean.com/legal/terms/",
         "https://www.ripe.net/membership/indices/data/eu.digitalocean.html"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "suggested-transport-medium": "email"
 }

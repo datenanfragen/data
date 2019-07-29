@@ -16,6 +16,16 @@
         "https://www.rebuy.de/s/datenschutz",
         "https://www.rebuy.de/s/impressum"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "comments": [
         "Logistik und Kundenservice werden betrieben von reBuy reCommerce GmbH & Co. KG, Kanalstr. 139, 12357 Berlin, Deutschland."
     ],

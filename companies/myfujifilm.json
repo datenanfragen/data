@@ -12,6 +12,16 @@
         "https://www.myfujifilm.de/datenschutz",
         "https://www.myfujifilm.de/impressum"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "relevant-countries": [
         "de"
     ],

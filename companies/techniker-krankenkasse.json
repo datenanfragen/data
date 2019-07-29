@@ -20,6 +20,16 @@
         "https://www.tk.de/techniker/unternehmensseiten/datenschutz/datenschutzbeauftragter-2013054",
         "https://www.tk.de/techniker/impressum-2013112"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "relevant-countries": [
         "de"
     ],

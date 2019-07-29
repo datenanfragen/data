@@ -14,5 +14,19 @@
         "https://www.namecheap.com/legal/general/privacy-policy.aspx",
         "https://www.namecheap.com/legal/universal/universal-tos.aspx"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Username",
+            "type": "input"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "request-language": "en"
 }

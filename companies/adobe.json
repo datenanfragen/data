@@ -21,5 +21,15 @@
         "https://www.adobe.com/legal/terms.html",
         "https://www.adobe.com/de/about-adobe/impressum.html"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
     "suggested-transport-medium": "email"
 }
