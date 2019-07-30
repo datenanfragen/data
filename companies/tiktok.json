@@ -1,0 +1,23 @@
+{
+    "slug": "tiktok",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media",
+        "entertainment"
+    ],
+    "name": "TikTok Inc.",
+    "runs": [
+        "Musical.ly Inc.",
+        "TikTok Pte. Ltd."
+    ],
+    "address": "10100 Venice Blvd.\nCulver City\nCA 90232\nUnited States of America",
+    "email": "privacy@tiktok.com",
+    "web": "https://www.tiktok.com",
+    "sources": [
+        "https://www.tiktok.com/de/privacy-policy",
+        "https://www.tiktok.com/en-uk/privacy-policy"
+    ],
+    "suggested-transport-medium": "email"
+}
