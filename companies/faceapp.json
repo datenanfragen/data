@@ -18,6 +18,7 @@
         "https://www.faceapp.com/privacy",
         "https://www.faceapp.com/terms"
     ],
+    "custom-access-template": "access-tracking.txt",
     "request-language": "en",
     "needs-id-document": false,
     "suggested-transport-medium": "email"
