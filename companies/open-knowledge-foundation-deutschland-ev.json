@@ -1,0 +1,24 @@
+{
+    "slug": "open-knowledge-foundation-deutschland-ev",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Open Knowledge Foundation Deutschland e.V.",
+    "address": "Singerstraße 109\n10179 Berlin\nDeutschland",
+    "phone": "+49 30 57703666 0",
+    "fax": "+49 30 57703666 9",
+    "email": "datenschutz@okfn.de",
+    "web": "https://okfn.de/",
+    "sources": [
+        "https://okfn.de/impressum/#datenschutzerkl%C3%A4rung",
+        "https://github.com/datenanfragen/data/issues/197"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "comments": [
+        "PGP-Key: https://okfn.de/okf/datenschutz_okfn_de_pub.asc"
+    ]
+}
