@@ -1,0 +1,18 @@
+{
+    "slug": "better-mail-media",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Better Mail Media GmbH",
+    "address": "c/o WeWork\nAxel-Springer-Platz 3\n20355 Hamburg\nDeutschland",
+    "email": "info@better-mail-media.de",
+    "web": "https://better-mail-media.de",
+    "sources": [
+        "https://better-mail-media.de/impressum/",
+        "https://github.com/datenanfragen/data/issues/200"
+    ],
+    "suggested-transport-medium": "email"
+}
