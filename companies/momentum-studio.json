@@ -1,0 +1,24 @@
+{
+    "slug": "momentum-studio",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Momentum Studio Ltd",
+    "address": "326 Kenilworth Road\nBalsall Common\nCoventry\nCV7 7ER\nUnited Kingdom",
+    "phone": "+44 330 229 0013 ",
+    "email": "gdpr@momentum.studio",
+    "web": "https://momentum.studio",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/202"
+    ],
+    "required-elements": [
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
