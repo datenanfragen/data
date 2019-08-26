@@ -1,0 +1,26 @@
+{
+    "slug": "moshbit",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Moshbit GmbH",
+    "runs": [
+        "Studo",
+        "Talto"
+    ],
+    "address": "Joanneumring 3 \n8010 Graz\nÖsterreich",
+    "phone": "+43 664 8351081",
+    "email": "datenschutz@moshbit.com",
+    "web": "https://moshbit.com",
+    "sources": [
+        "https://moshbit.com/legalnotice.html",
+        "https://studo.co/impressum",
+        "https://studo.co/datenschutzerklaerung-website",
+        "https://talto.com/impressum",
+        "https://github.com/datenanfragen/data/issues/206"
+    ],
+    "suggested-transport-medium": "email"
+}
