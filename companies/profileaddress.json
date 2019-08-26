@@ -1,0 +1,23 @@
+{
+    "slug": "profileaddress",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "ads",
+        "addresses"
+    ],
+    "name": "ProfileAddress Direktmarketing GmbH",
+    "address": "Altmannsdorfer Strasse 311\n1230 Wien\nÖsterreich",
+    "phone": "+43 720 115229",
+    "email": "auskunft@profileaddress.com",
+    "web": "https://profileaddress.com/",
+    "sources": [
+        "https://profileaddress.com/impressum/",
+        "https://github.com/datenanfragen/data/issues/204"
+    ],
+    "comments": [
+        "Auskunft auch über https://profileaddress.com/auskunft/ möglich."
+    ],
+    "suggested-transport-medium": "email"
+}
