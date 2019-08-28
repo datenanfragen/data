@@ -1,0 +1,20 @@
+{
+    "slug": "deliveroo-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Deliveroo Germany GmbH",
+    "runs": [
+        "Roofoods Limited"
+    ],
+    "address": "Schlesische Straße 26\n10997 Berlin\nDeutschland",
+    "email": "dpo@deliveroo.com",
+    "web": "https://deliveroo.de",
+    "sources": [
+        "https://deliveroo.de/en/privacy"
+    ],
+    "suggested-transport-medium": "email"
+}
