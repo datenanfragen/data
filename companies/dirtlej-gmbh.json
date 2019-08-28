@@ -1,0 +1,18 @@
+{
+    "slug": "dirtlej-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "dirtlej GmbH",
+    "address": "Am Kesselhaus 5\n79576 Weil am Rhein\nDeutschland",
+    "phone": "+49 7621 6868950",
+    "email": "info@dirtlej.de",
+    "web": "https://www.dirtlej.de",
+    "sources": [
+        "https://www.dirtlej.de/privacy",
+        "https://github.com/datenanfragen/data/issues/211"
+    ]
+}
