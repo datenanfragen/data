@@ -6,13 +6,18 @@
     "categories": [
         "entertainment"
     ],
-    "name": "BookMyShow",
-    "address": "c/o Bigtree Entertainment Private Limited\nGround Floor, Wajeda House\nGulmohar Cross Road\nAndheri West\nMumbai 400049\nIndia",
+    "name": "Bigtree Entertainment Private Limited",
+    "runs": [
+        "BookMyShow"
+    ],
+    "address": "Ground Floor, Wajeda House\nGulmohar Cross Road\nAndheri West\nMumbai 400049\nIndia",
     "email": "allears@bookmyshow.com",
     "web": "https://bookmyshow.com",
     "sources": [
         "https://bookmyshow.com/privacy",
-        "https://github.com/datenanfragen/data/issues/209"
+        "https://github.com/datenanfragen/data/issues/209",
+        "https://bookmyshow.com/terms-and-conditions",
+        "https://github.com/datenanfragen/data/issues/213"
     ],
     "suggested-transport-medium": "email"
 }
