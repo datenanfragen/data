@@ -1,0 +1,15 @@
+{
+    "slug": "klexhub",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "KlexHub UG (haftungsbeschränkt)",
+    "address": "Kurt-Schumacher-Str. 2\n89343 Jettingen-Scheppach\nDeutschland",
+    "phone": "+49 8225 7989000",
+    "fax": "+49 8225 7989001",
+    "email": "datenschutz@klexhub.com",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/214"
+    ],
+    "suggested-transport-medium": "email"
+}
