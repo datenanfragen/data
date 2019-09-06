@@ -1,0 +1,19 @@
+{
+    "slug": "gmp-police",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Greater Manchester Police",
+    "address": "GMP Headquarters \nCentral Park \nNorthampton Road \nManchester \nM40 5BP\nUnited Kingdom",
+    "phone": "+44 121 559 6699",
+    "email": "dataprotection@gmp.pnn.police.uk ",
+    "web": "https://gmp.police.uk",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/215"
+    ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "email"
+}
