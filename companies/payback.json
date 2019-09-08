@@ -14,13 +14,27 @@
     ],
     "address": "Theresienhöhe 12\n80339 München\nDeutschland",
     "phone": "+49 89 540 20 80 20",
-    "fax": "+49 180 510 511 0",
+    "fax": "+49 180 50 55 108",
     "email": "datenschutz@payback.de",
     "web": "https://www.payback.de",
     "sources": [
         "https://www.payback.de/pb/id/252686/",
-        "https://www.payback.de/pb/impressum/id/1890/"
+        "https://www.payback.de/pb/impressum/id/1890/",
+        "https://github.com/datenanfragen/data/issues/217"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Kundenummer",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
     "comments": [
         "Achtung: Faxnummer ist kostenpflichtig (0,14 €/Min. aus dem deutschen Festnetz, max. 0,42 €/Min. aus dem Mobilfunknetz)!"
     ],
