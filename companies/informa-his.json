@@ -29,6 +29,10 @@
             "type": "address"
         },
         {
+            "desc": "Geburtsdatum",
+            "type": "birthdate"
+        },
+        {
             "desc": "Vorherige Adresse",
             "type": "address",
             "optional": true
