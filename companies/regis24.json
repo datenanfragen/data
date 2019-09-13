@@ -22,6 +22,10 @@
         {
             "desc": "Adresse",
             "type": "address"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "birthdate"
         }
     ],
     "relevant-countries": [
