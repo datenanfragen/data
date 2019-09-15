@@ -16,5 +16,15 @@
     "sources": [
         "https://deliveroo.de/en/privacy"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "input"
+        }
+    ],
     "suggested-transport-medium": "email"
 }
