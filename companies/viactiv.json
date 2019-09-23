@@ -1,0 +1,30 @@
+{
+    "slug": "viactiv",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "VIACTIV Krankenkasse",
+    "address": "Universitätsstraße 43\n44789 Bochum\nDeutschland",
+    "phone": "+49 234 479 2799",
+    "email": "datenschutz@viactiv.de",
+    "web": "https://www.viactiv.de/",
+    "sources": [
+        "https://www.viactiv.de/datenschutz",
+        "https://de.wikipedia.org/wiki/Viactiv_BKK",
+        "https://github.com/datenanfragen/data/issues/223"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
