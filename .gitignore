@@ -121,3 +121,5 @@ env
 
 # Custom
 todo
+
+node_modules/

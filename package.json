@@ -1,0 +1,16 @@
+{
+  "name": "datenanfragen-data-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ygoe/msgpack": "^1.0.2",
+    "crypto": "^1.0.1",
+    "enquirer": "^2.3.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "msgpack5": "^4.2.1",
+    "papaparse": "^5.0.0",
+    "request": "^2.88.0"
+  }
+}
