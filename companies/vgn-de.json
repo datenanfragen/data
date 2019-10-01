@@ -1,0 +1,38 @@
+{
+    "slug": "vgn-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "VGN Verkehrsbund Groß­raum Nürn­berg GmbH",
+    "runs": [
+        "VAG Verkehrs-Aktiengesellschaft"
+    ],
+    "address": "Rothen­burger Straße 9\n90443 Nürn­berg\nDeutschland",
+    "phone": "+49 911 270750",
+    "fax": "+49 911 2713780",
+    "email": "da­ten­schutz@stwn.de",
+    "web": "https://www.vgn.de",
+    "sources": [
+        "https://www.vgn.de/datenschutz/",
+        "https://www.vag.de/datenschutz/",
+        "https://github.com/datenanfragen/data/issues/227"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "birthdate"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
