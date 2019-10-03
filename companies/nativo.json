@@ -1,0 +1,18 @@
+{
+    "slug": "nativo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Nativo London Limited",
+    "address": "5 Margaret Street\n2nd Floor\nLondon\nW1W 8RG\nUnited Kingdom",
+    "email": "privacy@nativo.com",
+    "web": "https://www.nativo.com/",
+    "sources": [
+        "https://www.nativo.com/privacy-policy"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}

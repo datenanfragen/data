@@ -1,0 +1,26 @@
+{
+    "slug": "dataxu",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "dataxu Ltd.",
+    "runs": [
+        "dataxu, Inc.",
+        "dataxu GmbH",
+        "dataxu Australia PTY LTD",
+        "dataxu Singapore, Pte Ltd",
+        "dataxu Japan KK",
+        "dataxu India Private Limited"
+    ],
+    "address": "6 Ramillies Street\nLondon\nW1F 7TY\nUnited Kingdom",
+    "email": "dataprivacy@dataxu.com",
+    "web": "https://www.dataxu.com/",
+    "sources": [
+        "https://www.dataxu.com/about-us/privacy/data-collection-platform/"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}

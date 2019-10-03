@@ -1,0 +1,25 @@
+{
+    "slug": "kbmg",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Wunderman Worldwide LLC",
+    "runs": [
+        "iBehavior Data Cooperative",
+        "Zipline Onboarding & Distribution Platform",
+        "AmeriLINK Consumer Database",
+        "KBM Group",
+        "Wunderman Data Products"
+    ],
+    "address": "2051 Dogwood Street\nSuite 220\nLouisville\nCO 80027\nUnited States of America",
+    "email": "privacy@wundermandata.com",
+    "web": "https://www.kbmg.com/",
+    "sources": [
+        "https://www.kbmg.com/about-us/privacy/"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}

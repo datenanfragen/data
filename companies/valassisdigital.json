@@ -1,0 +1,21 @@
+{
+    "slug": "valassisdigital",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Valassis Digital Corp.",
+    "address": "35 East 62nd Street\n7th Floor\nNew York\nNY 10065\nUnited States of America",
+    "email": "ValDigital-Privacy@valassis.com",
+    "web": "https://www.valassisdigital.com/",
+    "sources": [
+        "https://www.valassisdigital.com/legal/privacy-policy/"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "https://www.valassisdigital.com/company/locations/"
+    ]
+}

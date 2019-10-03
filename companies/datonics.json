@@ -1,0 +1,19 @@
+{
+    "slug": "datonics",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Datonics LLC",
+    "address": "37-18 Northern Blvd\nSuite 404\nNew York\nNY 11101\nUnited States of America",
+    "phone": "+1 646 867 0647",
+    "email": "privacy@datonics.com",
+    "web": "https://www.datonics.com/",
+    "sources": [
+        "https://www.datonics.com/technology-privacy-policy"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
