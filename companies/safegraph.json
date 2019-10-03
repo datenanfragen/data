@@ -1,0 +1,18 @@
+{
+    "slug": "safegraph",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "SafeGraph Inc.",
+    "address": "182 Howard Street\nSuite 842\nSan Francisco\nCA 94105\nUnited States of America",
+    "email": "privacy@safegraph.com",
+    "web": "https://www.safegraph.com/",
+    "sources": [
+        "https://www.safegraph.com/privacy-policy"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
