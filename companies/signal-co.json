@@ -1,0 +1,18 @@
+{
+    "slug": "signal-co",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Signal Digital, Inc.",
+    "address": "222 N. LaSalle St.\nSuite 1600\nChicago\nIL 60601\nUnited States of America",
+    "email": "privacy@signal.co",
+    "web": "https://www.signal.co/",
+    "sources": [
+        "https://www.signal.co/privacy-policy/"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}

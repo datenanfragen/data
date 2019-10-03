@@ -1,0 +1,18 @@
+{
+    "slug": "apolloprogram",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Apollo Program LLC",
+    "address": "536 Broadway\n11th floor\nNew York\nNY 10012\nUnited States of America",
+    "email": "privacy@apolloprogram.com",
+    "web": "https://apolloprogram.com/",
+    "sources": [
+        "https://apolloprogram.com/privacy"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
