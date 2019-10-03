@@ -1,0 +1,18 @@
+{
+    "slug": "revealmobile",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Reveal Mobile, Inc.",
+    "address": "c/o ePrivacy GmbH\nGroße Bleichen 21\n20354 Hamburg\nGermany",
+    "email": "privacy@revealmobile.com",
+    "web": "https://revealmobile.com/",
+    "sources": [
+        "https://revealmobile.com/privacy/"
+    ],
+    "custom-access-template": "access-tracking.txt",
+    "suggested-transport-medium": "email"
+}
