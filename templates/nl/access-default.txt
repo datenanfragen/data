@@ -1,0 +1,26 @@
+Aan wie het aanbelangt:
+
+Ik verzoek hierbij om toegang overeenkomstig met artikel 15 AVG. Bevestig alstublieft of u al dan niet persoonlijke gegevens (zoals gedefinieerd in artikel 4, leden 1 en 2, AVG) over mij verwerkt.
+
+In het geval dat u dat doet, vraag ik hierbij toegang tot de volgende informatie overeenkomstig met artikel 15 AVG:
+1. <italic>alle</italic> mij betreffende persoonlijke gegevens die u over mij heeft opgeslagen;
+2. het doel van de verwerking;
+3. de categorieën van de betrokken persoonlijke gegevens;
+4. de ontvangers of categorieën van ontvangers aan wie de persoonlijke gegevens zijn of zullen worden bekendgemaakt;
+5. waar mogelijk, de beoogde periode waarvoor de persoonlijke gegevens worden opgeslagen, of, indien niet mogelijk, de criteria die worden gebruikt om die periode te bepalen;
+6. wanneer de persoonlijke gegevens niet van de betrokkene worden verzameld, alle beschikbare informatie over hun bron;
+7. het bestaan van geautomatiseerde besluitvorming, inclusief profilering, als bedoeld in artikel 22, leden 1 en 4, AVG en, althans in die gevallen, zinvolle informatie over de betrokken logica, evenals het belang en de beoogde gevolgen van dergelijke verwerking voor mij.
+
+Als u mijn persoonlijke gegevens overdraagt naar een derde land of een internationale organisatie, verzoek ik om te worden geïnformeerd over de passende waarborgen overeenkomstig met artikel 46 AVG betreffende de overdracht.
+[data_portability>
+Stel alstublieft de persoonlijke gegevens over mij, die ik u heb verstrekt, voor mij beschikbaar in een gestructureerd, algemeen gebruikt en machine leesbaar formaat zoals vastgesteld in artikel 20, lid 1, AVG.
+]
+Mijn verzoek omvat expliciet [runs>het volgende, evenals ]alle andere services en bedrijven waarvoor u de controleur bent zoals gedefinieerd in artikel 4, lid 7, AVG[runs>: {runs_list}].
+
+Zoals bepaald in artikel 12, lid 3, AVG, moet u mij de gevraagde informatie verstrekken zonder onnodige vertraging en in elk geval binnen een maand na ontvangst van het verzoek. Volgens artikel 15, lid 3, AVG moet u dit verzoek zonder kosten voor mij beantwoorden.
+
+Ik neem de volgende informatie op die nodig is om mij te identificeren:
+{id_data}
+Als u mijn verzoek niet binnen de gestelde termijn beantwoordt, behoud ik het recht voor om gerechtelijke stappen tegen u te ondernemen en een klacht in te dienen bij de verantwoordelijke toezichthoudende autoriteit.
+
+Hoogachtend,
