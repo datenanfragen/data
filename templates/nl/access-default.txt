@@ -18,11 +18,9 @@ Stel alstublieft de persoonlijke gegevens over mij, die ik u heb verstrekt, voor
 Mijn verzoek omvat expliciet [runs>het volgende, evenals ]alle andere services en bedrijven waarvoor u de controleur bent zoals gedefinieerd in artikel 4, lid 7, AVG[runs>: {runs_list}].
 
 Zoals bepaald in artikel 12, lid 3, AVG, moet u mij de gevraagde informatie verstrekken zonder onnodige vertraging en in elk geval binnen een maand na ontvangst van het verzoek. Volgens artikel 15, lid 3, AVG moet u dit verzoek zonder kosten voor mij beantwoorden.
-
+[has_fields>
 Ik neem de volgende informatie op die nodig is om mij te identificeren:
-[all_fields_empty>
-{id_data}
-]
+{id_data}]
 Als u mijn verzoek niet binnen de gestelde termijn beantwoordt, behoud ik het recht voor om gerechtelijke stappen tegen u te ondernemen en een klacht in te dienen bij de verantwoordelijke toezichthoudende autoriteit.
 
 Hoogachtend,

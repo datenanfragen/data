@@ -18,11 +18,9 @@ Ich bitte Sie, mir die betreffenden personenbezogenen Daten, die ich Ihnen zur V
 Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des Art. 4 Nr. 7 DSGVO sind[runs>: {runs_list}].
 
 Die Auskunft ist nach Art. 12 Abs. 3 DSGVO unverzüglich, in jedem Fall aber innerhalb eines Monats nach Eingang der Anfrage zu erteilen. Sie hat nach Art. 15 Abs. 3 DSGVO kostenlos zu erfolgen.
-
+[has_fields>
 Zur Identifikation meiner Person habe ich folgende Daten beigefügt:
-[all_fields_empty>
-{id_data}
-]
+{id_data}]
 Sollten Sie meiner Anfrage nicht innerhalb der genannten Frist nachkommen, behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
 
 Mit freundlichen Grüßen

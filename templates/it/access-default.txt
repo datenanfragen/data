@@ -18,11 +18,9 @@ Io sottoscritto prego di ricevere i miei dati personali, che vi ho fornito, in u
 La mia richiesta include esplicitamente [runs>il seguente così come ]qualsiasi altro servizio e compagnia dei quali voi siete titolari del trattamento come definito dall'Articolo 4(7) GDPR[runs>: {runs_list}].
 
 Come previsto dall'Articolo 12(3) GDPR, dovete fornirmi le informazioni richieste senza ingiustificato ritardo e, comunque, al più tardi entro un mese dal ricevimento della richiesta stessa. Ai sensi dell'Articolo 15(3) GDPR, dovete rispondere a questa richiesta gratuitamente.
-
+[has_fields>
 Includo le seguenti informazioni necessarie a identificarmi:
-[all_fields_empty>
-{id_data}
-]
+{id_data}]
 Se non risponderete alla mia richiesta entro il periodo indicato, io mi riservo il diritto d'intraprendere un'azione legale contro di voi e di presentare un reclamo all'autorità di controllo responsabile.
 
 Cordialmente,
