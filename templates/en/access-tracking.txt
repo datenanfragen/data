@@ -20,9 +20,9 @@ My request explicitly includes [runs>the following as well as ]any other service
 As laid down in Article 12(3) GDPR, you have to provide the requested information to me without undue delay and in any event within one month of receipt of the request. According to Article 15(3) GDPR, you have to answer this request without cost to me.
 
 Please tell me which information (cookie ID, device advertising ID, etc.) is necessary for you to identify me and explain to me how to obtain said information.
-
+[has_fields>
 My contact details are as follows:
-{id_data}
+{id_data}]
 If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
 
 Yours sincerely,
