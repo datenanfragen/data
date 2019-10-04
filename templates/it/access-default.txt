@@ -20,7 +20,9 @@ La mia richiesta include esplicitamente [runs>il seguente così come ]qualsiasi 
 Come previsto dall'Articolo 12(3) GDPR, dovete fornirmi le informazioni richieste senza ingiustificato ritardo e, comunque, al più tardi entro un mese dal ricevimento della richiesta stessa. Ai sensi dell'Articolo 15(3) GDPR, dovete rispondere a questa richiesta gratuitamente.
 
 Includo le seguenti informazioni necessarie a identificarmi:
+[all_fields_empty>
 {id_data}
+]
 Se non risponderete alla mia richiesta entro il periodo indicato, io mi riservo il diritto d'intraprendere un'azione legale contro di voi e di presentare un reclamo all'autorità di controllo responsabile.
 
 Cordialmente,

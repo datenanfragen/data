@@ -22,7 +22,9 @@ Die Auskunft ist nach Art. 12 Abs. 3 DSGVO unverzüglich, in jedem Fall aber inn
 Bitte erteilen Sie mir weiterhin nach §495 StPO und §9 ZStVBetrV, in Verbindung mit §57 BDSG, Auskunft über die zu meiner Person im Zentralen Staatsanwaltschaftlichen Verfahrensregister (ZStV) gespeicherten Daten.
 
 Zur Identifikation meiner Person habe ich folgende Daten beigefügt:
+[all_fields_empty>
 {id_data}
+]
 Sollten Sie meiner Anfrage nicht innerhalb der genannten Frist nachkommen, behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
 
 Mit freundlichen Grüßen
