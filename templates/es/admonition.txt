@@ -1,0 +1,8 @@
+A quien le interese:
+
+El día {request_date} les envié una petición de acuerdo con el Artículo {request_article} del RGPD.
+{Description of the problem, e.g.: Unfortunately, I did not receive an answer so far. The period of one month according to Article 12(3) sentence 1 GDPR is therefore exceeded.}
+
+Es por eso que os estoy contactando de nuevo. Despúes de la llegada de esta amonestación, responded por favor mi petición de forma adecuada en un término de dos semanas. De lo contrario, me reservo el derecho de tomar acciones legales contra vosotros y a presentar una queja con la autoridad supervisora responsable.
+
+Atentamente,
