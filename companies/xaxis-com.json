@@ -15,5 +15,5 @@
         "https://www.xaxis.com/privacy-notice/",
         "https://www.xaxis.com/contact-us/"
     ],
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

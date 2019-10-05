@@ -15,5 +15,5 @@
         "https://www.teads.tv/privacy-policy/",
         "https://www.teads.tv/teads-offices/"
     ],
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

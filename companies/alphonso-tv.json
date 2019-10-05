@@ -14,5 +14,5 @@
         "https://alphonso.tv/privacy/site-privacy/",
         "https://alphonso.tv/privacy/"
     ],
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

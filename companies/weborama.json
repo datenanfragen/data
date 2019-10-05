@@ -16,6 +16,6 @@
         "https://weborama.com/e-privacy-2/",
         "https://weborama.com/contact-us/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

@@ -13,6 +13,6 @@
     "sources": [
         "https://v12data.com/v12-privacy-point-of-view/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

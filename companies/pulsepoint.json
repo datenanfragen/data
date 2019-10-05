@@ -17,5 +17,5 @@
     "sources": [
         "https://www.pulsepoint.com/privacy-policy/platform"
     ],
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

@@ -20,6 +20,6 @@
     "sources": [
         "https://www.kbmg.com/about-us/privacy/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

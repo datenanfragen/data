@@ -22,6 +22,6 @@
         "https://www.wearemiq.com/privacy-policy/",
         "https://www.wearemiq.com/london/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }
