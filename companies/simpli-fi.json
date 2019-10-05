@@ -16,6 +16,6 @@
     "sources": [
         "https://simpli.fi/site-privacy-policy/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

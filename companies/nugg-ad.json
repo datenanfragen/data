@@ -15,6 +15,6 @@
         "https://www.nugg.ad/en/privacy/consumers.html",
         "https://www.nugg.ad/en/imprint.html"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

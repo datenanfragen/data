@@ -17,6 +17,6 @@
         "https://appreciate.mobi/page.html#/end-user-privacy-policy",
         "https://relationshipscience.com/organization/triapodi-ltd-1889252"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

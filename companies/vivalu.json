@@ -16,6 +16,6 @@
         "https://www.vivalu.com/datenschutz/",
         "https://www.vivalu.com/impressum/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

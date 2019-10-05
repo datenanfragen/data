@@ -15,6 +15,6 @@
         "https://www.gamned.com/privacy-policy/",
         "https://www.gamned.com/legal-notices/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

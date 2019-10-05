@@ -20,6 +20,6 @@
         "https://www.ipromote.com/contact/"
     ],
     "request-language": "en",
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

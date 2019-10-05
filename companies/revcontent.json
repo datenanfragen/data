@@ -13,6 +13,6 @@
     "sources": [
         "https://intercom.help/revcontent2/en/articles/2290675-revcontent-s-privacy-policy"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

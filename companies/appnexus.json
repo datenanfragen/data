@@ -12,5 +12,5 @@
     "sources": [
         "https://www.appnexus.com/platform-privacy-policy"
     ],
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

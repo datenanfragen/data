@@ -15,6 +15,6 @@
         "https://www.liveintent.com/services-privacy-policy/",
         "https://www.liveintent.com/get-in-touch/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

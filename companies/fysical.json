@@ -16,6 +16,6 @@
     "sources": [
         "https://fysical.com/privacypolicy/enduser/index.html"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }
