@@ -1,0 +1,8 @@
+À qui de droit :
+
+Le {request_date} je vous ai envoyé une requête en accord avec l'article {request_article} GDPR.
+{Description du problème, par exemple: Je n'ai malheureusement pas reçu de réponse. La période d'un mois selon l'article 12(3) alinéa 1 GDPR est donc dépassée.}
+
+C'est pourquoi je vous contacte une nouvelle fois. Après l'arrivée de cette admonition, veuillez répondre dans un délai de 2 semaines. Autrement je garde le droit de prendre des actions légales contre vous et déposer plainte avec les authorités responsables. 
+
+Cordialement,
