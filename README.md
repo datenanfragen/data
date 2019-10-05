@@ -27,6 +27,8 @@ Finally, the `supervisory-authorities` folder contains data on supervisory data 
 
 We prefer privacy-specific contact details (usually found in a company's privacy policy). In particular, email addresses like `privacy@example.com` or `dpo@example.org` and phone/fax numbers specifically of data protection officers are preferred. If no specifc details are available, we use 'regular' contact details found on the company's website.
 
+Please make sure that there is **no** personal data in your record. This means no names in the address and no emails that include names, either.
+
 Some companies don't publish adequate contact information on their website. In these cases, you can resort to third-party sources but do check the information very thoroughly depending on the source.
 
 * For US companies that are Privacy Shield certified, the [Privacy Shield List](https://www.privacyshield.gov/list) is a valuable resource for uncovering missing contact information.
@@ -36,11 +38,13 @@ Some companies don't publish adequate contact information on their website. In t
 
 ### Addresses
 
-We want the addresses to formatted consistently, so don't just copy the information directy from the company's website. Try to format the address according to the standards of the respective country. The Universial Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.
+We want the addresses to formatted consistently, so don't just copy the information directy from the company's website. Try to format the address according to the standards of the respective country. For many countries, we already have records with examples on how to format the addresses. Otherwise, the Universial Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.
 
 For incomplete addresses, you can use SmartyStreets' [Single Address Validation Tool](https://smartystreets.com/products/single-address).
 
 For addresses in Hong Kong, the [Correct Addressing tool](https://www.hongkongpost.hk/correct_addressing/index.jsp?lang=en_US) offered by Hongkong Post, is very useful.
+
+Please **don't** include lines like `Data protection officer`, `Privacy department` or similar. They will be automatically added by our generator, anyway. Also, **don't** include any personal data (like names) in the address.
 
 ### Phone and fax numbers
 
