@@ -34,11 +34,11 @@ Some companies don't publish adequate contact information on their website. In t
 * For US companies that are Privacy Shield certified, the [Privacy Shield List](https://www.privacyshield.gov/list) is a valuable resource for uncovering missing contact information.
 * Companies in the UK have their information listed in the [Companies House Search Register](https://beta.companieshouse.gov.uk/).
 * German companies are required by law to publish an 'Impressum' with their contact information. In addition to that, registered companies have to be listed in the [Handelsregister](https://www.handelsregister.de). This is a paid service but some information can be accessed for free.
-* Companies in Singapore are assigned a unique entity number (UEN) and can be be researched via the [Business Filing Portal of ACRA (BizFile)](https://www.bizfile.gov.sg).
+* Companies in Singapore are assigned a unique entity number (UEN) and can be researched via the [Business Filing Portal of ACRA (BizFile)](https://www.bizfile.gov.sg).
 
 ### Addresses
 
-We want the addresses to be formatted consistently, so don't just copy the information directy from the company's website. Try to format the address according to the standards of the respective country. For many countries, we already have records with examples on how to format the addresses. Otherwise, the Universal Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.
+We want the addresses to be formatted consistently, so don't just copy the information directly from the company's website. Try to format the address according to the standards of the respective country. For many countries, we already have records with examples on how to format the addresses. Otherwise, the Universal Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.
 
 For incomplete addresses, you can use SmartyStreets' [Single Address Validation Tool](https://smartystreets.com/products/single-address).
 
