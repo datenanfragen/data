@@ -5,7 +5,7 @@ It is used to power the Datenanfragen.de company database but we warmly welcome 
 
 ## Contributing
 
-Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you contribute whatever information you have. Currently, please just submit pull requests in order to do so. You can use [this tool](https://company-json.netlify.com/) to generate valid JSON records.  
+Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you to contribute whatever information you have. Currently, please just submit pull requests in order to do so. You can use [this tool](https://company-json.netlify.com/) to generate valid JSON records.  
 We are working on easier ways to help you contribute.
 
 Please be aware that by contributing, you agree for your work to be released under a Creative Commons CC0 1.0 Universal license, as specified in the `LICENSE` file.
@@ -25,7 +25,7 @@ Finally, the `supervisory-authorities` folder contains data on supervisory data 
 
 ### Data sources
 
-We prefer privacy-specific contact details (usually found in a company's privacy policy). In particular, email addresses like `privacy@example.com` or `dpo@example.org` and phone/fax numbers specifically of data protection officers are preferred. If no specifc details are available, we use 'regular' contact details found on the company's website.
+We prefer privacy-specific contact details (usually found in a company's privacy policy). In particular, email addresses like `privacy@example.com` or `dpo@example.org` and phone/fax numbers specifically of data protection officers are preferred. If no specific details are available, we use 'regular' contact details found on the company's website.
 
 Please make sure that there is **no** personal data in your record. This means no names in the address and no emails that include names, either.
 
@@ -38,7 +38,7 @@ Some companies don't publish adequate contact information on their website. In t
 
 ### Addresses
 
-We want the addresses to formatted consistently, so don't just copy the information directy from the company's website. Try to format the address according to the standards of the respective country. For many countries, we already have records with examples on how to format the addresses. Otherwise, the Universial Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.
+We want the addresses to be formatted consistently, so don't just copy the information directy from the company's website. Try to format the address according to the standards of the respective country. For many countries, we already have records with examples on how to format the addresses. Otherwise, the Universal Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.
 
 For incomplete addresses, you can use SmartyStreets' [Single Address Validation Tool](https://smartystreets.com/products/single-address).
 
@@ -52,7 +52,7 @@ We want phone and fax numbers to be in a standard international format without a
 
 ## Required elements
 
-If we know from previous requests (or from a privacy policy) which identification informaton is needed for requests to a company, we record that under the `required-elements` key.
+If we know from previous requests (or from a privacy policy) which identification information is needed for requests to a company, we record that under the `required-elements` key.
 
 If `required_elements` are specified, there *should* be one element with type `name`. This does not have to be a real name but could also be a username or even an email address, if no other information is required.  
 In addition, the `required_elements` should include some way for the company to respond to the request, be it an address, an email address, a phone number or something similar. 
