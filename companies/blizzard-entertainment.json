@@ -1,0 +1,18 @@
+{
+    "slug": "blizzard-entertainment",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Blizzard Entertainment SAS",
+    "address": "Blizzard Entertainment SAS\nTSA 60001\n78008 Versailles CEDEX\nFrance ",
+    "email": "DPO@blizzard.com",
+    "web": "www.blizzard.com",
+    "sources": [
+        "https://www.blizzard.com/de-de/company/about/contact.html",
+        "https://github.com/datenanfragen/data/issues/265"
+    ],
+    "suggested-transport-medium": "email"
+}
