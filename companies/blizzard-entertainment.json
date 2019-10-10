@@ -9,7 +9,7 @@
     "name": "Blizzard Entertainment SAS",
     "address": "TSA 60001\n78008 Versailles CEDEX\nFrance ",
     "email": "DPO@blizzard.com",
-    "web": "www.blizzard.com",
+    "web": "https://www.blizzard.com",
     "sources": [
         "https://www.blizzard.com/de-de/company/about/contact.html",
         "https://github.com/datenanfragen/data/issues/265"
