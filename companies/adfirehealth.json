@@ -1,0 +1,19 @@
+{
+    "slug": "adfirehealth",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "​​Adfire Health LLC",
+    "address": "2 Landmark Sq.\nSuite 214\nStamford\nCT 06901\nUnited States of America",
+    "phone": "+1 914 921 8800",
+    "email": "privacy@adfirehealth.com",
+    "web": "https://adfirehealth.com/",
+    "sources": [
+        "https://adfirehealth.com/privacy-policy/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

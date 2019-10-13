@@ -1,0 +1,18 @@
+{
+    "slug": "v12data",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "V12",
+    "address": "2319 Oak Myrtle Ln\nSuite 104\nWesley Chapel\nFL 33544\nUnited States of America",
+    "email": "privacy@V12data.com",
+    "web": "https://v12data.com/",
+    "sources": [
+        "https://v12data.com/v12-privacy-point-of-view/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

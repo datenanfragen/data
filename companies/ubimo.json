@@ -1,0 +1,17 @@
+{
+    "slug": "ubimo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Ubimo Ltd.",
+    "address": "85 Broad Street\nNew York\nNY 10004\nUnited States of America",
+    "email": "info@ubimo.com",
+    "web": "https://www.ubimo.com/",
+    "sources": [
+        "https://www.ubimo.com/privacy"
+    ],
+    "custom-access-template": "access-tracking"
+}

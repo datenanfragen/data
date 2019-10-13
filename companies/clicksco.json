@@ -1,0 +1,19 @@
+{
+    "slug": "clicksco",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Clicksco Digital Limited",
+    "address": "Suite 3.03\nFloor 3\n91 Wimpole St\nLondon\nW1G 0EF\nUnited Kingdom",
+    "phone": "+44 20 3457 0543",
+    "email": "data-protection@clicksco.com",
+    "web": "https://www.clicksco.com/",
+    "sources": [
+        "https://www.clicksco.com/privacy/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

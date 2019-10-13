@@ -19,6 +19,6 @@
         "https://www.openx.com/legal/privacy-policy/",
         "https://www.openx.com/contact-us/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

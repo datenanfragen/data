@@ -1,0 +1,21 @@
+{
+    "slug": "fysical",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "GIS Operations, Inc",
+    "runs": [
+        "Fysical"
+    ],
+    "address": "1836 Broadway Street\nSan Francisco\nCA 94109\nUnited States of America",
+    "email": "privacy@fysical.com",
+    "web": "https://fysical.com/",
+    "sources": [
+        "https://fysical.com/privacypolicy/enduser/index.html"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

@@ -18,6 +18,6 @@
         "https://rubiconproject.com/privacy/",
         "https://rubiconproject.com/contactus/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

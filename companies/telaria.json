@@ -1,0 +1,18 @@
+{
+    "slug": "telaria",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Telaria, Inc.",
+    "address": "222 Broadway\nNew York\nNY 10038\nUnited States of America",
+    "email": "privacy@telaria.com",
+    "web": "https://telaria.com/",
+    "sources": [
+        "https://telaria.com/privacy-policy/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

@@ -1,0 +1,19 @@
+{
+    "slug": "clickagy",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Clickagy, LLC",
+    "address": "3780 Mansell Road Suite 350\nAlpharetta\nGA 30022\nUnited States of America",
+    "phone": "+1 877 678 4577",
+    "email": "support@clickagy.com",
+    "web": "https://www.clickagy.com/",
+    "sources": [
+        "https://www.clickagy.com/privacy/",
+        "https://www.bloomberg.com/profile/company/1221050D:US"
+    ],
+    "custom-access-template": "access-tracking"
+}

@@ -13,7 +13,7 @@
     "sources": [
         "https://www.eyeota.com/privacy-policy"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "comments": [
         "There is also a web form for requests: https://www.eyeota.com/subject-access-request-form"

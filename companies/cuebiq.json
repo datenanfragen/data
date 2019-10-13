@@ -1,0 +1,18 @@
+{
+    "slug": "cuebiq",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Cuebiq Inc.",
+    "address": "15 West 27th Street\nNew York\nNY 10001\nUnited States of America",
+    "email": "privacy@cuebiq.com",
+    "web": "https://www.cuebiq.com/",
+    "sources": [
+        "https://www.cuebiq.com/privacypolicy/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}
