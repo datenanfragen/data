@@ -1,0 +1,18 @@
+{
+    "slug": "revcontent",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Revcontent, LLC",
+    "address": "5901 N. Honore Ave.\nSarasota\nFL 34243\nUnited States of America",
+    "email": "privacy@revcontent.com",
+    "web": "https://www.revcontent.com/",
+    "sources": [
+        "https://intercom.help/revcontent2/en/articles/2290675-revcontent-s-privacy-policy"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

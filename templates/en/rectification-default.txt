@@ -9,9 +9,9 @@ In case you have disclosed the affected personal data to third parties, you have
 My request explicitly includes [runs>the following as well as ]any other services and companies for which you are the controller as defined by Article 4(7) GDPR[runs>: {runs_list}].
 
 As laid down in Article 12(3) GDPR, you have to confirm the rectification to me without undue delay and in any event within one month of receipt of the request.
-
+[has_fields>
 I am including the following information necessary to identify me:
-{id_data}
+{id_data}]
 If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
 
 Yours sincerely,

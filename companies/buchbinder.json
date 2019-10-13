@@ -1,0 +1,19 @@
+{
+    "slug": "buchbinder",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Buchbinder",
+    "address": "c/o Carpartner Nord GmbH\nKulmbacher Straße 8-10\n93057 Regensburg\nDeutschland",
+    "email": "datenschutz@buchbinder.de",
+    "web": "https://www.buchbinder.de",
+    "sources": [
+        "https://www.buchbinder.de/de/weitere-informationen/impressum/",
+        "https://www.buchbinder.de/de/weitere-informationen/datenschutz/",
+        "https://github.com/datenanfragen/data/issues/259"
+    ],
+    "suggested-transport-medium": "email"
+}

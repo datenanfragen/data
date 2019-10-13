@@ -1,0 +1,18 @@
+{
+    "slug": "scorecardresearch",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "ScorecardResearch",
+    "address": "c/o Full Circle Studies, Inc.\n11950 Democracy Drive\nReston\nVA 20190\nUnited States of America",
+    "email": " privacy@fullcirclestudies.com",
+    "web": "https://www.scorecardresearch.com/",
+    "sources": [
+        "https://www.scorecardresearch.com/privacy.aspx"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

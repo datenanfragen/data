@@ -1,0 +1,19 @@
+{
+    "slug": "drive-now-com",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "DriveNow GmbH & Co. KG. ",
+    "address": "Seidlstraße 26\n80335 München\nDeutschland",
+    "email": "datenschutz@drive-now.com",
+    "web": "https://www.drive-now.com/de/de",
+    "sources": [
+        "https://www.drive-now.com/de/de/legal-notice",
+        "https://www.drive-now.com/de/de/privacy",
+        "https://github.com/datenanfragen/data/issues/260"
+    ],
+    "suggested-transport-medium": "email"
+}

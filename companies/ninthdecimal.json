@@ -1,0 +1,18 @@
+{
+    "slug": "ninthdecimal",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "NinthDecimal, Inc.",
+    "address": "150 Post Street\nSuite 500\nSan Francisco\nCA 94108\nUnited States of America",
+    "email": "privacy@ninthdecimal.com",
+    "web": "https://www.ninthdecimal.com/",
+    "sources": [
+        "https://www.ninthdecimal.com/privacy-policy-terms-of-service/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

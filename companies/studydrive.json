@@ -1,0 +1,33 @@
+{
+    "slug": "studydrive",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Studydrive GmbH",
+    "runs": [
+        "studydrive.net"
+    ],
+    "address": "Mehringdamm 32\n10961 Berlin\nDeutschland",
+    "phone": "+49 30 55579464",
+    "email": "info@studydrive.net",
+    "web": "https://www.studydrive.net",
+    "sources": [
+        "https://www.studydrive.net/datenschutz",
+        "https://www.studydrive.net/impressum"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": true
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "input",
+            "optional": false
+        }
+    ]
+}

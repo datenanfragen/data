@@ -1,0 +1,18 @@
+{
+    "slug": "owneriq",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "ownerIQ, Inc.",
+    "address": "27-43 Wormwood St.\nFloor 6\nBoston\nMA 02210\nUnited States of America",
+    "email": "privacy@owneriq.com",
+    "web": "https://www.owneriq.com/",
+    "sources": [
+        "https://www.owneriq.com/privacy-notice"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

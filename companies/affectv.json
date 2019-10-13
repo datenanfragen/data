@@ -17,6 +17,6 @@
         "https://beta.companieshouse.gov.uk/company/07472717"
     ],
     "request-language": "en",
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

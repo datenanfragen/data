@@ -16,6 +16,6 @@
         "https://www.united-internet-media.de/de/datenschutzhinweis/",
         "https://www.united-internet-media.de/de/impressum/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

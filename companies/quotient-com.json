@@ -1,0 +1,21 @@
+{
+    "slug": "quotient-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Quotient Technology Inc.",
+    "runs": [
+        "Coupons.com Incorporated"
+    ],
+    "address": "400 Logue Ave.\nMountain View\nCA 94043\nUnited States of America",
+    "email": "privacy@quotient.com",
+    "web": "https://www.quotient.com/",
+    "sources": [
+        "https://www.quotient.com/privacy-policy/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

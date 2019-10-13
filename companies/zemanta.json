@@ -14,6 +14,6 @@
         "http://www.zemanta.com/legal/privacy/"
     ],
     "request-language": "en",
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

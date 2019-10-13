@@ -37,7 +37,7 @@
         }
     ],
     "request-language": "de",
-    "custom-access-template": "access-bundesjustizamt.txt",
+    "custom-access-template": "access-bundesjustizamt",
     "needs-id-document": true,
     "suggested-transport-medium": "email",
     "comments": [

@@ -1,0 +1,18 @@
+{
+    "slug": "truedata-co",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "TrueData Solutions, Inc.",
+    "address": "555 W 5th St\n35th Floor\nLos Angeles\nCA 90013\nUnited States of America",
+    "email": "privacy@truedata.co",
+    "web": "https://www.truedata.co/",
+    "sources": [
+        "https://www.truedata.co/privacy-policy/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}

@@ -15,5 +15,5 @@
         "https://www.4wmarketplace.com/privacy/",
         "https://www.4wmarketplace.com/contatti/"
     ],
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

@@ -1,0 +1,26 @@
+A quien le interese:
+
+Por la presente estoy solicitando acceso de acuerdo con el Artículo 15 del RGPD. Por favor confirmadme si vosotros estáis procesando datos personales (como está definido por el Artículo 4(1) y (2) del RGPD) que me conciernan. 
+
+En tal caso, estoy solicitando acceso a la siguiente información conforme con el Artículo 15 del RGPD:
+1. <italic>todos<italic> los datos personales que me conciernan que tienen almacenados;
+2. los propósitos del procesamiento;
+3. las categorías de los datos personales en cuestión;
+4. los beneficiarios o categorías de beneficiarios a quienes los datos personales han sido o serán revelados;
+5. de ser posible, el periodo previsto durante el cual los datos personales serán almacenados o, si no es posible, los criterios utilizados para determinar ese periodo;
+6. cuando los datos personales no son recolectados del sujeto de los datos, cualquier información disponible de su fuente;
+7. la existencia de la toma de decisiones automatizada, incluyendo perfilamiento, referido en el Artículo 22(1) y (4) del RGPD y, al menos en esos casos, información significativa acerca de la lógica involucrada, así como el significado de las consecuencias previstas de dicho procesamiento para mí. 
+
+Si están transfiriendo mis datos personales a un tercer país o a una organización internacional, pido ser informado acerca de las garantías apropiadas de acuerdo con el Artículo 46 del RGPD que conciernan la transferencia. 
+{data_portability>
+Por favor haced los datos personales que me conciernen, proveídos a vosotros por mí, disponibles para mí en un formato estructurado, comúnmente utilizado y legible por máquinas, como indica el Artículo 20(1) del RGPD.
+]
+Mi petición incluye explícitamente [runs>lo siguiente así como ]cualquier otro servicio y compañía de la que vosotros seáis los controladores como está definido por el Artículo 4(7) del RGPD[runs>: {runs_list}].
+
+Según lo establecido en el Artículo 12(3) del RGPD, vosotros tenéis que proveerme la información requerida sin indebido retraso y en cualquier caso en menos de un mes de la recepción de esta petición. De acuerdo con el Artículo 15(3) del RGPD, vosotros tenéis que responder a esta petición sin ningún costo para mí. 
+[has_fields>
+Incluyo la siguiente información necesaria para identificarme:
+{id_data}]
+Si vosotros no respondéis a mi petición en el periodo establecido, me reservo el derecho de tomar acciones legales contra vosotros y a presentar una queja con la autoridad supervisora responsable. 
+
+Atentamente, 

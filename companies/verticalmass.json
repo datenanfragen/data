@@ -1,0 +1,18 @@
+{
+    "slug": "verticalmass",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Vertical Mass, Inc.",
+    "address": "8923 Sunset Blvd.\nLos Angeles\nCA 90069\nUnited States of America",
+    "email": "privacy@verticalmass.com",
+    "web": "http://site.verticalmass.com/",
+    "sources": [
+        "http://site.verticalmass.com/privacy/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email"
+}
