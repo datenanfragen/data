@@ -5,7 +5,7 @@ Con la presente richiedo l'immediata cancellazione di dati personali riguardanti
 [erase_all>Per favore cancellate tutti i dati personali riguardanti me come definito dall'Articolo 4(1) del GDPR.][erase_some>Per favore eliminate i seguenti dati personali riguardanti me:
 {erasure_data}]
 
-Sono dell'opinione che i requisiti esposti nell'Articolo 17(1) sono soddisfatti.
+Sono dell'opinione che i requisiti esposti nell'Articolo 17(1) siano soddisfatti.
 
 Se ho dato consenso al trattamento dei miei dati personali (e.g. secondo l'Articolo 6(1) o l'Articolo 9(2) del GDPR), con la presente ritiro tale consenso.
 Inoltre, mi oppongo al trattamento di dati personali riguardanti me (inclusa la profilazione), secondo l'Articolo 21 del GDPR.
