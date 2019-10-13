@@ -1,7 +1,7 @@
 {
   "name": "datenanfragen-data-uploader",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "deploy.js",
   "license": "MIT",
   "dependencies": {
     "@ygoe/msgpack": "^1.0.2",
