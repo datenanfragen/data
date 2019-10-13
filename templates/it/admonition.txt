@@ -1,0 +1,8 @@
+A chi di competenza:
+
+in data {request_date} vi ho mandato una richiesta secondo l'articolo {request_article} del GDPR.
+{Descrizione del problema, e.g.: Sfortunatamente, non ho ancora ricevuto nessuna risposta. Il periodo di un mese definito nell'Articolo 12(3) frase 1 del GDPR è dunque stato superato.}
+
+Per questo motivo vi sto contattando nuovamente. Dopo l'arrivo di questa ammonizione, per favore rispondete alla mia richiesta adeguatamente entro due settimane. Altrimenti, mi riservo il diritto d'intraprendere un'azione legale contro di voi e di presentare un reclamo all'autorità di controllo responsabile.
+
+Cordialmente,
