@@ -1,0 +1,17 @@
+A chi di competenza:
+
+Io sottoscritto con la presente richiedo rettifica di dati personali inaccurati riguardanti me secondo l'Articolo 16 del GDPR.
+
+Per favore effettuate i seguenti cambiamenti:
+{rectification_data}
+Nel caso in cui abbiate divulgato i dati interessati a terze parti, dovete comunicare la mia richiesta di rettifica dei dati personali interessati ad ogni destinatario come stabilito nell'Articolo 19 del GDPR. Per favore datemi anche informazioni su queste terze parti.
+
+La mia richiesta include esplicitamente [runs>il seguente così come ]qualsiasi altro servizio e compagnia dei quali voi siete titolari del trattamento come definito dall'Articolo 4(7) del GDPR[runs>: {runs_list}].
+
+Come previsto dall'Articolo 12(3) del GDPR, dovete confermarmi la rettifica senza ingiustificato ritardo e, comunque, al più tardi entro un mese dal ricevimento della richiesta stessa.
+[has_fields>
+Includo le seguenti informazioni necessarie a identificarmi:
+{id_data}]
+Se non risponderete alla mia richiesta entro il periodo indicato, io mi riservo il diritto d'intraprendere un'azione legale contro di voi e di presentare un reclamo all'autorità di controllo responsabile.
+
+Cordialmente,
