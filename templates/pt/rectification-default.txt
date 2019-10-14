@@ -6,7 +6,7 @@ As seguintes alterações devem ser feitas:
 {rectification_data}
 Caso você tenha divulgado os dados pessoais incorretos a terceiros, deverá informar minha solicitação de retificação a todos os destinatários, conforme estabelecido no Artigo 19 do RGPD. Por favor, também me informe sobre esses destinatários.
 
-Minha solicitação inclui explicitamente [runs>o seguinte, bem como] e quaisquer outros serviços e empresas para os quais você é o responsável, conforme definido no artigo 4 (7) do GDPR [runs>: {runs_list}].
+Minha solicitação inclui explicitamente [runs>o seguinte, bem como] e quaisquer outros serviços e empresas para os quais você é o responsável, conforme definido no artigo 4 (7) do RGPD [runs>: {runs_list}].
 
 Conforme estabelecido no artigo 12 (3) do RGPD, você deve me confirmar o quanto antes as alterações realizadas e, em qualquer caso, no prazo de um mês após a recepção do pedido.
 [has_fields>

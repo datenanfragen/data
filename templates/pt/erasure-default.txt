@@ -1,0 +1,25 @@
+A quem possa interessar:
+
+Por este meio, solicito o apagamento imediato dos dados pessoais a meu respeito, de acordo com o Artigo 17 do RGPD.
+
+[erase_all>Por favor apague todos os dados pessoais relacionados a mim, conforme definido no artigo 4 (1) do RGPD.][erase_some>Por favor exclua os seguintes dados pessoais a meu respeito:
+{erasure_data}]
+
+Eu acho que os requisitos estabelecidos no artigo 17 (1) do RGPD foram cumpridos.
+
+Se concordei com o tratamento dos meus dados pessoais (por exemplo, de acordo com o Artigo 6 (1) ou Artigo 9 (2) do RGPD), retiro o referido consentimento.
+Além disso, me oponho ao tratamento de dados pessoais que me dizem respeito (o que inclui perfilamento), de acordo com o Artigo 21 do RGPD.
+
+Caso tenha divulgado os dados pessoais afetados a terceiros, vocês devem comunicar minha solicitação de apagamento dos dados pessoais afetados, bem como quaisquer referências a eles, a cada destinatário, conforme estabelecido no Artigo 19 do RGPD. Por favor, me informe também sobre esses destinatários.
+
+Se vocês se opuserem à eliminação solicitada, precisarão me justificar.
+
+Minha solicitação inclui explicitamente [runs>os seguintes, bem como] quaisquer outros serviços e empresas para os quais vocês são os responsáveis, conforme definido no artigo 4 (7) do RGPD[runs>: {runs_list}].
+
+Conforme estabelecido no artigo 12 (3) do RGPD, vocês devem me confirmar o apagamento sem demora injustificada e, em qualquer caso, no prazo de um mês após a recepção do pedido.
+[has_fields>
+Estou incluindo as seguintes informações necessárias para me identificar:
+{id_data}]
+Se vocês não responderem à minha solicitação dentro do prazo estipulado, reservo-me o direito de tomar uma ação legal contra vocês e de apresentar uma reclamação à autoridade supervisora ​​responsável.
+
+Atenciosamente,
