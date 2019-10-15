@@ -36,7 +36,7 @@
             "type": "name"
         },
         {
-            "desc": "Adresse",
+            "desc": "Address",
             "type": "address"
         }
     ]
