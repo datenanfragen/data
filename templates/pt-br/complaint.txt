@@ -1,0 +1,13 @@
+A quem possa interessar:
+
+Por meio deste, estou apresentando uma queixa de acordo com o Artigo 77 do RGPD. No dia {request_date}, enviei uma solicitação de acordo com o artigo {request_article} do RGPD para o seguinte responsável:
+{request_recipient_address}
+
+{Descrição das violações do responsável e as medidas tomadas (por exemplo, avisos ou outra correspondência, inclua recibos)}.
+
+É por isso que estou apresentando esta queixa a você. Por favor, verifique esta prática pelo responsável e conduza-os a seguir meu pedido.
+
+Se precisar de mais detalhes, não hesite em contactar-me. Você pode entrar em contato comigo {descrição da maneira de entrar em contato com você, por exemplo: endereço de e-mail, endereço postal, número de telefone}. [optional: mantenha essas informações em sigilo para manter meu anonimato.]
+Agradeço antecipadamente por sua ajuda.
+
+Atenciosamente,
