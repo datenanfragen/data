@@ -1,0 +1,29 @@
+{
+    "slug": "hekde",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "HEK Hanseatische Krankenkasse",
+    "address": "Datenschutzbeauftragter\nWandsbeker Zollstraße 86-90\n22041 Hamburg",
+    "phone": "0800 0213213",
+    "fax": "040 65696-1237",
+    "email": "datenschutz@hek.de",
+    "web": "https://www.hek.de",
+    "sources": [
+        "https://www.hek.de/datenschutz/",
+        "https://www.hek.de/impressum/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}
