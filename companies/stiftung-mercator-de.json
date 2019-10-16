@@ -19,5 +19,6 @@
             "desc": "Adresse",
             "type": "address"
         }
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
