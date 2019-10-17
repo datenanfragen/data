@@ -25,12 +25,12 @@
         {
             "desc": "Name",
             "type": "input",
-            "optional": true
+            "optional": false
         },
         {
             "desc": "E-Mail",
             "type": "input",
-            "optional": true
+            "optional": false
         }
     ],
     "suggested-transport-medium": "email"
