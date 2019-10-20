@@ -56,9 +56,9 @@ def deploy_index(index, directory, fields):
 
 client = typesense.Client({
     'master_node': {
-        'host': 'localhost',
-        'port': '8108',
-        'protocol': 'http',
+        'host': 'search.datenanfragen.de',
+        'port': '443',
+        'protocol': 'https',
         'api_key': os.environ['TYPESENSE_API_KEY']
     },
     'timeout_seconds': 2
