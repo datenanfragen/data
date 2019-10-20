@@ -4,7 +4,7 @@
         "de"
     ],
     "name": "ESTW - Erlanger Stadtwerke AG",
-    "address": "Äußere Brucker Straße 33\n91052 Erlangen",
+    "address": "Äußere Brucker Straße 33\n91052 Erlangen\nDeutschland",
     "phone": "+49 9131 8230",
     "fax": "+49 9131 8234733",
     "email": "datenschutz@estw.de",
@@ -13,4 +13,5 @@
         "https://www.estw.de/de/Home/Impressum",
         "https://www.estw.de/de/Home/Datenschutz/Rechte-Seite/informationen-datenschutz-2019-v1-01.pdf"
     ]
+    "suggested-transport-medium": "email"
 }
