@@ -4,9 +4,9 @@ import json
 
 client = typesense.Client({
     'master_node': {
-        'host': '127.0.0.1',
-        'port': '8108',
-        'protocol': 'http',
+        'host': 'search.datenanfragen.de',
+        'port': '443',
+        'protocol': 'https',
         'api_key': os.environ['TYPESENSE_API_KEY']
     },
     'timeout_seconds': 2
