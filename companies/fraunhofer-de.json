@@ -78,13 +78,14 @@
         "Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren IZFP",
         "Fraunhofer-Institut für Zuverlässigkeit und Mikrointegration IZM"
     ],
-    "address": "Hansastraße 27 c\n80686 München",
+    "address": "Hansastraße 27 c\n80686 München\nDeutschland",
     "phone": "+49 89 12050",
-    "fax": "+49 89 12057531 ",
+    "fax": "+49 89 12057531",
     "email": "datenschutz@zv.fraunhofer.de",
     "web": "https://www.fraunhofer.de",
     "sources": [
         "https://www.fraunhofer.de/de/impressum.html",
         "https://www.fraunhofer.de/de/datenschutzerklaerung.html"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
