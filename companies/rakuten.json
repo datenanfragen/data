@@ -1,0 +1,20 @@
+{
+    "slug": "rakuten-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Rakuten Deutschland GmbH",
+    "address": "Geisfelder Str. 16\n96050 Bamberg\nDeutschland",
+    "phone": "+49 951 40 83 91 09",
+    "fax": " \t+49 (0)951 / 408 39 109",
+    "email": "datenschutz@rakuten.de",
+    "web": "https://www.rakuten.de/",
+    "sources": [
+        "https://www.rakuten.de/info/datenschutz",
+        "https://www.rakuten.de/info/impressum"
+    ],
+    "suggested-transport-medium": "email"
+}
