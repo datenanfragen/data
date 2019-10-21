@@ -1,19 +1,19 @@
 {
     "slug": "danskebank",
     "relevant-countries": [
-        "dk"
+        "dk","uk","de"
     ],
     "categories": [
         "finance"
     ],
     "name": "Danske Bank",
-    "address": "Danske Bank A/S, Holmens Kanal 2-12, 1092 København K, Denmark",
+    "address": "Danske Bank A/S\n Holmens Kanal 2-12\n 1092 København K\n Denmark",
     "phone": "+45 33 44 00 00",
-    "email": "danskebank@danskebank.dk",
+    "email": "dpofunction@danskebank.com",
     "web": "https://danskebank.com/",
     "sources": [
-        "https://danskebank.co.uk/privacy-statement-and-use-of-cookies%20",
+        "https://danskebank.co.uk/privacy-statement-and-use-of-cookies",
         "https://danskebank.com/contact-us"
     ],
-    "request-language": "en"
+    "suggested-transport-medium": "email"
 }
