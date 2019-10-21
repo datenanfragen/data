@@ -15,9 +15,7 @@
     "web": "https://www.lufthansa.com",
     "sources": [
         "https://www.lufthansa.com/de/de/Informationen-zum-Datenschutz",
-        "https://www.lufthansa.com/de/de/Lufthansa-ID-Privacy-Statement",
-        "https://www.lufthansa.com/online/portal/lh/de/info_and_services/partner?nodeid=1756522&l=de&cid=18002",
-        "https://www.lufthansa.com/de/de/Hotlines-weltweit"
+        "https://www.lufthansa.com/de/de/support/contact"
     ],
     "relevant-countries": [
         "de"
