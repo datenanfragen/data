@@ -1,4 +1,4 @@
-Guten Tag,
+Sehr geehrte Damen, Herren und *,
 
 am {request_date} hatte ich bei Ihnen eine Anfrage nach Art. {request_article} DSGVO gestellt.
 {Beschreibung des Problems, z. B.: Leider erhielt ich bisher keine Antwort von Ihnen. Damit ist die Frist von einem Monat nach Art. 12 Abs. 3 S. 1 DSGVO überschritten.}

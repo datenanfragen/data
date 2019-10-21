@@ -1,4 +1,4 @@
-Guten Tag,
+Sehr geehrte Damen, Herren und *,
 
 hiermit möchte ich Beschwerde nach Art. 77 DSGVO einreichen. Am {request_date} hatte ich mich mit einer Anfrage nach Art. {request_article} DSGVO an folgenden Verantwortlichen gewandt:
 {request_recipient_address}
