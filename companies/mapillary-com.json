@@ -29,6 +29,5 @@
             "type": "input"
         }
     ],
-    "request-language": "en",
-    "suggested-transport-medium": "email"
+    "request-language": "en"
 }
