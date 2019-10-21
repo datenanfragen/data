@@ -1,0 +1,17 @@
+{
+    "slug": "heise-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Heise Medien GmbH & Co. KG",
+    "address": "Karl-Wiechert-Allee 10\n30625 Hannover\nDeutschland",
+    "phone": "+49 511 53520",
+    "fax": "+49 511 5352129",
+    "email": "datenschutz@heise.de",
+    "web": "https://www.heise.de",
+    "sources": [
+        "https://www.heise.de/impressum.html",
+        "https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html"
+    ],
+    "suggested-transport-medium": "email"
+}
