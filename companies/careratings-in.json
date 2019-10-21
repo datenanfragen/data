@@ -1,0 +1,17 @@
+{
+    "slug": "careratings-in",
+    "relevant-countries": [
+        "in"
+    ],
+    "name": "CARE RATINGS",
+    "address": "CARE Ratings Limited 4th Floor, Godrej Coliseum, Somaiya Hospital Road, Off Eastern Express Highway, Sion (East), Mumbai - 400 022.",
+    "phone": "+91 022 6754 3456",
+    "fax": "+91 022 6754 3457",
+    "email": "care@careratings.com",
+    "web": "http://www.careratings.com/",
+    "sources": [
+        "http://www.careratings.com/about-us.aspx",
+        "http://www.careratings.com/resources/monthly-rating-list.aspx"
+    ],
+    "suggested-transport-medium": "email"
+}
