@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  test:
+  build:
       docker:
         - image: circleci/python:3.7-buster
       steps:
@@ -21,8 +21,8 @@ jobs:
               python test-records.py
 
         - save_cache:
-          key: deps9-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
-          paths:
-            - ".venv"
-            - "/usr/local/bin"
-            - "/usr/local/lib/python3.6/site-packages"
+            key: deps9-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+            paths:
+              - ".venv"
+              - "/usr/local/bin"
+              - "/usr/local/lib/python3.6/site-packages"
