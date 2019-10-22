@@ -25,5 +25,15 @@
     "relevant-countries": [
         "de"
     ],
+     "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "suggested-transport-medium": "email"
 }

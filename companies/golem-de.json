@@ -1,0 +1,16 @@
+{
+    "slug": "golem-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Golem Media GmbH",
+    "address": "Wilhelmine-Gemberg-Weg 5-7\n10179 Berlin\nDeutschland",
+    "phone": "+49 30 62901110",
+    "email": "datenschutz@golem.de",
+    "web": "https://www.golem.de",
+    "sources": [
+        "https://www.golem.de/sonstiges/impressum.html",
+        "https://www.golem.de/sonstiges/Datenschutz.html"
+    ],
+    "suggested-transport-medium": "email"
+}
