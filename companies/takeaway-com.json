@@ -1,0 +1,58 @@
+{
+    "slug": "takeaway-com",
+    "relevant-countries": [
+        "bg",
+        "de",
+        "at",
+        "ro",
+        "lu",
+        "pt",
+        "pl",
+        "be",
+        "ch",
+        "nl",
+        "il"
+    ],
+    "name": "Takeaway.com N.V.",
+    "runs": [
+        "БГменю ЕООД",
+        "Lieferando",
+        "yd.yourdelivery GmbH",
+        "Hello Hungry SA",
+        "Takeaway.com",
+        "Pyszne.pl",
+        "Thuisbezorgd.nl",
+        "10bis"
+    ],
+    "address": "Oosterdoksstraat 80\n1011 DK Amsterdam\nNederland",
+    "phone": "+31 20 210 7000",
+    "email": "privacy-concerns@takeaway.com",
+    "web": "https://takeaway.com",
+    "sources": [
+        "https://corporate.takeaway.com",
+        "https://www.takeaway.com/bg/pravna-informatsia",
+        "https://corporate.takeaway.com/governance/corporate-governance/",
+        "https://www.lieferando.de/privacy-statement",
+        "https://www.lieferando.de/impressum",
+        "https://www.lieferando.at/impressum",
+        "https://www.takeaway.com/ro/conditii-de-utilizare",
+        "https://www.takeaway.com/lu-en/colofon",
+        "https://www.takeaway.com/pt/termos-de-uso",
+        "https://www.pyszne.pl/o-nas",
+        "https://www.takeaway.com/be-en/colofon",
+        "https://www.takeaway.com/ch-en/colofon",
+        "https://www.thuisbezorgd.nl/colofon",
+        "https://www.10bis.co.il/next/privacyPolicy"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
