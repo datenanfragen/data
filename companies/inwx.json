@@ -16,5 +16,15 @@
         "https://www.inwx.de/de/aboutus/imprint",
         "https://www.inwx.de/de/aboutus/dataprotection"
     ],
+    "required-elements": [
+         {
+             "desc": "Name",
+             "type": "name"
+         },
+         {
+             "desc": "Adresse",
+             "type": "address"
+         }
+     ],
     "suggested-transport-medium": "email"
 }
