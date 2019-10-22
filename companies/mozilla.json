@@ -1,0 +1,21 @@
+{
+    "slug": "mozilla",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "nonprofit",
+        "telecommunication"
+    ],
+    "name": "Mozilla Corporation",
+    "runs": [
+        "Firefox"
+    ],
+    "address": "331 E. Evelyn Ave\nMountain View\nCA 94041\nUnited States of America",
+    "email": "compliance@mozilla.com",
+    "web": "https://www.mozilla.org/en-US/",
+    "sources": [
+        "https://www.mozilla.org/en-US/privacy/"
+    ],
+    "suggested-transport-medium": "email"
+}
