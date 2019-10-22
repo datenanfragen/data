@@ -1,0 +1,29 @@
+{
+    "slug": "dm-drogerie",
+    "relevant-countries": [
+        "de",
+        "at",
+        "cz",
+        "it",
+        "ro",
+        "hu",
+        "rs",
+        "ba",
+        "hr",
+        "si",
+        "sk",
+        "mk",
+        "bg"
+    ],
+    "name": "dm-drogerie markt GmbH + Co. KG",
+    "address": "Am dm-Platz 1\n76227 Karlsruhe\nDeutschland",
+    "phone": "+49 721 55920",
+    "fax": "+49 0721 552213",
+    "email": "datenschutz@dm.de",
+    "web": "https://www.dm.de",
+    "sources": [
+        "https://www.dm.de/impressum-c469846.html",
+        "https://www.dm.de/datenschutz-c469442.html",
+        "https://www.dm.de/unternehmen/ueber-uns/zahlen-und-fakten"
+    ]
+}
