@@ -1,0 +1,15 @@
+To Whom It May Concern:
+
+I am hereby objecting to the processing of personal data concerning me for direct marketing purposes according to Article 21(2) GDPR. This objection includes the use for profiling to the extent that it is related to direct marketing.
+
+If I have given consent to the processing of my personal data for direct marketing purposes (e.g. according to Article 6(1) or Article 9(2) GDPR), I am hereby withdrawing said consent.
+
+My request explicitly includes [runs>the following as well as ]any other services and companies for which you are the controller as defined by Article 4(7) GDPR[runs>: {runs_list}].
+
+As laid down in Article 12(3) GDPR, you have to confirm the objection to me without undue delay and in any event within one month of receipt of the request.
+
+I am including the following information necessary to identify me:
+{id_data}
+If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
+
+Yours sincerely,
