@@ -1,0 +1,33 @@
+{
+    "slug": "fymio-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "fymio",
+    "address": "Beuthener Str. 25\n90471 Nürnberg\nDeutschland",
+    "phone": "+49 911 53900",
+    "fax": "+49 911 53902222",
+    "email": "service@www.fymio.de",
+    "web": "https://www.fymio.de",
+    "sources": [
+        "https://www.fymio.de/datenschutz/",
+        "https://www.fymio.de/impressum/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ]
+}
