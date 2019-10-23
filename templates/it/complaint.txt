@@ -1,0 +1,13 @@
+A chi di competenza:
+
+Io sottoscritto con la presente sporgo reclamo secondo l'Articolo 77 del GDPR. In data {request_date}, ho mandato una richiesta secondo l'Articolo {request_article} del GDPR al seguente titolare del trattamento:
+{request_recipient_address}
+
+{Descrizione delle violazioni subite dal titolare del trattamento e delle misure che hai intrapreso (e.g. ammonizione o altra corrispondenza, includi ricevute)}. 
+
+Per questo motivo sto presentando un reclamo a voi. Per favore verificate questa pratica con il titolare del trattamento e fategli rispettare la mia richiesta.
+
+Se avete bisogno di più dettagli, per favore sentitevi liberi di contattarmi. Mi potete raggiungere {descrizione di come contattarti, e.g. indirizzo email, indirizzo postale, numero di telefono}. [optional: Per favore mantenete queste informazioni private per conservare la mia anonimità.]
+Grazie in anticipo per il vostro aiuto.
+
+Cordialmente,

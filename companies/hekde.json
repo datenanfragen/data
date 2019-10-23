@@ -1,0 +1,30 @@
+{
+    "slug": "hekde",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "HEK Hanseatische Krankenkasse",
+    "address": "Wandsbeker Zollstraße 86-90\n22041 Hamburg",
+    "phone": "+49 800 0213213",
+    "fax": "+49 40 656961237",
+    "email": "datenschutz@hek.de",
+    "web": "https://www.hek.de",
+    "sources": [
+        "https://www.hek.de/datenschutz/",
+        "https://www.hek.de/impressum/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}

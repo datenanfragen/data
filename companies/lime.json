@@ -1,0 +1,58 @@
+{
+    "slug": "lime",
+    "relevant-countries": [
+        "us",
+        "au",
+        "br",
+        "cl",
+        "at",
+        "be",
+        "bg",
+        "ca",
+        "co",
+        "cz",
+        "dk",
+        "fi",
+        "fr",
+        "de",
+        "gr",
+        "hu",
+        "il",
+        "it",
+        "mx",
+        "nz",
+        "no",
+        "pl",
+        "pt",
+        "ro",
+        "sg",
+        "es",
+        "se",
+        "ch",
+        "gb",
+        "uy"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Lime Electric Ireland Limited",
+    "address": "Suite 305\nThe Masonry Building\n151 Thomas street\nDublin 8\nIreland",
+    "email": "dpo@li.me",
+    "web": "https://www.li.me",
+    "sources": [
+        "https://www.li.me/locations",
+        "https://www.li.me/privacy",
+        "https://www.li.me/myinformation"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}

@@ -1,0 +1,37 @@
+{
+    "slug": "ada-health",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Ada Health GmbH",
+    "runs": [
+        "Doctor Chat",
+        "Ada – your health companion",
+        "Ada Digital Health Ltd.",
+        "Ada Health, Inc."
+    ],
+    "address": "Adalbertstraße 20\n10997 Berlin\nDeutschland",
+    "phone": "+49 030 600 31987",
+    "email": "legal@ada.com",
+    "web": "https://ada.com",
+    "sources": [
+        "https://ada.com/privacy-policy/",
+        "https://ada.com/imprint/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
