@@ -12,7 +12,8 @@
     "email": "datenschutzbeauftragter-tarifhaus@holzhofer-consulting.de",
     "web": "https://www.tarifhaus.de",
     "sources": [
-        "https://www.tarifhaus.de/datenschutz"
+        "https://www.tarifhaus.de/datenschutz",
+        "https://github.com/datenanfragen/data/issues/330"
     ],
     "required-elements": [
         {
