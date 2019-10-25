@@ -25,6 +25,5 @@
             "desc": "Email",
             "type": "input"
         }
-    ],
-    "request-language": "en"
+    ]
 }
