@@ -16,6 +16,6 @@
         "https://www.ligatus.com/de/privacy-policy",
         "https://www.ligatus.com/de/imprint"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

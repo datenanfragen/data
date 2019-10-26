@@ -19,7 +19,7 @@
         "https://www.tapad.com/about-us/find-us"
     ],
     "request-language": "en",
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "comments": [
         "Address in the US: 60 Madison Ave, 3rd Floor, New York, NY 10010, United States of America"

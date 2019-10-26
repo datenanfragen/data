@@ -1,0 +1,28 @@
+A chi di competenza:
+
+Io sottoscritto richiedo accesso secondo l'articolo 15 del GDPR. Chiedo cortesemente la conferma che sia in corso o meno un trattamento di dati personali (come definito dall'Articolo 4(1) e (2) del GDPR) riguardanti me.
+
+In caso di conferma, io sottoscritto richiedo accesso alle seguenti informazioni ai sensi dell'Articolo 15 del GDPR:
+1. <italic>tutti</italic> i dati personali riguardanti la mia persona che sono conservati;
+2. le finalità del trattamento;
+3. le categorie di dati personali coinvolti;
+4. i destinatari o le categorie di destinatari a cui i dati personali sono stati o saranno comunicati;
+5. dove possibile, il periodo di conservazione dei dati personali previsto, o, se non possibile, il criterio usato per determinare tale periodo;
+6. l’origine dei dati (ovvero il soggetto o la specifica fonte dalla quale essi sono stati acquisiti);
+7. l'esistenza di un processo decisionale automatizzato, inclusa la profilazione, come specificato nell'Articolo 22(1) e (4) del GDPR e, almeno in quei casi, informazioni significative sulla logica utilizzata, nonché l'importanza e le conseguenze previste di tale trattamento per l'interessato.
+
+Se i dati del sottoscritto sono trasferiti a un paese terzo o a un'organizzazione internazionale, io richiedo di essere informato circa le appropriate misure di protezione ai sensi dell'Articolo 46 del GDPR riguardante il trasferimento.
+[data_portability>
+Io sottoscritto prego di ricevere i miei dati personali, che vi ho fornito, in un formato strutturato, di uso comune e leggibile da dispositivo automatico come previsto nell'Articolo 20(1) del GDPR.
+]
+La mia richiesta include esplicitamente [runs>il seguente così come ]qualsiasi altro servizio e compagnia dei quali voi siete titolari del trattamento come definito dall'Articolo 4(7) del GDPR[runs>: {runs_list}].
+
+Come previsto dall'Articolo 12(3) del GDPR, dovete fornirmi le informazioni richieste senza ingiustificato ritardo e, comunque, al più tardi entro un mese dal ricevimento della richiesta stessa. Ai sensi dell'Articolo 15(3) del GDPR, dovete rispondere a questa richiesta gratuitamente.
+
+Per favore comunicatemi quali informazioni (ID cookie, ID del dispositivo per pubblicità, ecc.) vi sono necessarie per identificarmi e spiegatemi come ottenere tali informazioni.
+[has_fields>
+I miei contatti sono i seguenti:
+{id_data}]
+Se non risponderete alla mia richiesta entro il periodo indicato, io mi riservo il diritto d'intraprendere un'azione legale contro di voi e di presentare un reclamo all'autorità di controllo responsabile.
+
+Cordialmente,

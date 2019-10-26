@@ -15,5 +15,5 @@
         "https://varickmm.com/privacy/",
         "https://varickmm.com/contact/"
     ],
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

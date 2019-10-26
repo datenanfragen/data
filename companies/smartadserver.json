@@ -18,6 +18,6 @@
         "https://smartadserver.com/corporate-privacy-policy/",
         "https://smartadserver.com/legal-mentions/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

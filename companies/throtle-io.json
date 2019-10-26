@@ -13,5 +13,5 @@
     "sources": [
         "https://throtle.io/privacy/"
     ],
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

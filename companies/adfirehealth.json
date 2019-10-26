@@ -14,6 +14,6 @@
     "sources": [
         "https://adfirehealth.com/privacy-policy/"
     ],
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

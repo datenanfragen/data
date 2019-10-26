@@ -17,5 +17,5 @@
         "https://www.digitize.ie/#contact"
     ],
     "request-language": "en",
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

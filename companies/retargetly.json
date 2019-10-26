@@ -12,5 +12,5 @@
     "sources": [
         "https://retargetly.com/privacy-policy"
     ],
-    "custom-access-template": "access-tracking.txt"
+    "custom-access-template": "access-tracking"
 }

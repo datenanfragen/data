@@ -1,0 +1,43 @@
+{
+    "slug": "voiscooterscom",
+    "relevant-countries": [
+        "de",
+        "es",
+        "pt",
+        "fr",
+        "nl",
+        "ch",
+        "it",
+        "at",
+        "dk",
+        "se",
+        "no",
+        "fi"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Voi Technology AB",
+    "runs": [
+        "Voi Technology Germany GmbH"
+    ],
+    "address": "Östermalmsgatan 26\n114 26 Stockholm\nSweden",
+    "phone": "+46 21 665 59 22",
+    "email": "info@voiapp.io",
+    "web": "https://www.voiscooters.com",
+    "sources": [
+        "https://www.voiscooters.com/de/voi-privacy-policy/",
+        "https://www.voiscooters.com/de/legal-notice/",
+        "https://www.voiscooters.com/de/voi-technology/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        }
+    ]
+}

@@ -17,6 +17,6 @@
         "https://impressiondesk.com/end-user-privacy-notice/"
     ],
     "request-language": "en",
-    "custom-access-template": "access-tracking.txt",
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email"
 }

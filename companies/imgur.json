@@ -9,11 +9,13 @@
     ],
     "name": "Imgur Inc.",
     "address": "415 Jackson Street\n2nd Floor\nSuite 200\nSan Francisco\nCA 94111\nUnited States of America",
+    "email": "privacy@imgur.com",
     "web": "https://imgur.com/",
     "sources": [
         "https://imgur.com/privacy",
         "https://imgur.com/tos",
-        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=252810438"
+        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=252810438",
+        "https://github.com/datenanfragen/data/issues/275"
     ],
     "required-elements": [
         {

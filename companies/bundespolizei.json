@@ -33,7 +33,7 @@
         }
     ],
     "request-language": "de",
-    "custom-access-template": "access-bundespolizei.txt",
+    "custom-access-template": "access-bundespolizei",
     "needs-id-document": true,
     "suggested-transport-medium": "email"
 }

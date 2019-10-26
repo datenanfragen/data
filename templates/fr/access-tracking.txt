@@ -1,0 +1,28 @@
+À qui de droit :
+
+Je viens par la présente, demander l'accès conformément à l'article 15 du RGPD. Veuillez confirmer si vous traitez ou non des données à caractère personnel (comme défini dans l'article 4(1) et (2) du RGPD) me concernant.
+
+Si c'est le cas, je demande l'accès aux informations suivantes conformément à l'article 15 du RGPD :
+1. <italic>Toutes</italic> données personnelles me concernant que vous avez conservées;
+2. les motifs du traitement;
+3. les catégories de données à caractère personnel impliquées;
+4. les destinataires ou les catégories de destinataires auxquels les données personnelles ont été, ou seront divulguées;
+5. si possible, la durée envisagée de conservation des données à caractère personnel ou, si cela n'est pas possible, les critères utilisés pour déterminer cette durée;
+6. lorsque les données à caractère personnel ne sont pas collectées auprès de la personne concernée, toute information disponible sur l'origine de ces données;
+7. l'existence d'un processus décisionnel automatisé, y compris le profilage, mentionné l'article 22(1) et (4), du RGPD et, au moins dans ces cas, des informations utiles sur la logique appliquée, ainsi que la signification et les conséquences envisagées de ce traitement pour moi.
+
+Si vous transférez mes données à caractère personnel vers un pays tiers ou une organisation internationale, je demande à être informé des garanties appropriées concernant le transfert, conformément à l'article 46 du RGPD.
+[data_portability>
+Veuillez mettre à ma disposition les données à caractère personnel me concernant que je vous ai fournies dans un format structuré, couramment utilisé et lisible par machine, conformément à l'article 20(1), du RGPD.
+]
+Ma demande comprend explicitement [runs>ce qui suit ainsi que ]tous les autres services et sociétés dont vous êtes responsable comme défini dans l'article 4(7), du RGPD[runs>: {runs_list}].
+
+Conformément à l'article 12(3), du RGPD, vous devez me fournir les informations demandées dans les meilleurs délais et, dans tout les cas, dans un délai d'un mois après réception de la demande. Conformément à l'article 15(3), du RGPD, vous devez répondre à cette demande sans frais de ma part.
+
+Veuillez me dire quelles sont les informations (ID du cookie, ID publicitaire de l'appareil, etc.) dont vous avez besoin pour m'identifier et m'expliquer comment obtenir ces informations.
+[has_fields>
+Mes coordonnées sont les suivantes :
+{id_data}]
+Si vous ne répondez pas à ma demande dans le délai imparti, je me réserve le droit d'intenter une action en justice contre vous et d'introduire une plainte auprès de l'autorité de contrôle compétente.
+
+Cordialement,
