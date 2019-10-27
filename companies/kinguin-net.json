@@ -1,0 +1,31 @@
+{
+    "slug": "kinguin-net",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Kinguin Digital Limited",
+    "address": "8 / F On Hing Building\nOn Hing Terrace\nCentral\nHong Kong",
+    "email": "gdpr@kinguin.io",
+    "web": "https://www.kinguin.net",
+    "sources": [
+        "https://www.kinguin.net/privacy-policy-cookie-restriction-mode"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
