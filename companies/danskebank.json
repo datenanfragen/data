@@ -1,0 +1,28 @@
+{
+    "slug": "danskebank",
+    "relevant-countries": [
+        "dk",
+        "gb",
+        "de",
+        "ee",
+        "fi",
+        "in",
+        "ie",
+        "lv",
+        "lt",
+        "ru"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Danske Bank",
+    "address": "Danske Bank A/S\nHolmens Kanal 2-12\n1092 København K\nDenmark",
+    "phone": "+45 33 44 00 00",
+    "email": "dpofunction@danskebank.com",
+    "web": "https://danskebank.com/",
+    "sources": [
+        "https://danskebank.co.uk/privacy-statement-and-use-of-cookies",
+        "https://danskebank.com/contact-us"
+    ],
+    "suggested-transport-medium": "email"
+}
