@@ -1,0 +1,40 @@
+{
+    "slug": "goodhood-eu",
+    "relevant-countries": [
+        "de",
+        "fr",
+        "es",
+        "it"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Good Hood GmbH",
+    "runs": [
+        "nebenan.de",
+        "mesvoisins.fr",
+        "¿Tienes sal?",
+        "vicinimiei.it"
+    ],
+    "address": "Köpenicker Str. 154\n10997 Berlin\nGermany",
+    "phone": "+49 30 346557760",
+    "email": "contact@goodhood.eu",
+    "web": "https://goodhood.eu",
+    "sources": [
+        "https://goodhood.eu"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ]
+}
