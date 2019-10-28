@@ -1,0 +1,31 @@
+{
+    "slug": "openpetition-de",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "openPetition gGmbH",
+    "address": "Greifswalder Str. 4\n10405 Berlin\nDeutschland",
+    "email": "datenschutz@openpetition.de",
+    "web": "https://www.openpetition.de",
+    "sources": [
+        "https://www.openpetition.de/content/data_privacy"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
