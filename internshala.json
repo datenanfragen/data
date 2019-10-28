@@ -1,0 +1,32 @@
+{
+    "slug": "internshala",
+    "relevant-countries": [
+        "india"
+    ],
+    "name": "Internshala",
+    "runs": [
+        "Internshala",
+        "Internships",
+        "Training",
+        
+    ],
+    "address": "Scholiverse Educare Pvt. Ltd. B-610, Unitech Business Zone, Nirvana Country, South City 2, Gurgaon, India - 122018",
+    "email": "sarvesh@adobe.com",
+    "web": "https://www.internshala.com",
+    "sources": [
+        "https://internshala.com/privacy",
+        "https://internshala.com/terms",
+        "https://internshala.com/about_us"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
