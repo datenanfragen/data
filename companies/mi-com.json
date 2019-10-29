@@ -1,0 +1,32 @@
+{
+    "slug": "mi-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Xiaomi Communications Co., Ltd.",
+    "runs": [
+        "Xiaomi Technology Netherlands B.V.",
+        "Xiaomi Singapore Pte. Ltd."
+    ],
+    "address": "c/o Wework Room 04-106\nStrawinskylaan 4117 4th Floor\n1017 ZX Amsterdam\nNetherlands",
+    "email": "privacy@xiaomi.com",
+    "web": "https://mi.com",
+    "sources": [
+        "https://privacy.mi.com/all/de_DE/",
+        "https://www.wework.com/buildings/strawinskylaan-4117--amsterdam"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ]
+}
