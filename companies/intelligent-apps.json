@@ -1,5 +1,16 @@
 {
     "slug": "intelligent-apps",
+    "relevant-countries": [
+        "de",
+        "pl",
+        "gb",
+        "pt",
+        "se",
+        "it",
+        "es",
+        "at",
+        "ie"
+    ],
     "categories": [
         "travel"
     ],
@@ -16,7 +27,8 @@
         "https://free-now.com/de/impressum/",
         "https://free-now.com/de/agb-datenschutz-cookies/",
         "https://github.com/datenanfragen/data/issues/344",
-        "https://www.crunchbase.com/organization/intelligent-apps-mytaxi"
+        "https://www.crunchbase.com/organization/intelligent-apps-mytaxi",
+        "https://free-now.com/de/fahrgast/europa/"
     ],
     "required-elements": [
         {
