@@ -1,0 +1,35 @@
+{
+    "slug": "intelligent-apps",
+    "categories": [
+        "travel"
+    ],
+    "name": "Intelligent Apps GmbH",
+    "runs": [
+        "myTaxi",
+        "FREE NOW"
+    ],
+    "address": "Große Elbstraße 273\n22767 Hamburg\nDeutschland",
+    "phone": "+49 40 30606890",
+    "email": "kundenservice@free-now.com",
+    "web": "https://free-now.com",
+    "sources": [
+        "https://free-now.com/de/impressum/",
+        "https://free-now.com/de/agb-datenschutz-cookies/",
+        "https://github.com/datenanfragen/data/issues/344",
+        "https://www.crunchbase.com/organization/intelligent-apps-mytaxi"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ]
+}
