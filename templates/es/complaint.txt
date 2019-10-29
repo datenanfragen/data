@@ -1,7 +1,7 @@
 A quien le interese: 
 
 Por la presente estoy presentando una queja de acuerdo don el artículo 77 del RGPD. En {fecha_de_petición}, envié una petición de acuerdo con el artículo {request_article} del RGPD al siguiente controlador: 
-{direccion_receptor_de_petición}
+{request_recipient_address}
 
 {Descripción de las ofensas cometidas por el controlador y los pasos que usted tomó al respecto (p.ej. amonestaciones u otra correspondencia, incluya recibos)}. 
 
