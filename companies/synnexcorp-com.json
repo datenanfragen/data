@@ -1,0 +1,33 @@
+{
+    "slug": "synnexcorp-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "SYNNEX Corporation",
+    "runs": [
+        "Concentrix Corporation",
+        "Hyve Solutions Corporation",
+        "New Age Electronics"
+    ],
+    "address": "44201 Nobel Drive\nFremont\nCA 94538\nUSA",
+    "phone": "+1 510 656 3333",
+    "fax": "+1 510 668 3777",
+    "email": "cshelp@synnex.com",
+    "web": "https://www.synnexcorp.com",
+    "sources": [
+        "https://www.synnexcorp.com/contact-us/",
+        "https://www.synnexcorp.com/copyright-policy/",
+        "https://www.synnexcorp.com/us/about/contacts/",
+        "https://www.synnexcorp.com/newageelectronics/about-us/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        }
+    ]
+}
