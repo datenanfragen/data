@@ -1,5 +1,8 @@
 {
     "slug": "synnexcorp-com",
+    "relevant-countries": [
+        "all"
+    ],
     "name": "SYNNEX Corporation",
     "runs": [
         "Concentrix Corporation",
