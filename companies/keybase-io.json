@@ -1,0 +1,24 @@
+{
+    "slug": "keybase-io",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Keybase, Inc.",
+    "address": "85 Broad St. 18th Floor\nNew York\nNY 10004\nUSA",
+    "email": "privacy@keybase.io",
+    "web": "https://keybase.io",
+    "sources": [
+        "https://keybase.io/docs/privacypolicy"
+    ],
+    "required-elements": [
+        {
+            "desc": "Username",
+            "type": "input"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
