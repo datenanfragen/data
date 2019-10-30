@@ -1,8 +1,8 @@
 A quien le interese:
 
-El día {request_date} les envié una petición de acuerdo con el Artículo {request_article} del RGPD.
-{Descripción del problema, e.g.: Desafortunadamente, no he recibido una repuesta hasta el momento. El período de un mes de acuerdo con el Artículo 12(3) frase 1 del RGPD es por lo tanto excedido.}
+El día {request_date} les envié una petición de acuerdo con el artículo {request_article} del RGPD.
+{Descripción del problema, p.ej.: Desafortunadamente, no he recibido una repuesta hasta el momento. El período de un mes de acuerdo con el artículo 12(3) frase 1 del RGPD es por lo tanto excedido.}
 
-Es por eso que os estoy contactando de nuevo. Despúes de la llegada de esta amonestación, responded por favor mi petición de forma adecuada en un término de dos semanas. De lo contrario, me reservo el derecho de tomar acciones legales contra vosotros y a presentar una queja con la autoridad supervisora responsable.
+Es por eso que os estoy contactando de nuevo. Después de la llegada de esta amonestación, responded por favor mi petición de forma adecuada en un término de dos semanas. De lo contrario, me reservo el derecho de tomar acciones legales contra vosotros y a presentar una queja con la autoridad supervisora responsable.
 
 Atentamente,
