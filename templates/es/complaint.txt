@@ -1,13 +1,13 @@
 A quien le interese: 
 
-Por la presente estoy presentando una queja de acuerdo don el artículo 77 del RGPD. En {fecha_de_petición}, envié una petición de acuerdo con el artículo {request_article} del RGPD al siguiente controlador: 
+Por la presente estoy presentando una queja de acuerdo con el artículo 77 del RGPD. En {fecha_de_petición}, envié una petición de acuerdo con el artículo {request_article} del RGPD al siguiente controlador:
 {request_recipient_address}
 
-{Descripción de las ofensas cometidas por el controlador y los pasos que usted tomó al respecto (p.ej. amonestaciones u otra correspondencia, incluya recibos)}. 
+{Descripción de las ofensas cometidas por el controlador y los pasos que has tomado al respecto (p.ej. amonestaciones u otra correspondencia, incluyendo recibos)}.
 
-Es por eso que estoy presentando una queja con vosotros. Por favor revisen esta práctica con el controlador y hacer que cumplan con mi petición. 
+Es por eso que estoy presentando una queja con vosotros. Por favor revisen esta práctica con el controlador y hagan que cumplan con mi petición.
 
-Si necesitáis más detalles, por favor sentiros libres de contactarme. Podéis contactarme en {descripción de la forma de que lo contacten, p.ej. dirección de correo electrónico, dirección postal, número telefónico}. [opcional: Por favor mantened esta información privada para mantener mi anonimidad.]
-Gracias de antemano por vuestra ayuda. 
+Si necesitáis más detalles, por favor sentiros libres de contactarme. Podéis contactarme en {descripción de la forma en la que quieres ser contactado, p.ej. dirección de correo electrónico, dirección postal, número telefónico}. [opcional: Por favor mantened esta información privada para mantener mi anonimidad.]
+Gracias de antemano por vuestra ayuda.
 
-Atentamente, 
+Atentamente,
