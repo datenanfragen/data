@@ -1,0 +1,25 @@
+{
+    "slug": "dbrs-morningstar",
+    "relevant-countries": [
+        "us",
+        "ca",
+        "eu"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "DBRS Morningstar",
+    "address": "DBRS Limited, DBRS Tower 181 University Avenue, Suite 700, Toronto, ON  M5H 3M7",
+    "phone": "+1 416 593 5577",
+    "fax": "+1 416 593 8432",
+    "email": "info@dbrs.com ",
+    "web": "https://www.dbrs.com/",
+    "sources": [
+        "https://www.dbrs.com/about/",
+        "https://www.dbrs.com/contact/"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Phone numbers and addresses for different regions available at: https://www.dbrs.com/contact/"
+    ]
+}
