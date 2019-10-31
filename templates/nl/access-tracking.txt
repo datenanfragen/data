@@ -13,7 +13,7 @@ In het geval dat u dat doet, vraag ik hierbij toegang tot de volgende informatie
 
 Als u mijn persoonlijke gegevens overdraagt naar een derde land of een internationale organisatie, verzoek ik om te worden geïnformeerd over de passende waarborgen overeenkomstig met artikel 46 AVG betreffende de overdracht.
 [data_portability>
-Stel alstublieft de persoonlijke gegevens over mij, die ik u heb verstrekt, voor mij beschikbaar in een gestructureerd, algemeen gebruikt en machine leesbaar formaat zoals vastgesteld in artikel 20, lid 1, AVG.
+Stel alstublieft de persoonlijke gegevens over mij, die ik u heb verstrekt, voor mij beschikbaar in een gestructureerd, algemeen gebruikt en door een machine leesbaar formaat zoals vastgesteld in artikel 20, lid 1, AVG.
 ]
 Mijn verzoek omvat expliciet [runs>het volgende, evenals ]alle andere services en bedrijven waarvoor u de controleur bent zoals gedefinieerd in artikel 4, lid 7, AVG[runs>: {runs_list}].
 
