@@ -21,7 +21,7 @@ Zoals bepaald in Artikel 12, lid 3 AVG, you have to provide the requested inform
 
 Vriendlijk verzoek ik u om mij te vertellen welke informatie (cookie nummer, apparaatkenmerk, etc.) nodig is voor u om mijn identiteit vast te stellen en hoe ik die informatie kan verkrijgen.
 [has_fields>
-Ik neem de volgende informatie op die nodig is om mij te identificeren:
+Mijn contactgegevens zijn:
 {id_data}]
 Als u mijn verzoek niet binnen de gestelde termijn beantwoordt, behoud ik het recht voor om gerechtelijke stappen tegen u te ondernemen en een klacht in te dienen bij de verantwoordelijke toezichthoudende autoriteit.
 
