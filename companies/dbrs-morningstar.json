@@ -3,7 +3,10 @@
     "relevant-countries": [
         "us",
         "ca",
-        "eu"
+        "fr",
+        "it",
+        "es",
+        "dk"
     ],
     "categories": [
         "finance"
