@@ -1,5 +1,11 @@
 {
     "slug": "xn--gnstiger-reisen-zvb-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
     "name": "Günstiger Reisen Reisebüro GmbH",
     "address": "Mariendorfer Damm 147\n12107 Berlin\nDeutschland",
     "phone": "+49 30 994040181",
