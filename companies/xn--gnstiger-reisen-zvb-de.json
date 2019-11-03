@@ -7,8 +7,9 @@
     "email": "datenschutz@günstiger-reisen.de",
     "web": "https://www.günstiger-reisen.de",
     "sources": [
-        "https://www.günstiger-reisen.de/datenschutz",
-        "https://www.günstiger-reisen.de/impressum"
+        "https://github.com/datenanfragen/data/issues/363",
+        "https://www.günstiger-reisen.de/impressum",
+        "https://www.günstiger-reisen.de/datenschutz"
     ],
     "required-elements": [
         {
