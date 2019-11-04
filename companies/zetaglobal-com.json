@@ -13,7 +13,8 @@
     "web": "https://zetaglobal.com",
     "sources": [
         "https://zetaglobal.com/privacy-policy/",
-        "https://zetaglobal.com/contact-us/"
+        "https://zetaglobal.com/contact-us/",
+        "https://coraweb.sos.la.gov/Newsletters/NewsLetter_20180925.txt"
     ],
     "required-elements": [
         {
