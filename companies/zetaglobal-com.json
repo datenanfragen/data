@@ -1,0 +1,33 @@
+{
+    "slug": "zetaglobal-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Zeta Global",
+    "address": "3 Park Avenue\nNew York\nNY 10016\nUSA",
+    "phone": "+1 212 660 2500",
+    "email": "privacy@zetaglobal.com",
+    "web": "https://zetaglobal.com",
+    "sources": [
+        "https://zetaglobal.com/privacy-policy/",
+        "https://zetaglobal.com/contact-us/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
