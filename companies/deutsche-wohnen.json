@@ -1,0 +1,17 @@
+{
+    "slug": "deutsche-wohnen",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Deutsche Wohnen SE",
+    "address": "Mecklenburgische Straße 57\n14197 Berlin\nDeutschland",
+    "phone": "+49 30 897 86 0",
+    "fax": "+49 30 897 86 1000",
+    "email": "datenschutzanfragen@deuwo.com",
+    "web": "https://www.deutsche-wohnen.com/html/",
+    "sources": [
+        "https://www.deutsche-wohnen.com/footer/datenschutz/",
+        "https://www.deutsche-wohnen.com/footer/impressum/"
+    ],
+    "suggested-transport-medium": "email"
+}
