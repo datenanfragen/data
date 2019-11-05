@@ -6,14 +6,15 @@
     "categories": [
         "ads"
     ],
-    "name": "Zeta Global",
+    "name": "Zeta Global Corp.",
     "address": "3 Park Avenue\nNew York\nNY 10016\nUSA",
     "phone": "+1 212 660 2500",
     "email": "privacy@zetaglobal.com",
     "web": "https://zetaglobal.com",
     "sources": [
         "https://zetaglobal.com/privacy-policy/",
-        "https://zetaglobal.com/contact-us/"
+        "https://zetaglobal.com/contact-us/",
+        "https://coraweb.sos.la.gov/Newsletters/NewsLetter_20180925.txt"
     ],
     "required-elements": [
         {
