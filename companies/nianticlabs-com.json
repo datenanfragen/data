@@ -1,0 +1,34 @@
+{
+    "slug": "nianticlabs-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Niantic, Inc.",
+    "runs": [
+        "Niantic International Limited",
+        "Pokémon GO",
+        "Ingress",
+        "Harry Potter: Wizards Unite"
+    ],
+    "address": "1 Ferry Building Suite 200\nSan Francisco\nCA 94111\nUnited States of America",
+    "email": "dpo@nianticlabs.com",
+    "web": "https://nianticlabs.com",
+    "sources": [
+        "https://nianticlabs.com/privacy/",
+        "https://nianticlabs.com/terms/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Username",
+            "type": "input"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}
