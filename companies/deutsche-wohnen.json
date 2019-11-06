@@ -13,5 +13,17 @@
         "https://www.deutsche-wohnen.com/footer/datenschutz/",
         "https://www.deutsche-wohnen.com/footer/impressum/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
     "suggested-transport-medium": "email"
 }
