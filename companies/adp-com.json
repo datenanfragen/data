@@ -43,8 +43,7 @@
     "sources": [
         "https://github.com/datenanfragen/data/issues/395",
         "https://www.adp.com/privacy/pdf/A2CoBDC.pdf",
-        "https://www.adp.com/privacy.aspx",
-        null
+        "https://www.adp.com/privacy.aspx"
     ],
     "required-elements": [
         {
