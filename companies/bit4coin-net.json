@@ -1,5 +1,13 @@
 {
     "slug": "bit4coin-net",
+    "relevant-countries": [
+        "gb",
+        "nl",
+        "de",
+        "es",
+        "fr",
+        "it"
+    ],
     "categories": [
         "finance"
     ],
