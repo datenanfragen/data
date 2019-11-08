@@ -59,8 +59,5 @@
             "type": "input"
         }
     ],
-    "suggested-transport-medium": "email",
-    "comments": [
-        "The \"runs\" list may be incomplete or contain companies that do not operate in the EU."
-    ]
+    "suggested-transport-medium": "email"
 }
