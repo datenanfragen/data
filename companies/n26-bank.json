@@ -13,8 +13,8 @@
     "email": "datenschutz@n26.com",
     "web": "https://n26.com",
     "sources": [
-        "https://next.n26.com/de-de/legal-documents/privacy-policy",
-        "https://next.n26.com/de-de/legal-documents/imprint"
+        "https://n26.com/de-de/legal-documents/privacy-policy",
+        "https://n26.com/en-de/legal-documents/privacy-policy"
     ],
     "required-elements": [
         {
@@ -27,7 +27,7 @@
         }
     ],
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "suggested-transport-medium": "email"
 }

@@ -1,18 +1,18 @@
 A quien le interese:
 
-Por la presente estoy pidiendo la rectificación de datos personales erróneos que me conciernen de acuerdo con el Artícul 16 del RGPD.
+Por la presente estoy pidiendo la rectificación de datos personales erróneos que me conciernen de acuerdo con el artículo 16 del RGPD.
 
 Por favor haced los siguientes cambios:
 {rectification_data}
 
-En caso de que hayáis revelado los datos personales afectados a terceros, tenéis que comunicarles a cada beneficiario mi petición de la rectificación de los datos personales afectados de acuerdo con el Artículo 19 del RGPD. Por favor informadme también sobre esos beneficiarios. 
+En caso de que hayáis revelado los datos personales afectados a terceros, tenéis que comunicar a cada beneficiario mi petición de la rectificación de los datos personales afectados de acuerdo con el artículo 19 del RGPD. Por favor informadme también sobre esos beneficiarios.
 
-Mi petición incluye explícitamente [runs>lo siguiente así como ]cualquier otro servicio y compañía de la que seáis los controladores como está definido en el Artículo 4(7) del RGPD [runs>:{runs_list}].
+Mi petición incluye explícitamente [runs>lo siguiente así como ]cualquier otro servicio y empresa de la que seáis los controladores como está definido en el artículo 4(7) del RGPD [runs>:{runs_list}].
 
 Como está establecido en el artículo 12(3) del RGPD, tenéis que confirmarme la rectificación sin indebido retraso y en todo caso antes de un mes después de la llegada de la petición.
-[has_fields> 
+[has_fields>
 Incluyo la siguiente información necesaria para identificarme:
 {id_data}]
-Si vosotros no respondéis a mi petición en el periodo establecido, me reservo el derecho de tomar acciones legales contra vosotros y a presentar una queja con la autoridad supervisora responsable. 
+Si vosotros no respondéis a mi petición en el periodo establecido, me reservo el derecho de tomar acciones legales contra vosotros y a presentar una queja con la autoridad supervisora responsable.
 
-Atentamente, 
+Atentamente,

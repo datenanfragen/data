@@ -1,0 +1,26 @@
+{
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Dev Community Inc.",
+    "address": "20 Jay St #1110\nBrooklyn\nNY 11201\nUnited States of America",
+    "email": "privacy@dev.to",
+    "web": "https://dev.to",
+    "sources": [
+        "https://dev.to/privacy",
+        "https://www.nycompanyregistry.com/companies/dev-community-inc/",
+        "https://github.com/datenanfragen/data/issues/398"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "slug": "devto"
+}

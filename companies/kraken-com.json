@@ -1,0 +1,34 @@
+{
+    "slug": "kraken-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Payward Ltd.",
+    "runs": [
+        "Kraken"
+    ],
+    "address": "6th Floor One London Wall\nLondon\nEC2Y 5EB\nUnited Kingdom",
+    "email": "support@kraken.com",
+    "web": "https://www.kraken.com",
+    "sources": [
+        "https://www.kraken.com/en-us/legal/privacy",
+        "https://support.kraken.com/hc/en-us/articles/360024549671-How-do-I-verify-emails-from-Kraken-Enigmail-"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ]
+}
