@@ -1,0 +1,14 @@
+À qui de droit :
+
+Je viens par la présente, m'opposer au traitement des données personnelles me concernant à des fins de prospection conformément à l'Article 21, alinéa 2 du RGPD. Cette opposition inclut l'utilisation à des fins de profilage dans la mesure où elle est liée aux activités de prospection.
+
+Si j'ai consenti au traitement de mes données à caractère personnel à des fins de prospection (par exemple, conformément à l'Article 6, alinéa 1, ou à l'Article 9, alinéa 2 du RGPD), je retire ce consentement par la présente.
+
+Ma demande inclut explicitement [runs>les services et sociétés suivants ], ainsi que tous les autres services et sociétés dont vous êtes le responsable du traitement en vertu de l'Article 4, alinéa 7, du RGPD [runs>: {runs_list}].
+
+Conformément à l'Article 12, alinéa 3, du RGPD, vous devez me confirmer cette opposition dans un délai raisonnable et, en tout état de cause, dans le mois qui suit la réception de la demande.
+J'inclus les informations suivantes nécessaires à mon identification :
+{id_data}
+Si vous ne répondez pas à ma demande dans le délai imparti, je me réserve le droit d'intenter une action en justice contre vous et d'introduire une plainte auprès de l'autorité de contrôle compétente.
+
+Cordialement,
