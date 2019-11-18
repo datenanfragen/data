@@ -1,0 +1,19 @@
+{
+    "slug": "duckduckgo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "DuckDuckGo",
+    "address": "20 Paoli Pike\nPaoli\nPA 19301\nUSA",
+    "email": "legal@duckduckgo.com",
+    "web": "https://duckduckgo.com",
+    "sources": [
+        "https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/",
+        "https://duckduckgo.com/about",
+        "https://github.com/datenanfragen/data/issues/420"
+    ],
+    "suggested-transport-medium": "email"
+}
