@@ -1,0 +1,21 @@
+{
+    "slug": "grovercom",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Grover Group GmbH",
+    "runs": [
+        "Grover Finance I UG (haftungsbeschränkt)"
+    ],
+    "address": "c/o Freshcompliance GmbH\nSchlesische Str. 26\n10997 Berlin\nDeutschland",
+    "email": "datenschutz@grover.com",
+    "web": "https://www.grover.com",
+    "sources": [
+        "https://www.grover.com/de-de/g-about/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/issues/425"
+    ],
+    "suggested-transport-medium": "email"
+}
