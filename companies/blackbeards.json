@@ -1,0 +1,20 @@
+{
+    "slug": "blackbeards",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "blackbeards",
+    "address": "Marienplatz 2\n80331 München\nDeutschland",
+    "phone": "+49 89 18917360",
+    "fax": "+49 8031 2220520",
+    "email": "email@iitr.de",
+    "web": "https://blackbeards.de/",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/418",
+        "https://blackbeards.de/datenschutz"
+    ],
+    "suggested-transport-medium": "email"
+}
