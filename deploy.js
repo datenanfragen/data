@@ -37,8 +37,8 @@ function upload(err, files) {
     if(response && response.statusCode == 200) {
       // Wait for the changes to apply before deleting (there is no other way to find out if they already did)
       setTimeout(() => {collect_garbage(index, restore_timestamp)}, 5000)
-      if(error) console.error('error:', error); // Print the error if one occurred
     } 
+    if(error) console.error('error:', error); // Print the error if one occurred
   });
 }
 
@@ -82,7 +82,7 @@ function delete_entry(index, id, version = null) {
       'Accept': 'application/json'
     },
     body: ''
-  }, 
+  },
   (error, response, body) => {
     if(response) {
       switch(response.statusCode) {
