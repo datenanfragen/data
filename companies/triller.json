@@ -1,0 +1,18 @@
+{
+    "slug": "triller",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media",
+        "entertainment"
+    ],
+    "name": "Triller LLC",
+    "address": "9737 Great Hills Trail\nSuite 260\nAustin\nTX 78759\nUnited States of America",
+    "email": "team@triller.co",
+    "web": "https://www.triller.co/",
+    "sources": [
+        "https://www.triller.co/privacy/triller_privacy_policy.pdf",
+        "https://github.com/datenanfragen/data/issues/462"
+    ]
+}
