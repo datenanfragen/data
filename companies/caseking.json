@@ -7,7 +7,7 @@
         "commerce"
     ],
     "name": "Caseking GmbH",
-    "address": "Caseking GmbH\nAbteilung Datenschutz\nGaußstr. 1\n10589 Berlin\nDeutschland",
+    "address": "Gaußstr. 1\n10589 Berlin\nDeutschland",
     "phone": "+49 30 403664200",
     "fax": "+49 30 403664204",
     "email": "datenschutz@caseking.de",
@@ -25,5 +25,6 @@
             "desc": "Adresse",
             "type": "address"
         }
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }

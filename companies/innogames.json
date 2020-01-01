@@ -17,12 +17,13 @@
         "Die Stämme",
         "The West"
     ],
-    "address": "InnoGames GmbH\nFriesenstraße 13\n20097 Hamburg\nDeutschland",
+    "address": "Friesenstraße 13\n20097 Hamburg\nDeutschland",
     "fax": "+49 40 7889335200",
     "email": "privacy@innogames.com",
     "web": "https://www.innogames.com",
     "sources": [
         "https://legal.innogames.com/portal/de/privacy",
         "https://legal.innogames.com/portal/de/imprint"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
