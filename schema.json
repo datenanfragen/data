@@ -54,13 +54,13 @@
 			"type": "string",
 			"title": "Phone",
 			"description": "A phone number where the company can be reached for privacy-related inquires and requests. Has to be in the standard international format and include the country code.",
-			"pattern": "^\\+\\d+ \\d+ [\\d ]+$"
+			"pattern": "^\\+\\d+ \\d+ [\\d ]+(?: ext. )?\\d*$"
 		},
 		"fax": {
 			"type": "string",
 			"title": "Fax",
 			"description": "A fax number where the company can be reached for privacy-related inquires and requests. Has to be in the standard international format and include the country code.",
-			"pattern": "^\\+\\d+ \\d+ [\\d ]+$"
+			"pattern": "^\\+\\d+ \\d+ [\\d ]+(?: ext. )?\\d*$"
 		},
 		"email": {
 			"type": "string",
