@@ -1,0 +1,14 @@
+{
+    "slug": "threema",
+    "categories": [
+        "telecommunication",
+        "social media"
+    ],
+    "name": "Threema GmbH",
+    "address": "Churerstrasse 82\n8808 Pfäffikon SZ\nSchweiz",
+    "email": "privacy@threema.ch",
+    "web": "https://threema.ch",
+    "sources": [
+        "https://threema.ch/de/privacy"
+    ]
+}
