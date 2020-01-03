@@ -5,8 +5,8 @@ It is used to power the Datenanfragen.de company database but we warmly welcome 
 
 ## Contributing
 
-Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you to contribute whatever information you have. Currently, please just submit pull requests in order to do so. You can use [this tool](https://company-json.netlify.com/) to generate valid JSON records.  
-We are working on easier ways to help you contribute.
+Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you to contribute whatever information you have. The easiest way for us is if you just submit your changes as a pull request (feel free to group changes to multiple records in a single PR). You can use [this tool](https://company-json.netlify.com/) to generate valid JSON records.  
+Alternatively, you can also submit suggestions for changes and new records [directly through our website](https://www.datarequests.org/contribute).
 
 Please be aware that by contributing, you agree for your work to be released under a Creative Commons CC0 1.0 Universal license, as specified in the `LICENSE` file.
 
