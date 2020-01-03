@@ -7,6 +7,9 @@
         "commerce"
     ],
     "name": "Caseking GmbH",
+    "runs": [
+        "Noblechairs"
+    ],
     "address": "Gaußstr. 1\n10589 Berlin\nDeutschland",
     "phone": "+49 30 403664200",
     "fax": "+49 30 403664204",
