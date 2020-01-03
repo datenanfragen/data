@@ -1,5 +1,8 @@
 {
     "slug": "logitech",
+    "relevant-countries": [
+        "all"
+    ],
     "name": "Logitech Europe S.A.",
     "runs": [
         "Astrogaming",

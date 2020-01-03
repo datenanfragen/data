@@ -1,5 +1,8 @@
 {
     "slug": "cdprojekt",
+    "relevant-countries": [
+        "all"
+    ],
     "name": "CD PROJEKT S.A.",
     "runs": [
         "GOG"

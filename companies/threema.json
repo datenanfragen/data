@@ -1,5 +1,8 @@
 {
     "slug": "threema",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "telecommunication",
         "social media"
