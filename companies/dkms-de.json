@@ -13,8 +13,7 @@
     "email": "datenschutz@dkms.de",
     "web": "https://www.dkms.de",
     "sources": [
-        "https://www.dkms.de/de/datenschutzbestimmungen-der-dkms",
-        "Kressbach 1 72072 Tübingen"
+        "https://www.dkms.de/de/datenschutzbestimmungen-der-dkms"
     ],
     "suggested-transport-medium": "email"
 }
