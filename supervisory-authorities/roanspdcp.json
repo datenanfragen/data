@@ -8,8 +8,8 @@
     "phone": "+40 318 059 211",
     "fax": "+40 318 059 602",
     "email": "anspdcp@dataprotection.ro",
-    "web": "http://www.dataprotection.ro/index.jsp?page=contact",
+    "web": "https://www.dataprotection.ro/",
     "sources": [
-        ""
+        "https://www.dataprotection.ro/index.jsp?page=contact"
     ]
 }
