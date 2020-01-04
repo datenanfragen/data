@@ -1,0 +1,9 @@
+{
+    "devDependencies": {
+        "ajv": "^6.10.2",
+        "glob": "^7.1.6"
+    },
+    "scripts": {
+        "test": "node test-records.js"
+    }
+}
