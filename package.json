@@ -1,9 +1,15 @@
 {
     "devDependencies": {
         "ajv": "^6.10.2",
-        "glob": "^7.1.6"
+        "glob": "^7.1.6",
+        "husky": "^3.1.0"
     },
     "scripts": {
         "test": "node test-records.js"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "yarn test"
+        }
     }
 }

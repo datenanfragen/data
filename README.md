@@ -10,6 +10,16 @@ Alternatively, you can also submit suggestions for changes and new records [dire
 
 Please be aware that by contributing, you agree for your work to be released under a Creative Commons CC0 1.0 Universal license, as specified in the `LICENSE` file.
 
+### Testing records
+
+We have an automated testing script for the records. The script makes sure that all records follow our schema and catches common errors.
+
+If you submit a PR, your changes will automatically be tested in our CI environment.
+
+However, you can also run the script locally. To do so, first install [Node.js](https://nodejs.org/en/download/) and the [Yarn package manager](https://yarnpkg.com/lang/en/docs/install/). In the repository folder, run `yarn` to grab all necessary dependencies.  
+This will automatically install a *pre-commit hook*: Whenever you commit your changes, the testing script will automatically run and check for errors.  
+To use it manually, simply run `yarn test`.
+
 ## Data formats
 
 The company data is located in the `companies` folder. Every company (or other organization) in our database is represented by a single JSON file (named after the slug in the JSON). The JSON has to follow the schema specified in the `schema.json` file.
