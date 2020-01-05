@@ -16,7 +16,7 @@ const fail = (...args) => {
     console.error(...args);
     process.exit(1);
 };
-const validator = (dir, schema) => {
+const validator = (dir, schema, additional_checks = null) => {
     glob(`${dir}/*.json`, (err, files) => {
         if (err) {
             console.error(err);
@@ -30,9 +30,20 @@ const validator = (dir, schema) => {
             if (json.slug + '.json' !== path.basename(f)) {
                 fail(`${dir} filename "${path.basename(f)}" does not match slug "${json.slug}".`);
             }
+
+            if (additional_checks) additional_checks(f, json);
         });
     });
 };
 
-validator('companies', cdb_schema);
+validator('companies', cdb_schema, (f, json) => {
+    // Check for necessary 'name' field in the required elements (#388).
+    if (json['required-elements']) {
+        const has_name_field = json['required-elements'].some(el => el.type === 'name');
+        if (!has_name_field)
+            fail(
+                `Error in ${f}:\nRecord has required elements but no 'name' element (see https://github.com/datenanfragen/data#required-elements).`
+            );
+    }
+});
 validator('supervisory-authorities', adb_schema);
