@@ -1,7 +1,12 @@
 {
     "slug": "amazon-de",
     "relevant-countries": [
-        "de"
+        "de",
+        "at",
+        "ch",
+        "cz",
+        "nl",
+        "pl"
     ],
     "categories": [
         "commerce",
@@ -10,6 +15,10 @@
     "name": "Amazon Europe Core SARL",
     "runs": [
         "amazon.de",
+        "amazon.at",
+        "amazon.ch",
+        "amazon.cz",
+        "amazon.pl",
         "Amazon EU SARL",
         "Amazon Services Europe SARL",
         "Amazon Media EU SARL",
