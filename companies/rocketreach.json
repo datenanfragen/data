@@ -1,0 +1,21 @@
+{
+    "slug": "rocketreach",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses",
+        "ads"
+    ],
+    "name": "RocketReach",
+    "address": "135 100th Ave NE\nBellevue\nWA 98004\nUnited States of America",
+    "phone": "+1 415 669 0604",
+    "email": "privacy@rocketreach.co",
+    "web": "https://rocketreach.co",
+    "sources": [
+        "https://rocketreach.co/gdpr",
+        "https://rocketreach.co/privacy",
+        "https://github.com/datenanfragen/data/issues/493"
+    ],
+    "suggested-transport-medium": "email"
+}
