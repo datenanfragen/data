@@ -1,0 +1,25 @@
+Guten Tag,
+
+bitte bestätigen Sie mir, ob ich von der in Ihrer Pressemitteilung vom 04. Februar 2020 beschriebenen Sicherheitslücke betroffen bin (vgl. https://www.drk-brandenburg.de/service/presse/pressemitteilungen.html?tx_news_pi1%5Bnews%5D=216&cHash=42b5dc14a896058db77c6df185764cd6). Nach Art. 34 Art. 1 DSGVO sind Sie im Falle der Verletzung des Schutzes personenbezogener Daten mit einem hohen Risiko für die persönlichen Rechte und Freiheiten natürlicher Personen dazu verpflichtet, die betroffenen Personen unverzüglich über die Verletzung zu informieren. Ich bin der Ansicht, dass diese Voraussetzungen gegeben sind.
+Sollte ich betroffen sein, teilen Sie mir bitte mit, auf welche meiner personenbezogenen Daten potentiell zugegriffen werden konnte. Bitte informieren Sie mich auch zukünftig über neue Erkenntnisse in diesem Fall.
+
+Weiterhin bitte ich hiermit um Auskunft gemäß Art. 15 DSGVO. Bitte bestätigen Sie mir, ob Sie mich betreffende personenbezogene Daten verarbeiten (vgl. Art. 4 Nr. 1 und 2 DSGVO).
+
+In diesem Fall bitte ich Sie im Sinne des Art. 15 Abs. 1 DSGVO um Auskunft über
+1. <italic>sämtliche</italic> personenbezogenen Daten, die Sie zu meiner Person gespeichert haben;
+2. die Verarbeitungszwecke;
+3. die Kategorien personenbezogener Daten, die verarbeitet werden;
+4. die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden;
+5. falls möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer;
+6. wenn die personenbezogenen Daten nicht bei mir erhoben wurden, alle verfügbaren Informationen über die Herkunft der Daten;
+7. falls zutreffend, das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Art. 22 Abs. 1 und 4 DSGVO und – sofern gegeben – aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für meine Person.
+
+Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des Art. 4 Nr. 7 DSGVO sind[runs>: {runs_list}].
+
+Die Auskunft ist nach Art. 12 Abs. 3 DSGVO unverzüglich, in jedem Fall aber innerhalb eines Monats nach Eingang der Anfrage zu erteilen. Sie hat nach Art. 15 Abs. 3 DSGVO kostenlos zu erfolgen.
+[has_fields>
+Zur Identifikation meiner Person habe ich folgende Daten beigefügt:
+{id_data}]
+Sollten Sie meiner Anfrage nicht innerhalb der genannten Frist nachkommen, behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
+
+Mit freundlichen Grüßen
