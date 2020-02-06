@@ -6,7 +6,7 @@ install:
   - pip install --upgrade typesense jsonschema
 
 script:
-  - python test-records.py
+  - echo "Nothing to be done."
 
 deploy:
   - provider: script
