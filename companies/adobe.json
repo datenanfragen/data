@@ -14,12 +14,13 @@
     "address": "4–6 Riverwalk\nCity West Business Campus\nDublin 24\nIreland",
     "phone": "+353 1 242 6700",
     "fax": "+353 1 242 6711",
-    "email": "dsar@adobe.com",
+    "email": "dpo@adobe.com",
     "web": "https://www.adobe.com",
     "sources": [
         "https://www.adobe.com/privacy/policy.html",
         "https://www.adobe.com/legal/terms.html",
-        "https://www.adobe.com/de/about-adobe/impressum.html"
+        "https://www.adobe.com/de/about-adobe/impressum.html",
+        "https://github.com/datenanfragen/data/issues/531"
     ],
     "required-elements": [
         {
