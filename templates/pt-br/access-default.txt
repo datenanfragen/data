@@ -1,15 +1,15 @@
 A quem possa interessar:
 
-Solicito, através deste meio, acesso conforme o Artigo 15 do RGPD. Por favor, confirme se vocês estão processando ou não dados pessoais (conforme definido no Artigo 4 (1) e (2) do RGPD) referentes a mim.
+Solicito, através deste meio, acesso conforme o artigo 15 do RGPD. Por favor, confirme se vocês estão processando ou não dados pessoais (conforme definido no artigo 4 (1) e (2) do RGPD) referentes a mim.
 
-Caso estejam, solicito, por este meio, acesso às seguintes informações, de acordo com o Artigo 15 do RGPD:
+Caso estejam, solicito, por este meio, acesso às seguintes informações, de acordo com o artigo 15 do RGPD:
 1. <italic> todos </italic> os dados pessoais sobre mim que vocês têm armazenados;
 2. os propósitos do processamento;
 3. as categorias de dados pessoais em questão;
 4. os destinatários ou categorias de destinatários a quem os dados pessoais foram ou serão divulgados;
 5. sempre que possível, o período previsto para o qual os dados pessoais serão armazenados ou, se não for possível, os critérios utilizados para determinar esse período;
 6. quando os dados pessoais não forem coletados do titular dos dados, qualquer informação disponível sobre sua fonte;
-7. a existência de uma tomada de decisão automatizada, incluindo perfilamento, referida nos Artigo 22 (1) e (4) do RGPD e, pelo menos nesses casos, informações significativas sobre a lógica envolvida, bem como o significado e as consequências previstas de tal processamento para mim.
+7. a existência de uma tomada de decisão automatizada, incluindo perfilamento, referida no artigo 22 (1) e (4) do RGPD e, pelo menos nesses casos, informações significativas sobre a lógica envolvida, bem como o significado e as consequências previstas de tal processamento para mim.
 
 Se estiverem transferindo meus dados pessoais para um país terceiro ou organização internacional, solicito ser informado sobre as salvaguardas apropriadas, de acordo com o artigo 46 do RGPD relativas à transferência.
 [data_portability>
