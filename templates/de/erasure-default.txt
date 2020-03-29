@@ -3,16 +3,19 @@ Guten Tag,
 ich stelle hiermit Antrag auf unverzügliche Löschung mich betreffender personenbezogener Daten gemäß Art. 17 Abs. 1 DSGVO.
 
 [erase_all>Bitte löschen Sie sämtliche mich betreffenden personenbezogenen Daten nach der Definition des Art. 4 Nr. 1 DSGVO.][erase_some>Bitte löschen Sie die folgenden mich betreffenden personenbezogenen Daten:
-{erasure_data}]
+{erasure_data}]. Sie können auch keinen Ausnahmetatbestand nach Art. 17 Abs. 3 DS-GVO geltend machen, zumal ich keine Person des öffentlichen Lebens bin.
 
 Ich bin der Meinung, dass die Voraussetzungen des Art. 17 Abs. 1 DSGVO gegeben sind.
 
-Sollte ich eine Einwilligung zur Verarbeitung meiner Daten (bspw. nach Art. 6 Abs. 1 Buchstabe a oder Art. 9 Abs. 2 DSGVO) erteilt haben, widerrufe ich diese hiermit.
-Weiterhin lege ich im Sinne des Art. 21 DSGVO Widerspruch gegen die Verarbeitung mich betreffender personenbezogener Daten ein, dies gilt auch für Profiling.
+Sollte ich eine Einwilligung zur Verarbeitung meiner Daten (bspw. nach Art. 6 Abs. 1 Buchstabe a oder Art. 9 Abs. 2 DSGVO) erteilt haben, widerrufe ich diese für den gesamten Prozess der Datenverarbeitung hiermit.
+Weiterhin lege ich im Sinne des Art. 21 DSGVO Widerspruch gegen die Verarbeitung mich betreffender personenbezogener Daten ein, dies gilt auch für Profiling. Zusätzlich fordere ich Sie auf, die mich betreffenden Daten für die Dauer des Bestehens irgendeiner Unklarheit bezüglich der Gründe meines Widerrufsrechts gemäß Art. 18 Abs. 1 lit. d zu sperren, so dass diese Daten nicht in Verfügung stehen, bis die jeweiligen Unklarheiten entfallen.
+
+Des Weiteren weise ich Sie darauf hin, dass Sie nach Art. 17 Abs. 2 DS-GVO aufgrund der Veröffentlichung der Daten dazu verpflichtet sind, alle angemessenen Maßnahmen zu treffen, um andere Verantwortliche, insbesondere Suchmaschinenbetreiber, welche die oben aufgeführten personenbezogenen Daten verarbeiten, über meinen Antrag auf Löschung aller Links, Kopien oder Replikationen bzw. nicht nur exakte Kopien der betreffenden Daten, sondern auch Abbilder, die zwar nicht exakt mit dem Original übereinstimmen, aus denen aber die in den betreffenden Daten enthaltene Information oder auch ein Teil davon zu entnehmen ist, in Bezug auf diese personenbezogenen Daten zu unterrichten.
 
 Sofern Sie die betroffenen personenbezogenen Daten Dritten offengelegt haben, haben Sie meinen Wunsch auf Löschung der genannten personenbezogenen Daten und sämtlicher Verweise darauf nach Art. 19 DSGVO auch allen solchen Empfängern mitzuteilen. Bitte informieren Sie mich weiterhin über diese Empfänger.
 
 Sollten Sie die Löschung ablehnen, haben Sie dies mir gegenüber zu begründen.
+
 
 Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des Art. 4 Nr. 7 DSGVO sind[runs>: {runs_list}].
 
@@ -20,6 +23,6 @@ Nach Art. 12 Abs. 3 DSGVO haben Sie mich unverzüglich, spätestens aber innerha
 [has_fields>
 Zur Identifikation meiner Person habe ich folgende Daten beigefügt:
 {id_data}]
-Sollten Sie meinem Antrag nicht innerhalb der genannten Frist nachkommen, behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
+Sollten Sie meinem Antrag nicht innerhalb der genannten Frist nachkommen, behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten, wie eventuellen Schadensersatzanspruch nach Art. 82 Abs. 1, der nicht nur materielle Schäden, sondern auch immaterielle Schäden erfasst, und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
 
 Mit freundlichen Grüßen
