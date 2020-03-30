@@ -1,0 +1,17 @@
+{
+    "slug": "informationgroup",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Better Information Group Ltd",
+    "address": "132-134 Great Ancoats Street\nManchester\nM4 6DE\nUnited Kingdom",
+    "email": "info@informationgroup.co.uk",
+    "web": "https://informationgroup.co.uk/",
+    "sources": [
+        "https://informationgroup.co.uk/privacy.html",
+        "https://github.com/datenanfragen/data/issues/544"
+    ]
+}
