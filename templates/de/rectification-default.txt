@@ -1,10 +1,10 @@
 Guten Tag,
 
-ich stelle hiermit Antrag auf Berichtigung mich betreffender unrichtiger personenbezogener Daten nach Art. 16 DSGVO.
+ich stelle hiermit Antrag auf Berichtigung bzw. Vervollständigung mich betreffender unrichtiger personenbezogener Daten nach Art. 16 DSGVO.
 
 Folgende Änderungen sind vorzunehmen:
 {rectification_data}
-Sofern Sie die betroffenen personenbezogenen Daten Dritten offengelegt haben, haben Sie die vorgenommenen Änderungen nach Art. 19 DSGVO allen solchen Empfängern mitzuteilen. Bitte informieren Sie mich weiterhin über diese Empfänger.
+Sofern Sie die betroffenen personenbezogenen Daten einem oder mehreren Empfängern im Sinne des Art. 4 Nr. 9 DSGVO offengelegt haben, haben Sie die vorgenommenen Änderungen nach Art. 19 DSGVO allen solchen Empfängern mitzuteilen. Bitte informieren Sie mich weiterhin über diese Empfänger.
 
 Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des Art. 4 Nr. 7 DSGVO sind[runs>: {runs_list}].
 
@@ -13,5 +13,7 @@ Nach Art. 12 Abs. 3 DSGVO haben Sie mich unverzüglich, spätestens aber innerha
 Zur Identifikation meiner Person habe ich folgende Daten beigefügt:
 {id_data}]
 Sollten Sie meinem Antrag nicht innerhalb der genannten Frist nachkommen, behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
+
+Schon im Voraus vielen Dank für Ihre Mühe.
 
 Mit freundlichen Grüßen

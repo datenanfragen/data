@@ -1,10 +1,10 @@
 To Whom It May Concern:
 
-I am hereby requesting rectification of inaccurate personal data concerning me according to Article 16 GDPR.
+I am hereby requesting rectification or completion of inaccurate personal data concerning me according to Article 16 GDPR.
 
 Please make the following changes:
 {rectification_data}
-In case you have disclosed the affected personal data to third parties, you have to communicate my request for rectification of the affected personal data to each recipient as laid down in Article 19 GDPR. Please also inform me about those recipients.
+In case you have disclosed the affected personal data to one or more recipients as defined in Article 4(9) GDPR, you have to communicate my request for rectification of the affected personal data to each recipient as laid down in Article 19 GDPR. Please also inform me about those recipients.
 
 My request explicitly includes [runs>the following as well as ]any other services and companies for which you are the controller as defined by Article 4(7) GDPR[runs>: {runs_list}].
 
@@ -13,5 +13,7 @@ As laid down in Article 12(3) GDPR, you have to confirm the rectification to me 
 I am including the following information necessary to identify me:
 {id_data}]
 If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
+
+Thank you in advance.
 
 Yours sincerely,
