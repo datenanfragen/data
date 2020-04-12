@@ -5,4 +5,6 @@ on {request_date} I sent you a request according to Article {request_article} GD
 
 That is why I am contacting you again. After the arrival of this admonition, please adequately answer my request within two weeks. Otherwise, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
 
+Thank you.
+
 Yours sincerely,

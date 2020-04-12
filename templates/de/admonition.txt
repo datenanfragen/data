@@ -5,4 +5,6 @@ am {request_date} hatte ich bei Ihnen eine Anfrage nach Art. {request_article} D
 
 Ich wende mich daher hiermit erneut an Sie und bitte Sie, meine Anfrage innerhalb von zwei Wochen ab Eintreffen dieser Mahnung zufriedenstellend zu beantworten, andernfalls behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
 
+Vielen Dank.
+
 Mit freundlichen Grüßen
