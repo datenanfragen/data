@@ -1,0 +1,21 @@
+{
+    "slug": "fivestar-marketing",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Fivestar Marketing EOOD",
+    "runs": [
+        "Fivestar OMS (fivestar-oms.net)"
+    ],
+    "address": "Panoniya Straße 3\n3700 Vidin\nBulgaria",
+    "email": "info@fivestar-marketing.net",
+    "web": "https://fivestar-marketing.net/",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/563",
+        "https://fivestar-marketing.net/datenschutz/",
+        "https://fivestar-oms.net/info.php?site=privacy&lang=de"
+    ]
+}
