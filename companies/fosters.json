@@ -1,0 +1,19 @@
+{
+    "slug": "fosters",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Gannett Co., Inc.",
+    "runs": [
+        "Fosters.com"
+    ],
+    "address": "111 New Hampshire Ave.\nPortsmouth\nNH 03801\nUnited States of America",
+    "phone": "+1 844 510 3710",
+    "email": "privacy@gannett.com",
+    "web": "https://www.fosters.com/",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/558",
+        "https://www.gannett.com/privacy-statement/"
+    ],
+    "suggested-transport-medium": "email"
+}
