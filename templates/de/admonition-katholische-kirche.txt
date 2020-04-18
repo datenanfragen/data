@@ -1,8 +1,10 @@
 Guten Tag,
 
-am {request_date} hatte ich bei Ihnen eine Anfrage nach § {request_article} KDG gestellt.
+am {request_date} hatte ich bei Ihnen eine Anfrage nach § {Artikel} KDG gestellt.
 {Beschreibung des Problems, z. B.: Leider erhielt ich bisher keine Antwort von Ihnen. Damit ist die Frist von einem Monat nach § 14 Abs. 3 S. 1 KDG überschritten.}
 
 Ich wende mich daher hiermit erneut an Sie und bitte Sie, meine Anfrage innerhalb von zwei Wochen ab Eintreffen dieser Mahnung zufriedenstellend zu beantworten, andernfalls behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
+
+Vielen Dank.
 
 Mit freundlichen Grüßen

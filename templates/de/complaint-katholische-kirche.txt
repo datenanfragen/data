@@ -1,9 +1,9 @@
 Guten Tag,
 
-hiermit möchte ich Beschwerde nach § 48 des Gesetzes über den Kirchlichen Datenschutz (KDG) einreichen. Am {request_date} hatte ich mich mit einer Anfrage nach § {request_article} KDG an folgenden Verantwortlichen gewandt:
+hiermit möchte ich Beschwerde nach § 48 des Gesetzes über den Kirchlichen Datenschutz (KDG) einreichen. Am {request_date} hatte ich mich mit einer Anfrage nach § {Artikel} KDG an folgenden Verantwortlichen gewandt:
 {request_recipient_address}
 
-{Beschreibung der Verstöße des Verantwortlichen und der unternommenen Schritte (z. B. Mahnungen, gesetzte Fristen oder weitere Korrespondenz; für solche auch Belege anfügen)}. 
+{Beschreibung der Verstöße des Verantwortlichen und der unternommenen Schritte (z. B. Mahnungen, gesetzte Fristen oder weitere Korrespondenz; für solche auch Belege anfügen)}.
 
 Daher wende ich mich nun mit dieser Beschwerde an Sie. Ich möchte Sie bitten das Verfahren zu prüfen und den Verantwortlichen zur Erfüllung der Anfrage zu bewegen.
 
