@@ -1,0 +1,29 @@
+Guten Tag,
+
+ich stelle hiermit Antrag auf unverzügliche Löschung mich betreffender personenbezogener Daten gemäß § 19 Abs. 1 des Gesetzes über den Kirchlichen Datenschutz (KDG).
+
+[erase_all>Bitte löschen Sie sämtliche mich betreffenden personenbezogenen Daten nach der Definition des § 4 Nr. 1 KDG.][erase_some>Bitte löschen Sie die folgenden mich betreffenden personenbezogenen Daten:
+{erasure_data}]
+
+Ich bin der Meinung, dass die Voraussetzungen des § 19 Abs. 1 KDG gegeben sind. Sie können auch keinen Ausnahmetatbestand nach § 19 Abs. 3 KDG geltend machen, zumal ich keine Person des öffentlichen Lebens bin.
+
+Sollte ich eine Einwilligung zur Verarbeitung meiner Daten (bspw. nach § 6 Abs. 1 lit. b oder § 11 Abs. 2 lit. a KDG) erteilt haben, widerrufe ich diese hiermit für den gesamten Prozess der Datenverarbeitung.
+Weiterhin lege ich im Sinne des § 23 KDG Widerspruch gegen die Verarbeitung mich betreffender personenbezogener Daten ein, dies gilt auch für Profiling. Ich fordere Sie auf, die Verarbeitung der mich betreffenden Daten gemäß § 20 Abs. 1 lit. d KDG einzuschränken, solange noch nicht feststeht, ob Ihre berechtigten Gründe gegenüber meinen überwiegen.
+
+Falls Sie die betroffenen Daten öffentlich gemacht haben sollten, sind Sie nach § 19 Abs. 2 KDG dazu verpflichtet, alle angemessenen Maßnahmen zu treffen, um andere Verantwortliche, beispielsweise Suchmaschinenbetreiber, welche die oben aufgeführten personenbezogenen Daten verarbeiten, über meinen Antrag auf Löschung aller Links, Kopien oder Replikationen zu informieren. Dies gilt nicht nur für exakte Kopien der betroffenen Daten, sondern auch für solche, aus denen in den betroffenen Daten enthaltene Informationen entnehmbar sind.
+
+Sofern Sie die betroffenen personenbezogenen Daten einem oder mehreren Empfängern im Sinne des § 4 Nr. 11 KDG offengelegt haben, haben Sie meinen Wunsch auf Löschung der genannten personenbezogenen Daten und sämtlicher Verweise darauf nach § 21 KDG auch allen solchen Empfängern mitzuteilen. Bitte informieren Sie mich weiterhin über diese Empfänger.
+
+Sollten Sie die Löschung ablehnen, haben Sie dies mir gegenüber zu begründen.
+
+Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des § 4 Nr. 9 KDG sind[runs>: {runs_list}].
+
+Nach § 14 Abs. 3 KDG haben Sie mich unverzüglich, spätestens aber innerhalb eines Monats nach Eingang des Antrags, über die vorgenommenen Löschungen zu informieren.
+[has_fields>
+Zur Identifikation meiner Person habe ich folgende Daten beigefügt:
+{id_data}]
+Sollten Sie meinem Antrag nicht innerhalb der genannten Frist nachkommen, behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
+
+Schon im Voraus vielen Dank für Ihre Mühe.
+
+Mit freundlichen Grüßen
