@@ -1,0 +1,13 @@
+Guten Tag,
+
+hiermit möchte ich Beschwerde nach § 46 des Kirchengesetz über den Datenschutz der Evangelischen Kirche in Deutschland (DSG-EKD) einreichen. Am {request_date} hatte ich mich mit einer Anfrage nach § {Artikel} DSG-EKD an folgenden Verantwortlichen gewandt:
+{request_recipient_address}
+
+{Beschreibung der Verstöße des Verantwortlichen und der unternommenen Schritte (z. B. Mahnungen, gesetzte Fristen oder weitere Korrespondenz; für solche auch Belege anfügen)}.
+
+Daher wende ich mich nun mit dieser Beschwerde an Sie. Ich möchte Sie bitten das Verfahren zu prüfen und den Verantwortlichen zur Erfüllung der Anfrage zu bewegen.
+
+Sollten Sie weitere Informationen von mir benötigen, wenden Sie sich gerne an mich. Sie erreichen mich {Angabe von Kontaktmöglichkeit, z. B. E-Mail-Adresse, Postanschrift, Telefonnummer o. Ä.}. [optional: Ich möchte Sie bitten, diese Informationen Dritten vorzuenthalten, damit meine Anonymität gewahrt bleibt.]
+Ich bedanke mich bereits im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen
