@@ -10,13 +10,13 @@ Ich bin der Meinung, dass die Voraussetzungen des § 21 Abs. 1 DSG-EKD gegeben s
 Sollte ich eine Einwilligung zur Verarbeitung meiner Daten (bspw. nach § 6 Abs. 1 Nr. 2 oder § 13 Abs. 2 Nr. 2 DSG-EKD) erteilt haben, widerrufe ich diese hiermit für den gesamten Prozess der Datenverarbeitung.
 Weiterhin lege ich im Sinne des § 25 DSG-EKD Widerspruch gegen die Verarbeitung mich betreffender personenbezogener Daten ein, dies gilt auch für Profiling. Ich fordere Sie auf, die Verarbeitung der mich betreffenden Daten gemäß § 22 Abs. 1 Nr. 4 DSG-EKD einzuschränken, solange noch nicht feststeht, ob Ihre berechtigten Gründe gegenüber meinen überwiegen.
 
-Falls Sie die betroffenen Daten öffentlich gemacht haben sollten, sind Sie nach § 21 Abs. 2 DSG-EKD dazu verpflichtet, alle angemessenen Maßnahmen zu treffen, um andere Verantwortliche, beispielsweise Suchmaschinenbetreiber, welche die oben aufgeführten personenbezogenen Daten verarbeiten, über meinen Antrag auf Löschung aller Links, Kopien oder Replikationen zu informieren. Dies gilt nicht nur für exakte Kopien der betroffenen Daten, sondern auch für solche, aus denen in den betroffenen Daten enthaltene Informationen entnehmbar sind.
+Falls Sie die betroffenen Daten öffentlich gemacht haben sollten, sind Sie nach § 21 Abs. 2 DSG-EKD dazu verpflichtet, alle angemessenen Maßnahmen zu treffen, um andere verantwortliche Stellen, beispielsweise Suchmaschinenbetreiber, welche die oben aufgeführten personenbezogenen Daten verarbeiten, über meinen Antrag auf Löschung aller Links, Kopien oder Replikationen zu informieren. Dies gilt nicht nur für exakte Kopien der betroffenen Daten, sondern auch für solche, aus denen in den betroffenen Daten enthaltene Informationen entnehmbar sind.
 
 Sofern Sie die betroffenen personenbezogenen Daten einem oder mehreren Empfängern im Sinne des § 4 Nr. 11 DSG-EKD offengelegt haben, haben Sie meinen Wunsch auf Löschung der genannten personenbezogenen Daten und sämtlicher Verweise darauf nach § 23 DSG-EKD auch allen solchen Empfängern mitzuteilen. Bitte informieren Sie mich weiterhin über diese Empfänger.
 
 Sollten Sie die Löschung ablehnen, haben Sie dies mir gegenüber zu begründen.
 
-Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des § 4 Nr. 9 DSG-EKD sind[runs>: {runs_list}].
+Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie verantwortliche Stelle im Sinne des § 4 Nr. 9 DSG-EKD sind[runs>: {runs_list}].
 
 Nach § 16 Abs. 3 DSG-EKD haben Sie mich unverzüglich, spätestens aber innerhalb von drei Monaten nach Eingang des Antrags, über die vorgenommenen Löschungen zu informieren.
 [has_fields>
