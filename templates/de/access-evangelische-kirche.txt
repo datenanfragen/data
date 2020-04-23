@@ -18,7 +18,7 @@ In diesem Fall bitte ich Sie im Sinne des § 19 Abs. 1 DSG-EKD um Auskunft über
 [data_portability>
 Ich bitte Sie, mir die betreffenden personenbezogenen Daten, die ich Ihnen zur Verfügung gestellt habe, im Sinne des § 24 Abs. 1 DSG-EKD in einem strukturierten, gängigen und maschinenlesbaren Format zu übermitteln.
 ]
-Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des § 4 Nr. 9 DSG-EKD sind[runs>: {runs_list}].
+Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie verantwortliche Stelle im Sinne des § 4 Nr. 9 DSG-EKD sind[runs>: {runs_list}].
 
       Die Auskunft ist nach § 16 Abs. 3 DSG-EKD unverzüglich, in jedem Fall aber innerhalb von drei Monaten nach Eingang der Anfrage zu erteilen. Sie hat nach § 17 Abs. 3 KDG kostenlos zu erfolgen.
 [has_fields>
