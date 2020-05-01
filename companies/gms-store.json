@@ -1,0 +1,19 @@
+{
+    "slug": "gms-store",
+    "relevant-countries": [
+        "pt"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "GMS-Store",
+    "address": "Rua João Saraiva 16 A\n1700-250 Lisboa\nPortugal",
+    "phone": "+351 21 356 9876",
+    "email": "loja@gms-store.com",
+    "web": "https://www.gms-store.com",
+    "sources": [
+        "https://www.gms-store.com/pt/*/lojas_540.html?ids=9",
+        "https://github.com/datenanfragen/data/issues/569",
+        "https://www.gms-store.com/pt/informacoes/termos-e-condicoes_835.html"
+    ]
+}
