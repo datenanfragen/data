@@ -1,0 +1,19 @@
+{
+    "slug": "x-tract-io",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "X-tract.io",
+    "address": "48 Wall Street\n11th floor\nNY 10005\nUSA",
+    "phone": "+1 212 918 4456",
+    "email": "support@x-tract.io",
+    "web": "https://www.x-tract.io/solutions/online-reputation-management",
+    "sources": [
+        "https://www.x-tract.io/contact-us",
+        "https://github.com/datenanfragen/data/issues/583",
+        "https://www.x-tract.io/privacy-policy"
+    ]
+}
