@@ -1,0 +1,32 @@
+{
+    "slug": "mydealz",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "ads",
+        "social media"
+    ],
+    "name": "6Minutes Media GmbH ",
+    "runs": [
+        "mydealz.de",
+        "preisjaeger.at",
+        "Pepper Media Holding GmbH",
+        "Pepper Deals Ltd",
+        "Pepper France SAS",
+        "Tipping Canoe Ltd",
+        "PMH Solutions GmbH"
+    ],
+    "address": "Torstr. 164\n10115 Berlin\nDeutschland ",
+    "fax": "+49 32 121369790",
+    "email": "privacy@mydealz.de",
+    "web": "https://www.mydealz.de",
+    "sources": [
+        "https://www.mydealz.de/datenschutz",
+        "https://github.com/datenanfragen/data/issues/586",
+        "https://www.preisjaeger.at/datenschutz",
+        "https://www.mydealz.de/impressum"
+    ],
+    "suggested-transport-medium": "email"
+}
