@@ -5,7 +5,7 @@ I am hereby requesting immediate erasure of personal data concerning me accordin
 [erase_all>Please erase all personal data concerning me as defined by Article 4(1) GDPR.][erase_some>Please delete the following personal data concerning me:
 {erasure_data}]
 
-I am of the opinion that the requirements set forth in Article 17(1) GDPR are fulfilled. You cannot claim an expection based on Article 17(3) GDPR either, particularly as I am not a public figure.
+I am of the opinion that the requirements set forth in Article 17(1) GDPR are fulfilled. You cannot claim an exception based on Article 17(3) GDPR either, particularly as I am not a public figure.
 
 If I have given consent to the processing of my personal data (e.g. according to Article 6(1) or Article 9(2) GDPR), I am hereby withdrawing said consent for the entire process.
 In addition, I am objecting to the processing of personal data concerning me (which includes profiling), according to Article 21 GDPR. I request that you restrict the processing of the data concerning me pending the verification whether your legitimate grounds override mine, pursuant to Art. 18(1)(d) GDPR.
