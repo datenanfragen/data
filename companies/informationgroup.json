@@ -8,10 +8,11 @@
     ],
     "name": "Better Information Group Ltd",
     "address": "132-134 Great Ancoats Street\nManchester\nM4 6DE\nUnited Kingdom",
-    "email": "info@informationgroup.co.uk",
+    "email": "reply@informationgroup.co.uk",
     "web": "https://informationgroup.co.uk/",
     "sources": [
         "https://informationgroup.co.uk/privacy.html",
-        "https://github.com/datenanfragen/data/issues/544"
+        "https://github.com/datenanfragen/data/issues/544",
+        "https://github.com/datenanfragen/data/issues/555"
     ]
 }
