@@ -3,7 +3,8 @@ python:
   - '3.6'
 
 install:
-  - pip install --upgrade typesense jsonschema
+  - pip install jsonschema
+  - pip install -Iv typesense==0.4.0
 
 script:
   - echo "Nothing to be done."
