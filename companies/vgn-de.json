@@ -7,9 +7,6 @@
         "travel"
     ],
     "name": "VGN Verkehrsbund Groß­raum Nürn­berg GmbH",
-    "runs": [
-        "VAG Verkehrs-Aktiengesellschaft"
-    ],
     "address": "Rothen­burger Straße 9\n90443 Nürn­berg\nDeutschland",
     "phone": "+49 911 270750",
     "fax": "+49 911 2713780",
@@ -17,8 +14,8 @@
     "web": "https://www.vgn.de",
     "sources": [
         "https://www.vgn.de/datenschutz/",
-        "https://www.vag.de/datenschutz/",
-        "https://github.com/datenanfragen/data/issues/227"
+        "https://github.com/datenanfragen/data/issues/227",
+        "https://github.com/datenanfragen/data/issues/599"
     ],
     "required-elements": [
         {
