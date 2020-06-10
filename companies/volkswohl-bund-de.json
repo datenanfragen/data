@@ -1,0 +1,36 @@
+{
+    "slug": "volkswohl-bund-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "VOLKSWOHL BUND Lebensversicherung a. G.",
+    "runs": [
+        "VOLKSWOHL BUND Sachversicherung AG"
+    ],
+    "address": "Südwall 37-41\n44137 Dortmund\nDeutschland",
+    "phone": "+49 231 54330",
+    "fax": "+49 231 5433400",
+    "email": "info@volkswohl-bund.de",
+    "web": "https://www.volkswohl-bund.de/",
+    "sources": [
+        "https://www.volkswohl-bund.de/impressum",
+        "https://github.com/datenanfragen/data/issues/604"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "birthdate"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}
