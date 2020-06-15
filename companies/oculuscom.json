@@ -10,9 +10,9 @@
     ],
     "name": "Facebook Technologies Ireland Limited",
     "runs": [
-        "Oculus"
+        "Oculus", "Oculus VR Ireland Limited (formerly)"
     ],
-    "address": "Facebook Technologies Ireland Limited ATTN:\nOculus Privacy Operations\n4 Grand Canal Square, Grand Canal Harbour\nDublin 2, Ireland",
+    "address": "4 Grand Canal Square, Grand Canal Harbour\nDublin 2\nIreland",
     "email": "DPO-Inquiries@oculus.com",
     "web": "https://www.oculus.com",
     "sources": [
@@ -20,7 +20,5 @@
         "https://www.oculus.com/legal/about-us/",
         "https://github.com/datenanfragen/data/issues/609"
     ],
-    "comments": [
-        "ehemals Oculus VR Ireland Limited"
-    ]
+    "suggested-transport-medium": "email"
 }
