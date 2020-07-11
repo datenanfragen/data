@@ -1,0 +1,18 @@
+{
+    "slug": "swm-infrastruktur",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "SWM Infrastruktur GmbH & Co. KG",
+    "address": "Emmy-Noether-Straße 2\n80992 München\nDeutschland",
+    "email": "datenschutz@swm.de",
+    "web": "https://www.swm-infrastruktur.de",
+    "sources": [
+        "https://www.swm-infrastruktur.de/info/datenschutz.html",
+        "https://github.com/datenanfragen/data/issues/633"
+    ],
+    "suggested-transport-medium": "email"
+}
