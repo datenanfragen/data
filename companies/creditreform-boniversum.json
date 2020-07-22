@@ -5,14 +5,15 @@
     ],
     "name": "Creditreform Boniversum GmbH",
     "address": "Hellersbergstraße 11\n41460 Neuss\nDeutschland",
-    "phone": "+49 2131 36845 560",
-    "fax": "+49 2131 36845 570",
+    "phone": "+49 2131 109 501",
+    "fax": "+49 2131 109 557",
     "email": "selbstauskunft@boniversum.de",
     "web": "https://www.boniversum.de",
     "sources": [
         "https://www.boniversum.de/selbstauskunft/",
         "https://www.boniversum.de/datenschutzerklaerung/",
-        "https://www.boniversum.de/impressum/"
+        "https://www.boniversum.de/impressum/",
+        "https://github.com/datenanfragen/data/issues/634"
     ],
     "required-elements": [
         {
