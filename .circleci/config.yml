@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  build:
+  test:
       docker:
         - image: circleci/node:12-buster
       steps:
@@ -20,3 +20,33 @@ jobs:
             key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
             paths:
               - ./node_modules
+  deploy:
+    docker:
+        - image: circleci/node:12-buster
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
+
+      - run:
+          command: |
+            yarn
+            yarn deploy
+
+      - save_cache:
+          key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
+          paths:
+            - ./node_modules
+
+workflows:
+  version: 2
+  test_and_deploy:
+    jobs:
+      - test
+      - deploy:
+          requires:
+            - test
+          filters:
+            branches:
+              only: /^master$/
