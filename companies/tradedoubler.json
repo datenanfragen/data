@@ -12,16 +12,21 @@
         "Adnologies",
         "Interactive Marketing Works Ltd"
     ],
-    "address": "Birger Jarlsgatan 57A\n113 56 - Stockholm\nSweden\n",
+    "address": "Birger Jarlsgatan 57A\n113 56 Stockholm\nSweden\n",
     "phone": "+46 8 405 08 00",
     "email": "privacy@tradedoubler.com",
     "sources": [
+        "https://www.tradedoubler.com",
         "http://performancein.com/news/2015/01/26/tradedoubler-completes-deal-adnologies/",
         "https://en.wikipedia.org/wiki/Tradedoubler",
         "https://www.tradedoubler.com/en/privacy-policy/",
         "https://www.tradedoubler.com/en/about-us/"
     ],
     "required-elements": [
+       {
+            "desc": "Name",
+            "type": "name"
+       },
         {
             "desc": "TradedoublerGUID",
             "type": "input"
