@@ -1,0 +1,10 @@
+{
+    "slug": "erer",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "erer",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/688"
+    ]
+}
