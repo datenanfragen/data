@@ -6,11 +6,12 @@
     "name": "Bitly, Inc.",
     "address": "85 5th Avenue\nNew York\nNY 10003\nUnited States of America",
     "phone": "+1 646 678 5610",
-    "email": "support@bitly.com",
+    "email": "privacy@bitly.com",
     "web": "https://bitly.com/",
     "sources": [
         "https://bitly.com/pages/privacy",
-        "https://www.bloomberg.com/profiles/companies/8167727Z:US-bitly-inc"
+        "https://www.bloomberg.com/profiles/companies/8167727Z:US-bitly-inc",
+        "https://github.com/datenanfragen/data/issues/683"
     ],
     "required-elements": [
         {
@@ -22,5 +23,6 @@
             "type": "input"
         }
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "suggested-transport-medium": "email"
 }
