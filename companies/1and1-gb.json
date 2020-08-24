@@ -7,7 +7,7 @@
         "telecommunication",
         "commerce"
     ],
-    "name": "1&1 Internet Ltd.",
+    "name": "Test",
     "address": "Discovery House\n154 Southgate Street\nGloucester\nGL1 2EX\nUnited Kingdom",
     "phone": "+44 333 336 5691",
     "email": "privacypolicy@1and1.co.uk",
@@ -15,7 +15,8 @@
     "sources": [
         "https://www.1and1.co.uk/terms-gtc/fileadmin/Terms/PDF_UK/2017_UK_Privacy_policy.pdf",
         "https://contact.1and1.co.uk/contact",
-        "https://beta.companieshouse.gov.uk/company/03953678"
+        "https://beta.companieshouse.gov.uk/company/03953678",
+        "https://github.com/datenanfragen/data/pull/687"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email"
