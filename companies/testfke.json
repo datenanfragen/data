@@ -1,0 +1,11 @@
+{
+    "slug": "testfke",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "123",
+    "web": "https://test.fke",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/689"
+    ]
+}
