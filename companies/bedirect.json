@@ -1,0 +1,24 @@
+{
+    "slug": "bedirect",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "beDirect GmbH & Co. KG",
+    "runs": [
+        "beAddress.de"
+    ],
+    "address": "Carl-Bertelsmann-Str. 105 – 107\n33332 Gütersloh\nDeutschland",
+    "phone": "+49 5241 8045600",
+    "fax": "+49 5241 8045699",
+    "email": "datenschutz@bedirect.de",
+    "web": "https://www.bedirect-online.de",
+    "sources": [
+        "https://www.bedirect-online.de/de/datenschutz/",
+        "https://www.bedirect-online.de/de/datenschutz-dialogmarketing/"
+    ],
+    "suggested-transport-medium": "email"
+}
