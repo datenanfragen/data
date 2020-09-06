@@ -1,0 +1,17 @@
+{
+    "slug": "slack",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Slack Technologies Limited",
+    "runs": [
+        "Slack Technologies, Inc."
+    ],
+    "address": "4th Floor, One Park Place\nHatch Street Upper\nDublin 2\nIreland",
+    "email": "privacy@slack.com",
+    "web": "https://slack.com",
+    "sources": [
+        "https://slack.com/privacy-policy"
+    ],
+    "suggested-transport-medium": "email"
+}
