@@ -1,0 +1,18 @@
+{
+    "slug": "livehost-fr",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "commerce",
+        "telecommunication"
+    ],
+    "name": "Livehost.fr",
+    "address": "1 Chemin Du Moulin\n17220 Sainte Soulle\nFrance",
+    "web": "https://www.livehost.fr/",
+    "sources": [
+        "https://www.livehost.fr/fixe?cgu",
+        "https://www.societe.com/societe/monsieur-boris-mace-535288898.html",
+        "https://github.com/datenanfragen/data/issues/551"
+    ]
+}

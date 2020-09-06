@@ -1,0 +1,19 @@
+{
+    "slug": "smp-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "SMP GmbH & Co. KG",
+    "runs": [
+        "WG-Gesucht.de",
+        "onu.net (www.onu.com)"
+    ],
+    "address": "Reinsburgstraße 184\n70197 Stuttgart\nGermany",
+    "email": "datenschutz@wg-gesucht.de",
+    "web": "https://www.wg-gesucht.de/",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/394",
+        "https://www.wg-gesucht.de/datenschutz.html"
+    ],
+    "suggested-transport-medium": "email"
+}

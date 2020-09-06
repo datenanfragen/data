@@ -1,0 +1,13 @@
+À qui de droit :
+
+Je dépose, par la présente, une plainte conformément à l'Article 77 du RGPD. Le {request_date}, j'ai envoyé une demande conformément à l'Article {request_article} du RGPD pour le contrôleur suivant :
+{request_recipient_address}
+
+{Description des faits par le contrôleur et les actions que tu as effectuées (par exemple, injonctions ou toute autre correspondance, inclure les reçus)}. 
+
+C'est pourquoi je dépose cette plainte auprès de vous. Veuillez vérifier cette pratique auprès du contrôleur et faire en sorte de se conformer à ma demande.
+
+Si vous avez besoin de plus de détails, n'hésitez pas à me contacter. Vous pouvez me joindre {description de la manière de vous contacter, par exemple, adresse e-mail, adresse postale, numéro de téléphone}. [facultatif : Merci de garder cette information confidentielle afin de préserver mon anonymat.]
+Merci d'avance pour votre aide.
+
+Cordialement,

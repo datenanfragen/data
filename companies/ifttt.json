@@ -11,7 +11,8 @@
     "web": "https://ifttt.com/",
     "sources": [
         "https://ifttt.com/terms",
-        "https://github.com/datenanfragen/data/issues/212"
+        "https://github.com/datenanfragen/data/issues/212",
+        "https://github.com/datenanfragen/data/issues/525"
     ],
     "suggested-transport-medium": "email"
 }

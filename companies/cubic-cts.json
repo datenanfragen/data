@@ -1,0 +1,23 @@
+{
+    "slug": "cubic-cts",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Cubic Transportation Systems (Deutschland) GmbH",
+    "address": "Alter Fischmarkt 11\n20457 Hamburg\nDeutschland",
+    "phone": "+49 40 300863680",
+    "fax": "+49 40 3008636910",
+    "email": "datenschutz@cubic.com",
+    "web": "https://www.cubic-cts.de/",
+    "sources": [
+        "https://www.cubic-cts.de/impressum",
+        "https://github.com/datenanfragen/data/issues/483"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Cubic betreibt Apps für verschiedene ÖPNVs über die man Handytickets kaufen kann."
+    ]
+}

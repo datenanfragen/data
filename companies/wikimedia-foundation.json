@@ -1,0 +1,36 @@
+{
+    "slug": "wikimedia-foundation",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Wikimedia Foundation, Inc.",
+    "runs": [
+        "Wikipedia",
+        "Mediawiki",
+        "Wikimedia Commons",
+        "Wikispecies",
+        "Wikilivres",
+        "Wikidata",
+        "Wikimania",
+        "Wikinews",
+        "Wikiquote",
+        "Wikiversity",
+        "Wikivoyage",
+        "Wiktionnaire",
+        "meta.wikimedia.org"
+    ],
+    "address": "1 Montgomery Street\nSuite 1600\nSan Francisco, CA 94104\nUSA",
+    "phone": "+1 415 839 6885",
+    "fax": "+1 415 882 0495",
+    "email": "privacy@wikimedia.org",
+    "web": "https://www.wikipedia.org/",
+    "sources": [
+        "https://meta.wikimedia.org/wiki/Privacy_policy/",
+        "https://github.com/datenanfragen/data/issues/438"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
+}

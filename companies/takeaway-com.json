@@ -22,7 +22,12 @@
         "Takeaway.com",
         "Pyszne.pl",
         "Thuisbezorgd.nl",
-        "10bis"
+        "10bis",
+        "pizza.de (ehem.)",
+        "foodora.de (ehem.)",
+        "lieferservice.de (ehem.)",
+        "lieferheld.de (ehem.)"
+
     ],
     "address": "Oosterdoksstraat 80\n1011 DK Amsterdam\nNederland",
     "phone": "+31 20 210 7000",
@@ -42,7 +47,8 @@
         "https://www.takeaway.com/be-en/colofon",
         "https://www.takeaway.com/ch-en/colofon",
         "https://www.thuisbezorgd.nl/colofon",
-        "https://www.10bis.co.il/next/privacyPolicy"
+        "https://www.10bis.co.il/next/privacyPolicy",
+        "https://en.wikipedia.org/wiki/Takeaway.com"
     ],
     "required-elements": [
         {

@@ -1,0 +1,22 @@
+{
+    "slug": "agentur-smash",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Smash Online GmbH",
+    "runs": [
+        "Agentur Smash"
+    ],
+    "address": "Landsberger Straße 155\n80687 München\nDeutschland",
+    "phone": "+49 3222 34 28 073",
+    "email": "mail@agentur-smash.de",
+    "web": "https://agentur-smash.de/",
+    "sources": [
+        "https://agentur-smash.de/datenschutz/",
+        "https://github.com/datenanfragen/data/issues/647",
+        "https://agentur-smash.de/impressum/"
+    ]
+}

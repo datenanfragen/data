@@ -1,0 +1,20 @@
+{
+    "slug": "giebel-und-kollegen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Giebel und Kollegen Rechtsanwälte und Rechtsbeistand in Partnerschaft mbB",
+    "address": "Stresemannstraße 60 \n28207 Bremen\nDeutschland",
+    "phone": "+49 421 22310516",
+    "fax": "+49 421 22310515",
+    "email": "datenschuetzer@giebel.de",
+    "web": "https://www.giebel.de",
+    "sources": [
+        "https://www.giebel.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/issues/495"
+    ],
+    "suggested-transport-medium": "email"
+}

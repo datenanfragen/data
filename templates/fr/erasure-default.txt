@@ -1,0 +1,25 @@
+À qui de droit :
+
+Je viens par la présente, demander la suppression immédiate des données personnelles me concernant conformément à l'Article 17 du RGPD.
+
+[erase_all>Veuillez supprimer toutes les données personnelles me concernant comme définit pat l'Article 4, alinéa 1 du RGPD.][erase_some>Veuillez supprimer les données personnelles suivantes me concernant :
+{erasure_data}]
+
+Je suis convaincu que les conditions énoncées à l'Article 17, alinéa 1, du RGPD sont remplies.
+
+Si j'ai consenti au traitement de mes données à caractère personnel (par exemple, conformément à l'Article 6, alinéa 1, ou à l'Article 9, alinéa 2 du RGPD), je retire ce consentement par la présente.
+En outre, je m'oppose au traitement des données à caractère personnel me concernant (ce qui inclut le profilage), conformément à l'Article 21 du RGPD.
+
+Si vous avez communiqué les données à caractère personnel concernées à des tiers, vous devez communiquer ma demande de suppression de ces données, ainsi que toute référence à celles-ci, à chaque destinataire, conformément à l'Article 19 du RGPD. Veuillez également m'informer au sujet de ces destinataires.
+
+Si vous vous opposez à cette demande de suppression, vous devez me le justifier.
+
+Ma demande inclut explicitement [runs>les services et sociétés suivants ], ainsi que tous les autres services et sociétés dont vous êtes le responsable du traitement en vertu de l'Article 4, alinéa 7, du RGPD [runs>: {runs_list}].
+
+Conformément à l'Article 12, alinéa 3, du RGPD, vous devez me confirmer la suppression dans un délai raisonnable et, en tout état de cause, dans le mois qui suit la réception de la demande.
+[has_fields>
+J'inclus les informations suivantes nécessaires à mon identification :
+{id_data}]
+Si vous ne répondez pas à ma demande dans le délai imparti, je me réserve le droit d'intenter une action en justice contre vous et d'introduire une plainte auprès de l'autorité de contrôle compétente.
+
+Cordialement,

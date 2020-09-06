@@ -1,0 +1,22 @@
+{
+    "slug": "meapp",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "N.F.O software development and real estate Ltd",
+    "runs": [
+        "MeApp"
+    ],
+    "address": "Arva Imahot Blvd. 4\n7773504 Ashdod\nIsrael",
+    "phone": "+972 52 535 1166",
+    "email": "me@meapp.info",
+    "web": "http://www.meapp.info",
+    "sources": [
+        "http://www.meapp.info/privacy-policy-terms-of-use/",
+        "https://github.com/datenanfragen/data/issues/529",
+        "https://www.dunsguide.co.il/en/C1a8dcd2bbb92365aa8b98ba0306fe0b9_high_tech_computing_services/nfo_software_development_and_real_estate/"
+    ]
+}

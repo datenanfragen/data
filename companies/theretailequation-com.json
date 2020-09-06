@@ -1,0 +1,31 @@
+{
+    "slug": "theretailequation-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "The Retail Equation",
+    "address": "Box 112\n155 Minories\nLondon\nEC3N 1AD\nUnited Kingdom",
+    "phone": "+44 800 689 0283",
+    "email": "info@theretailequation.com",
+    "web": "https://www.theretailequation.com",
+    "sources": [
+        "https://www.theretailequation.com/privacy-policy-eu/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ]
+}

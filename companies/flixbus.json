@@ -1,5 +1,8 @@
 {
     "slug": "flixbus",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "travel"
     ],
@@ -10,16 +13,14 @@
     ],
     "address": "Birketweg 33\n80639 München\nDeutschland",
     "phone": "+49 30 300 137 300",
-    "email": "datenschutz@flixbus.de",
+    "email": "data.protection@flixbus.com",
     "web": "https://www.flixbus.de/",
     "sources": [
         "https://www.flixbus.de/datenschutz",
         "https://meinfernbus.de/de/datenschutz.html",
         "https://cdn.flixbus.de/2017-11/data-privacy.pdf",
-        "https://www.flixbus.de/impressum"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.flixbus.de/impressum",
+        "https://github.com/datenanfragen/data/issues/561"
     ],
     "suggested-transport-medium": "email"
 }

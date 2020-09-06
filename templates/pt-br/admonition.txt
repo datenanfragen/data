@@ -1,8 +1,0 @@
-A quem possa interessar:
-
-No dia {request_date}, enviei-vos uma solicitação de acordo com o artigo {request_article} do RGPD.
-{Descrição do problema, por exemplo: Infelizmente, não recebi uma resposta até o momento. O período de um mês de acordo com o artigo 12(3) item 1 do RGPD éstá, portanto, excedido.}
-
-É por isso que estou entrando em contato com vocês novamente. Após a chegada desta advertência, por favor respondam adequadamente a minha solicitação dentro de duas semanas. Caso contrário, estou reservando o direito de tomar medidas legais contra vocês e de apresentar uma reclamação à autoridade supervisora ​​responsável.
-
-Atenciosamente,

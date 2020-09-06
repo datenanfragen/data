@@ -6,13 +6,17 @@
     "categories": [
         "social media"
     ],
-    "name": "Twitch Interactive, Inc.",
-    "address": "225 Bush Street\n9th Floor\nSan Francisco\nCA 94104\nUnited States of America",
+    "name": "Twitch UK Limited",
+    "runs": [
+        "Twitch Interactive, Inc."
+    ],
+    "address": "1 New Oxford Street\nLondon\nWC1A 1BA\nUnited Kingdom",
     "email": "privacy@twitch.tv",
     "web": "https://www.twitch.tv",
     "sources": [
         "https://www.twitch.tv/p/legal/privacy-policy/",
-        "https://www.twitch.tv/p/legal/terms-of-service/"
+        "https://www.twitch.tv/p/legal/terms-of-service/",
+        "https://github.com/datenanfragen/data/issues/623"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email"

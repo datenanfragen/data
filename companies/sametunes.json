@@ -1,0 +1,28 @@
+{
+    "slug": "sametunes",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "SameTunes LLC",
+    "address": "300 Colonial Center Parkway STE 100N\nRoswell\nGA 30076\nUnited States of America",
+    "email": "support@sametunes.com",
+    "web": "https://sametunes.com",
+    "sources": [
+        "https://sametunes.com/privacy.php",
+        "https://github.com/datenanfragen/data/issues/654"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Email",
+            "type": "email"
+        }
+    ],
+    "request-language": "en"
+}

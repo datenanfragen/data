@@ -1,0 +1,20 @@
+{
+    "slug": "proximus",
+    "relevant-countries": [
+        "be",
+        "nl"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Proximus",
+    "address": "Proximus Towers\nKoning Albert II-laan 27\n1030 Brussel\nBelgium",
+    "email": "privacy@proximus.com",
+    "web": "https://www.proximus.com/",
+    "sources": [
+        "https://www.proximus.com/nl/our-company/offices_headquarters_Schaerbeek.html",
+        "https://github.com/datenanfragen/data/issues/361",
+        "https://www.proximus.be/en/id_cr_warnland/personal/products/orphans/legal-information.html#/privacy"
+    ],
+    "suggested-transport-medium": "email"
+}

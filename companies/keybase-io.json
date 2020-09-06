@@ -12,6 +12,11 @@
     ],
     "required-elements": [
         {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
             "desc": "Username",
             "type": "input"
         },

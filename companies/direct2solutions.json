@@ -16,6 +16,11 @@
     ],
     "required-elements": [
         {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
             "desc": "E-Mail-Adresse",
             "type": "input",
             "optional": false

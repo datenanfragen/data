@@ -1,0 +1,18 @@
+{
+    "slug": "nintendo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Nintendo of Europe GmbH",
+    "address": "Herriotstrasse 4\n60528 Frankfurt am Main\nGermany",
+    "email": "privacyinquiry.noe@nintendo.de",
+    "web": "https://www.nintendo.de/",
+    "sources": [
+        "https://www.nintendo.de/Rechtliche-Informationen/Webseiten-und-My-Nintendo-Store-Datenschutzerklarung/Webseiten-und-My-Nintendo-Store-Datenschutzerklarung-637785.html",
+        "https://github.com/datenanfragen/data/issues/424"
+    ],
+    "suggested-transport-medium": "email"
+}

@@ -1,0 +1,20 @@
+{
+    "slug": "lottoland",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Deutsche Lotto- und Sportwetten Ltd.",
+    "runs": [
+        "Lottoland"
+    ],
+    "address": "Valley Towers, Suite 5\nValley Road, Birkirkara\nBKR 9022\nMalta",
+    "phone": "+49 40 82216931",
+    "email": "dpo@lottoland.com",
+    "web": "https://www.lottoland.com",
+    "sources": [
+        "https://www.lottoland.com/datenschutz",
+        "https://www.lottoland.com/impressum",
+        "https://github.com/datenanfragen/data/issues/648"
+    ],
+    "suggested-transport-medium": "email"
+}

@@ -1,0 +1,22 @@
+{
+    "slug": "likee",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "social media"
+    ],
+    "name": "Bigo Technology Pte. Ltd.",
+    "runs": [
+        "Likee",
+        "LIKE Video (formerly)"
+    ],
+    "address": "30 Pasir Panjang Road # 15-31A\nMapletree Business City\nSingapore 117440",
+    "email": "likeeaffairs@bigo.sg",
+    "web": "https://likee.com",
+    "sources": [
+        "https://likee.com/privacy",
+        "https://github.com/datenanfragen/data/issues/539"
+    ]
+}

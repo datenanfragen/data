@@ -1,0 +1,29 @@
+{
+    "slug": "apollo-io",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses",
+        "ads"
+    ],
+    "name": "Apollo.io",
+    "runs": [
+        "ZenLeads, Inc",
+        "ZenProspect"
+    ],
+    "address": "101 Montgomery Street\nSuite 400\nSan Francisco\nCA 94104\nUnited States of America",
+    "email": "privacy@apollo.io",
+    "web": "https://apollo.io",
+    "sources": [
+        "https://www.bloomberg.com/profile/company/1630711D:US",
+        "https://www.apollo.io/privacy/ccpa-privacy-statement/",
+        "https://github.com/datenanfragen/data/issues/582",
+        "https://www.apollo.io/contact/",
+        "https://www.apollo.io/terms-of-service/"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Possible other addresses:\n\n- 535 Mission Street, Suite #1100, San Francisco, CA 94105, USA (from: https://www.apollo.io/contact/)\n- 599 2nd Street, San Francisco, CA 94107, USA (from: https://www.bloomberg.com/profile/company/1630711D:US)"
+    ]
+}

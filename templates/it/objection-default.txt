@@ -1,0 +1,16 @@
+A chi di competenza:
+
+Con la presente mi oppongo al trattamento dei dati personali che mi riguardano per scopi di marketing diretto secondo l'articolo 21(2) del GDPR. Questa obiezione include l'uso per la profilazione per scopi di marketing diretto.
+
+Se ho dato il mio consenso al trattamento dei miei dati personali per scopi di marketing diretto (ad es. ai sensi dell'articolo 6(1) o dell'articolo 9(2) del GDPR), con la presente revoco tale consenso.
+
+La mia richiesta include esplicitamente [runs>il seguente così come ]qualsiasi altro servizio e compagnia dei quali voi siete titolari del trattamento come definito dall'articolo 4(7) del GDPR[runs>: {runs_list}].
+
+Secondo l'articolo 12(3) del GDPR, è necessario confermare la mia opposizione senza indugio, al più tardi entro un mese dal ricevimento della richiesta.
+
+[has_fields>
+Includo le seguenti informazioni necessarie a identificarmi:
+{id_data}]
+Se non risponderete alla mia richiesta entro il periodo indicato, io mi riservo il diritto d'intraprendere un'azione legale contro di voi e di presentare un reclamo all'autorità di controllo responsabile.
+
+Cordialmente,
