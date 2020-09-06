@@ -1,16 +1,16 @@
 {
-    "slug": "immostreet",
-    "name": "ImmoStreet AG",
-    "address": "ImmoStreet AG\nWerdstrasse 21\n8021 Zürich\nSchweiz",
-    "phone": "+41 848 100 200",
-    "email": "policy@immostreet.ch ",
-    "web": "https://www.immostreet.ch",
-    "sources": [
-        "https://www.immostreet.ch/de/artikel/uber-uns/",
-        "https://www.immostreet.ch/de/artikel/privacy-policy/",
-		"https://www.immostreet.ch/de/kontakt/"
-    ],
     "relevant-countries": [
         "ch"
+    ],
+    "slug": "immostreet",
+    "name": "ImmoStreet AG",
+    "address": "Werdstrasse 21\n8021 Zürich\nSchweiz",
+    "phone": "+41 848 100 200",
+    "email": "policy@immostreet.ch",
+    "web": "https://www.immostreet.ch",
+    "sources": [
+        "https://www.immostreet.ch/de/article/uber-uns/",
+        "https://www.immostreet.ch/de/article/privacy-policy/",
+        "https://www.immostreet.ch/de/kontakt/"
     ]
 }

@@ -1,17 +1,18 @@
 {
+    "relevant-countries": [
+        "ch"
+    ],
     "slug": "newhome",
     "name": "newhome.ch AG",
-    "address": "newhome.ch AG\nStauffacherstrasse 45\n8004 Zürich\nSchweiz",
+    "address": "Stauffacherstrasse 45\n8004 Zürich\nSchweiz",
     "phone": "+41 44 240 11 60",
     "email": "datenschutz@newhome.ch",
     "web": "https://www.newhome.ch",
     "sources": [
         "https://www.newhome.ch/blog/de/datenschutzbestimmungen/",
         "https://www.newhome.ch/blog/de/wer-ist-newhome-ch/",
-		"https://www.newhome.ch/de/kontakt",
-		"https://www.newhome.ch/blog/de/impressum/"
+        "https://www.newhome.ch/de/kontakt",
+        "https://www.newhome.ch/blog/de/impressum/"
     ],
-    "relevant-countries": [
-        "ch"
-    ]
+    "suggested-transport-medium": "email"
 }
