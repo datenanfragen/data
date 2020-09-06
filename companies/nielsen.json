@@ -1,0 +1,21 @@
+{
+    "slug": "nielsen",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Nielsen Holdings Plc",
+    "runs": [
+        "VisualDNA"
+    ],
+    "address": "Nielsen House\nOxford Business Park South\nJohn Smith Drive\nOxford OX4 2WB\nUK",
+    "email": "privacy.department@nielsen.com",
+    "web": "https://www.nielsen.com",
+    "sources": [
+        "https://www.nielsen.com/eu/en/legal/privacy-statement/gdpr-operating-entities/",
+        "https://www.nielsen.com/eu/en/legal/privacy-statement/faqs-nielsen-and-the-gdpr/"
+    ],
+    "suggested-transport-medium": "email"
+}
