@@ -1,0 +1,22 @@
+{
+    "slug": "panic",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Panic Inc.",
+    "runs": [
+        "Coda"
+    ],
+    "address": "315 SW 11th Ave\n4th Floor\nPortland\nOR 97205\nUnited States of America",
+    "email": "gdpr@panic.com",
+    "web": "https://panic.com/",
+    "sources": [
+        "https://panic.com/privacy/",
+        "https://panic.com/",
+        "https://github.com/datenanfragen/data/issues/611"
+    ],
+    "suggested-transport-medium": "email"
+}

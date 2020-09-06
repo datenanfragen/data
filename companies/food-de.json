@@ -1,0 +1,21 @@
+{
+    "slug": "food-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "food direkt GmbH",
+    "runs": [
+        "Online-Supermarkt food.de"
+    ],
+    "address": "Spohrstraße 10\n04103 Leipzig\nDeutschland",
+    "phone": "+49 341 26375011",
+    "email": "einkaufen@food.de",
+    "web": "https://food.de",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/510",
+        "https://food.de/datenschutz"
+    ]
+}

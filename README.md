@@ -1,14 +1,24 @@
 # Company data for Datenanfragen.de
 
-This repository contains a directory of contact information and privacy-related data on companies (and other organizations) under the scope of the EU GDPR, a directory of supervisory authorities for privacy concerns, a collection of templates for GDPR requests and a list of suggested companies to send access requests to.  
+This repository contains a directory of contact information and privacy-related data on companies (and other organizations) under the scope of the EU GDPR, a directory of the supervisory data protection authorities, a collection of templates for GDPR requests in various languages and a list of suggested companies to send access requests to.  
 It is used to power the Datenanfragen.de company database but we warmly welcome you to use the data for your own projects!
 
 ## Contributing
 
-Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you to contribute whatever information you have. Currently, please just submit pull requests in order to do so. You can use [this tool](https://company-json.netlify.com/) to generate valid JSON records.  
-We are working on easier ways to help you contribute.
+Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you to contribute whatever information you have. You can add new records or edit existing ones directly through the [company database](https://www.datarequests.org/company/) on our website.  
+If you want to edit many companies or do more involved edits, we recommend submitting pull requests directly to this repo (feel free to group changes to multiple records in a single PR). We have developed [this tool](https://company-json.netlify.com/) to make generating valid JSON records easier.
 
 Please be aware that by contributing, you agree for your work to be released under a Creative Commons CC0 1.0 Universal license, as specified in the `LICENSE` file.
+
+### Testing records
+
+We have an automated testing script for the records. The script makes sure that all records follow our schema and catches common errors.
+
+If you submit a PR, your changes will automatically be tested in our CI environment.
+
+However, you can also run the script locally. To do so, first install [Node.js](https://nodejs.org/en/download/) and the [Yarn package manager](https://yarnpkg.com/lang/en/docs/install/). In the repository folder, run `yarn` to grab all necessary dependencies.  
+This will automatically install a *pre-commit hook*: Whenever you commit your changes, the testing script will automatically run and check for errors.  
+To use it manually, simply run `yarn test`.
 
 ## Data formats
 
@@ -22,6 +32,10 @@ A list for a country is represented by a JSON array of the slugs representing th
 Finally, the `supervisory-authorities` folder contains data on supervisory data protection authorities. They are structured similarly to the company records, following the schema in the `schema-supervisory-authorities.json` file.
 
 ## Data format guidelines and resources (for company records)
+
+### Companies we are interested in
+
+We are only interested in [companies that the GDPR applies to](https://www.datarequests.org/blog/gdpr-territorial-scope/). In practice, that means that the company either has to have an establishment in an EU country or the company has to deliberately process the data of people in the EU.
 
 ### Data sources
 

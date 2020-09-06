@@ -14,9 +14,10 @@
     "web": "https://finance.arvato.com/de/verbraucher/selbstauskunft/infoscore-consumer-data-gmbh.html",
     "sources": [
         "https://finance.arvato.com/de/verbraucher/selbstauskunft.html",
-        "https://www.arvato.com/content/dam/arvato/documents/financial-solutions/Antrag_Selbstauskunft_infoscore_Consumer_Data_GmbH.pdf",
+        "https://finance.arvato.com/4a2850/globalassets/02-documents/04-ger/07-icd/antrag_selbstauskunft.pdf",
         "https://finance.arvato.com/content/dam/arvato/arvato-financial-solutions/de/documents/service-fuer-verbraucher/informationsblatt_artikel_14_EUDSGVO.pdf",
-        "https://github.com/datenanfragen/data/issues/100"
+        "https://github.com/datenanfragen/data/issues/100",
+        "https://github.com/datenanfragen/data/issues/637"
     ],
     "required-elements": [
         {

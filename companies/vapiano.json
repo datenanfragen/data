@@ -1,0 +1,25 @@
+{
+    "slug": "vapiano",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "VAPIANO SE",
+    "runs": [
+        "VAPIANO PEOPLE",
+        "VAPIANO INTERNATIONAL MARKETING GmbH"
+    ],
+    "address": "Im Zollhafen 2-4\n50678 Köln\nGermany",
+    "phone": "+49 931 30 49 76 0",
+    "fax": "+49 221 67001 205",
+    "email": "office@datenschutz-sued.de",
+    "web": "https://www.vapiano.com",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/392",
+        "https://www.vapiano.com/en/data-protection/",
+        "https://www.vapiano.com/en/imprint/"
+    ],
+    "suggested-transport-medium": "email"
+}

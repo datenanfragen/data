@@ -1,0 +1,26 @@
+{
+    "slug": "orange",
+    "relevant-countries": [
+        "fr",
+        "be",
+        "es",
+        "lu",
+        "md",
+        "pl",
+        "ro",
+        "sk"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Orange SA",
+    "address": "78 rue Olivier de Serres\n75 015 Paris Cedex 15\nFrance",
+    "phone": "+33 1 44 44 22 22",
+    "web": "https://www.orange.com/",
+    "sources": [
+        "https://www.orange.com/en/Footer/legal-matters",
+        "https://fr.wikipedia.org/wiki/Orange_(entreprise)",
+        "https://github.com/datenanfragen/data/issues/432",
+        "https://www.orange.com/en/Footer/Privacy-Notice-protecting-your-personal-data"
+    ]
+}

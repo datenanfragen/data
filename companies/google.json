@@ -81,6 +81,9 @@
         "https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI",
         "https://www.google.de/intl/en/about/products/"
     ],
+    "comments": [
+        "If your requests are denied using canned responses, it may be worth also emailing dpo-google@google.com."
+    ],
     "required-elements": [
         {
             "desc": "Name",

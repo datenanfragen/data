@@ -1,0 +1,29 @@
+{
+    "slug": "leopold-apotheke-nbg-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Leopold-Apotheke, Helene Worowski e.K.",
+    "address": "Leopoldstr. 11a\n90439 Nürnberg\nDeutschland",
+    "phone": "+49 911 613607",
+    "fax": "+49 911 614653",
+    "email": "leopold.apotheke@freenet.de",
+    "web": "http://www.leopold-apotheke-nbg.de",
+    "sources": [
+        "http://www.leopold-apotheke-nbg.de/impressum",
+        "https://github.com/datenanfragen/data/issues/414"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}

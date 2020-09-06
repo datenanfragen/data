@@ -1,28 +1,52 @@
 version: 2.1
 
 jobs:
-  build:
+  test:
       docker:
-        - image: circleci/python:3.7-buster
+        - image: circleci/node:12-buster
       steps:
         - checkout
 
-        - run: sudo pip install pipenv
-
-        # Cache, see: https://circleci.com/docs/2.0/language-python/#cache-dependencies
-        - run: 'sudo chown -R circleci:circleci /usr/local/bin  || :'
-        - run: 'sudo chown -R circleci:circleci /usr/local/lib/python3.6/site-packages || :'
+        # Cache, see: https://circleci.com/docs/2.0/language-javascript/#sample-configuration
         - restore_cache:
-            key: deps9-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+            key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
 
         - run:
             command: |
-              pipenv install
-              python test-records.py
+              yarn
+              yarn test
 
         - save_cache:
-            key: deps9-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+            key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
             paths:
-              - ".venv"
-              - "/usr/local/bin"
-              - "/usr/local/lib/python3.6/site-packages"
+              - ./node_modules
+  deploy:
+    docker:
+        - image: circleci/node:12-buster
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
+
+      - run:
+          command: |
+            yarn
+            yarn deploy
+
+      - save_cache:
+          key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
+          paths:
+            - ./node_modules
+
+workflows:
+  version: 2
+  test_and_deploy:
+    jobs:
+      - test
+      - deploy:
+          requires:
+            - test
+          filters:
+            branches:
+              only: /^master$/

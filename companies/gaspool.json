@@ -1,0 +1,27 @@
+{
+    "slug": "gaspool",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "GASPOOL Balancing Services GmbH",
+    "runs": [
+        "GASCADE Gastransport GmbH",
+        "Gastransport Nord GmbH",
+        "Gasunie Deutschland Transport Services GmbH",
+        "Nowega GmbH",
+        "ONTRAS Gastransport GmbH"
+    ],
+    "address": "Anna-Louisa-Karsch-Str. 2\n10178 Berlin\nDeutschland",
+    "phone": "+49 30 364289654",
+    "email": "datenschutz@gaspool.de",
+    "web": "https://www.gaspool.de/",
+    "sources": [
+        "https://www.gaspool.de/impressum/",
+        "https://github.com/datenanfragen/data/issues/575",
+        "https://www.gaspool.de/datenschutz"
+    ],
+    "suggested-transport-medium": "email"
+}

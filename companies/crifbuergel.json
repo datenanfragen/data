@@ -5,13 +5,15 @@
         "addresses"
     ],
     "name": "CRIF Bürgel GmbH",
-    "address": "Kaiserstraße 217\n76133 Karlsruhe\nDeutschland",
+    "address": "Friesenweg 4\nHaus 12\n22763 Hamburg\nDeutschland",
     "phone": "+49 40 89803 0",
-    "fax": "+49 721 151 16 86",
-    "email": "datenschutz.de@crif.com",
+    "fax": "+49 40 89803 309",
+    "email": "datenschutz@crifbuergel.de",
     "web": "https://www.crifbuergel.de",
     "sources": [
-        "https://www.crifbuergel.de/de/kontakt/selbstauskunft"
+        "https://www.crifbuergel.de/de/kontakt/selbstauskunft",
+        "https://www.crifbuergel.de/de/datenschutz",
+        "https://github.com/datenanfragen/data/issues/636"
     ],
     "required-elements": [
         {

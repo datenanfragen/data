@@ -1,0 +1,22 @@
+{
+    "slug": "exclusiv-marketing-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "EXCLUSIV Marketing GmbH",
+    "runs": [
+        "KioskPresse.de"
+    ],
+    "address": "Kistlerhofstr. 170\n81379 München\nDeutschland",
+    "phone": "+49 89 21129188",
+    "email": "auskunft@deutsche-datenschutzkanzlei.de",
+    "web": "https://kioskpresse.de/",
+    "sources": [
+        "https://kioskpresse.de/_downloads/2018-06-28-Datenschutzerklaerung-KP.pdf",
+        "https://github.com/datenanfragen/data/issues/524"
+    ],
+    "suggested-transport-medium": "email"
+}

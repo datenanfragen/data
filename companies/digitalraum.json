@@ -1,0 +1,22 @@
+{
+    "slug": "digitalraum",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads",
+        "social media"
+    ],
+    "name": "Digitalraum GmbH",
+    "address": "Ackerstrassse 11\n40233 Düsseldorf\nDeutschland",
+    "phone": "+49 211 93677836",
+    "fax": "+49 211 93677830",
+    "email": "datenschutz@digitalraum.de",
+    "web": "https://www.digitalraum.de/",
+    "sources": [
+        "https://www.digitalraum.de/datenschutz/",
+        "https://github.com/datenanfragen/data/issues/441",
+        "https://www.digitalraum.de/wp-content/uploads/2019/01/Information_gem._Art._13_der_EU-DSGVO_zur_Bewerberdatenverarbeitung-Digitalraum.pdf"
+    ],
+    "suggested-transport-medium": "email"
+}

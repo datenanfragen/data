@@ -1,0 +1,29 @@
+{
+    "slug": "gmmi",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "GMMI, Inc.",
+    "address": "880 SW 145th Avenue, Suite 400\nPembroke Pines\nFL 33027\nUSA",
+    "phone": "+1 954 370 6404",
+    "email": "legal@gmmi.com",
+    "web": "https://www.gmmi.com",
+    "sources": [
+        "https://www.gmmi.com/-/media/partner-portal/gmmi/files/gdpr/gdpr_privacypolicy_pdf.pdf",
+        "https://github.com/datenanfragen/data/issues/667"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Address",
+            "type": "address"
+        }
+    ],
+    "request-language": "en"
+}

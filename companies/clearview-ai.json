@@ -1,0 +1,20 @@
+{
+    "slug": "clearview-ai",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Clearview AI, Inc.",
+    "address": "214 W 29th St\n2nd Floor\nNew York City\nNY 10001\nUnited States of America",
+    "email": "privacy-requests@clearview.ai",
+    "web": "https://clearview.ai/",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/552",
+        "https://staticfiles.clearview.ai/privacy_policy.html",
+        "https://staticfiles.clearview.ai/terms_of_service.html",
+        "https://clearview.ai/contact"
+    ],
+    "suggested-transport-medium": "email"
+}
