@@ -12,7 +12,7 @@
         "Pinterest GmbH"
     ],
     "address": "Palmerston House\n2nd Floor\nFenian Street\nDublin 2\nIreland",
-    "email": "hallo@pinterest.com",
+    "email": "privacy-support@pinterest.com",
     "web": "https://www.pinterest.com/",
     "sources": [
         "https://policy.pinterest.com/en/privacy-policy",
@@ -21,5 +21,6 @@
     ],
     "comments": [
         "Contact form: https://help.pinterest.com/en/contact"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }
