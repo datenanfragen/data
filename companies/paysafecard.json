@@ -1,0 +1,25 @@
+{
+    "slug": "paysafecard",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Prepaid Services Company Limited",
+    "runs": [
+        "paysafecard",
+        "Paysafe",
+        "Payolution",
+        "Skrill",
+        "Neteller"
+    ],
+    "address": "Floor 27\n25 Canada Square\nLondon\nE17 4AU\nUnited Kingdom",
+    "email": "info@paysafecard.com",
+    "web": "https://www.paysafecard.com",
+    "sources": [
+        "https://www.paysafecard.com/de-de/impressum/",
+        "https://github.com/datenanfragen/data/issues/372",
+        "https://www.paysafecard.com/de-de/datenschutz/"
+    ]
+}

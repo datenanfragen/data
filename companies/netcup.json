@@ -7,16 +7,15 @@
     "address": "Daimlerstraße 25\n76185 Karlsruhe\nDeutschland",
     "phone": "+49 721 7540 755 0",
     "fax": "+49 721 7540 755 9",
-    "email": "mail@netcup.de",
+    "email": "datenschutz@netcup.de",
     "web": "https://www.netcup.de/",
     "sources": [
         "https://www.netcup.de/kontakt/datenschutzerklaerung.php",
-        "https://www.netcup.de/kontakt/impressum.php"
-    ],
-    "comments": [
-        "Externer Datenschutzbeauftrager laut Datenschutzerklärung: Michael Oehler, DATENSCHUTZ perfect GbR, Wilhelm-Kolb-Straße 1a, 76187 Karlsruhe, Deutschland."
+        "https://www.netcup.de/kontakt/impressum.php",
+        "https://github.com/datenanfragen/data/issues/644"
     ],
     "relevant-countries": [
         "de"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }

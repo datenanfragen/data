@@ -1,0 +1,27 @@
+{
+    "slug": "ubisoft",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "social media"
+    ],
+    "name": "Ubisoft Entertainment SA",
+    "runs": [
+        "Ubisoft EMEA SAS",
+        "Ubisoft GmbH",
+        "Ubisoft Nordic A/S",
+        "Ubisoft, S.A.",
+        "Ubisoft P/L"
+    ],
+    "address": "17 avenue Henri Fréville\n35200 Rennes\nFrance",
+    "email": "dpo@ubisoft.com",
+    "web": "https://www.ubisoft.com",
+    "sources": [
+        "https://legal.ubi.com/LegalInfoUbisoftEMEA/de-DE",
+        "https://legal.ubi.com/privacypolicy/de-DE",
+        "https://support.ubisoft.com/de-DE/Contact"
+    ],
+    "suggested-transport-medium": "email"
+}

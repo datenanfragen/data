@@ -1,0 +1,21 @@
+{
+    "slug": "under-armour",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Under Armour, Inc.",
+    "runs": [
+        "UA Record",
+        "MapMyfitness",
+        "MyFitnessPal",
+        "Endomondo"
+    ],
+    "address": "1020 Hull Street\nBaltimore\nMD 21230\nUnited States of America",
+    "email": "EUprivacy@underarmour.com",
+    "web": "https://account.underarmour.com/en-us",
+    "sources": [
+        "https://account.underarmour.com/en-us/privacy#location-specific-disclosures",
+        "https://github.com/datenanfragen/data/issues/428"
+    ],
+    "suggested-transport-medium": "email"
+}

@@ -1,0 +1,31 @@
+{
+    "slug": "oebb-at",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "ÖBB-Personenverkehr AG",
+    "address": "Am Hauptbahnhof 2\n1100 Wien\nÖsterreich",
+    "phone": "+43 1 930000",
+    "email": "datenschutz.personenverkehr@pv.oebb.at",
+    "web": "https://www.oebb.at",
+    "sources": [
+        "https://www.oebb.at/static/tarife/de/datenschutzerklaerung/index.html",
+        "https://personenverkehr.oebb.at/de/personenverkehr/impressum",
+        "https://www.oebb.at/de/reiseplanung-services/kundenservice",
+        "https://github.com/datenanfragen/data/issues/517"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email"
+}

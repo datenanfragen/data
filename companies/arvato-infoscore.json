@@ -18,7 +18,7 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "input",
+            "type": "name",
             "optional": false
         },
         {

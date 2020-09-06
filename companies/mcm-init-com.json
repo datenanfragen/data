@@ -1,0 +1,26 @@
+{
+    "slug": "mcm-init-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "mcm.init UG (haftungsbeschränkt)",
+    "runs": [
+        "Flatastic"
+    ],
+    "address": "Alt-Moabit 45\n10555 Berlin\nDeutschland",
+    "email": "we@mcm-init.com",
+    "web": "http://www.mcm-init.com",
+    "sources": [
+        "http://www.mcm-init.com"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Email",
+            "type": "input"
+        }
+    ]
+}

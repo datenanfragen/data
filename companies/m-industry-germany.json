@@ -1,0 +1,24 @@
+{
+    "slug": "m-industry-germany",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "M-Industry Germany",
+    "runs": [
+        "Café Royal",
+        "Delica AG"
+    ],
+    "address": "Rudolf-Diesel-Strasse 24\n64625 Bensheim\nDeutschland",
+    "phone": "+41 61 315 77 88",
+    "email": "datenschutz@delica.ch",
+    "web": "https://www.delica.ch/",
+    "sources": [
+        "https://www.cafe-royal.com/de-ch/s/datenschutzbestimmungen",
+        "https://www.delica.ch/-/media/delica/files/Datenschutz/Datenschutzerklrung_Delica_DE.ashx?la=de",
+        "https://github.com/datenanfragen/data/issues/526"
+    ],
+    "suggested-transport-medium": "email"
+}

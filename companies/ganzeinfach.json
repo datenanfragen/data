@@ -1,0 +1,21 @@
+{
+    "slug": "ganzeinfach",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "categories": [
+        "commerce",
+        "ads"
+    ],
+    "name": "Ganz Einfach GmbH",
+    "address": "c/o scope&focus Service-Gesellschaft mbH\nLeonhardtstraße 2\n30175 Hannover\nDeutschland",
+    "phone": "+49 511 3642210",
+    "email": "datenschutz@ganzeinfach.de",
+    "web": "https://www.ganzeinfach.de",
+    "sources": [
+        "https://www.ganzeinfach.de/datenschutz"
+    ],
+    "suggested-transport-medium": "email"
+}

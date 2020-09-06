@@ -4,20 +4,27 @@
         "de"
     ],
     "categories": [
-        "public body"
+        "public body",
+        "health"
     ],
     "name": "Robert Koch-Institut (RKI)",
+    "runs": [
+        "Corona-Warn-App"
+    ],
     "address": "Nordufer 20\n13353 Berlin\nDeutschland",
     "phone": "+49 30 18754 3594",
     "fax": "+49 30 18754 2328",
-    "email": "webmaster@rki.de",
+    "email": "datenschutz@rki.de",
     "web": "https://www.rki.de",
     "sources": [
         "https://www.rki.de/DE/Service/Datenschutz/datenschutzerklaerung_node.html",
-        "https://www.rki.de/DE/Service/Impressum/impressum_node.html"
+        "https://www.rki.de/DE/Service/Impressum/impressum_node.html",
+        "https://www.coronawarn.app/assets/documents/cwa-privacy-notice-de.pdf",
+        "https://github.com/datenanfragen/data/issues/612"
     ],
     "request-language": "de",
     "comments": [
         "Formular für Datenschutzanfragen: https://www.rki.de/SharedDocs/Kontaktformulare/D/Datenschutz/DatenschutzIntegrator.html?nn=4976162"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }

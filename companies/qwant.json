@@ -1,0 +1,18 @@
+{
+    "slug": "qwant",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Qwant",
+    "address": "7 rue Spontini\n75116 Paris\nFrance ",
+    "phone": "+33 1 83 64 89 37",
+    "email": "privacy@qwant.com",
+    "web": "https://www.qwant.com/",
+    "sources": [
+        "https://about.qwant.com/fr/legal/confidentialite/",
+        "https://github.com/datenanfragen/data/issues/449"
+    ]
+}

@@ -18,6 +18,11 @@
     ],
     "required-elements": [
         {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
             "desc": "WhatsApp phone number",
             "type": "input"
         }

@@ -1,0 +1,17 @@
+Guten Tag,
+
+ich lege hiermit Widerspruch gegen die Verarbeitung meiner personenbezogenen Daten für Direktwerbung oder Fundraising gemäß § 23 Abs. 2 des Gesetzes über den Kirchlichen Datenschutz (KDG) ein. Der Widerspruch betrifft auch Profiling, soweit es mit Direktwerbung in Verbindung steht.
+
+Sollte ich eine Einwilligung zur Verarbeitung meiner Daten für Direktwerbung oder Fundraising (bspw. nach § 6 Abs. 1 lit. b oder § 11 Abs. 2 lit. a KDG) erteilt haben, widerrufe ich diese hiermit.
+
+Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des § 4 Nr. 9 KDG sind[runs>: {runs_list}].
+
+Nach § 14 Abs. 3 KDG haben Sie mir meinen Widerspruch unverzüglich, spätestens aber innerhalb eines Monats nach Eingang des Antrags, zu bestätigen.
+
+Zur Identifikation meiner Person habe ich folgende Daten beigefügt:
+{id_data}
+Sollten Sie meinem Antrag nicht innerhalb der genannten Frist nachkommen, behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
+
+Schon im Voraus vielen Dank für Ihre Mühe.
+
+Mit freundlichen Grüßen

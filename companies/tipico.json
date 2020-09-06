@@ -1,0 +1,20 @@
+{
+    "slug": "tipico",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Tipico",
+    "address": "Tipico Tower\nVjal Portomaso\nSt. Julian's STJ 4011\nMalta",
+    "fax": "+356 25 707 099",
+    "email": "dpo@tipico.com",
+    "web": "https://sports.tipico.de",
+    "sources": [
+        "https://sports.tipico.de/legalNotice",
+        "https://github.com/datenanfragen/data/issues/629",
+        "https://account.tipico.de/terms/privacy-policy"
+    ],
+    "suggested-transport-medium": "email"
+}

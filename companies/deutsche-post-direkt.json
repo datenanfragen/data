@@ -5,13 +5,14 @@
     ],
     "name": "Deutsche Post Direkt GmbH",
     "address": "Junkersring 57\n53844 Troisdorf\nDeutschland",
-    "phone": "+49 800 936 937 3",
+    "phone": "+49 2241 2661 0",
     "fax": "+49 2241 2661 1111",
-    "email": "datenservice@postdirekt.de",
+    "email": "datenschutz@postdirekt.de",
     "web": "https://service.postdirekt.de/pdportal/PublicServlet",
     "sources": [
         "https://service.postdirekt.de/pdportal/PublicServlet?command=content&page=datenschutz",
-        "https://service.postdirekt.de/pdportal/PublicServlet?command=content&page=impressum"
+        "https://service.postdirekt.de/pdportal/PublicServlet?command=content&page=impressum",
+        "https://www.deutschepost.de/content/dam/dpag/images/D_d/DDP/Downloads/datenschutz/dp-direkt-informationen-zur-dv-fuer-av-und-adressabgleich-012020.pdf"
     ],
     "required-elements": [
         {
@@ -25,5 +26,6 @@
     ],
     "relevant-countries": [
         "de"
-    ]
+    ],
+    "suggested-transport-medium": "email"
 }

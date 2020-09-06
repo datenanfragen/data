@@ -1,0 +1,16 @@
+{
+    "slug": "urkund",
+    "relevant-countries": [
+        "se",
+        "us"
+    ],
+    "name": "Urkund | Prio Infocenter AB",
+    "address": "Box 15120\nSE-167 15 Bromma\nSweden",
+    "phone": "+46 8 738 52 10",
+    "email": "support@urkund.com",
+    "web": "https://www.urkund.com/",
+    "sources": [
+        "https://www.urkund.com/contact-us/",
+        "https://github.com/datenanfragen/data/issues/521"
+    ]
+}

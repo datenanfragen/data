@@ -1,0 +1,20 @@
+{
+    "slug": "shutterstock",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Shutterstock Ireland Limited",
+    "runs": [
+        "OFFSET (www.offset.com)",
+        "Bigstock (www.bigstockphoto.com)",
+        "Shutterstock, Inc."
+    ],
+    "address": "34-37 Clarendon St\n2nd floor\nDublin 2\nD02 DE61\nIreland",
+    "phone": "+1 646 419 4452",
+    "email": "privacy@shutterstock.com",
+    "web": "https://www.shutterstock.com/",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/694",
+        "https://www.shutterstock.com/privacy"
+    ]
+}

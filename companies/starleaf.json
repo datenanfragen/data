@@ -1,0 +1,32 @@
+{
+    "slug": "starleaf",
+    "relevant-countries": [
+        "gb",
+        "fr",
+        "de",
+        "br",
+        "cn",
+        "jp",
+        "nl",
+        "it",
+        "nz",
+        "no",
+        "se",
+        "ch",
+        "us"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "StarLeaf Limited",
+    "address": "6th Floor\nOne London Wall\nLondon\nEC2Y 5EB\nUnited Kingdom",
+    "phone": "+44 330 440 1847",
+    "email": "infosec@starleaf.com",
+    "web": "https://www.starleaf.com/",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/619",
+        "https://support.starleaf.com/legal-information/starleaf-privacy-notice/",
+        "https://www.starleaf.com/about-us/contact/"
+    ],
+    "suggested-transport-medium": "email"
+}

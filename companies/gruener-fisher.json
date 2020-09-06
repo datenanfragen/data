@@ -1,0 +1,21 @@
+{
+    "slug": "gruener-fisher",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Grüner Fisher Investments GmbH",
+    "address": "Sportstraße 2 a\n67688 Rodenbach\nDeutschland",
+    "phone": "+49 6374 9911 202",
+    "fax": "+49 6374 9911 800",
+    "email": "datenschutz@gruener-fisher.de",
+    "web": "https://www.gruener-fisher.de/",
+    "sources": [
+        "https://www.gruener-fisher.de/impressum.html",
+        "https://github.com/datenanfragen/data/pull/700",
+        "https://www.gruener-fisher.de/datenschutz.html"
+    ],
+    "suggested-transport-medium": "email"
+}

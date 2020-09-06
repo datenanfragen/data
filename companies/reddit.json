@@ -8,11 +8,12 @@
     ],
     "name": "Reddit, Inc.",
     "address": "520 3rd Street\nSan Francisco\nCA 94107\nUnited States of America",
-    "email": "legal@reddit.com",
+    "email": "redditdatarequests@reddit.com",
     "web": "https://www.reddit.com/",
     "sources": [
         "https://www.redditinc.com/policies/privacy-policy",
-        "https://www.bloomberg.com/profiles/companies/0893288D:US-reddit-inc"
+        "https://www.bloomberg.com/profiles/companies/0893288D:US-reddit-inc",
+        "https://github.com/datenanfragen/data/issues/669"
     ],
     "required-elements": [
         {
