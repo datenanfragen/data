@@ -1,0 +1,25 @@
+{
+    "slug": "hugendubel",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "entertainment"
+    ],
+    "name": "Hugendubel Digital GmbH & Co KG",
+    "runs": [
+        "eBook.de"
+    ],
+    "address": "Friesenweg 1\n22763 Hamburg\nDeutschland",
+    "phone": "+49 89 70809947",
+    "fax": "+49 40 85194444",
+    "email": "datenschutz@hugendubel-digital.de",
+    "web": "https://www.hugendubel.de",
+    "sources": [
+        "https://www.hugendubel.de/de/category/6233/datenschutz.html",
+        "https://www.ebook.de/de/category/59474/datenschutz.html",
+        "https://www.hugendubel.de/de/category/5803/impressum.html"
+    ],
+    "suggested-transport-medium": "email"
+}
