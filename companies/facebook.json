@@ -23,9 +23,11 @@
         "https://www.facebook.com/careers/privacy",
         "https://github.com/datenanfragen/data/issues/92",
         "https://github.com/datenanfragen/data/issues/93",
-        "https://www.facebook.com/help/contact/2032834846972583"
+        "https://www.facebook.com/help/contact/2032834846972583",
+        "https://github.com/datenanfragen/data/pull/701"
     ],
-    "suggested-transport-medium": "email",
+    "needs-id-document": false,
+    "suggested-transport-medium": "letter",
     "comments": [
         "Various privacy controls (including the ability to download your data as HTML or JSON) are available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information",
         "Facebook's Data Protection Officer can be contacted via this form: https://www.facebook.com/help/contact/540977946302970",
