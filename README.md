@@ -1,12 +1,12 @@
 # Company data for Datenanfragen.de
 
-This repository contains a directory of contact information and privacy-related data on companies (and other organizations) under the scope of the EU GDPR, a directory of supervisory authorities for privacy concerns, a collection of templates for GDPR requests and a list of suggested companies to send access requests to.  
+This repository contains a directory of contact information and privacy-related data on companies (and other organizations) under the scope of the EU GDPR, a directory of the supervisory data protection authorities, a collection of templates for GDPR requests in various languages and a list of suggested companies to send access requests to.  
 It is used to power the Datenanfragen.de company database but we warmly welcome you to use the data for your own projects!
 
 ## Contributing
 
-Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you to contribute whatever information you have. The easiest way for us is if you just submit your changes as a pull request (feel free to group changes to multiple records in a single PR). You can use [this tool](https://company-json.netlify.com/) to generate valid JSON records.  
-Alternatively, you can also submit suggestions for changes and new records [directly through our website](https://www.datarequests.org/contribute).
+Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you to contribute whatever information you have. You can add new records or edit existing ones directly through the [company database](https://www.datarequests.org/company/) on our website.  
+If you want to edit many companies or do more involved edits, we recommend submitting pull requests directly to this repo (feel free to group changes to multiple records in a single PR). We have developed [this tool](https://company-json.netlify.com/) to make generating valid JSON records easier.
 
 Please be aware that by contributing, you agree for your work to be released under a Creative Commons CC0 1.0 Universal license, as specified in the `LICENSE` file.
 
@@ -32,6 +32,10 @@ A list for a country is represented by a JSON array of the slugs representing th
 Finally, the `supervisory-authorities` folder contains data on supervisory data protection authorities. They are structured similarly to the company records, following the schema in the `schema-supervisory-authorities.json` file.
 
 ## Data format guidelines and resources (for company records)
+
+### Companies we are interested in
+
+We are only interested in [companies that the GDPR applies to](https://www.datarequests.org/blog/gdpr-territorial-scope/). In practice, that means that the company either has to have an establishment in an EU country or the company has to deliberately process the data of people in the EU.
 
 ### Data sources
 
