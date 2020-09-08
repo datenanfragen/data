@@ -1,0 +1,18 @@
+{
+    "slug": "webid-solutionsde",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        null
+    ],
+    "name": "WebID",
+    "address": "Friedrichstraße 88\n10117 Berlin\n\n",
+    "phone": "+49 30 408173216",
+    "fax": "+49 30 408173450",
+    "email": "info@webid-solutions.de",
+    "web": "https://www.webid-solutions.de/de/",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/702"
+    ]
+}
