@@ -1,0 +1,22 @@
+{
+    "slug": "moemaxde",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "ads",
+        null
+    ],
+    "name": "Mömax",
+    "address": "mömax Deutschland GmbH\nMergentheimerstr. 59, 97084 Würzburg\nDeutschland",
+    "phone": "+49 931 25092299900",
+    "fax": "+49 89 51056299900",
+    "email": "info@moemax.de",
+    "web": "https://www.moemax.de/",
+    "sources": [
+        "https://www.moemax.de/c/impressum",
+        "https://github.com/datenanfragen/data/pull/703"
+    ],
+    "suggested-transport-medium": "email"
+}
