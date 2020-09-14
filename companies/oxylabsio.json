@@ -1,0 +1,18 @@
+{
+    "slug": "oxylabsio",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce",
+        "collection agency",
+        null
+    ],
+    "name": "oxylabs",
+    "address": "Vilnius",
+    "web": "https://www.oxylabs.io",
+    "sources": [
+        "Oxylabs.io",
+        "https://github.com/datenanfragen/data/pull/705"
+    ]
+}
