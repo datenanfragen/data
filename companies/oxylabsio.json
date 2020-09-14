@@ -1,0 +1,16 @@
+{
+    "slug": "oxylabsio",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "oxylabs",
+    "address": "Vilnius, Lithuania",
+    "web": "https://www.oxylabs.io",
+    "sources": [
+        "https://oxylabs.io/products/next-gen-residential-proxies",
+        "https://oxylabs.io/products/residential-proxy-pool",
+        "https://oxylabs.io/products/datacenter-proxies",
+        "https://oxylabs.io/products/real-time-crawler",
+        "https://github.com/datenanfragen/data/pull/704"
+    ]
+}
