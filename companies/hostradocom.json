@@ -1,0 +1,28 @@
+{
+    "slug": "hostradocom",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        null
+    ],
+    "name": "hostrado.com",
+    "address": "Manuel Schnitzer\nMartin-Luther-Straße 27\n91207 Lauf a.d. Pegnitz\nDeutschland",
+    "phone": "+49 176 47612688",
+    "email": "info@hostrado.com",
+    "web": "https://www.hostrado.com",
+    "sources": [
+        "https://www.hostrado.com/de/impressum",
+        "https://github.com/datenanfragen/data/pull/706"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ]
+}
