@@ -1,15 +1,15 @@
 {
-    "slug": "grapeio",
+    "slug": "grape-io",
     "relevant-countries": [
         "all"
     ],
     "categories": [
-        "telecommunication"
+        "social media"
     ],
     "name": "UberGrape GmbH",
-    "address": "Lange Gasse 76/18\n1080 Vienna, AT",
+    "address": "Lange Gasse 76/18\n1080 Vienna\nAustria,
     "phone": "+43 680 2205255",
-    "email": "support@chatgrape.com",
+    "email": "privacy@chatgrape.com",
     "web": "https://www.grape.io/",
     "sources": [
         "https://www.grape.io/privacy",
