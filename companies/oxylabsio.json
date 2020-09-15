@@ -1,16 +1,15 @@
 {
-    "slug": "oxylabsio",
+    "slug": "oxylabs",
     "relevant-countries": [
         "all"
     ],
-    "name": "oxylabs",
-    "address": "Vilnius, Lithuania",
-    "web": "https://www.oxylabs.io",
+    "name": "Oxylabs",
+    "address": "A. Goštauto g. 40A\nVilnius 01112\nLithuania",
+    "email": "privacy@oxylabs.io",
+    "web": "https://oxylabs.io/",
     "sources": [
-        "https://oxylabs.io/products/next-gen-residential-proxies",
-        "https://oxylabs.io/products/residential-proxy-pool",
-        "https://oxylabs.io/products/datacenter-proxies",
-        "https://oxylabs.io/products/real-time-crawler",
-        "https://github.com/datenanfragen/data/pull/704"
-    ]
+        "https://oxylabs.io/legal/privacy"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email"
 }
