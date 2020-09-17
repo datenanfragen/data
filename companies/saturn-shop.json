@@ -17,6 +17,28 @@
         "http://www.saturn.de/?layer=legalnotice",
         "https://hilfe.saturn.de/app/answers/detail/a_id/5025/~/kundenservice-saturn"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Anmelde-E-Mail-Adresse",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Anschrift",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "Geburtsdatum (nur falls Saturn bekannt)",
+            "type": "birthdate",
+            "optional": true
+        }
+    ],
     "comments": [
         "Verantwortliche Stelle für Saturn Card laut Datenschutzerklärung ist die redblue services GmbH, Helene-Wessel-Bogen 3, 80939 München, Deutschland, aber mit gleicher E-Mail-Adresse."
     ],
