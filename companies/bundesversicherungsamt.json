@@ -6,15 +6,18 @@
     "categories": [
         "public body"
     ],
-    "name": "Bundesversicherungsamt (BVA)",
+    "name": "Bundesamt für Soziale Sicherung (BAS)",
+    "runs": [
+        "Bundesversicherungsamt BVA (ehem.)"
+    ],
     "address": "Friedrich-Ebert-Allee 38\n53113 Bonn\nDeutschland",
-    "phone": "+49 228 619 1948",
+    "phone": "+49 228 619 2050",
     "fax": "+49 228 619 1870",
-    "email": "datenschutzbeauftragter@bvamt.bund.de",
-    "web": "https://www.bundesversicherungsamt.de/",
+    "email": "datenschutzbeauftragte@bas.bund.de",
+    "web": "https://www.bundesamtsozialesicherung.de",
     "sources": [
-        "https://www.bundesversicherungsamt.de/datenschutz.html",
-        "https://www.bundesversicherungsamt.de/impressum.html"
+        "https://www.bundesamtsozialesicherung.de/de/service/datenschutzerklaerung/",
+        "https://www.bundesamtsozialesicherung.de/de/impressum/"
     ],
     "request-language": "de",
     "comments": [
