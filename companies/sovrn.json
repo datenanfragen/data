@@ -14,5 +14,6 @@
         "https://www.sovrn.com/privacy-policy/#pills-1"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

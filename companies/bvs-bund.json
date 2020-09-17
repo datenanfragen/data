@@ -15,5 +15,6 @@
     "sources": [
         "http://www.bvs.bund.de/002_menue_oben/2_impressum.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

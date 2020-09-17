@@ -20,5 +20,6 @@
         "https://login.bundesimmobilien.de/impressum.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

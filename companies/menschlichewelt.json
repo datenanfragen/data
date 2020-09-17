@@ -13,5 +13,6 @@
     "web": "https://www.menschlichewelt.de/",
     "sources": [
         "https://www.menschlichewelt.de/datenschutz/"
-    ]
+    ],
+    "quality": "verified"
 }

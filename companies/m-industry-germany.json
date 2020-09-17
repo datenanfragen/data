@@ -20,5 +20,6 @@
         "https://www.delica.ch/-/media/delica/files/Datenschutz/Datenschutzerklrung_Delica_DE.ashx?la=de",
         "https://github.com/datenanfragen/data/issues/526"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

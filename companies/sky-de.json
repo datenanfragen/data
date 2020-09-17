@@ -1,5 +1,5 @@
 {
-	"slug": "sky-de",
+    "slug": "sky-de",
     "relevant-countries": [
         "de",
         "at",
@@ -20,6 +20,7 @@
     "request-language": "de",
     "suggested-transport-medium": "email",
     "comments": [
-    	"Achtung: Telefonnummer ist kostenpflichtig (€ 0,20 inkl. MwSt./Anruf aus dem dt. Festnetz; max. € 0,60 inkl. MwSt./Anruf aus dem Mobilfunknetz)"
-    ]
+        "Achtung: Telefonnummer ist kostenpflichtig (€ 0,20 inkl. MwSt./Anruf aus dem dt. Festnetz; max. € 0,60 inkl. MwSt./Anruf aus dem Mobilfunknetz)"
+    ],
+    "quality": "verified"
 }

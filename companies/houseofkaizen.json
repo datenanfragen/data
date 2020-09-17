@@ -18,5 +18,6 @@
         "https://www.houseofkaizen.com/data-policy"
     ],
     "request-language": "en",
-    "custom-access-template": "access-tracking"
+    "custom-access-template": "access-tracking",
+    "quality": "verified"
 }

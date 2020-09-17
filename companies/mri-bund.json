@@ -15,5 +15,6 @@
     "sources": [
         "https://www.mri.bund.de/de/datenschutz/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

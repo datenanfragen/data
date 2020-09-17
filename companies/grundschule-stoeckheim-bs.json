@@ -17,5 +17,6 @@
         "http://www.grundschule-stoeckheim.de/informationen/impressum-datenschutz/",
         "https://www.braunschweig.de/leben/schule_bildung/schulportal/schulen/schulen/gs-stoeckheim.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

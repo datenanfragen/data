@@ -16,5 +16,6 @@
         "https://www.serco.com/uk/privacy-policy",
         "https://github.com/datenanfragen/data/issues/302"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

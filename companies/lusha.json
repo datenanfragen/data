@@ -18,5 +18,6 @@
         "https://www.lusha.co/privacy_policy/"
     ],
     "request-language": "en",
-    "needs-id-document": false
+    "needs-id-document": false,
+    "quality": "verified"
 }

@@ -1,8 +1,8 @@
 {
-	"slug": "webtrekk",
-	"relevant-countries": [
-		"all"
-	],
+    "slug": "webtrekk",
+    "relevant-countries": [
+        "all"
+    ],
     "name": "Webtrekk GmbH",
     "phone": "+49 30 755 415 0",
     "fax": "+49 30 755 415 100",
@@ -13,5 +13,6 @@
         "https://www.webtrekk.com/en/legal/opt-out-webtrekk/",
         "https://github.com/datenanfragen/data/issues/64",
         "https://www.webtrekk.com/en/legal/legal/"
-    ]
+    ],
+    "quality": "verified"
 }

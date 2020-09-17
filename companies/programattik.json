@@ -20,5 +20,6 @@
         "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=108956790"
     ],
     "request-language": "en",
-    "custom-access-template": "access-tracking"
+    "custom-access-template": "access-tracking",
+    "quality": "verified"
 }

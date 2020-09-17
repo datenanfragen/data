@@ -16,5 +16,6 @@
         "https://www.im.nrw/datenschutzerklaerung"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

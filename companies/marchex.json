@@ -16,5 +16,6 @@
         "https://www.marchex.com/privacy-policy"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

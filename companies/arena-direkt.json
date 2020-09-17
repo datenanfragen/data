@@ -1,8 +1,8 @@
 {
-	"slug": "arena-direkt",
-	"relevant-countries": [
-		"de"
-	],
+    "slug": "arena-direkt",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads"
     ],
@@ -16,5 +16,6 @@
         "https://github.com/datenanfragen/data/issues/75"
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -40,5 +40,6 @@
         "https://www.dmgmedia.co.uk/contact/"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

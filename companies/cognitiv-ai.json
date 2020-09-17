@@ -16,5 +16,6 @@
         "https://cognitiv.ai/about-cognitiv/"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.freiewaehler.eu/Datenschutz/",
         "https://www.freiewaehler.eu/Impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

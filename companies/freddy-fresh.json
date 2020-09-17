@@ -1,8 +1,8 @@
 {
-	"slug": "freddy-fresh",
-	"relevant-countries": [
-	    "de"
-	],
+    "slug": "freddy-fresh",
+    "relevant-countries": [
+        "de"
+    ],
     "name": "FREDDY FRESH AG",
     "runs": [
         "Pizza"
@@ -16,5 +16,6 @@
         "https://github.com/datenanfragen/data/issues/96",
         "https://www.freddy-fresh.de/datenschutz/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

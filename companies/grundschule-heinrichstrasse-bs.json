@@ -16,5 +16,6 @@
     "sources": [
         "http://www.grundschule-heinrichstrasse.de/index.php?id=70"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

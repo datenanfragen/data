@@ -15,5 +15,6 @@
     "sources": [
         "https://zoom.us/privacy"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

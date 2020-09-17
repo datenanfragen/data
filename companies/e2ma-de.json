@@ -15,5 +15,6 @@
         "https://github.com/datenanfragen/data/issues/87"
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

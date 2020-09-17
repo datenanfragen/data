@@ -17,5 +17,6 @@
         "https://www.captify.co.uk/privacy-policy-opt/"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

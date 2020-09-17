@@ -27,5 +27,6 @@
         "https://www.traviangames.com/de/datenschutz",
         "https://www.traviangames.com/de/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

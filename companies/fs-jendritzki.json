@@ -11,5 +11,6 @@
     "sources": [
         "https://www.fs-jendritzki.de/kontakt/datenschutz/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

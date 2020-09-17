@@ -20,5 +20,6 @@
         "https://soundcloud.com/imprint",
         "https://github.com/datenanfragen/data/issues/652"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -13,5 +13,6 @@
     "sources": [
         "https://static.zara.net/static/pdfs/UK/privacy-policy/privacy-policy-en_UK-20180525.pdf"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

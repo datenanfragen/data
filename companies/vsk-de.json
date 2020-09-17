@@ -1,8 +1,8 @@
 {
-	"slug": "vsk-de",
-	"relevant-countries": [
-		"de"
-	],
+    "slug": "vsk-de",
+    "relevant-countries": [
+        "de"
+    ],
     "name": "VSK Vermieterschutzkartei Deutschland GmbH & Co.KG",
     "address": "Zettachring 2\n70567 Stuttgart\nDeutschland",
     "phone": "+49 711 997607979",
@@ -12,5 +12,6 @@
         "https://www.der-mietercheck.de/footer-links/impressum.html",
         "https://github.com/datenanfragen/data/issues/60"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

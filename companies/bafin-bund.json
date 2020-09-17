@@ -19,5 +19,6 @@
     "comments": [
         "PGP-Keys für verschlüsselte Kommunikation: https://www.bafin.de/DE/DieBaFin/Kontakt/GesicherteKommunikation/gesicherte_kommunikation_artikel.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

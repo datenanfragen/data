@@ -26,5 +26,6 @@
         "https://www.foodbarn.com/datenschutz",
         "https://www.welt.de/services/article7893735/Impressum.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

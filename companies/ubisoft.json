@@ -23,5 +23,6 @@
         "https://legal.ubi.com/privacypolicy/de-DE",
         "https://support.ubisoft.com/de-DE/Contact"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.wir-machen-druck.de/Datenschutzerklaerung.html",
         "https://www.wir-machen-druck.de/impressum.htm"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

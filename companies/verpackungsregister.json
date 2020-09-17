@@ -15,5 +15,6 @@
     "sources": [
         "https://www.verpackungsregister.org/datenschutz"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

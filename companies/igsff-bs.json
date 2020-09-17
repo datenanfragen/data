@@ -16,5 +16,6 @@
         "https://www.igsff.de/datenschutzerklaerung/",
         "https://www.igsff.de/service/kontakt/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

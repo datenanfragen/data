@@ -15,5 +15,6 @@
         "https://www.marketscan.co.uk/terms-privacy/",
         "https://www.marketscan.co.uk/anti-spam-policy/"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

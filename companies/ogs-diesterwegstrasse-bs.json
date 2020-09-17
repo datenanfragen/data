@@ -16,5 +16,6 @@
     "sources": [
         "http://ogs-diesterwegstrasse.de/index.php/kontakt"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

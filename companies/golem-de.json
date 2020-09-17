@@ -12,5 +12,6 @@
         "https://www.golem.de/sonstiges/impressum.html",
         "https://www.golem.de/sonstiges/Datenschutz.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

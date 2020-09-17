@@ -18,5 +18,6 @@
         "https://www.campact.de/campact/ueber-campact/datenschutz/",
         "https://www.campact.de/campact/ueber-campact/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

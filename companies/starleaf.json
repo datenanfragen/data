@@ -28,5 +28,6 @@
         "https://support.starleaf.com/legal-information/starleaf-privacy-notice/",
         "https://www.starleaf.com/about-us/contact/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

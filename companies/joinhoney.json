@@ -14,5 +14,6 @@
     "sources": [
         "https://www.joinhoney.com/privacy"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

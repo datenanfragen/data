@@ -17,5 +17,6 @@
     "web": "https://www.fanatical.com",
     "sources": [
         "https://support.fanatical.com/hc/en-us/articles/115005052465-Privacy-Policy"
-    ]
+    ],
+    "quality": "verified"
 }

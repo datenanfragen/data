@@ -34,5 +34,6 @@
             "desc": "E-Mail",
             "type": "input"
         }
-    ]
+    ],
+    "quality": "verified"
 }

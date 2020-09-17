@@ -12,5 +12,6 @@
     "web": "https://www.calvarypetroleum.co.uk",
     "sources": [
         "https://github.com/datenanfragen/data/issues/297"
-    ]
+    ],
+    "quality": "verified"
 }

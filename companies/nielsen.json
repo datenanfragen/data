@@ -17,5 +17,6 @@
         "https://www.nielsen.com/eu/en/legal/privacy-statement/gdpr-operating-entities/",
         "https://www.nielsen.com/eu/en/legal/privacy-statement/faqs-nielsen-and-the-gdpr/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

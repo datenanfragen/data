@@ -48,5 +48,6 @@
     "suggested-transport-medium": "email",
     "comments": [
         "In manchen Fällen wird neben der E-Mail-Adresse auch die Wohnadresse verarbeitet, in diesem Fall ist es empfohlen diese mit anzugeben.\nDie Mitgliedsnummer für den DFB Fanclub ist nur anzugeben, wenn sie vorhanden ist."
-    ]
+    ],
+    "quality": "verified"
 }

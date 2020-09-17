@@ -17,5 +17,6 @@
         "https://www.hochbahn.de/hochbahn/hamburg/de/Home/Startseite/Impressum",
         "https://github.com/datenanfragen/data/issues/208"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

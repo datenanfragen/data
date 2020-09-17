@@ -16,5 +16,6 @@
     "sources": [
         "http://www.gs-hinter-der-masch.de/datenschutz/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

@@ -17,5 +17,6 @@
         "https://www.geno-media-circle.de/datenschutz.php",
         "https://github.com/datenanfragen/data/issues/86"
     ],
-    "needs-id-document": false
+    "needs-id-document": false,
+    "quality": "verified"
 }

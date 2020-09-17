@@ -19,5 +19,6 @@
     "needs-id-document": true,
     "comments": [
         "Kontaktformular für Anfragen: https://www.bka.de/DE/KontaktAufnehmen/Kontaktinformationen/Datenschutzbeauftragte/datenschutzbeauftragte_node.html"
-    ]
+    ],
+    "quality": "verified"
 }

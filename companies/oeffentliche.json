@@ -19,5 +19,6 @@
         "https://www.oeffentliche.de/content/oeffentliche/gesetzliche-regelungen/datenschutz/beantragung-des-versicherungsvertrages-sachversicherung/index.html",
         "https://www.oeffentliche.de/content/oeffentliche/gesetzliche-regelungen/datenschutz/beantragung-des-versicherungsvertrages-lebensversicherung/index.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

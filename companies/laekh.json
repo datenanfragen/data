@@ -1,8 +1,8 @@
 {
-	"slug": "laekh",
-	"relevant-countries": [
-	    "de"
-	],
+    "slug": "laekh",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "public body"
     ],
@@ -13,9 +13,10 @@
     "email": "datenschutz@laekh.de",
     "web": "https://www.laekh.de",
     "sources": [
-    	"https://github.com/datenanfragen/data/issues/47",
-    	"https://www.laekh.de/datenschutz",
-    	"https://www.laekh.de/impressum"
+        "https://github.com/datenanfragen/data/issues/47",
+        "https://www.laekh.de/datenschutz",
+        "https://www.laekh.de/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

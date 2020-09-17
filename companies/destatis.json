@@ -15,5 +15,6 @@
     "sources": [
         "https://www.destatis.de/DE/Meta/Datenschutz/Datenschutz.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

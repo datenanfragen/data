@@ -26,5 +26,6 @@
             "type": "address",
             "optional": false
         }
-    ]
+    ],
+    "quality": "verified"
 }

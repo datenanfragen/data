@@ -18,5 +18,6 @@
         "http://lightreaction.com/en/policy_new/"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

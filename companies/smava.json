@@ -1,8 +1,8 @@
 {
-	"slug": "smava",
-	"relevant-countries": [
-		"de"
-	],
+    "slug": "smava",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance"
     ],
@@ -17,7 +17,8 @@
         "https://github.com/datenanfragen/data/issues/68"
     ],
     "comments": [
-    	"Faxnummer laut Datenschutzerklärung eigentlich +49 180 5 700 621 (0,14 €/Min aus dem Festnetz, Mobilfunk max. 0,42 €/Min). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01805700621"
+        "Faxnummer laut Datenschutzerklärung eigentlich +49 180 5 700 621 (0,14 €/Min aus dem Festnetz, Mobilfunk max. 0,42 €/Min). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01805700621"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

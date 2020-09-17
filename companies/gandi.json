@@ -20,5 +20,6 @@
         "Web form: https://gandi.net/en/my-rights"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

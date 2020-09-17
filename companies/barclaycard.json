@@ -22,5 +22,6 @@
     "suggested-transport-medium": "email",
     "comments": [
         "Anfragen werden nur mit vorhandener Unterschrift bearbeitet."
-    ]
+    ],
+    "quality": "verified"
 }

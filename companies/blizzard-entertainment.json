@@ -14,5 +14,6 @@
         "https://www.blizzard.com/de-de/company/about/contact.html",
         "https://github.com/datenanfragen/data/issues/265"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

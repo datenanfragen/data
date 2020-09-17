@@ -15,5 +15,6 @@
         "https://github.com/datenanfragen/data/issues/471",
         "https://www.outfittery.com/privacy"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

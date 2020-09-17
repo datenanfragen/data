@@ -15,5 +15,6 @@
     "sources": [
         "http://www.lessinggymnasium.de/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

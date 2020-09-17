@@ -27,7 +27,6 @@
         "foodora.de (ehem.)",
         "lieferservice.de (ehem.)",
         "lieferheld.de (ehem.)"
-
     ],
     "address": "Oosterdoksstraat 80\n1011 DK Amsterdam\nNederland",
     "phone": "+31 20 210 7000",
@@ -60,5 +59,6 @@
             "type": "address"
         }
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.deutsche-rentenversicherung.de/Allgemein/de/Navigation/0_Home/ServiceFooter/Datenschutz_node.html",
         "https://www.deutsche-rentenversicherung.de/Allgemein/de/Navigation/0_Home/ServiceFooter/Impressum_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

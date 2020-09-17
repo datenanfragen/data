@@ -19,5 +19,6 @@
         "https://github.com/datenanfragen/data/issues/533",
         "https://www.nike.com/de/help/a/unternehmensinformationen"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
     "sources": [
         "http://gsaltmhl.alfahosting.org/kontakt/impressum/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

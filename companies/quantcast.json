@@ -18,5 +18,6 @@
     "suggested-transport-medium": "email",
     "comments": [
         "Alternative email for the DPO: dpo@quantcast.com"
-    ]
+    ],
+    "quality": "verified"
 }

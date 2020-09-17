@@ -15,5 +15,6 @@
     "relevant-countries": [
         "all"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

@@ -14,5 +14,6 @@
         "https://github.com/datenanfragen/data/issues/423",
         "https://www.songkick.com/info/privacy"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

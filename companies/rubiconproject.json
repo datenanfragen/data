@@ -19,5 +19,6 @@
         "https://rubiconproject.com/contactus/"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -1,8 +1,8 @@
 {
-	"slug": "ebase",
-	"relevant-countries": [
-		"all"
-	],
+    "slug": "ebase",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "finance"
     ],
@@ -16,5 +16,6 @@
         "https://www.ebase.com/datenschutz/datenschutz-online/",
         "https://github.com/datenanfragen/data/issues/63"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
     "sources": [
         "https://www.rs-ge.de/ateam_impressum/impressum.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

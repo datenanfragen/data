@@ -12,5 +12,6 @@
         "https://github.com/datenanfragen/data/issues/122",
         "https://www.sv-europe.com/privacy-policy/"
     ],
-    "needs-id-document": false
+    "needs-id-document": false,
+    "quality": "verified"
 }

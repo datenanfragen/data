@@ -16,5 +16,6 @@
     "sources": [
         "http://www.ogsbuerger.de/datenschutz/index.php"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

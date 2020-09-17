@@ -16,5 +16,6 @@
     "sources": [
         "https://www.gsmelverode.de/index.php/impressum-datenschutz"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

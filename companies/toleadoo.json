@@ -4,7 +4,7 @@
         "at",
         "ch"
     ],
-	"slug": "toleadoo",
+    "slug": "toleadoo",
     "categories": [
         "ads"
     ],
@@ -27,5 +27,6 @@
     "suggested-transport-medium": "email",
     "comments": [
         "Antwort kommt von Talk2 GmbH, Rheinstraße 22, 64283 Darmstadt"
-    ]
+    ],
+    "quality": "verified"
 }

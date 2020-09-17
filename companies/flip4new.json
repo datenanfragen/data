@@ -19,5 +19,6 @@
     "sources": [
         "https://www.flip4new.de/pages/8-datenschutz"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

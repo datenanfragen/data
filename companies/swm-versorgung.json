@@ -14,5 +14,6 @@
         "https://www.swm.de/privatkunden/info/datenschutz.html",
         "https://github.com/datenanfragen/data/issues/630"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

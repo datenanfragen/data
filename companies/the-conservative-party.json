@@ -13,5 +13,6 @@
         "https://vote.conservatives.com/privacy"
     ],
     "needs-id-document": true,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

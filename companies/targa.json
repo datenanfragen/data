@@ -1,5 +1,5 @@
 {
-	"slug": "targa",
+    "slug": "targa",
     "relevant-countries": [
         "de"
     ],
@@ -8,7 +8,7 @@
     ],
     "name": "TARGA GmbH",
     "runs": [
-    	"TARGA Fotos"
+        "TARGA Fotos"
     ],
     "address": "Coesterweg 45\n59494 Soest\nDeutschland",
     "phone": "+49 2921 380 38 555",
@@ -20,5 +20,6 @@
         "https://www.targa-fotos.de/datenschutzbestimmungen",
         "https://www.targa-fotos.de/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

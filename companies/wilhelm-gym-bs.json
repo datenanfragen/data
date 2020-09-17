@@ -16,5 +16,6 @@
         "https://www.wilhelm-gym.de/home/impressum.htm",
         "https://www.wilhelm-gym.de/home/datenschutzerklaerung.pdf"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

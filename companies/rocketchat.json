@@ -21,5 +21,6 @@
             "type": "name"
         }
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

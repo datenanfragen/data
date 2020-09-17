@@ -22,5 +22,6 @@
             "desc": "Email",
             "type": "email"
         }
-    ]
+    ],
+    "quality": "verified"
 }

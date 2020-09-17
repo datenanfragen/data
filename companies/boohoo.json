@@ -16,5 +16,6 @@
     "sources": [
         "https://www.boohoo.com/page/privacy-notice.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

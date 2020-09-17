@@ -14,5 +14,6 @@
     "web": "https://www.campaign-services.de/",
     "sources": [
         "https://www.campaign-services.de/datenschutz/"
-    ]
+    ],
+    "quality": "verified"
 }

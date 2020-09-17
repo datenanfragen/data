@@ -15,5 +15,6 @@
     "sources": [
         "https://www.dkms.de/de/datenschutzbestimmungen-der-dkms"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

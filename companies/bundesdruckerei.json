@@ -23,5 +23,6 @@
         "https://www.bundesdruckerei.de/de/Datenschutz",
         "https://www.bundesdruckerei.de/de/1209-impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

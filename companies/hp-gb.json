@@ -14,5 +14,6 @@
     "web": "https://www8.hp.com/uk",
     "sources": [
         "https://github.com/datenanfragen/data/issues/486"
-    ]
+    ],
+    "quality": "verified"
 }

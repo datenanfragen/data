@@ -16,5 +16,6 @@
         "https://www.dnb.de/DE/Header/Datenschutz/datenschutz_node.html",
         "https://www.dnb.de/DE/Header/Impressum/impressum_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

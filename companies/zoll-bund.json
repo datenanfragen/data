@@ -17,5 +17,6 @@
         "https://www.zoll.de/DE/Service_II/Impressum/impressum_node.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
     "web": "https://finance.arvato.com",
     "sources": [
         "https://finance.arvato.com/de/ueber-uns/impressum.html"
-    ]
+    ],
+    "quality": "verified"
 }

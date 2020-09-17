@@ -14,5 +14,6 @@
         "https://vimeo.com/privacy",
         "https://vimeo.com/terms"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

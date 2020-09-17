@@ -1,10 +1,10 @@
 {
-	"slug": "7sections",
-	"relevant-countries": [
-		"de",
-		"at",
-		"ch"
-	],
+    "slug": "7sections",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
     "categories": [
         "ads"
     ],
@@ -26,5 +26,6 @@
         }
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

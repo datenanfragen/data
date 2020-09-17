@@ -1,8 +1,8 @@
 {
-	"slug": "4wave",
-	"relevant-countries": [
-		"de"
-	],
+    "slug": "4wave",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads"
     ],
@@ -17,5 +17,6 @@
         "https://github.com/datenanfragen/data/issues/70",
         "http://www.4wave-marketing.de/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

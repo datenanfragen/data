@@ -14,5 +14,6 @@
     "web": "https://eu.usatoday.com/",
     "sources": [
         "https://eu.usatoday.com/privacy/"
-    ]
+    ],
+    "quality": "verified"
 }

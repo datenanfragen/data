@@ -15,5 +15,6 @@
         "https://github.com/datenanfragen/data/issues/394",
         "https://www.wg-gesucht.de/datenschutz.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

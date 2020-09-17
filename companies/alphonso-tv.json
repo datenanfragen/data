@@ -14,5 +14,6 @@
         "https://alphonso.tv/privacy/site-privacy/",
         "https://alphonso.tv/privacy/"
     ],
-    "custom-access-template": "access-tracking"
+    "custom-access-template": "access-tracking",
+    "quality": "verified"
 }

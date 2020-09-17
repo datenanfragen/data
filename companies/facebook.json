@@ -30,5 +30,6 @@
         "Various privacy controls (including the ability to download your data as HTML or JSON) are available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information",
         "Facebook's Data Protection Officer can be contacted via this form: https://www.facebook.com/help/contact/540977946302970",
         "We have previously listed Instagram under this record. We have since discovered better direct contact details and thus split the records."
-    ]
+    ],
+    "quality": "verified"
 }

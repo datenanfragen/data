@@ -12,5 +12,6 @@
     "web": "http://www.bergpartei.de/",
     "sources": [
         "http://uepd.de/wordpress/de/impressum/"
-    ]
+    ],
+    "quality": "verified"
 }

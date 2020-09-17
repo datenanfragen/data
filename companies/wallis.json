@@ -14,5 +14,6 @@
     "sources": [
         "http://www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33058&storeId=12557&langId=-1&viewAllFlag=false&categoryId=281007&interstitial=true",
         "http://help.wallis.co.uk/system/templates/selfservice/wallis/#!portal/403700000001045/article/Prod-2075/How-do-I-contact-Customer-Care"
-    ]
+    ],
+    "quality": "verified"
 }

@@ -15,5 +15,6 @@
         "https://liveramp.com/privacy/service-privacy-policy/",
         "https://liveramp.com/contact/"
     ],
-    "custom-access-template": "access-tracking"
+    "custom-access-template": "access-tracking",
+    "quality": "verified"
 }

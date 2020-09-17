@@ -12,5 +12,6 @@
         "https://www.grammarly.com/privacy-policy",
         "https://www.privacyshield.gov/participant?id=a2zt00000008UMfAAM"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

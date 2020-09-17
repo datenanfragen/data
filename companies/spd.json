@@ -17,5 +17,6 @@
         "https://www.spd.de/site/impressum/",
         "https://github.com/datenanfragen/data/issues/144"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

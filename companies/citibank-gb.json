@@ -17,5 +17,6 @@
     "sources": [
         "https://www.citibank.co.uk/personal/privacy-statement.do"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

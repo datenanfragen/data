@@ -14,5 +14,6 @@
         "https://www.npr.org/about-npr/609131973/npr-privacy-notice-for-eu-residents"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

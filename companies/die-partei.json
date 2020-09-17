@@ -15,5 +15,6 @@
         "https://www.die-partei.de/datenschutz/",
         "https://www.die-partei.de/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -24,5 +24,6 @@
     "sources": [
         "https://www.tuv.com/germany/de/data-protection-declaration-de/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

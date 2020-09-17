@@ -15,5 +15,6 @@
         "http://www.faz.net/datenschutzerklaerung-11228151.html",
         "http://www.faz.net/ueber-uns/faz-net-impressum-112096.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -14,5 +14,6 @@
         "https://www.webid-solutions.de/en/privacy-policy/",
         "https://www.webid-solutions.de/en/imprint/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

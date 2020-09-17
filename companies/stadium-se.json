@@ -13,5 +13,6 @@
     "web": "https://www.stadium.se/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/442"
-    ]
+    ],
+    "quality": "verified"
 }

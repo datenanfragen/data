@@ -15,5 +15,6 @@
     "sources": [
         "https://www.dainst.org/datenschutz"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

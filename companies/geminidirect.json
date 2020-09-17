@@ -17,5 +17,6 @@
         "https://geminidirect.de/datenschutz.htm",
         "https://github.com/datenanfragen/data/issues/155"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

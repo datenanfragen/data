@@ -1,5 +1,5 @@
 {
-	"slug": "airbnb",
+    "slug": "airbnb",
     "relevant-countries": [
         "all"
     ],
@@ -32,5 +32,6 @@
         "https://www.airbnb.com/terms/privacy_policy",
         "https://github.com/datenanfragen/data/issues/83"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

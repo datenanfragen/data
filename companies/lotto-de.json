@@ -16,5 +16,6 @@
         "https://de.wikipedia.org/wiki/Toto-Lotto_Niedersachsen",
         "https://github.com/datenanfragen/data/issues/457"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

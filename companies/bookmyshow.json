@@ -19,5 +19,6 @@
         "https://bookmyshow.com/terms-and-conditions",
         "https://github.com/datenanfragen/data/issues/213"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

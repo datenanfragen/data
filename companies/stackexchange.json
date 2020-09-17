@@ -41,5 +41,6 @@
     "comments": [
         "A full list of network sites can be found at: https://stackexchange.com/sites"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

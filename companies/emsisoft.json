@@ -1,8 +1,8 @@
 {
-	"slug": "emsisoft",
-	"relevant-countries": [
-		"all"
-	],
+    "slug": "emsisoft",
+    "relevant-countries": [
+        "all"
+    ],
     "name": "Emsisoft Ltd",
     "address": "315a Hardy St\nNelson 7010\nNew Zealand",
     "email": "dpo@emsisoft.com",
@@ -11,5 +11,6 @@
         "https://www.emsisoft.com/de/company/privacy/",
         "https://github.com/datenanfragen/data/issues/59"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

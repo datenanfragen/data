@@ -17,5 +17,6 @@
         "https://myspace.com/pages/privacy",
         "https://myspace.com/pages/eeaprivacy"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

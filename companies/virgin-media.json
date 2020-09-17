@@ -1,5 +1,5 @@
 {
-	"slug": "virgin-media",
+    "slug": "virgin-media",
     "relevant-countries": [
         "gb"
     ],
@@ -20,5 +20,6 @@
         "https://github.com/datenanfragen/data/issues/111"
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

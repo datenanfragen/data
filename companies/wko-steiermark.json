@@ -15,5 +15,6 @@
         "https://www.wko.at/service/dienststelle.html?orgid=14634",
         "https://github.com/datenanfragen/data/issues/538"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

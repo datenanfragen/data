@@ -21,5 +21,6 @@
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",
-    "custom-access-template": "access-drk-brandenburg-datenleck"
+    "custom-access-template": "access-drk-brandenburg-datenleck",
+    "quality": "verified"
 }

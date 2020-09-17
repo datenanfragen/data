@@ -24,5 +24,6 @@
         "https://github.com/datenanfragen/data/issues/121",
         "https://www.se.com/de/de/about-us/legal/data-privacy.jsp"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

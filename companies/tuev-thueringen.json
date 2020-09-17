@@ -35,5 +35,6 @@
         "https://www.tuev-thueringen.de/fileadmin/user_upload/tuev/Downloads/allgemein/180522_Datenschutz-Information_TTAT.pdf",
         "https://www.tuev-thueringen.de/fileadmin/user_upload/tuev/Downloads/allgemein/180522_Datenschutz-Information_TTFzg.pdf"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

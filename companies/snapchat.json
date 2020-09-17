@@ -23,5 +23,6 @@
         "https://www.privacyshield.gov/participant?id=a2zt0000000TNPxAAO&status=Active"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

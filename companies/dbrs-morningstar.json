@@ -27,5 +27,6 @@
     "suggested-transport-medium": "email",
     "comments": [
         "Phone numbers and addresses for different regions available at: https://www.dbrs.com/contact/"
-    ]
+    ],
+    "quality": "verified"
 }

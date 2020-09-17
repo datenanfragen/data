@@ -12,9 +12,10 @@
     "email": "datenschutz@companisto.com",
     "web": "https://www.companisto.com",
     "sources": [
-    	"https://github.com/datenanfragen/data/issues/102",
-    	"https://www.companisto.com/en/page/privacy-policy"
+        "https://github.com/datenanfragen/data/issues/102",
+        "https://www.companisto.com/en/page/privacy-policy"
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

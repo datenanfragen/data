@@ -15,5 +15,6 @@
         "https://uk.legal.trustpilot.com/end-user-privacy-terms",
         "https://www.trustpilot.com/contact"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

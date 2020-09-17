@@ -13,5 +13,6 @@
         "https://www.weingarten-grosse-groessen.de/Impressum/",
         "https://github.com/datenanfragen/data/issues/258"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

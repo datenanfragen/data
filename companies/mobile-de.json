@@ -16,5 +16,6 @@
         "https://www.mobile.de/service/privacyPolicy",
         "https://www.mobile.de/service/imprint?lang=de"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

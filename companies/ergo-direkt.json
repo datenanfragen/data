@@ -1,5 +1,5 @@
 {
-	"slug": "ergo-direkt",
+    "slug": "ergo-direkt",
     "relevant-countries": [
         "de"
     ],
@@ -8,9 +8,9 @@
     ],
     "name": "ERGO Direkt Versicherungen",
     "runs": [
-    	"ERGO Direkt Lebensversicherung AG",
-    	"ERGO Direkt Versicherung AG",
-    	"ERGO Direkt Krankenversicherung AG",
+        "ERGO Direkt Lebensversicherung AG",
+        "ERGO Direkt Versicherung AG",
+        "ERGO Direkt Krankenversicherung AG",
         "ERGO Vorsorge Lebensversicherung AG",
         "ERGO Krankenversicherung AG",
         "MEAG Munich ERGO AssetManagement GmbH",
@@ -29,5 +29,6 @@
         "https://ergodirekt.de/de/datenschutzunddatensicherheit.html",
         "https://github.com/datenanfragen/data/issues/42"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

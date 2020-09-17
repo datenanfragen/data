@@ -19,5 +19,6 @@
         "https://www.bmi.bund.de/DE/service/datenschutz/datenschutz_node.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

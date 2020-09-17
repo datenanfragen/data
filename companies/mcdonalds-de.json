@@ -14,5 +14,6 @@
         "https://www.mcdonalds.com/de/de-de/datenschutz.html",
         "https://github.com/datenanfragen/data/issues/500"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

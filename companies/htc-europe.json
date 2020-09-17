@@ -20,5 +20,6 @@
         "https://www.htc.com/us/terms/privacy/",
         "https://github.com/datenanfragen/data/issues/594"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

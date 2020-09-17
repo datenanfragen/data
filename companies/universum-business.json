@@ -30,5 +30,6 @@
     "relevant-countries": [
         "de"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

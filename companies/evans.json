@@ -14,5 +14,6 @@
     "sources": [
         "http://www.evans.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33054&storeId=12553&langId=-1&viewAllFlag=false&categoryId=529991&interstitial=true&intnav=footer:privacypolicy?intcmpid=ukfooter_cookies",
         "http://help.evans.co.uk/system/templates/selfservice/evans/#!portal/403700000001062/article/Prod-2729/How-do-I-contact-Customer-Care"
-    ]
+    ],
+    "quality": "verified"
 }

@@ -14,5 +14,6 @@
     "sources": [
         "https://www.zomato.com/privacy",
         "https://github.com/datenanfragen/data/issues/429"
-    ]
+    ],
+    "quality": "verified"
 }

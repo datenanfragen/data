@@ -13,5 +13,6 @@
     "sources": [
         "https://slack.com/privacy-policy"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

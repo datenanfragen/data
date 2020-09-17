@@ -20,5 +20,6 @@
     "needs-id-document": true,
     "comments": [
         "Bietet auch ein Formular für Betroffenenrechte an: https://www.austrian.com/Info/LegalRegulations/dataprotection_contact_form.aspx?sc_lang=de&cc=DE "
-    ]
+    ],
+    "quality": "verified"
 }

@@ -22,5 +22,6 @@
         "https://www.flixbus.de/impressum",
         "https://github.com/datenanfragen/data/issues/561"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -1,5 +1,5 @@
 {
-	"slug": "yazio",
+    "slug": "yazio",
     "relevant-countries": [
         "de",
         "gb",
@@ -9,7 +9,7 @@
         "es"
     ],
     "categories": [
-    	"entertainment"
+        "entertainment"
     ],
     "name": "YAZIO GmbH",
     "address": "Kartäuserstraße 13a\n99084 Erfurt\nDeutschland",
@@ -19,5 +19,6 @@
         "https://www.yazio.com/de/kontakt",
         "https://github.com/datenanfragen/data/issues/37",
         "https://help.yazio.com/hc/de/articles/203444951"
-    ]
+    ],
+    "quality": "verified"
 }

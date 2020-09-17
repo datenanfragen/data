@@ -17,5 +17,6 @@
         "https://account.underarmour.com/en-us/privacy#location-specific-disclosures",
         "https://github.com/datenanfragen/data/issues/428"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

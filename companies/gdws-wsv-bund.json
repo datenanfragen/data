@@ -14,5 +14,6 @@
     "sources": [
         "https://www.gdws.wsv.bund.de/DE/service-navi/datenschutz/datenschutz_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

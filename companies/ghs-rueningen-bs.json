@@ -16,5 +16,6 @@
     "sources": [
         "https://www.ghs-rueningen.de/schule/kontakt.htm"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

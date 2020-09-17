@@ -21,5 +21,6 @@
         "https://github.com/datenanfragen/data/issues/491",
         "https://www.optivel.com/datenschutz"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

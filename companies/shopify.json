@@ -23,5 +23,6 @@
     "comments": [
         "Shopify themselves are only the controller for data about merchants and users of their independent apps (such as Frenzy, Arrive, or Shopify Pay). Customers of one of their merchants will need to direct requests to those merchants."
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

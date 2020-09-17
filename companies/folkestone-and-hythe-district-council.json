@@ -17,5 +17,6 @@
         "https://folkestone-hythe.gov.uk/your-council/legal/data-protection"
     ],
     "needs-id-document": true,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.arbeitsagentur.de/datenschutz",
         "https://www.arbeitsagentur.de/impressum"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

@@ -17,5 +17,6 @@
         "http://grundschule-gliesmarode.de/download/informationsblatt-datenschutzgrundverordnung/?wpdmdl=10784",
         "http://grundschule-gliesmarode.de/kontakt-2/kontakt/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

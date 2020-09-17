@@ -16,5 +16,6 @@
         "https://www.thw.de/DE/Service/Datenschutz/datenschutz_node.html",
         "https://www.thw.de/DE/Service/Impressum/impressum_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

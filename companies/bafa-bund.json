@@ -15,5 +15,6 @@
     "sources": [
         "https://www.bafa.de/DE/Service/Datenschutzerklaerung/datenschutzerklaerung_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

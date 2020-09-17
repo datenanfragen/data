@@ -11,5 +11,6 @@
         "https://www.cognizant.com/privacy-statement",
         "https://github.com/datenanfragen/data/issues/129"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

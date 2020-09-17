@@ -15,5 +15,6 @@
         "https://github.com/datenanfragen/data/issues/672",
         "https://www.salford.gov.uk/your-council/council-and-decision-making/data-protection-legislation/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

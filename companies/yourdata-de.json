@@ -16,5 +16,6 @@
         "https://www.yourdata.de/unternehmen/datenschutz-2/",
         "https://www.yourdata.de/unternehmen/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

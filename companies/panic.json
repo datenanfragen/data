@@ -18,5 +18,6 @@
         "https://panic.com/",
         "https://github.com/datenanfragen/data/issues/611"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

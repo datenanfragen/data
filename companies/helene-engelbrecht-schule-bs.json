@@ -17,5 +17,6 @@
         "http://www.helene-engelbrecht-schule.de/datenschutz.html",
         "http://www.helene-engelbrecht-schule.de/impressum.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

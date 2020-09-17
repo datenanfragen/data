@@ -13,5 +13,6 @@
     "web": "https://die-rechte.net/",
     "sources": [
         "https://die-rechte.net/datenschutzerklaerung/"
-    ]
+    ],
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.lottoland.com/impressum",
         "https://github.com/datenanfragen/data/issues/648"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

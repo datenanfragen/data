@@ -1,5 +1,5 @@
 {
-	"slug": "vexcash",
+    "slug": "vexcash",
     "relevant-countries": [
         "de"
     ],
@@ -13,9 +13,10 @@
     "email": "datenschutz@vexcash.com",
     "web": "https://www.vexcash.com/",
     "sources": [
-    	"https://github.com/datenanfragen/data/issues/106",
-    	"https://www.vexcash.com/Info/Datenschutz",
-    	"https://www.vexcash.com/info/impressum"
+        "https://github.com/datenanfragen/data/issues/106",
+        "https://www.vexcash.com/Info/Datenschutz",
+        "https://www.vexcash.com/info/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

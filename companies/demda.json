@@ -2,7 +2,7 @@
     "relevant-countries": [
         "de"
     ],
-	"slug": "demda",
+    "slug": "demda",
     "categories": [
         "credit agency"
     ],
@@ -20,5 +20,6 @@
     "comments": [
         "Beantragung der Eigenauskunft auch über Formular unter https://www.demda.de/eigenauskunft.php möglich."
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

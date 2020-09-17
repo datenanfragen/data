@@ -16,5 +16,6 @@
         "https://staticfiles.clearview.ai/terms_of_service.html",
         "https://clearview.ai/contact"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

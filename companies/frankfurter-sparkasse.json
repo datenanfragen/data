@@ -17,5 +17,6 @@
         "https://www.frankfurter-sparkasse.de/de/home/toolbar/impressum.html",
         "https://github.com/datenanfragen/data/issues/564"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

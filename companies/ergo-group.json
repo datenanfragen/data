@@ -15,5 +15,6 @@
         "https://www.ergo.de/de/Service/Datenschutz",
         "https://github.com/datenanfragen/data/issues/41"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

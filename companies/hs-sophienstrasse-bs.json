@@ -16,5 +16,6 @@
     "sources": [
         "http://www.doermann.com/hs_sophienstrasse/disclaimer.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

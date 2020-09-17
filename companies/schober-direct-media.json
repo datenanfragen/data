@@ -1,8 +1,8 @@
 {
-	"slug": "schober-direct-media",
-	"relevant-countries": [
-	    "de"
-	],
+    "slug": "schober-direct-media",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "addresses"
     ],
@@ -13,9 +13,9 @@
     "email": "datenschutz@schober-direct-media.de",
     "web": "https://www.schober-direct-media.de",
     "sources": [
-    	"https://github.com/datenanfragen/data/issues/45",
-    	"https://www.schober-direct-media.de/datenschutz/",
-    	"https://www.schober-direct-media.de/impressum/"
+        "https://github.com/datenanfragen/data/issues/45",
+        "https://www.schober-direct-media.de/datenschutz/",
+        "https://www.schober-direct-media.de/impressum/"
     ],
     "required-elements": [
         {
@@ -27,5 +27,6 @@
             "type": "address"
         }
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -15,5 +15,6 @@
         "https://duckduckgo.com/about",
         "https://github.com/datenanfragen/data/issues/420"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

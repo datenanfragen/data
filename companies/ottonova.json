@@ -19,5 +19,6 @@
         "https://www.ottonova.de/datenschutz",
         "https://github.com/datenanfragen/data/issues/596"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

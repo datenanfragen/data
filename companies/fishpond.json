@@ -14,5 +14,6 @@
         "https://www.fishpond.com/page/privacy",
         "https://www.fishpond.com/page/terms-and-conditions"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

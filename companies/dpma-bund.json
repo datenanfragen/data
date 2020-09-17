@@ -16,5 +16,6 @@
         "https://www.dpma.de/dpma/recht_und_gesetz/datenschutzerklaerung/datenschutzbeauftragte/index.html",
         "https://www.dpma.de/dpma/recht_und_gesetz/datenschutzerklaerung/verantwortlichestelle/index.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

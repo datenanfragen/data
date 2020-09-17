@@ -22,5 +22,6 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "slug": "devto"
+    "slug": "devto",
+    "quality": "verified"
 }

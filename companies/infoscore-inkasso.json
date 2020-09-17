@@ -1,5 +1,5 @@
 {
-	"slug": "infoscore-inkasso",
+    "slug": "infoscore-inkasso",
     "relevant-countries": [
         "de"
     ],
@@ -8,7 +8,7 @@
     ],
     "name": "infoscore Forderungsmanagement GmbH",
     "runs": [
-    	"BFS risk & collection GmbH (ehem.)"
+        "BFS risk & collection GmbH (ehem.)"
     ],
     "address": "Gütersloher Straße 123\n33401 Verl\nDeutschland",
     "phone": "+49 5246 939 1021",
@@ -19,5 +19,6 @@
         "https://www.inkassoportal.de/rechtliches/datenschutz",
         "https://www.inkassoportal.de/impressum",
         "https://github.com/datenanfragen/data/issues/43"
-    ]
+    ],
+    "quality": "verified"
 }

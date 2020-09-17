@@ -17,5 +17,6 @@
     "sources": [
         "https://www.ganzeinfach.de/datenschutz"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

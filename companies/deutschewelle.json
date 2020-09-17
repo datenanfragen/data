@@ -15,5 +15,6 @@
     "sources": [
         "https://www.dw.com/de/definition-und-nutzung-von-daten-durch-die-deutsche-welle-gem%C3%A4%C3%9F-eu-dsgvo/a-18265186"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

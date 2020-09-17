@@ -14,5 +14,6 @@
         "http://www.pvz.de/datenschutz.html",
         "https://github.com/datenanfragen/data/issues/222"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

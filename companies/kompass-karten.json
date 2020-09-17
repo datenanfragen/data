@@ -1,5 +1,5 @@
 {
-	"slug": "kompass-karten",
+    "slug": "kompass-karten",
     "relevant-countries": [
         "de",
         "at"
@@ -19,5 +19,6 @@
         "https://github.com/datenanfragen/data/issues/65"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

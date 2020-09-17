@@ -8,7 +8,7 @@
         "Astrogaming",
         "Jaybird",
         "Saitek",
-        "Ultimateears"        
+        "Ultimateears"
     ],
     "address": "EPFL - Quartier de l'Innovation\nDaniel Borel Innovation Center\nCH-1015 Lausanne\nSwitzerland",
     "phone": "+1 510 7958500",
@@ -24,5 +24,6 @@
             "type": "name"
         }
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

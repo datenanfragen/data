@@ -13,5 +13,6 @@
     "web": "https://threema.ch",
     "sources": [
         "https://threema.ch/de/privacy"
-    ]
+    ],
+    "quality": "verified"
 }

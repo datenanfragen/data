@@ -27,5 +27,6 @@
         "https://www.1and1.it/terms-gtc/fileadmin/Terms/PDF_IT/2018_01_IT_Privacy_MD.pdf",
         "https://github.com/datenanfragen/data/issues/485"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

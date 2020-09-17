@@ -15,5 +15,6 @@
         "https://www.mollie.com/en/privacy",
         "https://www.mollie.com/de/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

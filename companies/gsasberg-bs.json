@@ -17,5 +17,6 @@
         "https://wordpress.nibis.de/gsasberg/files/2018/11/GSASB_Info_DGSVO.pdf",
         "https://wordpress.nibis.de/gsasberg/impressum/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

@@ -15,5 +15,6 @@
     "sources": [
         "https://www.pei.de/DE/service-navi/datenschutzerklaerung/datenschutzerklaerung-node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

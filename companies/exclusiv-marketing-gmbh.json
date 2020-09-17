@@ -18,5 +18,6 @@
         "https://kioskpresse.de/_downloads/2018-06-28-Datenschutzerklaerung-KP.pdf",
         "https://github.com/datenanfragen/data/issues/524"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -11,5 +11,6 @@
     "web": "https://www.easyjet.com/en/",
     "sources": [
         "https://www.easyjet.com/en/policy/privacy-promise"
-    ]
+    ],
+    "quality": "verified"
 }

@@ -18,5 +18,6 @@
         "https://github.com/datenanfragen/data/issues/152"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "letter"
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
 }

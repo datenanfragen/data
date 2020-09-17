@@ -23,5 +23,6 @@
         "https://www.crif.at/datenschutzerklaerung-erhebung-oeffentliche-quellen/",
         "https://github.com/datenanfragen/data/issues/153"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

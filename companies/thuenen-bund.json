@@ -16,5 +16,6 @@
         "https://www.thuenen.de/de/datenschutz/",
         "https://www.thuenen.de/de/impressum/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

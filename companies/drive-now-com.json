@@ -15,5 +15,6 @@
         "https://www.drive-now.com/de/de/privacy",
         "https://github.com/datenanfragen/data/issues/260"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

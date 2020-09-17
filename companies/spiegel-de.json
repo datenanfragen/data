@@ -26,5 +26,6 @@
         "http://www.spiegel.de/extra/datenschutzerklaerung-so-gehen-wir-mit-ihren-daten-um-a-1207780.html",
         "http://www.spiegel.de/impressum/a-941280.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

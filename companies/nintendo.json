@@ -14,5 +14,6 @@
         "https://www.nintendo.de/Rechtliche-Informationen/Webseiten-und-My-Nintendo-Store-Datenschutzerklarung/Webseiten-und-My-Nintendo-Store-Datenschutzerklarung-637785.html",
         "https://github.com/datenanfragen/data/issues/424"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

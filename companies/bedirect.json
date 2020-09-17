@@ -20,5 +20,6 @@
         "https://www.bedirect-online.de/de/datenschutz/",
         "https://www.bedirect-online.de/de/datenschutz-dialogmarketing/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

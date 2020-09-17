@@ -16,5 +16,6 @@
     "sources": [
         "https://wordpress.nibis.de/gsvolkmarode/impressum/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

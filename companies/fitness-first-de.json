@@ -16,5 +16,6 @@
         "https://www.fitnessfirst.de/rechtliches/datenschutz",
         "https://github.com/datenanfragen/data/issues/663"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

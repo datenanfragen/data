@@ -32,5 +32,6 @@
     "sources": [
         "https://www.zeit.de/hilfe/datenschutz"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

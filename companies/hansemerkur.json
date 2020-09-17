@@ -27,5 +27,6 @@
         "https://www.hansemerkur.de/datenschutz",
         "https://www.hansemerkur.de/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

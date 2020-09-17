@@ -1,10 +1,10 @@
 {
-	"slug": "greenpeace-de",
+    "slug": "greenpeace-de",
     "relevant-countries": [
         "de"
     ],
     "categories": [
-    	"nonprofit"
+        "nonprofit"
     ],
     "name": "Greenpeace e. V.",
     "address": "Hongkongstraße 10\n20457 Hamburg\nDeutschland",
@@ -16,5 +16,6 @@
         "https://www.greenpeace.de/datenschutz",
         "https://github.com/datenanfragen/data/issues/67"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

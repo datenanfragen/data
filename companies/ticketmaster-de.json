@@ -1,5 +1,5 @@
 {
-	"slug": "ticketmaster-de",
+    "slug": "ticketmaster-de",
     "relevant-countries": [
         "de"
     ],
@@ -15,5 +15,6 @@
         "https://github.com/datenanfragen/data/issues/85",
         "https://www.ticketmaster.de/help/imprint.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

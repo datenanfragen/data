@@ -30,5 +30,6 @@
             "desc": "Adresse",
             "type": "address"
         }
-    ]
+    ],
+    "quality": "verified"
 }

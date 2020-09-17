@@ -13,5 +13,6 @@
     "sources": [
         "https://www.linzi.com/pages/terms"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

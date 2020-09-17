@@ -17,5 +17,6 @@
         "https://github.com/datenanfragen/data/pull/700",
         "https://www.gruener-fisher.de/datenschutz.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

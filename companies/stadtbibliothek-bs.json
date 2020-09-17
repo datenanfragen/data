@@ -16,5 +16,6 @@
     "sources": [
         "https://www.braunschweig.de/kultur/bibliotheken_archive/stadtbibliothek/kontaktdaten.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

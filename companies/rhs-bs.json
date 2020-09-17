@@ -17,5 +17,6 @@
         "https://www.rhs-bs.de/datenschutzerklaerung/",
         "https://www.rhs-bs.de/impressum/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

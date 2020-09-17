@@ -22,5 +22,6 @@
         "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=116221003"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

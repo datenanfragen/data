@@ -15,5 +15,6 @@
     "sources": [
         "https://www.dwd.de/DE/service/datenschutz/datenschutz_node.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

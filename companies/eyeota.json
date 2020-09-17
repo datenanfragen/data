@@ -17,5 +17,6 @@
     "suggested-transport-medium": "email",
     "comments": [
         "There is also a web form for requests: https://www.eyeota.com/subject-access-request-form"
-    ]
+    ],
+    "quality": "verified"
 }

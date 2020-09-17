@@ -14,5 +14,6 @@
     "sources": [
         "https://win-daten.de/datenschutz",
         "https://github.com/datenanfragen/data/issues/506"
-    ]
+    ],
+    "quality": "verified"
 }

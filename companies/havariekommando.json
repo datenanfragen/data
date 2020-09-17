@@ -15,5 +15,6 @@
         "https://www.havariekommando.de/DE/service/Datenschutz/datenschutz_node.html",
         "https://www.havariekommando.de/DE/service/Impressum/impressum_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

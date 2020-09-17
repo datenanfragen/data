@@ -16,5 +16,6 @@
         "https://help.netflix.com/en/node/68708/de",
         "https://help.netflix.com/en/node/2101"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

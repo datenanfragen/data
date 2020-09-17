@@ -18,5 +18,6 @@
         "https://beta.companieshouse.gov.uk/company/03953678"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

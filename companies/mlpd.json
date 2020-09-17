@@ -13,5 +13,6 @@
     "web": "https://www.mlpd.de/",
     "sources": [
         "https://www.mlpd.de/datenschutzerklaerung"
-    ]
+    ],
+    "quality": "verified"
 }

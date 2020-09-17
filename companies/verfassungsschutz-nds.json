@@ -18,5 +18,6 @@
         "https://www.verfassungsschutz.niedersachsen.de/aktuelles_service/kontakt/kontakt-54332.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

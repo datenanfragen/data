@@ -19,5 +19,6 @@
         "https://www.playstation.com/legal/privacy-policy/",
         "https://github.com/datenanfragen/data/issues/649"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

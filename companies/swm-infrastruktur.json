@@ -14,5 +14,6 @@
         "https://www.swm-infrastruktur.de/info/datenschutz.html",
         "https://github.com/datenanfragen/data/issues/633"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

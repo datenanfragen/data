@@ -1,5 +1,5 @@
 {
-	"slug": "maxdome",
+    "slug": "maxdome",
     "relevant-countries": [
         "de"
     ],
@@ -19,5 +19,6 @@
         "https://github.com/datenanfragen/data/issues/44",
         "https://www.maxdome.de/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

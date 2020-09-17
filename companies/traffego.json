@@ -2,7 +2,7 @@
     "relevant-countries": [
         "de"
     ],
-	"slug": "traffego",
+    "slug": "traffego",
     "categories": [
         "ads"
     ],
@@ -24,5 +24,6 @@
         }
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

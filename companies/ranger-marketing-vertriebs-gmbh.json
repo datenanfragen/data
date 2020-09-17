@@ -16,5 +16,6 @@
         "https://www.ranger.de/datenschutz",
         "https://github.com/datenanfragen/data/issues/466"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

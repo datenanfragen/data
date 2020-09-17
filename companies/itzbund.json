@@ -16,5 +16,6 @@
         "https://www.itzbund.de/DE/Service/Datenschutz/datenschutz_node.html",
         "https://www.itzbund.de/DE/Service/Impressum/impressum_footer_node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

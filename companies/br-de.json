@@ -14,5 +14,6 @@
     "sources": [
         "https://www.br.de/unternehmen/service/impressum/impressum-datenschutzerklaerung-unternehmen100.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

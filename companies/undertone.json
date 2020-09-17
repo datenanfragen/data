@@ -14,5 +14,6 @@
         "https://www.undertone.com/privacy/"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

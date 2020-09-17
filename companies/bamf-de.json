@@ -19,5 +19,6 @@
         "https://www.bamf.de/DE/Service/Top/Datenschutz/datenschutz-node.html",
         "https://www.bamf.de/DE/Service/Top/Impressum/impressum-node.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

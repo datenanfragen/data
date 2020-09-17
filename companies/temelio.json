@@ -14,5 +14,6 @@
     "sources": [
         "https://www.temelio.com/vie-privee"
     ],
-    "custom-access-template": "access-tracking"
+    "custom-access-template": "access-tracking",
+    "quality": "verified"
 }

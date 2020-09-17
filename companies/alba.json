@@ -16,5 +16,6 @@
         "https://www.alba.info/datenschutz.html",
         "https://www.alba.info/impressum.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

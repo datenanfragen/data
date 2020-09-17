@@ -15,5 +15,6 @@
         "https://www.bpb.de/269718/datenschutzerklaerung-fuer-bpb-de"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

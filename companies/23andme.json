@@ -12,5 +12,6 @@
         "https://www.23andme.com/en-int/about/privacy/"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -17,5 +17,6 @@
         "https://www.aig.ie/privacy-policy",
         "https://github.com/datenanfragen/data/issues/568"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

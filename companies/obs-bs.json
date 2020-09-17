@@ -16,5 +16,6 @@
     "sources": [
         "https://bs-obs.de/datenschutzerklaerung/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

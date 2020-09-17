@@ -14,5 +14,6 @@
     "web": "https://www.die-urbane.de/",
     "sources": [
         "https://www.die-urbane.de/impressum.html"
-    ]
+    ],
+    "quality": "verified"
 }

@@ -20,5 +20,6 @@
         "https://www.mytime.de/mytime/Informationspflichten_fur_Kunden_myTime.pdf",
         "https://www.buenting.de/impressumdatenschutz/datenschutz.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

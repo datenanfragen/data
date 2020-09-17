@@ -16,5 +16,6 @@
         "https://www.piratenpartei.de/kontakt/datenschutzerklaerung/",
         "https://www.piratenpartei.de/kontakt/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

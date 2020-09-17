@@ -17,5 +17,6 @@
         "https://www.gesamtschule-heidberg.de/j/privacy",
         "https://www.gesamtschule-heidberg.de/kontakt/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

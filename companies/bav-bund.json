@@ -15,5 +15,6 @@
         "https://www.bav.bund.de/DE/6_Service/Datenschutz/datenschutz_node.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

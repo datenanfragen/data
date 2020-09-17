@@ -87,5 +87,6 @@
         "https://www.fraunhofer.de/de/impressum.html",
         "https://www.fraunhofer.de/de/datenschutzerklaerung.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

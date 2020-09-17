@@ -24,5 +24,6 @@
         "https://danskebank.co.uk/privacy-statement-and-use-of-cookies",
         "https://danskebank.com/contact-us"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -1,8 +1,8 @@
 {
-	"slug": "complead",
-	"relevant-countries": [
-		"de"
-	],
+    "slug": "complead",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads"
     ],
@@ -14,5 +14,6 @@
         "https://github.com/datenanfragen/data/issues/79"
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

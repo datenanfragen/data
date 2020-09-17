@@ -21,5 +21,6 @@
         "https://www.ebook.de/de/category/59474/datenschutz.html",
         "https://www.hugendubel.de/de/category/5803/impressum.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

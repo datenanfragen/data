@@ -17,5 +17,6 @@
         "https://bunnycdn.com/contact",
         "https://bunnycdn.com/privacy"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

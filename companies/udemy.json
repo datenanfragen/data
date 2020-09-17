@@ -15,5 +15,6 @@
         "https://www.udemy.com/terms/privacy/",
         "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=112762633"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

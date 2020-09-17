@@ -28,5 +28,6 @@
         "https://www.hr.de/datenschutz/index.html",
         "http://www.ard.de/kinder/Datenschutz/3436692/index.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

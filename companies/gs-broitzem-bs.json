@@ -16,5 +16,6 @@
     "sources": [
         "http://www.gs-broitzem.de/index.php?module=content&func=view&pid=36"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

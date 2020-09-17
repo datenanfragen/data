@@ -19,5 +19,6 @@
         "https://buessing.schule/de/?section=imprint"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

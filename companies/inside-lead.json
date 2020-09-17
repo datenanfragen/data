@@ -1,10 +1,10 @@
 {
-	"slug": "inside-lead",
-	"relevant-countries": [
-	    "de",
-	    "at",
-	    "ch"
-	],
+    "slug": "inside-lead",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
     "categories": [
         "ads"
     ],
@@ -19,5 +19,6 @@
         "https://github.com/datenanfragen/data/issues/50"
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

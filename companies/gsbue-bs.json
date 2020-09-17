@@ -17,5 +17,6 @@
         "https://wordpress.nibis.de/gsbue/kontakt/",
         "http://wordpress.nibis.de/gsbue/files/Informationsblatt_DGSVO__GS_B%C3%BCltenweg.pdf"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

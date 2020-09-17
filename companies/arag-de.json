@@ -33,5 +33,6 @@
             "desc": "Geburtsdatum",
             "type": "birthdate"
         }
-    ]
+    ],
+    "quality": "verified"
 }

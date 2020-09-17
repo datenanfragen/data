@@ -16,5 +16,6 @@
     "sources": [
         "http://www.gs-st-josef.de/kontakt.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

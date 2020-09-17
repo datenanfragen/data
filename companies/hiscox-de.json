@@ -19,5 +19,6 @@
         "https://www.hiscox.de/datenschutzunterrichtung/",
         "https://www.hiscox.de/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

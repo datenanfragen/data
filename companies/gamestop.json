@@ -1,5 +1,5 @@
 {
-	"slug": "gamestop",
+    "slug": "gamestop",
     "relevant-countries": [
         "de",
         "at",
@@ -20,5 +20,6 @@
         "https://www.gamestop.de/Help/Index?section=Privacy"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

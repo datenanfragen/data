@@ -44,5 +44,6 @@
         "https://github.com/datenanfragen/data/issues/133",
         "https://www.avg.com/en-ww/privacy"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

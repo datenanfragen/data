@@ -19,5 +19,6 @@
         "https://www.tiktok.com/de/privacy-policy",
         "https://www.tiktok.com/en-uk/privacy-policy"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

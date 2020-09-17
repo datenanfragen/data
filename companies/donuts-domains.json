@@ -55,5 +55,6 @@
         "https://donuts.domains/wp-content/uploads/2017/10/Rightside-Group-PRIVACY_POLICY.pdf"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

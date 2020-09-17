@@ -1,12 +1,12 @@
 {
-	"slug": "leadspot",
+    "slug": "leadspot",
     "categories": [
         "ads"
     ],
     "relevant-countries": [
-    	"de",
-    	"at",
-    	"ch"
+        "de",
+        "at",
+        "ch"
     ],
     "name": "Lead Spot Media GmbH",
     "address": "Uferstraße 41\n55116 Mainz\nDeutschland",
@@ -26,5 +26,6 @@
     "suggested-transport-medium": "email",
     "comments": [
         "Datenschutzbeauftragter: anfrage@krier-datenschutz.de"
-    ]
+    ],
+    "quality": "verified"
 }

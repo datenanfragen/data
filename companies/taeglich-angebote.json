@@ -1,10 +1,10 @@
 {
-	"slug": "taeglich-angebote",
-	"relevant-countries": [
-		"de",
-		"at",
-		"ch"
-	],
+    "slug": "taeglich-angebote",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
     "categories": [
         "ads"
     ],
@@ -16,5 +16,6 @@
         "http://taeglich-angebote.online/datenschutz.html",
         "https://github.com/datenanfragen/data/issues/71"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

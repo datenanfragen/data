@@ -32,5 +32,6 @@
         "https://github.com/datenanfragen/data/issues/438"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

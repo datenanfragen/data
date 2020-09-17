@@ -15,5 +15,6 @@
     "sources": [
         "https://www.nexiga.com/datenschutzerklaerung/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
     "sources": [
         "http://www.pesta-bs.de/index.php/14-impressum"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.bva.bund.de/DE/Service/Datenschutz/datenschutz_node.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

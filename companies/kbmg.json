@@ -21,5 +21,6 @@
         "https://www.kbmg.com/about-us/privacy/"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

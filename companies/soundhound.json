@@ -17,5 +17,6 @@
         "https://www.soundhound.com/en/privacy",
         "https://github.com/datenanfragen/data/issues/641"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

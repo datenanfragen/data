@@ -17,5 +17,6 @@
         "http://www.bbs5bs.de/impressum/index.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

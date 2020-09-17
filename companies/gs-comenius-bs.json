@@ -17,5 +17,6 @@
         "https://www.gs-comenius.de/kontakt/datenschutzerklaerung.html",
         "https://www.gs-comenius.de/kontakt.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.navabi.de/datenschutz/",
         "https://github.com/datenanfragen/data/issues/163"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

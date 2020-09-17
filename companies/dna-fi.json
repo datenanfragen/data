@@ -15,5 +15,6 @@
         "https://github.com/datenanfragen/data/issues/624",
         "https://corporate.dna.fi/tietosuoja/tietosuojaseloste"
     ],
-    "needs-id-document": true
+    "needs-id-document": true,
+    "quality": "verified"
 }

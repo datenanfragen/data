@@ -18,5 +18,6 @@
     "sources": [
         "https://www.handelsregister.de/rp_web/contact.do"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

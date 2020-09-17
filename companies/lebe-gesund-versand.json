@@ -18,5 +18,6 @@
         "https://github.com/datenanfragen/data/issues/682",
         "https://www.lebegesund.de/datenschutzerklaerung"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

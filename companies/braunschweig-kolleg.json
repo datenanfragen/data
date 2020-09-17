@@ -14,5 +14,6 @@
     "sources": [
         "http://braunschweig-kolleg.de/?page_id=2950"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

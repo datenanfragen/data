@@ -20,5 +20,6 @@
         "https://www.ndr.de/service/datenschutz/index.html",
         "https://www.tagesschau.de/kontakt_und_hilfe/datenschutz/index.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

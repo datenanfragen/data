@@ -17,5 +17,6 @@
         "https://www.baw.de/DE/kontakt/kontakt.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

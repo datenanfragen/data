@@ -15,5 +15,6 @@
         "https://www.privateinternetaccess.com/pages/privacy-policy/",
         "https://github.com/datenanfragen/data/issues/479"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

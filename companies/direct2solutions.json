@@ -1,5 +1,5 @@
 {
-	"slug": "direct2solutions",
+    "slug": "direct2solutions",
     "relevant-countries": [
         "de",
         "at",
@@ -26,5 +26,6 @@
             "optional": false
         }
     ],
-    "needs-id-document": false
+    "needs-id-document": false,
+    "quality": "verified"
 }

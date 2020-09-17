@@ -29,5 +29,6 @@
             "type": "input",
             "optional": false
         }
-    ]
+    ],
+    "quality": "verified"
 }

@@ -24,5 +24,6 @@
         "https://www.voxmedia.com/pages/privacy-policy"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

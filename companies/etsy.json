@@ -25,5 +25,6 @@
         "https://www.etsy.com/legal/privacy/",
         "https://www.etsy.com/legal/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

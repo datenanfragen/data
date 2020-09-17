@@ -15,5 +15,6 @@
     "sources": [
         "https://www.elster.de/eportal/helpGlobal?themaGlobal=datenschutz_public"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -1,5 +1,5 @@
 {
-	"slug": "sgd",
+    "slug": "sgd",
     "relevant-countries": [
         "de",
         "at",
@@ -20,7 +20,7 @@
         "https://www.sgd.de/impressum.html"
     ],
     "required-elements": [
-    	{
+        {
             "desc": "Name",
             "type": "name",
             "optional": false
@@ -31,5 +31,6 @@
             "optional": false
         }
     ],
-    "needs-id-document": false
+    "needs-id-document": false,
+    "quality": "verified"
 }

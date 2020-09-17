@@ -20,5 +20,6 @@
         "https://www.ccpgames.com/privacy-policy",
         "https://github.com/datenanfragen/data/issues/131"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

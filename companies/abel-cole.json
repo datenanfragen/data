@@ -15,5 +15,6 @@
         "https://www.abelandcole.co.uk/ContentPage?folder=gdpr&file=privacy_policy.htm",
         "https://github.com/datenanfragen/data/issues/443"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

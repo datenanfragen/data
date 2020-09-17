@@ -17,5 +17,6 @@
         "https://github.com/datenanfragen/data/issues/511",
         "https://www.perm4.com/datenschutz/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

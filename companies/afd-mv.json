@@ -17,5 +17,6 @@
         "https://github.com/datenanfragen/data/issues/225",
         "https://afd-mv.de/datenschutz/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.bisnode.de/globalassets/germany/pdf-dokumente/datenschutzhinweise/datenschutzhinweise_fur_personen-im-auskunftsdatenbestand_final.pdf",
         "https://github.com/datenanfragen/data/issues/426"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

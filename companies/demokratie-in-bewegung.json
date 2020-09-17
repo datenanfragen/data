@@ -13,5 +13,6 @@
     "sources": [
         "https://bewegung.jetzt/datenschutz/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -18,5 +18,6 @@
         "https://github.com/datenanfragen/data/issues/441",
         "https://www.digitalraum.de/wp-content/uploads/2019/01/Information_gem._Art._13_der_EU-DSGVO_zur_Bewerberdatenverarbeitung-Digitalraum.pdf"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

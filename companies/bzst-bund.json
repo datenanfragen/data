@@ -20,5 +20,6 @@
     "comments": [
         "Kontaktformular für Datenschutzanfragen: https://www.bzst.de/SharedDocs/Kontaktformular/DE/Ueber_Uns/Datenschutz/datenschutz_kontakt_node.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

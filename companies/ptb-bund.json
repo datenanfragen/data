@@ -16,5 +16,6 @@
         "https://www.ptb.de/cms/service-seiten/datenschutz.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

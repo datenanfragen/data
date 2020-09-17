@@ -1,8 +1,8 @@
 {
-	"slug": "stellar-performance",
-	"relevant-countries": [
-		"de"
-	],
+    "slug": "stellar-performance",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads"
     ],
@@ -18,5 +18,6 @@
         "http://stellar-performance.de/impressum.html"
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

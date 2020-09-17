@@ -15,5 +15,6 @@
     "sources": [
         "http://www.kleineburg.de/impressum/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

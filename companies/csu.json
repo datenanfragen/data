@@ -16,5 +16,6 @@
         "https://www.csu.de/datenschutz/",
         "https://github.com/datenanfragen/data/issues/149"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

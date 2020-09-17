@@ -15,5 +15,6 @@
     "email": "support@addconti.ch",
     "sources": [
         "https://sg.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-355.005.818"
-    ]
+    ],
+    "quality": "verified"
 }

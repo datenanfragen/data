@@ -16,5 +16,6 @@
         "https://www.bkk-verbundplus.de/unternehmen/datenschutz/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/issues/508"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

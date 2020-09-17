@@ -25,5 +25,6 @@
         "https://legal.innogames.com/portal/de/privacy",
         "https://legal.innogames.com/portal/de/imprint"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

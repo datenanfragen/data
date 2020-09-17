@@ -16,5 +16,6 @@
         "https://www.bib.bund.de/DE/Service/Datenschutz/Datenschutz.html"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

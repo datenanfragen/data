@@ -1,5 +1,5 @@
 {
-	"slug": "fernsehlotterie",
+    "slug": "fernsehlotterie",
     "relevant-countries": [
         "de"
     ],
@@ -16,5 +16,6 @@
         "https://www.fernsehlotterie.de/datenschutz"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

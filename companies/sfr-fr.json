@@ -26,5 +26,6 @@
         }
     ],
     "needs-id-document": true,
-    "suggested-transport-medium": "letter"
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
 }

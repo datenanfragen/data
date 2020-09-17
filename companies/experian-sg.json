@@ -14,5 +14,6 @@
         "http://www.experian.com.sg/privacy-statement",
         "http://www.experian.com.sg/contact-us/"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

@@ -19,5 +19,6 @@
     "comments": [
         "Auskunft auch über https://profileaddress.com/auskunft/ möglich."
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

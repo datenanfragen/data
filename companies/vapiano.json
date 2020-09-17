@@ -21,5 +21,6 @@
         "https://www.vapiano.com/en/data-protection/",
         "https://www.vapiano.com/en/imprint/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

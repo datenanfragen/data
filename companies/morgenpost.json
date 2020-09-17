@@ -15,5 +15,6 @@
         "https://www.morgenpost.de/impressum/article214357651/Datenschutzerklaerung.html",
         "https://www.morgenpost.de/impressum/article205294571/Impressum.html"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -45,5 +45,6 @@
         "https://www.tuev-sued.de/servicelinks_de/datenschutz",
         "https://www.tuev-sued.de/servicelinks_de/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

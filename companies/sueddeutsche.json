@@ -34,5 +34,6 @@
         "https://datenschutz.sueddeutsche.de/index.html",
         "https://www.sueddeutsche.de/tools/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

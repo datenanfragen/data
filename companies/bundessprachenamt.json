@@ -15,5 +15,6 @@
     "sources": [
         "http://www.bundessprachenamt.de/deutsch/impressum/impressum.htm"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

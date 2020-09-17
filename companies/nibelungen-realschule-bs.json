@@ -17,5 +17,6 @@
         "http://www.nibelungen-realschule.de/index.php/privacy-policy",
         "http://www.nibelungen-realschule.de/index.php/impressum"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

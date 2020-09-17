@@ -18,5 +18,6 @@
         "https://infas-quo.de/datenschutz/",
         "https://infas-quo.de/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

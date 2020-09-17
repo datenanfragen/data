@@ -33,5 +33,6 @@
     "suggested-transport-medium": "email",
     "comments": [
         "There is also a web form for requests: https://dsar.web.com/retail"
-    ]
+    ],
+    "quality": "verified"
 }

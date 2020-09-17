@@ -14,5 +14,6 @@
         "https://github.com/datenanfragen/data/issues/212",
         "https://github.com/datenanfragen/data/issues/525"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.audibkk.de/datenschutz/",
         "https://www.audibkk.de/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

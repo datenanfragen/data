@@ -13,5 +13,6 @@
     "sources": [
         "https://fcrmedia.be/privacybeleid",
         "https://github.com/datenanfragen/data/issues/154"
-    ]
+    ],
+    "quality": "verified"
 }

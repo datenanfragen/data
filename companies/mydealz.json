@@ -28,5 +28,6 @@
         "https://www.preisjaeger.at/datenschutz",
         "https://www.mydealz.de/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

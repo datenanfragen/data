@@ -14,5 +14,6 @@
     "sources": [
         "https://www.az-direct.com/site/unternehmen/standorte/",
         "https://github.com/datenanfragen/data/issues/203"
-    ]
+    ],
+    "quality": "verified"
 }

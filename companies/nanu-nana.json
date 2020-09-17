@@ -14,5 +14,6 @@
     "sources": [
         "https://www.nanu-nana.de/datenschutz/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

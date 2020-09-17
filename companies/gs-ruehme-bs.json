@@ -16,5 +16,6 @@
     "sources": [
         "https://ogs-ruehme.de/impressum.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

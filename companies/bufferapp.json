@@ -16,5 +16,6 @@
     "sources": [
         "https://buffer.com/privacy"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

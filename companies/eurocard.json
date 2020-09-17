@@ -1,5 +1,5 @@
 {
-	"slug": "eurocard",
+    "slug": "eurocard",
     "relevant-countries": [
         "no",
         "se",
@@ -15,9 +15,10 @@
     "email": "eurocard@eurocard.no",
     "web": "https://eurocard.no",
     "sources": [
-    	"https://github.com/datenanfragen/data/issues/48",
-    	"https://eurocard.no/kundeservice/informasjon/om-eurocard/"
+        "https://github.com/datenanfragen/data/issues/48",
+        "https://eurocard.no/kundeservice/informasjon/om-eurocard/"
     ],
     "needs-id-document": true,
-    "suggested-transport-medium": "letter"
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
 }

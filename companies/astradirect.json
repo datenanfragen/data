@@ -17,5 +17,6 @@
         "https://www.astradirect.de/index.html?p=impressum",
         "https://github.com/datenanfragen/data/issues/490"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

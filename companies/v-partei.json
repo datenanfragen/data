@@ -13,5 +13,6 @@
     "web": "https://v-partei.de/",
     "sources": [
         "https://v-partei.de/service/datenschutzerklaerung/"
-    ]
+    ],
+    "quality": "verified"
 }

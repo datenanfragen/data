@@ -16,5 +16,6 @@
     "sources": [
         "http://www.grundschule-timmerlah.de/impressum.html"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

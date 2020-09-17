@@ -1,5 +1,5 @@
 {
-	"slug": "similarweb",
+    "slug": "similarweb",
     "relevant-countries": [
         "all"
     ],
@@ -13,10 +13,11 @@
     "email": "dpo@similarweb.com",
     "web": "https://www.similarweb.com/",
     "sources": [
-    	"https://github.com/datenanfragen/data/issues/35",
-    	"https://www.similarweb.com/corp/legal/privacy-policy/"
+        "https://github.com/datenanfragen/data/issues/35",
+        "https://www.similarweb.com/corp/legal/privacy-policy/"
     ],
     "request-language": "en",
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

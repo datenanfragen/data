@@ -16,5 +16,6 @@
         "https://www.rakuten.de/info/datenschutz",
         "https://www.rakuten.de/info/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

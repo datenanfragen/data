@@ -16,5 +16,6 @@
     "sources": [
         "http://www.gsheidberg.de/kontakt"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

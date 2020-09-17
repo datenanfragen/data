@@ -26,5 +26,6 @@
         "https://www.home24.de/impressum/",
         "https://github.com/datenanfragen/data/issues/32"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.hetzner.de/rechtliches/datenschutz",
         "https://github.com/datenanfragen/data/issues/597"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

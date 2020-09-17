@@ -1,5 +1,5 @@
 {
-	"slug": "eventim",
+    "slug": "eventim",
     "relevant-countries": [
         "de",
         "at",
@@ -23,6 +23,7 @@
     ],
     "suggested-transport-medium": "email",
     "comments": [
-    	"Telefonnummer eigentlich +49 1806 533 933 (0,20 €/Anruf inkl. MwSt. aus den Festnetzen, max. 0,60 €/Anruf inkl. MwSt. aus den Mobilfunknetzen). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01806533933"
-    ]
+        "Telefonnummer eigentlich +49 1806 533 933 (0,20 €/Anruf inkl. MwSt. aus den Festnetzen, max. 0,60 €/Anruf inkl. MwSt. aus den Mobilfunknetzen). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01806533933"
+    ],
+    "quality": "verified"
 }

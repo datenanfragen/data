@@ -16,5 +16,6 @@
         "https://www.tagesspiegel.de/service/verlag-der-tagesspiegel-datenschutzerklaerung/22603436.html",
         "https://www.tagesspiegel.de/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

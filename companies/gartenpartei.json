@@ -12,5 +12,6 @@
     "web": "http://www.gartenpartei.eu/",
     "sources": [
         "http://www.gartenpartei.eu/impressum.html"
-    ]
+    ],
+    "quality": "verified"
 }

@@ -30,5 +30,6 @@
             "type": "textarea"
         }
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

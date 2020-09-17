@@ -17,5 +17,6 @@
         "https://github.com/datenanfragen/data/issues/520",
         "https://www.movieparkgermany.de/datenschutzerklaerung-der-movie-park-germany-gmbh"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

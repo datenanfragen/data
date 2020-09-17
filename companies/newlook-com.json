@@ -16,5 +16,6 @@
         "https://www.newlook.com/uk/help/contact-us"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

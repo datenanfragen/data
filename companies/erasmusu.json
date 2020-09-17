@@ -1,5 +1,5 @@
 {
-	"slug": "erasmusu",
+    "slug": "erasmusu",
     "relevant-countries": [
         "all"
     ],
@@ -31,5 +31,6 @@
         }
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

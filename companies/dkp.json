@@ -12,5 +12,6 @@
     "web": "http://news.dkp.suhail.uberspace.de",
     "sources": [
         "http://news.dkp.suhail.uberspace.de/impressum/"
-    ]
+    ],
+    "quality": "verified"
 }

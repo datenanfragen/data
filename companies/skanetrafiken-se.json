@@ -14,5 +14,6 @@
     "web": "https://www.skanetrafiken.se/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/167"
-    ]
+    ],
+    "quality": "verified"
 }

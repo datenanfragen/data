@@ -15,5 +15,6 @@
         "http://collectiveuk.com/privacy-policy/"
     ],
     "custom-access-template": "access-tracking",
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

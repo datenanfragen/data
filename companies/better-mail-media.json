@@ -14,5 +14,6 @@
         "https://better-mail-media.de/impressum/",
         "https://github.com/datenanfragen/data/issues/200"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

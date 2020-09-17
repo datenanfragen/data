@@ -17,5 +17,6 @@
         "https://wordpress.nibis.de/gs-klint/datenschutz/",
         "https://wordpress.nibis.de/gs-klint/impressum/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

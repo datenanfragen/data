@@ -14,5 +14,6 @@
     "sources": [
         "https://diehumanisten.de/datenschutzerklaerung/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

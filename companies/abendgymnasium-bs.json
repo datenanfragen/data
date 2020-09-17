@@ -15,5 +15,6 @@
     "sources": [
         "http://abendgymnasium-braunschweig.de/?page_id=15"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

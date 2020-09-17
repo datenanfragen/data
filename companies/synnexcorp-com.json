@@ -29,5 +29,6 @@
             "desc": "Address",
             "type": "address"
         }
-    ]
+    ],
+    "quality": "verified"
 }

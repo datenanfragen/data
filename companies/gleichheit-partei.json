@@ -16,5 +16,6 @@
         "https://www.gleichheit.de/service/datenschutz/",
         "https://www.gleichheit.de/service/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

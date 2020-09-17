@@ -16,5 +16,6 @@
         "https://droplr.com/terms/",
         "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=240976823"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

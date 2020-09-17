@@ -16,5 +16,6 @@
         "https://www.umweltbundesamt.de/datenschutz-haftung",
         "https://www.umweltbundesamt.de/impressum"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

@@ -11,5 +11,6 @@
         "https://about.canva.com/privacy-policy/",
         "https://about.canva.com/terms-of-use/"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

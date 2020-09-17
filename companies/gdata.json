@@ -1,19 +1,19 @@
 {
-	"slug": "gdata",
-	"relevant-countries": [
-		"all"
-	],
+    "slug": "gdata",
+    "relevant-countries": [
+        "all"
+    ],
     "name": "G DATA Software AG",
     "runs": [
-    	"G DATA Business",
-		"G DATA Antivirus",
-		"G DATA Internet Security",
-		"G DATA Total Security",
-		"G DATA Antivirus Mac",
-		"G DATA Mobile Internet Security",
-		"Botfrei EU Cleaner",
-		"G DATA QR Code Scanner",
-		"G DATA USSD Filter"
+        "G DATA Business",
+        "G DATA Antivirus",
+        "G DATA Internet Security",
+        "G DATA Total Security",
+        "G DATA Antivirus Mac",
+        "G DATA Mobile Internet Security",
+        "Botfrei EU Cleaner",
+        "G DATA QR Code Scanner",
+        "G DATA USSD Filter"
     ],
     "address": "G DATA Campus\nKönigsallee 178\n44799 Bochum\nDeutschland",
     "phone": "+49 234 97 62 0",
@@ -25,5 +25,6 @@
         "https://github.com/datenanfragen/data/issues/58",
         "https://www.gdata.de/impressum"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

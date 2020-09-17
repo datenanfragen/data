@@ -16,5 +16,6 @@
         "https://github.com/datenanfragen/data/issues/189",
         "https://www.energie-saarlorlux.com/datenschutz/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

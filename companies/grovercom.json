@@ -17,5 +17,6 @@
         "https://www.grover.com/de-de/g-about/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/issues/425"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

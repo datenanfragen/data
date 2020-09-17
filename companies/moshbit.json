@@ -22,5 +22,6 @@
         "https://talto.com/impressum",
         "https://github.com/datenanfragen/data/issues/206"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

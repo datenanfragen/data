@@ -19,5 +19,6 @@
         "https://www.fit-one.de/datenschutz.html",
         "https://github.com/datenanfragen/data/issues/285"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

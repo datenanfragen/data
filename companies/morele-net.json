@@ -12,5 +12,6 @@
     "web": "https://www.morele.net/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/221"
-    ]
+    ],
+    "quality": "verified"
 }

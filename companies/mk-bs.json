@@ -15,5 +15,6 @@
     "sources": [
         "https://mk-braunschweig.de/mk/kontakt/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

@@ -15,5 +15,6 @@
         "https://github.com/datenanfragen/data/issues/421",
         "https://www.bisnode.com/globalassets/group---english/gdpr/bisnode-general-privacy-information-002.pdf"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

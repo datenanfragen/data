@@ -17,5 +17,6 @@
         "https://www.post.at/footer_allgemein_rechtliche_hinweise.php",
         "https://www.post.at/footer_ueber_uns_impressum.php"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

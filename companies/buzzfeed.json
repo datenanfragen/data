@@ -28,5 +28,6 @@
         "https://www.buzzfeed.com/about/privacy",
         "https://www.buzzfeed.com/about/contact"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

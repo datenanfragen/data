@@ -1,5 +1,5 @@
 {
-	"slug": "burda-direct-services",
+    "slug": "burda-direct-services",
     "relevant-countries": [
         "de"
     ],
@@ -16,5 +16,6 @@
         "https://www.burdadirect.com/datenschutz",
         "https://github.com/datenanfragen/data/issues/66"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -16,5 +16,6 @@
         "https://www.experian.co.uk/contact-us/index.html",
         "https://www.experian.co.uk/crain/index.html"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

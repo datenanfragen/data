@@ -16,5 +16,6 @@
         "https://bayernpartei.de/datenschutzerklaerung/",
         "https://bayernpartei.de/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

@@ -15,5 +15,6 @@
         "https://github.com/datenanfragen/data/issues/558",
         "https://www.gannett.com/privacy-statement/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

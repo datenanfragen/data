@@ -15,5 +15,6 @@
     "sources": [
         "https://www.technikakademie-bs.de/service/datenschutz/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

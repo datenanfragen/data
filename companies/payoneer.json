@@ -18,5 +18,6 @@
         "https://github.com/datenanfragen/data/issues/519",
         "https://www.payoneer.com/legal/privacy-policy/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

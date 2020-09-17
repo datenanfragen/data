@@ -19,5 +19,6 @@
         "https://www.lightinthebox.com/r/privacy.html",
         "https://www.lightinthebox.com/r/about-us.html?prm=1.33.157.0"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

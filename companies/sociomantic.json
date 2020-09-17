@@ -19,5 +19,6 @@
         "https://www.sociomantic.com/imprint/"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "letter"
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
 }

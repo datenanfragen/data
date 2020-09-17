@@ -15,5 +15,6 @@
     "sources": [
         "https://wordpress.nibis.de/gslinden/impressum/"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

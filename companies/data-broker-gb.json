@@ -15,5 +15,6 @@
         "https://www.data-broker.co.uk/privacy-policy/",
         "https://www.data-broker.co.uk/contact-us/"
     ],
-    "request-language": "en"
+    "request-language": "en",
+    "quality": "verified"
 }

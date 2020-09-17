@@ -17,5 +17,6 @@
         "https://www.gswenden.de/data_protection.php",
         "https://www.gswenden.de/imprint_disclaimer.php"
     ],
-    "request-language": "de"
+    "request-language": "de",
+    "quality": "verified"
 }

@@ -14,5 +14,6 @@
         "https://www.newhome.ch/de/kontakt",
         "https://www.newhome.ch/blog/de/impressum/"
     ],
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
