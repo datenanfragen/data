@@ -1,0 +1,24 @@
+{
+    "slug": "grindrcom",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Grindr LLC",
+    "address": "Grindr LLC\nAttn: Data Protection Officer\nPO Box 69176\nWest Hollywood, CA 90069",
+    "email": "privacy@grindr.com",
+    "web": "https://www.grindr.com/",
+    "sources": [
+        "https://www.grindr.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/708"
+    ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Also offers a special ticket page at https://help.grindr.com/hc/en-us/requests/new?ticket_form_id=360002369074 (“Opt-Out/Do Not Sell My” link on the bottom left on the home page) for GDPR requests.",
+        "Requests a copy of a passport."
+    ],
+    "quality": "tested"
+}
