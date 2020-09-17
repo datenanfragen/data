@@ -147,6 +147,11 @@
 			"title": "Custom rectification template",
 			"description": "The path to a custom template for data rectification requests to this company, if necessary."
 		},
+		"custom-objection-template": {
+			"type": "string",
+			"title": "Custom objection template",
+			"description": "The path to a custom template for direct marketing objection requests to this company, if necessary."
+		},
 		"needs-id-document": {
 			"type": "boolean",
 			"title": "Needs ID document?",
