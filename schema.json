@@ -143,7 +143,7 @@
 		"suggested-transport-medium": {
 			"type": "string",
 			"title": "Suggested transport medium",
-			"description": "The transport medium a user should use for their privacy-related inquires and requests. If a specific privacy@[domain.tld] email address is available, 'email' should be specified. The default is a fallback chain as follows: fax -> letter -> email.",
+			"description": "The transport medium a user should use for their privacy-related inquires and requests. If a specific privacy@[domain.tld] email address is available, 'email' should be specified. If no value is specified, the default is 'email' if the record has an email address specified or 'letter' otherwise.",
 			"enum": [ "fax", "letter", "email" ]
 		},
 		"comments": {
