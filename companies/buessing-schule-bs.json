@@ -20,5 +20,6 @@
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

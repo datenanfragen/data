@@ -17,5 +17,6 @@
         "https://www.grundschule-gartenstadt.de/kontakt/"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

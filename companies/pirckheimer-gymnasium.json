@@ -31,5 +31,6 @@
             "type": "email"
         }
     ],
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

@@ -22,5 +22,6 @@
             "optional": false
         }
     ],
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

@@ -17,5 +17,6 @@
         "https://wordpress.nibis.de/alsbs/impressum/"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

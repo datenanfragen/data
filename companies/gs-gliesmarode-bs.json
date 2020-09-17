@@ -18,5 +18,6 @@
         "http://grundschule-gliesmarode.de/kontakt-2/kontakt/"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

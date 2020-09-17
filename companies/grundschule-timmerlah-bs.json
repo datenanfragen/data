@@ -17,5 +17,6 @@
         "http://www.grundschule-timmerlah.de/impressum.html"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

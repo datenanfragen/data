@@ -17,5 +17,6 @@
         "https://realschule-maschstrasse.de/datenschutz/"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

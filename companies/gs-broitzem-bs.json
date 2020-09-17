@@ -17,5 +17,6 @@
         "http://www.gs-broitzem.de/index.php?module=content&func=view&pid=36"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

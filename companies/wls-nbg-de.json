@@ -24,5 +24,6 @@
             "type": "address"
         }
     ],
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

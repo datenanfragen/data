@@ -18,5 +18,6 @@
         "https://www.braunschweig.de/leben/schule_bildung/schulportal/schulen/schulen/gs-stoeckheim.html"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

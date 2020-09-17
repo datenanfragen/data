@@ -178,6 +178,12 @@
 			"description": "The quality of the record based on how it was compiled. The following are the allowed values (in order of descending quality): 'tested' (someone has successfully sent a request using the details in the record), 'verified' (a human has checked the data and confirmed it, likely by observing it on the company's website), 'imported' (the record was acquired from an existing data set that may not specifically collect privacy contacts but was still verified by a human who is not part of the project), 'scraped' (the record was created by a machine and has not been verified).",
 			"enum": [ "tested", "verified", "imported", "scraped" ],
 			"default": "verified"
+		},
+		"facet-group": {
+			"type": "string",
+			"title": "Facet group",
+			"description": "If the record falls into one of the listed groups, choose that one. Otherwise, leave this field blank. This allows us to limit the amount of records of which there are many (churches, schools, etc.) returned in searches.",
+			"enum": [ "church", "school" ]
 		}
 	},
 	"additionalProperties": false,

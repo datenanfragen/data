@@ -18,5 +18,6 @@
         "https://wordpress.nibis.de/gsasberg/impressum/"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

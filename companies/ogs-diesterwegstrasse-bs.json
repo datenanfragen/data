@@ -17,5 +17,6 @@
         "http://ogs-diesterwegstrasse.de/index.php/kontakt"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

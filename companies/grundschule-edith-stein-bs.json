@@ -18,5 +18,6 @@
         "http://www.grundschule-edith-stein.de/dse.html"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

@@ -18,5 +18,6 @@
         "http://www.nibelungen-realschule.de/index.php/impressum"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }
