@@ -17,14 +17,13 @@
     "phone": "+49 531 20929935",
     "fax": "+49 531 20929936",
     "email": "datenschutz@datenanfragen.de",
+    "pgp-fingerprint": "CC13 973A F8FD 11D1 4D94  98A8 0269 92F0 CF2C BB2E",
+    "pgp-url": "https://www.datenanfragen.de/pgp/CF2CBB2E.asc",
     "web": "https://verein.datenanfragen.de",
     "sources": [
         "https://verein.datenanfragen.de/datenschutz",
         "https://github.com/datenanfragen/data/issues/595"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "PGP-Key: CC13 973A F8FD 11D1 4D94 98A8 0269 92F0 CF2C BB2E (https://www.datenanfragen.de/pgp/CF2CBB2E.asc)"
-    ],
     "quality": "verified"
 }

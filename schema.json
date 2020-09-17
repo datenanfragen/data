@@ -68,6 +68,18 @@
 			"description": "An email address where the company can be reached for privacy-related inquires and requests. Preferably a specific privacy@[domain.tld] address if available.",
 			"format": "idn-email"
 		},
+		"pgp-fingerprint": {
+			"type": "string",
+			"title": "PGP key fingerprint",
+			"description": "Fingerprint of the PGP key of the email address used to send privacy-related inquires and requests to the company. The PGP key should be found by this key on public keyservers. Please check the key thoroughly before entering it.",
+			"format": "text"
+		},
+		"pgp-url": {
+			"type": "string",
+			"title": "PGP key URL",
+			"description": "URL, where the PGP key of the email address used to send privacy-related inquires and requests to the company can be downloaded. The protocol *must* be https and the domain has to belong to the repective authority. Please check the key thoroughly before entering it.",
+			"format": "uri"
+		},
 		"web": {
 			"type": "string",
 			"title": "Website",

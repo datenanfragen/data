@@ -14,15 +14,15 @@
     "phone": "+49 228 619 2050",
     "fax": "+49 228 619 1870",
     "email": "datenschutzbeauftragte@bas.bund.de",
+    "pgp-fingerprint": "1503 1D5F 1EE4 BAAA 5EBD  EE66 AC8E C404 F0AC 27D7",
+    "pgp-url": "https://www.bundesamtsozialesicherung.de/fileadmin/redaktion/Zertifikate_BVA/gpgkey_DomainKey.asc",
     "web": "https://www.bundesamtsozialesicherung.de",
     "sources": [
         "https://www.bundesamtsozialesicherung.de/de/service/datenschutzerklaerung/",
-        "https://www.bundesamtsozialesicherung.de/de/impressum/"
+        "https://www.bundesamtsozialesicherung.de/de/impressum/",
+        "https://www.bundesversicherungsamt.de/kontakt/verschluesselte-kommunikation-mit-dem-bundesversicherungsamt.html"
     ],
     "request-language": "de",
-    "comments": [
-        "Es stehen auch PGP-Keys für die verschlüsselte Kommunikation zur Verfügung: https://www.bundesversicherungsamt.de/kontakt/verschluesselte-kommunikation-mit-dem-bundesversicherungsamt.html"
-    ],
     "suggested-transport-medium": "email",
     "quality": "verified"
 }

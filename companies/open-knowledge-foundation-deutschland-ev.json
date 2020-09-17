@@ -11,6 +11,8 @@
     "phone": "+49 30 57703666 0",
     "fax": "+49 30 57703666 9",
     "email": "datenschutz@okfn.de",
+    "pgp-fingerprint": "2E42 43C2 B587 17C4 0168  4E8E 9474 37A3 AD0C 3653",
+    "pgp-url": "https://okfn.de/okf/datenschutz_okfn_de_pub.asc",
     "web": "https://okfn.de/",
     "sources": [
         "https://okfn.de/impressum/#datenschutzerkl%C3%A4rung",
@@ -18,8 +20,5 @@
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "PGP-Key: https://okfn.de/okf/datenschutz_okfn_de_pub.asc"
-    ],
     "quality": "verified"
 }
