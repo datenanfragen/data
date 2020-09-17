@@ -51,13 +51,13 @@
 		},
 		"pgp-fingerprint": {
 			"type": "string",
-			"title": "PGP key fingerprint",
+			"title": "PGP fingerprint",
 			"description": "Fingerprint of the PGP key of the email address used to lodge complaints with the authority. The PGP key should be found by this key on public keyservers. Please check the key thoroughly before entering it.",
-			"format": "text"
+			"pattern": "^([0-9A-F]{4} ){5}( [0-9A-F]{4}){5}$"
 		},
 		"pgp-url": {
 			"type": "string",
-			"title": "PGP key URL",
+			"title": "PGP URL",
 			"description": "URL, where the PGP key of the email address used to lodge complaints with the authority can be downloaded. The protocol *must* be https and the domain has to belong to the repective authority. Please check the key thoroughly before entering it.",
 			"format": "uri"
 		},
