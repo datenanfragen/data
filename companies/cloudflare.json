@@ -18,10 +18,23 @@
     "sources": [
         "https://www.cloudflare.com/privacypolicy/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "request-language": "en",
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
         "Alternative email: privacyquestions@cloudflare.com"
     ],
-    "quality": "verified"
+    "quality": "tested"
 }

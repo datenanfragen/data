@@ -18,6 +18,34 @@
     "sources": [
         "https://godaddy.com/agreements/showdoc.aspx?pageid=PRIVACY"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Preferred method of contact",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "GoDaddy Customer No.",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "GoDaddy Shopper PIN",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

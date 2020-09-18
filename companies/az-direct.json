@@ -7,7 +7,7 @@
     "address": "Carl-Bertelsmann-Straße 161S\n33311 Gütersloh\nDeutschland",
     "phone": "+49 5241 80 75039",
     "fax": "+49 5241 80 66909",
-    "email": "az.datenschutz@bertelsmann.de",
+    "email": "datenschutz@az-direct.com",
     "web": "http://www.az-direct.com",
     "sources": [
         "http://www.az-direct.com/site/datenschutz/",
@@ -26,6 +26,7 @@
     "relevant-countries": [
         "de"
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

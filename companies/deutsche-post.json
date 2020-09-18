@@ -23,9 +23,22 @@
         "https://www.dhl.de/de/toolbar/footer/impressum/vertragspartner-impressum.html",
         "http://www.dpdhl.com/reports/2010/zwischenbericht-q3/files/pdf/5.pdf"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
     "relevant-countries": [
         "de"
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

@@ -20,6 +20,19 @@
         "https://www.bedirect-online.de/de/datenschutz/",
         "https://www.bedirect-online.de/de/datenschutz-dialogmarketing/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

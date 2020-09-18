@@ -5,8 +5,8 @@
     ],
     "name": "Deutsche Post Direkt GmbH",
     "address": "Junkersring 57\n53844 Troisdorf\nDeutschland",
-    "phone": "+49 2241 2661 0",
-    "fax": "+49 2241 2661 1111",
+    "phone": "+49 2241 2661 2680",
+    "fax": "+49 2241 2661 6680",
     "email": "datenschutz@postdirekt.de",
     "web": "https://service.postdirekt.de/pdportal/PublicServlet",
     "sources": [
@@ -27,6 +27,7 @@
     "relevant-countries": [
         "de"
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

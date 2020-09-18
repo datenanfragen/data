@@ -14,8 +14,22 @@
         "https://www.otto.de/shoppages/service/about/datenschutzinformation/aboutprivacyneedtoknow",
         "https://www.otto.de/shoppages/service/impressum"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "relevant-countries": [
         "de"
     ],
-    "quality": "verified"
+    "suggested-transport-medium": "email",
+    "needs-id-document": false,
+    "quality": "tested"
 }
