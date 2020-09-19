@@ -1,0 +1,19 @@
+{
+    "slug": "project7com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Grace Mya",
+    "address": "302 N. El Camino Real\nSuite 216\t\n",
+    "phone": "9498910729",
+    "email": "gracemya002@gmail.com",
+    "web": "http://project7.com/",
+    "sources": [
+        "Low Sugar Chewing Gum",
+        "https://github.com/datenanfragen/data/pull/711"
+    ],
+    "quality": "tested"
+}
