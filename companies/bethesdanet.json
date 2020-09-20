@@ -1,0 +1,22 @@
+{
+    "slug": "bethesdanet",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "ZeniMax Media Inc.",
+    "runs": [
+        "Bethesda"
+    ],
+    "address": "ZeniMax Media Inc.\nAttn: ZeniMax Customer Service/Privacy\n1370 Piccard Drive\nRockville, Maryland 20850 USA",
+    "email": "privacy@support.zenimax.com",
+    "web": "https://bethesda.net/",
+    "sources": [
+        "https://bethesda.net/en/document/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/712"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "imported"
+}
