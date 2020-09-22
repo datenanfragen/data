@@ -1,0 +1,35 @@
+{
+    "slug": "ecolog-international",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": " Ecolog International FZE",
+    "runs": [
+        "Ecolog Deutschland GmbH"
+    ],
+    "address": "In der Steele 14 \n40599 Düsseldorf\nDeutschland",
+    "email": "dpo@ecolog-international.com",
+    "web": "http://ecolog-international.com",
+    "sources": [
+        "https://www.ecocare.center/datenschutzerklaerung/",
+        "https://ecolog-international.com/acceptable-use-policy/",
+        "https://github.com/datenanfragen/data/pull/714"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
