@@ -1,16 +1,17 @@
 {
-    "slug": "bethesdanet",
+    "slug": "bethesda",
     "relevant-countries": [
         "all"
     ],
     "categories": [
         "entertainment"
     ],
-    "name": "ZeniMax Media Inc.",
+    "name": "ZeniMax Europe Ltd.",
     "runs": [
-        "Bethesda"
+        "Bethesda",
+        "ZeniMax Media Inc."
     ],
-    "address": "ZeniMax Media Inc.\nAttn: ZeniMax Customer Service/Privacy\n1370 Piccard Drive\nRockville, Maryland 20850 USA",
+    "address": "Haymarket House\n29-29 Haymarket\nLondon\nSW1Y 4SP\nUnited Kingdom",
     "email": "privacy@support.zenimax.com",
     "web": "https://bethesda.net/",
     "sources": [
@@ -18,5 +19,5 @@
         "https://github.com/datenanfragen/data/pull/712"
     ],
     "suggested-transport-medium": "email",
-    "quality": "imported"
+    "quality": "verified"
 }
