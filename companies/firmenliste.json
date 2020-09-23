@@ -1,0 +1,23 @@
+{
+    "slug": "firmenliste",
+    "relevant-countries": [
+        "de",
+        "at",
+        "gb",
+        "ch"
+    ],
+    "categories": [
+        "addresses",
+        "ads"
+    ],
+    "name": "Adresskontor Gmbh ",
+    "address": "Am Höfel 1",
+    "phone": "004915118761813",
+    "email": "support@firmenliste.net",
+    "web": "https://www.firmenliste.net",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/715"
+    ]
+}
