@@ -1,0 +1,23 @@
+{
+    "slug": "firmenliste",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses",
+        "ads"
+    ],
+    "name": "Adresskontor GmbH",
+    "runs": [
+        "FirmenListe.net"
+    ],
+    "address": "Am Höfel 1\n40885 Ratingen\nDeutschland",
+    "phone": "+49 174 2649009",
+    "email": "office@firmenliste.net",
+    "web": "https://www.firmenliste.net",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/715",
+        "https://www.firmenliste.net/datenschutz.php"
+    ]
+}
