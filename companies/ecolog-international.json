@@ -1,0 +1,38 @@
+{
+    "slug": "ecolog-international",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Ecolog Deutschland GmbH",
+    "runs": [
+        "Ecolog International FZE"
+    ],
+    "address": "In der Steele 14\n40599 Düsseldorf\nGermany",
+    "phone": "+49 211 416 64 88 0",
+    "fax": "+49 211 416 64 88 999",
+    "email": "dpo@ecolog-international.com",
+    "web": "http://ecolog-international.com",
+    "sources": [
+        "https://www.ecocare.center/datenschutzerklaerung/",
+        "https://ecolog-international.com/acceptable-use-policy/",
+        "https://github.com/datenanfragen/data/pull/714",
+        "https://www.ecocare.center/impressum/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
