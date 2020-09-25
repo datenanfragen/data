@@ -1,23 +1,23 @@
 {
     "slug": "firmenliste",
     "relevant-countries": [
-        "de",
-        "at",
-        "gb",
-        "ch"
+        "all"
     ],
     "categories": [
         "addresses",
         "ads"
     ],
-    "name": "Adresskontor Gmbh ",
-    "address": "Am Höfel 1",
-    "phone": "004915118761813",
-    "email": "support@firmenliste.net",
+    "name": "Adresskontor GmbH",
+    "runs": [
+        "FirmenListe.net
+    ],
+    "address": "Am Höfel 1\n40885 Ratingen\nDeutschland",
+    "phone": "+49 174 2649009",
+    "email": "office@firmenliste.net",
     "web": "https://www.firmenliste.net",
-    "suggested-transport-medium": "email",
     "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/715"
+        "https://github.com/datenanfragen/data/pull/715",
+        "https://www.firmenliste.net/datenschutz.php"
     ]
 }
