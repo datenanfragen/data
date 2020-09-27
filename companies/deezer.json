@@ -1,0 +1,19 @@
+{
+    "slug": "deezer",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Deezer",
+    "address": "24 rue de Calais 75009 Paris – FRANKREICH ",
+    "phone": "+33 1 84 25 25 00",
+    "email": "privacy@deezer.com",
+    "web": "http://www.deezer.com",
+    "sources": [
+        "https://www.deezer.com/legal/legal",
+        "https://github.com/datenanfragen/data/pull/718"
+    ],
+    "quality": "verified"
+}
