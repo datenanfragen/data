@@ -7,7 +7,7 @@
         "commerce"
     ],
     "name": "CSL-Computer GmbH & Co. KG",
-    "address": "Sokelantstraße 33-35\n30165 Hannover",
+    "address": "Sokelantstraße 33-35\n30165 Hannover\nDeutschland",
     "phone": "+49 511 76900100",
     "fax": "+49 511 76900199",
     "email": "datenschutz@csl-computer.com",
@@ -16,5 +16,6 @@
         "https://www.csl-computer.com/datenschutz",
         "https://github.com/datenanfragen/data/pull/719"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
