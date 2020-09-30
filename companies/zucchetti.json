@@ -1,0 +1,26 @@
+{
+    "slug": "zucchetti",
+    "relevant-countries": [
+        "it",
+        "us",
+        "spa",
+        "br",
+        "fr"
+    ],
+    "categories": [
+        "it",
+        "commerce"
+    ],
+    "name": "Zucchetti",
+    "address": "Via Solferino 1, 26900 Lodi - Italia",
+    "phone": "+39 0371 594-1",
+    "email": "zucchettispa@gruppozucchetti.it",
+    "web": "www.zucchetti.it",
+    "sources": [
+        "https://www.zucchetti.it/website/cms/contatti.html",
+        "https://it.wikipedia.org/wiki/Zucchetti"
+    ],
+    "request-language": "it",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
