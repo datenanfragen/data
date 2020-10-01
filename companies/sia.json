@@ -1,0 +1,40 @@
+{
+    "slug": "sia",
+    "relevant-countries": [
+        "at",
+        "hr",
+        "de",
+        "gr",
+        "cz",
+        "ro",
+        "sk",
+        "rs",
+        "za",
+        "hu",
+        "it",
+        "be",
+        "nl",
+        "gb",
+        "pl",
+        "gb",
+        "gb",
+        "gb"
+    ],
+    "categories": [
+        "finance",
+        "commerce"
+    ],
+    "name": "SIA s.p.a.",
+    "address": "Via Monte Bianco 18\n37132 Verona\nItalia",
+    "phone": "+39 02 60841",
+    "fax": "+39 02 6084 3920",
+    "email": "privacy@sia.eu",
+    "web": "https://www.sia.eu",
+    "sources": [
+        "https://www.sia.eu/it/politica-sulla-privacy",
+        "https://www.sia.eu/it/gruppo-sia/chi-siamo",
+        "https://www.sia.eu/it/gruppo-sia/uffici-e-contatti"
+    ],
+    "request-language": "it",
+    "quality": "verified"
+}
