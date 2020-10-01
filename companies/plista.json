@@ -1,0 +1,21 @@
+{
+    "slug": "plista",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "plista GmbH",
+    "address": "Torstrasse 33-35\n10119 Berlin\nGermany",
+    "phone": "+49 30 47375370",
+    "fax": "+49 30 484984411",
+    "email": "privacy@plista.com",
+    "web": "https://www.plista.com/",
+    "sources": [
+        "https://www.plista.com/about/privacy"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
