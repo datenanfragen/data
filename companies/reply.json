@@ -1,0 +1,31 @@
+{
+  "slug": "reply",
+  "relevant-countries": [
+      "de",
+      "it",
+      "gb",
+      "br",
+      "hr",
+      "pl",
+      "in",
+      "fr",
+      "us",
+      "be"
+  ],
+  "categories": [
+      "utility",
+      "commerce"
+  ],
+  "name": "Reply S.p.A.",
+  "address": "Corso Francia, 110\n10143 Torino\nItalia",
+  "phone": "+39 02 535761",
+  "fax": "+39 02 5357 6444",
+  "email": "dpo.it@reply.it",
+  "web": "https://www.reply.com",
+  "sources": [
+      "https://www.reply.com/triplesense/it/contatti",
+      "https://www.reply.com/en/Shared%20Documents/Privacy/Privacy_Policy_eng.pdf"
+  ],
+  "request-language": "it",
+  "quality": "verified"
+}
