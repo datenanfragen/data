@@ -1,26 +1,26 @@
 {
     "slug": "zucchetti",
     "relevant-countries": [
-        "it",
-        "us",
-        "spa",
-        "br",
-        "fr"
+        "IT",
+        "US",
+        "ES",
+        "BR",
+        "FR"
     ],
     "categories": [
-        "it",
+        "finance",
         "commerce"
     ],
-    "name": "Zucchetti",
-    "address": "Via Solferino 1, 26900 Lodi - Italia",
-    "phone": "+39 0371 594-1",
-    "email": "zucchettispa@gruppozucchetti.it",
-    "web": "www.zucchetti.it",
+    "name": "Zucchetti s.p.a.",
+    "address": "Via Solferino 1\n26900 Lodi\nItalia",
+    "phone": "+39 0371 594 3191",
+    "fax": "+39 0371 594 2195",
+    "email": "dpo@zucchetti.it",
+    "web": "https://www.zucchetti.it",
     "sources": [
-        "https://www.zucchetti.it/website/cms/contatti.html",
-        "https://it.wikipedia.org/wiki/Zucchetti"
+        "https://www.zucchetti.it/website/cms/privacy.html",
+        "https://www.zucchetti.it/website/cms/contatti.html"
     ],
     "request-language": "it",
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
