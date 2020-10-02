@@ -1,0 +1,15 @@
+{
+    "slug": "volksbank-plochingen",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Volksbank Plochingen eG",
+    "address": "Volksbank Plochingen eG, Am Fischbrunnen 8 , 73207 Plochingen\nTel.: 07153 706–0 , Fax: 07153 706–146",
+    "email": "datenschutz@volksbank-plochingen.de",
+    "web": "https://www.volksbank-plochingen.de",
+    "sources": [
+        "https://www.volksbank-plochingen.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.html",
+        "https://github.com/datenanfragen/data/pull/734"
+    ],
+    "quality": "verified"
+}
