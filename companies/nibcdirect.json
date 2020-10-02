@@ -1,0 +1,22 @@
+{
+    "slug": "nibcdirect",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "NIBC Bank N.V.",
+    "address": "Neue Mainzer Straße 52\n60311 Frankfurt am Main\nDeutschland",
+    "email": "datenschutz@nibcdirect.de",
+    "web": "https://www.nibcdirect.de",
+    "sources": [
+        "https://www.nibcdirect.de/services/sicherheit/#1435",
+        "https://github.com/datenanfragen/data/pull/737"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Es gibt zwei verschiedene Mails für die NIBC, siehe Quelle."
+    ],
+    "quality": "verified"
+}
