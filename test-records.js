@@ -30,7 +30,7 @@ const validator = (dir, schema, additional_checks = null) => {
         files.forEach((_f) => {
             f = _f;
             const file_content = fs.readFileSync(f);
-            if (!file_content.toString().endsWith('}\n')) fail("File doesn't end with a newline.");
+            if (!file_content.toString().endsWith('}\n')) fail("File doesn't end with '}\\n'");
 
             const json = JSON.parse(file_content);
             if (!schema(json)) fail('Schema validation failed.\n', schema.errors);
