@@ -40,5 +40,6 @@
         "https://github.com/datenanfragen/data/pull/733",
         "https://www.diebank.de/wir-fuer-sie/filialen-geldautomaten/filialen/uebersicht-filialen.html"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
