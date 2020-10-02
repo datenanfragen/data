@@ -7,16 +7,24 @@
         "finance"
     ],
     "name": "NIBC Bank N.V.",
+    "runs": [
+        "NIBC Bank Deutschland AG",
+        "NIBC Direct"
+    ],
     "address": "Neue Mainzer Straße 52\n60311 Frankfurt am Main\nDeutschland",
+    "phone": "+49 69 24437200",
+    "fax": "+49 69 50600573",
     "email": "datenschutz@nibcdirect.de",
     "web": "https://www.nibcdirect.de",
     "sources": [
         "https://www.nibcdirect.de/services/sicherheit/#1435",
-        "https://github.com/datenanfragen/data/pull/737"
+        "https://github.com/datenanfragen/data/pull/737",
+        "https://www.nibcdirect.de/ueber-nibc/verschmelzung-ag-und-n-v/",
+        "https://www.nibcdirect.de/impressum/"
+    ],
+    "comments": [
+        "E-Mail für Produkte, die nicht online über „NIBC Direct“ angeboten werden: datenschutzNV@nibc.com"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Es gibt zwei verschiedene Mails für die NIBC, siehe Quelle."
-    ],
     "quality": "verified"
 }
