@@ -32,6 +32,6 @@
         "https://www.sia.eu/it/gruppo-sia/chi-siamo",
         "https://www.sia.eu/it/gruppo-sia/uffici-e-contatti"
     ],
-    "request-language": "it",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
