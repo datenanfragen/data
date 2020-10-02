@@ -1,0 +1,19 @@
+{
+    "slug": "renault",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Renault Deutschland AG",
+    "address": "Renault Nissan Straße 6 - 10\n50321 Brühl",
+    "phone": "02232 / 73 - 0",
+    "fax": "02232 / 73 - 9226",
+    "email": "Datenschutzbeauftragter.deutschland@renault.de",
+    "web": "https://www.renault.de",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/731"
+    ]
+}
