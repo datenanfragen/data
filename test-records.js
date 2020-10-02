@@ -4,7 +4,7 @@ const glob = require('glob');
 const path = require('path');
 
 // json-forms uses the `text` format for multi-line strings.
-ajv.addFormat('text', a => true);
+ajv.addFormat('text', (a) => true);
 // ajv doesn't support the `idn-email` format. As validation of email addresses isn't exactly critical for us, we'll
 // just use this *very* basic check.
 ajv.addFormat('idn-email', /^\S+@\S+\.\S+$/);
@@ -27,10 +27,12 @@ const validator = (dir, schema, additional_checks = null) => {
             return;
         }
 
-        files.forEach(_f => {
+        files.forEach((_f) => {
             f = _f;
-            const json = JSON.parse(fs.readFileSync(f));
+            const file_content = fs.readFileSync(f);
+            if (!file_content.toString().endsWith('}\n')) fail("File doesn't end with a newline.");
 
+            const json = JSON.parse(file_content);
             if (!schema(json)) fail('Schema validation failed.\n', schema.errors);
             if (json.slug + '.json' !== path.basename(f)) {
                 fail(`Filename "${path.basename(f)}" does not match slug "${json.slug}".`);
@@ -41,10 +43,10 @@ const validator = (dir, schema, additional_checks = null) => {
     });
 };
 
-validator('companies', cdb_schema, json => {
+validator('companies', cdb_schema, (json) => {
     // Check for necessary 'name' field in the required elements (#388).
     if (json['required-elements']) {
-        const has_name_field = json['required-elements'].some(el => el.type === 'name');
+        const has_name_field = json['required-elements'].some((el) => el.type === 'name');
         if (!has_name_field)
             fail(
                 `Record has required elements but no 'name' element.`,
