@@ -14,6 +14,11 @@
         "https://sbahn.berlin/datenschutz/",
         "https://sbahn.berlin/impressum/"
     ],
+    "comments": [
+        "Die bestellte Datenschutzbeauftragte der S-Bahn Berlin GmbH ist Frau Chris Newiger.",
+        "Fragen oder Anregungen zur Datenverarbeitung bei der S-Bahn Berlin GmbH können auch an kundenbetreuung@s-bahn-berlin.de gestellt werden.",
+        "Die S-Bahn Berlin GmbH ist eine Tochtergesellschaft der DB Regio AG."
+    ],
     "request-language": "de",
     "quality": "verified"
 }
