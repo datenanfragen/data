@@ -14,10 +14,7 @@
         "https://sbahn.berlin/datenschutz/",
         "https://sbahn.berlin/impressum/"
     ],
-    "comments": [
-        "Fragen oder Anregungen zur Datenverarbeitung bei der S-Bahn Berlin GmbH können auch an kundenbetreuung@s-bahn-berlin.de gestellt werden.",
-        "Die S-Bahn Berlin GmbH ist eine Tochtergesellschaft der DB Regio AG."
-    ],
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
