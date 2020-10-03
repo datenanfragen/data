@@ -9,12 +9,10 @@
     "name": "VBB Verkehrsverbund Berlin-Brandenburg GmbH",
     "address": "Hardenbergplatz 2\n10623 Berlin\nDeutschland",
     "email": "datenschutz@vbb.de",
+    "phone": "+49 30 254140",
     "web": "https://www.vbb.de/",
     "sources": [
         "https://www.vbb.de/datenschutz"
-    ],
-    "comments": [
-        "Fragen oder Anregungen zur Datenverarbeitung beim VBB können auch per E-Mail an info@vbb.de oder telefonisch an +49 30 254140 gestellt werden."
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
