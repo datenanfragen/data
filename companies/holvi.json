@@ -10,6 +10,8 @@
     ],
     "name": "Holvi Payment Services Oy",
     "address": "Hämeentie 11\n00530 Helsinki\nFinland",
+    "phone": "+358 75 325 2935",
+    "fax": "+358 92 319 4337",
     "email": "privacy@holvi.com",
     "web": "https://www.holvi.com/",
     "sources": [
@@ -17,7 +19,8 @@
     ],
     "comments": [
         "Name and address of the Data Protection Officer (DPO): Tuomas Haavikko (privacy@holvi.com)",
-        "Business ID: 2193756-4"
+        "Business ID: 2193756-4",
+        "Postal Address: Kaikukatu 2 C, 00530 Helsinki, Finland."
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
