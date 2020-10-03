@@ -1,0 +1,21 @@
+{
+    "slug": "bvg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Berliner Verkehrsbetriebe (BVG)",
+    "address": "Berliner Verkehrsbetriebe (BVG) - AöR -\nDatenschutzbeauftragter\nHolzmarktstraße 15-17\n10179 Berlin\nDeutschland",
+    "email": "datenschutz@bvg.de",
+    "web": "https://www.bvg.de/",
+    "sources": [
+        "https://www.bvg.de/de/Serviceseiten/Impressum",
+        "https://www.bvg.de/de/Serviceseiten/Datenschutzhinweise"
+    ],
+    "request-language": "de",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
+
