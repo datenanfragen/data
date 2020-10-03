@@ -7,7 +7,7 @@
         "travel"
     ],
     "name": "VBB Verkehrsverbund Berlin-Brandenburg GmbH",
-    "address": "VBB Verkehrsverbund Berlin-Brandenburg GmbH\nDatenschutz\nHardenbergplatz 2\n10623 Berlin\nDeutschland",
+    "address": "Hardenbergplatz 2\n10623 Berlin\nDeutschland",
     "email": "datenschutz@vbb.de",
     "web": "https://www.vbb.de/",
     "sources": [
@@ -19,4 +19,3 @@
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
-
