@@ -8,6 +8,14 @@
         "travel"
     ],
     "name": "Berliner Verkehrsbetriebe (BVG)",
+    "runs": [
+        "URBANIS GmbH",
+        "BT Berlin Transport GmbH (BT)",
+        "IOB Internationale Omnibusbahnhof-Betreibergesellschaft mbH",
+        "BVG Projekt GmbH",
+        "BVG Beteiligungsholding Verwaltungsgesellschaft mbH",
+        "BVG Beteiligungsholding GmbH & Co. KG"
+    ],
     "address": "Berliner Verkehrsbetriebe (BVG) - AöR -\nDatenschutzbeauftragter\nHolzmarktstraße 15-17\n10179 Berlin\nDeutschland",
     "email": "datenschutz@bvg.de",
     "web": "https://www.bvg.de/",
