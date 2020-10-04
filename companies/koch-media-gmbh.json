@@ -1,0 +1,27 @@
+{
+    "slug": "koch-media-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "commerce"
+    ],
+    "name": "Koch Media GmbH",
+    "runs": [
+        "Deep Silver"
+    ],
+    "address": "Lochhamer Str. 9\n82152 Planegg\nGermany",
+    "phone": "+49 89 24245405",
+    "fax": "+49 89 242453405",
+    "email": "office@kochmedia.com",
+    "web": "https://www.kochmedia.com",
+    "sources": [
+        "https://www.deepsilver.com/en/privacy-policy/",
+        "https://www.kochmedia.com/en/privacy-policy/"
+    ],
+    "comments": [
+        "Check https://www.deepsilver.com/en/privacy-policy/ to obtain the email address of the DPO."
+    ],
+    "quality": "verified"
+}

@@ -13,7 +13,8 @@
         "Ubisoft GmbH",
         "Ubisoft Nordic A/S",
         "Ubisoft, S.A.",
-        "Ubisoft P/L"
+        "Ubisoft P/L",
+        "Ubisoft Blue Byte GmbH"
     ],
     "address": "17 avenue Henri Fréville\n35200 Rennes\nFrance",
     "email": "dpo@ubisoft.com",
@@ -21,7 +22,8 @@
     "sources": [
         "https://legal.ubi.com/LegalInfoUbisoftEMEA/de-DE",
         "https://legal.ubi.com/privacypolicy/de-DE",
-        "https://support.ubisoft.com/de-DE/Contact"
+        "https://support.ubisoft.com/de-DE/Contact",
+        "https://bluebyte.ubisoft.com/de/imprint/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
