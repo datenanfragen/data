@@ -1,0 +1,28 @@
+{
+    "slug": "holvi",
+    "relevant-countries": [
+        "at",
+        "be",
+        "de",
+        "fi",
+        "fr",
+        "ie",
+        "it",
+        "nl"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Holvi Payment Services Oy",
+    "address": "Hämeentie 11\n00530 Helsinki\nFinland",
+    "phone": "+358 75 325 2935",
+    "fax": "+358 92 319 4337",
+    "email": "privacy@holvi.com",
+    "web": "https://www.holvi.com/",
+    "sources": [
+        "https://support.holvi.com/hc/en-gb/articles/202260402-Privacy-Policy-Personal-Data-Declaration",
+        "https://support.holvi.com/hc/en-gb/article_attachments/360007989258/2020-04-23_Privacy_Policy_v2.7.pdf"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
