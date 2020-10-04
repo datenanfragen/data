@@ -1,0 +1,10 @@
+
+Hello,
+
+On {request_date}, I made a request to you according to § {article} KDG.
+
+Unfortunately, I have not yet received an answer from you. This means that the period of one month according to § 14 Paragraph 3 Sentence 1 KDG has been exceeded.
+
+I am therefore addressing you again and ask you to answer my request within two weeks of receiving this reminder. Otherwise I reserve the right to take legal action against you and to file a complaint with the responsible data protection supervisory authority.
+
+Thanks and Regards
