@@ -1,0 +1,20 @@
+{
+    "slug": "tinder",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Match Group, LLC",
+    "runs": [
+        "Tinder"
+    ],
+    "address": "Match Group, LLC\n8750 North Central Expressway\nSuite 1400\nDallas, TX 75231\nUnited States\n\nMTCH Technology Services Limited\nTinder\nWeWork Charlemont Exchange\n42 Charlemont Street\nDublin 2, D02 R593\nIreland",
+    "web": "https://tinder.com/",
+    "suggested-transport-medium": "letter",
+    "comments": [
+        "Web form: https://account.gotinder.com/data"
+    ],
+    "quality": "verified"
+}
