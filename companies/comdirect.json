@@ -31,5 +31,8 @@
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
+    "comments": [
+        "Verlangt das Absenden der Anfrage über das Kontaktformular zur eindeutigen Identifizierung unter https://kunde.comdirect.de/itx/kontakt („Hilfe & Service” → Überschrift „Allgemeine Kontaktdaten” → „Kontaktformular für […] Kunden” → „Kontaktformular”)."
+    ],
     "quality": "verified"
 }
