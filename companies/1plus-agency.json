@@ -11,11 +11,12 @@
     "address": "O4 4\n68161 Mannheim\nDeutschland",
     "phone": "+49 621 49078707",
     "fax": "+49 6252 6990559",
-    "email": "support@1plus-agency.com",
+    "email": "info@1plus-agency.com",
     "web": "https://www.1plus-agency.com/",
     "sources": [
         "https://www.facebook.com/1plusagency/",
-        "https://github.com/datenanfragen/data/issues/450"
+        "https://github.com/datenanfragen/data/issues/450",
+        "https://www.1plus-agency.com/datenschutzerklarung/"
     ],
     "quality": "verified"
 }

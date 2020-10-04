@@ -6,16 +6,20 @@
     "categories": [
         "ads"
     ],
-    "name": "4Wave Marketing GmbH",
+    "name": "blueleads GmbH",
+    "runs": [
+        "4Wave Marketing GmbH (ehem.)"
+    ],
     "address": "Unterländer Straße 74\n70435 Stuttgart\nDeutschland",
-    "phone": "+49 711 184271 20",
-    "fax": "+49 711 184271 29",
-    "email": "datenschutz@4wave-marketing.de",
-    "web": "http://www.4wave-marketing.de",
+    "phone": "+49 800 8444537",
+    "email": "datenschutz@blueleads.online",
+    "web": "http://www.blueleads.online/",
     "sources": [
         "http://www.4wave-marketing.de/datenschutz/",
         "https://github.com/datenanfragen/data/issues/70",
-        "http://www.4wave-marketing.de/impressum/"
+        "http://www.4wave-marketing.de/impressum/",
+        "http://blueleads.online/datenschutz.html",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=718712&land_abk=bw"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
