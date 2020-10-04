@@ -1,3 +1,12 @@
+<p align="center">
+    <img src="https://www.datarequests.org/img/logo-datarequests.svg"
+        height="70">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=Javascript&style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/static/v1?label=&message=JSON&style=for-the-badge&logo=json" />
+</p>
+
 # Company data for Datenanfragen.de
 
 This repository contains a directory of contact information and privacy-related data on companies (and other organizations) under the scope of the EU GDPR, a directory of the supervisory data protection authorities, a collection of templates for GDPR requests in various languages and a list of suggested companies to send access requests to.  
@@ -70,3 +79,7 @@ If we know from previous requests (or from a privacy policy) which identificatio
 
 If `required_elements` are specified, there *should* be one element with type `name`. This does not have to be a real name but could also be a username or even an email address, if no other information is required.  
 In addition, the `required_elements` should include some way for the company to respond to the request, be it an address, an email address, a phone number or something similar. 
+
+## License
+
+This repository is available under the [Creative Commons Legal Code](./LICENSE).
