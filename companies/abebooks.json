@@ -10,7 +10,7 @@
     "address": "Ronsdorfer Str. 77a\n40233 Düsseldorf\nDeutschland",
     "phone": "+49 211 7117069 0",
     "fax": "+49 211 7117069 19",
-    "email": "info@abebooks.de",
+    "email": "privacy@abebooks.de",
     "web": "https://www.abebooks.de",
     "sources": [
         "https://www.abebooks.de/Unternehmen/Datenschutzerklaerung.shtml",
@@ -20,5 +20,6 @@
     "relevant-countries": [
         "de"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
