@@ -2,8 +2,13 @@
     "slug": "holvi",
     "relevant-countries": [
         "at",
+        "be",
         "de",
-        "fi"
+        "fi",
+        "fr",
+        "ie",
+        "it",
+        "nl"
     ],
     "categories": [
         "finance"
@@ -15,12 +20,8 @@
     "email": "privacy@holvi.com",
     "web": "https://www.holvi.com/",
     "sources": [
-        "https://support.holvi.com/hc/en-gb/articles/202260402-Privacy-Policy-Personal-Data-Declaration"
-    ],
-    "comments": [
-        "Name and address of the Data Protection Officer (DPO): Tuomas Haavikko (privacy@holvi.com)",
-        "Business ID: 2193756-4",
-        "Postal Address: Kaikukatu 2 C, 00530 Helsinki, Finland."
+        "https://support.holvi.com/hc/en-gb/articles/202260402-Privacy-Policy-Personal-Data-Declaration",
+        "https://support.holvi.com/hc/en-gb/article_attachments/360007989258/2020-04-23_Privacy_Policy_v2.7.pdf"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
