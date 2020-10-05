@@ -8,10 +8,12 @@
     ],
     "name": "AdRoll Advertising Ltd.",
     "address": "Level 6\n1, Burlington Plaza\nBurlington Road\nDublin 4\nIreland",
-    "email": "dpo@adrollgroup.com",
+    "email": "dpo@nextroll.com",
     "web": "https://www.adroll.com/",
     "sources": [
-        "https://www.adrollgroup.com/privacy"
+        "https://www.adrollgroup.com/privacy",
+        "https://www.nextroll.com/privacy",
+        "https://github.com/datenanfragen/data/pull/753"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
