@@ -1,7 +1,6 @@
 {
     "slug": "lgt-bank",
     "relevant-countries": [
-        "li",
         "all"
     ],
     "categories": [
@@ -19,7 +18,7 @@
         "LGT Financial Services AG",
         "LGT Fund Management Company Ltd."
     ],
-    "address": "LGT Gruppe Holding AG\nHerrengasse 12\n9490 Vaduz\nLiechtenstein",
+    "address": "Herrengasse 12\n9490 Vaduz\nLiechtenstein",
     "phone": "+423 235 11 22",
     "email": "lgt.datenschutz@lgt.com",
     "web": "https://www.lgt.li/",
