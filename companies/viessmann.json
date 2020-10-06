@@ -1,7 +1,6 @@
 {
     "slug": "viessmann",
     "relevant-countries": [
-        "de",
         "all"
     ],
     "name": "Viessmann Werke GmbH & Co. KG",
@@ -12,17 +11,15 @@
         "Viessmann PV + E GmbH",
         "Digital Energy Solutions GmbH & Co. KG"
     ],
-    "address": "Viessmannstraße 1\n35108 Allendorf (Eder)",
+    "address": "Viessmannstraße 1\n35108 Allendorf (Eder)\nGermany",
     "phone": "+49 6452 700",
     "fax": "+49 6452 702780",
-    "email": "info@viessmann.com",
+    "email": "datenschutz@viessmann.com",
     "web": "https://www.viessmann.de/",
     "sources": [
         "https://www.viessmann.de/de/datenschutzerklaerung.html",
         "https://github.com/datenanfragen/data/pull/758"
     ],
-    "comments": [
-        "Hersteller von u.A. Heizaggregaten mit Cloud-Anschluss. Verarbeitet Personendaten, genaue Verbrauchsdaten, die z.B. Hinweise auf Anwesenheit/Abwesenheit und Gewohnheiten von Personen geben. Speichert diese in der Cloud und teilt diese mit Vertragsbetrieben (Monteuren). Zugriff der Betroffenen/Eigentümer der Anlagen und Gateways auf diese Daten ist hingengen nicht vorgesehen."
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
