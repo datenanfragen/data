@@ -1,0 +1,34 @@
+{
+    "slug": "lgt-bank",
+    "relevant-countries": [
+        "li",
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "LGT Gruppe Holding AG",
+    "runs": [
+        "LGT Bank AG",
+        "LGT Bank (Schweiz) AG",
+        "LGT Bank (Hong Kong)",
+        "LGT Investment Management (Asia) Limited",
+        "LGT Bank (Singapore) Ltd.",
+        "LGT (Middle East) Ltd.",
+        "LGT Capital Partners (FL) AG",
+        "LGT Financial Services AG",
+        "LGT Fund Management Company Ltd."
+    ],
+    "address": "LGT Gruppe Holding AG\nHerrengasse 12\n9490 Vaduz\nLiechtenstein",
+    "phone": "+423 235 11 22",
+    "email": "lgt.datenschutz@lgt.com",
+    "web": "https://www.lgt.li/",
+    "sources": [
+        "https://www.lgt.com/de/rechtliche-hinweise/index.html#responsiveTab_24",
+        "https://www.lgt.com/asia/en/legal-information/#responsiveTab_24",
+        "https://www.lgt.ch/de/rechtliche-hinweise/#responsiveTab_24",
+        "https://www.lgt.at/de/rechtliche-hinweise/#responsiveTab_24"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
