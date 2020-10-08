@@ -8,7 +8,7 @@ In case you are, I am hereby requesting access to the following information purs
 3. the categories of personal data concerned;
 4. the recipients or categories of recipient to whom the personal data have been or will be disclosed;
 5. where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
-6. where the personal data are not collected from the data subject, any available information as to their source;
+6. where the personal data is not collected from the data subject, any available information as to their source;
 7. the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for me.
 
 In case you are processing anonymised data concerning me, please not only inform me about that but also explain the procedure used in an easily understandable way.
@@ -25,7 +25,7 @@ Please tell me which information (cookie ID, device advertising ID, etc.) is nec
 [has_fields>
 My contact details are as follows:
 {id_data}]
-If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
+If you do not answer my request within the stated period, I reserve the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
 
 Thank you in advance.
 
