@@ -1,20 +1,23 @@
 {
     "slug": "liveramp",
     "relevant-countries": [
-        "all"
+        "nl",
+        "de"
     ],
     "categories": [
         "ads"
     ],
-    "name": "LiveRamp",
-    "address": "225 Bush Street\n17th Floor\nSan Francisco\nCA 94104\nUnited States",
-    "phone": "+1 866 352 3267",
-    "email": "consumercare@liveramp.com",
-    "web": "https://liveramp.com/",
+    "name": "LiveRamp NL B.V.",
+    "address": "Herengracht 244\n1016 BT Amsterdam\nNiederlande",
+    "email": "privacy.nl@liveramp.com",
+    "web": "https://liveramp.uk/privacy-policy-netherlands/",
     "sources": [
-        "https://liveramp.com/privacy/service-privacy-policy/",
-        "https://liveramp.com/contact/"
+        "https://liveramp.uk/privacy-policy-netherlands/",
+        "https://liveramp.uk/privacy-policy-germany/",
+        "https://github.com/datenanfragen/data/pull/761"
     ],
-    "custom-access-template": "access-tracking",
+    "comments": [
+        "Für Datenanfragen aus Deutschland: privacy.de@liveramp.com"
+    ],
     "quality": "verified"
 }
