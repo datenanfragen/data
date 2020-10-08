@@ -1,0 +1,19 @@
+{
+    "slug": "mediainformationsystems",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Media Information Systems Deutschland GmbH",
+    "address": "Bavariaring 16\n80336 München\nBundesrepublik Deutschland\n",
+    "phone": "+49 89 121400858",
+    "email": "datenschutz@mismail.de",
+    "web": "https://mediainformationsystems.de",
+    "sources": [
+        "https://mediainformationsystems.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/760"
+    ],
+    "quality": "verified"
+}
