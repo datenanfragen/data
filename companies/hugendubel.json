@@ -21,6 +21,19 @@
         "https://www.ebook.de/de/category/59474/datenschutz.html",
         "https://www.hugendubel.de/de/category/5803/impressum.html"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

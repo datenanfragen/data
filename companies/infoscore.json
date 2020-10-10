@@ -32,6 +32,7 @@
     "comments": [
         "Erbitten Anschriften der letzten fünf Jahre für vollständigere Auskunft."
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

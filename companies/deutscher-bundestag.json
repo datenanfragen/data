@@ -20,6 +20,7 @@
         "https://www.bundestag.de/datenschutz",
         "https://www.bundestag.de/services/impressum/"
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

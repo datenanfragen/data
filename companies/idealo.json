@@ -18,9 +18,22 @@
         "https://www.idealo.de/preisvergleich/Datenschutz.html",
         "https://www.idealo.de/preisvergleich/AGB.html"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "relevant-countries": [
         "de"
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
