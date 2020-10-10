@@ -1,0 +1,22 @@
+{
+    "slug": "liveramp-it",
+    "relevant-countries": [
+        "it"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "LiveRamp Netherlands B.V.",
+    "address": "Herengracht 244\n1016 BT Amsterdam\nNetherlands",
+    "phone": "+44 20 3966 4150",
+    "email": "privacy.it@liveramp.com",
+    "web": "https://liveramp.com/",
+    "sources": [
+        "https://liveramp.com/privacy/service-privacy-policy/",
+        "https://liveramp.com/contact/",
+        "https://liveramp.uk/privacy-policy-italia/"
+    ],
+    "suggested-transport-medium": "email",
+    "custom-access-template": "access-tracking",
+    "quality": "verified"
+}

@@ -1,0 +1,22 @@
+{
+    "slug": "liveramp-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "LiveRamp Netherlands B.V.",
+    "address": "c/o ePrivacy GmbH\nGroße Bleichen 21\n20354 Hamburg\nDeutschland",
+    "phone": "+44 20 3966 4150",
+    "email": "privacy.de@liveramp.com",
+    "web": "https://liveramp.com/",
+    "sources": [
+        "https://liveramp.com/privacy/service-privacy-policy/",
+        "https://liveramp.com/contact/",
+        "https://liveramp.uk/privacy-policy-germany/"
+    ],
+    "suggested-transport-medium": "email",
+    "custom-access-template": "access-tracking",
+    "quality": "verified"
+}
