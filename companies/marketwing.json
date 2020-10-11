@@ -1,0 +1,22 @@
+{
+    "slug": "marketwing",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "marketwing GmbH",
+    "address": "c/o adreko GmbH\nKarolingerring 4\n50678 Köln\nDeutschland",
+    "phone": "+49 221 99 22 77 80",
+    "fax": "+49 5131 4522520",
+    "email": "datenschutz@marketwing.de",
+    "web": "https://marketwing.de",
+    "sources": [
+        "https://marketwing.de/datenschutzerklaerung/",
+        "https://marketwing.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/765"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
