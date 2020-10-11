@@ -1,14 +1,12 @@
 {
     "slug": "missguided",
     "relevant-countries": [
-        "au",
         "de",
         "es",
         "fr",
         "ie",
         "pl",
-        "gb",
-        "us"
+        "gb"
     ],
     "categories": [
         "commerce"
