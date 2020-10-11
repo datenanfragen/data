@@ -15,6 +15,7 @@
             "title": "Relevant countries",
             "description": "A list of countries the record is relevant for. The countries can either be an ISO 3166-1 alpha-2 country code or 'all'. If a company has branches in different countries with unique contact data, separate records should be created for those. If a company branch offers its services in English and isn't explicitly restricted to certain countries, 'all' should be specified.",
             "uniqueItems": true,
+            "minItems": 1,
             "items": {
                 "type": "string",
                 "enum": ["all", "at", "be", "bg", "hr", "cy", "cz", "dk", "ee", "fi", "fr", "de", "gr", "hu", "ie", "it", "lv", "lt", "lu", "mt", "nl", "pl", "pt", "ro", "sk", "si", "es", "se", "uk", "gb", "no", "is", "li", "ic", "gp", "gf", "mq", "yt", "re", "mf", "ch"]
@@ -91,6 +92,7 @@
             "title": "Sources",
             "description": "A list of sources for the record. Preferably from the company's official website.",
             "uniqueItems": true,
+            "minItems": 1,
             "items": {
                 "type": "string",
                 "format": "uri"
