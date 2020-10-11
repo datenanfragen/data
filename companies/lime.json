@@ -1,15 +1,9 @@
 {
     "slug": "lime",
     "relevant-countries": [
-        "us",
-        "au",
-        "br",
-        "cl",
         "at",
         "be",
         "bg",
-        "ca",
-        "co",
         "cz",
         "dk",
         "fi",
@@ -17,20 +11,15 @@
         "de",
         "gr",
         "hu",
-        "il",
         "it",
-        "mx",
-        "nz",
         "no",
         "pl",
         "pt",
         "ro",
-        "sg",
         "es",
         "se",
         "ch",
-        "gb",
-        "uy"
+        "gb"
     ],
     "categories": [
         "travel"

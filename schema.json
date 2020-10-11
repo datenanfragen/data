@@ -17,7 +17,7 @@
 			"uniqueItems": true,
 			"items": {
 				"type": "string",
-				"enum": [ "all", "de", "gb", "at", "ch", "fr", "it", "nl", "af", "eg", "al", "dz", "ad", "ao", "ag", "gq", "ar", "am", "az", "et", "au", "bs", "bh", "bd", "bb", "by", "be", "bz", "bj", "bt", "bo", "ba", "bw", "br", "bn", "bg", "bf", "bi", "cl", "cn", "cr", "ci", "dk", "dm", "do", "dj", "ec", "sv", "er", "ee", "fj", "fi", "ga", "gm", "ge", "gh", "gd", "gr", "gt", "gn", "gw", "gy", "ht", "hn", "in", "id", "iq", "ir", "ie", "is", "il", "jm", "jp", "ye", "jo", "kh", "cm", "ca", "cv", "kz", "qa", "ke", "kg", "ki", "co", "km", "cd", "cg", "kp", "kr", "hr", "cu", "kw", "la", "ls", "lv", "lb", "lr", "ly", "li", "lt", "lu", "mg", "mw", "my", "mv", "ml", "mt", "ma", "mh", "mr", "mu", "mx", "fm", "md", "mc", "mn", "me", "mz", "mm", "na", "nr", "np", "nz", "ni", "ne", "ng", "mk", "no", "om", "tl", "pk", "pw", "pa", "pg", "py", "pe", "ph", "pl", "pt", "rw", "ro", "ru", "sb", "zm", "ws", "sm", "st", "sa", "se", "sn", "rs", "sc", "sl", "zw", "sg", "sk", "si", "so", "es", "lk", "kn", "lc", "vc", "za", "sd", "ss", "sr", "sz", "sy", "tj", "tz", "th", "tg", "to", "tt", "td", "cz", "tn", "tr", "tm", "tv", "ug", "ua", "hu", "uy", "uz", "vu", "ve", "ae", "us", "vn", "cf", "cy" ]
+				"enum": ["all", "at", "be", "bg", "hr", "cy", "cz", "dk", "ee", "fi", "fr",	"de", "gr", "hu", "ie", "it", "lv", "lt", "lu", "mt", "nl", "pl", "pt", "ro", "sk", "si", "es", "se", "uk", "gb", "no", "is", "li", "ic", "gp", "gf", "mq", "yt", "re", "mf", "ch"]
 			}
 		},
 		"categories": {
