@@ -1,0 +1,17 @@
+{
+    "slug": "starz",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "StarzPlay Direct UK Limited",
+    "address": "StarzPlay Direct UK Limited,\n45 Mortimer Street,\nLondon, W1W 8HJ,\nUnited Kingdom",
+    "email": "privacy@starz.com",
+    "web": "https://starz.com",
+    "sources": [
+        "https://www.starz.com/gb/en/privacy",
+        "https://github.com/datenanfragen/data/pull/770"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
