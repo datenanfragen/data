@@ -1,0 +1,19 @@
+Guten Tag,
+
+ich stelle hiermit Antrag auf Berichtigung bzw. Vervollständigung mich betreffender unrichtiger personenbezogener Daten nach § 20 des Kirchengesetzes über den Datenschutz der Evangelischen Kirche in Deutschland (DSG-EKD).
+
+Folgende Änderungen sind vorzunehmen:
+{rectification_data}
+Sofern Sie die betroffenen personenbezogenen Daten einem oder mehreren Empfängern im Sinne des § 4 Nr. 11 DSG-EKD offengelegt haben, haben Sie die vorgenommenen Änderungen nach § 23 DSG-EKD allen solchen Empfängern mitzuteilen. Bitte informieren Sie mich weiterhin über diese Empfänger.
+
+Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie verantwortliche Stelle im Sinne des § 4 Nr. 9 DSG-EKD sind[runs>: {runs_list}].
+
+Nach § 16 Abs. 3 DSG-EKD haben Sie mich unverzüglich, spätestens aber innerhalb von drei Monaten nach Eingang des Antrags, über die vorgenommenen Änderungen zu informieren.
+[has_fields>
+Zur Identifikation meiner Person habe ich folgende Daten beigefügt:
+{id_data}]
+Sollten Sie meinem Antrag nicht innerhalb der genannten Frist nachkommen, behalte ich mir vor rechtliche Schritte gegen Sie einzuleiten und Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen.
+
+Schon im Voraus vielen Dank für Ihre Mühe.
+
+Mit freundlichen Grüßen
