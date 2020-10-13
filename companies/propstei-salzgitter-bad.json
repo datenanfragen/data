@@ -1,0 +1,23 @@
+{
+    "slug": "propstei-salzgitter-bad",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "Propstei Salzgitter-Bad",
+    "address": "Oderwaldstraße 5\n38312 Flöthe\nDeutschland",
+    "phone": "+49 5341 32090",
+    "fax": "+49 5341 32065",
+    "email": "salzgitter-bad.pr@lk-bs.de",
+    "web": "http://www.propstei-salzgitter-bad.de/",
+    "sources": [
+        "https://www.landeskirche-braunschweig.de/gemeinden/propsteien/salzgitter-bad.html"
+    ],
+    "custom-access-template": "access-evangelische-kirche",
+    "custom-erasure-template": "erasure-evangelische-kirche",
+    "custom-rectification-template": "rectification-evangelische-kirche",
+    "quality": "scraped",
+    "facet-group": "church"
+}
