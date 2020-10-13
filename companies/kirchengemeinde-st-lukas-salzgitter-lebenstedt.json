@@ -1,0 +1,22 @@
+{
+    "slug": "kirchengemeinde-st-lukas-salzgitter-lebenstedt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "Kirchengemeinde St. Lukas Salzgitter-Lebenstedt",
+    "address": "Wildkamp 34\n38226 Salzgitter\nDeutschland",
+    "phone": "+49 5341 61659",
+    "fax": "+49 5341 67150",
+    "email": "lukas.sz.buero@lk-bs.de",
+    "sources": [
+        "https://www.landeskirche-braunschweig.de/gemeinden/propsteien/einrichtungen.html?user_lkbsaddress_pi2%5Bid%5D=893"
+    ],
+    "custom-access-template": "access-evangelische-kirche",
+    "custom-erasure-template": "erasure-evangelische-kirche",
+    "custom-rectification-template": "rectification-evangelische-kirche",
+    "quality": "scraped",
+    "facet-group": "church"
+}

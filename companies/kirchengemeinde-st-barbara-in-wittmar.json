@@ -1,0 +1,23 @@
+{
+    "slug": "kirchengemeinde-st-barbara-in-wittmar",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "Kirchengemeinde St. Barbara in Wittmar",
+    "address": "Forstweg 14\n38329 Wittmar\nDeutschland",
+    "phone": "+49 5337 538",
+    "fax": "+49 5337 948488",
+    "email": "wittmar.buero@lk-bs.de",
+    "web": "http://www.stbarbara-wittmar.de/",
+    "sources": [
+        "https://www.landeskirche-braunschweig.de/gemeinden/propsteien/einrichtungen.html?user_lkbsaddress_pi2%5Bid%5D=964"
+    ],
+    "custom-access-template": "access-evangelische-kirche",
+    "custom-erasure-template": "erasure-evangelische-kirche",
+    "custom-rectification-template": "rectification-evangelische-kirche",
+    "quality": "scraped",
+    "facet-group": "church"
+}
