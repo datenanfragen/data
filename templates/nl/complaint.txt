@@ -1,0 +1,13 @@
+Aan wie het aanbelangt:
+
+Ik dien hierbij een klacht in op grond van artikel 77 GDPR. Op {request_date}, heb ik een verzoek verstuurd zoals beschreven in artikel {request_article} GDPR aan de volgende verantwoordelijke:
+{request_recipient_address}
+
+{Beschrijving van de overtredingen door de verantwoordelijke en de stappen die u ondernomen hebt (bijv. vermaningen of andere correspondentie, inclusief ontvangstbewijzen)}.
+
+Daarom wend ik mij tot u met deze klacht. Ik zou u willen vragen om de procedure te controleren en de verantwoordelijke te overtuigen om aan het verzoek te voldoen.
+
+Indien u meer details nodig heeft, kunt u mij contacteren. U kan mijn bereiken via {beschrijving van manieren om jou contact op te nemen. bijv. emailadres, briefadres, telefoonnummer}. [optional: ik vraag u om deze informatie niet te delen met derden, om mijn anonimiteit te kunnen waarborgen.]
+Alvast bedankt voor uw hulp.
+
+Hoogachtend,
