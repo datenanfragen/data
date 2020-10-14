@@ -28,7 +28,7 @@
             "uniqueItems": true,
             "items": {
                 "type": "string",
-                "enum": [ "addresses", "ads", "collection agency", "commerce", "credit agency", "entertainment", "finance", "health", "insurance", "nonprofit", "political party", "public body", "school", "social media", "telecommunication", "travel", "utility" ]
+                "enum": [ "addresses", "ads", "church", "collection agency", "commerce", "credit agency", "entertainment", "finance", "health", "insurance", "nonprofit", "political party", "public body", "school", "social media", "telecommunication", "travel", "utility" ]
             }
         },
         "name": {
