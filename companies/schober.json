@@ -1,23 +1,24 @@
 {
     "slug": "schober",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "addresses"
     ],
     "name": "Schober Information Group Deutschland GmbH",
-    "address": "Max-Eyth-Straße 6 – 10\n71254 Ditzingen\nDeutschland",
-    "phone": "+49 7156 304 0",
-    "fax": "+49 7156 304 283",
+    "address": "Meisenweg 37\n70771 Leinfelden-Echterdingen\nDeutschland",
+    "phone": "+49 7156 3040",
+    "fax": "+49 7156 304283",
     "email": "datenschutz@schober.de",
-    "web": "http://schober.de",
+    "web": "https://schober.de",
     "sources": [
-        "http://schober.de/unternehmen/datenschutz/"
+        "https://schober.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/775"
     ],
+    "suggested-transport-medium": "email",
     "comments": [
         "Haben laut eigenen Angaben keine Scorewerte."
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
