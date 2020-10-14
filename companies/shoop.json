@@ -1,0 +1,18 @@
+{
+    "slug": "shoop",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "ads"
+    ],
+    "name": "Shoop Germany GmbH",
+    "address": "Greifswalder Straße 212\n10405 Berlin\nDeutschland",
+    "email": "datenschutz@shoop.de",
+    "web": "https://www.shoop.de/",
+    "sources": [
+        "https://www.shoop.de/datenschutz/"
+    ],
+    "quality": "verified"
+}
