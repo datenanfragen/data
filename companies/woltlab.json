@@ -1,0 +1,19 @@
+{
+    "slug": "woltlab",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "name": "WoltLab GmbH",
+    "address": "Nedlitzer Str. 27B\n14469 Potsdam\nDeutschland",
+    "phone": "0331 96784338",
+    "email": "woltlab@woltlab.com",
+    "web": "https://www.woltlab.com",
+    "sources": [
+        "https://www.woltlab.com/de/legal-notice/",
+        "https://github.com/datenanfragen/data/pull/776"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
