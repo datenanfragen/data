@@ -8,8 +8,8 @@
     ],
     "name": "Schober Information Group Deutschland GmbH",
     "address": "Meisenweg 37\n70771 Leinfelden-Echterdingen\nDeutschland",
-    "phone": "+49 7156 3040",
-    "fax": "+49 7156 304283",
+    "phone": "+49 7156 304 0",
+    "fax": "+49 7156 304 369",
     "email": "datenschutz@schober.de",
     "web": "https://schober.de",
     "sources": [
@@ -17,8 +17,5 @@
         "https://github.com/datenanfragen/data/pull/775"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Haben laut eigenen Angaben keine Scorewerte."
-    ],
     "quality": "verified"
 }
