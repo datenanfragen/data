@@ -3,8 +3,11 @@
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "entertainment"
+    ],
     "name": "StarzPlay Direct UK Limited",
-    "address": "StarzPlay Direct UK Limited,\n45 Mortimer Street,\nLondon, W1W 8HJ,\nUnited Kingdom",
+    "address": "45 Mortimer Street\nLondon\nW1W 8HJ\nUnited Kingdom",
     "email": "privacy@starz.com",
     "web": "https://starz.com",
     "sources": [
