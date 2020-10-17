@@ -13,11 +13,14 @@
         "LIKE Video (formerly)"
     ],
     "address": "30 Pasir Panjang Road # 15-31A\nMapletree Business City\nSingapore 117440",
-    "email": "likeeaffairs@bigo.sg",
+    "phone": "+65 6351 9330",
+    "email": "legal@bigo.tv",
     "web": "https://likee.com",
     "sources": [
         "https://likee.com/privacy",
-        "https://github.com/datenanfragen/data/issues/539"
+        "https://github.com/datenanfragen/data/issues/539",
+        "https://github.com/datenanfragen/data/pull/771",
+        "https://www.bigo.sg/contact"
     ],
     "quality": "verified"
 }
