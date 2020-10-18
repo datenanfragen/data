@@ -1,0 +1,30 @@
+{
+    "slug": "morganstanley",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance",
+        "commerce"
+    ],
+    "name": "Morgan Stanley",
+    "address": "Morgan Stanley\n1585 Broadway\nNew York, NY 10036",
+    "phone": "+866 227 2256",
+    "web": "https://www.morganstanley.com",
+    "sources": [
+        "https://www.morganstanley.com/wealth-general/privacy-inquiries"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Account Information",
+            "type": "textarea",
+            "optional": false
+        }
+    ],
+    "quality": "verified"
+}
