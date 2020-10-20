@@ -1,0 +1,57 @@
+{
+    "slug": "union-investment",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Union Investment Gruppe",
+    "runs": [
+        "Union Investment Privatfonds GmbH",
+        "Union Investment Real Estate GmbH",
+        "Union Investment Service Bank AG",
+        "Quoniam Asset Management GmbH",
+        "Union Investment Institutional GmbH",
+        "Union Investment Institutional Property GmbH",
+        "UIR Verwaltungsgesellschaft mbH",
+        "Union IT-Services GmbH",
+        "Union Service-Gesellschaft mbH",
+        "VisualVest GmbH"
+    ],
+    "address": "Weißfrauenstraße 7\n60311 Frankfurt am Main\nDE",
+    "phone": "+49 69 589980",
+    "fax": "+49 69 589989000",
+    "email": "datenschutz@union-investment.de",
+    "web": "https://www.union-investment.de/",
+    "sources": [
+        "https://unternehmen.union-investment.de/startseite-unternehmen/ueber-uns/unser-unternehmen/unsere-struktur.html",
+        "https://www.union-investment.de/startseite/datenschutz",
+        "https://www.union-investment.de/startseite/impressum-UIP",
+        "https://github.com/datenanfragen/data/pull/780"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adress",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "D.O.B.",
+            "type": "birthdate",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
