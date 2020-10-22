@@ -12,7 +12,7 @@
         "finance"
     ],
     "name": "bunq B.V. ",
-    "address": "Naritaweg 131-133\n1043 BS Amsterdam\nNL",
+    "address": "Naritaweg 131-133\n1043 BS Amsterdam\nNetherlands",
     "email": "privacy@bunq.com",
     "web": "https://www.bunq.com",
     "sources": [
@@ -22,8 +22,18 @@
     ],
     "required-elements": [
         {
-            "desc": "Adress",
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Address",
             "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
             "optional": false
         },
         {
@@ -32,19 +42,11 @@
             "optional": true
         },
         {
-            "desc": "E-Mail",
-            "type": "email",
-            "optional": false
-        },
-        {
-            "desc": "DOB",
+            "desc": "Date of birth",
             "type": "birthdate",
             "optional": true
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Dutch Smartphone Banking"
-    ],
     "quality": "verified"
 }
