@@ -5,10 +5,12 @@ Con la presente richiedo l'immediata cancellazione di dati personali riguardanti
 [erase_all>Per favore cancellate tutti i dati personali riguardanti me come definito dall'Articolo 4(1) del GDPR.][erase_some>Per favore eliminate i seguenti dati personali riguardanti me:
 {erasure_data}]
 
-Sono dell'opinione che i requisiti esposti nell'Articolo 17(1) del GDPR siano soddisfatti.
+Sono dell'opinione che i requisiti esposti nell'Articolo 17(1) del GDPR siano soddisfatti. Non potete neanche esentarvi basandovi sull'Articolo 17(3) del GDPR, in particolare perché non sono un personaggio pubblico.
 
-Se ho dato consenso al trattamento dei miei dati personali (e.g. secondo l'Articolo 6(1) o l'Articolo 9(2) del GDPR), con la presente ritiro tale consenso.
-Inoltre, mi oppongo al trattamento di dati personali riguardanti me (inclusa la profilazione), secondo l'Articolo 21 del GDPR.
+Se ho dato consenso al trattamento dei miei dati personali (e.g. secondo l'Articolo 6(1) o l'Articolo 9(2) del GDPR), con la presente ritiro tale consenso per l'intero processo.
+Inoltre, mi oppongo al trattamento di dati personali riguardanti me (inclusa la profilazione), secondo l'Articolo 21 del GDPR. Richiedo che voi restringiate la processazione dei dati riguardanti me in attesa di verifiche se i vostri legittimi motivi sovrastino i miei, ai sensi dell'Articolo 18(1)(d) del GDPR.
+
+Se avete reso i dati di cui sopra pubblici, siete obbligati ai sensi dell'Articolo 17(2) del GDPR ad adottare tutte le misure ragionevoli per informare gli altri titolari del trattamento, inclusi operatori di motori di ricerca, che processano i dati personali elencati sopra, che ho richiesto la cancellazione di tutti i collegamenti, copie o repliche. Questo si applica non solo alle copie esatte dei dati in questione, ma anche a quelle da cui è possibile derivare informazioni sui dati in questione.
 
 Nel caso in cui abbiate divulgato i dati interessati a terze parti, dovete comunicare la mia richiesta di cancellazione dei dati personali interessati, così come ogni riferimento ad essi, ad ogni destinatario come stabilito nell'Articolo 19 del GDPR. Per favore datemi anche informazioni su queste terze parti.
 
@@ -21,5 +23,7 @@ Come previsto dall'Articolo 12(3) del GDPR, dovete confermarmi la cancellazione 
 Includo le seguenti informazioni necessarie a identificarmi:
 {id_data}]
 Se non risponderete alla mia richiesta entro il periodo indicato, io mi riservo il diritto d'intraprendere un'azione legale contro di voi e di presentare un reclamo all'autorità di controllo responsabile.
+
+Grazie in anticipo per il vostro aiuto.
 
 Cordialmente,
