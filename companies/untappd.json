@@ -9,11 +9,10 @@
     ],
     "name": "Untappd, Inc.",
     "runs": [
-        "Untappd",
         "Untappd for Business",
         "Untappd Store"
     ],
-    "address": "21 S Front St \nWilmington, NC\nU.S.A. ",
+    "address": "21 S Front St\nWilmington, NC\nUSA",
     "email": "gdpr@untappd.com",
     "web": "https://untappd.com",
     "sources": [
@@ -21,6 +20,11 @@
         "https://github.com/datenanfragen/data/pull/779"
     ],
     "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
         {
             "desc": "E-Mail",
             "type": "email",
