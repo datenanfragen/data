@@ -19,7 +19,7 @@
         "Union Service-Gesellschaft mbH",
         "VisualVest GmbH"
     ],
-    "address": "Weißfrauenstraße 7\n60311 Frankfurt am Main\nDE",
+    "address": "Weißfrauenstraße 7\n60311 Frankfurt am Main\nDeutschland",
     "phone": "+49 69 589980",
     "fax": "+49 69 589989000",
     "email": "datenschutz@union-investment.de",
@@ -42,7 +42,7 @@
             "optional": false
         },
         {
-            "desc": "D.O.B.",
+            "desc": "Geburtsdatum",
             "type": "birthdate",
             "optional": false
         },
