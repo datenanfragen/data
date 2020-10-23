@@ -84,7 +84,7 @@
         "web": {
             "type": "string",
             "title": "Website",
-            "description": "The company's main website.",
+            "description": "The company's main website. Include the protocol, e.g. `https://`.",
             "format": "uri"
         },
         "sources": {
