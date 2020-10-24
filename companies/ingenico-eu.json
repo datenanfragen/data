@@ -1,0 +1,36 @@
+{
+    "slug": "ingenico-eu",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Ingenico Group SA",
+    "runs": [
+        "Ingenico S.A.",
+		"Ingenico Payment Services GmbH"
+		"Ingenico Marketing Solutions GmbH",
+		"Ingenico Financial Solutions ",
+		"Ingenico e-Commerce Solutions",
+		"Ingenico Healthcare GmbH",
+		"Ingenico Terminals",
+		"Ingenico ePayments"
+    ],
+    "address": "28/32 boulevard de Grenelle\n75015 Paris\nFrankreich",
+    "phone": "+ 33 158018000",
+    "fax": "+33 158019135",
+    "email": "contact.dataprotection@ingenico.com",
+    "web": "https://www.ingenico.com",
+    "sources": [
+        "https://www.ingenico.com/privacy-policy",
+        "https://www.ingenico.com/contact-us/offices",
+		"https://www.ingenico.com/privacy-policy#AnnexB",
+        "https://investors.worldline.com/content/investors-worldline-com/en/home/governance.html"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Payment Service Provider for Banking (e.g. Credit Card Fraud Checks) and Merchants (e.g. Online Payments)"
+    ],
+    "quality": "verified"
+}
