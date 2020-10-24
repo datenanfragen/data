@@ -1,0 +1,25 @@
+{
+    "slug": "vr-payment",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "VR Payment GmbH",
+    "address": "Saonestraße 3a\n60528 Frankfurt am Main\nDeutschland",
+    "phone": "+49 721 12096899",
+    "fax": "+49 721 12096692",
+    "email": "Datenschutz@vr-payment.de",
+    "web": "https://www.vr-payment.de/",
+    "sources": [
+        "https://www.vr-payment.de/datenschutz-haftung",
+        "https://www.vr-payment.de/datenschutz-haftung-karteninhaber-pos/",
+        "https://www.vr-payment.de/impressum"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Payment Service Provider"
+    ],
+    "quality": "verified"
+}
