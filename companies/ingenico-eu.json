@@ -9,13 +9,13 @@
     "name": "Ingenico Group SA",
     "runs": [
         "Ingenico S.A.",
-		"Ingenico Payment Services GmbH"
-		"Ingenico Marketing Solutions GmbH",
-		"Ingenico Financial Solutions ",
-		"Ingenico e-Commerce Solutions",
-		"Ingenico Healthcare GmbH",
-		"Ingenico Terminals",
-		"Ingenico ePayments"
+        "Ingenico Payment Services GmbH"
+        "Ingenico Marketing Solutions GmbH",
+        "Ingenico Financial Solutions ",
+        "Ingenico e-Commerce Solutions",
+        "Ingenico Healthcare GmbH",
+        "Ingenico Terminals",
+        "Ingenico ePayments"
     ],
     "address": "28/32 boulevard de Grenelle\n75015 Paris\nFrankreich",
     "phone": "+ 33 158018000",
@@ -25,7 +25,7 @@
     "sources": [
         "https://www.ingenico.com/privacy-policy",
         "https://www.ingenico.com/contact-us/offices",
-		"https://www.ingenico.com/privacy-policy#AnnexB",
+        "https://www.ingenico.com/privacy-policy#AnnexB",
         "https://investors.worldline.com/content/investors-worldline-com/en/home/governance.html"
     ],
     "suggested-transport-medium": "email",
