@@ -1,0 +1,29 @@
+{
+    "slug": "six-payment",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "SIX Payment Services AG",
+    "runs": [
+        "SIX Payment Services (Europe) S.A.",
+        "SIX Payment Services (Germany) GmbH"
+    ],
+    "address": "Hardturmstrasse 201\n8021 Zürich\nSwitzerland",
+    "phone": "+49 69 959092160",
+    "fax": "+49 69 959092260",
+    "email": "dataprotection.europe@six-payment-services.com",
+    "web": "https://www.six-payment-services.com",
+    "sources": [
+        "https://www.six-payment-services.com/de/services/legal/impressum.html",
+        "https://www.six-payment-services.com/de/services/legal/privacy-statement.html",
+        "https://www.six-payment-services.com/de/shared/pages/about-us.html"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Payment Service Provider for Banking Merchants"
+    ],
+    "quality": "verified"
+}

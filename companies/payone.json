@@ -1,0 +1,30 @@
+{
+    "slug": "payone",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "PAYONE GmbH",
+    "runs": [
+        "PAYONE"
+    ],
+    "address": "Lyoner Straße 9\n60528 Frankfurt am Main\nDeutschland",
+    "phone": "+49 69 663050",
+    "email": "privacy@payone.com",
+    "web": "https://www.payone.com",
+    "sources": [
+        "https://www.payone.com/impressum/",
+        "https://www.payone.com/datenschutz/",
+        "https://www.payone.com/dsgvo/",
+        "https://www.payone.com/ueber-uns/ueber-uns-payone/",
+        "https://www.payone.com/dsgvo-haendler/",
+        "https://investors.worldline.com/content/investors-worldline-com/en/home/governance.html"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Joint Venture between Deutscher Sparkassenverlag and Ingenico Deutschland."
+    ],
+    "quality": "verified"
+}
