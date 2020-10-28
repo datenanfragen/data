@@ -1,0 +1,33 @@
+{
+    "slug": "biifund",
+    "relevant-countries": [
+        "nl",
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "finance"
+    ],
+    "name": "Bertelsmann India Investments | Shiprocket.in",
+    "runs": [
+        "https://www.biifund.com/privacy-policy/",
+        "https://www.shiprocket.in/privacy-policy/"
+    ],
+    "address": "Bertelsmann SE & Co. KGaA\nCarl-Bertelsmann-Straße 270\n33311 Gütersloh, Germany",
+    "phone": "+49 5241 800",
+    "fax": "+49 5241 8062321",
+    "email": "datenschutz@bertelsmann.de",
+    "web": "https://www.biifund.com/#portfolio",
+    "sources": [
+        "https://www.biifund.com/privacy-policy/",
+        "https://www.crunchbase.com/organization/bii-fund",
+        "https://www.crunchbase.com/organization/shiprocket/company_financials",
+        "https://github.com/datenanfragen/data/pull/799"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "comments": [
+        "This venture capital firm owns stakes in firms who collect data of EU citizens and residents, however these firms are based out of EU and are not GDPR compliant."
+    ],
+    "quality": "verified"
+}
