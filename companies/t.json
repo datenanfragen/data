@@ -1,0 +1,11 @@
+{
+    "slug": "t",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "t",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/800"
+    ]
+}
