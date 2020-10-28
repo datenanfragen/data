@@ -1,0 +1,22 @@
+{
+    "slug": "baer-schuhe",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "BÄR GmbH",
+    "address": "Pleidelsheimer Straße 15\n74321 Bietigheim-Bissingen",
+    "phone": "07142956610",
+    "fax": "07142956622",
+    "email": "kundenbetreuung@baer-schuhe.de",
+    "web": "https://www.baer-schuhe.de/",
+    "sources": [
+        "https://www.baer-schuhe.de/rechtliches-impressum/",
+        "https://github.com/datenanfragen/data/pull/793"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
