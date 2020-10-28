@@ -1,0 +1,13 @@
+{
+    "slug": "starbucks",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Starbucks",
+    "address": "AmRest Coffe Deutschland sp.z.o.o. & Co.KG\nDachauerstraße 65\n80335 München",
+    "sources": [
+        "https://www.starbucks.de/impressum",
+        "https://github.com/datenanfragen/data/pull/795"
+    ],
+    "quality": "verified"
+}
