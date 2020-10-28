@@ -1,0 +1,17 @@
+{
+    "slug": "m-net",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "M-net Telekommunikations GmbH",
+    "address": "Frankfurter Ring 158\n80807 München",
+    "phone": "089452000",
+    "fax": "0894520045",
+    "email": "info@m-net.de",
+    "web": "https://www.m-net.de",
+    "sources": [
+        "https://www.m-net.de/rechtliches/impressum/",
+        "https://github.com/datenanfragen/data/pull/797"
+    ],
+    "quality": "verified"
+}
