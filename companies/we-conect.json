@@ -1,0 +1,29 @@
+{
+    "slug": "we-conect",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads",
+        "social media",
+        "commerce"
+    ],
+    "name": "we.CONECT Global Leaders GmbH",
+    "runs": [
+        "scaleup 360",
+        "we.CONECT DISCOVER"
+    ],
+    "address": "Reichenberger Str. 124\n10999 Berlin\nDeutschland",
+    "phone": "+49 30 52107030",
+    "fax": "+49 30 521070330",
+    "email": "info@we-conect.com",
+    "web": "https://www.we-conect.com/de/",
+    "sources": [
+        "https://privacy.we-conect.com",
+        "https://privacy.we-conect.com/data-privacy/",
+        "https://privacy.we-conect.com/impressum/",
+        "https://www.we-conect.com",
+        "https://github.com/datenanfragen/data/pull/792"
+    ],
+    "quality": "verified"
+}
