@@ -1,20 +1,26 @@
 {
     "slug": "kleiderkreisel-de",
     "relevant-countries": [
-        "de"
+        "de",
+        "at"
     ],
     "categories": [
         "addresses"
     ],
-    "name": "kleiderkreisel.de",
+    "name": "Kleiderkreisel GmbH",
     "runs": [
-        "mamikreisel.de"
+        "mamikreisel.de",
+        "Kleiderkreisel.at",
+        " Mamikreisel.at"
     ],
-    "address": "Wallstraße 65\n10179 Berlin",
-    "email": "legal@kleiderkreisel.de",
+    "address": "Wallstraße 65\n10179 Berlin\nDeutschland",
+    "email": "dpo@kleiderkreisel.de",
+    "web": "kleiderkreisel.de",
     "sources": [
         "https://www.kleiderkreisel.de/impressum",
-        "https://github.com/datenanfragen/data/pull/801"
+        "https://github.com/datenanfragen/data/pull/801",
+        "https://www.kleiderkreisel.de/privacy-policy"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
