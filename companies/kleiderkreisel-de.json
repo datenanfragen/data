@@ -1,0 +1,20 @@
+{
+    "slug": "kleiderkreisel-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "kleiderkreisel.de",
+    "runs": [
+        "mamikreisel.de"
+    ],
+    "address": "Wallstraße 65\n10179 Berlin",
+    "email": "legal@kleiderkreisel.de",
+    "sources": [
+        "https://www.kleiderkreisel.de/impressum",
+        "https://github.com/datenanfragen/data/pull/801"
+    ],
+    "quality": "verified"
+}
