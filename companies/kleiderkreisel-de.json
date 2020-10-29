@@ -9,13 +9,13 @@
     ],
     "name": "Kleiderkreisel GmbH",
     "runs": [
-        "mamikreisel.de",
+        "Mamikreisel.de",
         "Kleiderkreisel.at",
-        " Mamikreisel.at"
+        "Mamikreisel.at"
     ],
     "address": "Wallstraße 65\n10179 Berlin\nDeutschland",
     "email": "dpo@kleiderkreisel.de",
-    "web": "kleiderkreisel.de",
+    "web": "https://www.kleiderkreisel.de/",
     "sources": [
         "https://www.kleiderkreisel.de/impressum",
         "https://github.com/datenanfragen/data/pull/801",
