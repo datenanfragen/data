@@ -1,0 +1,23 @@
+{
+    "slug": "eastbankclub",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "East Bank Club The Fitness Factory GmbH",
+    "runs": [
+        "SUPERFIT"
+    ],
+    "address": "Postfach 410108\n12111 Berlin",
+    "phone": "+49 30 688381768",
+    "fax": "+49 30 688381750",
+    "email": "member@superfit.club",
+    "web": "https://superfit.club",
+    "sources": [
+        "https://superfit.club/datenschutz/",
+        "https://superfit.club/impressum/"
+    ],
+    "quality": "tested"
+}
