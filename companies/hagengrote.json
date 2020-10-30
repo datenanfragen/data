@@ -1,0 +1,20 @@
+{
+    "slug": "hagengrote",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Hagen Grote GmbH",
+    "address": "Grüner Dyk 36\n47803 Krefeld\nDeutschland",
+    "phone": "+49 2151 607090",
+    "fax": "+49 2151 6070999",
+    "email": "datenschutz@hagengrote.de",
+    "web": "https://www.hagengrote.de",
+    "sources": [
+        "https://www.hagengrote.de/datenschutz",
+        "https://www.hagengrote.de/impressum"
+    ],
+    "quality": "tested"
+}
