@@ -8,7 +8,7 @@
         "ads"
     ],
     "name": "nhi² AG Interviews International",
-    "address": "Am Metternicher Hof 15\n 53111 Bonn\nDeutschland",
+    "address": "c/o ER Secure GmbH\nIn der Knackenau 4\n82031 Grünwald\nDeutschland",
     "phone": "+49 228 201780",
     "fax": "+49 228 2017878",
     "email": "ds-beauftragter@nhi2.de",
@@ -31,8 +31,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Marktforschungsinstitut, führt telefonische Befragungen im Auftrag anderer Unternehmen durch"
-    ],
     "quality": "verified"
 }
