@@ -1,0 +1,35 @@
+{
+    "slug": "nhi2",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication",
+        "ads"
+    ],
+    "name": "nhi² AG Interviews International",
+    "address": "c/o ER Secure GmbH\nIn der Knackenau 4\n82031 Grünwald\nDeutschland",
+    "phone": "+49 228 201780",
+    "fax": "+49 228 2017878",
+    "email": "ds-beauftragter@nhi2.de",
+    "web": "https://www.nhi2.de/",
+    "sources": [
+        "https://www.nhi2.de/privacy",
+        "https://www.nhi2.de/impress",
+        "https://github.com/datenanfragen/data/pull/791"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Telefon",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
