@@ -11,13 +11,14 @@
         "SUPERFIT"
     ],
     "address": "Postfach 410108\n12111 Berlin\nDeutschland",
-    "phone": "+49 30 688381768",
+    "phone": "+49 3876 793439",
     "fax": "+49 30 688381750",
-    "email": "member@superfit.club",
+    "email": "dsb@isc-computer.de",
     "web": "https://superfit.club",
     "sources": [
         "https://superfit.club/datenschutz/",
         "https://superfit.club/impressum/"
     ],
+    "suggested-transport-medium": "email",
     "quality": "tested"
 }
