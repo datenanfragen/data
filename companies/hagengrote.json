@@ -16,5 +16,6 @@
         "https://www.hagengrote.de/datenschutz",
         "https://www.hagengrote.de/impressum"
     ],
+    "suggested-transport-medium": "email",
     "quality": "tested"
 }
