@@ -4,13 +4,15 @@
         "all"
     ],
     "categories": [
-        "ads"
+        "ads",
+        "finance"
     ],
     "name": "Advertising.R",
     "runs": [
         "Ewealth.cc"
     ],
     "address": "Bulgaria, Town of Ruse 7000, Region Ruse; Municipality of Ruse 10, Obzor street",
+    "web": "https://ewealth.cc/",
     "sources": [
         "https://ewealth.cc/",
         "https://github.com/datenanfragen/data/pull/814"
