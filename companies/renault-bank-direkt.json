@@ -1,0 +1,20 @@
+{
+    "slug": "renault-bank-direkt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": " Renault Bank direkt",
+    "address": "RCI Banque S.A. Niederlassung Deutschland\nJagenbergstraße 1\n41468 Neuss",
+    "phone": "+49 2131 401040",
+    "email": "renault-bank-direkt@rcibanque.com ",
+    "web": "https://www.renault-bank-direkt.de",
+    "sources": [
+        "https://www.renault-bank-direkt.de/hilfe-informationen/datenschutz.html",
+        "https://www.renault-bank-direkt.de/hilfe-informationen/impressum.html",
+        "https://github.com/datenanfragen/data/pull/815"
+    ],
+    "quality": "verified"
+}
