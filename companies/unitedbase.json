@@ -4,14 +4,16 @@
         "all"
     ],
     "name": "unitedbase Vertriebsgesellschaft mbH",
-    "address": "Kurfürstendamm 199\nD-10719 Berlin",
-    "phone": "+49 30 88715770",
-    "fax": "+49 30 887157720",
-    "email": "info@unitedbase.de",
+    "address": "c/o IBS data protection services and consulting GmbH\nZirkusweg 1\n20359 Hamburg\nDeutschland",
+    "phone": "+49 40 540909710",
+    "fax": "+49 40 540909799",
+    "email": "datenschutz@unitedbase.de",
     "web": "https://www.unitedbase.de",
     "sources": [
-        "Impressum www.unitedbase.de",
-        "https://github.com/datenanfragen/data/pull/813"
+        "https://unitedbase.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/813",
+        "https://unitedbase.de/datenschutz/"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
