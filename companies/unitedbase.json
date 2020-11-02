@@ -1,0 +1,17 @@
+{
+    "slug": "unitedbase",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "unitedbase Vertriebsgesellschaft mbH",
+    "address": "Kurfürstendamm 199\nD-10719 Berlin",
+    "phone": "+49 30 88715770",
+    "fax": "+49 30 887157720",
+    "email": "info@unitedbase.de",
+    "web": "https://www.unitedbase.de",
+    "sources": [
+        "Impressum www.unitedbase.de",
+        "https://github.com/datenanfragen/data/pull/813"
+    ],
+    "quality": "verified"
+}
