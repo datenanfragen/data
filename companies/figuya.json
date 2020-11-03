@@ -1,0 +1,20 @@
+{
+    "slug": "figuya",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Figuya GmbH",
+    "address": "Wolfener Str 36\nHaus R+S\n12681Berlin\nDeutschland",
+    "phone": "+49 30 577011989",
+    "fax": "+49 30 577011987",
+    "email": "kontakt@figuya.de",
+    "web": "https://figuya.com",
+    "needs-id-document": true,
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/817"
+    ]
+}
