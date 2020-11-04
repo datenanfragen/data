@@ -20,7 +20,7 @@
         },
         {
             "desc": "E-Mail",
-            "type": "input"
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "email",

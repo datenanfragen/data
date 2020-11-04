@@ -32,7 +32,7 @@
         },
         {
             "desc": "E-Mail",
-            "type": "input"
+            "type": "email"
         }
     ],
     "quality": "verified"
