@@ -24,7 +24,7 @@
         },
         {
             "desc": "Email",
-            "type": "input"
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "email",
