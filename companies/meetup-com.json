@@ -23,7 +23,7 @@
         },
         {
             "desc": "Email",
-            "type": "input"
+            "type": "email"
         }
     ],
     "quality": "verified"

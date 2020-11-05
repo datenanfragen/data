@@ -39,7 +39,7 @@
         },
         {
             "desc": "E-Mail",
-            "type": "input"
+            "type": "email"
         }
     ],
     "request-language": "de",

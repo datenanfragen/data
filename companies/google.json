@@ -92,7 +92,7 @@
         },
         {
             "desc": "E-Mail",
-            "type": "input",
+            "type": "email",
             "optional": false
         }
     ],
