@@ -14,9 +14,10 @@
         "Blau (www.blau.de)",
         "FONIC (www.fonic.de)",
         "netzclub (www.netzclub.net)",
-        "simyo (www.simyo.de, ehem.)"
+        "simyo (www.simyo.de, ehem.)",
+        "NettoKOM (www.nettokom.de)"
     ],
-    "address": "Georg-Brauchle-Ring 23 – 25\n80992 München\nDeutschland",
+    "address": "Georg-Brauchle-Ring 50\n80992 München\nDeutschland",
     "phone": "+49 89 78 79 79 40 0",
     "email": "datenschutz@telefonica.com",
     "web": "https://www.o2online.de/",
@@ -37,7 +38,8 @@
         "https://www.netzclub.net/datenschutz/",
         "https://www.netzclub.net/impressum/",
         "https://www.simyo.de/daten-jugendschutz/",
-        "https://www.simyo.de/impressum/"
+        "https://www.simyo.de/impressum/",
+        "https://www.nettokom.de/datenschutz"
     ],
     "relevant-countries": [
         "de"
