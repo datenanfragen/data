@@ -1,0 +1,24 @@
+{
+    "slug": "chasedebt-co",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Chase Debt Ltd",
+    "address": "1st Floor, 54 Watling Street Radlett, Hertfordshire",
+    "phone": "0203 780 7141",
+    "email": " info@chasedebt.co.uk",
+    "web": "https://chasedebt.co.uk/",
+    "sources": [
+        "https://chasedebt.co.uk/",
+        "https://github.com/datenanfragen/data/pull/821"
+    ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Chase Debt will provide you all the services you need to recover what’s owed to you beginning with tracing a debtor who has absconded, to assisting you issue proceeding and enforcing a judgment in your favour, whether you are an individual or business, we can definitely help you."
+    ],
+    "quality": "verified"
+}
