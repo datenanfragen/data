@@ -1,20 +1,26 @@
 {
     "slug": "arvato-bertelsmann",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
-        "collection agency"
+        "collection agency",
+        "finance"
     ],
     "name": "Bertelsmann SE & Co. KGaA",
+    "runs": [
+        "Bertelsmann India Investments"
+    ],
     "address": "Carl-Bertelsmann-Straße 270\n33311 Gütersloh\nDeutschland",
-    "phone": "+49 5241 527 6000",
-    "fax": "+49 5241 527 6001",
+    "phone": "+49 5241 80 0",
+    "fax": "+49 5241 80 62321",
     "email": "datenschutz@bertelsmann.de",
     "web": "https://finance.arvato.com",
     "sources": [
         "https://finance.arvato.com/de/ueber-arvato/impressum.html",
-        "https://finance.arvato.com/de/ueber-arvato/datenschutz.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://finance.arvato.com/de/ueber-arvato/datenschutz.html",
+        "https://www.biifund.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/798"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
