@@ -1,0 +1,20 @@
+{
+    "slug": "chasedebt-co",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Chase Debt Ltd",
+    "address": "1st Floor\n54 Watling Street Radlett\nHertfordshire\nUnited Kingdom",
+    "phone": "+44 20 3780 7141",
+    "email": "info@chasedebt.co.uk",
+    "web": "https://chasedebt.co.uk/",
+    "sources": [
+        "https://chasedebt.co.uk/",
+        "https://github.com/datenanfragen/data/pull/821"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
