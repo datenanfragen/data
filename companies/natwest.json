@@ -6,22 +6,20 @@
     "categories": [
         "finance"
     ],
-    "name": "NatWest Group plc ",
+    "name": "NatWest Group plc",
     "runs": [
         "Natwest",
-        "National Westminster Bank Plc"
+        "National Westminster Bank Plc",
+        "Bó Banking (formerly)"
     ],
-    "address": "NatWest, \nSubject Access Requests, \nManchester Mailroom,\n1 Hardman Boulevard, \nManchester, M3 3AQ\nUnited Kingdom",
+    "address": "Mailroom Manager\n1 Hardman Boulevard\nManchester\nM3 3AQ\nUnited Kingdom",
     "phone": "+44 345 788 8444",
     "web": "https://www.natwest.com",
     "sources": [
         "https://personal.natwest.com/personal/privacy-policy.html",
-        "https://github.com/datenanfragen/data/pull/824"
-    ],
-    "required-elements": [
-        {
-            "type": "input"
-        }
+        "https://github.com/datenanfragen/data/pull/824",
+        "https://supportcentre.natwest.com/Searchable/959249182/How-do-I-submit-a-Subject-Access-Request-SAR.htm",
+        "https://wearebo.co.uk/privacy.html"
     ],
     "needs-id-document": true,
     "suggested-transport-medium": "letter",
