@@ -7,42 +7,29 @@
         "credit agency"
     ],
     "name": "informa HIS GmbH",
-    "runs": [
-        "Hinweis- und Informationssystem der deutschen Versicherungswirtschaft (HIS)"
-    ],
     "address": "Kreuzberger Ring 68\n65205 Wiesbaden\nDeutschland",
-    "phone": "+49 611 880870 88",
-    "fax": "+49 611 880870 86",
-    "email": "his-Datenschutz@informa.de",
+    "phone": "0611/880870-0",
+    "email": "his@informa.de",
     "web": "https://www.informa-his.de",
     "sources": [
-        "https://www.informa-his.de/selbstauskunft/selbstauskunft/",
-        "https://www.informa-his.de/impressum/"
+        "https://www.informa-his.de/service/impressum",
+        "https://github.com/datenanfragen/data/pull/829"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
-        },
-        {
-            "desc": "Geburtsdatum",
-            "type": "birthdate"
-        },
-        {
-            "desc": "Vorherige Adresse",
             "type": "address",
-            "optional": true
+            "optional": false
         }
     ],
-    "request-language": "de",
-    "comments": [
-        "Bitten um Angabe der vorherigen Adressen für die letzten fünf Jahre, um vollständigere Auskunft erteilen zu können."
-    ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "comments": [
+        "Sammelt Informationen zu Versicherungen von Versicherten."
+    ],
+    "quality": "verified"
 }
