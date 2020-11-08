@@ -8,12 +8,13 @@
     ],
     "name": "informa HIS GmbH",
     "address": "Kreuzberger Ring 68\n65205 Wiesbaden\nDeutschland",
-    "phone": "0611/880870-0",
+    "phone": "+49 611 8808700",
     "email": "his@informa.de",
     "web": "https://www.informa-his.de",
     "sources": [
         "https://www.informa-his.de/service/impressum",
-        "https://github.com/datenanfragen/data/pull/829"
+        "https://github.com/datenanfragen/data/pull/829",
+        "https://www.informa-his.de/service/datenschutz"
     ],
     "required-elements": [
         {
@@ -27,7 +28,6 @@
             "optional": false
         }
     ],
-    "suggested-transport-medium": "email",
     "comments": [
         "Sammelt Informationen zu Versicherungen von Versicherten."
     ],
