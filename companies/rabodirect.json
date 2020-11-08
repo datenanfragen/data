@@ -1,0 +1,23 @@
+{
+    "slug": "rabodirect",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Coöperatieve Rabobank U.A., Zweigniederlassung Frankfurt am Main",
+    "runs": [
+        "RaboDirect"
+    ],
+    "address": "Solmsstraße 83\n60486 Frankfurt am Main",
+    "phone": "+49 69 1302600",
+    "fax": "+49 69 130260909",
+    "email": "datenschutz@rabobank.com",
+    "web": "https://www.rabodirect.de/",
+    "sources": [
+        "https://www.rabodirect.de/system/datenschutzhinweise",
+        "https://github.com/datenanfragen/data/pull/828"
+    ],
+    "quality": "verified"
+}
