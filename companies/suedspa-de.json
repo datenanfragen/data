@@ -1,5 +1,5 @@
 {
-    "slug": "suedspa",
+    "slug": "suedspa-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,14 +7,15 @@
         "finance"
     ],
     "name": "Südtiroler Sparkasse AG Niederlassung München",
-    "address": "Gaißacher Straße 18\n81371 München",
+    "address": "Gaißacher Straße 18\n81371 München\nDeutschland",
     "phone": "+49 89 59944350",
     "fax": "+49 89 599443599",
-    "email": "datenschutz@suedspa.de ",
+    "email": "Datenschutz@suedspa.de",
     "web": "https://www.suedspa.de/",
     "sources": [
         "https://www.suedspa.de/de/information/datenschutz/6-0.html",
         "https://github.com/datenanfragen/data/pull/830"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
