@@ -1,10 +1,10 @@
 {
-    "slug": "opelbank",
+    "slug": "opelbank-de",
     "relevant-countries": [
         "de"
     ],
     "name": "Opel Bank S.A. Niederlassung Deutschland",
-    "address": "Mainzer Straße 190\n65428 Rüsselsheim am Main",
+    "address": "Mainzer Straße 190\n65428 Rüsselsheim am Main\nDeutschland",
     "phone": "+49 6142 878878",
     "email": "datenschutzbeauftragte@opelfinance.com",
     "web": "https://www.opelbank.de/",
@@ -13,5 +13,6 @@
         "https://www.opelbank.de/impressum/",
         "https://github.com/datenanfragen/data/pull/827"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
