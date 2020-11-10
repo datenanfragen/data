@@ -1,0 +1,16 @@
+{
+    "slug": "palantir",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        null
+    ],
+    "name": "palantir",
+    "address": "Palantir Technologies Inc.\nAttention: Legal Department, Privacy Statement Issues\n100 Hamilton Ave., Suite 300\nPalo Alto, CA 94301",
+    "sources": [
+        "https://www.palantir.com/privacy-and-security/",
+        "https://github.com/datenanfragen/data/pull/836"
+    ],
+    "quality": "verified"
+}
