@@ -1,0 +1,20 @@
+{
+    "slug": "arkoselabs",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility",
+        "ads"
+    ],
+    "name": "Arkose Labs, Inc.",
+    "address": "250 Montgomery St\nLvl 10\nSan Francisco \nUSA",
+    "email": "GDPR@arkoselabs.com",
+    "web": "https://www.arkoselabs.com/",
+    "sources": [
+        "https://arkoselabs.atlassian.net/wiki/spaces/LEG/pages/1146946/Privacy+Policy",
+        "https://github.com/datenanfragen/data/pull/839"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
