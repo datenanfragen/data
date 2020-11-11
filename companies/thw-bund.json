@@ -10,12 +10,13 @@
     "address": "Provinzialstraße 93\n53127 Bonn\nDeutschland",
     "phone": "+49 228 940 1796",
     "fax": "+49 228 940 1520",
-    "email": "erwin.lind@thw.de",
+    "email": "datenschutz@thw.de",
     "web": "https://www.thw.de",
     "sources": [
         "https://www.thw.de/DE/Service/Datenschutz/datenschutz_node.html",
         "https://www.thw.de/DE/Service/Impressum/impressum_node.html"
     ],
+    "suggested-transport-medium": "email",
     "request-language": "de",
     "quality": "verified"
 }
