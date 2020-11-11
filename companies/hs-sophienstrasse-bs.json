@@ -11,10 +11,10 @@
     "address": "Sophienstraße 17\n38118 Braunschweig\nDeutschland",
     "phone": "+49 531 892392",
     "fax": "+49 531 2809676",
-    "email": "nicole.salewsky@hs-sophie.de",
-    "web": "http://www.hs-sophienstrasse.de/",
+    "email": "hs.sophienstrasse@braunschweig.de",
+    "web": "https://hssophienstrasse.de",
     "sources": [
-        "http://www.doermann.com/hs_sophienstrasse/disclaimer.html"
+        "https://hssophienstrasse.de/datenschutz-hauptschule-sophienstrasse/"
     ],
     "request-language": "de",
     "quality": "verified",
