@@ -7,7 +7,7 @@
     "address": "Simrockstraße 4\n53113 Bonn\nDeutschland",
     "phone": "+49 511 3018 0",
     "fax": "+49 511 3018 100",
-    "email": "sven.boebel@siz.de",
+    "email": "sparda@sparda-h.de",
     "web": "https://www.sparda-h.de/",
     "sources": [
         "https://www.sparda-h.de/datenschutzhinweise.php",
@@ -19,6 +19,5 @@
     "relevant-countries": [
         "de"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
