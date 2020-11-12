@@ -8,14 +8,15 @@
         "entertainment"
     ],
     "name": "Imgur Inc.",
-    "address": "415 Jackson Street\n2nd Floor\nSuite 200\nSan Francisco\nCA 94111\nUnited States of America",
+    "address": "600 California St., \nFloor 11, San Francisco \nCA 94018-2727. \nUnited States of America",
     "email": "privacy@imgur.com",
     "web": "https://imgur.com/",
     "sources": [
         "https://imgur.com/privacy",
         "https://imgur.com/tos",
         "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=252810438",
-        "https://github.com/datenanfragen/data/issues/275"
+        "https://github.com/datenanfragen/data/issues/275",
+        "https://github.com/datenanfragen/data/pull/844"
     ],
     "required-elements": [
         {
@@ -26,6 +27,9 @@
             "desc": "E-Mail",
             "type": "email"
         }
+    ],
+    "comments": [
+        "Office address in https://imgur.com/privacy was different as of Nov 2020\n----------------------\nOriginal address this form was \n415 Jackson Street, 2nd Floor, Suite 200, San Francisco, CA 94111, United States of America"
     ],
     "quality": "verified"
 }
