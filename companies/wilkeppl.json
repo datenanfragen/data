@@ -1,0 +1,19 @@
+{
+    "slug": "wilkeppl",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "MDZ wilke & Co. KG",
+    "address": "Mohrenstrasse 11, 10117 Berlin, Deutschland",
+    "phone": "0049 30200847211",
+    "email": "aarti@thepurplebrick.com",
+    "web": "https://www.wilkeppl.de/",
+    "needs-id-document": false,
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/845"
+    ]
+}
