@@ -1,0 +1,19 @@
+{
+    "slug": "ignore-me",
+    "relevant-countries": [
+        "bg"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "ignore me",
+    "address": "addresss",
+    "comments": [
+        "test",
+        "sad"
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/847"
+    ]
+}
