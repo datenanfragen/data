@@ -1,0 +1,22 @@
+{
+    "slug": "abihome",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads",
+        "school",
+        "commerce"
+    ],
+    "name": "Abihome GmbH",
+    "address": "c/o ANKA Rechtsanwaltsgesellschaft mbH\nKaninenberghöhe 50\n45136 Essen\nDeutschland",
+    "phone": "0800 - 3 77 22 44",
+    "email": "datenschutz@abihome.de",
+    "web": "https://www.abihome.de",
+    "sources": [
+        "https://www.abihome.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/848"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
