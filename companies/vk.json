@@ -1,0 +1,39 @@
+{
+    "slug": "vk",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "LLC \"V Kontakte\"",
+    "address": "LLC \"V Kontakte\"\n1-N, bld. 12-14, Lit. A, Khersonskaya st.\n191024 St. Petersburg\nRussia",
+    "email": "dpo@corp.my.com",
+    "web": "https://vk.com",
+    "sources": [
+        "https://vk.com/privacy/eu",
+        "https://github.com/datenanfragen/data/pull/855"
+    ],
+    "required-elements": [
+        {
+            "desc": "Link to profile page",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Phone number",
+            "type": "input"
+        }
+    ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "letter",
+    "comments": [
+        "They are represented, for the purposes of this policy, by MGL MY.COM (CYPRUS) LIMITED of 28 Oktovriou, 365 VASHIOTIS SEAFRONT, office 402 Neapoli, 3107, Limassol, Cyprus. "
+    ],
+    "quality": "verified"
+}
