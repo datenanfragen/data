@@ -4,17 +4,31 @@
         "de"
     ],
     "categories": [
+        "addresses",
         "ads"
     ],
     "name": "Media Information Systems Deutschland GmbH",
-    "address": "c/oDaSchuWi GmbH\nMünchner Str. 101, Gb.01\n85737 Ismaning\nDeutschland",
-    "phone": "+49 89 51 30 56 97",
-    "email": "mismail.de@extdsb.org",
+    "address": "Bavariaring 16\n80336 München\nDeutschland",
+    "phone": "+49 89 121400858",
+    "email": "datenschutz@mismail.de",
     "web": "https://mediainformationsystems.de",
     "sources": [
         "https://mediainformationsystems.de/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/760"
+        "https://github.com/datenanfragen/data/pull/851"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
