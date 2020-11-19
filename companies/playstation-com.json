@@ -13,11 +13,12 @@
         "Sony Interactive Entertainment Network Europe Limited"
     ],
     "address": "10 Great Marlborough Street\nLondon\nW1F 7LP\nUnited Kingdom",
-    "email": "dpo@scee.net",
+    "email": "siee.dpo@sony.com",
     "web": "https://www.playstation.com/",
     "sources": [
         "https://www.playstation.com/legal/privacy-policy/",
-        "https://github.com/datenanfragen/data/issues/649"
+        "https://github.com/datenanfragen/data/issues/649",
+        "https://github.com/datenanfragen/data/pull/849"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
