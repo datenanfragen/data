@@ -4,10 +4,11 @@
         "de"
     ],
     "categories": [
-        "addresses"
+        "addresses",
+        "ads"
     ],
     "name": "Media Information Systems Deutschland GmbH",
-    "address": "Bavariaring 16\nD-80336 München\n",
+    "address": "Bavariaring 16\n80336 München\nDeutschland",
     "phone": "+49 89 121400858",
     "email": "datenschutz@mismail.de",
     "web": "https://mediainformationsystems.de",
@@ -17,17 +18,17 @@
     ],
     "required-elements": [
         {
-            "desc": "Vor- und Nachname sind neben der Anschrift zur Identifizierung des Datensatzes erforderlich.",
+            "desc": "Name",
             "type": "name",
             "optional": false
         },
         {
-            "desc": "Die Anschrift ist neben Vor- und Nachnamen zur Identifizierung des Datensatzes erforderlich.",
+            "desc": "Adresse",
             "type": "address",
             "optional": false
         }
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
