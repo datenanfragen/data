@@ -1,0 +1,15 @@
+{
+    "slug": "stationers",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Stationers.pk",
+    "address": "Shop Number, 7 Kabeer St, opp. Meezan Bank, Urdu Bazar Lahore, Punjab 54000\n",
+    "phone": "03111222295",
+    "email": "info@stationers.pk",
+    "web": "https://stationers.pk/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/858"
+    ]
+}
