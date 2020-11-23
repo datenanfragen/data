@@ -1,5 +1,5 @@
 {
-    "slug": "sparkasse",
+    "slug": "suedtiroler-sparkasse",
     "relevant-countries": [
         "it",
         "at",
@@ -9,7 +9,7 @@
         "finance"
     ],
     "name": "Südtiroler Sparkasse AG",
-    "address": "Sparkassenstraße 12\n39100 BOZEN\nItaly",
+    "address": "Sparkassenstraße 12\n39100 Bozen\nItaly",
     "phone": "+39 840 052 052",
     "email": "privacy.crbz@sparkasse.it",
     "web": "https://www.sparkasse.it",
@@ -17,8 +17,6 @@
         "https://www.sparkasse.it/de/privacy/",
         "https://github.com/datenanfragen/data/pull/831"
     ],
-    "comments": [
-        "Ich hab mal assumed, dass CH und AT auch relevant sind, weil die Seite auch auf Deutsch angeboten wird. "
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
