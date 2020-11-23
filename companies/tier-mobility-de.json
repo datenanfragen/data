@@ -1,7 +1,10 @@
 {
-    "slug": "tier-mobility-de",
+    "slug": "tier-mobility",
     "relevant-countries": [
-        "de"
+        "de",
+        "dk",
+        "ch",
+        "at"
     ],
     "name": "Tier Mobility GmbH",
     "address": "Mariendorfer Damm\n12099 Berlin\nDeutschland",
