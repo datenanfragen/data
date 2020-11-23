@@ -1,21 +1,16 @@
 {
-    "slug": "tier-mobility",
+    "slug": "tier-mobility-de",
     "relevant-countries": [
-        "de",
-        "dk",
-        "fi",
-        "fr",
-        "no",
-        "ch",
-        "uk"
+        "de"
     ],
     "name": "Tier Mobility GmbH",
-    "address": "c/o DataCo GmbH\nDachauer Str. 65\n80335 München\nDeutschland",
-    "email": "privacy@tier.app",
+    "address": "Mariendorfer Damm\n12099 Berlin\nDeutschland",
+    "email": "datenschutz@tier.app",
     "web": "https://www.tier.app",
     "sources": [
         "https://www.tier.app/de/privacy-notice/"
     ],
+    "needs-id-document": true,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
