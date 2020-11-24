@@ -1,0 +1,14 @@
+{
+    "slug": "warzone",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Warzone",
+    "email": "fizzer@warzone.com",
+    "web": "https://www.warzone.com",
+    "sources": [
+        "https://www.warzone.com/",
+        "https://github.com/datenanfragen/data/pull/865"
+    ],
+    "quality": "verified"
+}
