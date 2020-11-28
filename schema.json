@@ -18,7 +18,7 @@
             "minItems": 1,
             "items": {
                 "type": "string",
-                "enum": ["all", "at", "be", "bg", "hr", "cy", "cz", "dk", "ee", "fi", "fr", "de", "gr", "hu", "ie", "it", "lv", "lt", "lu", "mt", "nl", "pl", "pt", "ro", "sk", "si", "es", "se", "uk", "gb", "no", "is", "li", "ic", "gp", "gf", "mq", "yt", "re", "mf", "ch"]
+                "enum": ["all", "at", "be", "bg", "hr", "cy", "cz", "dk", "ee", "fi", "fr", "de", "gr", "hu", "ie", "it", "lv", "lt", "lu", "mt", "nl", "pl", "pt", "ro", "sk", "si", "es", "se", "gb", "no", "is", "li", "ic", "gp", "gf", "mq", "yt", "re", "mf", "ch"]
             }
         },
         "categories": {
