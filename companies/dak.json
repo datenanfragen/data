@@ -1,0 +1,23 @@
+{
+    "slug": "dak",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "service@dak.de",
+    "runs": [
+        null
+    ],
+    "address": "DAK-Gesundheit\nNagelsweg 27 - 31\n20097 Hamburg",
+    "phone": "040-236 48 55-0",
+    "email": "service@dak.de",
+    "web": "https://dak.de/",
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/866"
+    ]
+}
