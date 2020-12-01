@@ -26,8 +26,5 @@
             "type": "address"
         }
     ],
-    "comments": [
-        "Falls die ABIS GmbH keine Daten über Dich gespeichert hat, wird sie Dir dies mitteilen, ansonsten will sie meist eine Unterschrift auf der Anfrage."
-    ],
     "quality": "tested"
 }
