@@ -1,0 +1,13 @@
+{
+    "slug": "test",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "test",
+    "address": "testset",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/869"
+    ]
+}
