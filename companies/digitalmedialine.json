@@ -1,18 +1,19 @@
 {
     "slug": "digitalmedialine",
     "relevant-countries": [
-        "all"
+        "gb"
     ],
     "categories": [
-        "social media"
+        "ads"
     ],
     "name": "Digital Media Line",
-    "address": "Number 7, J-2 Block, Wapda Town, Lahore, Pakistan",
-    "phone": "03004246680",
+    "address": "622b Stockport Road\nManchester\nM13 0SH\nUnited Kingdom",
+    "phone": "+44 161 818 8500",
     "email": "info@digitalmedialine.com",
     "web": "https://digitalmedialine.com/",
-    "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/857"
-    ]
+        "https://github.com/datenanfragen/data/pull/857",
+        "https://digitalmedialine.com/contact/"
+    ],
+    "quality": "verified"
 }
