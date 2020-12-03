@@ -1,0 +1,19 @@
+{
+    "slug": "coinbase",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Coinbase Ireland, Limited",
+    "address": "70 Sir John Rogerson's Quay\nDublin 2\nIreland ",
+    "email": "dpo@coinbase.com",
+    "web": "https://www.coinbase.com",
+    "sources": [
+        "https://www.coinbase.com/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/870"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
