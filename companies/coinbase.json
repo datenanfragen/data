@@ -7,6 +7,17 @@
         "finance"
     ],
     "name": "Coinbase Ireland, Limited",
+    "runs": [
+        "Coinbase Pro",
+        "Coinbase Custody",
+        "Coinbase Custody International Limited",
+        "Coinbase Europe, Limited",
+        "Coinbase Singapore Pte. Ltd.",
+        "CB Payments. Ltd",
+        "Coinbase, Inc.",
+        "Coinbase Custody Trust Company, LLC",
+        "Coinbase Credit, Inc."
+    ],
     "address": "70 Sir John Rogerson's Quay\nDublin 2\nIreland ",
     "email": "dpo@coinbase.com",
     "web": "https://www.coinbase.com",
