@@ -1,0 +1,40 @@
+{
+    "slug": "vk",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "LLC \"V Kontakte\"",
+    "address": "1-N, bld. 12-14, Lit. A, Khersonskaya st.\n191024 St. Petersburg\nRussia",
+    "email": "dpo@corp.my.com",
+    "web": "https://vk.com",
+    "sources": [
+        "https://vk.com/privacy/eu",
+        "https://github.com/datenanfragen/data/pull/855"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Link to profile page",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Phone number",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
