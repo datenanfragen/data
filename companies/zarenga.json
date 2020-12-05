@@ -8,10 +8,23 @@
     ],
     "name": "Zarenga GmbH",
     "address": "Pfaffenweg 15\n53227 Bonn\nDeutschland",
+    "phone": "+49 228 688203105",
     "email": "datenschutz@zarenga.de",
+    "web": "https://www.zarenga.com",
     "sources": [
+        "https://github.com/datenanfragen/data/issues/354",
         "https://www.zarenga.com/datenschutz.php",
-        "https://github.com/datenanfragen/data/issues/77"
+        "https://www.zarenga.com/kontakt.html"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
