@@ -14,11 +14,12 @@
     ],
     "address": "Rödingsmarkt 9\n20354 Hamburg\nGermany",
     "email": "questions@valvesoftware.com",
-    "web": "https://store.steampowered.com/",
+    "web": "https://www.valvesoftware.com/",
     "sources": [
         "https://store.steampowered.com/privacy_agreement/",
-        "http://www.valvesoftware.com/contact/",
-        "https://www.privacyshield.gov/participant?id=a2zt0000000TO5UAAW&status=Active"
+        "https://www.valvesoftware.com/contact/",
+        "https://www.privacyshield.gov/participant?id=a2zt0000000TO5UAAW&status=Active",
+        "https://github.com/datenanfragen/data/pull/854"
     ],
     "request-language": "en",
     "comments": [
