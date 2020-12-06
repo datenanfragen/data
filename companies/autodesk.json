@@ -1,0 +1,11 @@
+{
+    "slug": "autodesk",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Autodesk",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/873"
+    ]
+}
