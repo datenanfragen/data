@@ -1,0 +1,19 @@
+{
+    "slug": "quantyoo",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "quantyoo",
+    "address": "QUANTYOO GmbH & Co. KG\nTrautenwolfstraße 3\n80802 München",
+    "email": "privacy@quantyoo.de",
+    "web": "https://quantyoo.de",
+    "sources": [
+        "https://quantyoo.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/876"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
