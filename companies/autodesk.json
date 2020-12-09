@@ -1,0 +1,19 @@
+{
+    "slug": "autodesk",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Autodesk, Inc.",
+    "address": "The Landmark @ One Market\nSuite 500\nSan Francisco, CA 94105\nU.S.A.",
+    "email": "DPO@autodesk.com",
+    "web": "https://www.autodesk.com",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/873",
+        "https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
