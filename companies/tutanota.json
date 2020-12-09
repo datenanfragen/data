@@ -1,0 +1,24 @@
+{
+    "slug": "tutanota",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Tutao GmbH",
+    "runs": [
+        "Tutanota"
+    ],
+    "address": "Deisterstr. 17a\n30449 Hannover\nDeutschland",
+    "phone": "+49 511 2028010",
+    "fax": "+49 511 20280119",
+    "email": "hello@tutao.de",
+    "web": "https://tutanota.com",
+    "sources": [
+        "https://tutanota.com/privacy",
+        "https://github.com/datenanfragen/data/pull/875",
+        "https://tutanota.com/imprint"
+    ],
+    "quality": "verified"
+}
