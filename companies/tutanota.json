@@ -8,7 +8,6 @@
     ],
     "name": "Tutao GmbH",
     "runs": [
-        null,
         "Tutanota"
     ],
     "address": "Deisterstr. 17a\n30449 Hannover\nDeutschland",
@@ -18,7 +17,8 @@
     "web": "https://tutanota.com",
     "sources": [
         "https://tutanota.com/privacy",
-        "https://github.com/datenanfragen/data/pull/875"
+        "https://github.com/datenanfragen/data/pull/875",
+        "https://tutanota.com/imprint"
     ],
     "quality": "verified"
 }
