@@ -1,0 +1,21 @@
+{
+    "slug": "the-ken",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Kenrise Media Private Limited",
+    "address": "Kenrise Media Private Ltd\nGround Floor, 3321, 12th A Main\nIndiranagar, Bangalore - 560038\nKarnataka, India",
+    "email": "info@the-ken.com",
+    "web": "https://the-ken.com",
+    "sources": [
+        "https://the-ken.com/privacy-policy/",
+        "https://the-ken.com/terms-and-conditions/",
+        "https://github.com/datenanfragen/data/pull/879"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Data Protection Officer\nMr. Praveen Gopal Krishnan\nKenrise Media Private Ltd\nGround Floor, 3321, 12th A Main\nIndiranagar, Bangalore - 560038\nKarnataka, India\nEmail : praveen@the-ken.com"
+    ],
+    "quality": "verified"
+}
