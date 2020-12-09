@@ -11,15 +11,12 @@
     "address": "Am Köllnischen Park 1\n10179 Berlin\nDeutschland",
     "phone": "+49 30 7001300",
     "fax": "+49 30 700130340",
-    "email": "datenschutz@berlin.msf.org",
+    "email": "office@berlin.msf.org",
     "web": "https://www.aerzte-ohne-grenzen.de",
     "sources": [
         "https://www.aerzte-ohne-grenzen.de/datenschutz-und-datensicherheit",
         "https://www.aerzte-ohne-grenzen.de/datenschutzbeauftrager",
         "https://github.com/datenanfragen/data/pull/877"
-    ],
-    "comments": [
-        "- DSB ist extern"
     ],
     "quality": "verified"
 }
