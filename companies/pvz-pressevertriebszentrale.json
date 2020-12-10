@@ -11,7 +11,7 @@
     "web": "https://www.pvz.digital",
     "sources": [
         "https://www.pvz.digital/impressum",
-        "https://www.pvz.digital/datenschutz",
+        "https://www.pvz.digital/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/pull/881"
     ],
     "suggested-transport-medium": "email",
