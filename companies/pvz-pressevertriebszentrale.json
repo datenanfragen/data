@@ -7,12 +7,12 @@
     "address": "Bahndamm 9\n23617 Stockelsdorf\nDeutschland",
     "phone": "+49 451 4906600",
     "fax": "+49 451 4906670",
-    "email": "datenschutz@pvz.de",
-    "web": "http://www.pvz.de/",
+    "email": "datenschutz@pvz.digital",
+    "web": "https://www.pvz.digital",
     "sources": [
-        "http://www.pvz.de/impressum.html",
-        "http://www.pvz.de/datenschutz.html",
-        "https://github.com/datenanfragen/data/issues/222"
+        "https://www.pvz.digital/impressum",
+        "https://www.pvz.digital/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/881"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
