@@ -4,6 +4,7 @@
         "de"
     ],
     "categories": [
+        "ads",
         "entertainment"
     ],
     "name": "Ströer Digital Publishing GmbH",
@@ -12,7 +13,7 @@
     ],
     "address": "Platz der Einheit 1\n60327 Frankfurt\nDeutschland",
     "phone": "+49 69 921017610",
-    "email": "datenschutzbeauftragter@stroeer.de",
+    "email": "sdp-datenschutz@stroeer.de",
     "web": "https://www.t-online.de",
     "sources": [
         "https://www.t-online.de/datenschutz/",
