@@ -1,0 +1,21 @@
+{
+    "slug": "ebay-kleinanzeigen-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "ads"
+    ],
+    "name": "eBay Kleinanzeigen GmbH",
+    "address": "Albert-Einstein-Ring 2-6\n14532 Kleinmachnow Dreilinden\nDeutschland",
+    "fax": "+49 30 308324531",
+    "email": "datenschutz@ebay-kleinanzeigen.de",
+    "web": "https://www.ebay-kleinanzeigen.de",
+    "sources": [
+        "https://themen.ebay-kleinanzeigen.de/datenschutzerklaerung/",
+        "https://www.ebay-kleinanzeigen.de/impressum.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
