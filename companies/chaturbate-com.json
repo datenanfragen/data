@@ -3,11 +3,15 @@
     "relevant-countries": [
         "all"
     ],
-	"categories": [
-        "ads"
+    "categories": [
+        "entertainment"
     ],
     "name": "Multi Media, LLC",
-    "address": "c/o Grizzly Empire Ltd\nUnit 4 Studios\n100 Bradford Road\nDewsbury WF13 2EF\nUnited Kingdom",
+    "runs": [
+        "Chaturbate.com"
+    ],
+    "address": "c/o Grizzly Empire Ltd.\nUnit 4 Studios\n100 Bradford Road\nDewsbury WF13 2EF\nUnited Kingdom",
+    "phone": "+1 877 338 7068",
     "email": "privacyquestions@chaturbate.com",
     "web": "https://chaturbate.com",
     "sources": [
