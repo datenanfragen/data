@@ -4,20 +4,22 @@
         "all"
     ],
     "categories": [
-        "ads"
+        "entertainment"
     ],
     "name": "Duodecad IT Services Luxembourg S.à.r.l.",
     "runs": [
-        "Livejasmin.com"
+        "Livejasmin.com",
+        "Jasmin IP S.à r.l.",
+        "Docler Services S.à r.l.",
+        "Docler IP S.à r.l.",
+        "Docler SSC Kft",
+        "Escalion S.à r.l."
     ],
-    "address": "c/o Docler Holding S.à r.l.\n44 Avenue John F. Kennedy\nL-1855, Luxembourg\nLuxembourg",
+    "address": "44 Avenue John F. Kennedy\nL-1855, Luxembourg\nLuxembourg",
     "phone": "+352 26 11 18 1",
-    "email": "dpo@doclerholding.com",
+    "email": "dpo@livejasmin.com",
     "sources": [
-        "https://www.livejasmin.com",
-        "https://www.doclerholding.com/en/about/companies/39/",
-        "https://www.doclerholding.com/en/about/contact/",
-        "https://www.doclerholding.com/en/policy/"
+        "https://www.livejasmin.com/en/privacy-policy"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
