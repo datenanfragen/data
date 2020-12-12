@@ -1,0 +1,21 @@
+{
+    "slug": "pkgator",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Pk Gator",
+    "address": "Valencia Mall, Sunrise Road, Valencia Town, Lahore, Pakistan.",
+    "phone": "03004235757",
+    "email": "bilalahmaad012@gmail.com",
+    "web": "https://www.pkgator.com/",
+    "sources": [
+        "online Shopping",
+        "https://github.com/datenanfragen/data/pull/882"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
