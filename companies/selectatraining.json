@@ -1,0 +1,21 @@
+{
+    "slug": "selectatraining",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Selecta Training",
+    "address": "Number 7, 1st Floor, Block J 2 Wapda Town Phase 1 WAPDA Town, Lahore, Punjab 54770, Pakistan",
+    "phone": "03020007418",
+    "email": "hinaiqbal3300@gmail.com",
+    "web": "https://www.selectatraining.com/",
+    "sources": [
+        "Computer Short Courses",
+        "https://github.com/datenanfragen/data/pull/883"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
