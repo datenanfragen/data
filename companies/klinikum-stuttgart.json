@@ -6,14 +6,20 @@
     "categories": [
         "health"
     ],
-    "name": "Klinikum Stuttgart",
+    "name": "Klinikum der Landeshauptstadt Stuttgart gKAöR",
+    "runs": [
+        "Katharinenhospital Stuttgart",
+        "Krankenhaus Bad Cannstatt",
+        "Olgahospital"
+    ],
     "address": "Kriegsbergstraße 60\n70174 Stuttgart\nDeutschland",
     "phone": "+49 711 27862018",
     "email": "dsb@klinikum-stuttgart.de",
     "web": "https://www.klinikum-stuttgart.de",
     "sources": [
         "https://www.klinikum-stuttgart.de/datenschutz",
-        "https://github.com/datenanfragen/data/pull/884"
+        "https://github.com/datenanfragen/data/pull/884",
+        "https://www.klinikum-stuttgart.de/impressum"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
