@@ -1,0 +1,19 @@
+{
+    "slug": "klinikum-stuttgart",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Klinikum Stuttgart",
+    "address": "Kriegsbergstraße 60\n70174 Stuttgart",
+    "phone": "0711 278-01",
+    "email": "info@klinikum-stuttgart.de",
+    "web": "https://www.klinikum-stuttgart.de",
+    "sources": [
+        "https://www.klinikum-stuttgart.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/884"
+    ],
+    "quality": "verified"
+}
