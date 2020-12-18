@@ -1,5 +1,8 @@
 {
     "slug": "medion",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -10,22 +13,21 @@
         "MEDIONmobile"
     ],
     "address": "Am Zehnthof 77\n45307 Essen\nDeutschland",
-    "phone": "+49 201 83 83 0",
-    "fax": "+49 201 83 83 1112",
+    "phone": "+49 201 83830",
+    "fax": "+49 201 83831112",
     "email": "datenschutz@medion.com",
     "web": "https://www.medion.com/de/shop/",
     "sources": [
         "https://www.medion.com/de/shop/",
         "https://www.alditalk.de/datenschutz",
-        "https://www.alditalk.de/impressum"
-    ],
-    "comments": [
-        "Spezielle E-Mail-Adresse für den Webshop: datenschutz-webshop@medion.com",
-        "Spezielle E-Mail-Adresse für MEDIONmobile (ALDI Talk): datenschutz-alditalk@medion.com"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.alditalk.de/impressum",
+        "https://github.com/datenanfragen/data/pull/889"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Spezielle E-Mail-Adresse für den Webshop: datenschutz-webshop@medion.com",
+        "Spezielle E-Mail-Adresse für MEDIONmobile (ALDI Talk): datenschutz-alditalk@medion.com",
+        "eplus scheint für aldi talk zuständig zu seim"
+    ],
     "quality": "verified"
 }
