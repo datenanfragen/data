@@ -1,0 +1,16 @@
+{
+    "slug": "freenet-tv",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "freenet TV",
+    "address": "MEDIA BROADCAST GmbH, Erna-Scheffler-Strasse 1, 51103 Köln",
+    "sources": [
+        "https://www.freenet.tv/datenschutzhinweise",
+        "https://github.com/datenanfragen/data/pull/890"
+    ],
+    "quality": "verified"
+}
