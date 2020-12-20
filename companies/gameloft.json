@@ -7,7 +7,7 @@
         "entertainment"
     ],
     "name": "Gameloft SE",
-    "address": "14 rue Auber\n75009 Paris",
+    "address": "14 rue Auber\n75009 Paris\nFrance",
     "phone": "+33 1 53 16 20 40",
     "email": "DataProtectionSupport@gameloft.com",
     "web": "https://www.gameloft.com",
@@ -16,5 +16,6 @@
         "https://www.gameloft.com/de/information/legal-notices",
         "https://github.com/datenanfragen/data/pull/892"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
