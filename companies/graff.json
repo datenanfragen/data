@@ -1,0 +1,20 @@
+{
+    "slug": "graff",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Buchhandlung Graff GmbH",
+    "address": "Zuckerberg 26 – 26a\n38179 Schwülper\nDeutschland",
+    "phone": "+49 5303 923350",
+    "fax": "+49 531 4808989",
+    "email": "datenschutz@graff.de",
+    "web": "https://www.graff.de",
+    "sources": [
+        "https://www.graff.de/datenschutz.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
