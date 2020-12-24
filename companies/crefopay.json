@@ -7,12 +7,14 @@
         "finance"
     ],
     "name": "CrefoPayment GmbH & Co. KG",
-    "address": "Schloßstraße 20, 12163 Berlin, Deutschland",
-    "phone": "00 49 30 221847200",
-    "email": "info@crefopay.de",
+    "address": "Schloßstraße 20\n12163 Berlin\nDeutschland",
+    "phone": "+49 30 555 717 62",
+    "email": "datenschutz@crefopay.de",
     "web": "https://www.crefopay.de/",
     "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/885"
-    ]
+        "https://github.com/datenanfragen/data/pull/885",
+        "https://www.crefopay.de/datenschutz/"
+    ],
+    "suggested-transport-medium": "email"
 }
