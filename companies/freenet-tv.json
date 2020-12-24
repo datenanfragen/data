@@ -1,16 +1,24 @@
 {
     "slug": "freenet-tv",
     "relevant-countries": [
-        "all"
+        "de"
     ],
     "categories": [
         "entertainment"
     ],
-    "name": "freenet TV",
-    "address": "MEDIA BROADCAST GmbH, Erna-Scheffler-Strasse 1, 51103 Köln",
+    "name": "MEDIA BROADCAST GmbH",
+    "runs": [
+        "freenet TV"
+    ],
+    "address": "Erna-Scheffler-Strasse 1\n51103 Köln\nDeutschland",
+    "phone": "+49 221 4670 8700",
+    "email": "datenschutz@freenet.tv",
+    "web": "https://www.freenet.tv",
     "sources": [
         "https://www.freenet.tv/datenschutzhinweise",
-        "https://github.com/datenanfragen/data/pull/890"
+        "https://github.com/datenanfragen/data/pull/890",
+        "https://www.freenet.tv/impressum"
     ],
-    "quality": "verified"
+    "quality": "tested",
+    "suggested-transport-medium": "email"
 }
