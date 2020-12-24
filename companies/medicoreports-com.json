@@ -1,0 +1,18 @@
+{
+    "slug": "medicoreports-com",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "Medqon Ltd.",
+    "address": "435 London Road\nSheffield\nS2 4HJ\nUnited Kingdom",
+    "phone": "+44 330 001 0805",
+    "email": "dpo@medqon.com",
+    "web": "https://medicoreports.com",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/886",
+        "https://medicoreports.com/privacy-policy-2/",
+        "https://medicoreports.com/#contactform"
+    ],
+    "suggested-transport-medium": "email"
+}
