@@ -1,13 +1,13 @@
 {
     "slug": "banggood",
     "relevant-countries": [
-        "all"
+        "gr"
     ],
     "categories": [
         "commerce"
     ],
     "name": "Banggood Technology Co., Ltd.",
-    "address": "Room 38, 11/F, Mecco Industrial Building\n53–55 Au Pui Wan Street\nSha Tin\nNew Territories\nHong Kong",
+    "address": "Ro\n5 BANGGOOD TECHNOLOGY CO., LIMITED\nRoom 38, 11/F, Meeco Industrial Building\n53-55 Au Pui Wan Street, Fotan, Shatin, N.T.\nHong Kong\n Date :2020-11-30 01:12:48\nOrder NO. :93351809\nOrder Status :Processing\nPayment (TXD) :EUR\nTracking Number :\nUntracked\nSHIP TO\nΔΗΜΗΤΡΙΟΣ ΤΣΙΤΣΙΚΛΗΣ\nΠΟΝΤΟΥ 36\nΚΟΖΑΝΗ,West Macedonia,50100\nGreece\nProduct ID Description Qty Price\n1754785 Aqualin Automatic 4-Zone Watering Timer 2\nSolenoid Valve Irrigation System Garden\nWater Timer Controller [Color: Grey]\nx1 47,16€\nSub-Total:47,16€\nPriority Direct Mail:4,19€\nInsurance:0,94€\nTariff Insurance:Free Service\nTotal:52,29€\nIf you have any questions about this invoice , please contact our",
     "phone": "+852 3590 3678",
     "email": "data@banggood.com",
     "web": "https://www.banggood.com",
@@ -15,12 +15,13 @@
         "https://www.banggood.com/Privacy-Policy_hl71_at958",
         "https://www.banggood.com/Privacy-Policy_hl71_at244",
         "https://www.banggood.com/Privacy-Policy_hl71_at249",
-        "https://www.banggood.com/Terms-And-Conditions_hl71_at192"
+        "https://www.banggood.com/Terms-And-Conditions_hl71_at192",
+        "https://github.com/datenanfragen/data/pull/895"
     ],
     "request-language": "en",
+    "suggested-transport-medium": "email",
     "comments": [
         "EU representative: CYLLAR CO., LTD, Athalassas, 38 1st floor, Flat/Office 102 Strovolos, 2019, Nicosia, Cyprus"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
