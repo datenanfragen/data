@@ -1,0 +1,64 @@
+{
+    "slug": "fyfeweb",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "FyfeWeb Ltd",
+    "runs": [
+        "FyfeWeb Hosting",
+        "FyfeWeb Hosting Services"
+    ],
+    "address": "FyfeWeb Ltd\nAttn: Data Protection\nAshfield Park\nNewcastle upon Tyne\nUnited Kingdom",
+    "email": "dpo@fyfeweb.com",
+    "web": "https://fyfeweb.com",
+    "sources": [
+        "https://fyfeweb.com/legal/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/897"
+    ],
+    "required-elements": [
+        {
+            "desc": "Full Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Address Line 1",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "Address Line 2",
+            "type": "address",
+            "optional": true
+        },
+        {
+            "desc": "City",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "Postal Code",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "Country",
+            "type": "address"
+        },
+        {
+            "desc": "Email Address",
+            "type": "email"
+        },
+        {
+            "desc": "Telephone Number (including Country Code",
+            "type": "textarea",
+            "optional": false
+        }
+    ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
