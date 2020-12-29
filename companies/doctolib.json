@@ -1,0 +1,31 @@
+{
+    "slug": "doctolib",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Doctolib GmbH",
+    "runs": [
+        "Doctolib SAS"
+    ],
+    "address": "Mehringdamm 51\n10961 Berlin\nDeutschland",
+    "phone": "+49 89 20702884",
+    "email": "datenschutz@doctolib.de",
+    "web": "https://www.doctolib.de",
+    "sources": [
+        "https://www.doctolib.de/terms/agreement",
+        "https://www.doctolib.de/terms/legal-notice",
+        "https://github.com/datenanfragen/data/pull/898"
+    ],
+    "required-elements": [
+        {
+            "desc": "email",
+            "type": "email"
+        },
+        {
+            "desc": "name",
+            "type": "name"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
