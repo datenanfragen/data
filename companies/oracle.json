@@ -4,21 +4,32 @@
         "all"
     ],
     "categories": [
-        "ads"
+        "travel",
+        "entertainment",
+        "commerce"
     ],
-    "name": "Oracle Corporation",
-    "address": "10 Van de Graaff Drive\nBurlington\nMA 01803\nUnited States of America",
-    "phone": "+1 650 506 7000",
+    "name": "Oracle Hospitality",
+    "runs": [
+        "Micros Fidelio",
+        "Opera ( Hotel PMS )",
+        "Simpohny POS",
+        "Opera Cloud ( Hotel PMS )"
+    ],
+    "address": "Robert Niedermeier\nHauptstraße 4\nD-85579 Neubiberg / München\nGermany\n\nOracle Corporation\nGlobal Data Protection Officer\nWillis Tower\n233 South Wacker Drive\n45th Floor\nChicago, IL 60606\nU.S.A.",
     "email": "mail@legislator.de",
-    "web": "https://www.oracle.com",
+    "web": "https://www.oracle.com/legal/data-privacy-inquiry-form.html",
     "sources": [
-        "https://www.oracle.com/legal/privacy/services-privacy-policy.html",
-        "https://www.oracle.com/corporate/contact/"
+        "https://www.oracle.com/legal/privacy/privacy-policy.html",
+        "https://www.oracle.com/legal/privacy/privacy-choices.html",
+        "https://www.oracle.com/legal/data-privacy-inquiry-form.html",
+        "https://www.oracle.com/legal/privacy/rights.html",
+        "https://www.oracle.com/industries/hospitality/",
+        "https://github.com/datenanfragen/data/pull/907"
     ],
-    "custom-access-template": "access-tracking",
-    "request-language": "en",
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
     "comments": [
-        "There is also a web form for requests: https://oracle.ethicspointvp.com/custom/oracle/dp/en/form_data.asp"
+        "Ever stayed in a hotel or eaten at restaurant? Your data ( if you handed over your phone or email for discounts, loyalty points ) sits in some DB owned by Oracle Hospitality ( They bought the company whose Point of Sale systems, Hotel Property Management System is used by a large share of the worlds hotels, restaurants , bars.\n\nDefinitely send them the email, but fill in this form too https://www.oracle.com/legal/data-privacy-inquiry-form.html"
     ],
     "quality": "verified"
 }
