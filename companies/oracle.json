@@ -13,12 +13,13 @@
     "web": "https://www.oracle.com",
     "sources": [
         "https://www.oracle.com/legal/privacy/services-privacy-policy.html",
-        "https://www.oracle.com/corporate/contact/"
+        "https://www.oracle.com/corporate/contact/",
+        "https://github.com/datenanfragen/data/pull/906"
     ],
-    "custom-access-template": "access-tracking",
     "request-language": "en",
+    "custom-access-template": "access-tracking",
     "comments": [
-        "There is also a web form for requests: https://oracle.ethicspointvp.com/custom/oracle/dp/en/form_data.asp"
+        "There is also a web form for requests: https://www.oracle.com/legal/data-privacy-inquiry-form.html"
     ],
     "quality": "verified"
 }
