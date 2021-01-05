@@ -1,0 +1,19 @@
+{
+    "slug": "limburg",
+    "relevant-countries": [
+        "be"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Limburg.net",
+    "address": "Gouverneur Verwilghensingel 32\n3500 Hasselt",
+    "phone": "011/28.89.89",
+    "email": "privacy@limburg.net",
+    "web": "https://limburg.net",
+    "sources": [
+        "https://limburg.net/privacyverklaring",
+        "https://github.com/datenanfragen/data/pull/908"
+    ],
+    "quality": "verified"
+}
