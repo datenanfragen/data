@@ -6,15 +6,17 @@
     "categories": [
         "social media"
     ],
-    "name": "X-tract.io",
+    "name": "Xtract.io",
     "address": "48 Wall Street\n11th floor\nNY 10005\nUSA",
     "phone": "+1 212 918 4456",
-    "email": "support@x-tract.io",
-    "web": "https://www.x-tract.io/solutions/online-reputation-management",
+    "email": "support@xtract.io",
+    "web": "https://www.xtract.io/solutions/online-reputation-management",
     "sources": [
-        "https://www.x-tract.io/contact-us",
+        "https://www.xtract.io/contact-us",
         "https://github.com/datenanfragen/data/issues/583",
-        "https://www.x-tract.io/privacy-policy"
+        "https://www.xtract.io/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/900",
+        "https://github.com/datenanfragen/data/pull/903"
     ],
     "quality": "verified"
 }
