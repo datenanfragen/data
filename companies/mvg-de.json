@@ -14,7 +14,8 @@
     "web": "https://www.mvg.de/",
     "sources": [
         "https://www.mvg.de/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/910"
+        "https://github.com/datenanfragen/data/pull/910",
+        "https://www.mvg.de/impressum.html"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
