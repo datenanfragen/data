@@ -11,13 +11,12 @@
         "Formula 1",
         "F1 TV"
     ],
-    "address": "No.2 St. James’s Market, London, SW1Y 4AH, England",
+    "address": "No.2 St. James’s Market\nLondon\nSW1Y 4AH\nUnited Kingdom",
     "email": "general@en.formula1.com",
     "web": "https://www.formula1.com/",
     "sources": [
         "https://account.formula1.com/#/en/privacy-policy",
         "https://github.com/datenanfragen/data/pull/913"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
