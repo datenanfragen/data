@@ -9,10 +9,11 @@
     ],
     "name": "Threema GmbH",
     "address": "Churerstrasse 82\n8808 Pfäffikon SZ\nSwitzerland",
-    "email": "privacy@threema.ch",
+    "email": "privacy2020@threema.ch",
     "web": "https://threema.ch",
     "sources": [
-        "https://threema.ch/de/privacy"
+        "https://threema.ch/de/privacy",
+        "https://github.com/datenanfragen/data/pull/914"
     ],
     "quality": "verified"
 }
