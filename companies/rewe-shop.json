@@ -1,5 +1,8 @@
 {
     "slug": "rewe-shop",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -7,20 +10,21 @@
     "runs": [
         "REWE Deine Küche",
         "REWE To Go (togo.rewe.de)",
-        "ja! mobil (www.jamobil.de)"
+        "ja! mobil (www.jamobil.de)",
+        "REWE Kartenwelt (kartenwelt.rewe.de)",
+        null
     ],
     "address": "Domstraße 20\n50668 Köln\nDeutschland",
-    "phone": "+49 221 17 73 97 77",
-    "fax": "+49 221 149 9000",
+    "phone": "+49 221 17739777",
+    "fax": "+49 221 1499000",
     "email": "datenschutz@rewe.de",
     "web": "https://shop.rewe.de/",
     "sources": [
         "https://www.rewe.de/service/datenschutz/",
         "https://www.rewe.de/service/impressum/",
-        "https://www.jamobil.de/impressum.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.jamobil.de/impressum.html",
+        "https://kartenwelt.rewe.de/",
+        "https://github.com/datenanfragen/data/pull/919"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
