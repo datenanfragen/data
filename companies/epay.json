@@ -1,0 +1,20 @@
+{
+    "slug": "epay",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "transact Elektronische Zahlungssysteme GmbH dba. epay",
+    "address": "Fraunhoferstr. 10\n82152 Martinsried\nDeutschland",
+    "phone": "+49 89 8996430",
+    "email": "info@epay.de",
+    "web": "https://epay.de/",
+    "sources": [
+        "https://epay.de/",
+        "https://github.com/datenanfragen/data/pull/918"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
