@@ -1,5 +1,8 @@
 {
     "slug": "vodafone-de",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
@@ -8,27 +11,22 @@
         "Vodafone Community",
         "Vodafone Apps",
         "Vodafone Kabel Deutschland GmbH",
-        "EDEKA mobil (www.edeka-mobil.de)",
         "otelo (www.otelo.de)"
     ],
     "address": "Ferdinand-Braun-Platz 1\n40549 Düsseldorf\nDeutschland",
-    "phone": "+49 800 172 12 12",
-    "fax": "+49 211 533 2200",
+    "phone": "+49 800 1721212",
+    "fax": "+49 211 5332200",
     "email": "datenschutz@vodafone.com",
     "web": "https://www.vodafone.de/",
     "sources": [
         "https://www.vodafone.de/media/downloads/pdf/171013-datenschutzhinweise-volltext-download.pdf",
         "https://www.vodafone.de/impressum.html",
         "https://www.vodafone.de/hilfe/kontakt-zu-vodafone.html",
-        "https://www.edeka-mobil.de/datenschutz.html",
-        "https://www.edeka-mobil.de/impressum.html",
         "https://www.otelo.de/datenschutz",
         "https://www.otelo.de/impressum",
         "https://www.vodafone.de/unternehmen/verantwortung/datenschutz-im-dialog.html",
-        "https://github.com/datenanfragen/data/issues/12"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://github.com/datenanfragen/data/issues/12",
+        "https://github.com/datenanfragen/data/pull/921"
     ],
     "quality": "verified"
 }
