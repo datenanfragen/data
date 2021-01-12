@@ -1,26 +1,32 @@
 {
     "slug": "vw-bank",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance",
-        "insurance"
+        "insurance",
+        "credit agency"
     ],
     "name": "Volkswagen Bank GmbH",
     "runs": [
         "Volkswagen Financial Services AG",
         "Volkswagen Versicherung AG",
-        "Volkswagen Autoversicherung AG"
+        "Volkswagen Autoversicherung AG",
+        "LogPay Financial Services GmbH",
+        "LogPay Transport Services GmbH",
+        "LogPay Mobility Services GmbH"
     ],
     "address": "Gifhorner Straße 57\n38112 Braunschweig\nDeutschland",
-    "phone": "+49 531 212 02",
-    "fax": "+49 531 212 2275",
+    "phone": "+49 531 21202",
+    "fax": "+49 531 2122275",
     "email": "dsb@volkswagenbank.de",
     "web": "https://www.vwfs.de/",
     "sources": [
         "https://www.vwfs.de/service/rechtliches/datenschutz.html",
-        "https://www.volkswagenbank.de/de/privatkunden/kundenservice/hilfe/fragen_Antworten/allgemeines/datenschutz.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.volkswagenbank.de/de/privatkunden/kundenservice/hilfe/fragen_Antworten/allgemeines/datenschutz.html",
+        "https://www.logpay.de/DE/unternehmen/ueberblick/",
+        "https://github.com/datenanfragen/data/pull/920"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
