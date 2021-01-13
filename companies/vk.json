@@ -12,29 +12,28 @@
     "web": "https://vk.com",
     "sources": [
         "https://vk.com/privacy/eu",
-        "https://github.com/datenanfragen/data/pull/855"
+        "https://github.com/datenanfragen/data/pull/855",
+        "https://github.com/datenanfragen/data/pull/924"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Link to profile page",
-            "type": "input",
-            "optional": false
+            "type": "input"
         },
         {
             "desc": "Email",
-            "type": "email",
-            "optional": false
+            "type": "email"
         },
         {
             "desc": "Phone number",
             "type": "input"
         }
     ],
+    "needs-id-document": true,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
