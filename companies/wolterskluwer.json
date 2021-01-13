@@ -1,24 +1,31 @@
 {
     "slug": "wolterskluwer",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
-        "commerce"
+        "health",
+        "school",
+        "social media"
     ],
-    "name": "Wolterskluwer Deutschland GmbH",
+    "name": "Wolters Kluwer N.V.",
     "runs": [
-        "Akademische Arbeitsgemeinschaft Verlagsgesellschaft mbH"
+        "https://www.wolterskluwer.com/en/privacy-cookies/inquiry"
     ],
-    "address": "c/o TÜV IT, IT Security & Privacy\nLangemarckstr. 20\n45141 Essen\nDeutschland",
-    "phone": "+49 201 8999899",
-    "fax": "+49 201 8999666",
-    "email": "dsb@wolterskluwer.com",
-    "web": "https://www.wolterskluwer.de",
+    "address": "Data Privacy Officer\nWolters Kluwer N.V.,\nP.O. Box 1030, 2400 BA,\nAlphen aan den Rijn,\nThe Netherlands\n\nData Privacy Officer Contact Form\nhttps://www.wolterskluwer.com/en/privacy-cookies/inquiry",
+    "phone": "1-301-223-2300",
+    "email": "healthlrp_privacy@wolterskluwer.com",
+    "web": "https://www.wolterskluwer.com",
     "sources": [
-        "https://www.wolterskluwer.de/datenschutz/",
-        "https://www.steuertipps.de/datenschutz",
-        "https://github.com/datenanfragen/data/issues/445"
+        "https://www.wolterskluwer.com/en/privacy-cookies",
+        "https://journals.lww.com/_layouts/15/oaks.journals/privacy.aspx#section12",
+        "https://www.wolterskluwer.com/en/privacy-cookies/inquiry",
+        "https://github.com/datenanfragen/data/pull/922"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Wolters Kluwer N.V. operates medical journals and other journals. They will resell your information repeatedly. \n\nWant to see how many websites or services they operate where they suck in your data? Click on https://www.wolterskluwer.com/en/privacy-cookies/inquiry As of Jan 2021 its over 100."
     ],
     "quality": "verified"
 }
