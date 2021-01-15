@@ -1,0 +1,24 @@
+{
+    "slug": "autobahn",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "public body",
+        "travel",
+        "utility"
+    ],
+    "name": "Die Autobahn GmbH des Bundes",
+    "address": "Die Autobahn GmbH des Bundes\nFriedrichstraße 71\n10117 Berlin\nDeutschland",
+    "phone": "+49 30 403680800",
+    "fax": "+49 30 403680810",
+    "email": "datenschutz@autobahn.de",
+    "web": "https://www.autobahn.de",
+    "sources": [
+        "https://www.autobahn.de/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/927",
+        "https://www.autobahn.de/impressum/"
+    ],
+    "request-language": "de",
+    "quality": "verified"
+}
