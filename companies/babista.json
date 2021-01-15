@@ -8,15 +8,17 @@
     ],
     "name": "Babista",
     "address": "c/o K-Mail Order GmbH & Co KG\nSachsenstr. 23\n75177 Pforzheim\nDeutschland",
-    "phone": "01805 / 43 63 36",
+    "phone": "+49 721 50420000",
     "email": "datenschutz@babista.de",
     "web": "https://www.babista.de",
     "sources": [
         "https://www.babista.de/k/datenschutz/",
-        "https://github.com/datenanfragen/data/pull/917"
+        "https://github.com/datenanfragen/data/pull/917",
+        "https://www.0180.info/suche.html?s=01805436336"
     ],
+    "suggested-transport-medium": "email",
     "comments": [
-        "\"*(14 Cent/Minute inkl. MwSt. a.d. Festnetz; Mobilfunk, max. 42 Cent/Minute inkl. MwSt.)\""
+        "Telefonnummer eigentlich +49 1805 43 63 36 (14 Cent/Minute inkl. MwSt. a.d. Festnetz; Mobilfunk, max. 42 Cent/Minute inkl. MwSt.). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01805436336"
     ],
     "quality": "verified"
 }
