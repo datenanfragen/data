@@ -1,0 +1,19 @@
+{
+    "slug": "autobahn",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Die Autobahn GmbH des Bundes",
+    "address": "Die Autobahn GmbH des Bundes\nFriedrichstraße 71\n10117 Berlin",
+    "fax": "+49 30 403680810",
+    "email": "datenschutz@autobahn.de",
+    "web": "https://www.autobahn.de",
+    "sources": [
+        "www.autobahn.de",
+        "https://github.com/datenanfragen/data/pull/927"
+    ],
+    "quality": "verified"
+}
