@@ -4,17 +4,27 @@
         "all"
     ],
     "categories": [
-        "ads"
+        "ads",
+        "travel",
+        "commerce"
     ],
     "name": "Oracle Corporation",
-    "address": "10 Van de Graaff Drive\nBurlington\nMA 01803\nUnited States of America",
+    "runs": [
+        "Oracle Hospitality",
+        "Oracle MICROS Simphony POS for Restaurants",
+        "OPERA Cloud"
+    ],
+    "address": "Hauptstraße 4\n85579 Neubiberg / München\nGermany",
     "phone": "+1 650 506 7000",
     "email": "mail@legislator.de",
     "web": "https://www.oracle.com",
     "sources": [
         "https://www.oracle.com/legal/privacy/services-privacy-policy.html",
         "https://www.oracle.com/corporate/contact/",
-        "https://github.com/datenanfragen/data/pull/906"
+        "https://github.com/datenanfragen/data/pull/906",
+        "https://www.oracle.com/industries/hospitality/",
+        "https://github.com/datenanfragen/data/pull/907",
+        "https://www.oracle.com/industries/hospitality/products/opera-cloud-services.html"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
