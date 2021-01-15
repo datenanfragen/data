@@ -9,6 +9,7 @@
     "name": "transact Elektronische Zahlungssysteme GmbH",
     "runs": [
         "epay",
+        "REWE Kartenwelt (kartenwelt.rewe.de)",
         "Euronet Payment Serviced LTD"
     ],
     "address": "Fraunhoferstr. 10\n82152 Martinsried\nDeutschland",
