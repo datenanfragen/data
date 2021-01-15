@@ -1,0 +1,24 @@
+{
+    "slug": "logpay",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance",
+        "travel"
+    ],
+    "name": "LogPay Financial Services GmbH",
+    "runs": [
+        "LogPay Transport Services GmbH",
+        "LogPay Mobility Services GmbH"
+    ],
+    "address": "Schwalbacher Straße 72\n65760 Eschborn\nDeutschland",
+    "email": "datenschutz@logpay.de",
+    "web": "https://www.logpay.de/",
+    "sources": [
+        "https://www.logpay.de/DE/unternehmen/ueberblick/",
+        "https://www.logpay.de/DE/datenschutz/"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
