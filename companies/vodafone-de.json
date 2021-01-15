@@ -1,5 +1,8 @@
 {
     "slug": "vodafone-de",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
@@ -20,15 +23,10 @@
         "https://www.vodafone.de/media/downloads/pdf/171013-datenschutzhinweise-volltext-download.pdf",
         "https://www.vodafone.de/impressum.html",
         "https://www.vodafone.de/hilfe/kontakt-zu-vodafone.html",
-        "https://www.edeka-mobil.de/datenschutz.html",
-        "https://www.edeka-mobil.de/impressum.html",
         "https://www.otelo.de/datenschutz",
         "https://www.otelo.de/impressum",
         "https://www.vodafone.de/unternehmen/verantwortung/datenschutz-im-dialog.html",
         "https://github.com/datenanfragen/data/issues/12"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "quality": "verified"
 }

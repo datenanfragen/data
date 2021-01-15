@@ -1,5 +1,8 @@
 {
     "slug": "congstar",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
@@ -7,20 +10,23 @@
     "runs": [
         "congstar E-Mail",
         "congstar Musik",
-        "congstar App"
+        "congstar App",
+        "congstar services GmbH",
+        "Penny Mobil",
+        "ja! mobil"
     ],
-    "address": "Weinsbergstraße 70\n50823 Köln\nDeutschland",
-    "phone": "+49 221 79 700 700 ",
+    "address": "Bayenwerft 12-14\n50678 Köln\nDeutschland",
+    "phone": "+49 221 79 700 790",
     "fax": "+49 221 79 700 601",
     "email": "datenschutz@congstar.de",
     "web": "https://www.congstar.de/",
     "sources": [
         "https://www.congstar.de/datenschutz/",
         "https://www.congstar.de/impressum/",
-        "https://www.congstar.de/hilfe-service/kontakt/"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.congstar.de/hilfe-service/kontakt/",
+        "https://www.telekom.de/mobilewholesale/de/partner",
+        "https://www.pennymobil.de/docs/penny-mobil-allgemeine-datenschutzhinweise.pdf",
+        "https://www.jamobil.de/docs/ja-mobil-allgemeine-datenschutzhinweise.pdf?5ffd826d1d064"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
