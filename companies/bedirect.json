@@ -11,14 +11,15 @@
     "runs": [
         "beAddress.de"
     ],
-    "address": "Carl-Bertelsmann-Str. 105 – 107\n33332 Gütersloh\nDeutschland",
+    "address": "Carl-Bertelsmann-Str. 105 – 107\n33311 Gütersloh\nDeutschland",
     "phone": "+49 5241 8045600",
     "fax": "+49 5241 8045699",
     "email": "datenschutz@bedirect.de",
     "web": "https://www.bedirect-online.de",
     "sources": [
         "https://www.bedirect-online.de/de/datenschutz/",
-        "https://www.bedirect-online.de/de/datenschutz-dialogmarketing/"
+        "https://www.bedirect-online.de/de/datenschutz-dialogmarketing/",
+        "https://github.com/datenanfragen/data/pull/925"
     ],
     "required-elements": [
         {
