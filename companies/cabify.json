@@ -1,0 +1,34 @@
+{
+    "slug": "cabify",
+    "relevant-countries": [
+        "es"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Maxi Mobility Spain, S.L",
+    "runs": [
+        "Cabifymobility International, S.L"
+    ],
+    "address": "Calle Pradillo 42\n28002, Madrid\nEspaña",
+    "email": "dpo@cabify.com",
+    "web": "https://cabify.com",
+    "sources": [
+        "https://cabify.com/es/privacy#two"
+    ],
+    "required-elements": [
+        {
+            "desc": "Nombre",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "request-language": "es",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
