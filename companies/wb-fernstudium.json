@@ -1,0 +1,19 @@
+{
+    "slug": "wb-fernstudium",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Wilhelm Büchner Hochschule",
+    "address": "Hilpertstraße 31\n64295 Darmstadt",
+    "phone": "+49 6151 3842404",
+    "fax": "+49 6151 3842401",
+    "email": "datenschutz@wb-fernstudium.de",
+    "web": "https://wb-fernstudium.de",
+    "sources": [
+        "https://www.wb-fernstudium.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/928"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
