@@ -3,17 +3,23 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Wilhelm Büchner Hochschule",
-    "address": "Hilpertstraße 31\n64295 Darmstadt",
+    "categories": [
+        "school"
+    ],
+    "name": "Hochschule für Berufstätige Darmstadt GmbH",
+    "runs": [
+        "Wilhelm Büchner Hochschule"
+    ],
+    "address": "Hilpertstraße 31\n64295 Darmstadt\nDeutschland",
     "phone": "+49 6151 3842404",
     "fax": "+49 6151 3842401",
     "email": "datenschutz@wb-fernstudium.de",
     "web": "https://wb-fernstudium.de",
     "sources": [
         "https://www.wb-fernstudium.de/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/928"
+        "https://github.com/datenanfragen/data/pull/928",
+        "https://www.wb-fernstudium.de/impressum.html"
     ],
-    "needs-id-document": false,
-    "suggested-transport-medium": "letter",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
