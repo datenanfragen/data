@@ -20,11 +20,6 @@
             "optional": false
         },
         {
-            "desc": "Birthdate",
-            "type": "birthdate",
-            "optional": false
-        },
-        {
             "desc": "Address",
             "type": "address",
             "optional": false
@@ -35,20 +30,10 @@
             "optional": false
         },
         {
-            "desc": "Phone",
-            "type": "input",
-            "optional": false
-        },
-        {
             "desc": "Account Information",
             "type": "input",
             "optional": false
         },
-        {
-            "desc": "Government-issued personal identifier",
-            "type": "input",
-            "optional": true
-        }
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
