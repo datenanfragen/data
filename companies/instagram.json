@@ -10,13 +10,13 @@
     "name": "Instagram",
     "address": "c/o Facebook Ireland Ltd.\n4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland ",
     "fax": "+1 650 543 5340",
-    "email": "datarequests@support.instagram.com",
     "web": "https://www.instagram.com/",
     "sources": [
         "https://help.instagram.com/519522125107875",
         "https://help.instagram.com/contact/163695614321277",
         "https://github.com/datenanfragen/data/issues/93",
-        "https://help.instagram.com/581066165581870"
+        "https://help.instagram.com/581066165581870",
+        "https://github.com/datenanfragen/data/pull/935"
     ],
     "suggested-transport-medium": "email",
     "comments": [
