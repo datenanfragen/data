@@ -33,7 +33,7 @@
             "desc": "Account Information",
             "type": "input",
             "optional": false
-        },
+        }
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
