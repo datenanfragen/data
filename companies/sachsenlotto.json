@@ -1,0 +1,20 @@
+{
+    "slug": "sachsenlotto",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Sächsische Lotto-GmbH",
+    "address": "Oststraße 105\n04299 Leipzig",
+    "phone": "+49 341 86700",
+    "email": "datenschutz@sachsenlotto.de",
+    "web": "https://www.sachsenlotto.de/",
+    "sources": [
+        "https://www.sachsenlotto.de/",
+        "https://github.com/datenanfragen/data/pull/933"
+    ],
+    "needs-id-document": false,
+    "quality": "verified"
+}
