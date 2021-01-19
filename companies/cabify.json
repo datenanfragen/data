@@ -14,7 +14,8 @@
     "email": "dpo@cabify.com",
     "web": "https://cabify.com",
     "sources": [
-        "https://cabify.com/es/privacy#two"
+        "https://cabify.com/es/privacy#two",
+        "https://cabify.com/prisma-assets/files/csr/cabify-security-standards-en.pdf"
     ],
     "required-elements": [
         {
