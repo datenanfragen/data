@@ -1,0 +1,19 @@
+{
+    "slug": "joinclubhouse",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Alpha Exploration Co., Inc",
+    "runs": [
+        "Clubhouse"
+    ],
+    "address": "5335 Lawton Avenue\nOakland\nCalifornia 94618\nUnited States of America",
+    "email": "support@alphaexplorationco.com",
+    "web": "https://www.joinclubhouse.com/",
+    "sources": [
+        "https://www.notion.so/Privacy-Policy-cd4b415950204a46819478b31f6ce14f",
+        "https://github.com/datenanfragen/data/pull/934",
+        "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=04563531-27853656"
+    ],
+    "quality": "verified"
+}
