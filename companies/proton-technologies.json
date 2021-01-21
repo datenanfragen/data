@@ -1,23 +1,22 @@
 {
-    "slug": "tutanota",
+    "slug": "proton-technologies",
     "relevant-countries": [
         "all"
     ],
     "categories": [
         "telecommunication"
     ],
-    "name": "Tutao GmbH",
+    "name": "Proton Technologies AG",
     "runs": [
-        "Tutanota"
+        "ProtonMail",
+        "ProtonVPN"
     ],
-    "address": "Deisterstr. 17a\n30449 Hannover\nDeutschland",
-    "phone": "+49 511 2028010",
-    "fax": "+49 511 20280119",
-    "email": "hello@tutao.de",
-    "web": "https://tutanota.com",
+    "address": "Route de la Galaise 32\n1228 Plan-les-Ouates\nGeneva\nSwitzerland",
+    "email": "gdpr@protonmail.com",
+    "web": "https://protonmail.com",
     "sources": [
-        "https://tutanota.com/privacy",
-        "https://tutanota.com/imprint"
+        "https://protonmail.com/dpa",
+        "https://protonmail.com/imprint"
     ],
     "required-elements": [
         {

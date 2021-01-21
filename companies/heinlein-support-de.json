@@ -3,6 +3,9 @@
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "telecommunication"
+    ],
     "name": "Heinlein Support GmbH",
     "runs": [
         "mailbox.org",
@@ -21,18 +24,11 @@
     ],
     "required-elements": [
         {
-            "desc": "Name",
-            "type": "name"
-        },
-        {
-            "desc": "Address",
-            "type": "address"
-        },
-        {
             "desc": "Email",
-            "type": "email"
+            "type": "name",
+            "optional": false
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
