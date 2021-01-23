@@ -1,0 +1,35 @@
+{
+    "slug": "gas",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "gas.de Versorgungsgesellschaft mbH",
+    "address": "Girmes-Kreuz-Str. 55\n41564 Kaarst\nDeutschland",
+    "email": "datenschutz@gas.de",
+    "web": "https://www.gas.de",
+    "sources": [
+        "https://www.gas.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/955"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email",
+            "optional": true
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "quality": "verified"
+}
