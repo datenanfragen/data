@@ -1,0 +1,40 @@
+{
+    "slug": "heidelberg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Stadt Heidelberg",
+    "runs": [
+        "heidelberg.de"
+    ],
+    "address": "Marktplatz 10, 69117 Heidelberg",
+    "phone": "06221 58-10580",
+    "fax": "06221 58-10900",
+    "email": "stadt@heidelberg.de",
+    "web": "https://www.heidelberg.de",
+    "sources": [
+        "https://www.heidelberg.de/hd/HD/service/impressum.html",
+        "https://www.heidelberg.de/site/Heidelberg_ROOT/node/234767/index.html",
+        "https://github.com/datenanfragen/data/pull/941"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": true
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email",
+            "optional": true
+        }
+    ],
+    "quality": "verified"
+}
