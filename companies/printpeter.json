@@ -9,7 +9,8 @@
     ],
     "name": "PlusPeter GmbH",
     "runs": [
-        "PlusPeter (www.pluspeter.com)"
+        "PlusPeter (www.pluspeter.com)",
+        "charly"
     ],
     "address": "Chausseestraße 84\n10115 Berlin\nDeutschland",
     "phone": "+49 30 555798821",
