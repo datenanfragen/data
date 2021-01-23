@@ -1,33 +1,37 @@
 {
     "slug": "printpeter",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads",
         "commerce"
     ],
-    "name": "PrintPeter GmbH",
+    "name": "PlusPeter GmbH",
     "runs": [
-        "PlusPeter (www.pluspeter.com)"
+        "PlusPeter (www.pluspeter.com)",
+        "charly"
     ],
     "address": "Chausseestraße 84\n10115 Berlin\nDeutschland",
-    "phone": "+49 30 5557 988 21",
-    "email": "datenschutz@pluspeter.com",
-    "web": "https://www.pluspeter.com",
+    "phone": "+49 30 555798821",
+    "email": "datenschutz@charly.education",
+    "web": "https://www.charly.education",
     "sources": [
-        "https://www.pluspeter.com/datenschutzerklarung/",
-        "https://www.pluspeter.com/impressum/"
+        "https://www.charly.education/datenschutz",
+        "https://www.charly.education/imprint",
+        "https://github.com/datenanfragen/data/pull/950"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "E-Mail",
-            "type": "email"
+            "type": "email",
+            "optional": false
         }
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
