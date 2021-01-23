@@ -1,5 +1,5 @@
 {
-    "slug": "gas",
+    "slug": "gas-de",
     "relevant-countries": [
         "de"
     ],
@@ -8,11 +8,14 @@
     ],
     "name": "gas.de Versorgungsgesellschaft mbH",
     "address": "Girmes-Kreuz-Str. 55\n41564 Kaarst\nDeutschland",
+    "phone": "+49 800 2220105",
+    "fax": "+49 800 2220107",
     "email": "datenschutz@gas.de",
     "web": "https://www.gas.de",
     "sources": [
         "https://www.gas.de/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/955"
+        "https://github.com/datenanfragen/data/pull/955",
+        "https://www.gas.de/kundenservice.html"
     ],
     "required-elements": [
         {
@@ -31,5 +34,6 @@
             "optional": false
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
