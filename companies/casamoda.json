@@ -1,0 +1,33 @@
+{
+    "slug": "casamoda",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "CASAMODA Heinrich Katt GmbH & Co. KG",
+    "runs": [
+        "venti.com"
+    ],
+    "address": "Gutenbergstraße 7\n26135 Oldenburg\nDeutschland",
+    "phone": "04412066456",
+    "fax": "04412066111",
+    "email": "onlineshop@venti.com",
+    "web": "https://www.casamoda.com",
+    "sources": [
+        "https://www.venti.com/de/de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/940"
+    ],
+    "required-elements": [
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email"
+        },
+        {
+            "desc": "Name",
+            "type": "name"
+        }
+    ],
+    "quality": "verified"
+}
