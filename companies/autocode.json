@@ -1,0 +1,30 @@
+{
+    "slug": "autocode",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Polybit Inc.",
+    "runs": [
+        "Autocode"
+    ],
+    "address": "2390 30th Ave.\nSan Francisco CA 94116",
+    "email": "support@autocode.com",
+    "web": "https://autocode.com",
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail address",
+            "type": "email"
+        }
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/947"
+    ]
+}
