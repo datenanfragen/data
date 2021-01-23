@@ -1,0 +1,46 @@
+{
+    "slug": "mymuesli",
+    "relevant-countries": [
+        "de",
+        "ch",
+        "nl",
+        "be",
+        "gb",
+        "se",
+        "pl",
+        "fr",
+        "at"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "mymuesli GmbH",
+    "address": "Sailerwöhr 16\n94032 Passau\nGermany",
+    "phone": "+49 851 20426699",
+    "fax": "+49 851 20426693",
+    "email": "dataprotection@mymuesli.com",
+    "web": "https://www.mymuesli.com",
+    "sources": [
+        "https://www.mymuesli.com/datenschutz",
+        "https://www.mymuesli.com/impressum",
+        "https://github.com/datenanfragen/data/pull/952"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail address",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "address",
+            "optional": true
+        }
+    ],
+    "quality": "verified"
+}
