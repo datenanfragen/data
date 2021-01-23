@@ -7,8 +7,8 @@
         "commerce"
     ],
     "name": "denn's Biomarkt GmbH",
-    "address": "Hofer Str. 11\n95183 Töpen",
-    "phone": "09295 18-0",
+    "address": "Hofer Str. 11\n95183 Töpen\nDeutschland",
+    "phone": "+49 9295 180",
     "email": "datenschutz@denns.de",
     "web": "https://www.denns-biomarkt.de",
     "sources": [
@@ -42,5 +42,6 @@
             "optional": true
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
