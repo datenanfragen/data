@@ -1,0 +1,27 @@
+{
+    "slug": "musescore-bvba",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "MuseScore BVBA",
+    "address": "Octaaf Soudanstraat 22\nSint-Denijs-Westrem, 9051\nBelgium",
+    "email": "privacy@musescore.com",
+    "sources": [
+        "https://musescore.com/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/953"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail address",
+            "type": "email"
+        }
+    ],
+    "quality": "verified"
+}
