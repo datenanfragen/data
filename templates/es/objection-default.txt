@@ -8,7 +8,6 @@ Mi solicitud incluye explícitamente [runs>lo siguiente así como ] cualquier ot
 [runs>{runs_list}].
 
 Según lo establecido en el artículo 12(3) de la RGPD, debe usted confirmarme la objeción sin demora indebida y, en cualquier caso, dentro del mes siguiente a la recepción de la solicitud.
-
 [has_fields>
 Incluyo la siguiente información necesaria para identificarme:
 {id_data}]
