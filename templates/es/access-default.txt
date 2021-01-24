@@ -18,7 +18,8 @@ Si están transfiriendo mis datos personales a un tercer país o a una organizac
 [data_portability>
 Por favor haced los datos personales que me conciernen, proveídos a vosotros por mí, disponibles para mí en un formato estructurado, comúnmente utilizado y legible por máquinas, como indica el artículo 20(1) del RGPD.
 ]
-Mi petición incluye explícitamente [runs>lo siguiente así como ]cualquier otro servicio y empresa de la que vosotros seáis los controladores como está definido por el artículo 4(7) del RGPD[runs>: {runs_list}].
+Mi petición incluye explícitamente [runs>lo siguiente así como ]cualquier otro servicio y empresa de la que vosotros seáis los controladores como está definido por el artículo 4(7) del RGPD:
+[runs>{runs_list}].
 
 Según lo establecido en el artículo 12(3) del RGPD, vosotros tenéis que proveerme la información requerida sin indebido retraso y en cualquier caso en menos de un mes de la recepción de esta petición. De acuerdo con el artículo 15(3) del RGPD, vosotros tenéis que responder a esta petición sin ningún coste para mí.
 [has_fields>

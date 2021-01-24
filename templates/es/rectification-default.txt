@@ -7,7 +7,8 @@ Por favor haced los siguientes cambios:
 
 En caso de que hayáis revelado los datos personales afectados a uno o más terceros según se define en el artículo 4(9) del RGPD, tenéis que comunicar a cada beneficiario mi petición de la rectificación de los datos personales afectados de acuerdo con el artículo 19 del RGPD. Por favor informadme también sobre esos beneficiarios.
 
-Mi petición incluye explícitamente [runs>lo siguiente así como ]cualquier otro servicio y empresa de la que seáis los controladores como está definido en el artículo 4(7) del RGPD [runs>:{runs_list}].
+Mi petición incluye explícitamente [runs>lo siguiente así como ]cualquier otro servicio y empresa de la que seáis los controladores como está definido en el artículo 4(7) del RGPD:
+[runs>{runs_list}].
 
 Como está establecido en el artículo 12(3) del RGPD, tenéis que confirmarme la rectificación sin indebido retraso y en todo caso antes de un mes después de la llegada de la petición.
 [has_fields>

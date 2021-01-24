@@ -4,7 +4,8 @@ Por la presente, me opongo al procesamiento de mis datos personales con fines de
 
 Si hubiera dado mi consentimiento para el procesamiento de mis datos personales con fines de marketing directo (por ejemplo, de acuerdo con el artículo 6(1) o el artículo 9(2) RGPD), por la presente revoco dicho consentiemiento.
 
-Mi solicitud incluye explícitamente [runs>lo siguiente así como ] cualquier otro servicio y empresa de las que usted sea responsable en el sentido del artículo 4(7) RGPD [runs>: {runs_list}].
+Mi solicitud incluye explícitamente [runs>lo siguiente así como ] cualquier otro servicio y empresa de las que usted sea responsable en el sentido del artículo 4(7) RGPD:
+[runs>{runs_list}].
 
 Según lo establecido en el artículo 12(3) de la RGPD, debe usted confirmarme la objeción sin demora indebida y, en cualquier caso, dentro del mes siguiente a la recepción de la solicitud.
 
