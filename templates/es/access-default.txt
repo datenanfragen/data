@@ -3,7 +3,6 @@ A quien le interese:
 Por la presente estoy solicitando acceso de acuerdo con el artículo 15 del RGPD. Por favor confirmadme si vosotros estáis procesando datos personales (como está definido por el artículo 4(1) y (2) del RGPD) que me conciernan.
 
 En tal caso, estoy solicitando acceso a la siguiente información conforme con el artículo 15 del RGPD:
-
 1. <italic>todos</italic> los datos personales que me conciernan que tienen almacenados, incluyendo cualquier posible dato seudonimizado sobre mí según el artículo 4(5) RGPD; 
 2. los propósitos del procesamiento;
 3. las categorías de los datos personales en cuestión;
