@@ -9,8 +9,8 @@
     ],
     "name": "Studierendenwerk Heidelberg AöR",
     "address": "Marstallhof 1\n69117 Heidelberg\nDeutschland",
-    "phone": "06221 54-5400",
-    "fax": "06221 54-5401",
+    "phone": "+49 6221 543925",
+    "fax": "+49 6221 545401",
     "email": "dsb@stw.uni-heidelberg.de",
     "web": "https://www.stw.uni-heidelberg.de",
     "sources": [
@@ -36,5 +36,6 @@
             "optional": true
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
