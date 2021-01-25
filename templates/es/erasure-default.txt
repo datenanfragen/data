@@ -2,23 +2,30 @@ A quien le interese:
 
 Por la presente estoy pidiendo la eliminación inmediata de los datos personales que me conciernen de acuerdo con el artículo 17 del RGPD.
 
-[erase_all>Por favor eliminad toda la información personal que me concierne como está definido en el artículo 14(1) del RGPD.][erase_some> Por favor eliminad los siguientes datos personales que me conciernen:
+[erase_all>Por favor eliminad toda la información personal que me concierne como está definido en el artículo 14(1) del RGPD.][erase_some>Por favor eliminad los siguientes datos personales que me conciernen:
 {erasure_data}]
 
-Opino que los requisitos establecidos en el artículo 17 del RGPD se cumplen.
+Opino que los requisitos establecidos en el artículo 17 del RGPD se cumplen. Tampoco podeís reclamar una excepción basada en el artículo 17 (3) GDPR, particularmente porque no soy una figura pública.
 
-Si os he dado mi consentimiento para el procesamiento de mis datos personales (p.ej. de acuerdo con el artículo 6(1) o el artículo 9(2) del RGPD), por la presente estoy retirando dicho consentimiento. Adicionalmente, estoy objetando el procesamiento de los datos personales que me conciernen (lo que incluye perfilamiento), de acuerdo con el artículo 21 del RGPD.
+Si os he dado mi consentimiento para el procesamiento de mis datos personales (p.ej. de acuerdo con el artículo 6(1) o el artículo 9(2) del RGPD), por la presente estoy retirando dicho consentimiento para todo el proceso. 
+
+Adicionalmente, estoy objetando el procesamiento de los datos personales que me conciernen (lo que incluye perfilamiento), de acuerdo con el artículo 21 del RGPD. Solicito que restrinja el procesamiento de los datos que me conciernen hasta que se verifique si sus motivos legítimos prevalecen sobre los míos, de conformidad con el articulo 18(1)(d) del RGPD. 
+
+Si háis hecho públicos los datos antes mencionados, estaís obligado de conformidad con el artículo 17(2) del RGPD a tomar todas las medidas razonables para informar a otros controladores, incluidos los operadores de motores de búsqueda, que procesan los datos personales enumerados anteriormente, que he solicitado el borrado de todos los enlaces, copias o réplicas. Esto se aplica no solo a las copias exactas de los datos en cuestión, sino también a aquellas de las que se puede derivar la información contenida en los datos en cuestión.
 
 En caso de que hayáis revelado los datos personales afectados a terceros, tenéis que comunicar a cada beneficiario mi petición de la eliminación de datos personales afectados, así como cualquier referencia a ellos, de acuerdo con el artículo 19 del RGPD. Por favor informadme también sobre esos beneficiarios.
 
 Si objetáis a la eliminación solicitada, tenéis que justificármelo.
 
-Mi petición incluye explícitamente [runs>lo siguiente así como ]cualquier otro servicio y empresa de la que seáis los controladores como está definido en el artículo 4(7) del RGPD [runs>:{runs_list}].
+Mi petición incluye explícitamente [runs>lo siguiente así como ]cualquier otro servicio y empresa de la que seáis los controladores como está definido en el artículo 4(7) del RGPD: 
+[runs>{runs_list}].
 
 Como está establecido en el artículo 12(3) del RGPD, tenéis que confirmarme la eliminación sin indebido retraso y en todo caso antes de un mes después de la llegada de la petición.
 [has_fields>
 Incluyo la siguiente información necesaria para identificarme:
 {id_data}]
 Si vosotros no respondéis a mi petición en el periodo establecido, me reservo el derecho de tomar acciones legales contra vosotros y a presentar una queja con la autoridad supervisora responsable.
+
+De antemano, muchas gracias.
 
 Atentamente,
