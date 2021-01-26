@@ -1,5 +1,5 @@
 {
-    "slug": "intercom",
+    "slug": "intercom-com",
     "relevant-countries": [
         "all"
     ],
@@ -20,7 +20,7 @@
             "type": "name"
         },
         {
-            "desc": "E-Mail Address",
+            "desc": "Email",
             "type": "email"
         }
     ],
