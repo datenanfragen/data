@@ -1,0 +1,11 @@
+{
+    "slug": "ignore-me",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "ignore me",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/961"
+    ]
+}
