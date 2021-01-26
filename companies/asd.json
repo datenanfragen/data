@@ -1,0 +1,12 @@
+{
+    "slug": "asd",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "asd",
+    "address": "test",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/963"
+    ]
+}
