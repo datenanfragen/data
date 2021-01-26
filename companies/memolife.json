@@ -4,7 +4,8 @@
         "de"
     ],
     "categories": [
-        "commerce"
+        "commerce",
+        "ads"
     ],
     "name": "memo AG",
     "runs": [
@@ -13,15 +14,18 @@
         "https://www.memoworld.de/",
         "https://www.memolife.de/"
     ],
-    "address": "Am Biotop 6\n97259 Greußenheim",
-    "phone": "+49 9369 905600",
+    "address": "Am Biotop 6\n97259 Greußenheim\nDeutschland",
+    "phone": "+49 9369 9050",
     "fax": "+49 9369 905307",
-    "email": "info@memolife.de",
+    "email": "datenschutz@memo.de",
     "web": "https://www.memolife.de",
     "sources": [
         "https://www.memolife.de/datenschutz",
         "https://www.memolife.de/impressum",
-        "https://github.com/datenanfragen/data/pull/946"
+        "https://github.com/datenanfragen/data/pull/946",
+        "https://www.memo-werbeartikel.de/datenschutz",
+        "https://www.memo.de/datenschutz",
+        "https://www.memoworld.de/datenschutz/"
     ],
     "required-elements": [
         {
@@ -40,5 +44,6 @@
             "optional": true
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
