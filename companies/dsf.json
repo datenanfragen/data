@@ -1,0 +1,11 @@
+{
+    "slug": "dsf",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "dsf",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/964"
+    ]
+}
