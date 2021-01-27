@@ -14,7 +14,9 @@
     "web": "https://www.berliner-sparkasse.de/",
     "sources": [
         "https://www.berliner-sparkasse.de/de/home/toolbar/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/966"
+        "https://github.com/datenanfragen/data/pull/966",
+        "https://www.berliner-sparkasse.de/en/home/toolbar/kontakt.html"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
