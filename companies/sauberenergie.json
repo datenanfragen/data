@@ -8,9 +8,9 @@
     ],
     "name": "SE SAUBER ENERGIE GmbH & Co. KG",
     "address": "Bachstraße 3\n53721 Siegburg\nDeutschland",
-    "phone": "0800-11 22 999",
-    "fax": "02241-107 485",
-    "email": "kundenservice@sauberenergie.de",
+    "phone": "+49 800 1122999",
+    "fax": "+49 2241 107485",
+    "email": "datenschutz@sauberenergie.de",
     "web": "https://www.sauberenergie.de",
     "sources": [
         "https://www.sauberenergie.de/datenschutz",
@@ -30,5 +30,6 @@
             "type": "address"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
