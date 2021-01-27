@@ -7,7 +7,7 @@
         "telecommunication"
     ],
     "name": "Zendesk International Ltd.",
-    "address": "Rachel Tobin, AGC, EMEA & Global Privacy Counsel, Zendesk International Ltd.\n55 Charlemont Place\nSaint Kevin’s\nDublin, D02 F985\nIreland",
+    "address": "55 Charlemont Place\nSaint Kevin’s\nDublin\nD02 F985\nIreland",
     "email": "privacy@zendesk.com",
     "sources": [
         "https://www.zendesk.de/company/customers-partners/privacy-policy/",
@@ -23,5 +23,6 @@
             "type": "email"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
