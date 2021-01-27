@@ -11,10 +11,8 @@
     "email": "dataprivacy@vestiairecollective.com",
     "web": "https://www.vestiairecollective.com",
     "sources": [
-        "https://fr.vestiairecollective.com/a-propos/contact/",
-        "https://fr.vestiairecollective.com/politique-de-confidentialite/",
         "https://github.com/datenanfragen/data/pull/956",
-        "https://de.vestiairecollective.com/datenschutzrichtlinie/"
+        "https://www.vestiairecollective.com/privacy-policy/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
