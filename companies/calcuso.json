@@ -1,0 +1,19 @@
+{
+    "slug": "calcuso",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "CALCUSO GmbH",
+    "address": "Hans-Böckler-Str. 12\n40764 Langenfeld\nDeutschland",
+    "phone": "+49 2173 9608884",
+    "email": "anja.hildebrand@calcuso.de",
+    "web": "https://www.calcuso.de",
+    "sources": [
+        "https://www.calcuso.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/967"
+    ],
+    "quality": "verified"
+}
