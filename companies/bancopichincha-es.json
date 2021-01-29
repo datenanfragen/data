@@ -1,0 +1,43 @@
+{
+    "slug": "bancopichincha-es",
+    "relevant-countries": [
+        "es"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Banco Pichincha España S.A",
+    "address": "Calle Lagasca 4\n28001, Madrid\nEspaña",
+    "phone": "+34 914 36 25 94",
+    "email": "dpo@bancopichincha.es",
+    "sources": [
+        "https://www.bancopichincha.es/politica-privacidad/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Nombre",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Dirección",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "NIF/DNI",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "request-language": "es",
+    "custom-access-template": "https://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_ACCESO_V01_BPE_NUEVO-LOGO.pdf",
+    "custom-erasure-template": "https://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_SUPRESIÓN_V01_BPE_NUEVO-LOGO.pdf",
+    "custom-rectification-template": "https://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_RECTIFICACIÓN_V01_BPE_NUEVO-LOGO.pdf",
+    "custom-objection-template": "https://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_OPOSICIÓN_V01_BPE_NUEVO-LOGO.pdf",
+    "needs-id-document": true,
+    "comments": [
+        "Debes llenar el formulario correspondiente, firmarlo, adjuntar copia del NIF/DNI y enviarlos por email o correo postal."
+    ],
+    "quality": "verified"
+}

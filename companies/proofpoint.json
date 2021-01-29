@@ -1,0 +1,38 @@
+{
+    "slug": "proofpoint",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Proofpoint, Inc",
+    "runs": [
+        "Cloudmark",
+        "Nexgate"
+    ],
+    "address": "925 W. Maude Ave\nSunnyvale, CA 94085\nUnited States",
+    "email": "privacy@proofpoint.com",
+    "web": "https://www.proofpoint.com",
+    "sources": [
+        "https://www.proofpoint.com/us/legal/privacy-policy",
+        "https://www.proofpoint.com/de/legal/privacy-policy"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "For Nexgate inquiries, please also include your social media username."
+    ],
+    "quality": "verified"
+}
