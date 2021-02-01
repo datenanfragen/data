@@ -70,3 +70,11 @@ If we know from previous requests (or from a privacy policy) which identificatio
 
 If `required_elements` are specified, there *should* be one element with type `name`. This does not have to be a real name but could also be a username or even an email address, if no other information is required.  
 In addition, the `required_elements` should include some way for the company to respond to the request, be it an address, an email address, a phone number or something similar. 
+
+## Request language
+Usually, the `request-language` should not be set. There's basically two conditions that both need to be met:
+
+1. The company in question only addresses consumers in one language.
+2. The `relevant-countries` for the company includes ones where this language is not spoken.
+
+If that is the case, the `request-language` should be set to the language from 1.
