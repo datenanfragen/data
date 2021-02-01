@@ -1,0 +1,21 @@
+{
+    "slug": "hermann-bosch-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Hermann Bosch Inkasso und Beratung GmbH & Co. KG",
+    "address": "zu Hd. Frau Kranhold\nAugsburger Str. 10\n99091 Erfurt\nDeutschland",
+    "phone": "03 61 26 24 18 - 0",
+    "fax": "03 61 26 24 18 - 13",
+    "email": "datenschutz@hermann-bosch-inkasso.de",
+    "web": "https://www.hermann-bosch-inkasso.de",
+    "sources": [
+        "Internet, öffentliche Daten",
+        "https://github.com/datenanfragen/data/pull/973"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
