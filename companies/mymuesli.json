@@ -1,0 +1,53 @@
+{
+    "slug": "mymuesli",
+    "relevant-countries": [
+        "de",
+        "ch",
+        "nl",
+        "be",
+        "gb",
+        "se",
+        "pl",
+        "fr",
+        "at"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "mymuesli GmbH",
+    "address": "c/o Verimax GmbH\nWarndtstraße 115\n66127 Saarbrücken\nGermany",
+    "phone": "+49 89 80065780",
+    "fax": "+49 851 20426693",
+    "email": "dataprotection@mymuesli.com",
+    "web": "https://www.mymuesli.com",
+    "sources": [
+        "https://www.mymuesli.com/datenschutz",
+        "https://www.mymuesli.com/impressum",
+        "https://github.com/datenanfragen/data/pull/952",
+        "https://helpcenter.mymuesli.com/hc/de/articles/360001170394-In-welche-L%C3%A4nder-kann-ich-mymuesli-bestellen-"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "address",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "You can reach the data protection officer at dsb.mymuesli@verimax.de",
+        "The phone number above is the data protection officer's. You can reach mymuesli directly at +49 851 20426699",
+        "There is a webform available at https://www.mymuesli.com/contact/subject/14"
+    ],
+    "quality": "verified"
+}
