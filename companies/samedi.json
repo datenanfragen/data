@@ -1,0 +1,28 @@
+{
+    "slug": "samedi",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "samedi GmbH",
+    "runs": [
+        "www.samedi.de",
+        "patient.samedi.de"
+    ],
+    "address": "Rigaer Straße 44\n10247 Berlin",
+    "phone": "030 2123 0707 0",
+    "fax": "030 2123 0707 9",
+    "email": "datenschutz@samedi.de",
+    "web": "https://www.samedi.de",
+    "sources": [
+        "Erfahrung",
+        "https://github.com/datenanfragen/data/pull/972"
+    ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
