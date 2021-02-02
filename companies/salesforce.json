@@ -51,5 +51,6 @@
     "comments": [
         "Web form for privacy requests:\nhttps://www.salesforce.com/form/other/privacy-request/"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

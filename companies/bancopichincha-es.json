@@ -30,14 +30,8 @@
             "optional": false
         }
     ],
-    "request-language": "es",
-    "custom-access-template": "https://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_ACCESO_V01_BPE_NUEVO-LOGO.pdf",
-    "custom-erasure-template": "https://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_SUPRESIÓN_V01_BPE_NUEVO-LOGO.pdf",
-    "custom-rectification-template": "https://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_RECTIFICACIÓN_V01_BPE_NUEVO-LOGO.pdf",
-    "custom-objection-template": "https://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_OPOSICIÓN_V01_BPE_NUEVO-LOGO.pdf",
-    "needs-id-document": true,
     "comments": [
-        "Debes llenar el formulario correspondiente, firmarlo, adjuntar copia del NIF/DNI y enviarlos por email o correo postal."
+        "Debes llenar el formulario correspondiente, firmarlo, adjuntar copia del NIF/DNI y enviarlos por email o correo postal.\n\n<b>Solicitud de acceso:</b>\nhttps://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_ACCESO_V01_BPE_NUEVO-LOGO.pdf\n\n<b>Solicitud de supresión:</b>\nhttps://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_SUPRESIÓN_V01_BPE_NUEVO-LOGO.pdf\n\n<b>Solicitud de rectificación:</b>\nhttps://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_RECTIFICACIÓN_V01_BPE_NUEVO-LOGO.pdf\n\n<b>Solicitud de objeción:</b>\nhttps://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_OPOSICIÓN_V01_BPE_NUEVO-LOGO.pdf"
     ],
     "quality": "verified"
 }
