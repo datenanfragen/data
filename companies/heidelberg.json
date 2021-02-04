@@ -1,0 +1,42 @@
+{
+    "slug": "heidelberg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Stadt Heidelberg",
+    "runs": [
+        "heidelberg.de"
+    ],
+    "address": "Rohrbacherstraße 12\n69115 Heidelberg\nDeutschland",
+    "phone": "+49 6221 58 12500",
+    "fax": "+49 6221 58 46 12580",
+    "email": "datenschutz@heidelberg.de",
+    "web": "https://www.heidelberg.de",
+    "sources": [
+        "https://www.heidelberg.de/hd/HD/service/impressum.html",
+        "https://www.heidelberg.de/site/Heidelberg_ROOT/node/234767/index.html",
+        "https://github.com/datenanfragen/data/pull/941",
+        "https://www.heidelberg.de/hd/-/Behoerdenwegweiser/datenschutzbeauftragte-der-stadt-heidelberg/oe6014496"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": true
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
