@@ -1,0 +1,22 @@
+{
+    "slug": "teamviewer",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "TeamViewer AG",
+    "address": "Bahnhofsplatz 2, 73033 Göppingen",
+    "email": "privacy@teamviewer.com",
+    "web": "https://www.teamviewer.com",
+    "sources": [
+        "https://www.teamviewer.com/de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/977"
+    ],
+    "needs-id-document": false,
+    "comments": [
+        "Achtung: Neben der TeamViewer AG existiert noch die TeamViewer Germany GmbH, vergleiche #976. Inwiefern diese Datenschutzerklärungen sich ergänzen bzw. von einander abweichen, müsste noch untersucht werden."
+    ],
+    "quality": "verified"
+}
