@@ -1,0 +1,28 @@
+{
+    "slug": "zendesk-international-ltd",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Zendesk International Ltd.",
+    "address": "55 Charlemont Place\nSaint Kevin’s\nDublin\nD02 F985\nIreland",
+    "email": "privacy@zendesk.com",
+    "sources": [
+        "https://www.zendesk.de/company/customers-partners/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/951"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail address",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
