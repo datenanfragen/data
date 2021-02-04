@@ -1,22 +1,23 @@
 {
-    "slug": "a-thinking-ape-entertainment-ltd",
+    "slug": "a-thinking-ape",
     "relevant-countries": [
         "all"
     ],
     "categories": [
         "entertainment"
     ],
-    "name": " A Thinking Ape Entertainment Ltd.",
+    "name": "A Thinking Ape Entertainment Ltd.",
     "runs": [
         "Party in my Dorm",
         "Kingdoms of Heckfire",
         "Kingdoms at War",
         "Casino X"
     ],
-    "address": "#200–1132 Alberni St.\nVancouver, BC, Canada\nV6E 1A5",
+    "address": "#200–1132 Alberni St.\nVancouver BC V6E 1A5\nCanada",
     "email": "support@athinkingape.com",
+    "web": "https://athinkingape.com",
     "sources": [
-        "https://athinkingape.com/",
+        "https://athinkingape.com/#footer",
         "https://github.com/datenanfragen/data/pull/938"
     ],
     "quality": "verified"
