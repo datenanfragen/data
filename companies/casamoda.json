@@ -23,7 +23,7 @@
         {
             "desc": "Name",
             "type": "name"
-        }.
+        },
         {
             "desc": "E-Mail-Adresse",
             "type": "email"
