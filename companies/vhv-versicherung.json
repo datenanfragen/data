@@ -1,0 +1,18 @@
+{
+    "slug": "vhv-versicherung",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance",
+        null
+    ],
+    "name": "VHV Versicherung",
+    "address": "Constantin Str. 90\nHannover, 30177",
+    "phone": "05119075",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/978"
+    ]
+}
