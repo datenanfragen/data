@@ -1,0 +1,27 @@
+{
+    "slug": "timesharefinanceclaims",
+    "relevant-countries": [
+        "gb",
+        "gb"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Timeshare Finance Claims",
+    "address": "Fort Dunlop Fort Parkway Birmingham B24 9FE",
+    "phone": "+44 121 726 9026",
+    "email": "vinhcity209@1gmail.com",
+    "web": "https://timesharefinanceclaims.com/",
+    "sources": [
+        "https://timesharefinanceclaims.com/",
+        "https://github.com/datenanfragen/data/pull/979"
+    ],
+    "required-elements": [
+        {
+            "desc": "The leading provider of regulated timeshare claims in the UK. Contact us today to be considered for a no win no fee claim.",
+            "type": "address",
+            "optional": true
+        }
+    ],
+    "quality": "verified"
+}
