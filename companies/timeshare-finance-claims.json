@@ -1,0 +1,18 @@
+{
+    "slug": "timeshare-finance-claims",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Timeshare Finance Claims",
+    "address": "Fort Dunlop Fort Parkway Birmingham B24 9FE",
+    "phone": "+44 121 726 9026",
+    "email": "vinhcity2091@gmail.com",
+    "sources": [
+        "https://timesharefinanceclaims.com/",
+        "https://github.com/datenanfragen/data/pull/980"
+    ],
+    "quality": "verified"
+}
