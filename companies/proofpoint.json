@@ -8,8 +8,17 @@
     ],
     "name": "Proofpoint, Inc",
     "runs": [
-        "Cloudmark",
-        "Nexgate"
+        "Proofpoint Canada, Inc",
+        "Proofpoint Limited (UK)",
+        "Proofpoint Pty Ltd (Australia)",
+        "Proofpoint Japan KK",
+        "Proofpoint GmbH (Germany)",
+        "Proofpoint Singapore Ptd. Ltd",
+        "Proofpoint Int’l (Taiwan)",
+        "Proofpoint Digital Risk & Compliance (formerly Nexgate)",
+        "Cloudmark, LLC",
+        "ObserveIT, Ltd",
+        "Wombat Security Technologies, Inc"
     ],
     "address": "925 W. Maude Ave\nSunnyvale CA 94085\nUnited States of America",
     "email": "privacy@proofpoint.com",
@@ -28,11 +37,18 @@
             "desc": "Email",
             "type": "email",
             "optional": false
+        },
+        {
+            "desc": "Social Media Username (in case of Nexgate)",
+            "type": "input",
+            "optional": true
+        },
+        {
+            "desc": "Social Media Platform (in case of Nexgate)",
+            "type": "input",
+            "optional": true
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "For Nexgate inquiries, please also include your social media username."
-    ],
     "quality": "verified"
 }

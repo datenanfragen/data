@@ -15,8 +15,13 @@
     ],
     "required-elements": [
         {
-            "desc": "Email",
+            "desc": "Name",
             "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
             "optional": false
         },
         {
@@ -25,6 +30,5 @@
             "optional": true
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

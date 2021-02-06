@@ -31,7 +31,9 @@
         }
     ],
     "comments": [
-        "Debes llenar el formulario correspondiente, firmarlo, adjuntar copia del NIF/DNI y enviarlos por email o correo postal.\n\n<b>Solicitud de acceso:</b>\nhttps://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_ACCESO_V01_BPE_NUEVO-LOGO.pdf\n\n<b>Solicitud de supresión:</b>\nhttps://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_SUPRESIÓN_V01_BPE_NUEVO-LOGO.pdf\n\n<b>Solicitud de rectificación:</b>\nhttps://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_RECTIFICACIÓN_V01_BPE_NUEVO-LOGO.pdf\n\n<b>Solicitud de objeción:</b>\nhttps://media.bancopichincha.es/wp-content/uploads/RGPD_FORMULARIO_WEB_EJERCICIO_DERECHO_OPOSICIÓN_V01_BPE_NUEVO-LOGO.pdf"
+        "No olvides adjuntar copia del NIF/DNI a tu solicitud."
     ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
