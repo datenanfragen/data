@@ -1,19 +1,22 @@
 {
-    "slug": "academia-edu",
+    "slug": "fastmail",
     "relevant-countries": [
         "all"
     ],
     "categories": [
-        "school"
+        "telecommunication"
     ],
-    "name": "Academia, Inc.",
-    "address": "580 California Street\nNo. 400\nSan Francisco CA 94104\nUnited States of America",
-    "email": "privacy@academia.edu",
-    "web": "https://www.academia.edu",
+    "name": "Fastmail Pty Ltd",
+    "runs": [
+        "Fastmail",
+        "Pobox",
+        "Topicbox"
+    ],
+    "address": "PO Box 234\nCollins Street West\nVIC 8007\nAustralia",
+    "email": "dataprotection@fastmailteam.com",
+    "web": "https://www.fastmail.com",
     "sources": [
-        "https://www.academia.edu/privacy",
-        "https://github.com/datenanfragen/data/pull/837",
-        "https://www.academia.edu/terms"
+        "https://www.fastmail.com/about/privacy/"
     ],
     "required-elements": [
         {
