@@ -1,0 +1,29 @@
+{
+    "slug": "sma-de",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "SMA Solar Technology AG",
+    "runs": [
+        "SMA France S.A.S",
+        "SMA Italia S.r.l.",
+        "SMA Solar Academy",
+        "SMA Sunbelt Energy GmbH"
+    ],
+    "address": "Sonnenallee 1\n34266 Niestetal\nGermany",
+    "phone": "+49 561 95220",
+    "fax": "+49 561 9522100",
+    "email": "datenschutz@SMA.de",
+    "web": "http://www.SMA.de",
+    "sources": [
+        "https://www.sma.de/fileadmin/content/global/Website_Meta/Documents/Datenschutz-SMA-Solar-Academy-1.1.pdf",
+        "https://www.sma.de/datenschutzerklaerung.html",
+        "https://www.sma.de/impressum.html",
+        "https://github.com/datenanfragen/data/pull/981"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
