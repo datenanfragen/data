@@ -1,0 +1,23 @@
+{
+    "slug": "reishunger",
+    "relevant-countries": [
+        "de",
+        "ch",
+        "at"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Reishunger GmbH",
+    "address": "Am Waller Freihafen 1\n28217 Bremen\nGermany",
+    "phone": "+49 421 20802491",
+    "fax": "+49 421 20802128",
+    "email": "datenschutz@reishunger.de",
+    "web": "https://www.reishunger.de/",
+    "sources": [
+        "https://www.reishunger.de/datenschutz#3-datenschutzbeauftragter",
+        "https://github.com/datenanfragen/data/pull/982"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
