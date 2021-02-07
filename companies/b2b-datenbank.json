@@ -1,0 +1,21 @@
+{
+    "slug": "b2b-datenbank",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "b2b-datenbank.de",
+    "runs": [
+        "https://b2b-datenbank.de"
+    ],
+    "address": "Spaqi Einzelunternehmen\nPascal Spaq\nBramfelder Drift 11\n22175 Hamburg",
+    "phone": "+49 4109 2690225",
+    "email": "info@b2b-datenbank.de",
+    "web": "https://www.b2b-datenbank.de",
+    "sources": [
+        "https://www.b2b-datenbank.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/987"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
