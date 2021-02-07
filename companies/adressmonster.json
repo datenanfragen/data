@@ -1,0 +1,25 @@
+{
+    "slug": "adressmonster",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses",
+        "ads"
+    ],
+    "name": "B2B Monster UG haftungsbeschränkt",
+    "runs": [
+        "adressmonster.de"
+    ],
+    "address": "\nB2B Monster\nUG haftungsbeschränkt\nAm Mantel 4\n76646 Bruchsal\nB2B Monster Logo\n",
+    "phone": "07251 32 66 873",
+    "email": "support@adressmosnter.de",
+    "web": "https://www.adressmonster.de",
+    "sources": [
+        "https://adressmonster.de/impressum",
+        "https://github.com/datenanfragen/data/pull/984"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
