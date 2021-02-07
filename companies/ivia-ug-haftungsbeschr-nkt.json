@@ -1,0 +1,13 @@
+{
+    "slug": "ivia-ug-haftungsbeschr-nkt",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "ivia UG (haftungsbeschränkt)",
+    "address": "Immendorfer Str. 2\n50321 Brühl",
+    "sources": [
+        "https://ivia-akademie.de/",
+        "https://github.com/datenanfragen/data/pull/986"
+    ],
+    "quality": "verified"
+}
