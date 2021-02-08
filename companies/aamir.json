@@ -1,0 +1,16 @@
+{
+    "slug": "aamir",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Aamir",
+    "runs": [
+        null
+    ],
+    "address": "28",
+    "phone": "8090913504",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/988"
+    ]
+}
