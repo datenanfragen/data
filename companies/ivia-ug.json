@@ -1,0 +1,20 @@
+{
+    "slug": "ivia-ug",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        "finance"
+    ],
+    "name": "ivia UG (haftungsbeschränkt)",
+    "address": "Immendorfer Str. 2\n50321 Brühl\nDeutschland",
+    "phone": "+49 2232 389400",
+    "email": "datenschutz@ivia-akademie.de",
+    "sources": [
+        "https://ivia-akademie.de/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/986"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
