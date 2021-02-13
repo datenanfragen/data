@@ -7,11 +7,18 @@
         "entertainment"
     ],
     "name": "British Broadcasting Corporation (BBC)",
+    "runs": [
+        "BBC Media Applications Technologies Limited",
+        "1943 Berlin Blitz (VR Experience)"
+    ],
     "address": "BC2 A4\n201 Wood Lane\nLondon W12 7TP\nUnited Kingdom",
     "email": "dataprotection@bbc.com",
     "web": "https://www.bbc.com",
     "sources": [
-        "https://www.bbc.co.uk/usingthebbc/privacy/privacy-policy/"
+        "https://www.bbc.co.uk/usingthebbc/privacy/privacy-policy/",
+        "https://store.steampowered.com/app/513490/1943_Berlin_Blitz/",
+        "https://store.steampowered.com//eula/513490_eula_0",
+        "https://github.com/datenanfragen/data/pull/996"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
