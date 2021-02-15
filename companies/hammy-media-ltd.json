@@ -1,22 +1,30 @@
 {
     "slug": "hammy-media-ltd",
     "relevant-countries": [
+        "de",
         "all"
     ],
     "categories": [
-        "entertainment"
+        "social media"
     ],
-    "name": "Hammy Media Ltd",
+    "name": "Sujit",
     "runs": [
-        "xhamster.com"
+        "15",
+        "15"
     ],
     "address": "79 Spyrou Kyprianou\nProtopapas Building\n2nd floor, Flat 201\n3076 Limassol\nCyprus",
-    "email": "help@xhamster.com",
-    "web": "https://xhamster.com",
+    "phone": "629530116",
+    "fax": "Boy",
+    "email": "kunkunsahani@email.com",
     "sources": [
         "https://xhamster.com/info/privacy",
-        "https://github.com/datenanfragen/data/issues/546"
+        "https://github.com/datenanfragen/data/issues/546",
+        "https://github.com/datenanfragen/data/pull/999"
     ],
+    "needs-id-document": true,
     "suggested-transport-medium": "email",
+    "comments": [
+        "Hi"
+    ],
     "quality": "verified"
 }
