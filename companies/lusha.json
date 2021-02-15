@@ -8,8 +8,11 @@
         "addresses"
     ],
     "name": "Lusha Systems Inc.",
-    "address": "c/o DP-Dock GmbH\nBallindamm 39\n20095 Hamburg\nGermany",
-    "email": "Support@Lusha.co",
+    "runs": [
+        "Lusha Ltd."
+    ],
+    "address": "1177 Avenue of the Americas\n5th Floor\nNew York NY 10036\nUnited States of America",
+    "email": "Privacy@Lusha.com",
     "web": "https://www.lusha.co/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/115",
@@ -19,5 +22,6 @@
     ],
     "request-language": "en",
     "needs-id-document": false,
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
