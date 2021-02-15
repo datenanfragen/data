@@ -1,21 +1,20 @@
 {
-    "slug": "b2b-datenbank",
+    "slug": "b2b-datenbank-de",
     "relevant-countries": [
         "all"
     ],
-    "name": "b2b-datenbank.de",
-    "runs": [
-        "https://b2b-datenbank.de"
+    "categories": [
+        "addresses"
     ],
-    "address": "Spaqi Einzelunternehmen\nPascal Spaq\nBramfelder Drift 11\n22175 Hamburg",
-    "phone": "+49 4109 2690225",
-    "email": "info@b2b-datenbank.de",
+    "name": "b2b-datenbank.de",
+    "address": "c/o IITR Datenschutz GmbH\nMarienplatz 2\n80331 München\nGermany",
+    "phone": "+49 89 18917360",
+    "email": "email@iitr.de",
     "web": "https://www.b2b-datenbank.de",
     "sources": [
         "https://www.b2b-datenbank.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/987"
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
