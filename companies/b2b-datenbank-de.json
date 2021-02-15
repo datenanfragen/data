@@ -1,0 +1,20 @@
+{
+    "slug": "b2b-datenbank-de",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "b2b-datenbank.de",
+    "address": "c/o IITR Datenschutz GmbH\nMarienplatz 2\n80331 München\nGermany",
+    "phone": "+49 89 18917360",
+    "email": "email@iitr.de",
+    "web": "https://www.b2b-datenbank.de",
+    "sources": [
+        "https://www.b2b-datenbank.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/987"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
