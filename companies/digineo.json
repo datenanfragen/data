@@ -1,0 +1,21 @@
+{
+    "slug": "digineo",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Digineo GmbH",
+    "runs": [
+        "selbstauskunft.net"
+    ],
+    "address": "Fahrenheitstr. 15\n28359 Bremen\nDeutschland",
+    "phone": " 0421 167 66 090",
+    "fax": "0421 167 66 099",
+    "email": "datenschutz@digineo.de",
+    "web": "https://www.digineo.de",
+    "sources": [
+        "https://selbstauskunft.net/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1003"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
