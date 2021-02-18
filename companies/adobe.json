@@ -20,7 +20,8 @@
         "https://www.adobe.com/privacy/policy.html",
         "https://www.adobe.com/legal/terms.html",
         "https://www.adobe.com/de/about-adobe/impressum.html",
-        "https://github.com/datenanfragen/data/issues/531"
+        "https://github.com/datenanfragen/data/issues/531",
+        "https://github.com/datenanfragen/data/pull/1002"
     ],
     "required-elements": [
         {
@@ -33,5 +34,8 @@
         }
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Der Kundenservice antwortet auch bei deutschen Anfragen in englischer Sprache.\n\nAdobe erwartet zur Identitätsbestätigung, dass die Anfrage von der hinterlegten Emailadresse zu erfolgen hat. Bitte beachten, falls es sich bei der Adresse nur um eine Weiterleitung handeln sollte."
+    ],
     "quality": "verified"
 }
