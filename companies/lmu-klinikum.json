@@ -1,0 +1,21 @@
+{
+    "slug": "lmu-klinikum",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Klinikum der Universität München",
+    "address": "Marchioninistraße 15\n81377 München",
+    "phone": "089 / 4400 - 58454",
+    "fax": "089 / 4400 - 55192",
+    "email": "datenschutz@med.uni-muenchen.de",
+    "web": "https://www.lmu-klinikum.de/data_safety",
+    "sources": [
+        "https://www.lmu-klinikum.de/data_safety",
+        "https://github.com/datenanfragen/data/pull/1008"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
