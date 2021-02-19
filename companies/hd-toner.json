@@ -1,0 +1,24 @@
+{
+    "slug": "hd-toner",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce",
+        "ads"
+    ],
+    "name": "TRENSCO GmbH & Co. KG",
+    "runs": [
+        "HD Toner"
+    ],
+    "address": "TRENSCO GmbH & Co. KG\nAm Funkturm 9a\n29525 Uelzen",
+    "phone": "0581 3893276",
+    "fax": "0581 3893275",
+    "email": "info@hd-toner.de",
+    "web": "https://www.hd-toner.de/",
+    "sources": [
+        "https://www.hd-toner.de/Impressum/",
+        "https://github.com/datenanfragen/data/pull/1009"
+    ],
+    "quality": "verified"
+}
