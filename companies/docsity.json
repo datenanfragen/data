@@ -1,0 +1,25 @@
+{
+    "slug": "docsity",
+    "relevant-countries": [
+        "fr",
+        "it"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Docsity",
+    "runs": [
+        "Koofers"
+    ],
+    "address": "Via Leonardo da Vinci, 16 - 10126 Torino",
+    "phone": "011 6938436",
+    "email": "dpo@docsity.com",
+    "web": "https://www.docsity.com",
+    "sources": [
+        "https://www.docsity.com/fr/pag/privacy/",
+        "https://github.com/datenanfragen/data/pull/1007"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
