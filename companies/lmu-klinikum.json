@@ -7,11 +7,10 @@
         "health"
     ],
     "name": "Klinikum der Universität München",
-    "address": "Marchioninistraße 15\n81377 München",
-    "phone": "089 / 4400 - 58454",
-    "fax": "089 / 4400 - 55192",
+    "address": "Marchioninistraße 15\n81377 München\nDeutschland",
+    "phone": "+49 89 44000",
     "email": "datenschutz@med.uni-muenchen.de",
-    "web": "https://www.lmu-klinikum.de/data_safety",
+    "web": "https://www.lmu-klinikum.de/",
     "sources": [
         "https://www.lmu-klinikum.de/data_safety",
         "https://github.com/datenanfragen/data/pull/1008"
