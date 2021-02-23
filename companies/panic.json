@@ -13,8 +13,8 @@
         "Transmit",
         "Prompt",
         "Firewatch",
-        "Untitled Goose Game",
-        "Playdate"
+        "Playdate",
+        "Panic Sync"
     ],
     "address": "315 SW 11th Ave\n4th Floor\nPortland, OR 97205\nUnited States of America",
     "phone": "+1 503 224 3451",
@@ -22,6 +22,7 @@
     "web": "https://panic.com/",
     "sources": [
         "https://panic.com/privacy/",
+        "https://panic.com/",
         "https://github.com/datenanfragen/data/pull/957"
     ],
     "required-elements": [
