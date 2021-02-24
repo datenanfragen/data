@@ -1,0 +1,21 @@
+{
+    "slug": "idaia",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Idaia group (ex Cartégie)",
+    "address": "3 Rue Christian Franceries\n33520 Bruges",
+    "phone": "01 44 51 66 99",
+    "email": "dpo@cartegie.com",
+    "web": "https://www.idaia.group/",
+    "sources": [
+        "https://www.idaia.group/en/donnees-personnelles/",
+        "https://github.com/datenanfragen/data/pull/1010"
+    ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
