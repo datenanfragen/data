@@ -1,0 +1,29 @@
+{
+    "slug": "idaia-group",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Cartégie SAS",
+    "runs": [
+        "Idaia Group",
+        "La Compagnie Hyperactive",
+        "Yellow Agence Internet"
+    ],
+    "address": "3 Rue Christian Franceries\nParc Chavailles 2\n33520 Bruges\nBelgium",
+    "phone": "+33 1 44 51 66 99",
+    "email": "dpo@cartegie.com",
+    "web": "https://www.idaia.group/",
+    "sources": [
+        "https://www.idaia.group/en/donnees-personnelles/",
+        "https://github.com/datenanfragen/data/pull/1010",
+        "https://www.cartegie.com/donnees-personnelles",
+        "https://www.cartegie.com/mentions-legales",
+        "https://www.compagnie-hyperactive.com/politique-de-donnees-personnelles/",
+        "https://www.yellow-agence-internet.com/politique-de-donnees-personnelles.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
