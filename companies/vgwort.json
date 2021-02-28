@@ -3,15 +3,12 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [
-        "ads"
-    ],
-    "name": " Verwertungsgesellschaft WORT (VG WORT)",
-    "address": "Untere Weidenstraße 5\n81543 München",
+    "name": "Verwertungsgesellschaft WORT (VG WORT)",
+    "address": "Untere Weidenstraße 5\n81543 München\nDeutschland",
     "phone": "+49 89 514120",
     "fax": "+49 89 5141258",
     "email": "datenschutz@vgwort.de",
-    "web": "https://www.vgwort.de/hilfsseiten/datenschutz.html",
+    "web": "https://www.vgwort.de",
     "sources": [
         "https://www.vgwort.de/hilfsseiten/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/1005"
