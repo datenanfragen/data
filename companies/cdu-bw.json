@@ -7,15 +7,16 @@
         "political party"
     ],
     "name": "CDU-Landesverband Baden-Württemberg",
-    "address": "Union Betriebs-GmbH\nEgermannstr. 2\n53359 Rheinbach\nDeutschland",
-    "phone": "+49 30 22070570",
-    "fax": "+49 2226 802111",
+    "address": "Heilbronner Straße 43\n70191 Stuttgart\nDeutschland",
+    "phone": "+49 711 66904 0",
+    "fax": "+49 711 66904 15",
     "email": "datenschutz@ubgnet.de",
     "web": "https://www.cdu-bw.de",
     "sources": [
         "https://www.cdu-bw.de/impressum/",
-        "https://www.ubgnet.de/datenschutzerklaerung",
+        "https://www.cdu-bw.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/1001"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
