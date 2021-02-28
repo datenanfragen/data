@@ -1,5 +1,5 @@
 {
-    "slug": "pwc",
+    "slug": "pwc-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,8 +7,9 @@
         "finance"
     ],
     "name": "PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft (PWC)",
-    "address": "Friedrich-Ebert-Anlage 35-37\n60327 Frankfurt am Main",
+    "address": "Friedrich-Ebert-Anlage 35-37\n60327 Frankfurt am Main\nDeutschland",
     "phone": "+49 69 95850",
+    "fax": "+49 69 95851000",
     "email": "DE_Datenschutz@pwc.com",
     "web": "https://www.pwc.de/",
     "sources": [
@@ -17,16 +18,21 @@
     ],
     "required-elements": [
         {
-            "desc": "Geburtsdatum",
-            "type": "birthdate",
-            "optional": false
+            "desc": "Name",
+            "type": "name"
         },
         {
-            "desc": "Beziehung zum Unternehmen (Bewerber, ehemaliger Mitarbeiter, Mandant usw.)",
-            "type": "textarea",
-            "optional": false
+            "desc": "Geburtsdatum",
+            "type": "birthdate",
+            "optional": true
+        },
+        {
+            "desc": "Beziehung zum Unternehmen",
+            "type": "input",
+            "optional": true
         }
     ],
     "needs-id-document": false,
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
