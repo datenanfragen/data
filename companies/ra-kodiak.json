@@ -7,13 +7,13 @@
         "collection agency"
     ],
     "name": "KODIAK Rechtsanwaltsgesellschaft mbH",
-    "address": "Normannenweg 30\n20537 Hamburg",
-    "phone": "040 83509 0101",
-    "fax": "040 25317 5219",
+    "address": "Normannenweg 30\n20537 Hamburg\nDeutschland",
+    "phone": "+49 40 83509 0101",
+    "fax": "+49 40 25317 5219",
     "email": "info@ra-kodiak.de",
     "web": "https://www.ra-kodiak.de",
     "sources": [
-        "Internet",
+        "https://www.ra-kodiak.de/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/994"
     ],
     "quality": "verified"
