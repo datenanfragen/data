@@ -13,12 +13,13 @@
     ],
     "address": "Charlottenstraße 59\n10117 Berlin\nDeutschland",
     "phone": "+49 30 22183850",
-    "email": "dataprivacy@culture4life.de",
+    "email": "privacy@culture4life.de",
     "web": "https://luca-app.de",
     "sources": [
         "https://luca-app.de/app-privacy-policy/",
         "https://luca-app.de/imprint/",
-        "https://github.com/datenanfragen/data/pull/867"
+        "https://github.com/datenanfragen/data/pull/867",
+        "https://github.com/datenanfragen/data/pull/1014"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
