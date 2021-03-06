@@ -1,0 +1,16 @@
+{
+    "slug": "bitmaster-online",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "bitmaster",
+    "address": "Plotterweg 31\n3821BB Amersfoort\nThe Netherlands",
+    "phone": "+31 85 400 0176",
+    "email": "support@bitmaster-online.com",
+    "web": "https://bitmaster-online.com/",
+    "sources": [
+        "https://bitmaster-online.com/",
+        "https://github.com/datenanfragen/data/pull/1019"
+    ],
+    "quality": "verified"
+}
