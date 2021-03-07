@@ -8,12 +8,14 @@
         "social media",
         "telecommunication"
     ],
-    "name": "Automattic Inc.",
+    "name": "Aut O’Mattic A8C Ireland Ltd.",
     "runs": [
+        "Automattic Inc.",
         "WordPress.com",
         "WordPress Jetpack (jetpack.com)",
         "WordPress.com VIP (vip.wordpress.com)",
-        "WooCommerce (woocommerce.com)",
+        "WooCommerce, Inc. (woocommerce.com)",
+        "WooCommerce Ireland Ltd.",
         "VaultPress (vaultpress.com)",
         "Akismet (akismet.com)",
         "Longreads (longreads.com)",
@@ -21,14 +23,16 @@
         "Polldaddy (polldaddy.com)",
         "Cloudup (cloudup.com)",
         "Simperium (simperium.com)",
-        "Gravatar (gravatar.com)"
+        "Gravatar (gravatar.com)",
+        "Tumblr, Inc. (tumblr.com)"
     ],
-    "address": "60 29th Street #343\nSan Francisco\nCA 94110\nUnited States of America",
+    "address": " Grand Canal Dock, 25 Herbert Pl\nDublin\nD02 AY86\nIreland",
     "phone": "+1 877 273 3049",
     "email": "privacypolicyupdates@automattic.com",
     "web": "https://automattic.com",
     "sources": [
-        "https://automattic.com/privacy/"
+        "https://automattic.com/privacy/",
+        "https://www.tumblr.com/privacy/en_eu"
     ],
     "required-elements": [
         {
