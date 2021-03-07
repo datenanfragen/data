@@ -1,12 +1,7 @@
 {
     "slug": "cdiscount",
     "relevant-countries": [
-        "fr",
-        "be",
-        "it",
-        "de",
-        "es",
-        "lu"
+        "fr"
     ],
     "categories": [
         "commerce"
@@ -18,7 +13,8 @@
     "sources": [
         "https://github.com/datenanfragen/data/issues/437",
         "https://www.cdiscount.com/vie-privee-et-cookies.html",
-        "https://i6.cdscdn.com/resources/imagesok/cgv/ml.pdf"
+        "https://i6.cdscdn.com/resources/imagesok/cgv/ml.pdf",
+        "https://github.com/datenanfragen/data/pull/1020"
     ],
     "required-elements": [
         {
