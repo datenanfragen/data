@@ -14,6 +14,7 @@
     "address": "4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
     "phone": "+1 650 543 4800",
     "fax": "+1 650 543 5349",
+    "email": "Abieldut@ho",
     "web": "https://www.facebook.com/",
     "sources": [
         "https://www.facebook.com/privacy/explanation",
@@ -23,8 +24,11 @@
         "https://github.com/datenanfragen/data/issues/92",
         "https://github.com/datenanfragen/data/issues/93",
         "https://www.facebook.com/help/contact/2032834846972583",
-        "https://github.com/datenanfragen/data/pull/974"
+        "https://github.com/datenanfragen/data/pull/974",
+        "https://github.com/datenanfragen/data/pull/1023"
     ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "fax",
     "comments": [
         "Various privacy controls (including the ability to download your data as HTML or JSON) are available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information",
         "Facebook's Data Protection Officer can be contacted via this form: https://www.facebook.com/help/contact/540977946302970",
