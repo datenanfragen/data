@@ -1,0 +1,21 @@
+{
+    "slug": "bodendirect",
+    "relevant-countries": [
+        "de",
+        "nl",
+        "gb"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "J. P. Boden (Netherlands) B.V.",
+    "address": "Konnetlaantje 4,\n1435HW,\nRijsenhout",
+    "phone": "0800 000 3265",
+    "email": "kundenbetreuung@bodendirect.de",
+    "web": "https://bodendirect.de",
+    "sources": [
+        "https://www.bodendirect.de/de-de/impressum/datenschutzerklarung#Footer",
+        "https://github.com/datenanfragen/data/pull/1021"
+    ],
+    "quality": "verified"
+}
