@@ -1,0 +1,43 @@
+{
+    "slug": "yandex",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads",
+        "entertainment",
+        "social media",
+        "telecommunication"
+    ],
+    "name": "Yandex Oy",
+    "runs": [
+        "YANDEX LLC",
+        "Yandex.Classifieds LLC",
+        "Yandex.Taxi LLC",
+        "Yandex.Market LLC",
+        "Yandex.Telecom LLC",
+        "Yandex.Cloud LLC",
+        "Yandex.Drive LLC",
+        "Yandex.Autobuses LLC",
+        "EDADIL PROMO LLC",
+        "Kinopoisk LLC",
+        "Yandex Europe AG",
+        "Yandex.Go Israel Ltd",
+        "INO СPE “SDA”",
+        "Yandex.Mediaservices LLC",
+        "Yandex.Fuel LLC",
+        "Clinic Yandex.Health LLC",
+        "Yandex.Kazakhstan LLP",
+        "AppMetrica"
+    ],
+    "address": "Moreenikatu 6\n04600 Mantsala\nFinland",
+    "web": "https://yandex.com/",
+    "sources": [
+        "https://yandex.com/legal/confidential/?lang=en",
+        "https://yandex.com/dev/appmetrica/index/"
+    ],
+    "comments": [
+        "Contact form: https://yandex.com/support/common/troubleshooting/other.html"
+    ],
+    "quality": "verified"
+}

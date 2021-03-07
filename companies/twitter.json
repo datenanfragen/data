@@ -9,7 +9,8 @@
     "name": "Twitter International Company",
     "runs": [
         "Twitter, Inc.",
-        "Periscope"
+        "Periscope",
+        "MoPub"
     ],
     "address": "One Cumberland Place\nFenian Street\nDublin 2\nD02 AX07\nIreland",
     "phone": "+1 415 222 9670",
@@ -19,7 +20,8 @@
     "sources": [
         "https://twitter.com/en/privacy",
         "https://legal.twitter.com/imprint",
-        "https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO"
+        "https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO",
+        "https://www.mopub.com/en/legal/privacy"
     ],
     "suggested-transport-medium": "email",
     "comments": [

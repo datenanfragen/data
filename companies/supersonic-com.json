@@ -1,0 +1,20 @@
+{
+    "slug": "supersonic-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "SUPERSONIC STUDIOS Ltd.",
+    "address": "121 Menachem Begin Rd.\nTel Aviv\nIsrael",
+    "phone": "+1 888 835 5392",
+    "email": "support@supersonic.com",
+    "web": "https://supersonic.com/",
+    "sources": [
+        "https://supersonic.com/privacy-policy/",
+        "https://supersonic.com/privacy/"
+    ],
+    "custom-access-template": "access-tracking",
+    "quality": "verified"
+}
