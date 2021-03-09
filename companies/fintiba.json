@@ -1,0 +1,21 @@
+{
+    "slug": "fintiba",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance",
+        "school"
+    ],
+    "name": "Fintiba GmbH",
+    "address": "Baseler Straße 35-37\n60329 Frankfurt am Main\nGermany",
+    "phone": "+49 69 12006206620",
+    "email": "privacy@fintiba.com",
+    "web": "https://www.fintiba.com",
+    "sources": [
+        "https://www.fintiba.com/documents/Agreement_DataProtectionNotice_Fintiba.pdf?x54750",
+        "https://github.com/datenanfragen/data/pull/1026"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
