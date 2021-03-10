@@ -7,11 +7,12 @@
         "insurance"
     ],
     "name": "NFU Mutual",
-    "address": "NFU Mutual, Tiddington Road, Stratford-upon-Avon, Warwickshire, CV37 7BJ",
-    "phone": "0800 072 0168",
+    "address": "Tiddington Road\nStratford-Upon-Avon\nCV37 7BJ\nUnited Kingdom",
+    "phone": "+44 800 072 0168",
     "web": "https://www.nfumutual.co.uk",
-    "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1011"
-    ]
+        "https://github.com/datenanfragen/data/pull/1011",
+        "https://www.nfumutual.co.uk/"
+    ],
+    "quality": "verified"
 }
