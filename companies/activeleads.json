@@ -1,0 +1,22 @@
+{
+    "slug": "activeleads",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "telecommunication",
+        "addresses"
+    ],
+    "name": "Active Leads AB",
+    "address": "Västmannagatan 66\nS-113 25 Stockholm\nSWEDEN",
+    "phone": "+46 73 997 60 69",
+    "email": "hej@ActiveLeads.se",
+    "web": "https://www.activeleads.se/",
+    "sources": [
+        "https://www.activeleads.se/",
+        "https://github.com/datenanfragen/data/pull/1028"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
