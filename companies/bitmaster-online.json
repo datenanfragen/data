@@ -3,14 +3,25 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "bitmaster",
+    "categories": [
+        "ads"
+    ],
+    "name": "Bitmaster Online B.V.",
+    "runs": [
+        "flirtemitmir.com",
+        "flirtgleich.com",
+        "provoziermich.com"
+    ],
     "address": "Plotterweg 31\n3821BB Amersfoort\nThe Netherlands",
     "phone": "+31 85 400 0176",
     "email": "support@bitmaster-online.com",
     "web": "https://bitmaster-online.com/",
     "sources": [
-        "https://bitmaster-online.com/",
-        "https://github.com/datenanfragen/data/pull/1019"
+        "https://bitmaster-online.com/contact/",
+        "https://github.com/datenanfragen/data/pull/1019",
+        "https://www.flirtemitmir.com/privacy",
+        "https://www.flirtgleich.com/privacy",
+        "https://www.provoziermich.com/privacy"
     ],
     "quality": "verified"
 }
