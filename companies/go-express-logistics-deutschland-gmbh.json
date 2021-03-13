@@ -1,0 +1,18 @@
+{
+    "slug": "go-express-logistics-deutschland-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "GO! Express & Logistics (Deutschland) GmbH",
+    "address": "c/o Scheja und Partner Rechtsanwälte mbB\nAdenauerallee 136\n53113 Bonn\nDeutschland",
+    "phone": "+49 228 2272260",
+    "email": "datenschutz@general-overnight.com",
+    "sources": [
+        "https://www.general-overnight.com/deu_de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/1032"
+    ],
+    "quality": "verified"
+}
