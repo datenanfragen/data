@@ -3,6 +3,9 @@
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "commerce"
+    ],
     "name": "FLYERALARM GmbH",
     "runs": [
         "flyeralarm.com"
@@ -15,5 +18,6 @@
         "https://www.flyeralarm.com/de/content/index/open/id/23/datenschutzerklaerung.html",
         "https://github.com/datenanfragen/data/pull/1033"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
