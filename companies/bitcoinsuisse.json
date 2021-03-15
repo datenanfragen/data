@@ -1,0 +1,20 @@
+{
+    "slug": "bitcoinsuisse",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Bitcoin Suisse",
+    "address": "Internationale E-Mail: dataprotection@bitcoinsuisse.com",
+    "email": "philipp.mittelberger@bwb.li",
+    "web": "https://www.bitcoinsuisse.com/",
+    "sources": [
+        "https://files.bitcoinsuisse.com/assets/pdf/data_protection_policy.pdf",
+        "https://github.com/datenanfragen/data/pull/1035"
+    ],
+    "quality": "verified"
+}
