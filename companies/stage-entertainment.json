@@ -1,32 +1,22 @@
 {
-    "slug": "stage-entertainment",
+    "slug": "stage-entertainment-de",
     "relevant-countries": [
-        "de",
-        "it",
-        "gb",
-        "nl",
-        "fr",
-        "es"
+        "de"
     ],
     "categories": [
-        "entertainment"
+        "entertainment",
+        "commerce"
     ],
-    "name": "Stage Entertainment",
-    "address": "STAGE ENTERTAINMENT Marketing & Sales GmbH.\nDatenschutz\nKehrwieder 6\n20457 Hamburg",
-    "email": "datenschutzbeauftragter@stage-entertainment.de ",
-    "web": "https://www.stage-entertainment.de/service/datenschutz.html",
+    "name": "STAGE ENTERTAINMENT Marketing & Sales GmbH",
+    "address": "Kehrwieder 6\n20457 Hamburg\nDeutschland",
+    "email": "datenschutzbeauftragter@stage-entertainment.de",
+    "web": "https://www.stage-entertainment.de/",
     "sources": [
         "https://www.stage-entertainment.de/service/datenschutz.html",
         "https://www.stage-entertainment.com/companies",
         "https://github.com/datenanfragen/data/pull/959"
     ],
-    "required-elements": [
-        {
-            "type": "input"
-        }
-    ],
-    "comments": [
-        "Ob für jede Ländergesellschaft noch ein separater DSB bestellt ist, müsste noch einmal überprüft werden."
-    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
