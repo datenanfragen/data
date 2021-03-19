@@ -1,0 +1,19 @@
+{
+    "slug": "mapcite",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "excel maps",
+    "address": "Sunrise Parkway Milton Keynes",
+    "phone": "01604981704",
+    "email": "vinhcity2097@gmail.com",
+    "web": "https://www.mapcite.com/excel-addin/",
+    "sources": [
+        "https://www.mapcite.com/excel-addin/",
+        "https://github.com/datenanfragen/data/pull/1039"
+    ],
+    "quality": "verified"
+}
