@@ -6,13 +6,16 @@
     "categories": [
         "school"
     ],
-    "name": "excel maps",
-    "address": "Sunrise Parkway Milton Keynes",
-    "phone": "01604981704",
-    "email": "vinhcity2097@gmail.com",
-    "web": "https://www.mapcite.com/excel-addin/",
+    "name": "TheOblong Global Ltd.",
+    "runs": [
+        "Mapcite"
+    ],
+    "address": "Northampton Science Park\nKings Park Road\nMoulton Park\nNorthampton\nNN3 6LG\nUnited Kingdom",
+    "phone": "+44 1604 654154",
+    "email": "info@mapcite.com",
+    "web": "https://www.mapcite.com/",
     "sources": [
-        "https://www.mapcite.com/excel-addin/",
+        "https://www.mapcite.com/privacy/",
         "https://github.com/datenanfragen/data/pull/1039"
     ],
     "quality": "verified"
