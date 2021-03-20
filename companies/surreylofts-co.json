@@ -3,16 +3,13 @@
     "relevant-countries": [
         "gb"
     ],
-    "categories": [
-        "insurance"
-    ],
     "name": "Surrey Lofts Group Limited",
-    "address": "317 Molesey Road, Walton On Thames, Surrey",
-    "phone": "01932 269002",
+    "address": "317 Molesey Road\nWalton On Thames\nSurrey\nKT12 3PA\nUnited Kingdom",
+    "phone": "+44 1932 269002",
     "email": "sales@surreylofts.co.uk",
     "web": "https://www.surreylofts.co.uk/",
     "sources": [
-        "https://www.surreylofts.co.uk/",
+        "https://www.surreylofts.co.uk/privacy-policy/",
         "https://github.com/datenanfragen/data/pull/1037"
     ],
     "quality": "verified"
