@@ -1,0 +1,22 @@
+{
+    "slug": "jiko",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Jiko",
+    "address": "Rode 6\n180 city\nGermany",
+    "phone": "+40 782 293 458",
+    "fax": "+40 889 012 435",
+    "email": "lolopo189@gmail.com",
+    "required-elements": [
+        {
+            "type": "input"
+        }
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1040"
+    ]
+}
