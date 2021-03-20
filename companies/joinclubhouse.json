@@ -10,14 +10,15 @@
     "runs": [
         "Clubhouse"
     ],
-    "address": "5335 Lawton Avenue\nOakland\nCalifornia 94618\nUnited States of America",
+    "address": "548 Market St\nPMB 72878\nSan Francisco, California 94104-5401\nUnited States of America",
     "email": "support@alphaexplorationco.com",
     "web": "https://www.joinclubhouse.com/",
     "sources": [
         "https://www.notion.so/Privacy-Policy-cd4b415950204a46819478b31f6ce14f",
         "https://github.com/datenanfragen/data/pull/934",
-        "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=04563531-27853656",
-        "https://github.com/datenanfragen/data/pull/937"
+        "https://github.com/datenanfragen/data/pull/937",
+        "https://github.com/datenanfragen/data/pull/995",
+        "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=04563531-29903880"
     ],
     "quality": "verified"
 }
