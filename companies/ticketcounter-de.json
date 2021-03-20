@@ -1,0 +1,31 @@
+{
+    "slug": "ticketcounter-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Ticketcounter OS GmbH",
+    "address": "Alt-Heerdt 104\n40549 Düsseldorf\nGermany",
+    "phone": "+49 211 93670280",
+    "email": "kontakt@ticketcounter.eu",
+    "web": "https://ticketcounter.eu",
+    "sources": [
+        "https://ticketcounter.eu/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/1027"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "quality": "verified"
+}
