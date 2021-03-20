@@ -7,19 +7,20 @@
         "nonprofit",
         "school"
     ],
-    "name": "Bildung & Begabung",
+    "name": "Bildung & Begabung gemeinnützige GmbH",
     "runs": [
-        "Schülerakademie"
+        "Deutsche SchülerAkademie"
     ],
-    "address": "Bildung & Begabung gemeinnützige GmbH\nKortrijker Straße 1\n53177 Bonn",
+    "address": "Kortrijker Straße 1\n53177 Bonn\nDeutschland",
     "phone": "+49 228 959150",
     "fax": "+49 228 9591519",
-    "email": "info@bildung-und-begabung.de",
+    "email": "datenschutz@riske-it.de",
     "web": "https://www.bildung-und-begabung.de",
     "sources": [
-        "https://www.deutsche-schuelerakademie.de/datenschutzerklaerung",
+        "https://www.schuelerakademien.de/datenschutz",
         "https://www.bildung-und-begabung.de/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/pull/1017"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
