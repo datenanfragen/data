@@ -1,0 +1,24 @@
+{
+    "slug": "barkandrock",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Proper Goose Limited",
+    "runs": [
+        "Bark & Rock (barkandrock.com)"
+    ],
+    "address": "Unit 1\nPool Close\nWest Molesey\nKT8 2HW\nUnited Kingdom",
+    "phone": "+44 20 3968 2090",
+    "email": "hello@barkandrock.com",
+    "web": "https://www.barkandrock.com/",
+    "sources": [
+        "https://www.barkandrock.com/pages/terms-conditions",
+        "https://www.barkandrock.com/pages/privacy-policy",
+        "https://www.barkandrock.com/pages/contact",
+        "https://github.com/datenanfragen/data/pull/1045"
+    ],
+    "quality": "verified"
+}
