@@ -1,0 +1,19 @@
+{
+    "slug": "barkandrock",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Bark & Rock",
+    "address": "Pool Close Unit 1, Delf House West Molesey, Surrey KT8 2HW, GB",
+    "phone": "+44 20 3968 2090",
+    "email": "hello@barkandrock.com",
+    "web": "https://www.barkandrock.com/",
+    "sources": [
+        "https://www.barkandrock.com/blogs/news",
+        "https://github.com/datenanfragen/data/pull/1045"
+    ],
+    "quality": "verified"
+}
