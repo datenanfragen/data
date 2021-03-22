@@ -1,0 +1,20 @@
+{
+    "slug": "marketinsightsolutions",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Market Insight Solutions",
+    "runs": [
+        null
+    ],
+    "address": "125 W Missouri Avenue Midland, Texas, 79701",
+    "phone": "+1 432 203 2899",
+    "web": "https://marketinsightsolutions.com/",
+    "sources": [
+        "Website",
+        "https://github.com/datenanfragen/data/pull/1048"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
