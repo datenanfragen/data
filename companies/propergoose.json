@@ -1,0 +1,39 @@
+{
+    "slug": "propergoose",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Proper Goose Ltd",
+    "runs": [
+        "Proper Goose",
+        "Bark and Rock",
+        "Foundry Fifty"
+    ],
+    "address": "Delf House, Unit 1\nPool Close\nWest Molesey\nSurrey KT8 2HW\nUnited Kingdom",
+    "phone": "+44 20 8941 3481",
+    "email": "hello@propergoose.com",
+    "web": "https://www.propergoose.com/",
+    "sources": [
+        "https://www.propergoose.com/pages/terms-policies",
+        "https://www.barkandrock.com/pages/privacy-policy",
+        "https://www.foundryfifty.com/pages/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/1045",
+        "https://github.com/datenanfragen/data/pull/1047"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "quality": "verified"
+}
