@@ -1,0 +1,19 @@
+{
+    "slug": "propergoose",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "personalisedgifts",
+    "address": "Delf House, Unit 1, Pool Close, West Molesey, Surrey, KT8 2HW",
+    "phone": "02089413481",
+    "email": "vinhcity2.09.7@gmail.com",
+    "web": "https://www.propergoose.com/",
+    "sources": [
+        "https://www.propergoose.com/",
+        "https://github.com/datenanfragen/data/pull/1047"
+    ],
+    "quality": "verified"
+}
