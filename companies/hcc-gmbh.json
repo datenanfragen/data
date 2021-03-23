@@ -1,0 +1,21 @@
+{
+    "slug": "hcc-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "HCC GmbH",
+    "address": "Airport Center (Haus C),\nFlughafenstraße 52a\n\n22335 Hamburg",
+    "fax": "+49 40 53299100",
+    "email": "info-hcc@email.de",
+    "web": "https://www.hcc-gmbh.net",
+    "sources": [
+        "https://www.hcc-gmbh.net/impressum",
+        "https://www.hcc-gmbh.net/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1052"
+    ],
+    "suggested-transport-medium": "fax",
+    "quality": "verified"
+}
