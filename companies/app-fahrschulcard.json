@@ -1,0 +1,17 @@
+{
+    "slug": "app-fahrschulcard",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Deutscher Fahrschulverlag GmbH",
+    "address": "Luise-Ullrich-Straße 8\n82031 Grünwald\nDeutschland",
+    "email": "datenschutz@d-fv.de",
+    "web": "https://app.fahrschulcard.de/",
+    "sources": [
+        "https://app.fahrschulcard.de/imprint",
+        "https://app.fahrschulcard.de/privacy",
+        "https://github.com/datenanfragen/data/pull/1051"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
