@@ -1,0 +1,18 @@
+{
+    "slug": "laptab-com",
+    "relevant-countries": [
+        "pt",
+        "lv"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "laptab",
+    "address": "karachi",
+    "web": "https://www.laptab.com.pk/mobile-accessories",
+    "sources": [
+        "https://www.laptab.com.pk/mobile-accessories",
+        "https://github.com/datenanfragen/data/pull/1053"
+    ],
+    "quality": "verified"
+}
