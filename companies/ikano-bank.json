@@ -1,0 +1,20 @@
+{
+    "slug": "ikano-bank",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Ikano Bank",
+    "runs": [
+        "Forderungsmanagement"
+    ],
+    "address": "Postfach 420162\n65102 Wiesbaden",
+    "phone": "06122 999240",
+    "fax": "06122 999241",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1056"
+    ]
+}
