@@ -1,0 +1,20 @@
+{
+    "slug": "wirecloud",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "WIRECLOUD",
+    "address": "Im Mediapark 5\n50670 Kön\nDeutschland",
+    "phone": "0221 99999936 ",
+    "fax": "0221 99999937",
+    "email": "beratung@wirecloud.de",
+    "web": "https://www.wirecloud.de/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1055"
+    ]
+}
