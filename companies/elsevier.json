@@ -1,0 +1,19 @@
+{
+    "slug": "elsevier",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Elsevier",
+    "address": "Data Protection Officer\nElsevier Limited\nThe Boulevard\nLangford Lane\nKidlington\nOxford OX5 1GB\nUnited Kingdom",
+    "email": "DPO@elsevier.com",
+    "web": "https://www.elsevier.com/",
+    "sources": [
+        "https://www.elsevier.com/legal/privacy-policy-de-de",
+        "https://github.com/datenanfragen/data/pull/1057"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
