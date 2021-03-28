@@ -1,0 +1,20 @@
+{
+    "slug": "domoguide",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Domoguide",
+    "address": "6 chemin de Baudin, B104 – 33320 Le Taillan-Médoc",
+    "email": "admin@domoguide.com",
+    "web": "https://www.domoguide.com",
+    "sources": [
+        "https://www.domoguide.com/conditions-generales-dutilisation/",
+        "https://github.com/datenanfragen/data/pull/1058"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
