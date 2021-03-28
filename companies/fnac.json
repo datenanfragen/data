@@ -22,7 +22,8 @@
     "sources": [
         "https://www.fnac.com/Help/donneesPersonnelles",
         "https://www.fnac.com/entreprise/mentions_legales.aspx",
-        "https://github.com/datenanfragen/data/issues/436"
+        "https://github.com/datenanfragen/data/issues/436",
+        "https://github.com/datenanfragen/data/pull/1059"
     ],
     "required-elements": [
         {
