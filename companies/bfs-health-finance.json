@@ -1,24 +1,26 @@
 {
     "slug": "bfs-health-finance",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "credit agency"
     ],
     "name": "BFS health finance GmbH",
     "address": "Carl-Bertelsmann-Straße 270\n33311 Gütersloh\nDeutschland",
-    "phone": "+49 800 447 32 54",
-    "fax": "+49 231 945 362 888",
+    "phone": "+49 800 4473254",
+    "fax": "+49 231 945362888",
     "email": "datenschutz@meinebfs.de",
     "web": "https://meinebfs.de/",
     "sources": [
         "https://meinebfs.de/datenschutz/",
-        "https://meinebfs.de/impressum/"
+        "https://meinebfs.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1061"
     ],
-    "comments": [
-        "Die BFS health finance GmbH selbst sitzt: Hülshof 24, 44369 Dortmund, Deutschland."
-    ],
-    "relevant-countries": [
-        "de"
-    ],
+    "needs-id-document": true,
     "suggested-transport-medium": "email",
+    "comments": [
+        "Die BFS health finance GmbH selbst sitzt: Hülshof 24, 44369 Dortmund, Deutschland.\n\nEntweder geschwärzte Ausweiskopie oder BFS-Nummer wird gefordert."
+    ],
     "quality": "verified"
 }
