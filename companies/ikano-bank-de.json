@@ -1,19 +1,21 @@
 {
-    "slug": "ikano-bank",
+    "slug": "ikano-bank-de",
     "relevant-countries": [
-        "se"
+        "at",
+        "de"
     ],
     "categories": [
         "finance"
     ],
-    "name": "Ikano Bank AB",
-    "address": "Box 21066\n200 21 Malmö\nSweeden",
-    "phone": "+46 476 880 00",
-    "email": "dataskydd@ikano.se",
-    "web": "https://ikanobank.se",
+    "name": "Ikano Bank AB - Zweigniederlassung Deutschland",
+    "address": "Otto von Guericke Ring 15\n65205 Wiesbaden\nDeutschland",
+    "phone": "+49 6122 9990",
+    "fax": "+49 6122 999313",
+    "email": "kontakt@ikano.de",
+    "web": "https://ikanobank.de",
     "sources": [
-        "https://ikanobank.se/personuppgifter",
-        "https://ikanobank.se/-/media/sweden/digitalstore/b2c/footer/information_om_behandling_av_personuppgifter.pdf?la=sv-se",
+        "https://ikanobank.de/impressum",
+        "https://ikanobank.de/service/sicherheit?tab=3",
         "https://github.com/datenanfragen/data/pull/1056"
     ],
     "required-elements": [
@@ -28,6 +30,5 @@
             "optional": false
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

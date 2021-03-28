@@ -1,19 +1,18 @@
 {
-    "slug": "ikano-bank",
+    "slug": "ikano-bank-dk",
     "relevant-countries": [
-        "se"
+        "dk"
     ],
     "categories": [
         "finance"
     ],
-    "name": "Ikano Bank AB",
-    "address": "Box 21066\n200 21 Malmö\nSweeden",
-    "phone": "+46 476 880 00",
-    "email": "dataskydd@ikano.se",
-    "web": "https://ikanobank.se",
+    "name": "Ikano Bank DK",
+    "address": "Stationsparken 24\n2600 Glostrup\nDenmark",
+    "phone": "+45 43 55 66 00",
+    "email": "persondatabeskyttelse@ikano.dk",
+    "web": "https://ikanobank.dk/",
     "sources": [
-        "https://ikanobank.se/personuppgifter",
-        "https://ikanobank.se/-/media/sweden/digitalstore/b2c/footer/information_om_behandling_av_personuppgifter.pdf?la=sv-se",
+        "https://ikanobank.dk/persondatapolitik",
         "https://github.com/datenanfragen/data/pull/1056"
     ],
     "required-elements": [
