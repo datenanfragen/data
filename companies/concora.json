@@ -1,0 +1,15 @@
+{
+    "slug": "concora",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "concora",
+    "address": "13010 Morris Road Building 1, Suite 650 Alpharetta, Ga 30004",
+    "phone": "8774369031",
+    "email": "concora678@gmail.com",
+    "web": "https://concora.com",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1062"
+    ]
+}
