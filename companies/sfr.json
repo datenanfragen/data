@@ -1,0 +1,23 @@
+{
+    "slug": "sfr",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "SFR",
+    "runs": [
+        "Red by SFR"
+    ],
+    "address": "Service client SFR Données personnelles  \nTSA 10101 - 69947 LYON CEDEX 20",
+    "web": "https://www.sfr.fr",
+    "sources": [
+        "https://assistance.sfr.fr/nc/acces-a-vos-donnees-personnelles.html",
+        "https://www.sfr.fr/politique-de-protection-des-donnees-personnelles.html",
+        "https://github.com/datenanfragen/data/pull/1064"
+    ],
+    "needs-id-document": true,
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
