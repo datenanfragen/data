@@ -1,0 +1,17 @@
+{
+    "slug": "hireright",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "HireRight",
+    "address": "3349 Michelson Drive, \nSuite 150, \nIrvine, \nCA 92612\nUSA",
+    "phone": "+44 808 196 2039",
+    "email": " dpo@hireright.com",
+    "web": "https://www.hireright.com/",
+    "sources": [
+        "https://www.hireright.com/",
+        "https://github.com/datenanfragen/data/pull/1065"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
