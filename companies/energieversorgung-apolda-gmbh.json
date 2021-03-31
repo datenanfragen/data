@@ -1,0 +1,19 @@
+{
+    "slug": "energieversorgung-apolda-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Energieversorgung Apolda GmbH",
+    "address": "Heidenberg 52, 99510 Apolda",
+    "phone": "036445028280",
+    "email": "eva@evapolda.de",
+    "sources": [
+        "Website",
+        "https://github.com/datenanfragen/data/pull/1066"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
