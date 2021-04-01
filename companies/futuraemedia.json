@@ -1,0 +1,16 @@
+{
+    "slug": "futuraemedia",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Futurae Media Ltd",
+    "address": "Kemp House City Road, 152 – 160\nLondon, England, EC1V 2NX\n",
+    "phone": "+44 7451 204362",
+    "email": "info@futuraemedia.com",
+    "web": "https://www.futuraemedia.com",
+    "sources": [
+        "www.futuraemedia.com",
+        "https://github.com/datenanfragen/data/pull/1069"
+    ],
+    "quality": "verified"
+}
