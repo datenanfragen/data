@@ -1,0 +1,18 @@
+{
+    "slug": "doctorbox",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "DoctorBox GmbH",
+    "address": "DoctorBox GmbH\nKnesebeckstr. 59-61\n10719 Berlin ",
+    "phone": "+49 30 34045468",
+    "web": "https://www.doctorbox.de/",
+    "sources": [
+        "https://www.doctorbox.de/",
+        "https://github.com/datenanfragen/data/pull/1070"
+    ],
+    "quality": "verified"
+}
