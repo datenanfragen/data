@@ -7,12 +7,31 @@
         "health"
     ],
     "name": "DoctorBox GmbH",
-    "address": "DoctorBox GmbH\nKnesebeckstr. 59-61\n10719 Berlin ",
+    "address": "Knesebeckstr. 59-61\n10719 Berlin\nDeutschland",
     "phone": "+49 30 34045468",
+    "email": "datenschutz@doctorbox.de",
     "web": "https://www.doctorbox.de/",
     "sources": [
-        "https://www.doctorbox.de/",
+        "https://www.doctorbox.de/datenschutz.jsp",
         "https://github.com/datenanfragen/data/pull/1070"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Geburtsdatum",
+            "type": "birthdate",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
