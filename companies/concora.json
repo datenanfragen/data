@@ -3,13 +3,27 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "concora",
-    "address": "13010 Morris Road Building 1, Suite 650 Alpharetta, Ga 30004",
-    "phone": "8774369031",
-    "email": "concora678@gmail.com",
+    "name": "VIMtrek, LLC",
+    "runs": [
+        "Concora"
+    ],
+    "address": "13010 Morris Road\nBuilding 1, Suite 650\nAlpharetta GA 30004\nUnited States of America",
+    "email": "info@concora.com",
     "web": "https://concora.com",
-    "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1062"
-    ]
+        "https://concora.com/privacy-policy/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "quality": "verified"
 }
