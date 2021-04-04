@@ -23,8 +23,12 @@
         "https://legal.ubi.com/LegalInfoUbisoftEMEA/de-DE",
         "https://legal.ubi.com/privacypolicy/de-DE",
         "https://support.ubisoft.com/de-DE/Contact",
-        "https://bluebyte.ubisoft.com/de/imprint/"
+        "https://bluebyte.ubisoft.com/de/imprint/",
+        "https://support.ubisoft.com/en-US/Article/000063467",
+        "https://github.com/datenanfragen/data/pull/1067"
     ],
-    "suggested-transport-medium": "email",
+    "comments": [
+        "You can also fill out the GDPR request form here:\nhttps://support.ubisoft.com/Cases/New?game=50003&platform=29&category=389&hidefields=all&gf=1&af=1"
+    ],
     "quality": "verified"
 }
