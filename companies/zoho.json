@@ -44,7 +44,8 @@
     "web": "https://www.zoho.com",
     "sources": [
         "https://www.zoho.com/gdpr.html",
-        "https://www.zoho.com/privacy.html"
+        "https://www.zoho.com/privacy.html",
+        "https://www.zoho.com/contactus.html"
     ],
     "required-elements": [
         {
