@@ -1,0 +1,18 @@
+{
+    "slug": "claimexperts4u",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Claim Experts 4 U",
+    "address": "1250 Chester Road, Birmingham, B35 7AZ",
+    "phone": "01872309570",
+    "web": "https://claimexperts4u.com/",
+    "sources": [
+        "https://claimexperts4u.com/",
+        "https://github.com/datenanfragen/data/pull/1073"
+    ],
+    "quality": "verified"
+}
