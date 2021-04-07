@@ -1,0 +1,22 @@
+{
+    "slug": "piraeusbank",
+    "relevant-countries": [
+        "gr"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "PIRAEUS BANK S.A.",
+    "address": "4, Amerikis St.\n10564 Athens\nGreece",
+    "phone": "+30 210 3335 000",
+    "fax": "+30 210 3335 080",
+    "email": "DPOOﬃce@piraeusbank.gr",
+    "web": "https://www.piraeusbank.gr/",
+    "sources": [
+        "https://www.piraeusbank.gr/el/Idiwtes/~/media/Gr/Idiwtes/Files/gdpr/Data-Protection-Office-Contact-Details.pdf",
+        "https://www.piraeusbank.gr/el/Idiwtes/Epikoinonia-Eksypiretisi-Pelaton",
+        "https://www.piraeusholdings.gr/en/group-profile/groups-presence/piraeus-bank"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
