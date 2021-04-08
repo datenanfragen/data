@@ -1,0 +1,24 @@
+{
+    "slug": "onesource",
+    "relevant-countries": [
+        "be",
+        "nl",
+        "gb"
+    ],
+    "name": "One Source Consulting B.V.",
+    "runs": [
+        "TELVEL IT Solutions Pvt Ltd.",
+        "One Source Consulting SPRL.",
+        "One Source Consulting Limited"
+    ],
+    "address": "Bezoekadres Flight Forum 40\n5657DB Eindhoven",
+    "phone": "+31 40 808 1192",
+    "email": "info@onesource.nl",
+    "web": "https://www.onesource.one/",
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1079"
+    ]
+}
