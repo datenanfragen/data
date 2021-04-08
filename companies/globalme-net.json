@@ -3,14 +3,15 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "Globalme Localization Inc.",
+    "name": "Summa Linguae Technologies",
     "address": "1008 Homer Street #310 \nVancouver\nBC V6B 2X1\nCanada",
     "phone": "+1 855 438 5106",
-    "email": "info@globalme.net",
-    "web": "https://www.globalme.net/",
+    "email": "office_us@summalinguae.com",
+    "web": "https://summalinguae.com/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/187",
-        "https://www.globalme.net/privacy-policy"
+        "https://summalinguae.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/1080"
     ],
     "quality": "verified"
 }
