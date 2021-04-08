@@ -1,0 +1,25 @@
+{
+    "slug": "roundyearfun",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Round Year Fun",
+    "address": "None Listed",
+    "email": "support@roundyearfun.org",
+    "web": "https://roundyearfun.org/",
+    "sources": [
+        "https://roundyearfun.org/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/1081"
+    ],
+    "required-elements": [
+        {
+            "desc": "Twitter Username",
+            "type": "name",
+            "optional": false
+        }
+    ],
+    "quality": "verified"
+}
