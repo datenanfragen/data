@@ -1,22 +1,19 @@
 {
-    "slug": "spezialit-ten-haus-g-schulteis-gmbh",
+    "slug": "spezi-haus-de",
     "relevant-countries": [
         "de"
     ],
     "categories": [
-        "ads"
+        "ads",
+        "commerce"
     ],
     "name": "Spezialitäten-Haus G. Schulteis GmbH",
-    "address": "Spezialitäten-Haus G. Schulteis GmbH\nz.Hdn. Abteilung Datenschut\nBachstraße 22 \n52066 Aachen",
+    "address": "Bachstraße 22\n52066 Aachen\nDeutschland",
+    "email": "info@spezi-haus.de",
+    "web": "https://www.spezi-haus.de",
     "sources": [
         "https://www.spezi-haus.de/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/pull/1084"
-    ],
-    "required-elements": [
-        {
-            "desc": "Werbung",
-            "type": "address"
-        }
     ],
     "quality": "verified"
 }
