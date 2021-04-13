@@ -36,15 +36,18 @@
     "runs": [
         "Tinder (tinder.com)",
         "Match.com (match.com)",
-        "Match Group, LLC"
+        "Match Group, LLC",
+        "OkCupid (okcupid.com)"
     ],
-    "address": "WeWork Charlemont Exchange\n42 Charlemont Street\nDublin 2\nD02 R593\nIreland",
+    "address": "MTCH Technology Services Limited\nBlock D, Iveagh Court\nHarcourt Road, \nDublin 2\nIreland\n",
     "email": "privacyinquiries@gotinder.com",
     "web": "http://mtch.com",
     "sources": [
-        "https://www.gotinder.com/privacy",
+        "https://policies.tinder.com/privacy/intl/en#who-we-are",
         "http://mtch.com/brands/",
-        "https://github.com/datenanfragen/data/issues/589"
+        "https://github.com/datenanfragen/data/issues/589",
+        "https://www.okcupid.com/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/1085"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
