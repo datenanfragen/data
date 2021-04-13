@@ -1,0 +1,21 @@
+{
+    "slug": "scaleway",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Scaleway",
+    "address": "SCALEWAY\nInformatique et Libertés\n75371 Paris Cedex 08\nFRANCE",
+    "phone": "+33 1 84 13 00 00",
+    "fax": "+33 899 19 37 75",
+    "email": "privacy@scaleway.com",
+    "web": "https://www.scaleway.com",
+    "sources": [
+        "https://www.scaleway.com/fr/conditions/",
+        "https://github.com/datenanfragen/data/pull/1086"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
