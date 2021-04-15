@@ -1,0 +1,20 @@
+{
+    "slug": "muehlenkreiskliniken",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Mühlenkreiskliniken",
+    "address": "Mühlenkreiskliniken AöR\nHans-Nolte-Straße 1\n32429 Minden",
+    "phone": "0571/7900",
+    "fax": "0571/790292929",
+    "email": "info@muehlenkreiskliniken.de",
+    "web": "https://www.muehlenkreiskliniken.de/",
+    "sources": [
+        "https://www.muehlenkreiskliniken.de/mkk/impressum.html#datenschutz",
+        "https://github.com/datenanfragen/data/pull/1088"
+    ],
+    "quality": "verified"
+}
