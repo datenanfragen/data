@@ -13,7 +13,8 @@
     "web": "https://momentum.studio",
     "sources": [
         "https://github.com/datenanfragen/data/issues/202",
-        "https://github.com/datenanfragen/data/pull/1072"
+        "https://github.com/datenanfragen/data/pull/1072",
+        "https://find-and-update.company-information.service.gov.uk/company/11326956"
     ],
     "required-elements": [
         {
