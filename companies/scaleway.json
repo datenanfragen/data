@@ -1,0 +1,25 @@
+{
+    "slug": "scaleway",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Scaleway S.A.S",
+    "address": "BP 438\n75371 Paris Cedex 08\nFrance",
+    "phone": "+33 1 84 13 00 00",
+    "fax": "+33 899 19 37 75",
+    "email": "privacy@scaleway.com",
+    "web": "https://www.scaleway.com",
+    "sources": [
+        "https://www.scaleway.com/fr/conditions/",
+        "https://github.com/datenanfragen/data/pull/1086",
+        "https://www.scaleway.com/en/legal-notice/"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Fax number is not free: 1.35 € per call, then 0.34 €/min"
+    ],
+    "quality": "verified"
+}
