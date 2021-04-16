@@ -1,0 +1,17 @@
+{
+    "slug": "digital-pressence",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "digital pressence GmbH",
+    "address": "Enzianstraße 2\n82319 Starnberg\nDeutschland",
+    "web": "https://digital-pressence.de/",
+    "sources": [
+        "https://digital-pressence.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1087"
+    ],
+    "quality": "verified"
+}
