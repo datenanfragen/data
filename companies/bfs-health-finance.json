@@ -20,13 +20,17 @@
     ],
     "required-elements": [
         {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
             "desc": "BFS-Nummer",
             "type": "input",
             "optional": true
         }
     ],
     "comments": [
-        "Die BFS health finance GmbH selbst sitzt: Hülshof 24, 44369 Dortmund, Deutschland.\n\nEntweder geschwärzte Ausweiskopie oder BFS-Nummer wird gefordert."
+        "Die BFS health finance GmbH selbst sitzt: Hülshof 24, 44369 Dortmund, Deutschland."
     ],
     "quality": "verified"
 }
