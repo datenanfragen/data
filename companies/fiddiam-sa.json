@@ -1,0 +1,35 @@
+{
+    "slug": "fiddiam-sa",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Fiddiam SA",
+    "runs": [
+        "Alternativ' Nutrition",
+        "Alternativ' Intimité",
+        "Alternativ' Bien-être",
+        "Alternativ' Fashion",
+        "Alternativ' Life",
+        "Alternativ' Sport",
+        "Nutrilife",
+        "Top Form",
+        "LUXdiscount",
+        "XXLdistribution",
+        "BIFORM SANTÉ",
+        "BIFORM"
+    ],
+    "address": "25, Rue des Bruyères\nL-1274 Howald\nLuxembourg",
+    "phone": "+352 26 19 68 11",
+    "email": "privacy@fiddiam.net",
+    "web": "https://english.fiddiam.net/welcome/",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1076",
+        "https://data-protection.fiddiam.net/",
+        "https://opencorporates.com/companies/lu/B44695"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
