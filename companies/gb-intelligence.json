@@ -1,0 +1,22 @@
+{
+    "slug": "gb-intelligence",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads",
+        "school"
+    ],
+    "name": "GB Intelligence Ltd.",
+    "runs": [
+        "Global CIO Institute"
+    ],
+    "address": "8-10 Griffin Street\nNewport\nNP20 1GL\nUnited Kingdom",
+    "email": "marketing@cio-institute.com",
+    "web": "https://www.cio-institute.com",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1078",
+        "https://www.cio-institute.com/privacy-policy"
+    ],
+    "quality": "verified"
+}
