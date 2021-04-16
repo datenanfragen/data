@@ -11,14 +11,13 @@
         "One Source Consulting SPRL.",
         "One Source Consulting Limited"
     ],
-    "address": "Bezoekadres Flight Forum 40\n5657DB Eindhoven",
+    "address": "Bezoekadres Flight Forum 40\n5657DB Eindhoven\nNetherlands",
     "phone": "+31 40 808 1192",
     "email": "info@onesource.nl",
     "web": "https://www.onesource.one/",
-    "needs-id-document": false,
-    "suggested-transport-medium": "email",
-    "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1079"
-    ]
+        "https://github.com/datenanfragen/data/pull/1079",
+        "https://www.onesource.one/contact-us/#netherlands"
+    ],
+    "quality": "verified"
 }
