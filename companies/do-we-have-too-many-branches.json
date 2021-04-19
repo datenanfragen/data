@@ -1,0 +1,11 @@
+{
+    "slug": "do-we-have-too-many-branches",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "do we have too many branches?",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1093"
+    ]
+}
