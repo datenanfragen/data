@@ -1,0 +1,10 @@
+Poštovani,
+
+{request_date} poslao/poslala sam vam zahtjev na osnovi članka {request_article} Opće uredbe o zaštiti podataka.
+{Opis problema, npr.: Nažalost, do sada nisam primio/primila odgovor. Prema Općoj uredbi o zaštiti podataka, članak 12(3), prva rečenica, time je premašen rok od mjesec dana.}
+
+Molim vas da po primitku ove opomene odgovorite na moj zahtjev u roku od dva tjedna. Ako ne odgovorite na moj zahtjev u navedenom roku, zadržavam si pravo poduzeti pravne korake protiv vas i podnijeti žalbu nadležnom nadzornom tijelu.
+
+Hvala unaprijed.
+
+S poštovanjem,

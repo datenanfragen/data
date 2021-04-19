@@ -1,0 +1,19 @@
+Poštovani,
+
+ovime zahtijevam ispravljanje ili dopunavanje netočnih podataka koji se odnose na mene, u skladu s člankom 16. Opće uredbe o zaštiti podataka.
+
+Molim sljedeće promjene:
+{rectification_data}
+Ako ste dotične osobne podatke proslijedili jednom ili više primatelja sukladno članku 4(9) Opće uredbe o zaštiti podataka, morate obavijestiti sve primatelje o mom zahtjevu za ispravljane podataka u skladu s člankom 19 Opće uredbe o zaštiti podataka. Molim vas da me obavijestite o tim primateljima.
+
+Moj zahtjev izričito uključuje [runs>sljedeće kao i ]sve ostale usluge i poduzeća za koje ste određeni kao voditelj obrade, kako je određeno u članku 4(7) Opće uredbe o zaštiti podataka [runs>: {runs_list}].
+
+Na osnovi članka 12(3) Opće uredbe o zaštiti podataka, morate mi što prije potvrditi ispravljanje podataka, najkasnije u roku od mjesec dana od primitka zahtjeva.
+[has_fields>
+Moji identifikacijski podaci:
+{id_data}]
+Ako ne odgovorite na moj zahtjev u navedenom roku, zadržavam si pravo poduzeti pravne korake protiv vas i podnijeti žalbu nadležnom nadzornom tijelu.
+
+Hvala unaprijed.
+
+S poštovanjem,

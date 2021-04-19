@@ -1,0 +1,13 @@
+Poštovani,
+
+ovime podnosim žalbu u skladu s člankom 77. GDPR-a. {request_date} poslao/poslala sam zahtjev na osnovi članka {request_article} GDPR-a sljedećem voditelju obrade:
+{request_recipient_address}
+
+{Opis prekršaja voditelja obrade i tvoji poduzeti koraci (npr. opomene ili druga korespondencija, uključujući priznanice)}.
+
+Zbog toga podnosim ovu žalbu. Molim vas da voditelj obrade provjeri ovu praksu i da se pridržava mog zahtjeva.
+
+Ako trebate daljnje podatke, slobodno me kontaktirajte putem: {način kontaktiranja, npr. email, poštanska adresa, telefonski broj}. [opcionalno: Molim vas da te podatke držite privatnima kako biste poštivali moju anonimnost.]
+Hvala unaprijed.
+
+S poštovanjem,

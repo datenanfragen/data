@@ -1,0 +1,32 @@
+Poštovani,
+
+ovim putem zahtijevam pristup prema članku 15. GDPR-a. Molim vas da potvrdite, obrađujete li osobne podatke (kako je definirano u članku 4. stavke 1. i 2. GDPR-a) koji se tiču mene.
+
+U slučaju da ih obrađujete, ovim putem tražim pristup sljedećim podacima sukladno članku 15. GDPR-a:
+1. <italic>svi</italic> osobni podaci koji se tiču mene i koje ste spremili, uključujući sve potencijalne pseudonimizirane podatke o meni prema članku 4. stavka 5. GDPR-a;
+2. svrha obrade;
+3. dotične kategorije osobnih podataka;
+4. primatelji ili kategorije primatelja kojima su osobni podaci otkriveni ili će im biti otkriveni;
+5. gdjegod moguće, predviđeno razdoblje čuvanja osobnih podataka ili, ako nije moguće, kriteriji za određivanje tog razdoblja;
+6. ako se osobni podaci ne prikupljaju od subjekta podataka, sve dostupne podatke o njihovom izvoru;
+7. postojanje automatiziranog odlučivanja, uključujući izradu profila na osnovi članka 22. stavka 1. i 4. GDPR-a, te barem u tim slučajevima, razumljive informacije o uključenoj logici, kao i značaju i predviđenim posljedicama takve obrade za mene.
+
+U slučaju da obrađujete anonimne podatke koji se tiču mene, molim vas da me na lako razumljiv način o tome obavijestite i da mi objasnite postupak.
+
+Ako moje osobne podatke prenosite u treću zemlju ili međunarodnu organizaciju, zahtijevam da me obavijestite o odgovarajućim zaštitnim mjerama u skladu s člankom 46. GDPR-a u vezi s prijenosom.
+[data_portability>
+Molim vas da mi omogućite pristup osobnim podacima u strukturiranom, uobičajenom i strojno čitljivom formatu, kako je utvrđeno u članku 20. stavka 1. GDPR-a.
+]
+Moj zahtjev izričito uključuje [runs>sljedeće kao i ]sve druge usluge i poduzeća za koje ste voditelj obrade, kako je definirano u članku 4. stavka 7. GDPR-a [runs>: {runs_list}].
+
+Kao što je utvrđeno u članku 12. stavka 3. GDPR-a, tražene podatke morate mi dostaviti bez odgađanja, a u svakom slučaju u roku od mjesec dana po primitku zahtjeva. Na osnovi članka 15. stavka 3. GDPR-a, na ovaj zahtjev morate odgovoriti bez naknade.
+
+Molim vas da me obavijestite o potrebnim identifikacijskim podacima (ID kolačića, ID uređaja oglašavanja, itd.) te da mi objasnite kako doći do tih podataka.
+[has_fields>
+Moji identifikacijski podaci:
+{id_data}
+Ako ne odgovorite na moj zahtjev u navedenom roku, zadržavam si pravo poduzeti pravne korake protiv vas i podnijeti žalbu nadležnom nadzornom tijelu.
+
+Hvala unaprijed.
+
+S poštovanjem,
