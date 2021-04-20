@@ -1,0 +1,19 @@
+{
+    "slug": "elyflowers-co",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Garden Gate Flowers Ely Ltd",
+    "address": "30 St. Mary's Street, Ely, Cambridgeshire",
+    "phone": "01353 663 888",
+    "email": "shop@elyflowers.co.uk",
+    "web": "https://www.elyflowers.co.uk/",
+    "sources": [
+        "https://www.elyflowers.co.uk/",
+        "https://github.com/datenanfragen/data/pull/1094"
+    ],
+    "quality": "verified"
+}
