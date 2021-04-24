@@ -16,7 +16,8 @@
         "https://www.joe-club.at/datenschutz",
         "https://www.joe-club.at/datenschutzerklärungweb",
         "https://www.joe-club.at/impressum",
-        "https://github.com/datenanfragen/data/issues/254"
+        "https://github.com/datenanfragen/data/issues/254",
+        "https://github.com/datenanfragen/data/pull/1096"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
