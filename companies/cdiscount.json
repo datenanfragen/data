@@ -18,16 +18,18 @@
     "sources": [
         "https://github.com/datenanfragen/data/issues/437",
         "https://www.cdiscount.com/vie-privee-et-cookies.html",
-        "https://i6.cdscdn.com/resources/imagesok/cgv/ml.pdf"
+        "https://i6.cdscdn.com/resources/imagesok/cgv/ml.pdf",
+        "https://github.com/datenanfragen/data/pull/1097"
     ],
     "required-elements": [
         {
-            "desc": "Nom",
+            "desc": "Nom orosco",
             "type": "name"
         },
         {
             "desc": "Adresse e-mail rattachée au compte client",
-            "type": "email"
+            "type": "email",
+            "optional": true
         }
     ],
     "suggested-transport-medium": "email",
