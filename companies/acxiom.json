@@ -1,18 +1,21 @@
 {
     "slug": "acxiom",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "addresses"
     ],
     "name": "Acxiom Deutschland GmbH",
     "address": "Martin-Behaim Straße 12\n63263 Neu-Isenburg\nDeutschland",
-    "phone": "+49 6102 736 3",
-    "fax": "+49 6102 736 444",
+    "phone": "+49 6102 7363",
     "email": "datenschutz@acxiom.com",
     "web": "http://www.acxiom.de/",
     "sources": [
         "http://www.acxiom.de/datenschutz/",
         "http://www.acxiom.de/impressum/",
-        "https://marketing.acxiom.com/AcxiomDE-Verbraucheranfragen.html"
+        "https://marketing.acxiom.com/AcxiomDE-Verbraucheranfragen.html",
+        "https://github.com/datenanfragen/data/pull/1099"
     ],
     "required-elements": [
         {
@@ -24,10 +27,9 @@
             "type": "address"
         }
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "comments": [
+        "Bisherige Faxnummer +49 6102 736 444 funktioniert nicht mehr, \"kein Anschluss unter dieser Nummer\". Keine neue Faxnummer ersichtlich."
+    ],
+    "quality": "verified"
 }
