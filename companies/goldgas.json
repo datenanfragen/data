@@ -1,0 +1,19 @@
+{
+    "slug": "goldgas",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "goldgas GmbH",
+    "address": "Ginnheimer Straße 4\n65760 Eschborn",
+    "email": "info@goldgas.de",
+    "web": "https://www.goldgas.de",
+    "sources": [
+        "https://www.goldgas.de/service/kontakt",
+        "https://github.com/datenanfragen/data/pull/1102"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
