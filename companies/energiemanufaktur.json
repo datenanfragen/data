@@ -1,0 +1,19 @@
+{
+    "slug": "energiemanufaktur",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "DREWAG - Stadtwerke Dresden GmbH",
+    "address": "Friedrich-List-Platz 2\n01069 Dresden",
+    "email": "drewag-datenschutz@SachsenEnergie.de",
+    "web": "https://www.energiemanufaktur.net",
+    "sources": [
+        "https://www.energiemanufaktur.net/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1101"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
