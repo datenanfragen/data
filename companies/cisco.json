@@ -36,14 +36,12 @@
     "address": "Haarlerbergweg 13-19\n1101 CH Amsterdam-Zuidoost\nNetherlands",
     "phone": "+1 408 906 2726",
     "fax": "+49 89 516571001",
-    "email": "privacy@cisco.com",
     "web": "https://www.cisco.com",
     "sources": [
         "https://www.cisco.com/c/en/us/about/legal/privacy-full.html",
         "https://www.cisco.com/c/m/de_de/impressum.html",
         "https://meraki.cisco.com/support/#policies:privacy"
     ],
-    "suggested-transport-medium": "email",
     "comments": [
         "Web form: https://privacyrequest.cisco.com/"
     ],
