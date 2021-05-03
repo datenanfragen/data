@@ -7,13 +7,21 @@
         "utility"
     ],
     "name": "goldgas GmbH",
-    "address": "Ginnheimer Straße 4\n65760 Eschborn",
-    "email": "info@goldgas.de",
+    "address": "Ginnheimer Straße 4\n65760 Eschborn\nDeutschland",
+    "phone": "+49 6196 77400",
+    "fax": "+49 6196 7740200",
+    "email": "datenschutz@goldgas.de",
     "web": "https://www.goldgas.de",
     "sources": [
         "https://www.goldgas.de/service/kontakt",
-        "https://github.com/datenanfragen/data/pull/1102"
+        "https://github.com/datenanfragen/data/pull/1102",
+        "https://www.goldgas.de/datenschutz",
+        "https://www.goldgas.de/datenschutz/datenschutzhinweis-fuer-die-websitenutzung",
+        "https://www.goldgas.de/fileadmin/Dokumente/Privatkundendownloads/Datenschutz/Datenschutz-goldgas-Strom.pdf"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative Telefonnr.: 0800 250 250 8"
+    ],
     "quality": "verified"
 }
