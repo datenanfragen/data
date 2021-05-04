@@ -1,0 +1,17 @@
+{
+    "slug": "thevirtualux",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Thevirtualux",
+    "address": "Office # 411 Eden Town Gullberg III, Lahore, Pakistan",
+    "phone": "03000067248",
+    "email": "iqrafatima026@gmail.com",
+    "web": "https://thevirtualux.com",
+    "needs-id-document": true,
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1104"
+    ]
+}
