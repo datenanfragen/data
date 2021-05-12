@@ -1,18 +1,20 @@
 {
     "slug": "acxiom",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "addresses"
     ],
     "name": "Acxiom Deutschland GmbH",
     "address": "Martin-Behaim Straße 12\n63263 Neu-Isenburg\nDeutschland",
-    "phone": "+49 6102 736 3",
-    "fax": "+49 6102 736 444",
+    "phone": "+49 69 589962 700",
     "email": "datenschutz@acxiom.com",
     "web": "http://www.acxiom.de/",
     "sources": [
         "http://www.acxiom.de/datenschutz/",
         "http://www.acxiom.de/impressum/",
-        "https://marketing.acxiom.com/AcxiomDE-Verbraucheranfragen.html"
+        "https://github.com/datenanfragen/data/pull/1099"
     ],
     "required-elements": [
         {
@@ -24,10 +26,9 @@
             "type": "address"
         }
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "comments": [
+        "Webformular für Anfragen: https://www.acxiom.de/verbraucheranfragen/"
+    ],
+    "quality": "verified"
 }
