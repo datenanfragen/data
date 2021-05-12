@@ -1,5 +1,5 @@
 {
-    "slug": "sofort-impfen",
+    "slug": "sofort-impfen-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,7 +7,7 @@
         "health"
     ],
     "name": "sofort-impfen.de",
-    "address": "Johannes Gerster\nKeuslinstraße 3\n80798 München\nDeutschland",
+    "address": "Keuslinstraße 3\n80798 München\nDeutschland",
     "email": "datenschutz@sofort-impfen.de",
     "web": "https://sofort-impfen.de",
     "sources": [
@@ -18,10 +18,14 @@
     "required-elements": [
         {
             "desc": "E-Mail",
-            "type": "email"
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "PLZ",
+            "type": "input"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
