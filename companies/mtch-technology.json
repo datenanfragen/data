@@ -6,18 +6,15 @@
     "categories": [
         "social media"
     ],
-    "name": "MTCH Technology Services Ltd.",
+    "name": "OkCupid",
     "runs": [
-        "Humor Rainbow, Inc.",
-        "OkCupid (www.okcupid.com)",
-        "Plentyoffish (www.pof.com)"
+        "Humor Rainbow, Inc."
     ],
-    "address": "Pembroke House\n28–32 Pembroke Street Upper\nDublin 2\nIreland",
-    "email": "csr@pof.com",
+    "address": "c/o MTCH Technology Services Ltd.\nBlock D, Iveagh Court\nHarcourt Road\nDublin 2\nIreland",
+    "email": "support@okcupid.com",
     "web": "https://www.okcupid.com",
     "sources": [
-        "https://www.okcupid.com/legal/privacy",
-        "https://www.pof.com/cookiepolicy.aspx"
+        "https://www.okcupid.com/legal/privacy"
     ],
     "quality": "verified"
 }

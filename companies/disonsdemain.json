@@ -1,0 +1,24 @@
+{
+    "slug": "disonsdemain",
+    "relevant-countries": [
+        "fr",
+        "be"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "DisonsDemain.fr",
+    "runs": [
+        "DisonsDemain.be"
+    ],
+    "address": "c/o Meetic SAS\n6 Rue Auber\n75009 Paris\nFrance",
+    "email": "privacy@disonsdemain.com",
+    "web": "https://www.disonsdemain.fr",
+    "sources": [
+        "https://www.disonsdemain.fr/pages/misc/privacy",
+        "https://www.disonsdemain.be/pages/misc/privacy",
+        "https://www.infogreffe.com/entreprise-societe/439780339-meetic-750113B053720000.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

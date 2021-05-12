@@ -1,0 +1,19 @@
+{
+    "slug": "twoo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Twoo",
+    "address": "c/o Massive Media Match NV\nEmile Braunplein 18\n9000 Ghent\nBelgium",
+    "email": "info-en@twoo.com",
+    "web": "https://www.twoo.com",
+    "sources": [
+        "https://www.twoo.com/about/privacy",
+        "https://www.twoo.com/faq?category=CONTACT&id=MAIL_LTR"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

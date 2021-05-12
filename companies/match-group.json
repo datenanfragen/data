@@ -1,52 +1,31 @@
 {
     "slug": "match-group",
     "relevant-countries": [
-        "at",
-        "de",
-        "fr",
-        "it",
-        "nl",
-        "be",
-        "bg",
-        "dk",
-        "fi",
-        "gr",
-        "ie",
-        "hr",
-        "lv",
-        "lt",
-        "lu",
-        "mt",
-        "no",
-        "pl",
-        "pt",
-        "ro",
-        "se",
-        "sk",
-        "si",
-        "es",
-        "cz",
-        "hu",
-        "cy"
+        "all"
     ],
     "categories": [
         "social media"
     ],
-    "name": "MTCH Technology Services Limited",
+    "name": "MTCH Technology Services Ltd.",
     "runs": [
         "Tinder (tinder.com)",
-        "Match.com (match.com)",
-        "Match Group, LLC"
+        "Plenty of Fish (pof.com)",
+        "Hinge (hinge.co)",
+        "Hawaya (hawaya.com)",
+        "Match Group, LLC",
+        "MG Japan Services GK",
+        "Plentyoffish Media ULC",
+        "Hinge, Inc.",
+        "Harmonica IT, Inc."
     ],
-    "address": "WeWork Charlemont Exchange\n42 Charlemont Street\nDublin 2\nD02 R593\nIreland",
-    "email": "privacyinquiries@gotinder.com",
+    "address": "Block D, Iveagh Court\nHarcourt Road\nDublin 2\nIreland",
     "web": "http://mtch.com",
     "sources": [
-        "https://www.gotinder.com/privacy",
-        "http://mtch.com/brands/",
-        "https://github.com/datenanfragen/data/issues/589"
+        "https://policies.tinder.com/privacy/intl/en",
+        "https://hinge.co/privacy",
+        "https://www.hawaya.com/privacy-policy",
+        "https://www.pof.com/privacypolicy"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
