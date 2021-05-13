@@ -1,0 +1,21 @@
+{
+    "slug": "ourtime-se",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Match.com Nordic AB",
+    "runs": [
+        "se.ourtime.com"
+    ],
+    "address": "c/o Deloitte\nBox 386\n201 23 Malmö\nSweden",
+    "email": "privacy-se@europe.ourtime.com",
+    "web": "https://se.ourtime.com",
+    "sources": [
+        "https://se.ourtime.com/pages/misc/privacy"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

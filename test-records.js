@@ -32,7 +32,13 @@ const validator = (dir, schema, additional_checks = null) => {
             const file_content = fs.readFileSync(f);
             if (!file_content.toString().endsWith('}\n')) fail("File doesn't end with exactly one newline.");
 
-            const json = JSON.parse(file_content);
+            let json;
+            try {
+                json = JSON.parse(file_content);
+            }
+            catch (err) {
+                fail('Parsing JSON failed.\n', err)
+            }
             if (!schema(json)) fail('Schema validation failed.\n', schema.errors);
             if (json.slug + '.json' !== path.basename(f)) {
                 fail(`Filename "${path.basename(f)}" does not match slug "${json.slug}".`);

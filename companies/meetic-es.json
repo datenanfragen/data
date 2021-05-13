@@ -1,0 +1,22 @@
+{
+    "slug": "meetic-es",
+    "relevant-countries": [
+        "es"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Meetic SAS",
+    "runs": [
+        "Meetic.es"
+    ],
+    "address": "6 Rue Auber\n75009 Paris\nFrance",
+    "email": "privacy@meetic.es",
+    "web": "https://www.meetic.es",
+    "sources": [
+        "https://www.meetic.es/pages/misc/privacy",
+        "https://www.infogreffe.com/entreprise-societe/439780339-meetic-750113B053720000.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
