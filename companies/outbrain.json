@@ -11,10 +11,10 @@
         "Outbrain Amplify"
     ],
     "address": "39 West 13th Street\n3rd floor\nNew York\nNY 10011\nUnited States of America",
-    "email": "PrivacyQuestions@outbrain.com",
     "web": "https://www.outbrain.com/",
     "sources": [
-        "https://www.outbrain.com/legal/privacy#privacy-policy"
+        "https://www.outbrain.com/legal/privacy#privacy-policy",
+        "https://github.com/datenanfragen/data/pull/1109"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
