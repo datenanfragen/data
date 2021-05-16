@@ -1,0 +1,31 @@
+{
+    "slug": "ideawisegroup",
+    "relevant-countries": [
+        "at",
+        "de",
+        "li",
+        "be",
+        "ch",
+        "lu"
+    ],
+    "categories": [
+        "social media",
+        "entertainment"
+    ],
+    "name": "Ideawise Limited",
+    "address": "Room 604, Alliance Building\n133 Connaught Road, Central, Hong Kong",
+    "email": "datenschutz@",
+    "web": "https://ideawisegroup.com/",
+    "sources": [
+        "https://www.gay.de/imprint-gays/",
+        "https://www.poppen.de/imprint-poppen/",
+        "https://www.fetisch.de/imprint-fetisch/",
+        "https://www.kaufmich.com/legal/imprint",
+        "https://github.com/datenanfragen/data/pull/1114"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Betreiber von:\n\n* kaufmich.com\n* poppen.de\n* gay.de\n* fetisch.de\n\nAnfrage ist zu richten an die E-Mailadresse des jeweiligen Portals: datenschutz@poppen.de oder @fetisch.de usw.\n\nTelefonanfragen nur über Premiumcall Numern oder für VIP-Mitgliedern über eine Deutsche Festnetznummer"
+    ],
+    "quality": "verified"
+}
