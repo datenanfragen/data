@@ -1,0 +1,19 @@
+{
+    "slug": "pxn-digital",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "PXN GmbH",
+    "address": "Leutragraben 1\n07743 Jena\nDeutschland",
+    "phone": "+49 3683 4695381",
+    "email": "info@pxn-digital.de",
+    "web": "https://pxn-digital.de/",
+    "sources": [
+        "https://pxn-digital.de/elementor-344/",
+        "https://github.com/datenanfragen/data/pull/1110"
+    ],
+    "quality": "verified"
+}
