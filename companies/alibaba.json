@@ -7,12 +7,13 @@
         "commerce"
     ],
     "name": "Alibaba.com Singapore E-Commerce Private Limited",
-    "address": "10 Collyer Quay\n#10-01 Ocean Financial Centre\nSingapore 049315\nRepublic of Singapore",
+    "address": "8 Shenton Way\n#45-01\nAxa Tower\nSingapore 068811\nRepublic of Singapore",
     "email": "dataprotection@service.alibaba.com",
     "web": "https://www.alibaba.com",
     "sources": [
         "https://rule.alibaba.com/rule/detail/2034.htm",
-        "https://www.tis.bizfile.gov.sg/ngbtisinternet/faces/oracle/webcenter/portalapp/pages/productlisting/ishopProductListing.jspx?EntityNo=200720572D"
+        "https://opencorpdata.com/sg/200720572D",
+        "https://github.com/datenanfragen/data/pull/1112"
     ],
     "required-elements": [
         {
