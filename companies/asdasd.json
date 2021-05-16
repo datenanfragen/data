@@ -1,0 +1,12 @@
+{
+    "slug": "asdasd",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "asdasd",
+    "address": "saSA",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1111"
+    ]
+}
