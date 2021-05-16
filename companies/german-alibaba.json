@@ -1,0 +1,21 @@
+{
+    "slug": "german-alibaba",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED",
+    "runs": [
+        null
+    ],
+    "address": "8 Shenton Way\n#45-01\nAxa Tower\nSingapore 068811",
+    "web": "https://german.alibaba.com/",
+    "sources": [
+        "http://opencorpdata.com/sg/200720572D",
+        "https://rule.alibaba.com/rule/detail/6872.htm#H",
+        "https://github.com/datenanfragen/data/pull/1112"
+    ],
+    "quality": "verified"
+}
