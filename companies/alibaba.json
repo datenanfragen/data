@@ -13,7 +13,7 @@
     "sources": [
         "https://rule.alibaba.com/rule/detail/2034.htm",
         "https://opencorpdata.com/sg/200720572D",
-        "https://github.com/datenanfragen/data/pull/1113"
+        "https://github.com/datenanfragen/data/pull/1112"
     ],
     "required-elements": [
         {
