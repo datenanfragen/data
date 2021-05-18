@@ -1,0 +1,13 @@
+{
+    "slug": "bold-company",
+    "relevant-countries": [
+        "nl"
+    ],
+    "name": "BOLD Company",
+    "address": "Beursplein 37, Rotterdam, 3011AA",
+    "sources": [
+        "https://www.boldcompany.nl/",
+        "https://github.com/datenanfragen/data/pull/1115"
+    ],
+    "quality": "verified"
+}
