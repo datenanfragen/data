@@ -1,17 +1,21 @@
 {
     "slug": "ing-diba",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance"
     ],
     "name": "ING-DiBa AG",
     "address": "Theodor-Heuss-Allee 2\n60486 Frankfurt am Main\nDeutschland",
-    "phone": "+49 69 34 22 24",
-    "fax": "+49 69 27 2222 7",
-    "email": "datenschutz@ing-diba.de",
-    "web": "https://www.ing-diba.de",
+    "phone": "+49 69 342224",
+    "fax": "+49 69 2722227",
+    "email": "datenschutz@ing.de",
+    "web": "https://www.ing.de",
     "sources": [
-        "https://www.ing-diba.de/kundenservice/sicherheit/datenschutz/#!3430544",
-        "https://www.ing-diba.de/ueber-uns/unternehmen/impressum/"
+        "https://www.ing.de/datenschutz/",
+        "https://www.ing.de/ueber-uns/unternehmen/impressum/",
+        "https://github.com/datenanfragen/data/pull/1108"
     ],
     "required-elements": [
         {
@@ -27,10 +31,6 @@
             "type": "address"
         }
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
