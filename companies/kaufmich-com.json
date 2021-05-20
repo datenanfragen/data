@@ -15,7 +15,6 @@
     "phone": "+49 800 3335521",
     "fax": "+49 30 338405 999",
     "email": "datenschutz@kaufmich.com",
-    "web": "https://www.kaufmich.com",
     "sources": [
         "https://www.kaufmich.com/legal/data_privacy_statement",
         "https://github.com/datenanfragen/data/pull/1114"
