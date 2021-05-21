@@ -25,7 +25,8 @@
         "pizza.de (ehem.)",
         "foodora.de (ehem.)",
         "lieferservice.de (ehem.)",
-        "lieferheld.de (ehem.)"
+        "lieferheld.de (ehem.)",
+        "Scoober (App for drivers)"
     ],
     "address": "Oosterdoksstraat 80\n1011 DK Amsterdam\nNederland",
     "phone": "+31 20 210 7000",
@@ -46,7 +47,11 @@
         "https://www.takeaway.com/ch-en/colofon",
         "https://www.thuisbezorgd.nl/colofon",
         "https://www.10bis.co.il/next/privacyPolicy",
-        "https://en.wikipedia.org/wiki/Takeaway.com"
+        "https://en.wikipedia.org/wiki/Takeaway.com",
+        "https://play.google.com/store/apps/details?id=com.takeaway.driver",
+        "https://apps.apple.com/de/app/scoober/id964121026",
+        "https://www.takeaway.com/drivers/privacy",
+        "https://github.com/datenanfragen/data/pull/1119"
     ],
     "required-elements": [
         {
