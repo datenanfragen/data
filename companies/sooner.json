@@ -1,0 +1,25 @@
+{
+    "slug": "sooner",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "ContentScope GmbH",
+    "runs": [
+        "Sooner (sooner.de)"
+    ],
+    "address": "Alte Jakobstraße 76\n10179 Berlin\nDeutschland",
+    "phone": "+49 30 97004330",
+    "fax": "+49 30 97004331",
+    "email": "privacy@sooner.de",
+    "web": "https://sooner.de",
+    "sources": [
+        "https://sooner.de/rechtliches/",
+        "https://sooner.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1117"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
