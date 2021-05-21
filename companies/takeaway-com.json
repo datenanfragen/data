@@ -22,6 +22,7 @@
         "Pyszne.pl",
         "Thuisbezorgd.nl",
         "10bis",
+        "Scoober",
         "pizza.de (ehem.)",
         "foodora.de (ehem.)",
         "lieferservice.de (ehem.)",
@@ -47,7 +48,8 @@
         "https://www.thuisbezorgd.nl/colofon",
         "https://www.10bis.co.il/next/privacyPolicy",
         "https://en.wikipedia.org/wiki/Takeaway.com",
-        "https://github.com/datenanfragen/data/pull/1118"
+        "https://github.com/datenanfragen/data/pull/1118",
+        "https://www.takeaway.com/drivers/privacy"
     ],
     "required-elements": [
         {
