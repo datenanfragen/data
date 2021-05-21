@@ -12,7 +12,7 @@
         "ch",
         "nl"
     ],
-    "name": "Takeaway.com N.V.",
+    "name": "Takeaway.com Group B.V.",
     "runs": [
         "БГменю ЕООД",
         "Lieferando",
@@ -46,7 +46,8 @@
         "https://www.takeaway.com/ch-en/colofon",
         "https://www.thuisbezorgd.nl/colofon",
         "https://www.10bis.co.il/next/privacyPolicy",
-        "https://en.wikipedia.org/wiki/Takeaway.com"
+        "https://en.wikipedia.org/wiki/Takeaway.com",
+        "https://github.com/datenanfragen/data/pull/1118"
     ],
     "required-elements": [
         {
