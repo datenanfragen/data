@@ -72,9 +72,10 @@ If `required_elements` are specified, there *should* be one element with type `n
 In addition, the `required_elements` should include some way for the company to respond to the request, be it an address, an email address, a phone number or something similar. 
 
 ## Request language
-Usually, the `request-language` should not be set. There's basically two conditions that both need to be met:
 
-1. The company in question only addresses consumers in one language.
-2. The `relevant-countries` for the company includes ones where this language is not spoken.
+Usually, the `request-language` should not be set, except for the following cases:
 
-If that is the case, the `request-language` should be set to the language from 1.
+* If a record specifies a `custom-*-template` that isn't at least available in English, the `request-language` must be set to the language the template is available in.
+* If both of the following conditions are met, the `request-language` should be set to the language from the first condition:
+    1. The company in question only addresses consumers in one language.
+    2. The `relevant-countries` for the company include ones where this language is not spoken.
