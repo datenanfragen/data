@@ -9,8 +9,15 @@ ajv.addFormat('text', (a) => true);
 // just use this *very* basic check.
 ajv.addFormat('idn-email', /^\S+@\S+\.\S+$/);
 
-const cdb_schema = ajv.compile(JSON.parse(fs.readFileSync('schema.json')));
-const adb_schema = ajv.compile(JSON.parse(fs.readFileSync('schema-supervisory-authorities.json')));
+const cdb_schema = ajv.compile(JSON.parse(fs.readFileSync('schema.json').toString()));
+const adb_schema = ajv.compile(JSON.parse(fs.readFileSync('schema-supervisory-authorities.json').toString()));
+
+const templates = glob.sync('**/*.txt', { cwd: 'templates' }).reduce((acc, cur) => {
+    const [lang, name] = cur.replace('.txt', '').split('/');
+    if (acc[lang]) acc[lang].push(name);
+    else acc[lang] = [name];
+    return acc;
+}, {});
 
 // This ain't exactly pretty but globally remember the file name so we don't have to manually pass it to `fail()`.
 let f = undefined;
@@ -29,15 +36,14 @@ const validator = (dir, schema, additional_checks = null) => {
 
         files.forEach((_f) => {
             f = _f;
-            const file_content = fs.readFileSync(f);
+            const file_content = fs.readFileSync(f).toString();
             if (!file_content.toString().endsWith('}\n')) fail("File doesn't end with exactly one newline.");
 
             let json;
             try {
                 json = JSON.parse(file_content);
-            }
-            catch (err) {
-                fail('Parsing JSON failed.\n', err)
+            } catch (err) {
+                fail('Parsing JSON failed.\n', err);
             }
             if (!schema(json)) fail('Schema validation failed.\n', schema.errors);
             if (json.slug + '.json' !== path.basename(f)) {
@@ -58,6 +64,30 @@ validator('companies', cdb_schema, (json) => {
                 `Record has required elements but no 'name' element.`,
                 'See: https://github.com/datenanfragen/data#required-elements'
             );
+    }
+
+    for (const prop of [
+        'custom-access-template',
+        'custom-erasure-template',
+        'custom-rectification-template',
+        'custom-objection-template',
+    ]) {
+        // If a record specifies a `custom-*-template` without also specifying a `request-language`, the template _must_
+        // at least be available in English and _should_ also be available in the other languages (#1120).
+        if (json[prop]) {
+            if (json['request-language']) {
+                if (!templates[json['request-language']].includes(json[prop]))
+                    fail(
+                        `Record specifies '${prop}' of '${json[prop]}' but that isn't available for 'request-language' of '${json['request-language']}'.`
+                    );
+            } else {
+                if (!templates['en'].includes(json[prop]))
+                    fail(
+                        `Record specifies '${prop}' of '${json[prop]}' but that isn't available in English.`,
+                        'See: https://github.com/datenanfragen/data/issues/1120'
+                    );
+            }
+        }
     }
 });
 validator('supervisory-authorities', adb_schema);
