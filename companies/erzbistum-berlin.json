@@ -20,6 +20,7 @@
         "https://www.erzbistumberlin.de/datenschutz/",
         "https://www.erzbistumberlin.de/impressum/"
     ],
+    "request-language": "de",
     "custom-access-template": "access-katholische-kirche",
     "custom-erasure-template": "erasure-katholische-kirche",
     "custom-rectification-template": "rectification-katholische-kirche",
