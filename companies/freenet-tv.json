@@ -20,5 +20,15 @@
         "https://www.freenet.tv/impressum"
     ],
     "quality": "tested",
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
     "suggested-transport-medium": "email"
 }

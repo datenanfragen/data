@@ -21,6 +21,16 @@
         "https://www.bundestag.de/services/impressum/"
     ],
     "needs-id-document": false,
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
     "suggested-transport-medium": "email",
     "quality": "tested"
 }
