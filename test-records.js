@@ -56,7 +56,7 @@ const validator = (dir, schema, additional_checks = null) => {
 };
 
 validator('companies', cdb_schema, (json) => {
-    // Check for necessary 'name' field in the required elements (#388).
+    // Check for necessary `name` field in the required elements (#388).
     if (json['required-elements']) {
         const has_name_field = json['required-elements'].some((el) => el.type === 'name');
         if (!has_name_field)
@@ -88,6 +88,15 @@ validator('companies', cdb_schema, (json) => {
                     );
             }
         }
+    }
+
+    // A `quality` of `tested` may only be set if `required-elements` are specified (#811).
+    if (json['quality'] === 'tested') {
+        if (!json['required-elements'])
+            fail(
+                "Record has `quality` of `tested` but doesn't specify `required-elements`.",
+                'See: https://github.com/datenanfragen/data/issues/811'
+            );
     }
 });
 validator('supervisory-authorities', adb_schema);
