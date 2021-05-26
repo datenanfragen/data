@@ -1,0 +1,16 @@
+{
+    "slug": "freenode-ltd",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        null
+    ],
+    "name": "Freenode Ltd.",
+    "address": "?",
+    "sources": [
+        "?",
+        "https://github.com/datenanfragen/data/pull/1129"
+    ],
+    "quality": "verified"
+}
