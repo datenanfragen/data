@@ -1,0 +1,26 @@
+{
+    "slug": "www-int-glooko",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Glooko AB",
+    "runs": [
+        "https://www.diasend.com/"
+    ],
+    "address": "Nellickevägen 20\n412 63 Göteborg\nSweden",
+    "phone": "+1 650 720 5310",
+    "email": "privacy@glooko.com",
+    "web": "https://www-int.glooko.com/",
+    "sources": [
+        "https://www.glooko.com/privacy/",
+        "https://github.com/datenanfragen/data/pull/1130"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Hallo liebes Datenanfragen.de-Team,\n\nvielen Dank für eure Arbeit! Ich hoffe, ich habe o.g. richtig / ausreichend angegeben.\n\nIch bin Diabetiker und trage eine Insulinpumpe in Kombination mit einem Blutzucker-Messgerät, welches ständig Blutzuckerwerte an die Insulinpumpe schickt.\nUm an meine Pumpen und Blutzuckerdaten zu kommen *muss* ich mich bei diasend.com anmelden und die Daten in die Cloud schicken, bevor ich sie mir lokal speichern kann.\nDaher würde ich gerne alle 3 Monate einen Account bei diasend.com erstellen, meine Daten dort hin schicken, anschließend lokal speichern und danach einen Löschantrag stellen.\n\nDarüberhinaus fände ich Interessant, ob ihr eine Möglichkeit seht gegen diesen sehr umständlichen Workflow zu klagen bzw. (Gesundheits-)Unternehmen dazu zu verpflichten dass ich *meine* Gesundheitsdaten lokal auslesen können *muss*.\nWenn ihr mir da weiterhelfen könnt, bzw. eine Adresse kennt, bei der ich mich melden kann wär ich euch sehr dankbar.\n\nBeste Grüße und nochmal vielen Dank für dieses tolle Projekt!"
+    ],
+    "quality": "verified"
+}
