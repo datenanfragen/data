@@ -8,10 +8,12 @@
     ],
     "name": "TARGET TEAM EUROPE S.L.",
     "address": "Madrazo 27, 1a Planta\n08006 Barcelona\nSpain",
+    "email": "service@target-team-europe.com",
     "web": "http://www.target-team-europe.com",
     "sources": [
         "http://www.target-team-europe.com/de/legal/",
-        "https://github.com/datenanfragen/data/issues/559"
+        "https://github.com/datenanfragen/data/issues/559",
+        "https://github.com/datenanfragen/data/pull/1132"
     ],
     "required-elements": [
         {
@@ -23,5 +25,6 @@
             "type": "email"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
