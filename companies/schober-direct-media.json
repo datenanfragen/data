@@ -7,15 +7,17 @@
         "addresses"
     ],
     "name": "Schober Direct Media GmbH + Co. KG",
-    "address": "Sophienstraße 40\n70178 Stuttgart\nDeutschland",
-    "phone": "+49 711 94 52 97 10",
-    "fax": "+49 711 94 52 97 99",
-    "email": "datenschutz@schober-direct-media.de",
-    "web": "https://www.schober-direct-media.de",
+    "runs": [
+        "Schober Direct Media Verwaltung GmbH"
+    ],
+    "address": "Steindamm 71\n20099 Hamburg\nDeutschland",
     "sources": [
         "https://github.com/datenanfragen/data/issues/45",
-        "https://www.schober-direct-media.de/datenschutz/",
-        "https://www.schober-direct-media.de/impressum/"
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=806112&land_abk=bw",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=808345&land_abk=bw"
+    ],
+    "comments": [
+        "Das Unternehmen wurde am 04. Mai 2020 aufgelöst."
     ],
     "required-elements": [
         {
