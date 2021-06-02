@@ -1,0 +1,14 @@
+{
+    "slug": "billigeres-fahrzeug",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "billigeres fahrzeug",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1134"
+    ]
+}
