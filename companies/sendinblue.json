@@ -1,0 +1,18 @@
+{
+    "slug": "sendinblue",
+    "relevant-countries": [
+        "fr",
+        "de"
+    ],
+    "name": "sendinblue.com",
+    "address": "Address: Köpenicker Str. 126, 10179 Berlin, Germany",
+    "web": "https://www.sendinblue.com/about/",
+    "sources": [
+        "https://www.sendinblue.com/about/",
+        "https://github.com/datenanfragen/data/pull/1135"
+    ],
+    "comments": [
+        "Competitor to Mailchimp, handles massive marketing campaign databases"
+    ],
+    "quality": "verified"
+}
