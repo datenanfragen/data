@@ -8,13 +8,13 @@
         "school"
     ],
     "name": "Gymnasium Sulingen",
-    "address": "Schmelingstraße 37\n27232 Sulingen",
+    "address": "Schmelingstraße 37\n27232 Sulingen\nDeutschland",
     "phone": "+49 4271 95340",
     "fax": "+49 4271 9534111",
-    "email": "info@gymnasium-sulingen.de",
+    "email": "datenschutz@gymnasium-sulingen.de",
     "web": "https://gymnasium-sulingen.de",
     "sources": [
-        "gymnasium-sulingen.de",
+        "https://www.gymnasium-sulingen.de/desktop/service/datenschutzerklaerung.html",
         "https://github.com/datenanfragen/data/pull/1123"
     ],
     "needs-id-document": true,
