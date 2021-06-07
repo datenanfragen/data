@@ -1,5 +1,8 @@
 {
     "slug": "n26-bank",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "finance"
     ],
@@ -8,13 +11,14 @@
         "Number26 (ehem.)"
     ],
     "address": "Klosterstraße 62\n10179 Berlin\nDeutschland",
-    "phone": "+49 30 364 28 68 80",
-    "fax": "+49 30 364 50 80",
+    "phone": "+49 30 364286880",
+    "fax": "+49 30 3645080",
     "email": "datenschutz@n26.com",
     "web": "https://n26.com",
     "sources": [
         "https://n26.com/de-de/legal-documents/privacy-policy",
-        "https://n26.com/en-de/legal-documents/privacy-policy"
+        "https://n26.com/en-de/legal-documents/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/1137"
     ],
     "required-elements": [
         {
@@ -26,10 +30,6 @@
             "type": "address"
         }
     ],
-    "relevant-countries": [
-        "all"
-    ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
