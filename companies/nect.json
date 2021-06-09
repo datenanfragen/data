@@ -1,0 +1,16 @@
+{
+    "slug": "nect",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Nect GmbH",
+    "address": "Großer Burstah 21\n20457 Hamburg ",
+    "phone": "+49 40 468974970",
+    "email": "hello@nect.com ",
+    "web": "https://nect.com",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1141"
+    ]
+}
