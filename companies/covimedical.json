@@ -1,0 +1,28 @@
+{
+    "slug": "covimedical",
+    "relevant-countries": [
+        "de",
+        "es"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "CoviMedical GmbH",
+    "runs": [
+        "https://15minutentest.de"
+    ],
+    "address": "Wilhelmstraße 8\n35683 Dillenburg\nDeutschland",
+    "phone": "+49 2771 87040",
+    "email": "datenschutz@ds-moos.de",
+    "web": "https://covimedical.de",
+    "sources": [
+        "https://15minutentest.de/de/de/datenschutz",
+        "https://covimedical.de/datenschutzvereinbarungen",
+        "https://github.com/datenanfragen/data/pull/1138"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Externer Datenschutzbeauftragter:\nMoos Datenschutzmanagement GmbH\nJulian Moos\nKontaktdaten wie oben angegeben."
+    ],
+    "quality": "verified"
+}
