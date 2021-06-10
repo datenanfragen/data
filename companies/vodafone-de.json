@@ -10,9 +10,10 @@
     "runs": [
         "Vodafone Community",
         "Vodafone Apps",
-        "Vodafone Deutschland GmbH (vormals: Vodafone Kabel Deutschland GmbH)",
+        "Vodafone Kabel Deutschland GmbH (ehem.)",
         "EDEKA mobil (www.edeka-mobil.de)",
-        "otelo (www.otelo.de)"
+        "otelo (www.otelo.de)",
+        "Vodafone Deutschland GmbH"
     ],
     "address": "Ferdinand-Braun-Platz 1\n40549 Düsseldorf\nDeutschland",
     "phone": "+49 800 1721212",
@@ -27,10 +28,8 @@
         "https://www.otelo.de/impressum",
         "https://www.vodafone.de/unternehmen/verantwortung/datenschutz-im-dialog.html",
         "https://github.com/datenanfragen/data/issues/12",
-        "https://github.com/datenanfragen/data/pull/1131"
-    ],
-    "comments": [
-        "Änderung des Firmennamens im Januar 2021"
+        "https://github.com/datenanfragen/data/pull/1131",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1456353&land_abk=by"
     ],
     "quality": "verified"
 }
