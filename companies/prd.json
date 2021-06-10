@@ -7,8 +7,11 @@
     "categories": [
         "school"
     ],
-    "name": "PR&D – Public Relations für Forschung & Bildung GmbH",
-    "address": "PR&D Kommunikationsdienstleistungen GmbH\nKollersteig 68\n3400 Klosterneuburg\nÖsterreich",
+    "name": "PR&D Kommunikationsdienstleistungen GmbH",
+    "runs": [
+        "PR&D - Public Relations für Forschung & Bildung GmbH"
+    ],
+    "address": "Kollersteig 68\n3400 Klosterneuburg\nÖsterreich",
     "phone": "+43 664 226936",
     "email": "contact@prd.at",
     "web": "https://prd.at/",
@@ -16,6 +19,5 @@
         "https://prd.at/kontakt-impressum/",
         "https://github.com/datenanfragen/data/pull/1127"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
