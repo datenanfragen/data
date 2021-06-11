@@ -1,5 +1,5 @@
 {
-    "slug": "ticket",
+    "slug": "ticket-io",
     "relevant-countries": [
         "de"
     ],
@@ -8,8 +8,8 @@
         "commerce"
     ],
     "name": "Ticket i/O GmbH",
-    "address": "c/o Five Consulting\nDipl.-Ing. Klaus Pampuch\nFrankenforster Straße 44\n51427 Bergisch Gladbach\nDeutschland",
-    "phone": "+49 2204 7060940",
+    "address": "c/o Five Consulting\nFrankenforster Straße 44\n51427 Bergisch Gladbach\nDeutschland",
+    "phone": "+49 221 3008430",
     "email": "tio@five.consulting",
     "web": "https://ticket.io",
     "sources": [
@@ -17,5 +17,6 @@
         "https://www.five.consulting/about",
         "https://github.com/datenanfragen/data/pull/1139"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
