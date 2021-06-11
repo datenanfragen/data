@@ -1,16 +1,18 @@
 {
-    "slug": "nect",
+    "slug": "nect-com",
     "relevant-countries": [
         "de"
     ],
     "name": "Nect GmbH",
-    "address": "Großer Burstah 21\n20457 Hamburg ",
+    "address": "c/o ePrivacy GmbH\nGroße Bleichen 21\n20354 Hamburg\nDeutschland",
     "phone": "+49 40 468974970",
-    "email": "hello@nect.com ",
+    "email": "privacy@nect.com",
     "web": "https://nect.com",
-    "suggested-transport-medium": "email",
-    "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1141"
-    ]
+        "https://github.com/datenanfragen/data/pull/1141",
+        "https://nect.com/de/data-protection/",
+        "https://nect.com/de/imprint/"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
