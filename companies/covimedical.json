@@ -9,9 +9,9 @@
     ],
     "name": "CoviMedical GmbH",
     "runs": [
-        "https://15minutentest.de"
+        "15minutentest.de"
     ],
-    "address": "c/o Moos Datenschutzmanagement GmbH\nJulian Moos\nWilhelmstraße 8\n35683 Dillenburg\nDeutschland",
+    "address": "c/o Moos Datenschutzmanagement GmbH\nWilhelmstraße 8\n35683 Dillenburg\nDeutschland",
     "phone": "+49 2771 87040",
     "email": "datenschutz@ds-moos.de",
     "web": "https://covimedical.de",
