@@ -8,10 +8,13 @@
     ],
     "name": "TARGET TEAM EUROPE S.L.",
     "address": "Madrazo 27, 1a Planta\n08006 Barcelona\nSpain",
+    "email": "service@target-team-europe.com",
     "web": "http://www.target-team-europe.com",
     "sources": [
         "http://www.target-team-europe.com/de/legal/",
-        "https://github.com/datenanfragen/data/issues/559"
+        "https://github.com/datenanfragen/data/issues/559",
+        "https://github.com/datenanfragen/data/pull/1132",
+        "https://www.gutschein-plus.com/teilnahmebedingungen.php"
     ],
     "required-elements": [
         {
