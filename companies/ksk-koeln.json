@@ -3,19 +3,19 @@
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "finance"
+    ],
     "name": "Kreissparkasse Köln",
-    "address": "Kreissparkasse Köln\nNeumarkt 18-24\n50667 Köln\nDeutschland\n",
-    "phone": "0221 227-0",
-    "fax": "0221 227-3920 ",
-    "email": "info@ksk-koeln.de",
+    "address": "Neumarkt 18-24\n50667 Köln\nDeutschland",
+    "phone": "+49 221 2270",
+    "fax": "+49 221 2273920",
+    "email": "datenschutz@ksk-koeln.de",
     "web": "https://www.ksk-koeln.de",
     "sources": [
         "https://www.ksk-koeln.de/de/home/toolbar/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/1136"
     ],
-    "needs-id-document": true,
-    "comments": [
-        "Datenschutzbeauftragter\nFrank-Stephan Esch\nNeumarkt 18-24\n50667 Köln\nDeutschland\ndatenschutz@ksk-koeln.de"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
