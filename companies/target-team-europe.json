@@ -13,7 +13,8 @@
     "sources": [
         "http://www.target-team-europe.com/de/legal/",
         "https://github.com/datenanfragen/data/issues/559",
-        "https://github.com/datenanfragen/data/pull/1132"
+        "https://github.com/datenanfragen/data/pull/1132",
+        "https://www.gutschein-plus.com/teilnahmebedingungen.php"
     ],
     "required-elements": [
         {
@@ -25,6 +26,5 @@
             "type": "email"
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
