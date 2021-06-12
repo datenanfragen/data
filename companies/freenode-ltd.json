@@ -6,11 +6,12 @@
     "categories": [
         "telecommunication"
     ],
-    "name": "Freenode Ltd.",
-    "address": "16 Great Queen Street\nCovent Garden\nLondon\nWC2B 5AH\nUnited Kingdom",
+    "name": "freenode Limited",
+    "address": "71-75 Shelton Street\nCovent Garden\nLondon\nWC2H 9JQ UK\nUnited Kingdom",
+    "email": "policy@freenode.net",
     "web": "https://freenode.net/",
     "sources": [
-        "https://find-and-update.company-information.service.gov.uk/company/10308021",
+        "https://freenode.net/policies",
         "https://github.com/datenanfragen/data/pull/1129"
     ],
     "quality": "verified"
