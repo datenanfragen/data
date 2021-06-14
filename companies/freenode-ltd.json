@@ -1,0 +1,18 @@
+{
+    "slug": "freenode-ltd",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "freenode Limited",
+    "address": "71-75 Shelton Street\nCovent Garden\nLondon\nWC2H 9JQ UK\nUnited Kingdom",
+    "email": "policy@freenode.net",
+    "web": "https://freenode.net/",
+    "sources": [
+        "https://freenode.net/policies",
+        "https://github.com/datenanfragen/data/pull/1129"
+    ],
+    "quality": "verified"
+}
