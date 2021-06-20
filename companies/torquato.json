@@ -1,0 +1,17 @@
+{
+    "slug": "torquato",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Torquato AG",
+    "runs": [
+        "torquato.de"
+    ],
+    "address": "Am Spakenberg 45\n21500 Geesthacht\nDeutschland",
+    "web": "https://www.torquato.de",
+    "sources": [
+        "https://www.torquato.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1151"
+    ],
+    "quality": "verified"
+}
