@@ -1,0 +1,20 @@
+{
+    "slug": "futureplc",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "Future Publishing Limited",
+    "runs": [
+        "Tom's Hardware"
+    ],
+    "address": "Data Protection Enquiries\nFuture Publishing Limited\nQuay House, The Ambury, Bath, BA1 1UA\nUnited Kingdom",
+    "phone": "+44 1225 442244",
+    "email": "DPO@futurenet.com",
+    "web": "https://www.futureplc.com/",
+    "sources": [
+        "https://www.futureplc.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/1153"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
