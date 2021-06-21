@@ -1,0 +1,29 @@
+{
+    "slug": "services-totalenergies",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "TOTAL Deutschland GmbH",
+    "runs": [
+        "TotalEnergies",
+        "heizoel.totaleergies.com",
+        "ELAN",
+        "MINOL",
+        "ACCESS"
+    ],
+    "address": "Jean-Monnet-Str. 2\n10557 Berlin",
+    "phone": "08008682533",
+    "fax": "+49 30 20278833",
+    "email": "kundenservice@totalenergies.com",
+    "web": "https://www.services.totalenergies.de",
+    "sources": [
+        "https://www.services.totalenergies.de/impressum",
+        "https://www.services.totalenergies.de/zentraler-kundenservice",
+        "https://github.com/datenanfragen/data/pull/1155"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
