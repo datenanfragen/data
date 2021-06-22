@@ -1,5 +1,8 @@
 {
     "slug": "travix",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "travel"
     ],
@@ -11,8 +14,7 @@
         "Vliegwinkel.nl (www.vliegwinkel.nl)"
     ],
     "address": "Piet Heinkade 55\n1019 GM Amsterdam\nNetherlands",
-    "phone": "+49 30 2240 9372",
-    "email": "info@flugladen.de",
+    "email": "privacy@travix.com",
     "web": "https://www.travix.com/",
     "sources": [
         "https://s1.travix.com/flugladen/DE/flde-privacy-de.pdf",
@@ -21,9 +23,6 @@
         "https://s1.travix.com/cheaptickets/NL/assets/pdf/ctnl-privacy-nl.pdf",
         "https://s1.travix.com/vliegwinkel/NL/assets/pdf/vwnl-privacy-nl.pdf"
     ],
-    "relevant-countries": [
-        "de",
-        "nl"
-    ],
-    "quality": "verified"
+    "quality": "verified",
+    "suggested-transport-medium": "email"
 }
