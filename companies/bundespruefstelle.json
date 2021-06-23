@@ -6,15 +6,18 @@
     "categories": [
         "public body"
     ],
-    "name": "Bundesprüfstelle für jugendgefährdende Medien (BPjM)",
+    "name": "Bundeszentrale für Kinder- und Jugendmedienschutz (BzKJ)",
+    "runs": [
+        "Bundesprüfstelle für jugendgefährdende Medien (BPjM, ehem.)"
+    ],
     "address": "Rochusstraße 8 – 10\n53123 Bonn\nDeutschland",
-    "phone": "+49 228 9621030",
+    "phone": "+49 228 99 962103 10",
     "fax": "+49 228 379014",
-    "email": "datenschutz@bpjm.bund.de",
-    "web": "https://www.bundespruefstelle.de/",
+    "email": "datenschutz@bzkj.bund.de",
+    "web": "https://www.bzkj.de/",
     "sources": [
-        "https://www.bundespruefstelle.de/bpjm/datenschutzerklaerung/128852",
-        "https://www.bundespruefstelle.de/bpjm/impressum/128862"
+        "https://www.bzkj.de/bzkj/datenschutzerklaerung-175606",
+        "https://www.bzkj.de/bzkj/impressum-175616"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

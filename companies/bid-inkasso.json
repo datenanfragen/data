@@ -1,5 +1,8 @@
 {
     "slug": "bid-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "collection agency"
     ],
@@ -7,14 +10,12 @@
     "address": "Weichengereuth 26\n96450 Coburg\nDeutschland",
     "phone": "+49 9561 8060 0",
     "fax": "+49 9561 8060 805",
-    "email": "bid@bid-coburg.de",
+    "email": "datenschutz@bid-coburg.de",
     "web": "http://www.bid-coburg.de/",
     "sources": [
         "http://www.bid-coburg.de/impressum/#datenschutz",
         "http://www.bid-coburg.de/impressum/"
     ],
-    "relevant-countries": [
-        "de"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

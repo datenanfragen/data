@@ -1,0 +1,26 @@
+{
+    "slug": "performancelead-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Performance Lead GmbH",
+    "runs": [
+        "Razordrink.de"
+    ],
+    "address": "Hauptstrasse 223\n65760 Eschborn\nDeutschland",
+    "phone": "+49 6196 9727747",
+    "fax": "+49 5251 2020271",
+    "email": "datenschutz@performancelead.de",
+    "web": "https://www.performancelead.de/",
+    "sources": [
+        "https://www.performancelead.de/datenschutz.html",
+        "https://www.performancelead.de/impressum.html",
+        "https://www.razordrink.de/datenschutz_3.html"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

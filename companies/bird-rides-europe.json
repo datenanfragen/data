@@ -5,15 +5,18 @@
     ],
     "name": "Bird Rides Europe, B.V.",
     "runs": [
+        "Bird Rides, Inc.",
         "Circ (formerly)"
     ],
-    "address": "Weesperstraat 61\n1018 VN Amsterdam\nNetherlands",
-    "email": "hello@bird.co",
+    "address": "Rokin 92\n1012KZ Amsterdam\nNetherlands",
+    "phone": "+1 866 205 2442",
+    "email": "privacy@bird.co",
     "web": "https://www.bird.co/",
     "sources": [
-        "https://www.bird.co/eu-candidate-privacy-policy/",
-        "https://www.iaa.de/de/aussteller/bird-rides-europe-bv",
-        "https://www.bird.co/de/press/bird-uebernimmt-circ-den-europaeischen-marktfuehrer-fuer-mikromobilitaet/"
+        "https://www.bird.co/privacy/",
+        "https://www.bird.co/de/press/bird-uebernimmt-circ-den-europaeischen-marktfuehrer-fuer-mikromobilitaet/",
+        "https://www.bird.co/contact-us/"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

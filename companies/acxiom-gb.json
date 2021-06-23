@@ -9,10 +9,10 @@
     "name": "Acxiom Ltd.",
     "address": "17 Hatfields\nLondon\nSE1 8DJ\nUnited Kingdom",
     "phone": "+44 20 7526 5100",
-    "email": "dataprotection@acxiom.co.uk",
+    "email": "dataprotection@acxiom.com",
     "web": "https://www.acxiom.co.uk/",
     "sources": [
-        "https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy-2/"
+        "https://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy/"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",

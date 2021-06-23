@@ -6,14 +6,14 @@
     "categories": [
         "public body"
     ],
-    "name": "Bundesanstalt für vereinigungsbedingte Sonderaufgaben",
+    "name": "Bundesanstalt für vereinigungsbedingte Sonderaufgaben (BvS)",
     "address": "Schönhauser Allee 120\n10437 Berlin\nDeutschland",
-    "phone": "+49 30 44322301",
-    "fax": "+49 30 44322260",
-    "email": "Sekretariat.Abwicklerin@bvs-mail.de",
-    "web": "http://www.bvs.bund.de/",
+    "phone": "+49 30 2451 1009",
+    "fax": "+49 30 2451 1012",
+    "email": "Sekretariat.Abwickler@bvs-mail.de",
+    "web": "https://www.service.bund.de/Content/DE/DEBehoerden/B/BvS/Bundesanstalt-fuer-vereinigungsbedingte-Sonderaufgaben.html?nn=4641496",
     "sources": [
-        "http://www.bvs.bund.de/002_menue_oben/2_impressum.html"
+        "https://www.service.bund.de/Content/DE/DEBehoerden/B/BvS/Bundesanstalt-fuer-vereinigungsbedingte-Sonderaufgaben.html?nn=4641496"
     ],
     "request-language": "de",
     "quality": "verified"

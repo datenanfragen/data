@@ -7,13 +7,13 @@
         "public body"
     ],
     "name": "Bexley London Borough Council",
-    "address": "2 Watling Street\nBexleyheath \nDA6 7AT\nUnited Kingdom",
-    "phone": "+44 20 3045 4700",
-    "email": "foi@bexley.gov.uk",
+    "address": "2 Watling Street\nBexleyheath\nDA6 7AT\nUnited Kingdom",
+    "phone": "+44 20 8303 7777",
+    "email": "data.protection@bexley.gov.uk",
     "web": "https://www.bexley.gov.uk/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/367",
-        "https://www.bexley.gov.uk/services/complaints-and-Information-Requests/information-requests"
+        "https://www.bexley.gov.uk/privacy"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

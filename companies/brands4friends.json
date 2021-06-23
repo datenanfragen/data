@@ -1,5 +1,8 @@
 {
     "slug": "brands4friends",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -8,15 +11,13 @@
         "www.brands4friends.de"
     ],
     "address": "Kommandantenstraße 22\n10969 Berlin\nDeutschland",
-    "phone": "+49 0800 51 000 52",
-    "email": "service@brands4friends.de",
+    "phone": "+49 800 51 000 52",
+    "email": "datenschutz@brands4friends.de",
     "web": "https://www.brands4friends.de/",
     "sources": [
         "https://www.brands4friends.de/webshop/about/privacy",
         "https://www.brands4friends.de/webshop/about/imprint"
     ],
-    "relevant-countries": [
-        "de"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

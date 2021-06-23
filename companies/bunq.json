@@ -16,8 +16,7 @@
     "email": "privacy@bunq.com",
     "web": "https://www.bunq.com",
     "sources": [
-        "https://www.bunq.com/terms",
-        "https://www.bunq.com/de/privacy",
+        "https://www.bunq.com/assets/media/legal/en/20210601_Privacy_Statement_EN.pdf",
         "https://github.com/datenanfragen/data/pull/778"
     ],
     "required-elements": [

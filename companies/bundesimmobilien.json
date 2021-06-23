@@ -16,8 +16,8 @@
     "email": "Datenschutz@bundesimmobilien.de",
     "web": "https://www.bundesimmobilien.de/",
     "sources": [
-        "https://login.bundesimmobilien.de/nutzungsbedingungen-und-datenschutzerklaerung.html",
-        "https://login.bundesimmobilien.de/impressum.html"
+        "https://pages.bundesimmobilien.de/datenschutzerklaerung",
+        "https://pages.bundesimmobilien.de/impressum"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

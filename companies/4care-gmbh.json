@@ -13,7 +13,7 @@
     "email": "datenschutz@4care.de",
     "web": "https://www.4care.de",
     "sources": [
-        "https://www.4care.de/datenschutz.html",
+        "https://www.4care.de/datenschutz",
         "https://github.com/datenanfragen/data/issues/543"
     ],
     "suggested-transport-medium": "email",

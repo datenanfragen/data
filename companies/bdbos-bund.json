@@ -13,7 +13,7 @@
     "email": "DSB@bdbos.bund.de",
     "web": "https://www.bdbos.bund.de",
     "sources": [
-        "https://www.bdbos.bund.de/DE/Service/Datenschutzhinweis/datenschutz_node.html"
+        "https://www.bdbos.bund.de/DE/Service/Datenschutzerklaerung/datenschutz_node.html"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

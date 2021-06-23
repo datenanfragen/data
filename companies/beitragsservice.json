@@ -15,7 +15,8 @@
     "web": "https://www.rundfunkbeitrag.de",
     "sources": [
         "https://www.rundfunkbeitrag.de/der_rundfunkbeitrag/beitragsservice/datenschutz/datenschutzbeauftragte/index_ger.html",
-        "https://www.rundfunkbeitrag.de/impressum/index_ger.html"
+        "https://www.rundfunkbeitrag.de/impressum/index_ger.html",
+        "https://www.bfdi.bund.de/DE/Buerger/Inhalte/Allgemein/Datenschutz/Rundfunk_Beitragsservice.html"
     ],
     "comments": [
         "Webformular: https://www.rundfunkbeitrag.de/der_rundfunkbeitrag/beitragsservice/datenschutz/datenschutzkontaktformular/index_ger.html",

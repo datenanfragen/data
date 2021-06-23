@@ -1,19 +1,25 @@
 {
     "slug": "bitcoin-de",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance"
     ],
-    "name": "Bitcoin Deutschland AG",
-    "address": "Nordstraße 14\n32051 Herford\nDeutschland",
+    "name": "futurum bank AG",
+    "runs": [
+        "Bitcoin.de",
+        "Bitcoin Deutschland AG (ehem.)"
+    ],
+    "address": "Hochstraße 35-37\n60313 Frankfurt am Main\nDeutschland",
     "phone": "+49 5221 85411 25",
     "fax": "+49 5221 85411 29",
     "email": "datenschutz@bitcoin.de",
     "web": "https://www.bitcoin.de/",
     "sources": [
-        "https://www.bitcoin.de/de/impressum"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.bitcoin.de/de/impressum",
+        "https://www.bitcoin.de/de/datenschutzerklaerung",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1853840&land_abk=nw"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

@@ -4,10 +4,11 @@
     "address": "Joachimsthaler Straße 34\n10719 Berlin\nDeutschland",
     "phone": "+49 30 398 018 10",
     "fax": "+49 40 29 81 30 99",
-    "email": "info@adler-ag.com",
+    "email": "info@adler-group.com",
     "web": "http://adler-ag.com/",
     "sources": [
-        "http://adler-ag.com/impressum/"
+        "http://adler-ag.com/impressum/",
+        "https://adler-ag.com/datenschutz-2/"
     ],
     "relevant-countries": [
         "de"

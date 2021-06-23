@@ -11,9 +11,9 @@
     "phone": "+49 511 9566 5624",
     "fax": "+49 511 9566 9600",
     "email": "datenschutz@bundessortenamt.de",
-    "web": "https://www.bundessortenamt.de/internet30/index.php",
+    "web": "https://www.bundessortenamt.de/bsa/",
     "sources": [
-        "https://www.bundessortenamt.de/internet30/index.php?id=239"
+        "https://www.bundessortenamt.de/bsa/datenschutz"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

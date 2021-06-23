@@ -11,7 +11,8 @@
     "web": "https://www.aok.de/",
     "sources": [
         "https://www.aok.de/inhalt/informationen-zur-datenverarbeitung/",
-        "https://www.aok.de/inhalt/impressum-6/"
+        "https://www.aok.de/inhalt/impressum-6/",
+        "https://www.aok.de/pk/fileadmin/user_upload/Universell/05-Content-PDF/informationen-zur-datenverarbeitung-durch-die-aok.pdf"
     ],
     "relevant-countries": [
         "de"

@@ -7,7 +7,7 @@
     "address": "Hauptstraße 68\n02742 Friedersdorf\nDeutschland",
     "phone": "+49 35872 353 10",
     "fax": "+49 35872 353 30",
-    "email": "datenschutz@all-inkl.com",
+    "email": "info@all-inkl.com",
     "web": "https://all-inkl.com/",
     "sources": [
         "https://all-inkl.com/datenschutz/",
@@ -16,6 +16,5 @@
     "relevant-countries": [
         "de"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

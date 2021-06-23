@@ -15,7 +15,8 @@
     "email": "contact@bluebrixx.com",
     "web": "https://www.bluebrixx.com",
     "sources": [
-        "https://www.bluebrixx.com/de/policy_privacy"
+        "https://www.bluebrixx.com/de/policy_privacy",
+        "https://www.bluebrixx.com/de/legal_notice"
     ],
     "quality": "verified"
 }

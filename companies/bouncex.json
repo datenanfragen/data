@@ -6,12 +6,15 @@
     "categories": [
         "ads"
     ],
-    "name": "Bounce Exchange, Inc.",
-    "address": "620 8th Avenue\nFloor 21\nNew York\nNY 10018-1618\nUnited States of America",
-    "email": "privacy@bounceexchange.com",
-    "web": "https://www.bouncex.com/",
+    "name": "Wunderkind Corporation",
+    "runs": [
+        "Bounce Exchange, Inc. (BounceX, formerly)"
+    ],
+    "address": "c/o ePrivacy Holding GmbH\nGroße Bleichen 21\n20354 Hamburg\nGermany",
+    "email": "privacy@wunderkind.co",
+    "web": "https://www.wunderkind.co",
     "sources": [
-        "https://www.bouncex.com/privacy/"
+        "https://www.wunderkind.co/uk/privacy/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

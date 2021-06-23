@@ -14,7 +14,7 @@
     "email": "datenschutz@bracke.eu",
     "web": "https://www.bracke.eu/",
     "sources": [
-        "https://www.bracke.eu/pages/main_pages/Datenschutz.php"
+        "https://bracke.eu/datenschutzerklaerung/"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

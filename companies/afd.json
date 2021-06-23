@@ -12,7 +12,8 @@
     "email": "datenschutz@afd.de",
     "web": "https://www.afd.de",
     "sources": [
-        "https://github.com/datenanfragen/data/issues/150"
+        "https://github.com/datenanfragen/data/issues/150",
+        "https://www.afd.de/datenschutzhinweise/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

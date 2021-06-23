@@ -17,7 +17,8 @@
     "sources": [
         "https://www.afterpay.de/datenschutz",
         "https://www.afterpay.de/impressum",
-        "https://github.com/datenanfragen/data/pull/887"
+        "https://github.com/datenanfragen/data/pull/887",
+        "https://documents.myafterpay.com/privacy-statement/de_de/muster"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
