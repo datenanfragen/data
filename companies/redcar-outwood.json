@@ -1,0 +1,20 @@
+{
+    "slug": "redcar-outwood",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "Outwood Academy Redcar",
+    "runs": [
+        "Outwood Grange Academies Trust"
+    ],
+    "address": "Cotswold Drive\nRedcar\nTS10 4AB",
+    "phone": "01642 289211",
+    "email": "enquiries@redcar.outwood.com",
+    "web": "http://redcar.outwood.com",
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1156"
+    ]
+}
