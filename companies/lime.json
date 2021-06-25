@@ -1,46 +1,51 @@
 {
     "slug": "lime",
     "relevant-countries": [
-        "at",
-        "be",
-        "bg",
-        "cz",
-        "dk",
-        "fi",
-        "fr",
-        "de",
-        "gr",
-        "hu",
-        "it",
-        "no",
-        "pl",
-        "pt",
-        "ro",
-        "es",
-        "se",
-        "ch",
-        "gb"
+        "all"
     ],
     "categories": [
         "travel"
     ],
     "name": "Lime Electric Ireland Limited",
-    "address": "Suite 305\nThe Masonry Building\n151 Thomas street\nDublin 8\nIreland",
-    "email": "dpo@li.me",
+    "runs": [
+        "Lime GmbH",
+        "Lime Network",
+        "Lime Technology EOOD",
+        "Lime (Cyprus) Company Ltd.",
+        "Lime Network s.r.o.",
+        "Lime Technology ApS",
+        "Lime SARL",
+        "Lime Technology Oy",
+        "LimeBike Germany GmbH",
+        "Lime Transportation Technology, LLC",
+        "Lime Technology KFT",
+        "Lime Technology S.R.L.",
+        "Lime Norway AS",
+        "Lime Network B.V.",
+        "Lime Technology sp. z o.o.",
+        "Lime Technology SL",
+        "Lime AB",
+        "LimeBike Switzerland AG",
+        "Lime Technology Limited",
+        "Neutronnet SA"
+    ],
+    "address": "6th Floor, South Bank House, Barrow Street\nDublin 4\nD04 TR29\nIreland",
+    "email": "legal@li.me",
     "web": "https://www.li.me",
     "sources": [
-        "https://www.li.me/locations",
         "https://www.li.me/privacy",
         "https://www.li.me/myinformation"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
-            "desc": "Address",
-            "type": "address"
+            "desc": "Email",
+            "type": "email",
+            "optional": false
         }
     ],
     "suggested-transport-medium": "email",
