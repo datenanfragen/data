@@ -1,0 +1,19 @@
+{
+    "slug": "encliso",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "encliso GmbH",
+    "address": "Schillerstraße 3\n33415 Verl",
+    "phone": "+49 5246 9359199",
+    "email": "info@encliso.de",
+    "web": "http://www.encliso.de",
+    "sources": [
+        "Registernummer: HRB 9168",
+        "https://github.com/datenanfragen/data/pull/1162"
+    ],
+    "quality": "verified"
+}
