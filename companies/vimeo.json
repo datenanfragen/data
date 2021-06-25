@@ -15,6 +15,7 @@
         "https://vimeo.com/terms",
         "https://github.com/datenanfragen/data/pull/1152"
     ],
+    "suggested-transport-medium": "email",
     "request-language": "en",
     "quality": "verified"
 }
