@@ -12,8 +12,8 @@
     "web": "https://discord.com",
     "sources": [
         "https://discord.com/privacy",
-        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=243221325",
         "https://discord.com/terms",
+        "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=03472899-23565581",
         "https://github.com/datenanfragen/data/pull/1159"
     ],
     "request-language": "en",
