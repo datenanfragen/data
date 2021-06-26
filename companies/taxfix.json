@@ -1,0 +1,20 @@
+{
+    "slug": "taxfix",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Taxfix GmbH",
+    "address": "Karl-Liebknecht-Str. 34\n10178 Berlin",
+    "phone": "+49 30 92106949",
+    "email": "privacy@taxfix.de",
+    "web": "https://taxfix.de",
+    "sources": [
+        "privacy@taxfix.de",
+        "https://github.com/datenanfragen/data/pull/1163"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
