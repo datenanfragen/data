@@ -1,0 +1,26 @@
+{
+    "slug": "swapfiets",
+    "relevant-countries": [
+        "be",
+        "de",
+        "dk",
+        "fr",
+        "gb",
+        "it",
+        "nl",
+        "at",
+        "es"
+    ],
+    "name": "Swapfiets",
+    "address": "Amsteldijk 216, 1079 LK, Amsterdam, The Netherlands",
+    "phone": "+31 88 991 1600",
+    "email": "privacy@swapfiets.nl",
+    "web": "https://swapfiets.com",
+    "sources": [
+        "swapfiets.nl",
+        "swapfiets.com",
+        "https://github.com/datenanfragen/data/pull/1165"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
