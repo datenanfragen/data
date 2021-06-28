@@ -1,19 +1,22 @@
 {
     "slug": "ayondo",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "finance"
     ],
-    "name": "ayondo portfolio management GmbH",
-    "address": "Niddastraße 91\n60329 Frankfurt am Main\nDeutschland",
+    "name": "Midas Software GmbH",
+    "runs": [
+        "ayondo portfolio management GmbH (ehem.)"
+    ],
+    "address": "Passauer Straße 5\n94161 Ruderting \nDeutschland",
     "phone": "+49 69 99 99 941 50",
-    "email": "service@ayondo.com",
+    "email": "midas@ayondo.one",
     "web": "http://www.ayondo.com",
     "sources": [
         "http://www.ayondo.com/de/privacy-policy/",
         "http://www.ayondo.com/de/imprint/"
-    ],
-    "relevant-countries": [
-        "all"
     ],
     "quality": "verified"
 }

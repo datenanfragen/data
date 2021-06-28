@@ -14,7 +14,7 @@
     "email": "datenschutz@astradirect.de",
     "web": "https://www.astradirect.de/",
     "sources": [
-        "https://www.astradirect.de/index.html?p=impressum",
+        "https://www.astradirect.de/impressum",
         "https://github.com/datenanfragen/data/issues/490"
     ],
     "suggested-transport-medium": "email",

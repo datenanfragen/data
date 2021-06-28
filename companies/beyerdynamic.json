@@ -7,13 +7,15 @@
         "entertainment"
     ],
     "name": "beyerdynamic GmbH & Co. KG",
-    "address": "c/o WFC IT GmbH\nPflastergasse 5\n74889 Sinsheim\nDeutschland",
-    "phone": "+49 7261 94520202",
-    "email": "datenschutz@wfc-it.com",
+    "address": "Theresienstraße 8\n74072 Heilbronn\nDeutschland",
+    "phone": "+49 7131 618 76 26",
+    "fax": "+49 7131 617 224",
+    "email": "datenschutz@dominox.de",
     "web": "https://www.beyerdynamic.de/",
     "sources": [
         "https://www.beyerdynamic.de/rechtliche-informationen/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/pull/861"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

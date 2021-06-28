@@ -13,7 +13,7 @@
     "email": "datenschutz@bvl.bund.de",
     "web": "https://www.bvl.bund.de",
     "sources": [
-        "https://www.bvl.bund.de/DE/Service/Datenschutz/datenschutz_node.html"
+        "https://www.bvl.bund.de/DE/Meta/Datenschutz/datenschutz_node.html"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

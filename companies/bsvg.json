@@ -14,7 +14,7 @@
     "address": "Am Hauptgüterbahnhof 28\n38126 Braunschweig\nDeutschland",
     "phone": "+49 531 3 83 20 50",
     "fax": "+49 531 3 83 27 77",
-    "email": "info@verkehr-bs.de",
+    "email": "datenschutz@bsvg.net",
     "web": "https://verkehr-bs.de",
     "sources": [
         "https://www.verkehr-bs.de/seknav/datenschutz.html",
@@ -30,5 +30,6 @@
             "type": "email"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

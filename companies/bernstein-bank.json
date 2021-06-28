@@ -16,8 +16,9 @@
     "email": "privacy@bernstein-bank.com",
     "web": "https://www.bernstein-bank.com",
     "sources": [
-        "https://www.bernstein-bank.com/service/#contact",
-        "https://github.com/datenanfragen/data/issues/266"
+        "https://github.com/datenanfragen/data/issues/266",
+        "https://bernstein-bank.azureedge.net/download/documents/DE/DE20200619_Bernstein_Bank_Datenschutzerklaerung.pdf",
+        "https://bernstein-bank.com/de/impressum/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

@@ -11,7 +11,7 @@
     "email": "privacy@audiencerate.com",
     "web": "http://www.audiencerate.com/",
     "sources": [
-        "http://www.audiencerate.com/privacy/"
+        "https://www.audiencerate.com/data-ethics-privacy/"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",

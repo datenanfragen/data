@@ -16,7 +16,8 @@
     "web": "https://www.amobee.com/",
     "sources": [
         "https://www.amobee.com/trust/privacy-guidelines/",
-        "https://www.amobee.com/company/"
+        "https://www.amobee.com/company/",
+        "https://www.amobee.com/gdpr/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

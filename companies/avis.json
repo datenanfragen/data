@@ -1,5 +1,8 @@
 {
     "slug": "avis",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "travel",
         "insurance"
@@ -11,14 +14,12 @@
     ],
     "address": "Zimmersmühlenweg 21\n61437 Oberursel\nDeutschland",
     "phone": "+49 6171 68 0",
-    "email": "customerservice@avis.de",
+    "email": "dpo@abg.com",
     "web": "https://www.avis.de/",
     "sources": [
         "https://www.avis.de/das-kleingedruckte/datenschutzrichtlinien",
         "https://www.avis.de/das-kleingedruckte/impressum"
     ],
-    "relevant-countries": [
-        "de"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

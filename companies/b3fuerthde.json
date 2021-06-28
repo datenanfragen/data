@@ -13,7 +13,8 @@
     "email": "sekretariat@b3-fuerth.de",
     "web": "http://www.b3-fuerth.de",
     "sources": [
-        "http://www.b3-fuerth.de/b3/home.nsf/contentview/~impressum"
+        "http://www.b3-fuerth.de/b3/home.nsf/contentview/~impressum",
+        "https://www.b3-fuerth.de/b3/home.nsf/imgref/Download_B3%20F%C3%BCrth_Allgemeine%20Auskunft%20nach%20DGSVO%20(Stand%202020_08_28).pdf/$FILE/B3%20F%C3%BCrth_Allgemeine%20Auskunft%20nach%20DGSVO%20(Stand%202020_08_28).pdf"
     ],
     "required-elements": [
         {

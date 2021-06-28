@@ -1,5 +1,8 @@
 {
     "slug": "breuninger",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -18,11 +21,8 @@
     "email": "datenschutz@breuninger.de",
     "web": "https://www.breuninger.com/",
     "sources": [
-        "https://www.breuninger.com/layer/print/privacy.cmd",
-        "https://www.breuninger.com/service/impressum.cmd"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.breuninger.com/de/service/datenschutz/",
+        "https://www.breuninger.com/de/service/impressum/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

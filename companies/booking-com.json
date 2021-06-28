@@ -1,5 +1,8 @@
 {
     "slug": "booking-com",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "travel"
     ],
@@ -8,17 +11,15 @@
         "Booking.basic",
         "Booking.com App"
     ],
-    "address": "Herengracht 597\n1017 CE Amsterdam\nNiederlande",
+    "address": "Herengracht 597\n1017 CE Amsterdam\nNetherlands",
     "phone": "+31 70 770 3884",
     "fax": "+31 20 712 5609",
-    "email": "customer.service@booking.com",
+    "email": "dataprotectionoffice@booking.com",
     "web": "https://www.booking.com",
     "sources": [
         "https://www.booking.com/content/privacy.de.html",
         "https://www.booking.com/content/legal.de.html"
     ],
-    "relevant-countries": [
-        "all"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

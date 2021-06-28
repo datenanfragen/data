@@ -29,7 +29,8 @@
     "email": "dpo@airbnb.com",
     "web": "https://www.airbnb.com/",
     "sources": [
-        "https://www.airbnb.com/terms/privacy_policy",
+        "https://www.airbnb.com/help/article/2855/privacy-policy",
+        "https://www.airbnb.com/help/article/2860/outside-of-the-united-states",
         "https://github.com/datenanfragen/data/issues/83"
     ],
     "suggested-transport-medium": "email",

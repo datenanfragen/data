@@ -13,7 +13,8 @@
     "web": "https://www.aok.de/pk/niedersachsen/",
     "sources": [
         "https://www.aok.de/pk/niedersachsen/inhalt/informationen-zur-datenverarbeitung-2/",
-        "https://github.com/datenanfragen/data/issues/82"
+        "https://github.com/datenanfragen/data/issues/82",
+        "https://www.aok.de/pk/fileadmin/user_upload/AOK-Niedersachsen/05-Content-PDF/informationen-zur-datenverarbeitung-durch-die-aok-niedersachsen.pdf"
     ],
     "needs-id-document": false,
     "quality": "verified"

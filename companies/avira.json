@@ -32,18 +32,16 @@
     "address": "Kaplaneiweg 1\n88069 Tettnang\nGermany",
     "phone": "+49 7542 500 0",
     "fax": "+49 7542 500 3000",
-    "email": "data-privacy@avira.com",
+    "email": "datenschutzbeauftragter@avira.de",
     "web": "https://www.avira.com",
     "sources": [
         "https://www.avira.com/de/general-privacy",
         "https://www.avira.com/en/general-privacy",
         "https://github.com/datenanfragen/data/issues/49",
-        "https://www.avira.com/de/general-imprint"
+        "https://www.avira.com/de/general-imprint",
+        "https://www.avira.com/de/privacy-policy/contact"
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Alternative email addresses: privacy@avira.com, datenschutz@avira.de"
-    ],
     "quality": "verified"
 }

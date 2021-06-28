@@ -6,13 +6,17 @@
     "categories": [
         "travel"
     ],
-    "name": "Buchbinder",
-    "address": "c/o Carpartner Nord GmbH\nKulmbacher Straße 8-10\n93057 Regensburg\nDeutschland",
-    "email": "datenschutz@buchbinder.de",
+    "name": "EMobG Services Germany GmbH",
+    "runs": [
+        "Buchbinder"
+    ],
+    "address": "Anckelmannsplatz 1\n20537 Hamburg\nDeutschland",
+    "phone": "+49 40 520 18 0",
+    "email": "dpo@europcar.com",
     "web": "https://www.buchbinder.de",
     "sources": [
         "https://www.buchbinder.de/de/weitere-informationen/impressum/",
-        "https://www.buchbinder.de/de/weitere-informationen/datenschutz/",
+        "https://www.buchbinder.de/fileadmin/user_upload/corporate/user_upload/Datenschutzrichtlinie_deutsch.pdf",
         "https://github.com/datenanfragen/data/issues/259"
     ],
     "suggested-transport-medium": "email",
