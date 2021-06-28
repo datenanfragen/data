@@ -7,13 +7,14 @@
         "commerce"
     ],
     "name": "Phoenix Contact",
-    "address": "Flachsmarktstr. 8 · 32825 Blomberg · ",
-    "phone": "+49 5235 312000",
-    "fax": "+49 5235 312999",
-    "email": "info@phoenixcontact.de",
+    "address": "Flachsmarktstraße 8\n32825 Blomberg\nDeutschland",
+    "phone": "+49 5235 300",
+    "fax": "+49 5235 341200",
+    "email": "corporatewebsite@phoenixcontact.com",
     "web": "https://www.phoenixcontact.com/",
     "sources": [
-        "Amtsgericht Lemgo: HRB 7008",
+        "https://www.phoenixcontact.com/online/portal/pc?1dmy&urile=wcm%3apath%3a/pcde/web/offcontext/footer/impressum/e8b3612d-9371-496d-8d36-ff615ee344a5",
+        "https://www.phoenixcontact.com/online/portal/pc?1dmy&urile=wcm%3apath%3a/pcde/web/offcontext/footer/terms_and_conditions/f182d5b9-f195-4047-bbc0-654dccf45c41/f182d5b9-f195-4047-bbc0-654dccf45c41",
         "https://github.com/datenanfragen/data/pull/1161"
     ],
     "quality": "verified"
