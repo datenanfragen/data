@@ -27,5 +27,6 @@
             "optional": false
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
