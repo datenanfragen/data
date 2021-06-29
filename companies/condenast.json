@@ -1,0 +1,21 @@
+{
+    "slug": "condenast",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "ads"
+    ],
+    "name": "Condé Nast Holdings Limited",
+    "address": "c/o Data Protection Officer\nThe Adelphi, 1-11 John Adam Street\nLondon, WC2N 6HT\nEngland",
+    "email": "dpo@condenast.com",
+    "web": "https://www.condenast.com",
+    "sources": [
+        "https://www.condenast.com/privacy-policy#notice-to-residents-of-the-european-economic-area",
+        "https://github.com/datenanfragen/data/pull/1166"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
