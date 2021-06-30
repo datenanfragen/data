@@ -1,5 +1,8 @@
 {
     "slug": "hp-store",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -20,8 +23,5 @@
         "Ansprechpartner laut Datenschutzerklärung: HP France SAS, Global Legal Affairs, ATTN: Privacy Office, 20 Quai du Point-du-Jour, 7th Floor (Seine) C.P. 92100, Boulogne-Billancourt, France."
     ],
     "suggested-transport-medium": "email",
-    "relevant-countries": [
-        "de"
-    ],
     "quality": "verified"
 }

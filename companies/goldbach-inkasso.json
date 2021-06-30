@@ -1,5 +1,8 @@
 {
     "slug": "goldbach-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "collection agency"
     ],
@@ -10,11 +13,8 @@
     "email": "datenschutz@inkasso-goldbach.de",
     "web": "https://inkasso-goldbach.com/",
     "sources": [
-        "https://inkasso-goldbach.com/datenschutz",
-        "https://inkasso-goldbach.com/impressum"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.inkasso-goldbach.com/Datenschutz/DE_index_1033.html",
+        "https://www.inkasso-goldbach.com/Impressum/DE_index_1059.html"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

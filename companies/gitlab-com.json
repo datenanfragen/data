@@ -8,11 +8,10 @@
         "GitLab Inc."
     ],
     "address": "Ondiep 108\nUtrecht, 3552 EK\nNetherlands",
-    "email": "gdpr-request@gitlab.com",
+    "email": "DPO@gitlab.com",
     "sources": [
         "https://about.gitlab.com/privacy/",
         "https://www.bloomberg.com/profiles/companies/1295950D:NA-gitlab-bv",
-        "https://about.gitlab.com/handbook/support/workflows/gdpr_article-15.html",
         "https://github.com/datenanfragen/data/issues/628"
     ],
     "required-elements": [

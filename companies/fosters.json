@@ -3,18 +3,28 @@
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "entertainment"
+    ],
     "name": "Gannett Co., Inc.",
     "runs": [
-        "Fosters.com"
+        "Fosters.com",
+        "USA TODAY (eu.usatoday.com)"
     ],
-    "address": "111 New Hampshire Ave.\nPortsmouth\nNH 03801\nUnited States of America",
-    "phone": "+1 844 510 3710",
-    "email": "privacy@gannett.com",
+    "address": "c/o EDPO\nAvenue Huart Hamoir 71\n1030 Brussels\nBelgium",
+    "phone": "+1 703 854 6000",
+    "email": "privacy@edpo.brussels",
     "web": "https://www.fosters.com/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/558",
-        "https://www.gannett.com/privacy-statement/"
+        "https://www.gannett.com/contact/",
+        "https://www.gannett.com/privacy-statement/",
+        "https://cm.fosters.com/privacy/",
+        "https://cm.usatoday.com/privacy/"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Web form for requests: https://privacyportal.onetrust.com/webform/5b4b73e5-9c9c-4c5c-82c1-9389c9e42f1c/ba99f627-992e-4377-a31b-f357eaf81c21"
+    ],
     "quality": "verified"
 }

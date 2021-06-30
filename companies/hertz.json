@@ -1,29 +1,42 @@
 {
     "slug": "hertz",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "travel"
     ],
-    "name": "Hertz Autovermietung GmbH",
+    "name": "Hertz Europe Ltd",
     "runs": [
-        "Hertz Gold Plus Rewards",
         "Hertz 24/7",
+        "Thrifty",
+        "Firefly",
+        "Hertz Gold Plus Rewards",
         "Hertz NeverLost.com",
-        "Hertz Autovermietung GmbH"
+        "Hertz Europe Limited",
+        "Hertz Europe Service Centre Ltd",
+        "Hertz Belgium BVBA",
+        "Hertz Autopujcovna s.r.o.",
+        "Hertz Autovermietung GmbH",
+        "Hertz de Espana SL",
+        "Hertz France SAS",
+        "Hertz Italiana S.r.l.",
+        "Hertz Luxembourg Sarl",
+        "Hertz Automobielen Nederland BV",
+        "Hertz Autopozicovna s.r.o.",
+        "Hertz (UK) Limited",
+        "Eileo SAS"
     ],
     "address": "Hertz House\n11 Vine Street\nUxbridge, Middlesex\nUB8 1QE\nUnited Kingdom",
     "phone": "+49 6196 937 0",
     "fax": "+49 6196 937 289",
-    "email": "alpha_de@hertz.com",
+    "email": "euprivacy@hertz.com",
     "web": "https://www.hertz.de",
     "sources": [
         "https://www.hertz.de/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp",
         "https://www.hertz.de/rentacar/misc/simpleIndex.jsp?targetPage=Impressum.xml",
         "https://www.hertz.at/rentacar/misc/simpleIndex.jsp?targetPage=ATImpressumNew.xml"
     ],
-    "relevant-countries": [
-        "de",
-        "at",
-        "ch"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

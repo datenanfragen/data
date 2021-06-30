@@ -1,25 +1,28 @@
 {
     "slug": "hagebau",
-    "categories": [
-        "commerce"
-    ],
-    "name": "baumarkt direkt GmbH & Co. KG",
-    "address": "Alter Teichweg 25\n22081 Hamburg \nDeutschland",
-    "phone": "+49 40 235 320",
-    "fax": "+49 180 630 35 35",
-    "email": "datenschutz@baumarktdirekt.de",
-    "web": "https://www.hagebau.de/",
-    "sources": [
-        "https://www.hagebau.de/datenschutz/",
-        "https://www.hagebau.de/impressum/"
-    ],
-    "comments": [
-        "Telefonnummer eigentlich: +49 1806 03 00 03 (Festnetz 20 Cent/Anruf inkl. MwSt., Mobilfunk max. 60 Cent/Anruf inkl. MwSt.). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01806030003",
-        "Achtung: Faxnummer ist kostenpflichtig (Festnetz 20 Cent/Anruf inkl. MwSt., Mobilfunk max. 60 Cent/Anruf inkl. MwSt.)!"
-    ],
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "hagebau connect GmbH & Co. KG",
+    "runs": [
+        "hagebau connect GmbH & Co. KG",
+        "baumarkt direkt GmbH & Co. KG (ehem.)"
+    ],
+    "address": "Alter Teichweg 25\n22081 Hamburg \nDeutschland",
+    "phone": "+49 40 600 235 505",
+    "email": "datenschutz@hagebau.com",
+    "web": "https://www.hagebau.de/",
+    "sources": [
+        "https://www.hagebau.de/datenschutz/",
+        "https://www.hagebau.de/impressum/",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=464305&land_abk=hh"
+    ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Webformular für Anfragen: https://www.dsextern.de/anfragen"
+    ],
     "quality": "verified"
 }

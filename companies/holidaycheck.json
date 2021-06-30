@@ -1,16 +1,16 @@
 {
     "slug": "holidaycheck",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "travel"
     ],
     "name": "HolidayCheck AG",
-    "runs": [
-        "HolidayCheck Online Reisebüro"
-    ],
     "address": "Bahnweg 8\n8598 Bottighofen\nSwitzerland",
     "phone": "+49 800 240 44 55",
     "fax": "+49 180 6 600 419",
-    "email": "datenschutz@holidaycheck.de",
+    "email": "datenschutz@holidaycheck.com",
     "web": "https://www.holidaycheck.de/",
     "sources": [
         "https://www.holidaycheck.de/datenschutz",
@@ -18,9 +18,6 @@
     ],
     "comments": [
         "Achtung: Faxnummer ist kostenpflichtig (keine Angabe zum Preis im Impressum)!"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

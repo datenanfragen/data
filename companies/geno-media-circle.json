@@ -11,12 +11,13 @@
     "address": "Weidestraße 122b\n22083 Hamburg\nDeutschland",
     "phone": "+49 40 68878775",
     "fax": "+49 40 68879560",
-    "email": "info@stolzenhain-anwalt.de",
+    "email": "datenschutz@geno-media-circle.de",
     "web": "https://www.geno-media-circle.de",
     "sources": [
         "https://www.geno-media-circle.de/datenschutz.php",
         "https://github.com/datenanfragen/data/issues/86"
     ],
+    "suggested-transport-medium": "email",
     "needs-id-document": false,
     "quality": "verified"
 }

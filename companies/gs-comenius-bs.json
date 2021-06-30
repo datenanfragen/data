@@ -14,9 +14,10 @@
     "email": "datenschutzkoordinator@gs-comenius.de",
     "web": "https://www.gs-comenius.de/",
     "sources": [
-        "https://www.gs-comenius.de/kontakt/datenschutzerklaerung.html",
+        "https://www.gs-comenius.de/datenschutzerklaerung/",
         "https://www.gs-comenius.de/kontakt.html"
     ],
+    "suggested-transport-medium": "email",
     "request-language": "de",
     "quality": "verified",
     "facet-group": "school"

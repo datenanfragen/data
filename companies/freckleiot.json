@@ -4,14 +4,20 @@
         "all"
     ],
     "categories": [
+        "addresses",
         "ads"
     ],
-    "name": "Freckle IoT Ltd.",
-    "address": "409 King St. West\nSuite 400\nToronto\nON M5V 1K1\nCanada",
-    "email": "privacy@freckleiot.com",
-    "web": "https://freckleiot.com/",
+    "name": "PlaceIQ, Inc.",
+    "runs": [
+        "Freckle IoT Ltd. (formerly)"
+    ],
+    "address": "1732 1st Ave #20951\nNew York\nNY 10128\nUSA",
+    "phone": "+1 800 311 2414",
+    "email": "privacy@placeiq.com",
+    "web": "https://www.placeiq.com/",
     "sources": [
-        "https://freckleiot.com/privacy-policy/"
+        "https://www.placeiq.com/privacy/",
+        "https://www.placeiq.com/2020/04/placeiq-acquires-location-data-and-foot-traffic-measurement-business-freckleiot/"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
