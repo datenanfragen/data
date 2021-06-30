@@ -1,26 +1,24 @@
 {
     "slug": "druckerzubehoer-de",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
     "name": "Internetmarketing Bielefeld GmbH",
     "runs": [
-        "Druckerzubehör-Online-Shop www.druckerzubehoer.de"
+        "Druckerzubehör-Online-Shop www.druckerzubehoer.de",
+        "Triple A Marketing GmbH"
     ],
     "address": "Am Lenkwerk 3\n33609 Bielefeld\nDeutschland",
     "phone": "+49 800 2270000",
     "fax": "+49 800 2280000",
-    "email": "datenschutzbeauftragter@druckerzubehoer.de",
+    "email": "kontakt-dsb@althammer-kill.de",
     "web": "https://www.druckerzubehoer.de/",
     "sources": [
         "https://www.druckerzubehoer.de/shop/datenschutz.phtml?lng=de_DE",
         "https://www.druckerzubehoer.de/shop/impressum.phtml?lng=de_DE"
-    ],
-    "comments": [
-        "Laut Impressum verantwortlich für Kundenservice und Versand: Triple A Marketing GmbH an gleicher Adresse und mit gleichen Kontaktdaten."
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

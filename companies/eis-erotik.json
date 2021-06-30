@@ -1,23 +1,23 @@
 {
     "slug": "eis-erotik",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
     "name": "EIS GmbH",
+    "runs": [
+        "Triple A Sales GmbH"
+    ],
     "address": "Am Lenkwerk 3\n33609 Bielefeld\nDeutschland",
     "phone": "+49 800 4450000",
     "fax": "+49 800 4460000",
-    "email": "datenschutzbeauftragter@eis.de",
+    "email": "kontakt-dsb@althammer-kill.de",
     "web": "https://www.eis.de/",
     "sources": [
-        "https://www.eis.de/?api-url=%2Fdatenschutz%3Fajax%3Dtrue&api-params=%3Ft%3Daprikot%26tc%3Dtrue",
-        "https://www.eis.de/?api-url=%2Fimpressum%3Fajax%3Dtrue&api-params=%3Ft%3Daprikot%26tc%3Dtrue"
-    ],
-    "comments": [
-        "Für den Versand und Kundenservice ist laut Impressum die Triple A Sales GmbH an gleicher Adresse und mit gleichen Kontaktdaten verantwortlich."
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.eis.de/datenschutz",
+        "https://www.eis.de/impressum"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

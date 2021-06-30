@@ -11,8 +11,8 @@
     "email": "datenschutz@eos-solutions.com",
     "web": "https://www.eos-solutions.com",
     "sources": [
-        "https://www.eos-solutions.com/de/datenschutz/",
-        "https://www.eos-solutions.com/de/impressum/"
+        "https://eos-solutions.com/privacy-policy.html",
+        "https://eos-solutions.com/imprint.html"
     ],
     "required-elements": [
         {

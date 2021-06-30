@@ -1,27 +1,29 @@
 {
     "slug": "esprit-shop",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
     "name": "Esprit Europe GmbH",
     "runs": [
+        "Esprit Retail B.V. & Co. KG",
+        "Esprit Global Image GmbH",
         "Esprit Friends",
         "Esprit App"
     ],
     "address": "Esprit-Allee 1\n40882 Ratingen\nDeutschland",
     "phone": "+49 30 22 380 663",
     "fax": "+49 30 22 380 664",
-    "email": "service@esprit.de",
+    "email": "dp@esprit.com",
     "web": "https://www.esprit.de/",
     "sources": [
-        "https://www.esprit.de/support?cmd=VIEW_ARTICLE&article=232",
-        "https://www.esprit.de/support?cmd=VIEW_ARTICLE&article=246&tte=1031"
+        "https://hilfe.esprit.de/datenschutzbestimmungen-newsletter/",
+        "https://hilfe.esprit.de/datenschutzerklaerung-esprit-friends/",
+        "https://www.esprit.de/support?p=datenschutz",
+        "https://www.esprit.de/support?p=Impressum"
     ],
-    "comments": [
-        "Laut Datenschutzerklärung ist die Esprit Retail B.V. & Co. KG verantwortlich für die Erfassung und Verarbeitung Ihrer Bestellungen im Onlineshop und die Esprit Europe GmbH verantwortlich für die Qualitätssicherung des Kundenservices. Laut Impressum ist die Esprit Global Image GmbH verantwortlich für die Esprit-App.\nAlle an gleicher Adresse und mit gleichen Kontaktdaten. Anfragen zum Datenschutz seien an die Esprit Europe GmbH zu richten."
-    ],
-    "relevant-countries": [
-        "de"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

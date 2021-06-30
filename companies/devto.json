@@ -1,10 +1,11 @@
 {
+    "slug": "devto",
     "relevant-countries": [
         "all"
     ],
     "name": "Dev Community Inc.",
     "address": "20 Jay St #1110\nBrooklyn\nNY 11201\nUnited States of America",
-    "email": "privacy@dev.to",
+    "email": "yo@dev.to",
     "web": "https://dev.to",
     "sources": [
         "https://dev.to/privacy",
@@ -21,7 +22,5 @@
             "type": "email"
         }
     ],
-    "suggested-transport-medium": "email",
-    "slug": "devto",
     "quality": "verified"
 }

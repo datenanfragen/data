@@ -1,21 +1,23 @@
 {
     "slug": "everything5pounds",
     "relevant-countries": [
-        "gb"
+        "all"
     ],
     "categories": [
         "commerce"
     ],
     "name": "Fiver London Ltd.",
     "runs": [
-        "everything5pounds.com (www.everything5pounds.com)"
+        "Everything5pounds.com (E5P)"
     ],
-    "address": "54 – 56 Camden Lock Place\nLondon NW1 8AF\nUnited Kingdom",
+    "address": "Unit 44 Yardley Business Centre\nMiles Gray Road\nBasildon\nSS14 3GN\nUnited Kingdom",
+    "phone": "+44 208 997 3331",
     "email": "sales@everything5pounds.com",
     "web": "https://www.everything5pounds.com",
     "sources": [
         "https://www.everything5pounds.com/en/privacy-cookies",
-        "https://www.everything5pounds.com/en/contact-us"
+        "https://www.everything5pounds.com/en/contact-us",
+        "https://www.everything5pounds.com/terms-conditions"
     ],
     "request-language": "en",
     "quality": "verified"

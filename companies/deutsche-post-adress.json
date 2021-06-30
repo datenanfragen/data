@@ -7,10 +7,11 @@
     "address": "Am Anger 33\n33332 Gütersloh\nDeutschland",
     "phone": "+49 5241 5393 0",
     "fax": "+49 5241 5393 49",
-    "email": "auskunft@postadress.de",
+    "email": "datenschutz@postadress.de",
     "web": "https://www.deutschepost.de/de/p/postadress.html",
     "sources": [
-        "https://www.deutschepost.de/de/p/postadress/kontakt.html"
+        "https://www.deutschepost.de/de/p/postadress/kontakt.html",
+        "https://www.deutschepost.de/de/p/postadress/datenschutz.html"
     ],
     "required-elements": [
         {

@@ -17,8 +17,8 @@
     "email": "datenschutz@eventim.de",
     "web": "https://www.eventim.de",
     "sources": [
-        "https://www.eventim.de/tickets.html?doc=info/dataProtection",
-        "https://www.eventim.de/tickets.html?doc=info/imprint",
+        "https://www.eventim.de/help/data-protection/",
+        "https://www.eventim.de/help/imprint/",
         "https://github.com/datenanfragen/data/issues/40"
     ],
     "suggested-transport-medium": "email",

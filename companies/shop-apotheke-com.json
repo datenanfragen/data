@@ -1,23 +1,28 @@
 {
     "slug": "shop-apotheke-com",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
     "name": "Shop-Apotheke B.V.",
+    "runs": [
+        "Europa Apotheek Venlo B.V. (ehem.)"
+    ],
     "address": "Dirk Hartogweg 14\n5928 LV Venlo\nNiederlande",
     "phone": "+49 800 200 800 300",
     "fax": "+49 800 90 70 90 20",
-    "email": "kontakt@shop-apotheke.com",
+    "email": "datenschutz@shop-apotheke.com",
     "web": "https://www.shop-apotheke.com/",
     "sources": [
         "https://www.shop-apotheke.com/datenschutz.htm",
-        "https://www.shop-apotheke.com/apotheke_impressum.htm"
+        "https://www.shop-apotheke.com/apotheke_impressum.htm",
+        "https://www.shop-apotheke.com/europa-apotheek/"
     ],
+    "suggested-transport-medium": "email",
     "comments": [
         "Deutsche Adresse: shop-apotheke.com, Postfach 410118, 41241 Mönchengladbach, Deutschland."
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "quality": "verified"
 }

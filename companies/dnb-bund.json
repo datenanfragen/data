@@ -13,9 +13,10 @@
     "email": "datenschutzbeauftragter@dnb.de",
     "web": "https://www.dnb.de",
     "sources": [
-        "https://www.dnb.de/DE/Header/Datenschutz/datenschutz_node.html",
-        "https://www.dnb.de/DE/Header/Impressum/impressum_node.html"
+        "https://www.dnb.de/DE/Service/Datenschutz/datenschutz_node.html",
+        "https://www.dnb.de/DE/Service/Impressum/impressum_node.html"
     ],
+    "suggested-transport-medium": "email",
     "request-language": "de",
     "quality": "verified"
 }
