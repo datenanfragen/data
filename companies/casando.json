@@ -1,5 +1,8 @@
 {
     "slug": "casando",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -7,17 +10,15 @@
     "runs": [
         "Online-Baumarkt casando (www.casando.de)"
     ],
-    "address": "Industriepark Klause\nSchmiedeweg 1\n51789 Lindlar\nDeutschland",
+    "address": "Holz-Richter-Straße 1\n51789 Lindlar\nDeutschland",
     "phone": "+49 22 66 47 35 610",
     "fax": "+49 22 66 47 35 869",
-    "email": "info@casando.de",
+    "email": "dsb.holz-richter@cortina-consult.de",
     "web": "https://www.casando.de/",
     "sources": [
         "https://www.casando.de/info/datenschutz/",
         "https://www.casando.de/info/impressum/"
     ],
-    "relevant-countries": [
-        "de"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

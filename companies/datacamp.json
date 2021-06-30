@@ -6,12 +6,12 @@
     "categories": [
         "entertainment"
     ],
-    "name": "DataCamp Belgium BVBA",
+    "name": "DataCamp Belgium BV",
     "runs": [
         "DataCamp, Inc."
     ],
     "address": "Martelarenlaan 38\n3010 Kessel-Lo\nBelgium",
-    "email": "support@datacamp.com",
+    "email": "privacy@datacamp.com",
     "web": "https://www.datacamp.com",
     "sources": [
         "https://www.datacamp.com/privacy-policy",
@@ -19,9 +19,6 @@
         "https://www.datacamp.com/contact-us"
     ],
     "request-language": "en",
-    "comments": [
-        "Privacy contact form: https://www.datacamp.com/privacy-policy/feedback_and_issues",
-        "Address of DataCamp, Inc.: 350 Fifth Avenue, Suite # 7730, New York, NY 10118, United States of America"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

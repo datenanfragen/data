@@ -1,5 +1,8 @@
 {
     "slug": "eprimo",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "utility"
     ],
@@ -14,11 +17,8 @@
     "email": "datenschutz@eprimo.de",
     "web": "https://www.eprimo.de/",
     "sources": [
-        "https://www.eprimo.de/ueber-eprimo/datenschutzerklaerung",
-        "https://www.eprimo.de/ueber-eprimo/impressum"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.eprimo.de/datenschutz-disclaimer",
+        "https://www.eprimo.de/impressum"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

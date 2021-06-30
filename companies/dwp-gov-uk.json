@@ -7,11 +7,13 @@
         "public body"
     ],
     "name": "Department for Work and Pensions",
-    "address": "Benton Park View 6\nRoom BP6001\nMail Handling Site A\nWolverhampton\nWV98 1ZX\nUnited Kingdom",
+    "address": "Mail Handling Site A\nWolverhampton\nWV98 2EF\nUnited Kingdom",
     "email": "data.protectionofficer@dwp.gov.uk",
     "web": "https://www.gov.uk/government/organisations/department-for-work-pensions",
     "sources": [
-        "https://github.com/datenanfragen/data/issues/548"
+        "https://github.com/datenanfragen/data/issues/548",
+        "https://www.gov.uk/government/organisations/department-for-work-pensions/about/personal-information-charter",
+        "https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

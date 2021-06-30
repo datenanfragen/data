@@ -10,14 +10,13 @@
     "runs": [
         "DealeXtreme (www.dx.com)"
     ],
-    "address": "Room 301, Town Health Technology Centre\n10–12 Yuen Shun Circuit\nSha Tin\nNew Territories\nHong Kong",
-    "phone": "+852 755 33022388 8118",
-    "email": "ppsupport@mail.dealextreme.com",
+    "address": "3rd floor, Bd8\nyungu 2nd zone\nPingshan Road 1\nTaoyuan avenue, Nanshan District\nShenzhen\nChina",
+    "phone": "+86 755 86002030 8016",
     "web": "https://www.dx.com/",
     "sources": [
-        "https://www.dx.com/page-Privacy"
+        "https://help.dx.com/about/index/aid/C6EHPtbSrarkkwU/cid/CvBXPICEr6jkkw.html",
+        "https://help.dx.com/about/index/aid/B_BdN4GG_P7kkwM/cid/CvBXPICEr6jkkw.html"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

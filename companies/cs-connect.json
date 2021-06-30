@@ -13,7 +13,7 @@
     "email": "datenschutz@cs-connect.de",
     "web": "https://www.cs-connect.de",
     "sources": [
-        "https://www.cs-connect.de/eigenauskunft/eigenauskunft.html",
+        "https://www.cs-connect.de/datenschutz.jsp",
         "https://www.cs-connect.de/impressum.html"
     ],
     "required-elements": [
@@ -27,10 +27,10 @@
         }
     ],
     "request-language": "de",
-    "comments": [
-        "Tatsächliche Adresse: Alte Schmelze 11, 65201 Wiesbaden, Deutschland."
-    ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
+    "comments": [
+        "Webformular für Anfragen: https://www.cs-connect.de/kontakt/eigenauskunft.jsp"
+    ],
     "quality": "tested"
 }

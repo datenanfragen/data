@@ -1,5 +1,8 @@
 {
     "slug": "computeruniverse-net",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -7,18 +10,11 @@
     "address": "Grüner Weg 14\n61169 Friedberg\nDeutschland",
     "phone": "+49 6031 7910 0",
     "fax": "+49 6031 7910 200",
-    "email": "datenschutzbeauftragter@computeruniverse.net",
+    "email": "computeruniverse@datenschutzanfrage.de",
     "web": "https://www.computeruniverse.net/",
     "sources": [
-        "https://www.computeruniverse.net/group/datenschutz/computeruniverse-gmbh-datenschutzerklaerung.asp",
-        "https://www.computeruniverse.net/info/verfahrensverzeichnis.asp",
-        "https://www.computeruniverse.net/info/impressum.asp"
-    ],
-    "comments": [
-        "Weitere verantwortliche Stelle laut Datenschutzerklärung: computeruniverse S.à r.l., Datenschutzbeauftragter, Jürgen Kempter, 9, Avenue Guillaume, 1651 Luxemburg, Luxemburg. Diese ist laut Impressum Mit-Vertragspartner bei Kreditkartenzahlung."
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.computeruniverse.net/de/page/computeruniverse-gmbh-datenschutzerklaerung",
+        "https://www.computeruniverse.net/de/page/impressum"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

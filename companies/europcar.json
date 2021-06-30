@@ -1,23 +1,30 @@
 {
     "slug": "europcar",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "travel"
     ],
-    "name": "Europcar Autovermietung GmbH",
+    "name": "EMobG Services Germany GmbH",
     "runs": [
-        "Mein Europcar",
-        "Europcar-Privilege-Loyalitätsprogramm"
+        "Europcar",
+        "Buchbinder",
+        "Europcar Autovermietung GmbH (ehem.)",
+        "Europcar International S.A.S.U."
     ],
-    "address": "Tangstedter Landstraße 81\n22415 Hamburg\nDeutschland",
+    "address": "Anckelmannsplatz 1\n20537 Hamburg\nDeutschland",
     "phone": "+49 40 520180",
     "fax": "+49 40 520182610",
-    "email": "datenschutz@europcar.com",
+    "email": "dpo@europcar.com",
+    "web": "https://www.europcar.de",
     "sources": [
         "https://www.europcar.de/datenschutzrichtlinie",
-        "https://www.europcar.de/impressum"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.europcar.de/impressum",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=472092&land_abk=hh",
+        "https://www.buchbinder.de/de/weitere-informationen/impressum/",
+        "https://www.buchbinder.de/fileadmin/user_upload/corporate/user_upload/Datenschutzrichtlinie_deutsch.pdf",
+        "https://github.com/datenanfragen/data/issues/259"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

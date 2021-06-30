@@ -1,23 +1,49 @@
 {
     "slug": "expedia",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "travel"
     ],
     "name": "Expedia, Inc.",
+    "runs": [
+        "Hotels.com",
+        "Vrbo",
+        "Egencia",
+        "Hotwire.com",
+        "Orbitz.com",
+        "ebookers.com",
+        "CheapTickets.com",
+        "CarRentals.com",
+        "Expedia Cruises",
+        "Wotif",
+        "Travelocity",
+        "BEX Travel Asia PTE",
+        "WWTE Travel Ltd.",
+        "Expedia (Thailand) Ltd."
+    ],
     "address": "333 108th Ave. NE\nBellevue\nWA 98004\nUnited States of America",
     "phone": "+49 69 945 19 23 20",
     "fax": "+351 211 57 04 18",
-    "email": "service@expedia.de",
+    "email": "Privacy@expedia.com",
     "web": "https://www.expedia.de/",
     "sources": [
         "https://www.expedia.de/p/support/privacy",
-        "https://www.expedia.de/g/rf/impressum"
+        "https://www.expedia.de/g/rf/impressum",
+        "https://s27.q4cdn.com/708721433/files/doc_downloads/2021/04/28/Data-Controllers-and-Representatives-globally.pdf",
+        "https://de.hotels.com/customer_care/privacy.html",
+        "https://www.vrbo.com/legal/privacy-policy",
+        "https://www.egencia.com/en/privacy",
+        "https://www.hotwire.com/en/content/privacy-policy",
+        "https://www.orbitz.com/lp/lg-privacy",
+        "https://www.ebookers.com/lp/lg-privacypolicy",
+        "https://www.cheaptickets.com/lp/lg-privacy",
+        "https://www.carrentals.com/cr-privacy-policy",
+        "https://www.expediacruises.com/en-US/corporate/Common/Privacy",
+        "https://www.wotif.com/lp/lg-privacy",
+        "https://www.travelocity.com/lp/lg-privacy"
     ],
-    "comments": [
-        "Kontaktadresse in Deutschland laut Impressum: Expedia.de, c/o Convergys, Komturstraße 18, 12099 Berlin, Deutschland."
-    ],
-    "relevant-countries": [
-        "all"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

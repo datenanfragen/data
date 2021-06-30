@@ -13,13 +13,13 @@
     "categories": [
         "finance"
     ],
-    "name": "Danske Bank",
-    "address": "Danske Bank A/S\nHolmens Kanal 2-12\n1092 København K\nDenmark",
-    "phone": "+45 33 44 00 00",
+    "name": "Danske Bank A/S",
+    "address": "Holmens Kanal 2-12\n1092 København K\nDenmark",
+    "phone": "+45 70 12 34 56",
     "email": "dpofunction@danskebank.com",
     "web": "https://danskebank.com/",
     "sources": [
-        "https://danskebank.co.uk/privacy-statement-and-use-of-cookies",
+        "https://danskebank.dk/PDF/GDPR/Danske_Bank_privacy_notice.pdf",
         "https://danskebank.com/contact-us"
     ],
     "suggested-transport-medium": "email",

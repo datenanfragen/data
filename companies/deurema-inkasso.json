@@ -1,5 +1,8 @@
 {
     "slug": "deurema-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "collection agency"
     ],
@@ -10,7 +13,8 @@
     "email": "datenschutz@deurema.de",
     "web": "https://www.deurema.de",
     "sources": [
-        "https://www.deurema.de/impressum-dl-infov.html"
+        "https://www.deurema.de/impressum-dl-infov.html",
+        "https://www.deurema.de/datenschutz.html"
     ],
     "required-elements": [
         {
@@ -21,9 +25,6 @@
             "desc": "Adresse",
             "type": "address"
         }
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

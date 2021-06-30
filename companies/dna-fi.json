@@ -9,7 +9,7 @@
     "name": "DNA Oyj",
     "address": "PO Box 10\n01044 DNA\nFinland",
     "phone": "+358 44 144044",
-    "email": "service@dna.fi",
+    "email": "palvelu@dna.fi",
     "web": "https://www.dna.fi/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/624",

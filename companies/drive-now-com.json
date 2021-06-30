@@ -6,14 +6,19 @@
     "categories": [
         "travel"
     ],
-    "name": "DriveNow GmbH & Co. KG. ",
-    "address": "Seidlstraße 26\n80335 München\nDeutschland",
-    "email": "datenschutz@drive-now.com",
-    "web": "https://www.drive-now.com/de/de",
+    "name": "SHARE NOW GmbH",
+    "runs": [
+        "DriveNow (ehem.)",
+        "car2go (ehem.)"
+    ],
+    "address": "Brunnenstraße 19-21\n10119 Berlin\nDeutschland",
+    "phone": "+49 30 23340110",
+    "email": "dataprotection@share-now.com",
+    "web": "https://www.share-now.com",
     "sources": [
-        "https://www.drive-now.com/de/de/legal-notice",
-        "https://www.drive-now.com/de/de/privacy",
-        "https://github.com/datenanfragen/data/issues/260"
+        "https://github.com/datenanfragen/data/issues/260",
+        "https://www.berlin.de/tourismus/infos/verkehr/nachrichten/5685531-4357821-drivenow-und-car2go-fusionieren-zu-share.html",
+        "https://www.share-now.com/de/de/legal/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

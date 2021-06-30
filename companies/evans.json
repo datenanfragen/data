@@ -6,14 +6,17 @@
     "categories": [
         "commerce"
     ],
-    "name": "Evans Retail Ltd.",
-    "address": "Burton Business Park\nTorre Road\nLeeds LS9 7DN\nUnited Kingdom",
+    "name": "City Chic Collective UK Ltd.",
+    "runs": [
+        "Evans (World of Curves)"
+    ],
+    "address": "Suite 1, 3rd Floor\n11 – 12 St James's Square\nLondon\nSW1Y 4LB\nUnited Kingdom",
     "phone": "+44 344 984 0262",
-    "email": "Customer.service@evans.co.uk",
+    "email": "customer.service@evans.co.uk",
     "web": "http://www.evans.co.uk",
     "sources": [
-        "http://www.evans.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33054&storeId=12553&langId=-1&viewAllFlag=false&categoryId=529991&interstitial=true&intnav=footer:privacypolicy?intcmpid=ukfooter_cookies",
-        "http://help.evans.co.uk/system/templates/selfservice/evans/#!portal/403700000001062/article/Prod-2729/How-do-I-contact-Customer-Care"
+        "https://www.evans.co.uk/privacy-policy",
+        "https://www.evans.co.uk/terms-and-conditions"
     ],
     "quality": "verified"
 }

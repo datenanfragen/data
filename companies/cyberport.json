@@ -1,5 +1,8 @@
 {
     "slug": "cyberport",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -7,17 +10,11 @@
     "address": "Am Brauhaus 5\n01099 Dresden\nDeutschland",
     "phone": "+49 351 3395 60",
     "fax": "+49 351 3395 859",
-    "email": "dsb@cyberport.de",
+    "email": "datenschutzanfrage@cyberport.de",
     "web": "https://www.cyberport.de/",
     "sources": [
         "https://www.cyberport.de/service/rechtliches/datenschutz.html",
         "https://www.cyberport.de/service/rechtliches/impressum.html"
-    ],
-    "comments": [
-        "Laut Datenschutzerklärung: „Die Cyberport S.à r.l. wird neben der Cyberport GmbH zusätzlich verantwortliche Stelle, wenn Sie mit Ihrer MasterCard-Kreditkarte, VISA-Kreditkarte, Maestro-Debitkarte oder \"V PAY\"-Debitkarte zahlen.“\nAnschrift: Cyberport S.à r.l., 9, Avenue Guillaume, L-1651 Luxembourg, Luxembourg.\nFax: +49 351 33 95 779"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
