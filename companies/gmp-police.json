@@ -7,12 +7,13 @@
         "public body"
     ],
     "name": "Greater Manchester Police",
-    "address": "GMP Headquarters \nCentral Park \nNorthampton Road \nManchester \nM40 5BP\nUnited Kingdom",
-    "phone": "+44 121 559 6699",
-    "email": "dataprotection@gmp.pnn.police.uk",
+    "address": "Openshaw Complex\nLawton Street\nManchester\nM11 2NS\nUnited Kingdom",
+    "phone": "+44 161 856 2529",
+    "email": "subjectaccess@gmp.police.uk",
     "web": "https://gmp.police.uk",
     "sources": [
-        "https://github.com/datenanfragen/data/issues/215"
+        "https://github.com/datenanfragen/data/issues/215",
+        "https://www.gmp.police.uk/hyg/fpngmp/privacy-notice/"
     ],
     "needs-id-document": true,
     "suggested-transport-medium": "email",

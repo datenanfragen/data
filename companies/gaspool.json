@@ -6,22 +6,30 @@
     "categories": [
         "utility"
     ],
-    "name": "GASPOOL Balancing Services GmbH",
+    "name": "Trading Hub Europe GmbH",
     "runs": [
+        "GASPOOL Balancing Services GmbH (ehem.)",
+        "NetConnect Germany GmbH & Co. KG (ehem.)",
+        "NetConnect Germany Management GmbH (ehem.)",
         "GASCADE Gastransport GmbH",
         "Gastransport Nord GmbH",
         "Gasunie Deutschland Transport Services GmbH",
         "Nowega GmbH",
         "ONTRAS Gastransport GmbH"
     ],
-    "address": "Anna-Louisa-Karsch-Str. 2\n10178 Berlin\nDeutschland",
-    "phone": "+49 30 364289654",
-    "email": "datenschutz@gaspool.de",
+    "address": "Kaiserswerther Straße 115\n40880 Ratingen\nDeutschland",
+    "email": "datenschutz@tradinghub.eu",
     "web": "https://www.gaspool.de/",
     "sources": [
+        "https://www.tradinghub.eu/en-gb/Home/Policy",
+        "https://www.tradinghub.eu/en-gb/Home/Imprint",
         "https://www.gaspool.de/impressum/",
         "https://github.com/datenanfragen/data/issues/575",
-        "https://www.gaspool.de/datenschutz"
+        "https://www.gaspool.de/datenschutz",
+        "https://www.gaspool.de/pressemitteilung?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=278&cHash=95931a840a229f2d2018a755f6f72d43",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=643700&land_abk=be",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=643697&land_abk=be",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=643696&land_abk=be"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

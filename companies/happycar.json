@@ -1,23 +1,23 @@
 {
     "slug": "happycar",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "travel",
         "insurance"
     ],
     "name": "HAPPYCAR GmbH",
     "runs": [
-        "HAPPYCAR UG"
+        "HAPPYCAR UG (haftungsbeschränkt)"
     ],
-    "address": "Große Reichenstraße 27\n20457 Hamburg\nDeutschland",
-    "phone": "+49 800 707 88 99",
+    "address": "Am Sandtorkai 48\n20457 Hamburg\nDeutschland",
+    "phone": "+49 40 40 11 92 18",
     "email": "datenschutz@happycar.de",
     "web": "https://www.happycar.de/",
     "sources": [
-        "https://www.happycar.de/info/datenschutz",
+        "https://www.happycar.de/datenschutz",
         "https://www.happycar.de/impressum"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

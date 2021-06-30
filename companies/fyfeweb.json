@@ -11,7 +11,7 @@
     "email": "privacy@fyfeweb.com",
     "web": "https://fyfeweb.com",
     "sources": [
-        "https://fyfeweb.com/legal/privacy-policy/",
+        "https://fyfeweb.com/downloads/policies/privacy-policy.pdf",
         "https://github.com/datenanfragen/data/pull/897"
     ],
     "required-elements": [
@@ -29,5 +29,8 @@
         }
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Web form for requests: https://fyfeweb.com/legal/reports-requests/data-subject-access-requests-global/"
+    ],
     "quality": "verified"
 }

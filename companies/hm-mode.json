@@ -1,19 +1,30 @@
 {
     "slug": "hm-mode",
-    "categories": [
-        "commerce"
-    ],
-    "name": "H&M Hennes & Mauritz B.V. & Co. KG",
-    "address": "c/o H&M-Kundenservice\nPostfach 2318\n36243 Niederaula\nDeutschland",
-    "phone": "+46 8 796 55 00",
-    "email": "kundenservice.de@hm.com",
-    "web": "http://www.hm.com",
-    "sources": [
-        "https://www.hm.com/de/customer-service/legal-and-privacy/privacy-policy",
-        "https://www.hm.com/de/customer-service/impressum"
-    ],
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "H & M Hennes & Mauritz GBC AB",
+    "runs": [
+        "H & M Hennes & Mauritz B.V. & Co. KG",
+        "COS",
+        "Weekday",
+        "H&M HOME",
+        "& Other Stories",
+        "Arket",
+        "Afound"
+    ],
+    "address": "Mäster Samuelsgatan 46\n106 38 Stockholm\nSchweden",
+    "phone": "+49 800 66 55 900",
+    "email": "dataprotection.de@hm.com",
+    "web": "http://www.hm.com",
+    "sources": [
+        "https://www2.hm.com/de_de/customer-service/rechtshinweis-datenschutz/datenschutzerklarung.html",
+        "https://www2.hm.com/de_de/customer-service/impressum.html",
+        "https://www2.hm.com/de_de/customer-service/kontakt.html"
+    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

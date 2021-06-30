@@ -14,9 +14,10 @@
     "email": "datenschutz.beauftragte@hes-bs.de",
     "web": "http://www.helene-engelbrecht-schule.de/",
     "sources": [
-        "http://www.helene-engelbrecht-schule.de/datenschutz.html",
-        "http://www.helene-engelbrecht-schule.de/impressum.html"
+        "https://helene-engelbrecht-schule.de/datenschutz/",
+        "https://helene-engelbrecht-schule.de/impressum/"
     ],
+    "suggested-transport-medium": "email",
     "request-language": "de",
     "quality": "verified",
     "facet-group": "school"

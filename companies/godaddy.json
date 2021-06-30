@@ -6,17 +6,17 @@
     "categories": [
         "telecommunication"
     ],
-    "name": "GoDaddy Deutschland GmbH",
+    "name": "GoDaddy.com, LLC",
     "runs": [
-        "GoDaddy.com, LLC",
-        "GoDaddy Inc."
+        "GoDaddy Inc.",
+        "GoDaddy Deutschland GmbH"
     ],
-    "address": "Hansestraße 79\n51149 Cologne\nGermany",
-    "phone": "+49 32 221 094 047",
+    "address": "5th Floor\nThe Shipping Building, Old Vinyl Factory\n252-254 Blyth Road\nHayes\nUB3 1HA\nUnited Kingdom",
+    "phone": "+49 89 21 094 807",
     "email": "privacy@godaddy.com",
     "web": "https://godaddy.com",
     "sources": [
-        "https://godaddy.com/agreements/showdoc.aspx?pageid=PRIVACY"
+        "https://de.godaddy.com/legal/agreements/privacy-policy"
     ],
     "required-elements": [
         {

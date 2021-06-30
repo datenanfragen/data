@@ -14,8 +14,7 @@
     "email": "gs.edithstein@braunschweig.de",
     "web": "http://www.grundschule-edith-stein.de/",
     "sources": [
-        "http://www.grundschule-edith-stein.de/impressum.html",
-        "http://www.grundschule-edith-stein.de/dse.html"
+        "http://grundschule-edith-stein.de/datenschutzerklaerung"
     ],
     "request-language": "de",
     "quality": "verified",

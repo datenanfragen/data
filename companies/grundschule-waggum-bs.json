@@ -12,9 +12,9 @@
     "phone": "+49 5307 65 44",
     "fax": "+49 5307 98 02 80",
     "email": "gs.waggum@braunschweig.de",
-    "web": "http://www.grundschule-waggum.de/",
+    "web": "https://wordpress.nibis.de/gswaggum/",
     "sources": [
-        "http://www.grundschule-waggum.de/kontakt.html"
+        "https://wordpress.nibis.de/gswaggum/kontakt/"
     ],
     "request-language": "de",
     "quality": "verified",

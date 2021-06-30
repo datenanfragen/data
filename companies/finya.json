@@ -1,5 +1,8 @@
 {
     "slug": "finya",
+    "relevant-countries": [
+        "de"
+    ],
     "name": "Finya GmbH & Co. KG",
     "address": "Mönckebergstraße 13\n20095 Hamburg\nDeutschland",
     "phone": "+49 40 2286 885 90",
@@ -10,8 +13,6 @@
         "https://www.finya.de/Legal/privacy",
         "https://www.finya.de/Legal/about"
     ],
-    "relevant-countries": [
-        "de"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

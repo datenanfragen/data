@@ -9,13 +9,17 @@
         "social media"
     ],
     "name": "Huawei Technologies Co. Ltd.",
+    "runs": [
+        "HUAWEI TECHNOLOGIES Deutschland GmbH"
+    ],
     "address": "Huawei Base\nBantian\nLonggang District\nShenzhen\nChina",
     "phone": "+86 755 2878 0808",
-    "email": "website@huawei.com",
+    "email": "mobile@huawei.com",
     "web": "https://www.huawei.com",
     "sources": [
         "https://www.huawei.com/en/privacy-policy",
-        "https://www.huawei.com/en/contact-us?tab=Offices#Offices"
+        "https://www.huawei.com/en/contact-us",
+        "https://www.huawei.com/de/impressum"
     ],
     "comments": [
         "There is also a web form for requests: https://www.huawei.com/en/personal-data-request"

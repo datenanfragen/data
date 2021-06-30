@@ -1,10 +1,15 @@
 {
     "slug": "generali",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "insurance"
     ],
     "name": "Generali Versicherung AG",
     "runs": [
+        "Generali Deutschland AG",
+        "Generali Deutschland Services GmbH",
         "Generali Versicherungsgruppe",
         "Generali Lebensversicherung AG"
     ],
@@ -15,10 +20,8 @@
     "web": "https://www.generali.de/privatkunden/",
     "sources": [
         "https://www.generali.de/ueber-generali/datenschutz/mobility",
-        "https://www.generali.de/ueber-generali/impressum"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.generali.de/ueber-generali/impressum",
+        "https://www.generali.de/resource/blob/77052/c77ce704051d1af713d29ce932a5b17d/datenschutzhinweise-generali-deutschland-versicherung-ag-data.pdf"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
