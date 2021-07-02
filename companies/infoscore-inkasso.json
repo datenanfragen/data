@@ -6,19 +6,21 @@
     "categories": [
         "collection agency"
     ],
-    "name": "infoscore Forderungsmanagement GmbH",
+    "name": "Paigo GmbH",
     "runs": [
+        "infoscore Forderungsmanagement GmbH (ehem.)",
         "BFS risk & collection GmbH (ehem.)"
     ],
     "address": "Gütersloher Straße 123\n33401 Verl\nDeutschland",
-    "phone": "+49 5246 939 1021",
-    "fax": "+49 5241 8043 190",
-    "email": "info@arvato-infoscore.de",
+    "fax": "+49 5246 905 5000 ",
+    "email": "datenschutzbeauftragter@paigo.com",
     "web": "https://www.inkassoportal.de/",
     "sources": [
-        "https://www.inkassoportal.de/rechtliches/datenschutz",
-        "https://www.inkassoportal.de/impressum",
-        "https://github.com/datenanfragen/data/issues/43"
+        "https://inkassoportal.de/de-de/datenschutz",
+        "https://paigo.com/de-de/impressum",
+        "https://github.com/datenanfragen/data/issues/43",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1839336&land_abk=nw"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

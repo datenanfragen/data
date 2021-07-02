@@ -1,23 +1,25 @@
 {
     "slug": "kaeuferportal-de",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads"
     ],
-    "name": "Beko Käuferportal GmbH",
+    "name": "be Around GmbH",
     "runs": [
-        "Käuferportal (www.kaeuferportal.de)"
+        "Aroundhome.de",
+        "Käuferportal.de (ehem.)"
     ],
     "address": "Potsdamer Platz 11\n10785 Berlin\nDeutschland",
     "phone": "+49 800 29 29 29 4",
     "fax": "+49 30 290 455 35",
-    "email": "datenschutz@kaeuferportal.de",
-    "web": "https://www.kaeuferportal.de/",
+    "email": "datenschutz@aroundhome.de",
+    "web": "https://www.aroundhome.de/",
     "sources": [
-        "https://www.kaeuferportal.de/datenschutzerklaerung/",
-        "https://www.kaeuferportal.de/impressum/"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.aroundhome.de/datenschutzerklaerung/",
+        "https://www.aroundhome.de/impressum/",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=521122&land_abk=be"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

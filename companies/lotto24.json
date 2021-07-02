@@ -13,8 +13,7 @@
     "email": "datenschutzbeauftragter@lotto24.de",
     "web": "https://www.lotto24.de",
     "sources": [
-        "https://www.lotto24.de/webshop/content/datenschutz.html",
-        "https://de.wikipedia.org/wiki/Lotto24",
+        "https://www.lotto24.de/datenschutz",
         "https://github.com/datenanfragen/data/issues/456"
     ],
     "suggested-transport-medium": "email",

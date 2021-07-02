@@ -1,0 +1,17 @@
+{
+    "slug": "vivento",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Vivento",
+    "address": "c/o Deutsche Telekom AG\nFriedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
+    "email": "datenschutz@telekom.de",
+    "web": "https://www.vivento.de",
+    "sources": [
+        "https://www.vivento.de/de/datenschutz",
+        "https://www.interamt.de/cms/legal/impressum.html"
+    ],
+    "request-language": "de",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

@@ -1,5 +1,8 @@
 {
     "slug": "linevast",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
@@ -10,15 +13,11 @@
     "address": "Am Grashorn 8\n14548 Schwielowsee\nDeutschland",
     "phone": "+49 3327 4372 551",
     "fax": "+49 3327 4372 5510",
-    "email": "datenschutz@linevast.de",
+    "email": "management@droptop.de",
     "web": "https://linevast.de/",
     "sources": [
         "https://linevast.de/datenschutz.html",
         "https://linevast.de/impressum.html"
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

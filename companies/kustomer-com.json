@@ -11,7 +11,7 @@
     "email": "privacy@kustomer.com",
     "web": "https://www.kustomer.com",
     "sources": [
-        "https://www.kustomer.com/privacy/"
+        "https://www.kustomer.com/privacy/policy/"
     ],
     "required-elements": [
         {
@@ -26,6 +26,9 @@
             "desc": "Email",
             "type": "email"
         }
+    ],
+    "comments": [
+        "Web form for requests: https://www.kustomer.com/compliance/data-subject-request/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

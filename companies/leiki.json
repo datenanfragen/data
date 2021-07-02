@@ -6,15 +6,18 @@
     "categories": [
         "ads"
     ],
-    "name": "Leiki Ltd.",
-    "address": "Pohj. Makasiinikatu 7 A 4\n00130 Helsinki\nFinland",
-    "phone": "+358 201 556055",
-    "email": "info@leiki.com",
-    "web": "https://www.leiki.com/",
-    "sources": [
-        "https://www.leiki.com/privacy",
-        "https://www.leiki.com/contact"
+    "name": "DoubleVerify, Inc.",
+    "runs": [
+        "Leiki Ltd. (formerly)"
     ],
+    "address": "233 Spring St., 4th Floor\nNew York, NY 10013\nUSA",
+    "email": "privacy-policy@doubleverify.com",
+    "web": "https://doubleverify.com",
+    "sources": [
+        "https://doubleverify.com/privacy-notice/",
+        "https://doubleverify.com/newsroom/doubleverify-acquires-leiki-leading-contextual-intelligence-platform/"
+    ],
+    "suggested-transport-medium": "email",
     "request-language": "en",
     "custom-access-template": "access-tracking",
     "quality": "verified"

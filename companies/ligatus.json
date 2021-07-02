@@ -10,11 +10,11 @@
     "address": "Christophstraße 19\n50670 Köln\nGermany",
     "phone": "+49 221 56 939 500",
     "fax": "+49 221 56 939 599",
-    "email": "privacy@ligatus.com",
+    "email": "privacy@outbrain.com",
     "web": "https://www.ligatus.com",
     "sources": [
-        "https://www.ligatus.com/de/privacy-policy",
-        "https://www.ligatus.com/de/imprint"
+        "https://www.outbrain.com/ligatus/",
+        "https://www.outbrain.com/ligatus/imprint/"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",

@@ -13,7 +13,7 @@
     "email": "Datenschutzbeauftragter@kesselhaus.com",
     "web": "https://www.kesselhaus.com",
     "sources": [
-        "https://www.kesselhaus.com/storage-folder/service-navi/datenschutz/",
+        "https://kesselhaus.com/datenschutz/",
         "https://github.com/datenanfragen/data/issues/72"
     ],
     "suggested-transport-medium": "email",

@@ -13,11 +13,12 @@
     "address": "Kreuzberger Ring 68\n65205 Wiesbaden\nDeutschland",
     "phone": "+49 611 880870 88",
     "fax": "+49 611 880870 86",
-    "email": "his-Datenschutz@informa.de",
+    "email": "office@informa-his.de",
     "web": "https://www.informa-his.de",
     "sources": [
         "https://www.informa-his.de/selbstauskunft/selbstauskunft/",
-        "https://www.informa-his.de/impressum/"
+        "https://www.informa-his.de/impressum/",
+        "https://www.informa-his.de/service/datenschutz"
     ],
     "required-elements": [
         {
@@ -40,9 +41,9 @@
     ],
     "request-language": "de",
     "comments": [
-        "Bitten um Angabe der vorherigen Adressen für die letzten fünf Jahre, um vollständigere Auskunft erteilen zu können."
+        "Bitten um Angabe der vorherigen Adressen für die letzten fünf Jahre, um vollständigere Auskunft erteilen zu können.",
+        "Webformular für Anfragen: https://www.informa-his.de/selbstauskunft/selbstauskunft/online-formular"
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }

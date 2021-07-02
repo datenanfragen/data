@@ -1,19 +1,23 @@
 {
     "slug": "lebara",
+    "relevant-countries": [
+        "de",
+        "pl",
+        "gb",
+        "ro"
+    ],
     "categories": [
         "telecommunication"
     ],
     "name": "Lebara Limited",
-    "address": "The Whitechapel Building\n10 Whitechapel High Street\nLondon E1 8DX\nUnited Kingdom",
+    "address": "7th Floor, Import Building\n2 Clove Crescent\nEast India Dock\nLondon\nE14 2BE\nUnited Kingdom",
     "phone": "+49 211 31051 0000",
-    "email": "kontakt@lebara.com",
+    "email": "dpo@lebara.com",
     "web": "https://mobile.lebara.com",
     "sources": [
-        "https://mobile.lebara.com/de/en/privacy-policy",
+        "https://mobile.lebara.com/de/en/privacy-policy-website",
         "https://mobile.lebara.com/de/de/impressum"
     ],
-    "relevant-countries": [
-        "de"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

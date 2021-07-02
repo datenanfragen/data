@@ -1,5 +1,8 @@
 {
     "slug": "liquida-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "collection agency"
     ],
@@ -7,13 +10,11 @@
     "address": "Lise-Meitner-Straße 23\n74074 Heilbronn\nDeutschland",
     "phone": "+49 7131 58206 0",
     "fax": "+49 7131 58206 209",
-    "email": "info@liquida-inkasso.de",
-    "web": "http://www.liquida-inkasso.de/",
+    "email": "info@liquida.de",
+    "web": "http://www.liquida.de/",
     "sources": [
-        "http://www.liquida-inkasso.de/kontakt/impressum.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.liquida.de/de/kontakt/datenschutz/",
+        "https://www.liquida.de/kontakt/impressum.html"
     ],
     "quality": "verified"
 }
