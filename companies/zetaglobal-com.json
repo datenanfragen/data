@@ -7,6 +7,10 @@
         "ads"
     ],
     "name": "Zeta Global Corp.",
+    "runs": [
+        "IgnitionOne, Inc. (formerly)",
+        "Netmining LLC (formerly)"
+    ],
     "address": "3 Park Avenue\nNew York\nNY 10016\nUSA",
     "phone": "+1 212 660 2500",
     "email": "privacy@zetaglobal.com",
@@ -14,7 +18,9 @@
     "sources": [
         "https://zetaglobal.com/privacy-policy/",
         "https://zetaglobal.com/contact-us/",
-        "https://coraweb.sos.la.gov/Newsletters/NewsLetter_20180925.txt"
+        "https://coraweb.sos.la.gov/Newsletters/NewsLetter_20180925.txt",
+        "https://zetaglobal.com/ignitionone-zetaglobal-partnership-eu.html",
+        "https://www.mediavine.com/ignitionone-dsp-is-closing-how-will-it-impact-mediavine-publishers/"
     ],
     "required-elements": [
         {

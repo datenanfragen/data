@@ -1,5 +1,8 @@
 {
     "slug": "eon-energie",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "utility"
     ],
@@ -7,7 +10,8 @@
     "runs": [
         "Mein E.ON",
         "SmartCheck",
-        "Mein E.ON App"
+        "Mein E.ON App",
+        "innogy (ehem.)"
     ],
     "address": "Brüsseler Platz 1\n45131 Essen\nDeutschland",
     "phone": "+49 871 95 38 62 00",
@@ -16,10 +20,8 @@
     "web": "https://www.eon.de",
     "sources": [
         "https://www.eon.de/de/pk/datenschutz.html",
-        "https://www.eon.de/de/pk/impressum.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.eon.de/de/pk/impressum.html",
+        "https://www.eon.de/de/innogy.html"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

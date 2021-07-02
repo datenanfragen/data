@@ -1,5 +1,8 @@
 {
     "slug": "kayak",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "travel"
     ],
@@ -7,17 +10,15 @@
     "runs": [
         "SWOODOO (www.swoodoo.com)"
     ],
-    "address": "Fraumünsterstraße 16\n8001 Zürich\nSchweiz",
+    "address": "Fraumünsterstraße 16\n8001 Zürich\nSwitzerland",
     "email": "privacy@kayak.com",
     "web": "https://www.kayak.de/",
     "sources": [
         "https://www.kayak.de/privacy",
         "https://www.kayak.de/impressum",
         "https://www.swoodoo.com/info/datenschutz",
-        "https://www.swoodoo.com/info/impressum"
-    ],
-    "relevant-countries": [
-        "all"
+        "https://www.swoodoo.com/info/impressum",
+        "https://www.kayak.de/privacy/applicants"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

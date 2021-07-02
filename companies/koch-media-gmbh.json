@@ -18,7 +18,8 @@
     "web": "https://www.kochmedia.com",
     "sources": [
         "https://www.deepsilver.com/en/privacy-policy/",
-        "https://www.kochmedia.com/en/privacy-policy/"
+        "https://www.kochmedia.com/en/privacy-policy/",
+        "https://www.kochmedia.com/de/company/contact/"
     ],
     "comments": [
         "Check https://www.deepsilver.com/en/privacy-policy/ to obtain the email address of the DPO."

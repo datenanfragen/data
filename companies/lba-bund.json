@@ -13,8 +13,8 @@
     "email": "Datenschutzbeauftragter@lba.de",
     "web": "https://www.lba.de",
     "sources": [
-        "https://www.lba.de/DE/TopService/Datenschutz/Datenschutz_node.html",
-        "https://www.lba.de/DE/footerService/Impressum/impressum_node.html"
+        "https://www.lba.de/DE/TopServiceStartseite/Datenschutz/Datenschutz_node.html",
+        "https://www.lba.de/DE/Service/Impressum/impressum_node.html"
     ],
     "request-language": "de",
     "quality": "verified"

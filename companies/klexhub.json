@@ -8,8 +8,10 @@
     "phone": "+49 8225 7989000",
     "fax": "+49 8225 7989001",
     "email": "datenschutz@klexhub.com",
+    "web": "https://klexhub.com/",
     "sources": [
-        "https://github.com/datenanfragen/data/issues/214"
+        "https://github.com/datenanfragen/data/issues/214",
+        "https://klexhub.com/legal/datenschutz"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

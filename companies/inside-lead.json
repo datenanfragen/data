@@ -9,14 +9,26 @@
         "ads"
     ],
     "name": "Inside Lead GmbH",
+    "runs": [
+        "dein-sport-gutschein.com",
+        "snackpaket-gewinnen.com",
+        "energy-gewinnen.com",
+        "dein-wunschauto24.com",
+        "mein-tiny-house.com"
+    ],
     "address": "Hanauer Landstrasse 291B\n60314 Frankfurt\nDeutschland",
     "phone": "+49 800 2404810",
-    "email": "anfrage@krier-datenschutz.de",
+    "email": "dsb@inside-lead.com",
     "web": "https://www.inside-lead.com",
     "sources": [
-        "https://mein-mode-voucher.com/imprint",
-        "https://mein-mode-voucher.com/datenschutz",
-        "https://github.com/datenanfragen/data/issues/50"
+        "https://www.inside-lead.com/#datenschutz",
+        "https://github.com/datenanfragen/data/issues/50",
+        "https://dein-sport-gutschein.com/info/imprint",
+        "https://dein-sport-gutschein.com/info/privacy",
+        "https://snackpaket-gewinnen.com/info/privacy",
+        "https://energy-gewinnen.com/info/privacy",
+        "https://dein-wunschauto24.com/info/privacy",
+        "https://mein-tiny-house.com/info/privacy"
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",

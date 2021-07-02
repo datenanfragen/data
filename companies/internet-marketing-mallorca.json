@@ -11,10 +11,9 @@
     "runs": [
         "bewertungen-kaufen24.com"
     ],
-    "address": "Carrer Gran Via, 32\n07180 El Toro\nSpanien",
-    "phone": "+49 89 99529296",
-    "email": "support@bewertungenkaufen.com",
-    "web": "https://bewertungen-kaufen24.com",
+    "address": "Archiepiskopou Makariou III, 61\n6017 Larnaca\nZypern",
+    "phone": "+49 30 308 08 536",
+    "email": "support@bewertungen-kaufen24.com",
     "sources": [
         "https://bewertungen-kaufen24.com/impressum/",
         "https://github.com/datenanfragen/data/issues/570"

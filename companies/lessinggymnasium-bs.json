@@ -4,6 +4,7 @@
         "de"
     ],
     "categories": [
+        "school",
         "public body"
     ],
     "name": "Lessinggymnasium Braunschweig",
@@ -13,8 +14,10 @@
     "email": "datenschutz@lg-bs.de",
     "web": "http://www.lessinggymnasium.de/",
     "sources": [
-        "http://www.lessinggymnasium.de/"
+        "http://www.lessinggymnasium.de/index.php/datenschutzerklaerung"
     ],
+    "suggested-transport-medium": "email",
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }

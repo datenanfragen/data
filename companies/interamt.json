@@ -6,20 +6,17 @@
     "categories": [
         "public body"
     ],
-    "name": "Deutsche Telekom AG, Geschäftsbereich Vivento",
+    "name": "DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH",
     "runs": [
-        "Interamt (Stellenportal des öffentlichen Dienstes)",
-        "Mein Interamt",
-        "Vivento Personaldienstleistungen (www.vivento.de)"
+        "Interamt"
     ],
-    "address": "Friedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
-    "phone": "+49 800 330 2204",
-    "email": "datenschutz@telekom.de",
-    "web": "https://www.interamt.de",
+    "address": "Lübecker Straße 283\n19059 Schwerin\nDeutschland",
+    "phone": "+49 385 48 00 257",
+    "email": "datenschutz@dvz-mv.de",
+    "web": "https://www.dvz-mv.de/",
     "sources": [
-        "https://www.interamt.de/cms/legal/Datenschutz-und-Genderhinweis.html",
-        "https://www.vivento.de/de/datenschutz",
-        "https://www.interamt.de/cms/legal/impressum.html"
+        "https://interamt.de/cms/legal/Datenschutzerklaerung.html",
+        "https://interamt.de/cms/legal/impressum.html"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

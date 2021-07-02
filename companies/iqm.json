@@ -15,7 +15,7 @@
     "email": "privacy@iqm.com",
     "web": "https://iqm.com/",
     "sources": [
-        "https://iqm.com/privacy-policy.html"
+        "https://iqm.com/privacy-policy"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",

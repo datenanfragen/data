@@ -18,10 +18,14 @@
         "https://github.com/datenanfragen/data/issues/115",
         "https://github.com/datenanfragen/data/issues/114",
         "https://www.lusha.co/gdpr/",
-        "https://www.lusha.co/privacy_policy/"
+        "https://www.lusha.co/privacy_policy/",
+        "https://www.lusha.com/legal/terms_and_conditions/"
     ],
     "request-language": "en",
     "needs-id-document": false,
     "suggested-transport-medium": "email",
+    "comments": [
+        "Web form for requests: https://www.lushaprivacy.com/privacy-form/"
+    ],
     "quality": "verified"
 }
