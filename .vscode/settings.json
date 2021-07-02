@@ -1,0 +1,16 @@
+{
+    "[json]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnPaste": false
+    },
+    "json.schemas": [
+        {
+            "fileMatch": ["/companies/*.json"],
+            "url": "./schema.json"
+        },
+        {
+            "fileMatch": ["/supervisory-authorities/*.json"],
+            "url": "./schema-supervisory-authorities.json"
+        }
+    ]
+}
