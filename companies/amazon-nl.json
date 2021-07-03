@@ -9,7 +9,7 @@
     ],
     "name": "Amazon Europe Core SARL",
     "runs": [
-        "amazon.nl",
+        "amazon.de",
         "Amazon EU SARL",
         "Amazon Services Europe SARL",
         "Amazon Media EU SARL",
@@ -21,9 +21,10 @@
     ],
     "address": "38 avenue John F. Kennedy\nL-1855, Luxembourg\nLuxembourg",
     "email": "eu-privacy@amazon.de",
-    "web": "https://www.amazon.nl/",
+    "web": "https://www.amazon.de",
     "sources": [
-        "https://www.amazon.nl/gp/help/customer/display.html?ie=UTF8&nodeId=201547550"
+        "https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010&ref_=navm_ftr_mpa",
+        "https://github.com/datenanfragen/data/pull/1173"
     ],
     "required-elements": [
         {
