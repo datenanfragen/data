@@ -1,12 +1,18 @@
 {
     "slug": "myfujifilm",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
-    "name": "FUJIFILM IMAGING PRODUCTS & SOLUTIONS GmbH & Co. KG",
-    "address": "Siemensring 1\n47877 Willich\nDeutschland",
+    "name": "ip.labs GmbH",
+    "runs": [
+        "myFUJIFILM"
+    ],
+    "address": "Schwertberger Straße 14-16\n53177 Bonn\nDeutschland",
     "phone": "+49 800 7238 654",
-    "email": "datenschutz@fujifilm-imaging.eu",
+    "email": "kundendienst@myfujifilm.de",
     "web": "https://www.myfujifilm.de",
     "sources": [
         "https://www.myfujifilm.de/datenschutz",
@@ -22,9 +28,5 @@
             "type": "email"
         }
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

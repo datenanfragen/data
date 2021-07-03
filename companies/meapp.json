@@ -6,13 +6,13 @@
     "categories": [
         "addresses"
     ],
-    "name": "N.F.O software development and real estate Ltd",
+    "name": "N.F.O software development Ltd.",
     "runs": [
         "MeApp"
     ],
-    "address": "Arva Imahot Blvd. 4\n7773504 Ashdod\nIsrael",
+    "address": "4 Arba Imaot St.\n7773504 Ashdod\nIsrael",
     "phone": "+972 52 535 1166",
-    "email": "me@meapp.info",
+    "email": "help@me.app",
     "web": "http://www.meapp.info",
     "sources": [
         "http://www.meapp.info/privacy-policy-terms-of-use/",

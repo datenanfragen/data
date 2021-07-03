@@ -8,11 +8,11 @@
         "Mapillary Inc.",
         "Mapillary GmbH"
     ],
-    "address": "Bredgatan 4\n211 30 Malmö\nSweden",
-    "email": "support@mapillary.com",
+    "address": "Malmtorgsgatan 8\n111 51 Stockholm\nSweden",
+    "email": "privacy@mapillary.com",
     "web": "https://www.mapillary.com",
     "sources": [
-        "https://www.mapillary.com/about",
+        "https://www.mapillary.com/terms",
         "https://www.mapillary.com/privacy"
     ],
     "required-elements": [
@@ -29,6 +29,7 @@
             "type": "input"
         }
     ],
+    "suggested-transport-medium": "email",
     "request-language": "en",
     "quality": "verified"
 }
