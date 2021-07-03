@@ -1,5 +1,8 @@
 {
     "slug": "momox",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -7,9 +10,9 @@
     "runs": [
         "Medimops (www.medimops.de)"
     ],
-    "address": "c/o intersoft consulting services AG\nFrankenstraße 18a\n20097 Hamburg\nDeutschland",
+    "address": "c/o PROLIANCE GmbH\nLeopoldstr. 21\n80802 München\nDeutschland",
     "phone": "+49 30 488 288 100",
-    "email": "privacy@momox.de",
+    "email": "datenschutzbeauftragter@datenschutzexperte.de",
     "web": "https://www.momox.de",
     "sources": [
         "https://www.momox.de/impressum/",
@@ -26,14 +29,6 @@
             "desc": "E-Mail",
             "type": "email"
         }
-    ],
-    "comments": [
-        "E-Mails speziell für Auskünfte:\nmomox:\nMedimops: auskunft@medimops.de",
-        "Alternative E-Mail Datenschutzbeauftragter: cregnery@intersoft-consulting.de",
-        "Die momox GmbH selbst sitzt: Frankfurter Allee 77,\n10247 Berlin, Deutschland."
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

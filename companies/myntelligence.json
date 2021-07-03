@@ -6,12 +6,12 @@
     "categories": [
         "ads"
     ],
-    "name": "Myntelligence Ltd.",
-    "address": "14 Grays Inn Road\nLondon\nWC1X 8HN\nUnited Kingdom",
-    "email": "dpo@myntelligence.com",
+    "name": "Myntelligence S.r.l.",
+    "address": "Via Lodovico il Moro 25\n20143 Milan\nItaly",
+    "email": "privacy@myntelligence.com",
     "web": "https://myntelligence.com",
     "sources": [
-        "http://www.myntelligence.com/privacy-page/"
+        "https://myntelligence.com/privacy-policy/"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",

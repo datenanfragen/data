@@ -1,20 +1,22 @@
 {
     "slug": "n26-bank",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "finance"
     ],
     "name": "N26 Bank GmbH",
     "runs": [
-        "Number26 (ehem.)"
+        "Number26 (formerly)"
     ],
-    "address": "Klosterstraße 62\n10179 Berlin\nDeutschland",
-    "phone": "+49 30 364 28 68 80",
-    "fax": "+49 30 364 50 80",
+    "address": "Rungestr. 22 (3. Hinterhof)\n10179 Berlin\nGermany",
+    "fax": "+49 30 364285082",
     "email": "datenschutz@n26.com",
     "web": "https://n26.com",
     "sources": [
-        "https://n26.com/de-de/legal-documents/privacy-policy",
-        "https://n26.com/en-de/legal-documents/privacy-policy"
+        "https://docs.n26.com/legal/01+DE/03+Privacy+Policy/en/01privacy-policy-en.pdf",
+        "https://n26.com/en-de/imprint"
     ],
     "required-elements": [
         {
@@ -25,9 +27,6 @@
             "desc": "Adresse",
             "type": "address"
         }
-    ],
-    "relevant-countries": [
-        "all"
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
