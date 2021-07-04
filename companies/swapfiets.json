@@ -1,24 +1,19 @@
 {
-    "slug": "swapfiets",
+    "slug": "swapfiets-de",
     "relevant-countries": [
-        "be",
-        "de",
-        "dk",
-        "fr",
-        "gb",
-        "it",
-        "nl",
-        "at",
-        "es"
+        "de"
     ],
-    "name": "Swapfiets",
-    "address": "Amsteldijk 216, 1079 LK, Amsterdam, The Netherlands",
-    "phone": "+31 88 991 1600",
-    "email": "privacy@swapfiets.nl",
-    "web": "https://swapfiets.com",
+    "name": "Swaprad GmbH",
+    "runs": [
+        "Swapfiets"
+    ],
+    "address": "Pliniusstraße 8\n48488 Emsbüren\nDeutschland",
+    "phone": "+49 30 70014500",
+    "email": "privacy@pon.com",
+    "web": "https://swapfiets.de/",
     "sources": [
-        "swapfiets.nl",
-        "swapfiets.com",
+        "https://swapfiets.com/de-DE/privacy",
+        "https://swapfiets.de/impressum/",
         "https://github.com/datenanfragen/data/pull/1165"
     ],
     "suggested-transport-medium": "email",
