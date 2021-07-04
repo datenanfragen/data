@@ -11,7 +11,7 @@
     "email": "dpo@neodatagroup.com",
     "web": "https://www.neodatagroup.com",
     "sources": [
-        "https://www.neodatagroup.com/en/security-policy/neodata-privacy-policy"
+        "https://www.neodatagroup.com/privacy-policy/"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",

@@ -1,5 +1,8 @@
 {
     "slug": "payback",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads",
         "commerce",
@@ -18,8 +21,8 @@
     "email": "datenschutz@payback.de",
     "web": "https://www.payback.de",
     "sources": [
-        "https://www.payback.de/pb/id/252686/",
-        "https://www.payback.de/pb/impressum/id/1890/",
+        "https://www.payback.de/info/datenschutz-paybackde",
+        "https://www.payback.de/info/impressum",
         "https://github.com/datenanfragen/data/issues/217"
     ],
     "required-elements": [
@@ -37,9 +40,6 @@
     "needs-id-document": false,
     "comments": [
         "Achtung: Faxnummer ist kostenpflichtig (0,14 €/Min. aus dem deutschen Festnetz, max. 0,42 €/Min. aus dem Mobilfunknetz)!"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

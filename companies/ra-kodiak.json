@@ -14,6 +14,7 @@
     "web": "https://www.ra-kodiak.de",
     "sources": [
         "https://www.ra-kodiak.de/datenschutz.html",
+        "https://www.ra-kodiak.de/impressum.html",
         "https://github.com/datenanfragen/data/pull/994"
     ],
     "quality": "verified"

@@ -1,5 +1,8 @@
 {
     "slug": "pearl-shop",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -7,7 +10,7 @@
     "address": "PEARL-Straße 1 – 3\n79426 Buggingen\nDeutschland",
     "phone": "+49 7631 360 0",
     "fax": "+49 7631 360 444",
-    "email": "ds@pearl.de",
+    "email": "datenschutz@pearl.de",
     "web": "https://www.pearl.de/",
     "sources": [
         "https://www.pearl.de/infos/datenschutz.htm",
@@ -22,9 +25,6 @@
             "desc": "E-Mail",
             "type": "email"
         }
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

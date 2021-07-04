@@ -10,14 +10,14 @@
     "runs": [
         "OKO Inkasso-Auskünfte Beteiligungs GmbH"
     ],
-    "address": "Postfach 364\nWaldeggstr. 16\n4020 Linz\nÖsterreich",
-    "phone": "+43 732 6562420",
-    "fax": "+43 732 65624255",
+    "address": "Waldeggstr. 16\n4020 Linz\nÖsterreich",
+    "phone": "+43 732 656242",
+    "fax": "+43 732 656242 100",
     "email": "datenschutz@oko-inkasso.co.at",
     "web": "https://www.oko-inkasso.co.at",
     "sources": [
         "https://github.com/datenanfragen/data/issues/390",
-        "https://www.oko-inkasso.co.at/impressum.aspx"
+        "https://www.oko-inkasso.co.at/datenschutzerklaerung.aspx"
     ],
     "required-elements": [
         {

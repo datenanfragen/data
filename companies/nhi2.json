@@ -14,8 +14,8 @@
     "email": "ds-beauftragter@nhi2.de",
     "web": "https://www.nhi2.de/",
     "sources": [
-        "https://www.nhi2.de/privacy",
-        "https://www.nhi2.de/impress",
+        "https://www.nhi2.de/privacy-policy.html",
+        "https://www.nhi2.de/terms-conditions.html",
         "https://github.com/datenanfragen/data/pull/791"
     ],
     "required-elements": [

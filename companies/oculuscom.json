@@ -14,12 +14,17 @@
         "Oculus VR Ireland Limited (formerly)"
     ],
     "address": "4 Grand Canal Square, Grand Canal Harbour\nDublin 2\nIreland",
-    "email": "DPO-Inquiries@oculus.com",
+    "fax": "+353 1 6530737",
+    "email": "privacy@support.oculus.com",
     "web": "https://www.oculus.com",
     "sources": [
         "https://www.oculus.com/legal/privacy-policy/",
         "https://www.oculus.com/legal/about-us/",
-        "https://github.com/datenanfragen/data/issues/609"
+        "https://github.com/datenanfragen/data/issues/609",
+        "https://www.facebook.com/help/oculus/contact/334401184359256"
+    ],
+    "comments": [
+        "Web form for requests: https://www.facebook.com/help/oculus/contact/334401184359256"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

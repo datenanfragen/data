@@ -15,8 +15,9 @@
     "email": "privacy@pulsepoint.com",
     "web": "https://www.pulsepoint.com/",
     "sources": [
-        "https://www.pulsepoint.com/privacy-policy/platform"
+        "https://pulsepoint.com/legal/platform-privacy-policy"
     ],
+    "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
     "quality": "verified"
 }

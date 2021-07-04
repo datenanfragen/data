@@ -1,19 +1,24 @@
 {
     "slug": "paymill",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "finance"
     ],
-    "name": "PAYMILL GmbH",
-    "address": "St.-Cajetan-Straße 43\n81669 München\nDeutschland",
-    "fax": "+49 89 189 045 109",
-    "email": "security@paymill.com",
+    "name": "CYBERservices Europe SA.",
+    "runs": [
+        "PAYMILL",
+        "Klik & Pay",
+        "PAYMILL GmbH"
+    ],
+    "address": "285 route de Longwy\nLU-1941 Luxembourg\nLuxembourg",
+    "email": "privacy@klikandpay.com",
     "web": "https://www.paymill.com",
     "sources": [
         "https://www.paymill.com/de/datenschutz",
         "https://www.paymill.com/de/impressum"
     ],
-    "relevant-countries": [
-        "all"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
