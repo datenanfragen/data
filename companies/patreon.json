@@ -8,13 +8,16 @@
         "finance",
         "social media"
     ],
-    "name": "Patreon, Inc.",
-    "address": "230 9th Street\nSan Francisco\nCA 94103\nUnited States of America",
+    "name": "Patreon Ireland Limited",
+    "runs": [
+        "Patreon, Inc."
+    ],
+    "address": "Suite 3\nOne Earlsfort Center\nLower Hatch Street\nDublin 2\nIreland",
+    "phone": "+1 833 972 8766",
     "email": "privacy@patreon.com",
     "web": "https://www.patreon.com/",
     "sources": [
-        "https://www.patreon.com/privacy",
-        "https://www.bbb.org/greater-san-francisco/business-reviews/internet-service/patreon-inc-in-san-francisco-ca-546225"
+        "https://privacy.patreon.com/policies"
     ],
     "required-elements": [
         {

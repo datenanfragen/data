@@ -7,17 +7,13 @@
         "political party"
     ],
     "name": "Ökologisch-Demokratische Partei (ÖDP)",
-    "address": "c/o DataCo GmbH\nDachauer Straße 65\n80335 München\nDeutschland",
-    "phone": "+49 89 740045840",
-    "email": "datenschutz@dataguard.de",
+    "address": "Pommergasse 1\n97070 Würzburg\nDeutschland",
+    "phone": "+49 931 404 86 14",
+    "email": "datenschutz@oedp.de",
     "web": "https://www.oedp.de",
     "sources": [
         "https://www.oedp.de/service/datenschutz/"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Adresse ist die des DSB, eigentliche Adresse: Pommergasse 1, 97070 Würzburg, Deutschland",
-        "Telefonnummer ist die des DSB, eigentliche Telefonnummer: +49 931 40486 0 "
-    ],
     "quality": "verified"
 }

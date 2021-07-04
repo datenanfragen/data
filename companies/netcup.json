@@ -1,5 +1,8 @@
 {
     "slug": "netcup",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
@@ -7,16 +10,12 @@
     "address": "Daimlerstraße 25\n76185 Karlsruhe\nDeutschland",
     "phone": "+49 721 7540 755 0",
     "fax": "+49 721 7540 755 9",
-    "email": "datenschutz@netcup.de",
+    "email": "mail@netcup.de",
     "web": "https://www.netcup.de/",
     "sources": [
         "https://www.netcup.de/kontakt/datenschutzerklaerung.php",
         "https://www.netcup.de/kontakt/impressum.php",
         "https://github.com/datenanfragen/data/issues/644"
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

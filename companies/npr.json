@@ -11,7 +11,7 @@
     "email": "privacy@npr.org",
     "web": "https://www.npr.org",
     "sources": [
-        "https://www.npr.org/about-npr/609131973/npr-privacy-notice-for-eu-residents"
+        "https://text.npr.org/609131973"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",

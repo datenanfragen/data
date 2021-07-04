@@ -7,15 +7,10 @@
         "ads"
     ],
     "name": "nugg.ad GmbH",
-    "address": "Tamara-Danz-Straße 1\n10243 Berlin\nDeutschland",
-    "phone": "+49 30 29 38 19 99 0",
-    "email": "privacy@nugg.ad",
-    "web": "https://www.nugg.ad",
+    "address": "Köpenicker Straße 20\n10997 Berlin\nDeutschland",
     "sources": [
-        "https://www.nugg.ad/en/privacy/consumers.html",
-        "https://www.nugg.ad/en/imprint.html"
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=648965&land_abk=be"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -13,8 +13,9 @@
     "email": "datenschutz@pei.de",
     "web": "https://www.pei.de",
     "sources": [
-        "https://www.pei.de/DE/service-navi/datenschutzerklaerung/datenschutzerklaerung-node.html"
+        "https://www.pei.de/DE/service-navi/datenschutz/datenschutz-node.html"
     ],
+    "suggested-transport-medium": "email",
     "request-language": "de",
     "quality": "verified"
 }

@@ -14,9 +14,14 @@
     "email": "datenschutz@post.at",
     "web": "https://www.post.at/",
     "sources": [
-        "https://www.post.at/footer_allgemein_rechtliche_hinweise.php",
-        "https://www.post.at/footer_ueber_uns_impressum.php"
+        "https://www.post.at/co/c/datenschutz",
+        "https://www.post.at/co/c/impressum",
+        "https://a1deal.post.at/legal-notice"
     ],
+    "comments": [
+        "Webformular für Anfragen: https://www.post.at/k/f/kontaktformular?problem=DatenschutzAuskunft"
+    ],
+    "suggested-transport-medium": "email",
     "request-language": "de",
     "quality": "verified"
 }
