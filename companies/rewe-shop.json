@@ -1,5 +1,8 @@
 {
     "slug": "rewe-shop",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -15,12 +18,9 @@
     "email": "datenschutz@rewe.de",
     "web": "https://shop.rewe.de/",
     "sources": [
-        "https://www.rewe.de/service/datenschutz/",
+        "https://www.rewe.de/service/datenschutz/website",
         "https://www.rewe.de/service/impressum/",
         "https://www.jamobil.de/impressum.html"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
