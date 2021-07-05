@@ -14,7 +14,8 @@
     "email": "privacy@yieldr.com",
     "web": "https://www.yieldr.com/",
     "sources": [
-        "https://www.yieldr.com/privacy/"
+        "https://www.yieldr.com/privacy/",
+        "https://cop.evidon.com/companies/yieldr-formerly-yd-group-bv"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

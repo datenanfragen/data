@@ -10,11 +10,11 @@
     "runs": [
         "Wizz Air UK Limited"
     ],
-    "address": "Laurus Offices\nKőér street 2/A,  Building B, II-V.\n1103 Budapest\nHungary",
-    "email": "wizzair_dpo@wizzair.com",
+    "address": "Laurus Offices\nKőér street 2/A\nBuilding B, II-V.\n1103 Budapest\nHungary",
+    "email": "data.protection@wizzair.com",
     "web": "https://wizzair.com",
     "sources": [
-        "https://wizzair.com/en-gb/legal/privacy-notice/"
+        "https://wizzair.com/en-gb/legal/privacy-notice/detailed-privacy-notice-of-wizz-air"
     ],
     "required-elements": [
         {

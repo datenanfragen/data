@@ -31,7 +31,7 @@
     "email": "swmh-datenschutz@atarax.de",
     "web": "https://www.sueddeutsche.de",
     "sources": [
-        "https://datenschutz.sueddeutsche.de/index.html",
+        "https://www.swmh-datenschutz.de/sz",
         "https://www.sueddeutsche.de/tools/impressum"
     ],
     "suggested-transport-medium": "email",

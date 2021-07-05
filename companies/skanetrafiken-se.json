@@ -7,13 +7,18 @@
     "categories": [
         "travel"
     ],
-    "name": "Skånetrafiken",
-    "address": "Andra Avenyen 7\n281 31 Hässleholm\nSweden",
-    "phone": "+46 77 177 77 77",
-    "email": "skkontrollavgifter@skanetrafiken.se",
+    "name": "Region Skåne",
+    "runs": [
+        "Skånetrafiken"
+    ],
+    "address": "291 89 Kristianstad\nSweden",
+    "phone": "+46 44 309 30 00",
+    "fax": "+46 44 309 32 98",
+    "email": "region@skane.se",
     "web": "https://www.skanetrafiken.se/",
     "sources": [
-        "https://github.com/datenanfragen/data/issues/167"
+        "https://github.com/datenanfragen/data/issues/167",
+        "https://www.skanetrafiken.se/sa-reser-du-med-oss/villkor/personuppgifter/"
     ],
     "quality": "verified"
 }

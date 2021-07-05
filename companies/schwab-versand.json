@@ -1,25 +1,23 @@
 {
     "slug": "schwab-versand",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
-    "name": "Schwab Versand GmbH",
+    "name": "sheego GmbH",
     "runs": [
-        "Schwab VIP",
-        "sheego – Mode in großen Größen (www.sheego.de)"
+        "Schwab Versand GmbH (ehem.)"
     ],
-    "address": "Kinzigheimer Weg 6\n63450 Hanau\nDeutschland",
-    "phone": "+49 6181 368 0",
-    "fax": "+49 6181 368 707 229",
-    "email": "dsb@schwab.de",
+    "address": "Hanauer Landstraße 523\n60386 Frankfurt\nDeutschland",
+    "phone": "+49 69 900 22 0",
+    "email": "dsb@sheego.de",
     "web": "https://www.schwab.de/",
     "sources": [
-        "https://www.schwab.de/service/datenschutz/verfahrensverzeichnis/",
-        "https://www.schwab.de/service/impressum/",
-        "https://www.sheego.de/service/datenschutz/oeffentliches-verfahrensverzeichnis/"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://company.sheego.de/datenschutz/",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=747621&land_abk=he",
+        "https://company.sheego.de/landingpage-schwab-de"
     ],
     "needs-id-document": false,
     "required-elements": [
@@ -33,5 +31,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }

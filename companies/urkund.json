@@ -1,16 +1,23 @@
 {
     "slug": "urkund",
     "relevant-countries": [
-        "se"
+        "all"
     ],
-    "name": "Urkund | Prio Infocenter AB",
-    "address": "Box 15120\nSE-167 15 Bromma\nSweden",
-    "phone": "+46 8 738 52 10",
-    "email": "support@urkund.com",
-    "web": "https://www.urkund.com/",
+    "name": "Prio Infocenter AB",
+    "runs": [
+        "Ouriginal",
+        "Urkund (formerly)"
+    ],
+    "address": "Gustavslundsvägen 135\nSE-167 15 Bromma\nSweden",
+    "phone": "+46 8 738 52 20",
+    "email": "dataprotection@ouriginal.com",
+    "web": "https://www.ouriginal.com/",
     "sources": [
-        "https://www.urkund.com/contact-us/",
+        "https://www.ouriginal.com/privacy-and-personal-data-protection-policy/",
+        "https://www.ouriginal.com/wp-content/uploads/2021/03/Ouriginal-TC-2021-1.pdf",
+        "https://www.ouriginal.com/offices/",
         "https://github.com/datenanfragen/data/issues/521"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

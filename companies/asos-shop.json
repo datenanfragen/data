@@ -8,7 +8,9 @@
     ],
     "name": "ASOS",
     "runs": [
-        "Miss Selfridge"
+        "Miss Selfridge",
+        "Topshop",
+        "Topman"
     ],
     "address": "Hercules Way\nLeavesden\nWatford\nHerts WD25 7GR\nUnited Kingdom",
     "email": "dataprotection@asos.com",
@@ -17,7 +19,9 @@
         "http://www.asos.de/",
         "http://www.asos.de/datenschutz/",
         "https://www.asos.com/privacy-policy/",
-        "https://www.asos.com/miss-selfridge/"
+        "https://www.asos.com/miss-selfridge/",
+        "https://www.asos.com/topshop/",
+        "https://www.asos.com/topman/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

@@ -8,10 +8,10 @@
     ],
     "name": "Zemanta, Inc.",
     "address": "39 West 13th Street\n3rd floor\nNew York\nNY 10011\nUnited States of America",
-    "email": "info+privacy@zemanta.com",
+    "email": "Privacy@outbrain.com",
     "web": "http://www.zemanta.com/",
     "sources": [
-        "http://www.zemanta.com/legal/privacy/"
+        "https://vault.pactsafe.io/s/9ac72792-c7df-4d0d-832d-0ca873f73a64/privacy"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

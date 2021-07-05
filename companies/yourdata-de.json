@@ -14,7 +14,8 @@
     "web": "https://www.yourdata.de/",
     "sources": [
         "https://www.yourdata.de/unternehmen/datenschutz-2/",
-        "https://www.yourdata.de/unternehmen/impressum/"
+        "https://www.yourdata.de/unternehmen/impressum/",
+        "https://www.yourdata.de/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

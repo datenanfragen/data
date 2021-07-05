@@ -6,21 +6,18 @@
     "categories": [
         "commerce"
     ],
-    "name": "VAPIANO SE",
+    "name": "VAP Franchising s.r.o.",
     "runs": [
-        "VAPIANO PEOPLE",
-        "VAPIANO INTERNATIONAL MARKETING GmbH"
+        "Vapiano Ltd."
     ],
-    "address": "Im Zollhafen 2-4\n50678 Köln\nGermany",
-    "phone": "+49 931 30 49 76 0",
-    "fax": "+49 221 67001 205",
-    "email": "office@datenschutz-sued.de",
+    "address": "Václavské náměstí 841/3\n11000 Prague\nCzech Republic",
+    "phone": "+420 737 467 057",
+    "email": "info@vapiano.com",
     "web": "https://www.vapiano.com",
     "sources": [
         "https://github.com/datenanfragen/data/issues/392",
-        "https://www.vapiano.com/en/data-protection/",
+        "https://vapiano.com/data-security/",
         "https://www.vapiano.com/en/imprint/"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

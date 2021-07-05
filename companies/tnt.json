@@ -1,5 +1,8 @@
 {
     "slug": "tnt",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -14,11 +17,8 @@
     "email": "datenschutz@tnt.de",
     "web": "https://www.tnt.com/express/de_de/site/home.html",
     "sources": [
-        "https://www.tnt.com/express/de_de/site/home/terms-conditions.html",
+        "https://www.tnt.com/express/de_de/site/privacy-policy.html",
         "https://www.tnt.com/express/de_de/site/home/Impressum.html"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

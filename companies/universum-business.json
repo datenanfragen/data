@@ -1,5 +1,8 @@
 {
     "slug": "universum-business",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "addresses"
     ],
@@ -7,7 +10,7 @@
     "address": "Hanauer Landstraße 164\n60314 Frankfurt am Main",
     "phone": "+49 69 42091 325",
     "fax": "+49 69 42091 353",
-    "email": "selbstauskunft.ub@universum-group.de",
+    "email": "datenschutz@universum-group.de",
     "web": "https://www.universum-group.de",
     "sources": [
         "https://www.universum-group.de/datenschutz/",
@@ -24,13 +27,10 @@
         }
     ],
     "comments": [
-        "Allgemeiner Datenschutzkontakt der UNIVERSUM Group: datenschutz@universum-group.de",
+        "Webformular für Anfragen: https://www.universum-group.de/datenschutz/selbstauskunft/",
         "Erbitten frühere Anschriften nur, wenn Änderung in den letzten 36 Monaten stattgefunden hat."
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }

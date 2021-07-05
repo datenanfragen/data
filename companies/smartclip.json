@@ -6,16 +6,17 @@
     "categories": [
         "ads"
     ],
-    "name": "SpotX Europe GmbH",
+    "name": "smartclip Europe GmbH",
     "runs": [
-        "smartclip"
+        "SpotX Europe GmbH (formerly)"
     ],
     "address": "Überseeallee 10\n20457 Hamburg\nGermany",
-    "phone": "+49 5241 40308 22",
-    "email": "privacy@smartclip.com",
+    "phone": "+49 40 286686 100",
+    "email": "privacy@smartclip.tv",
     "web": "http://www.smartclip.com/",
     "sources": [
-        "http://privacy-portal.smartclip.net"
+        "http://privacy-portal.smartclip.net",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1723104&land_abk=nw"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",

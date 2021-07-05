@@ -39,11 +39,11 @@
     "address": "Westendstr. 199\n80686 München\nDeutschland",
     "phone": "+49 89 57910",
     "fax": "+49 89 57911551",
-    "email": "datenschutzbeauftragter@tuev-sued.de",
-    "web": "https://www.tuev-sued.de",
+    "email": "datenschutzbeauftragter@tuvsud.com",
+    "web": "https://www.tuvsud.com",
     "sources": [
-        "https://www.tuev-sued.de/servicelinks_de/datenschutz",
-        "https://www.tuev-sued.de/servicelinks_de/impressum"
+        "https://www.tuvsud.com/de-de/datenschutz",
+        "https://www.tuvsud.com/de-de/impressum"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

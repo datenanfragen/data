@@ -1,5 +1,8 @@
 {
     "slug": "universum-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "collection agency"
     ],
@@ -24,10 +27,8 @@
         }
     ],
     "comments": [
+        "Webformular für Anfragen: https://www.universum-group.de/datenschutz/selbstauskunft/",
         "Erbitten frühere Anschriften nur, wenn Änderung in den letzten 36 Monaten stattgefunden hat."
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

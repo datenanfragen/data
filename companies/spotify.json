@@ -15,7 +15,7 @@
     "email": "privacy@spotify.com",
     "web": "https://www.spotify.com",
     "sources": [
-        "https://www.spotify.com/en/legal/privacy-policy/"
+        "https://www.spotify.com/legal/privacy-policy/"
     ],
     "required-elements": [
         {
@@ -29,8 +29,7 @@
     ],
     "suggested-transport-medium": "email",
     "comments": [
-        "Some data can also be downloaded directly through the Spotify web interface: https://www.spotify.com/account/privacy/#privacy-download",
-        "Die Spotify GmbH sitzt: Leipziger Straße 125, 10117 Berlin, Deutschland."
+        "Some data can also be downloaded directly through the Spotify web interface: https://www.spotify.com/account/privacy/#privacy-download"
     ],
     "quality": "verified"
 }
