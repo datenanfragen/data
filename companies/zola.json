@@ -8,11 +8,12 @@
     ],
     "name": "ZOLA, Inc.",
     "address": "250 Greenwich St.\n39th Floor\nNew York\nNY 10007\nUnited States of America",
-    "email": "support@zola.com",
+    "email": "privacy@zola.com",
     "web": "https://www.zola.com/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/452",
         "https://www.zola.com/privacy"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

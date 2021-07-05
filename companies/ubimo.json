@@ -8,11 +8,12 @@
     ],
     "name": "Ubimo Ltd.",
     "address": "85 Broad Street\nNew York\nNY 10004\nUnited States of America",
-    "email": "info@ubimo.com",
+    "email": "privacy@ubimo.com",
     "web": "https://www.ubimo.com/",
     "sources": [
         "https://www.ubimo.com/privacy"
     ],
+    "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
     "quality": "verified"
 }

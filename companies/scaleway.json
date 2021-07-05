@@ -15,6 +15,7 @@
     "sources": [
         "https://www.scaleway.com/fr/conditions/",
         "https://github.com/datenanfragen/data/pull/1086",
+        "https://www.scaleway.com/en/terms/cookies/",
         "https://www.scaleway.com/en/legal-notice/"
     ],
     "suggested-transport-medium": "email",

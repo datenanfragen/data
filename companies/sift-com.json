@@ -7,10 +7,13 @@
         "commerce",
         "finance"
     ],
-    "name": "Sift Science, Inc.",
-    "address": "c/o Achieved Compliance Advocacy, Ltd.\nSingel 250\n1016 AB Amsterdam\nNetherlands",
+    "name": "Sift Science Ireland Limited",
+    "runs": [
+        "Sift Science, Inc."
+    ],
+    "address": "c/o Sift Science, Inc.\n525 Market Street\nSixth Floor\nSan Francisco, CA 94105\nUSA",
     "phone": "+1 571 366 1784",
-    "email": "sift@gdprrepresentative.eu",
+    "email": "privacy@sift.com",
     "web": "https://sift.com",
     "sources": [
         "https://github.com/datenanfragen/data/issues/375",

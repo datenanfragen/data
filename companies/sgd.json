@@ -12,10 +12,10 @@
     "address": "Ostendstr. 3\n64319 Pfungstadt\nDeutschland",
     "phone": "+49 6157 806 0",
     "fax": "+49 6157 806 12",
-    "email": "datenschutzbeauftragte@sgd.de",
+    "email": "datenschutz@sgd.de",
     "web": "https://www.sgd.de",
     "sources": [
-        "https://m.sgd.de/datenschutz.html",
+        "https://www.sgd.de/datenschutz.html",
         "https://github.com/datenanfragen/data/issues/108",
         "https://www.sgd.de/impressum.html"
     ],

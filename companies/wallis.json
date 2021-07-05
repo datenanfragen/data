@@ -6,14 +6,13 @@
     "categories": [
         "commerce"
     ],
-    "name": "Wallis Retail Ltd.",
-    "address": "Burton Business Park\nTorres Road\nLeeds LS9 7DN\nUnited Kingdom",
-    "phone": "+44 344 984 0266",
-    "email": "Customer.service@wallis.co.uk",
+    "name": "Wallis Online Ltd.",
+    "address": "49-51 Dale Street\nManchester\nM1 2HF\nUnited Kingdom",
+    "email": "DPO@wallis.com",
     "web": "http://www.wallis.co.uk",
     "sources": [
-        "http://www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33058&storeId=12557&langId=-1&viewAllFlag=false&categoryId=281007&interstitial=true",
-        "http://help.wallis.co.uk/system/templates/selfservice/wallis/#!portal/403700000001045/article/Prod-2075/How-do-I-contact-Customer-Care"
+        "https://www.wallis.co.uk/page/cs-privacy-policy.html"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

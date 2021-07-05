@@ -7,16 +7,18 @@
         "ads"
     ],
     "name": "Valassis Digital Corp.",
-    "address": "35 East 62nd Street\n7th Floor\nNew York\nNY 10065\nUnited States of America",
-    "email": "ValDigital-Privacy@valassis.com",
-    "web": "https://www.valassisdigital.com/",
+    "runs": [
+        "Valassis Communications, Inc."
+    ],
+    "address": "35 East 62nd Street\n6th Floor\nNew York, NY 10065\nUnited States of America",
+    "phone": "+1 800 437 0479",
+    "email": "privacyrequests@valassis.com",
+    "web": "https://valassis.com/",
     "sources": [
-        "https://www.valassisdigital.com/legal/privacy-policy/"
+        "https://valassis.com/legal/privacy-policy/",
+        "https://valassis.com/about/locations/"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
-    "comments": [
-        "https://www.valassisdigital.com/company/locations/"
-    ],
     "quality": "verified"
 }

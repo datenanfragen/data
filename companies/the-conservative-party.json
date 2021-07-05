@@ -3,14 +3,14 @@
     "relevant-countries": [
         "gb"
     ],
-    "name": "The Conservative Party ",
-    "address": "Compliance Department\nConservative Campaign Headquarters\n4 Matthew Parker Street\nLondon\nSW1H\nUnited Kingdom",
-    "phone": "+44 20 7984 8005",
-    "email": "compliance@conservatives.com",
-    "web": "https://vote.conservatives.com/",
+    "name": "The Conservative Party",
+    "address": "4 Matthew Parker Street\nLondon\nSW1H\nUnited Kingdom",
+    "phone": "+44 20 7984 8300",
+    "email": "dataprotection@conservatives.com",
+    "web": "https://www.conservatives.com/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/412",
-        "https://vote.conservatives.com/privacy"
+        "https://www.conservatives.com/privacy"
     ],
     "needs-id-document": true,
     "suggested-transport-medium": "email",

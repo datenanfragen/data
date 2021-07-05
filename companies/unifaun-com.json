@@ -9,10 +9,8 @@
     "email": "dpo@unifaun.com",
     "web": "https://www.unifaun.com",
     "sources": [
-        "https://www.unifaun.com/gdpr/",
-        "https://www.unifaun.com/about-us/contact/",
-        "https://www.linkedin.com/company/unifaun-ab/",
-        "https://twitter.com/UnifaunAB"
+        "https://www.unifaun.com/integrity_policy/",
+        "https://www.unifaun.com/about-us/contact/"
     ],
     "required-elements": [
         {

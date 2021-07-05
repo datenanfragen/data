@@ -1,5 +1,8 @@
 {
     "slug": "visa-eu",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "finance"
     ],
@@ -9,12 +12,8 @@
     "email": "privacy@visa.com",
     "web": "https://www.visaeurope.com/",
     "sources": [
-        "https://www.visa.de/datenschutz",
-        "https://www.visa.de/impressum",
-        "https://www.visaeurope.com/privacy/"
-    ],
-    "relevant-countries": [
-        "all"
+        "https://www.visa.de/nutzungsbedingungen/visa-globale-datenschutzmitteilung/mitteilung-zu-zustandigkeitsfragen-fur-den-ewr.html",
+        "https://www.visa.de/impressum.html"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

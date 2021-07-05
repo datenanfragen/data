@@ -8,12 +8,13 @@
     ],
     "name": "Zello, Inc.",
     "address": "1317 W 6th\nAustin\nTX 78703\nUnited States of America",
-    "email": "support@zello.com",
+    "email": "privacy@zello.com",
     "web": "https://zello.com/",
     "sources": [
         "https://zello.com/privacy/",
         "https://github.com/datenanfragen/data/issues/396",
         "https://www.builtinaustin.com/company/zello-inc"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

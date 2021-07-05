@@ -6,13 +6,14 @@
     "categories": [
         "telecommunication"
     ],
-    "name": "Tarifhaus AG",
+    "name": "Tarifhaus Online GmbH",
     "address": "Würmstraße 55\n82166 Gräfelfing\nDeutschland",
-    "phone": "+49 89 125015600",
-    "email": "datenschutzbeauftragter-tarifhaus@holzhofer-consulting.de",
+    "phone": "+49 89 215 474 880",
+    "email": "impressum@tarifhaus.de",
     "web": "https://www.tarifhaus.de",
     "sources": [
         "https://www.tarifhaus.de/datenschutz",
+        "https://www.tarifhaus.de/impressum/",
         "https://github.com/datenanfragen/data/issues/330"
     ],
     "required-elements": [
@@ -29,6 +30,5 @@
             "type": "email"
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

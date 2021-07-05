@@ -9,11 +9,11 @@
     "name": "Teads SA",
     "address": "97 rue du Cherche midi\n75006 Paris\nFrance",
     "phone": "+33 1 70 95 59 00",
-    "email": "dpo@teads.tv",
-    "web": "https://www.teads.tv/",
+    "email": "dpo@teads.com",
+    "web": "https://www.teads.com",
     "sources": [
-        "https://www.teads.tv/privacy-policy/",
-        "https://www.teads.tv/teads-offices/"
+        "https://www.teads.com/privacy-policy/",
+        "https://www.teads.com/teads-offices/"
     ],
     "custom-access-template": "access-tracking",
     "quality": "verified"

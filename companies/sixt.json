@@ -1,5 +1,8 @@
 {
     "slug": "sixt",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "travel"
     ],
@@ -7,14 +10,11 @@
     "address": "Zugspitzstraße 1\n82049 Pullach\nDeutschland",
     "phone": "+49 89 7 44 44 0",
     "fax": "+49 89 7 44 44 8 66 66",
-    "email": "datenschutz@sixt.de",
+    "email": "dataprotection@sixt.com",
     "web": "https://www.sixt.de/",
     "sources": [
-        "https://www.sixt.de/informationen/datenschutz/",
+        "https://www.sixt.de/fileadmin/sys/agb/DSGVO_DE_de.pdf",
         "https://www.sixt.de/informationen/impressum/"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

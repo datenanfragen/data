@@ -11,9 +11,9 @@
     "name": "Täglich Angebote UG",
     "address": "Kurfürstenstraße 1\n34117 Kassel\nDeutschland",
     "email": "datenschutz@taeglich-angebote.online",
-    "web": "http://taeglich-angebote.online/",
+    "web": "https://www.taeglich-angebote.online",
     "sources": [
-        "http://taeglich-angebote.online/datenschutz.html",
+        "https://www.taeglich-angebote.online/datenschutz.html",
         "https://github.com/datenanfragen/data/issues/71"
     ],
     "suggested-transport-medium": "email",

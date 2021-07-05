@@ -6,12 +6,16 @@
     "categories": [
         "ads"
     ],
-    "name": "Spot.IM Ltd.",
-    "address": "Yigal Alon 94\n6789156 Tel Aviv\nIsrael",
-    "email": "privacy@spot.im",
-    "web": "https://www.spot.im/",
+    "name": "OpenWeb Ltd.",
+    "runs": [
+        "Spot.IM (formerly)"
+    ],
+    "address": "c/o Prighter\nSchellinggasse 3/10\nVienna 1010\nAustria",
+    "email": "privacy@openweb.com",
+    "web": "https://www.openweb.com",
     "sources": [
-        "https://www.spot.im/Privacy/"
+        "https://www.openweb.com/legal-and-privacy/privacy/",
+        "https://www.crunchbase.com/organization/spotim"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

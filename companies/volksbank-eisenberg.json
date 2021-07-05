@@ -1,5 +1,8 @@
 {
     "slug": "volksbank-eisenberg",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance"
     ],
@@ -7,13 +10,11 @@
     "address": "Martin-Luther-Straße 2\n07607 Eisenberg\nDeutschland",
     "phone": "+49 36691 5858",
     "fax": "+49 36691 58555",
-    "email": "datenschutzbeauftragter@volksbankeisenberg.de",
-    "web": "https://www.my-volksbank.de/",
+    "email": "hallo@my-volksbank.de",
+    "web": "https://www.volksbankeisenberg.de/",
     "sources": [
-        "https://www.my-volksbank.de/datenschutz.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.volksbankeisenberg.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.nolayer.html",
+        "https://www.volksbankeisenberg.de/Pflichtangaben/impressum.landingpage.nolayer.html"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

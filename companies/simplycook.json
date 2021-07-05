@@ -9,6 +9,7 @@
     "web": "https://www.simplycook.com",
     "sources": [
         "https://beta.companieshouse.gov.uk/company/09364895",
+        "https://www.simplycook.com/privacy-policy",
         "https://github.com/datenanfragen/data/issues/134"
     ],
     "request-language": "en",

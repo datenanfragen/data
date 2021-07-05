@@ -13,8 +13,8 @@
     "email": "datenschutzreferat@bfv.bund.de",
     "web": "https://www.verfassungsschutz.de",
     "sources": [
-        "https://www.verfassungsschutz.de/de/datenschutz",
-        "https://www.verfassungsschutz.de/de/impressum"
+        "https://www.verfassungsschutz.de/DE/service/datenschutz/datenschutz_node.html",
+        "https://www.verfassungsschutz.de/DE/service/impressum/impressum_node.html"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

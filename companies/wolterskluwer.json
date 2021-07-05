@@ -13,12 +13,15 @@
     "address": "c/o TÜV IT, IT Security & Privacy\nLangemarckstr. 20\n45141 Essen\nDeutschland",
     "phone": "+49 201 8999899",
     "fax": "+49 201 8999666",
-    "email": "dsb@wolterskluwer.com",
+    "email": "dsb@wolterskluwer.de",
     "web": "https://www.wolterskluwer.de",
     "sources": [
-        "https://www.wolterskluwer.de/datenschutz/",
+        "https://www.wolterskluwer.com/de-de/privacy-cookies",
         "https://www.steuertipps.de/datenschutz",
         "https://github.com/datenanfragen/data/issues/445"
+    ],
+    "comments": [
+        "Webformular für Anfragen: https://www.wolterskluwer.com/de-de/privacy-cookies/inquiry"
     ],
     "quality": "verified"
 }

@@ -11,7 +11,7 @@
     "email": "datenschutz.versorgung@swm.de",
     "web": "https://swm.de",
     "sources": [
-        "https://www.swm.de/privatkunden/info/datenschutz.html",
+        "https://www.swm.de/datenschutz/swm-versorgungs-gmbh",
         "https://github.com/datenanfragen/data/issues/630"
     ],
     "suggested-transport-medium": "email",

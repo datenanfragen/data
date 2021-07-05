@@ -1,23 +1,24 @@
 {
     "slug": "yomo-starfinanz",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance"
     ],
     "name": "Star Finanz GmbH",
     "runs": [
-        "yomo – mobiles App-Girokonto der Sparkassen"
+        "yomo – mobiles App-Girokonto der Sparkassen (ehem.)"
     ],
     "address": "Grüner Deich 15\n20097 Hamburg\nDeutschland",
     "phone": "+49 40 23728 0",
     "fax": "+49 40 23728 350",
     "email": "datenschutz@starfinanz.de",
-    "web": "https://yomo.de",
+    "web": "https://www.starfinanz.de",
     "sources": [
-        "https://yomo.de/datenschutz",
-        "https://yomo.de/impressum/"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.starfinanz.de/datenschutz/",
+        "https://www.starfinanz.de/impressum/",
+        "https://financefwd.com/de/yomo-abschied/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

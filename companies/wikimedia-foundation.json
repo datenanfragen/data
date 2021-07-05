@@ -28,7 +28,7 @@
     "email": "privacy@wikimedia.org",
     "web": "https://www.wikipedia.org/",
     "sources": [
-        "https://meta.wikimedia.org/wiki/Privacy_policy/",
+        "https://foundation.wikimedia.org/wiki/Privacy_policy",
         "https://github.com/datenanfragen/data/issues/438"
     ],
     "request-language": "en",
