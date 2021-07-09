@@ -1,19 +1,24 @@
 {
     "slug": "paydirekt",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance"
     ],
     "name": "paydirekt GmbH",
+    "runs": [
+        "giropay"
+    ],
     "address": "Hamburger Allee 26 – 28\n60486 Frankfurt\nDeutschland",
-    "phone": "+49 69 2475 382 200",
+    "phone": "+49 69 2475382200",
     "email": "datenschutz@paydirekt.de",
     "web": "https://www.paydirekt.de",
     "sources": [
         "https://www.paydirekt.de/agb/index.html",
-        "https://www.paydirekt.de/impressum/index.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.paydirekt.de/impressum/index.html",
+        "https://www.giropay.de/rechtliches/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/1176"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
