@@ -1,0 +1,20 @@
+{
+    "slug": "rsggroup",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "RSG Group",
+    "runs": [
+        "McFit",
+        "John Reed",
+        "weitere"
+    ],
+    "address": "RSG Group GmbH\nTannenberg 4\n96132 Schlüsselfeld",
+    "web": "https://rsggroup.com/en/imprint/",
+    "sources": [
+        "https://rsggroup.com/en/imprint/",
+        "https://www.mcfit.com/de/ueber-mcfitcom/impressum/",
+        "https://github.com/datenanfragen/data/pull/1177"
+    ],
+    "quality": "verified"
+}
