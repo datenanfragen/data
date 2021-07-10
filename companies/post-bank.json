@@ -1,0 +1,12 @@
+{
+    "slug": "post-bank",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Post Bank",
+    "address": "Michigan -USA",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1178"
+    ]
+}
