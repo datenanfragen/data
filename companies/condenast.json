@@ -41,6 +41,7 @@
     "web": "https://www.condenast.com",
     "sources": [
         "https://www.condenast.com/privacy-policy#notice-to-residents-of-the-european-economic-area",
+        "https://www.condenast.com/brands-and-markets/brands",
         "https://github.com/datenanfragen/data/pull/1166"
     ],
     "required-elements": [
