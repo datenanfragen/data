@@ -3,18 +3,24 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "runtastic",
-    "address": "runtastic GmbH\nPluskaufstraße 7 · Business Center\n4061 Pasching bei Linz / Austria ",
-    "fax": "+43 7229 23327",
-    "email": "office@runtastic.com",
-    "web": "https://www.runtastic.com/en/privacy-policy",
-    "needs-id-document": false,
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Diese Firma nimmt sich unfassbare 30 Tage zum Löschen eines Accounts."
+    "categories": [
+        "health",
+        "social media"
     ],
-    "quality": "verified",
+    "name": "runtastic GmbH",
+    "address": "Pluskaufstraße 7\n4061 Pasching bei Linz\nAustria",
+    "fax": "+43 7229 23327",
+    "email": "dataprotection@runtastic.com",
+    "web": "https://www.runtastic.com/en/privacy-policy",
     "sources": [
         "https://github.com/datenanfragen/data/pull/1169"
-    ]
+    ],
+    "required-elements": [
+        {
+            "desc": "Email",
+            "type": "name"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
