@@ -1,0 +1,39 @@
+{
+    "slug": "qnniu",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Shenzhen Qingniu Software Co., Ltd.",
+    "runs": [
+        "Feelfit-Health Fitness Tool",
+        "Megafit",
+        "VOFIT",
+        "Runcobo",
+        "Tikfit-Health Fitness Tool",
+        "BF Scale Health Fitness Tool",
+        "Runcobo note"
+    ],
+    "address": "Dabao Road, Bao'an\nRoom 201-202, No.49-1\nShenzhen\nGuangDong\nChina",
+    "phone": "+86 400 998 2913",
+    "email": "service@qnniu.com",
+    "web": "http://www.qnniu.com/",
+    "sources": [
+        "https://play.google.com/store/apps/developer?id=QingNiu&hl=en&gl=US",
+        "https://play.google.com/store/apps/details?id=com.qingniu.feelfit&hl=en&gl=US",
+        "https://oversea-h5.yolanda.hk/privacy/Feelfit/index.html?lang=en",
+        "https://github.com/datenanfragen/data/pull/1175"
+    ],
+    "required-elements": [
+        {
+            "desc": "Email",
+            "type": "name"
+        }
+    ],
+    "comments": [
+        "It also seems you can email support@feelfit.com to exercise your rights."
+    ],
+    "quality": "verified"
+}
