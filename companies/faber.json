@@ -1,0 +1,20 @@
+{
+    "slug": "faber",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "FABER Lotto GmbH & Co. KG",
+    "address": "Markstraße 79\n44801 Bochum\nDeutschland ",
+    "email": "datenschutz@faber.de.",
+    "web": "https://www.faber.de",
+    "sources": [
+        "https://www.faber.de",
+        "https://github.com/datenanfragen/data/pull/1181"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
