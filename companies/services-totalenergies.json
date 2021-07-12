@@ -12,7 +12,8 @@
         "ELAN",
         "MINOL",
         "ACCESS",
-        "Total Access"
+        "Total Access",
+        "heizoel.totalenergies.de"
     ],
     "address": "Jean-Monnet-Str. 2\n10557 Berlin\nDeutschland",
     "phone": "+49 800 8682533",
@@ -23,6 +24,7 @@
         "https://www.services.totalenergies.de/impressum",
         "https://www.services.totalenergies.de/zentraler-kundenservice",
         "https://services.totalenergies.de/datenschutz",
+        "https://heizoel.totalenergies.de/datenschutzerklaerung/",
         "https://github.com/datenanfragen/data/pull/1155"
     ],
     "suggested-transport-medium": "email",
