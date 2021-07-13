@@ -26,5 +26,6 @@
             "type": "address"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "tested"
 }

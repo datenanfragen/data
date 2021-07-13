@@ -17,5 +17,6 @@
         "https://www.dpma.de/dpma/recht_und_gesetz/datenschutzerklaerung/verantwortlichestelle/index.html"
     ],
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

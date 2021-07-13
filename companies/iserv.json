@@ -17,5 +17,6 @@
         "https://iserv.eu/legal/privacy",
         "https://iserv.eu/legal"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
