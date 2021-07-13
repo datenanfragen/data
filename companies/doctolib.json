@@ -18,11 +18,11 @@
     ],
     "required-elements": [
         {
-            "desc": "email",
+            "desc": "E-Mail",
             "type": "email"
         },
         {
-            "desc": "name",
+            "desc": "Name",
             "type": "name"
         }
     ],
