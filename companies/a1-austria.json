@@ -11,7 +11,8 @@
     "phone": "+43 050 664 0",
     "web": "https://www.a1.net",
     "sources": [
-        "http://cdn12.a1.net/m/resources/media/pdf/a1-datenschutzerklaerung-250518-pdf.pdf"
+        "https://cdn12.a1.net/m/resources/media/pdf/Informationspflichten-und-Zustimmungserklaerung-A1.pdf",
+        "https://www.a1.net/impressum
     ],
     "request-language": "de",
     "needs-id-document": true,
