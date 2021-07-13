@@ -9,7 +9,8 @@
     "email": "info@vonza.com",
     "web": "https://vonza.com/",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1171"
+        "https://github.com/datenanfragen/data/pull/1171",
+        "https://vonza.com/privacypolicy"
     ],
     "required-elements": [
         {
