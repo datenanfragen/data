@@ -5,10 +5,14 @@
         "at",
         "ch"
     ],
+    "categories": [
+        "commerce"
+    ],
     "name": "Torquato AG",
     "address": "c/o DS EXTERN GmbH\nFrapanweg 22\n22589 Hamburg\nDeutschland",
     "phone": "+49 4152 801400",
     "fax": "+49 4152 801555",
+    "email": "info@torquato.de",
     "web": "https://www.torquato.de",
     "sources": [
         "https://www.torquato.de/impressum/",
@@ -16,8 +20,7 @@
         "https://github.com/datenanfragen/data/pull/1151"
     ],
     "comments": [
-        "Die eigentliche Adresse lautet:\n\nTorquato AG\nAm Spakenberg 45\n21500 Geesthacht\nDeutschland",
-        "Es gibt ein Online-Formular für Anfragen: https://www.dsextern.de/anfragen"
+        "Es gibt ein Webformular für Anfragen: https://www.dsextern.de/anfragen"
     ],
     "quality": "verified"
 }
