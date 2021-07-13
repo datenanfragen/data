@@ -17,5 +17,6 @@
         "https://igsquerum.net/service/impressum/"
     ],
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

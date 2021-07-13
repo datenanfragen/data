@@ -16,5 +16,6 @@
         "https://www.destatis.de/DE/Meta/Datenschutz/Datenschutz.html"
     ],
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

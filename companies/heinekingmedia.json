@@ -33,5 +33,6 @@
     "sources": [
         "https://heinekingmedia.de/datenschutz/"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

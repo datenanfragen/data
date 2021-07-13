@@ -14,5 +14,6 @@
     "sources": [
         "https://threema.ch/de/privacy"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

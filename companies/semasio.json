@@ -14,6 +14,8 @@
         "https://www.semasio.com/privacy"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "letter",
+    "comments": [
+        "There is a webform available at https://me.semasio.net/right-for-information/"
+    ],
     "quality": "verified"
 }

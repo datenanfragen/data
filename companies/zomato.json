@@ -15,5 +15,6 @@
         "https://www.zomato.com/privacy",
         "https://github.com/datenanfragen/data/issues/429"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

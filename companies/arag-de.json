@@ -34,5 +34,6 @@
             "type": "birthdate"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

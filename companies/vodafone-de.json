@@ -31,5 +31,6 @@
         "https://github.com/datenanfragen/data/pull/1131",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1456353&land_abk=by"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

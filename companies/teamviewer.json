@@ -21,5 +21,6 @@
         "https://www.teamviewer.com/de/impressum/"
     ],
     "needs-id-document": false,
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

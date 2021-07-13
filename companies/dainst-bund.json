@@ -16,5 +16,6 @@
         "https://www.dainst.org/datenschutz"
     ],
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
