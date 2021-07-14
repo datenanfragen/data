@@ -1,0 +1,19 @@
+{
+    "slug": "fantasticacademy",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Fantastic Academy",
+    "address": "98 Tooley Street, London, SE1 2TH",
+    "phone": "07480 048 820",
+    "email": "info@fantasticacademy.com",
+    "web": "https://fantasticacademy.com/",
+    "sources": [
+        "Fantastic Academy's website",
+        "https://github.com/datenanfragen/data/pull/1189"
+    ],
+    "quality": "verified"
+}
