@@ -8,7 +8,9 @@
     ],
     "name": "Fashion ID GmbH & Co. KG",
     "runs": [
-        "peek-cloppenburg.de"
+        "peek-cloppenburg.de",
+        "ansons.de",
+        "fashionid.de"
     ],
     "address": "Berliner Allee 2\n40212 Düsseldorf\nDeutschland",
     "phone": "+49 800 7003300",
@@ -19,7 +21,9 @@
         "https://www.fashionid.de/privacy",
         "https://www.fashionid.de/impressum",
         "https://www.peek-cloppenburg.de/privacy",
-        "https://de.wikipedia.org/wiki/Peek_%26_Cloppenburg_(D%C3%BCsseldorf)"
+        "https://de.wikipedia.org/wiki/Peek_%26_Cloppenburg_(D%C3%BCsseldorf)",
+        "https://www.ansons.de/privacy/",
+        "https://github.com/datenanfragen/data/pull/1192"
     ],
     "required-elements": [
         {
