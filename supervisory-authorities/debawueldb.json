@@ -3,17 +3,17 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Der Landesbeauftragte für den Datenschutz Baden-Württemberg",
+    "name": "Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg",
     "address": "Postfach 10 29 32\n70025 Stuttgart\nDeutschland",
     "phone": "+49 711 6155 410",
     "fax": "+49 711 6155 4115",
     "email": "poststelle@lfdi.bwl.de",
     "pgp-fingerprint": "E4FA 428C B315 2248 83BB  F6FB 0FC3 48A6 4A32 5962",
+    "pgp-url": "https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2020/09/LfDI-PGP-Key.txt",
     "web": "https://www.baden-wuerttemberg.datenschutz.de/",
     "sources": [
         "https://www.baden-wuerttemberg.datenschutz.de/pgp-schlussel/",
-        "https://www.baden-wuerttemberg.datenschutz.de/kontakt/",
-        "https://www.datenschutz-wiki.de/Aufsichtsbeh%C3%B6rden_und_Landesdatenschutzbeauftragte"
+        "https://www.baden-wuerttemberg.datenschutz.de/kontakt/"
     ],
     "complaint-language": "de",
     "suggested-transport-medium": "email"
