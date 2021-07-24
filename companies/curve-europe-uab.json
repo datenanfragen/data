@@ -1,0 +1,13 @@
+{
+    "slug": "curve-europe-uab",
+    "relevant-countries": [
+        "lt"
+    ],
+    "name": "Curve Europe UAB",
+    "address": "Jogailos g. 9, LT-01116 Vilnius",
+    "sources": [
+        "https://www.curve.com/",
+        "https://github.com/datenanfragen/data/pull/1196"
+    ],
+    "quality": "verified"
+}
