@@ -1,0 +1,24 @@
+{
+    "slug": "treatwell-dach-gmbh",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Treatwell DACH GmbH",
+    "runs": [
+        "www.treatwell.de",
+        "www.treatwell.com"
+    ],
+    "address": "Greifswalder Str. 212, 10405 Berlin, Deutschland",
+    "email": "koenigkunde@treatwell.de",
+    "sources": [
+        "https://www.treatwell.de/info/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1202"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
