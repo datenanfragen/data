@@ -1,0 +1,18 @@
+{
+    "slug": "adikteev",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Adikteev",
+    "runs": [
+        "SA & Adikteev Inc"
+    ],
+    "address": "ADIKTEEV SA\nAttn: Legal Department \n29 rue des Pyramides, 75001 Paris, France",
+    "email": "dpo@adikteev.com",
+    "web": "https://www.adikteev.com",
+    "sources": [
+        "https://www.adikteev.com/privacy",
+        "https://github.com/datenanfragen/data/pull/1199"
+    ],
+    "quality": "verified"
+}
