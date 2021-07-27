@@ -1,0 +1,13 @@
+{
+    "slug": "adhese",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Adhese",
+    "address": "Dulle-grietlaan 1/0001\n9050 Gentbrugge - Belgium ",
+    "sources": [
+        "https://www.adhese.eu/adheseanddata.html",
+        "https://github.com/datenanfragen/data/pull/1198"
+    ],
+    "quality": "verified"
+}
