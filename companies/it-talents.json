@@ -1,0 +1,24 @@
+{
+    "slug": "it-talents",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        null
+    ],
+    "name": "Talentzeit GmbH",
+    "runs": [
+        "IT-Talents"
+    ],
+    "address": "Johanneswerkstraße 4,\n33611 Bielefeld",
+    "phone": "+49 521 91173050",
+    "fax": "+49 521 91173051",
+    "email": "datenschutz@it-talents.de",
+    "web": "https://it-talents.de/",
+    "sources": [
+        "https://it-talents.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1203"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
