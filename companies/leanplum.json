@@ -1,0 +1,20 @@
+{
+    "slug": "leanplum",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Leanplum, Inc.",
+    "address": "61-105 Weesperstraat\nAM 1018VN Amsterdam\nNetherlands",
+    "email": "privacy@leanplum.com",
+    "web": "https://www.leanplum.com/",
+    "sources": [
+        "https://www.leanplum.com/privacy/",
+        "https://www.leanplum.com/contact-us/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
