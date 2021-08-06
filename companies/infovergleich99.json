@@ -1,0 +1,20 @@
+{
+    "slug": "infovergleich99",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "INFOVERGLEICH99 UG",
+    "address": "Zimmerstraße 78\n10117 Berlin",
+    "phone": "+49 30 255583655",
+    "email": "datenschutz@infovergleich99.de",
+    "web": "https://www.infovergleich99.de",
+    "sources": [
+        "https://www.infovergleich99.de/",
+        "https://github.com/datenanfragen/data/pull/1206"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Rufen pauschal bei Leuten an, erzählen was von Spartarifen, verlangen nach der Zählernummer und wollen einen damit zu nem anderen Anbieter ziehen."
+    ],
+    "quality": "verified"
+}
