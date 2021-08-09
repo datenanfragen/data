@@ -1,0 +1,27 @@
+{
+    "slug": "polizeipr-sidium-s-dhessen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Polizeipräsidium Südhessen",
+    "address": "Klappacher Str. 145\n64285 Darmstadt",
+    "phone": "06151 969-0",
+    "fax": "06151 969-3415",
+    "email": "abt-v-v1.ppsh@polizei.hessen.de",
+    "required-elements": [
+        {
+            "type": "input"
+        }
+    ],
+    "comments": [
+        "Anfrage empfohlen für alle von der hessischen Polizei gespeicherten Daten, insbesondere in den Datenbanken POLAS-HE und ComVor",
+        null
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1208"
+    ]
+}
