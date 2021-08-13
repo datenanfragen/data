@@ -1,0 +1,20 @@
+{
+    "slug": "hannoversche",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Hannoversche Le­bens­ver­siche­rung AG",
+    "address": "Hannoversche Lebens­versicherung AG\nVHV-Platz 1\nD-30177 Hannover",
+    "phone": "0511/9565-0",
+    "fax": "0511/9565-666",
+    "email": "service@hannoversche.de",
+    "web": "https://www.hannoversche.de/",
+    "sources": [
+        "https://www.hannoversche.de/datenschutz/allgemeine-informationen",
+        "https://github.com/datenanfragen/data/pull/1213"
+    ],
+    "quality": "verified"
+}
