@@ -1,19 +1,21 @@
 {
     "slug": "purovivo",
     "relevant-countries": [
-        "de"
+        "de",
+        "at",
+        "ch"
     ],
     "categories": [
-        "entertainment"
+        "commerce",
+        "ads"
     ],
     "name": "PuroVivo",
-    "address": "Rudolstädter Straße 39\n07745 Jena",
-    "email": "service@purovivo.de",
+    "address": "Rudolstädter Straße 39\n07745 Jena\nDeutschland",
+    "email": "info@purovivo.de",
     "web": "https://www.purovivo.de/",
     "sources": [
-        "https://www.purovivo.de/",
+        "https://www.purovivo.de/unternehmen/impressum/",
         "https://github.com/datenanfragen/data/pull/1212"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
