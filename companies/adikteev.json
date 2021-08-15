@@ -3,16 +3,21 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "Adikteev",
-    "runs": [
-        "SA & Adikteev Inc"
+    "categories": [
+        "ads"
     ],
-    "address": "ADIKTEEV SA\nAttn: Legal Department \n29 rue des Pyramides, 75001 Paris, France",
+    "name": "Adikteev SA",
+    "runs": [
+        "Adikteev Inc."
+    ],
+    "address": "29 rue des Pyramides\n75001 Paris\nFrance",
+    "phone": "+1 212 203 4837",
     "email": "dpo@adikteev.com",
     "web": "https://www.adikteev.com",
     "sources": [
         "https://www.adikteev.com/privacy",
         "https://github.com/datenanfragen/data/pull/1199"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
