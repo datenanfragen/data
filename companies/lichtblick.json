@@ -6,14 +6,15 @@
     "categories": [
         "utility"
     ],
-    "name": "LichtBlick",
-    "address": "Zirkusweg 6\n20359 Hamburg",
+    "name": "LichtBlick SE",
+    "address": "Zirkusweg 6\n20359 Hamburg\nDeutschland",
     "phone": "+49 40 80803030",
-    "email": "info@lichtblick.de",
+    "email": "datenschutz@lichtblick.de",
     "web": "https://www.lichtblick.de",
     "sources": [
-        "https://www.lichtblick.de",
-        "https://github.com/datenanfragen/data/pull/1211"
+        "https://www.lichtblick.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1211",
+        "https://www.lichtblick.de/impressum/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
