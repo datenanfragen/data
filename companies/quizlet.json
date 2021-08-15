@@ -7,25 +7,24 @@
         "school"
     ],
     "name": "Quizlet, Inc.",
-    "address": "501 2nd Street, Suite 500\nSan Francisco, CA 94107 USA",
+    "address": "501 2nd Street, Suite 500\nSan Francisco, CA 94107\nUSA",
     "phone": "+1 510 495 6550",
     "email": "privacy-eu@quizlet.com",
     "web": "https://quizlet.com",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1204",
+        "https://quizlet.com/privacy"
+    ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Email",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "sources": [
-        "https://github.com/datenanfragen/data/pull/1204"
-    ]
+    "quality": "verified"
 }
