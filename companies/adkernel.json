@@ -3,8 +3,11 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "Adkernel ",
-    "address": "30 Montgomery St\nSuite 440\nJersey City\nNJ 07302",
+    "categories": [
+        "ads"
+    ],
+    "name": "Adkernel",
+    "address": "30 Montgomery St\nSuite 440\nJersey City, NJ 07302\nUSA",
     "phone": "+1 888 654 8826",
     "email": "contact@adkernel.com",
     "web": "https://adkernel.com",
