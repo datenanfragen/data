@@ -7,16 +7,16 @@
         "commerce"
     ],
     "name": "Fressnapf Tiernahrungs GmbH",
-    "address": "Fressnapf Tiernahrungs GmbH\nWestpreußenstr. 32-38\nD-47809 Krefeld\n",
-    "phone": "+49 2151 4115760",
-    "email": "info@fressnapf.de",
+    "address": "Westpreußenstr. 32-38\n47809 Krefeld\nDeutschland",
+    "email": "privacy@fressnapf.com",
     "sources": [
         "https://www.fressnapf.de/impressum/",
+        "https://www.fressnapf.com/de/datenschutzerkl%C3%A4rung",
         "https://github.com/datenanfragen/data/pull/1216"
     ],
     "suggested-transport-medium": "email",
     "comments": [
-        "Bitte überprüfen Sie meine Angaben auf Korrektheit"
+        "Auf https://www.fressnapf.de/datenschutzerklaerung/ lässt sich eine Adresse und Telefonnr. für den Datenschutzbeauftragen finden."
     ],
     "quality": "verified"
 }
