@@ -10,15 +10,17 @@
     "runs": [
         "GroupM Worldwide LLC",
         "[m]PLATFORM Ltd.",
-        "mPlatform, LLC"
+        "mPlatform, LLC",
+        "Xaxis"
     ],
     "address": "40 The Strand\nLondon\nWC2N 5RW\nUnited Kingdom",
     "phone": "+44 20 7896 4700",
     "email": "DPO@GroupM.com",
     "web": "https://www.groupm.com/",
     "sources": [
-        "https://www.groupm.com/mplatform-privacy-notice",
-        "https://www.groupm.com/privacy-policy"
+        "https://www.groupm.com/privacy-notice/",
+        "https://www.groupm.com/mplatform-privacy-notice/",
+        "https://www.xaxis.com/privacy-notice/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

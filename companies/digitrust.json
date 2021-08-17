@@ -8,12 +8,12 @@
     ],
     "name": "DigiTrust",
     "address": "c/o IAB Technology Laboratory, Inc.\n116 East 27th Street\n7th Floor\nNew York\nNew York 10016\nUnited States of America",
-    "email": "support@iab.com",
-    "web": "https://www.digitru.st/",
+    "phone": "+1 212 380 4728",
+    "email": "digitrust@iabtechlab.com",
     "sources": [
-        "https://www.digitru.st/privacy-policy/"
+        "https://iabtechlab.com/blog/digitrust-the-final-chapter/",
+        "https://iabtechlab.com/privacy-policy/"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -7,16 +7,16 @@
         "ads"
     ],
     "name": "Eyeota Pte Ltd",
-    "address": "12a Upper Circular Road\n058410\nSingapore",
+    "address": "c/o ePrivacy GmbH\nGroße Bleichen 21\n20354 Hamburg\nGermany",
     "email": "privacy@eyeota.com",
     "web": "https://www.eyeota.com/",
     "sources": [
-        "https://www.eyeota.com/privacy-policy"
+        "https://www.eyeota.com/privacy-center-contact-us"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "comments": [
-        "There is also a web form for requests: https://www.eyeota.com/subject-access-request-form"
+        "There is also a web form for requests: https://www.eyeota.com/subject-access-request"
     ],
     "quality": "verified"
 }

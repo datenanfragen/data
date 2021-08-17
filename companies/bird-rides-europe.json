@@ -13,9 +13,7 @@
     "email": "privacy@bird.co",
     "web": "https://www.bird.co/",
     "sources": [
-        "https://www.bird.co/privacy/",
-        "https://www.bird.co/de/press/bird-uebernimmt-circ-den-europaeischen-marktfuehrer-fuer-mikromobilitaet/",
-        "https://www.bird.co/contact-us/"
+        "https://www.bird.co/privacy/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

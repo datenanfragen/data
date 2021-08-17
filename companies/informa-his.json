@@ -17,7 +17,7 @@
     "web": "https://www.informa-his.de",
     "sources": [
         "https://www.informa-his.de/selbstauskunft/selbstauskunft/",
-        "https://www.informa-his.de/impressum/",
+        "https://www.informa-his.de/service/kontakt",
         "https://www.informa-his.de/service/datenschutz"
     ],
     "required-elements": [

@@ -6,15 +6,14 @@
     "categories": [
         "ads"
     ],
-    "name": "Adfire Health LLC",
+    "name": "Katon Partners LLC dba Adfire Health",
     "address": "2 Landmark Sq.\nSuite 214\nStamford\nCT 06901\nUnited States of America",
     "phone": "+1 914 921 8800",
-    "email": "privacy@adfirehealth.com",
+    "email": "sayhello@adfirehealth.com",
     "web": "https://adfirehealth.com/",
     "sources": [
         "https://adfirehealth.com/privacy-policy/"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

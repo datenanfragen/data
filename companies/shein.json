@@ -6,17 +6,25 @@
     "categories": [
         "commerce"
     ],
-    "name": "ZoeTop Business Co., Ltd.",
+    "name": "Infinite Styles Ecommerce Co., Ltd.",
     "runs": [
-        "SheIn Group Ltd. (www.shein.com)"
+        "SHEIN",
+        "ZoeTop Business Co., Ltd.",
+        "Roadget Business Pte. Ltd."
     ],
-    "address": "Room 19C, Lockhart Centre\n301 – 307 Lockhart Road\nWan Chai\nHong Kong",
+    "address": "1-2 Victoria Building\nHaddington Road\nDublin 4\nIreland",
+    "phone": "+49 1573598 4912",
     "email": "data@shein.com",
     "web": "https://www.shein.com/",
     "sources": [
-        "https://www.shein.com/Privacy-Security-Policy-a-282.html",
+        "https://de.shein.com/Privacy-Security-Policy-a-282.html",
+        "https://de.shein.com/imprint-a-746.html",
+        "https://de.shein.com/Privacy-Center-a-1045.html",
         "https://beta.companieshouse.gov.uk/company/FC033476"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Web form for requests: https://shein.com/user/privacy_request"
+    ],
     "quality": "verified"
 }

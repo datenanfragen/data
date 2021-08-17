@@ -11,12 +11,11 @@
     "address": "Bültenweg 73\n38106 Braunschweig\nDeutschland",
     "phone": "+49 531 22 43 666 0",
     "fax": "+49 531 22 43 666 9",
-    "email": "datenschutz@iserv.eu",
-    "web": "https://iserv.eu/",
+    "email": "info@iserv.de",
+    "web": "https://iserv.de/",
     "sources": [
-        "https://iserv.eu/legal/privacy",
-        "https://iserv.eu/legal"
+        "https://iserv.de/legal/privacy",
+        "https://iserv.de/legal"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

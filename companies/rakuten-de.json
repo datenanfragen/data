@@ -6,18 +6,14 @@
     "categories": [
         "commerce"
     ],
-    "name": "Rakuten Deutschland GmbH",
+    "name": "Rakuten Europe S.à rl",
     "runs": [
-        "Rakuten ID",
-        "Rakuten Point",
-        "Club Rakuten"
+        "Rakuten Deutschland GmbH (ehem.)"
     ],
-    "address": "Geisfelder Str. 16\n96050 Bamberg\nDeutschland",
-    "email": "datenschutz@rakuten.de",
+    "address": "2 rue du Fossé\nL-1536 Luxemburg\nLuxemburg",
     "web": "https://www.rakuten.de/",
     "sources": [
-        "https://rakuten.de/datenschutz",
-        "https://rakuten.de/nutzungsbedingungen"
+        "https://rakuten.de/datenschutz"
     ],
     "required-elements": [
         {
@@ -37,6 +33,5 @@
         }
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }

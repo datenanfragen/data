@@ -8,12 +8,10 @@
     ],
     "name": "New Look Retailers Ltd.",
     "address": "New Look House\nMercery Road\nDT3 5HJ Weymouth\nDorset\nUnited Kingdom",
-    "phone": "+44 344 499 6690",
     "email": "privacy@newlook.com",
     "web": "https://www.newlook.com",
     "sources": [
-        "https://www.newlook.com/uk/help/privacy-policy/security",
-        "https://www.newlook.com/uk/help/contact-us"
+        "https://help-uk.newlook.com/hc/en-gb/articles/360018841831-Privacy"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
