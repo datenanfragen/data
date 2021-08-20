@@ -1,0 +1,21 @@
+{
+    "slug": "tripalong",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Tripalong",
+    "address": "30 N Gould St Ste R Sheridan, WY 82801",
+    "phone": "8886661766",
+    "email": "support@tripalong.net",
+    "web": "https://www.tripalong.net",
+    "sources": [
+        "https://foursquare.com/v/tripalong-llc/5e0f3c144a50550008b81d04",
+        "https://angel.co/company/tripalong",
+        "https://github.com/datenanfragen/data/pull/1224"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
