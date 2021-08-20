@@ -1,0 +1,17 @@
+{
+    "slug": "pin-ag",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "PIN AG",
+    "runs": [
+        "PIN Logistik GmbH und PIN IT GmbH"
+    ],
+    "address": "Alt- Moabit 91\n10559 Berlin\nGermany",
+    "phone": "030 577978-184",
+    "web": "https://www.pin-ag.de/datenschutz",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1220"
+    ]
+}
