@@ -1,0 +1,19 @@
+{
+    "slug": "schneebaer-berlin",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Schneebär Winterdienst und Straßenreinigung e.K.",
+    "address": "Wittestraße 46-48\n13509 Berlin\nGermany",
+    "phone": "030-403 03 556",
+    "fax": "030-403 03 557",
+    "email": "info@schneebaer-berlin.de",
+    "web": "http://www.schneebaer-berlin.de/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1219"
+    ]
+}
