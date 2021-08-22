@@ -2,6 +2,7 @@ const ajv = new (require('ajv'))({ verbose: true });
 const fs = require('fs');
 const glob = require('glob');
 const path = require('path');
+const countries = require('countries-list').countries;
 
 // json-forms uses the `text` format for multi-line strings.
 ajv.addFormat('text', (a) => true);
@@ -19,51 +20,66 @@ const templates = glob.sync('**/*.txt', { cwd: 'templates' }).reduce((acc, cur) 
     return acc;
 }, {});
 
-// This ain't exactly pretty but globally remember the file name so we don't have to manually pass it to `fail()`.
-let f = undefined;
-
-const fail = (...args) => {
-    if (f) console.error(/* bold, bg red */ `\x1b[1m\x1b[41mError in ${f}:\x1b[0m` /* reset */);
-    console.error(...args);
+const fail = (errors) => {
+    for (let file in errors) {
+        console.error(/* bold, bg red */ `\x1b[1m\x1b[41mError(s) in ${file}:\x1b[0m` /* reset */);
+        for (let error of errors[file]) {
+            if (error.msg && Object.keys(error).length === 1) {
+                console.error(error.msg);
+            } else if (error.msg) {
+                const { msg, ...stuff } = error;
+                console.error(msg, stuff);
+            } else {
+                console.error(error);
+            }
+        }
+    }
     process.exit(1);
 };
 const validator = (dir, schema, additional_checks = null) => {
-    glob(`${dir}/*.json`, (err, files) => {
-        if (err) {
-            console.error(err);
+    let errors = {};
+    const files = glob.sync(`${dir}/*.json`);
+
+    files.forEach((f) => {
+        const add_error = (err) => {
+            if (!errors[f]) errors[f] = [];
+            errors[f].push(err);
+        };
+
+        const file_content = fs.readFileSync(f).toString();
+        if (!file_content.toString().endsWith('}\n')) add_error({ msg: "File doesn't end with exactly one newline." });
+
+        let json;
+        try {
+            json = JSON.parse(file_content);
+        } catch (err) {
+            add_error({ msg: 'Parsing JSON failed.\n', errors: err });
+            // if parsing failed we can't do any content-related checks, we skip to the next file.
             return;
         }
-
-        files.forEach((_f) => {
-            f = _f;
-            const file_content = fs.readFileSync(f).toString();
-            if (!file_content.toString().endsWith('}\n')) fail("File doesn't end with exactly one newline.");
-
-            let json;
-            try {
-                json = JSON.parse(file_content);
-            } catch (err) {
-                fail('Parsing JSON failed.\n', err);
+        if (!schema(json)) add_error({ msg: 'Schema validation failed.\n', errors: schema.errors });
+        if (json.slug + '.json' !== path.basename(f)) {
+            add_error({ msg: `Filename "${path.basename(f)}" does not match slug "${json.slug}".` });
+        }
+        if (additional_checks) {
+            for (const e of additional_checks(json)) {
+                add_error(e);
             }
-            if (!schema(json)) fail('Schema validation failed.\n', schema.errors);
-            if (json.slug + '.json' !== path.basename(f)) {
-                fail(`Filename "${path.basename(f)}" does not match slug "${json.slug}".`);
-            }
-
-            if (additional_checks) additional_checks(json);
-        });
+        }
     });
+    if (Object.keys(errors).length > 0) fail(errors);
 };
 
 validator('companies', cdb_schema, (json) => {
+    let errors = [];
     // Check for necessary `name` field in the required elements (#388).
     if (json['required-elements']) {
         const has_name_field = json['required-elements'].some((el) => el.type === 'name');
         if (!has_name_field)
-            fail(
-                `Record has required elements but no 'name' element.`,
-                'See: https://github.com/datenanfragen/data#required-elements'
-            );
+            errors.push({
+                msg: `Record has required elements but no 'name' element.`,
+                ref: 'https://github.com/datenanfragen/data#required-elements',
+            });
     }
 
     for (const prop of [
@@ -77,15 +93,15 @@ validator('companies', cdb_schema, (json) => {
         if (json[prop]) {
             if (json['request-language']) {
                 if (!templates[json['request-language']].includes(json[prop]))
-                    fail(
-                        `Record specifies '${prop}' of '${json[prop]}' but that isn't available for 'request-language' of '${json['request-language']}'.`
-                    );
+                    errors.push({
+                        msg: `Record specifies '${prop}' of '${json[prop]}' but that isn't available for 'request-language' of '${json['request-language']}'.`,
+                    });
             } else {
                 if (!templates['en'].includes(json[prop]))
-                    fail(
-                        `Record specifies '${prop}' of '${json[prop]}' but that isn't available in English.`,
-                        'See: https://github.com/datenanfragen/data/issues/1120'
-                    );
+                    errors.push({
+                        msg: `Record specifies '${prop}' of '${json[prop]}' but that isn't available in English.`,
+                        ref: 'https://github.com/datenanfragen/data/issues/1120',
+                    });
             }
         }
     }
@@ -93,10 +109,57 @@ validator('companies', cdb_schema, (json) => {
     // A `quality` of `tested` may only be set if `required-elements` are specified (#811).
     if (json['quality'] === 'tested') {
         if (!json['required-elements'])
-            fail(
-                "Record has `quality` of `tested` but doesn't specify `required-elements`.",
-                'See: https://github.com/datenanfragen/data/issues/811'
+            errors.push({
+                msg: "Record has `quality` of `tested` but doesn't specify `required-elements`.",
+                ref: 'https://github.com/datenanfragen/data/issues/811',
+            });
+    }
+    // whitespace check
+    Object.keys(json).forEach((key) => {
+        if (typeof json[key] === 'string' && json[key] !== json[key].trim())
+            errors.push(`Seems like \`${key}\` isn't trimmed, i.e. it contains leading or trailing whitespace.`);
+    });
+
+    // address formatting
+    const address_lines = json['address'].split('\n');
+    if (address_lines.length < 2) errors.push('`address` is not formatted with newlines (\\n).');
+
+    if (address_lines.some((line) => line !== line.trim())) {
+        errors.push("`address` isn't trimmed (linewise), i.e. it contains unnecessary whitespace.");
+    }
+
+    if (address_lines.includes(json['name'])) errors.push('Record includes `name` in the `address`.');
+
+    // check if the last line is a country
+    // this test might produce false-positives, as it's a difficult thing to do
+    // we might consider more fuzzy matching if we get many reports of false positives
+    const country_name_variations = ['United States of America', 'The Netherlands', 'Republic of Singapore'];
+
+    const last_line = address_lines[address_lines.length - 1].trim();
+    const last_line_is_country =
+        Object.entries(countries).some(
+            ([countrycode, v]) => (!['US', 'SG'].includes(countrycode) && v.name == last_line) || v.native == last_line
+        ) || country_name_variations.includes(last_line);
+
+    if (!last_line_is_country)
+        errors.push(
+            `Last line of \`address\` (${last_line}) should be a country. If you feel like this error is a mistake, please let us know! We get our list of countries from https://www.npmjs.com/package/countries-list. We've decided on specific variations for some countries: (${country_name_variations.join(
+                ', '
+            )}).`
+        );
+
+    /**
+     * re-use when we've implemented warnings, this shouldn't be a hard fail
+     *
+    // set suggested-transport-medium if email is privacy related
+    // TODO: extend the regex
+    if (/(privacy|dpo|dsb|datenschutz|gdpr|dsgvo).*@/.test(json['email'])) {
+        if (json['suggested-transport-medium'] !== 'email')
+            errors.push(
+                'Record sets `email` to a privacy-related address, but doesn\'t set suggested-transport-medium": "email".'
             );
     }
+     */
+    return errors;
 });
 validator('supervisory-authorities', adb_schema);

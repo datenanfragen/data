@@ -6,7 +6,8 @@
         "chunk": "^0.0.2",
         "glob": "^7.1.6",
         "husky": "^3.1.0",
-        "typesense": "^0.6.1"
+        "typesense": "^0.6.1",
+        "countries-list": "^2.6.1"
     },
     "scripts": {
         "test": "node test-records.js",
