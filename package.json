@@ -2,12 +2,16 @@
     "devDependencies": {
         "@babel/runtime": "^7.11.0",
         "ajv": "^6.10.2",
+        "babel-eslint": "^10.1.0",
         "bent": "^7.3.9",
         "chunk": "^0.0.2",
+        "countries-list": "^2.6.1",
+        "eslint": "^7.32.0",
         "glob": "^7.1.6",
         "husky": "^3.1.0",
-        "typesense": "^0.6.1",
-        "countries-list": "^2.6.1"
+        "lint-staged": "^11.1.2",
+        "prettier": "^2.3.2",
+        "typesense": "^0.6.1"
     },
     "scripts": {
         "test": "node test-records.js",
@@ -15,8 +19,16 @@
     },
     "husky": {
         "hooks": {
-            "pre-commit": "yarn test"
+            "pre-commit": "lint-staged && yarn test # this order allows useful hints for invalid files"
         }
     },
-    "dependencies": {}
+    "lint-staged": {
+        "*.{js,json}": [
+            "prettier --write",
+            "eslint --ext .json --ext .js"
+        ]
+    },
+    "dependencies": {
+        "eslint-plugin-json": "^3.1.0"
+    }
 }
