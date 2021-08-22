@@ -3,7 +3,6 @@ const fs = require('fs');
 const glob = require('glob');
 const path = require('path');
 const countries = require('countries-list').countries;
-
 // json-forms uses the `text` format for multi-line strings.
 ajv.addFormat('text', (a) => true);
 // ajv doesn't support the `idn-email` format. As validation of email addresses isn't exactly critical for us, we'll
@@ -22,15 +21,15 @@ const templates = glob.sync('**/*.txt', { cwd: 'templates' }).reduce((acc, cur) 
 
 const fail = (errors) => {
     for (let file in errors) {
-        console.error(/* bold, bg red */ `\x1b[1m\x1b[41mError(s) in ${file}:\x1b[0m` /* reset */);
+        console.error(/* bold, bg red */ `\x1b[1m\x1b[41mError(s) in ${file}:\x1b[0m` /* reset */); // eslint-disable-line no-console
         for (let error of errors[file]) {
             if (error.msg && Object.keys(error).length === 1) {
-                console.error(error.msg);
+                console.error(error.msg); // eslint-disable-line no-console
             } else if (error.msg) {
                 const { msg, ...stuff } = error;
-                console.error(msg, stuff);
+                console.error(msg, stuff); // eslint-disable-line no-console
             } else {
-                console.error(error);
+                console.error(error); // eslint-disable-line no-console
             }
         }
     }
