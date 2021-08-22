@@ -34,7 +34,8 @@
         "name": {
             "type": "string",
             "description": "The company's official name, including suffixes like 'Ltd.', 'LLC', 'GmbH' etc.",
-            "title": "Name"
+            "title": "Name",
+            "pattern": "^\\S.*\\S$"
         },
         "runs": {
             "type": "array",
