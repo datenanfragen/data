@@ -34,5 +34,6 @@
         "https://github.com/datenanfragen/data/pull/1213",
         "https://www.hannoversche.de/datenschutz"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
