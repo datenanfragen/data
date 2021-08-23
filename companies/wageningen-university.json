@@ -1,0 +1,16 @@
+{
+    "slug": "wageningen-university",
+    "relevant-countries": [
+        "nl"
+    ],
+    "name": "Wageningen University",
+    "runs": [
+        "Wageningen Universiteit"
+    ],
+    "address": "Droevendaalsesteeg 4, 6708PB Wageningen",
+    "sources": [
+        "wur.nl",
+        "https://github.com/datenanfragen/data/pull/1230"
+    ],
+    "quality": "verified"
+}
