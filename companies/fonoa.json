@@ -1,0 +1,19 @@
+{
+    "slug": "fonoa",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Fonoa Technologies Limited",
+    "address": "Ground Floor, 71 Lower Baggot Street, Co. Dublin\n\nDublin, D02 P593, Ireland",
+    "email": "info@fonoatech.com",
+    "web": "https://www.fonoa.com",
+    "sources": [
+        "https://www.fonoa.com/privacy-notice",
+        "https://github.com/datenanfragen/data/pull/1232"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
