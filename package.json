@@ -7,6 +7,7 @@
         "chunk": "^0.0.2",
         "countries-list": "^2.6.1",
         "eslint": "^7.32.0",
+        "eslint-plugin-json": "^3.1.0",
         "eslint-plugin-optimize-regex": "^1.2.1",
         "glob": "^7.1.6",
         "husky": "^3.1.0",
@@ -15,12 +16,12 @@
         "typesense": "^0.6.1"
     },
     "scripts": {
-        "test": "node test-records.js",
+        "test": "lint-staged && node test-records.js # this order allows useful hints for invalid files",
         "deploy": "node deploy-typesense.js"
     },
     "husky": {
         "hooks": {
-            "pre-commit": "lint-staged && yarn test # this order allows useful hints for invalid files"
+            "pre-commit": "yarn test"
         }
     },
     "lint-staged": {
@@ -29,7 +30,5 @@
             "eslint --ext .json --ext .js"
         ]
     },
-    "dependencies": {
-        "eslint-plugin-json": "^3.1.0"
-    }
+    "dependencies": {}
 }

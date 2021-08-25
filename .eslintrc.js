@@ -10,9 +10,6 @@ module.exports = {
     rules: {
         'no-unused-vars': ['warn', { args: 'none', caughtErrors: 'none' }],
         'no-empty': ['error', { allowEmptyCatch: true }],
-        // Re-enable the `no-console` rule which gets disabled by the Node env.
-        'no-console': 'error',
-
         'optimize-regex/optimize-regex': 'warn',
     },
 };
