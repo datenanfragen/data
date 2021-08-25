@@ -50,7 +50,7 @@ files.forEach((f) => {
             .join('\n');
     }
 
-    // now the things that depend on our scheme
+    // now the things that depend on our schema
     if (
         json.email &&
         !json['suggested-transport-medium'] &&
