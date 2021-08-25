@@ -13,6 +13,9 @@ ajv.addFormat('idn-email', /^\S+@\S+\.\S+$/);
 const cdb_schema = ajv.compile(JSON.parse(fs.readFileSync('schema.json').toString()));
 const adb_schema = ajv.compile(JSON.parse(fs.readFileSync('schema-supervisory-authorities.json').toString()));
 
+const country_name_variations = ['United States of America', 'The Netherlands', 'Republic of Singapore'];
+const variation_countrycodes = ['US', 'NL', 'SG'];
+
 const templates = glob.sync('**/*.txt', { cwd: 'templates' }).reduce((acc, cur) => {
     const [lang, name] = cur.replace('.txt', '').split('/');
     if (acc[lang]) acc[lang].push(name);
@@ -70,6 +73,17 @@ const validator = (dir, schema, additional_checks = null) => {
     if (Object.keys(errors).length > 0) fail(errors);
 };
 
+function isLastLineCountry(last_line, country_name_variations = []) {
+    return (
+        Object.entries(countries).some(
+            ([countrycode, v]) =>
+                (!variation_countrycodes.includes(countrycode) && v.name == last_line) || v.native == last_line
+        ) || country_name_variations.includes(last_line)
+    );
+}
+module.exports = { isLastLineCountry, country_name_variations, variation_countrycodes };
+
+if (module.parent) return;
 validator('companies', cdb_schema, (json) => {
     let errors = [];
     // Check for necessary `name` field in the required elements (#388).
@@ -133,13 +147,9 @@ validator('companies', cdb_schema, (json) => {
     // check if the last line is a country
     // this test might produce false-positives, as it's a difficult thing to do
     // we might consider more fuzzy matching if we get many reports of false positives
-    const country_name_variations = ['United States of America', 'The Netherlands', 'Republic of Singapore'];
 
     const last_line = address_lines[address_lines.length - 1].trim();
-    const last_line_is_country =
-        Object.entries(countries).some(
-            ([countrycode, v]) => (!['US', 'SG'].includes(countrycode) && v.name == last_line) || v.native == last_line
-        ) || country_name_variations.includes(last_line);
+    const last_line_is_country = isLastLineCountry(last_line, country_name_variations);
 
     if (!last_line_is_country)
         errors.push(
