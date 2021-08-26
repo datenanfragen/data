@@ -1,0 +1,19 @@
+{
+    "slug": "aufrecht",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        null
+    ],
+    "name": "Terhaag und Partner Rechtsanwälte",
+    "address": "Graf-Adolf-Straße 70\n40210 Düsseldorf",
+    "email": "anwalt@aufrecht.de",
+    "web": "https://www.aufrecht.de",
+    "sources": [
+        "https://www.aufrecht.de/datenschutz.html",
+        "https://www.aufrecht.de/index.php?id=5087",
+        "https://github.com/datenanfragen/data/pull/1235"
+    ],
+    "quality": "verified"
+}
