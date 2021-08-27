@@ -1,0 +1,18 @@
+{
+    "slug": "mdm-m-nzhandelsgesellschaft-mbh-co-kg-deutsche-m-nze",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "MDM Münzhandelsgesellschaft mbH & Co. KG Deutsche Münze",
+    "address": "Theodor-Heuss-Straße 7\n38097 Braunschweig",
+    "email": " datenschutz@mdm.de",
+    "sources": [
+        "https://www.mdm.de/service/Datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1236"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
