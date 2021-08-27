@@ -1,0 +1,20 @@
+{
+    "slug": "ammerlaender-versicherung",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Ammerländer Versicherung VVaG",
+    "address": "Bahnhofstraße 8\n26655 Westerstede",
+    "phone": "04488 – 53737 – 0",
+    "fax": "04488 – 53737 – 100",
+    "email": "datenschutz@ammerlaender-versicherung.de",
+    "web": "https://www.ammerlaender-versicherung.de/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1238"
+    ]
+}
