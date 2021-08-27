@@ -1,0 +1,24 @@
+{
+    "slug": "dbdialog",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "DB Dialog GmbH",
+    "address": "Salzufer 6\n10587 Berlin",
+    "phone": "030 755453-444",
+    "email": "info@dbdialog.de",
+    "web": "https://www.dbdialog.de",
+    "sources": [
+        "https://www.dbdialog.de/db-dialog-de/DBD_impressum-655312",
+        "https://www.dbdialog.de/db-dialog-de/DBD_Datenschutz-655348",
+        "https://github.com/datenanfragen/data/pull/1245"
+    ],
+    "suggested-transport-medium": "letter",
+    "comments": [
+        "Insbesondere bei der Ausübung von Fahrgastrechten beteiligt (Servicecenter Fahrgastrechte)."
+    ],
+    "quality": "verified"
+}
