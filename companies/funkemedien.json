@@ -1,0 +1,19 @@
+{
+    "slug": "funkemedien",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "FUNKE Mediengruppe GmbH & Co. KGaA",
+    "address": "Jakob-Funke-Platz 1\n45127 Essen",
+    "phone": "0800 / 60 60 760",
+    "email": "datenschutz@funkemedien.de",
+    "web": "https://www.funkemedien.de",
+    "sources": [
+        "https://www.funkemedien.de/de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1240"
+    ],
+    "quality": "verified"
+}
