@@ -16,7 +16,7 @@
         "typesense": "^0.6.1"
     },
     "scripts": {
-        "test": "lint-staged && node test-records.js # this order allows useful hints for invalid files",
+        "test": "eslint --ext .json --ext .js && node test-records.js # this order allows useful hints for invalid files",
         "deploy": "node deploy-typesense.js"
     },
     "husky": {
@@ -27,7 +27,7 @@
     "lint-staged": {
         "*.{js,json}": [
             "prettier --write",
-            "eslint --ext .json --ext .js"
+            "yarn test"
         ]
     },
     "dependencies": {}

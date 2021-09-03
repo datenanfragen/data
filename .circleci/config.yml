@@ -14,7 +14,6 @@ jobs:
         - run:
             command: |
               yarn
-              yarn eslint --ext .json --ext .js .
               yarn test
 
         - save_cache:
