@@ -1,0 +1,19 @@
+{
+    "slug": "gartentraum",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "ads"
+    ],
+    "name": "Gartentraum.de",
+    "address": "Rudolstädter Str. 39\n07745\nJena\nGermany",
+    "web": "https://www.gartentraum.de/",
+    "sources": [
+        "https://www.gartentraum.de/Impressum",
+        "https://www.gartentraum.de/datenschutzbestimmungen",
+        "https://github.com/datenanfragen/data/pull/1249"
+    ],
+    "quality": "verified"
+}
