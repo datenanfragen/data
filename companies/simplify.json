@@ -1,0 +1,23 @@
+{
+    "slug": "simplify",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        null
+    ],
+    "name": "VNR Verlag für die Deutsche Wirtschaft AG",
+    "address": "Theodor-Heuss-Str. 2-4\n53177 Bonn",
+    "phone": "+49 228 955066004",
+    "email": "datenschutzbeauftragter@vnr.de",
+    "web": "https://www.simplify.de",
+    "sources": [
+        "https://www.simplify.de/service-rechtliches/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1251"
+    ],
+    "comments": [
+        "Verlag betreibt vernutlich noch weitere Angebote neben Sympily."
+    ],
+    "quality": "verified"
+}
