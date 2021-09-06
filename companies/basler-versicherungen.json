@@ -1,13 +1,17 @@
 {
-    "slug": "basler",
+    "slug": "basler-versicherungen",
     "relevant-countries": [
         "de"
     ],
     "categories": [
         "insurance"
     ],
-    "name": "Basler Sachversicherungs-AG und Basler Lebensversicherungs-AG",
-    "address": "Basler Straße 4\n61352 Bad Homburg",
+    "name": "Basler Versicherungen",
+    "runs": [
+        "Basler Sachversicherungs-AG",
+        "Basler Lebensversicherungs-AG"
+    ],
+    "address": "Basler Straße 4\n61352 Bad Homburg\nDeutschland",
     "phone": "+49 6172 1254600",
     "fax": "+49 6172 1254056",
     "email": "datenschutz@basler.de",
@@ -16,5 +20,6 @@
         "https://www.basler.de/de/ueber-uns/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/1239"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
