@@ -1,16 +1,13 @@
 {
-    "slug": "sat1",
+    "slug": "prosiebensat1",
     "relevant-countries": [
         "de"
     ],
     "categories": [
         "entertainment"
     ],
-    "name": "ProSiebenSat.1 Digital GmbH",
-    "runs": [
-        "https://www.7pass.de"
-    ],
-    "address": "ProSiebenSat.1 Digital GmbH\nDatenschutzbeauftragter\nMedienallee 4\nD-85774 Unterföhring",
+    "name": "SAT1.de",
+    "address": "c/o ProSiebenSat.1 Digital GmbH\nMedienallee 4\n85774 Unterföhring\nDeutschland",
     "phone": "+49 89 950710",
     "email": "datenschutz@sat1.de",
     "web": "https://www.sat1.de",
@@ -18,8 +15,6 @@
         "https://www.sat1.de/service/agb/datenschutz",
         "https://github.com/datenanfragen/data/pull/1241"
     ],
-    "comments": [
-        "Vermutlich  ist die ProSiebenSat.1 Digital GmbH noch für weitere Webauftritte der TV-Sendergruppe verantwortlich. Emailadressen und URLs  dürften dann abweichen. Vielleicht gibt es noch eine übergeordnete Unternehmensseite."
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
