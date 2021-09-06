@@ -7,6 +7,9 @@
         "entertainment"
     ],
     "name": "Westdeutscher Rundfunk Köln",
+    "runs": [
+        "sportschau.de"
+    ],
     "address": "Appellhofplatz 1\n50667 Köln\nDeutschland",
     "phone": "+49 221 220 4207",
     "fax": "+49 221 220 8533",
@@ -14,7 +17,9 @@
     "web": "https://www1.wdr.de",
     "sources": [
         "https://www1.wdr.de/hilfe/datenschutz102.html",
-        "http://www.ard.de/kinder/Datenschutz/3436692/index.html"
+        "http://www.ard.de/kinder/Datenschutz/3436692/index.html",
+        "https://github.com/datenanfragen/data/pull/1256",
+        "https://www.sportschau.de/sportschau-datenschutz-100.html"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
