@@ -3,14 +3,19 @@
     "relevant-countries": [
         "nl"
     ],
-    "name": "Wageningen University",
-    "runs": [
-        "Wageningen Universiteit"
+    "categories": [
+        "school"
     ],
-    "address": "Droevendaalsesteeg 4, 6708PB Wageningen",
+    "name": "Wageningen University & Research",
+    "address": "P.O. Box 9101\n6700 HB Wageningen\nThe Netherlands",
+    "phone": "+31 317 480 100",
+    "email": "privacy@wur.nl",
+    "web": "https://www.wur.nl",
     "sources": [
-        "wur.nl",
-        "https://github.com/datenanfragen/data/pull/1230"
+        "https://www.wur.nl/en/Privacy-Cookie-statement.htm",
+        "https://github.com/datenanfragen/data/pull/1230",
+        "https://www.wur.nl/en/Contact-Wageningen-University-Research.htm"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
