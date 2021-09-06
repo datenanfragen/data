@@ -1,0 +1,22 @@
+{
+    "slug": "videobuster",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Netleih GmbH & Co. KG",
+    "address": "Johann-Zincken-Straße 6\n38723 Seesen\nDeutschland",
+    "phone": "+49 5381 74929898",
+    "email": "datenschutz@videobuster.de",
+    "web": "https://www.videobuster.de",
+    "sources": [
+        "https://www.videobuster.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1254"
+    ],
+    "comments": [
+        "Externer Datenschutzbeauftragter:\nHerr Markus Strauss\ntacticx Consulting GmbH\nWalbecker Straße 53\n47608 Geldern\n\nDer Anbieter weißt darauf hin , dass in bestimmten Fällen möglicherweise zusätzliche Informatione angefordert werden, um die Identität festzustellen. So kann z. B. bei der Wahrnehmung des Auskunftsanspruchs sichergestellt werden, dass Informationen nicht an unbefugte Personen herausgegeben werden."
+    ],
+    "quality": "verified"
+}
