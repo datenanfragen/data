@@ -1,0 +1,24 @@
+{
+    "slug": "db-dialog",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "DB Dialog GmbH",
+    "runs": [
+        "Servicecenter Fahrgastrechte"
+    ],
+    "address": "Salzufer 6\n10587 Berlin\nGermany",
+    "phone": "+49 30 755453444",
+    "email": "info@dbdialog.de",
+    "web": "https://www.dbdialog.de",
+    "sources": [
+        "https://www.dbdialog.de/db-dialog-de/DBD_impressum-655312",
+        "https://www.dbdialog.de/db-dialog-de/DBD_Datenschutz-655348",
+        "https://github.com/datenanfragen/data/pull/1245",
+        "https://assets.static-bahn.de/dam/jcr:38fc20e5-9179-4abb-94c5-ebddab941b33/fahrgastrechteformular.pdf"
+    ],
+    "quality": "verified"
+}
