@@ -1,23 +1,22 @@
 {
     "slug": "webmart",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
-        null,
-        null
+        "telecommunication"
     ],
     "name": "Team Centric Software GmbH & Co. KG",
-    "address": "Averhoffstraße 17\n22085 Hamburg",
+    "runs": [
+        "WebMart.de"
+    ],
+    "address": "Averhoffstraße 17\n22085 Hamburg\nGermany",
     "phone": "+49 89 215581319",
     "email": "webmaster@webmart.de",
     "web": "https://www.webmart.de",
     "sources": [
         "https://www.webmart.de/web/privacy",
         "https://github.com/datenanfragen/data/pull/1252"
-    ],
-    "comments": [
-        "Datenschutzbeauftragter\nStefan Kramer\nFachenfelder Weg 84\n21220 Seevetal\nE-Mail: "
     ],
     "quality": "verified"
 }
