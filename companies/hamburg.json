@@ -4,15 +4,16 @@
         "de"
     ],
     "name": "hamburg.de GmbH & Co. KG",
-    "address": "Rothenbaumchaussee 80b\n20148 Hamburg",
+    "address": "Rothenbaumchaussee 80b\n20148 Hamburg\nDeutschland",
+    "phone": "+49 40 688757600",
+    "fax": "+49 40 688757800",
     "email": "datenschutz@hamburg.de",
     "web": "https://www.hamburg.de",
     "sources": [
         "https://www.hamburg.de/datenschutz",
-        "https://github.com/datenanfragen/data/pull/1253"
+        "https://github.com/datenanfragen/data/pull/1253",
+        "https://www.hamburg.de/impressum/"
     ],
-    "comments": [
-        "Bei der Bearbeitung kann es möglich sein, dass der Betreiber um einen Identitätsnachweis bittet. Dieses ergibt sich im Einzelfall."
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
