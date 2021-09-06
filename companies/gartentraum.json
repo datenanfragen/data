@@ -1,14 +1,17 @@
 {
     "slug": "gartentraum",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
         "commerce",
         "ads"
     ],
     "name": "Gartentraum.de",
-    "address": "Rudolstädter Str. 39\n07745\nJena\nGermany",
+    "address": "Rudolstädter Str. 39\n07745 Jena\nGermany",
+    "phone": "+49 3641 4787510",
+    "fax": "+49 3641 4787529",
+    "email": "service@gartentraum.de",
     "web": "https://www.gartentraum.de/",
     "sources": [
         "https://www.gartentraum.de/Impressum",
