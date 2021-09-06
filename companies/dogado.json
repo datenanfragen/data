@@ -1,15 +1,16 @@
 {
     "slug": "dogado",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
         "telecommunication"
     ],
-    "name": "dogado GmbH ",
-    "address": "Antonio-Segni-Straße 11\nD-44263 Dortmund ",
+    "name": "dogado GmbH",
+    "address": "c/o alfahosting GmbH\nAnkerstraße 3b\n06108 Halle (Saale)\nGermany",
     "phone": "+49 231 2866200",
-    "email": "info@dogado.de ",
+    "fax": "+49 231 28662020",
+    "email": "datenschutz@dogado.de",
     "web": "https://www.dogado.de",
     "sources": [
         "https://www.dogado.de/legal/impressum",
