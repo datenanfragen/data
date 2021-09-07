@@ -1,0 +1,20 @@
+{
+    "slug": "nokia",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Nokia Corporation",
+    "address": "Karakaari 7\nP.O. Box 226\nFI-00045 Nokia Group\nFinland",
+    "web": "https://www.nokia.com/de_int/",
+    "sources": [
+        "https://www.nokia.com/de_int/privacy/",
+        "https://github.com/datenanfragen/data/pull/1258"
+    ],
+    "comments": [
+        "Es ist keine Emailadresse angegeben. Das Kontaktformular ist auf 1000 Zeichen begrenzt. Der Mustertext mus drastisch gekürzt werden. Die Webseite ist nicht komplett in deutscher Sprache verfügbar. Trotz gewählter deutscher Spracche muss die Sprache des Formulars noch einmal auf deutsch umgestellt werden."
+    ],
+    "quality": "verified"
+}
