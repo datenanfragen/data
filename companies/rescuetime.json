@@ -1,0 +1,19 @@
+{
+    "slug": "rescuetime",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "RescueTime",
+    "phone": "888-215-8635",
+    "email": "dpo@rescuetime.com",
+    "web": "https://www.rescuetime.com/",
+    "sources": [
+        "https://blog.rescuetime.com/personal-data-gdpr/",
+        "https://github.com/datenanfragen/data/pull/1259"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
