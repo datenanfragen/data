@@ -1,0 +1,18 @@
+{
+    "slug": "schweinske",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "SCHWEINSKE FRANCHISE GMBH",
+    "address": "Alsterufer 37\nD-20354 Hamburg",
+    "phone": "+49 40 87877890",
+    "fax": "+49 40 878778999",
+    "email": " info@schweinske.de",
+    "web": "https://schweinske.de",
+    "sources": [
+        "https://schweinske.de/datenschutz",
+        "https://schweinske.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1262"
+    ],
+    "quality": "verified"
+}
