@@ -1,0 +1,19 @@
+{
+    "slug": "pearson",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Pearson Deutschland GmbH",
+    "address": "St.-Martin-Straße 82\n81541 München\nDeutschland",
+    "phone": "+49 89 954597420",
+    "fax": "+49 89 954597429",
+    "web": "https://www.pearson.de",
+    "sources": [
+        "https://www.pearson.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1263"
+    ],
+    "comments": [
+        "Externer Datenschutzbeauftragter:\n\nDr. Felix Wittern, Fieldfisher (Germany) LLP\nAm Sandtorkai 68\n20457 Hamburg\n\nE-Mail: Datenschutz.Pearson@fieldfisher.com\n\n"
+    ],
+    "quality": "verified"
+}
