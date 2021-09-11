@@ -1,0 +1,18 @@
+{
+    "slug": "world-of-smilies",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "World-of-Smilies",
+    "address": "Sebastian Messerich\nHerrlichkeit 2, 27283 Verden / Aller",
+    "email": "webmaster@world-of-smilies.com",
+    "web": "https://www.world-of-smilies.com",
+    "sources": [
+        "https://www.world-of-smilies.com/impressum.htm",
+        "https://github.com/datenanfragen/data/pull/1266"
+    ],
+    "comments": [
+        null
+    ],
+    "quality": "verified"
+}
