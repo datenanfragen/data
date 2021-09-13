@@ -7,8 +7,11 @@
         "finance"
     ],
     "name": "S Broker AG & Co. KG",
+    "runs": [
+        "Sparkassen Broker"
+    ],
     "address": "Carl-Bosch-Straße 10\n65203 Wiesbaden\nDeutschland",
-    "phone": "+49 611 20441911",
+    "phone": "+49 611 2044 1911",
     "email": "datenschutz@sbroker.de",
     "web": "https://www.sbroker.de",
     "sources": [
@@ -17,8 +20,5 @@
         "https://github.com/datenanfragen/data/pull/1268"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Auch Sparkassen Broker genannt."
-    ],
     "quality": "verified"
 }
