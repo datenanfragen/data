@@ -1,0 +1,26 @@
+{
+    "slug": "autodoc",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "AUTODOC AG",
+    "runs": [
+        "https://www.autoteile-meile.de"
+    ],
+    "address": "Josef-Orlopp-Straße 55\n10365 Berlin",
+    "fax": "+49 30 208478250",
+    "email": "privacy-policy@autodoc.de",
+    "web": "https://www.autodoc.de",
+    "sources": [
+        "https://www.autodoc.de/services/datenschutz",
+        "https://www.autoteile-meile.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1276"
+    ],
+    "comments": [
+        "Für alle Fragen zum Thema Datenschutz in Zusammenhang mit unseren Produkten/Dienstleistungen oder der Nutzung unserer Website können Sie sich jederzeit an unseren Datenschutzbeauftragten wenden. Dieser ist unter obiger postalischer Adresse sowie unter der zuvor angegeben E-Mail-Adresse (Stichwort: „z. Hd. Datenschutzbeauftragter“) erreichbar. Wir weisen ausdrücklich darauf hin, dass bei Nutzung dieser E-Mail-Adresse die Inhalte nicht ausschließlich von unserem Datenschutzbeauftragten zur Kenntnis genommen werden. Wenn Sie vertrauliche Informationen austauschen möchten, bitten Sie daher zunächst über diese E-Mail-Adresse um direkte Kontaktaufnahme."
+    ],
+    "quality": "verified"
+}
