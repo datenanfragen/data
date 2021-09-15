@@ -1,16 +1,16 @@
 {
     "slug": "nokia",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
         "telecommunication"
     ],
     "name": "Nokia Corporation",
     "address": "Karakaari 7\nP.O. Box 226\nFI-00045 Nokia Group\nFinland",
-    "web": "https://www.nokia.com/de_int/",
+    "web": "https://www.nokia.com/",
     "sources": [
-        "https://www.nokia.com/de_int/privacy/",
+        "https://www.nokia.com/notices/privacy/",
         "https://github.com/datenanfragen/data/pull/1258"
     ],
     "comments": [
