@@ -10,33 +10,34 @@
     "runs": [
         "Saturn.de",
         "Saturn Card",
-        "Saturn online GmbH (ehem.)"
+        "Saturn online GmbH (ehem.)",
+        "Mediamarkt.de"
     ],
     "address": "Wankelstraße 5\n85046 Ingolstadt\nDeutschland",
-    "phone": "+49 221 22 243 123",
-    "fax": "+49 841 634 99 1835",
+    "phone": "+49 221 22243123",
+    "fax": "+49 841 634991835",
     "email": "datenschutz@saturn.de",
     "web": "http://www.saturn.de/",
     "sources": [
         "https://www.saturn.de/de/legal/datenschutzhinweise",
         "https://www.saturn.de/de/legal/datenschutzhinweise/card",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410442&land_abk=by"
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410442&land_abk=by",
+        "https://www.mediamarkt.de/de/legal/impressum",
+        "https://www.mediamarkt.de/de/legal/datenschutzhinweise/shop",
+        "https://github.com/datenanfragen/data/pull/1282"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Anmelde-E-Mail-Adresse",
-            "type": "email",
-            "optional": false
+            "type": "email"
         },
         {
             "desc": "Anschrift",
-            "type": "address",
-            "optional": false
+            "type": "address"
         },
         {
             "desc": "Geburtsdatum (nur falls Saturn bekannt)",
@@ -44,9 +45,9 @@
             "optional": true
         }
     ],
+    "suggested-transport-medium": "email",
     "comments": [
         "Verantwortliche Stelle für Saturn Card laut Datenschutzerklärung ist die redblue services GmbH, Helene-Wessel-Bogen 3, 80939 München, Deutschland, aber mit gleicher E-Mail-Adresse."
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
