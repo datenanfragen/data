@@ -1,0 +1,22 @@
+{
+    "slug": "miniatur-wunderland",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Miniatur Wunderland Hamburg GmbH",
+    "runs": [
+        "http://www.knuffingen.de"
+    ],
+    "address": "Kehrwieder 2\nBlock D\n20457 Hamburg",
+    "email": "datenschutz@miniatur-wunderland.de",
+    "web": "https://www.miniatur-wunderland.de",
+    "sources": [
+        "https://www.miniatur-wunderland.de/service/datenschutz/",
+        "https://www.knuffingen.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1281"
+    ],
+    "quality": "verified"
+}
