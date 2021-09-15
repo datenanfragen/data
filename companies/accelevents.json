@@ -1,0 +1,22 @@
+{
+    "slug": "accelevents",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school",
+        "utility",
+        "telecommunication"
+    ],
+    "name": "Accelevents",
+    "address": "10 Post Office Sq Ste 800\nBoston ​, MA, 02109-4603\nUnited States",
+    "phone": "857-254-8035",
+    "email": " info@accelevents.com",
+    "web": "https://accelevents.com",
+    "sources": [
+        "https://www.accelevents.com/",
+        "https://github.com/datenanfragen/data/pull/1278"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
