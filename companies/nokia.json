@@ -13,6 +13,7 @@
     "web": "https://www.nokia.com/",
     "sources": [
         "https://www.nokia.com/notices/privacy/",
+        "https://www.nokia.com/contact-us/",
         "https://github.com/datenanfragen/data/pull/1258"
     ],
     "comments": [
