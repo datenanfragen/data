@@ -41,7 +41,7 @@ We are only interested in [companies that the GDPR applies to](https://www.datar
 
 We prefer privacy-specific contact details (usually found in a company's privacy policy). In particular, email addresses like `privacy@example.com` or `dpo@example.org` and phone/fax numbers specifically of data protection officers are preferred. If no specific details are available, we use 'regular' contact details found on the company's website.
 
-Records can contain personal data (like an email address that includes a person's name) if necessary. Please review the guidelines in #1287 beforehand.
+Records can contain personal data (like an email address that includes a person's name) if necessary. Please review the guidelines in [#1287](https://github.com/datenanfragen/data/issues/1287) beforehand.
 
 Some companies don't publish adequate contact information on their website. In these cases, you can resort to third-party sources but do check the information very thoroughly depending on the source.
 
