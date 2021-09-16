@@ -41,7 +41,7 @@ We are only interested in [companies that the GDPR applies to](https://www.datar
 
 We prefer privacy-specific contact details (usually found in a company's privacy policy). In particular, email addresses like `privacy@example.com` or `dpo@example.org` and phone/fax numbers specifically of data protection officers are preferred. If no specific details are available, we use 'regular' contact details found on the company's website.
 
-Please make sure that there is **no** personal data in your record. This means no names in the address and no emails that include names, either.
+Records can contain personal data (like an email address that includes a person's name) if necessary. Please review the guidelines in #1287 beforehand.
 
 Some companies don't publish adequate contact information on their website. In these cases, you can resort to third-party sources but do check the information very thoroughly depending on the source.
 
@@ -58,7 +58,7 @@ For incomplete addresses, you can use SmartyStreets' [Single Address Validation 
 
 For addresses in Hong Kong, the [Correct Addressing tool](https://www.hongkongpost.hk/correct_addressing/index.jsp?lang=en_US) offered by Hongkong Post, is very useful.
 
-Please **don't** include lines like `Data protection officer`, `Privacy department` or similar. They will be automatically added by our generator, anyway. Also, **don't** include any personal data (like names) in the address.
+Please **don't** include lines like `Data protection officer`, `Privacy department` or similar. An 'Attn' line is always added automatically by our generator.
 
 ### Phone and fax numbers
 
