@@ -3,21 +3,17 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [
-        null
-    ],
-    "name": "NV Coca‑Cola Services SA",
+    "name": "Coca‐Cola GmbH",
     "runs": [
         "https://www.coca-cola.de"
     ],
-    "address": "Chaussée de Mons 1424\n1070 Brüssel",
+    "address": "Stralauer Allee 4\n10245 Berlin\nDeutschland",
+    "email": "dpo@coca-cola.com",
     "web": "https://www.coca-cola-deutschland.de",
     "sources": [
         "https://www.coca-cola-deutschland.de/datenschutz",
         "https://github.com/datenanfragen/data/pull/1279"
     ],
-    "comments": [
-        "Es ist davon auszugehen, dass der Anbieter zahlreiche weitere Webangebote betreibt."
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
