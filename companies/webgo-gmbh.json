@@ -1,0 +1,14 @@
+{
+    "slug": "webgo-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "webgo GmbH",
+    "address": "Heidenkampsweg 81\n20097 Hamburg",
+    "sources": [
+        "https://www.webgo.de/impressum/",
+        "https://www.webgo.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1309"
+    ],
+    "quality": "verified"
+}
