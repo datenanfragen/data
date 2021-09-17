@@ -1,0 +1,16 @@
+{
+    "slug": "bb-holding-ag",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "ÖBB-Holding AG",
+    "address": "Am Hauptbahnhof 2\n1100 Wien",
+    "sources": [
+        "https://holding.oebb.at/de/impressum",
+        "https://github.com/datenanfragen/data/pull/1306"
+    ],
+    "quality": "verified"
+}
