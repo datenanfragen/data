@@ -1,0 +1,20 @@
+{
+    "slug": "psd-nuernberg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "PSD Bank Nürnberg eG",
+    "address": "Willy-Brandt-Platz 8\n90402 Nürnberg ",
+    "email": "info@psd-nuernberg.de",
+    "web": "https://www.psd-nuernberg.de",
+    "sources": [
+        "https://www.psd-nuernberg.de/service/rechtliche-hinweise/datenschutzhinweis.html",
+        "https://www.psd-nuernberg.de/service/rechtliche-hinweise/impressum.html",
+        "https://github.com/datenanfragen/data/pull/1295"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
