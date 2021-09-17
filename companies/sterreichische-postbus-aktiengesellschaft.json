@@ -1,0 +1,16 @@
+{
+    "slug": "sterreichische-postbus-aktiengesellschaft",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        null
+    ],
+    "name": "Österreichische Postbus Aktiengesellschaft",
+    "address": "Am Hauptbahnhof 2\n1100 Wien",
+    "sources": [
+        "https://personenverkehr.oebb.at/de/postbus/impressum",
+        "https://github.com/datenanfragen/data/pull/1308"
+    ],
+    "quality": "verified"
+}
