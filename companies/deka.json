@@ -1,0 +1,22 @@
+{
+    "slug": "deka",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "DekaBank - Deutsche Girozentrale AöR",
+    "address": "Mainzer Landstraße 16\n60325 Frankfurt am Main",
+    "phone": "(0 69)  71 47 - 652",
+    "fax": " (0 69)  71 47 - 13 76",
+    "email": "service@deka.de",
+    "web": "https://www.deka.de",
+    "sources": [
+        "https://www.deka.de/privatkunden/impressum",
+        "https://www.deka.de/privatkunden/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1302"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
