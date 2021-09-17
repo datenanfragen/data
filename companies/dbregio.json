@@ -1,0 +1,27 @@
+{
+    "slug": "dbregio",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "DB Regio AG",
+    "runs": [
+        "bahn.de"
+    ],
+    "address": "Europa-Allee 70-76\n60486 Frankfurt am Main",
+    "phone": "030 2970",
+    "email": "datenschutz.regio@deutschebahn.com",
+    "web": "https://www.dbregio.de",
+    "sources": [
+        "https://www.dbregio.de/home/datenschutz",
+        "https://www.dbregio.de/impressum",
+        "https://github.com/datenanfragen/data/pull/1292"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Das Portal bahn.de wird von DB Vertrieb GmbH, DB Fernverkehr AG und DB Regio AG als gemeinsam Verantwortliche gem. 28 DSGVO betrieben."
+    ],
+    "quality": "verified"
+}
