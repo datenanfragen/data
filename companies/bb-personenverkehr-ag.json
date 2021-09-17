@@ -1,0 +1,16 @@
+{
+    "slug": "bb-personenverkehr-ag",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "ÖBB-Personenverkehr AG",
+    "address": "Am Hauptbahnhof 2\n1100 Wien",
+    "sources": [
+        "https://personenverkehr.oebb.at/de/pv-ag/impressum",
+        "https://github.com/datenanfragen/data/pull/1307"
+    ],
+    "quality": "verified"
+}
