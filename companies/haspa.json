@@ -1,0 +1,18 @@
+{
+    "slug": "haspa",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Hamburger Sparkasse AG",
+    "address": "Ecke Adolphsplatz / Gr. Burstah\n20457 Hamburg",
+    "email": "haspa@haspa.de",
+    "web": "https://haspa.de",
+    "sources": [
+        "https://www.haspa.de/de/home/footer/impressum.html",
+        "https://github.com/datenanfragen/data/pull/1304"
+    ],
+    "quality": "verified"
+}
