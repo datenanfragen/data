@@ -1,0 +1,21 @@
+{
+    "slug": "computerbild",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        null
+    ],
+    "name": "COMPUTER BILD Digital GmbH",
+    "address": "Überseeallee 1\n20457 Hamburg",
+    "email": "datenschutz@computerbild.de",
+    "web": "https://www.computerbild.de",
+    "sources": [
+        "https://www.computerbild.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1288"
+    ],
+    "comments": [
+        "Teile des Angebots werden durch\n\nAxel Springer SE\nDatenschutz\nAxel-Springer-Str. 65\n10888 Berlin\ndatenschutz@axelspringer.de\ndatenschutz.kundenservice@axelspringer.de\n\nbereitgestellt."
+    ],
+    "quality": "verified"
+}
