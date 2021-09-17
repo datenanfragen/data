@@ -1,0 +1,21 @@
+{
+    "slug": "deutsche-rentenversicherung-nord",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health",
+        "utility",
+        "insurance"
+    ],
+    "name": "Deutsche Rentenversicherung Nord",
+    "address": "Ziegelstraße 150\n23556 Lübeck",
+    "email": "info@drv-nord.de",
+    "sources": [
+        "https://www.deutsche-rentenversicherung.de/Nord/DE/Service/Footer/Impressum/impressum_node.html",
+        "https://www.deutsche-rentenversicherung.de/Nord/DE/Service/Footer/Datenschutz/datenschutz_node.html",
+        "https://github.com/datenanfragen/data/pull/1303"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
