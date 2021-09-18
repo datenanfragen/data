@@ -1,0 +1,19 @@
+{
+    "slug": "tellja",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Tellja GmbH",
+    "address": "C/O entplexit GmbH\nDatenschutzbeauftragte\nKölner Straße 12\n65760 Eschborn\n\n",
+    "email": "datenschutz@tellja.de",
+    "web": "https://www.tellja.de",
+    "sources": [
+        "https://www.tellja.eu/de/disclaimer.html",
+        "https://t.tellja.eu/widget/widgetlt?shopId=1&t_t=dpp",
+        "https://github.com/datenanfragen/data/pull/1310"
+    ],
+    "comments": [
+        "Tellja GmbH\nSolmsstr. 12\nD-60486 Frankfurt am Mai\nFax: +49 (0)69 8700 429 29\nE-Mail: support@tellja.de"
+    ],
+    "quality": "verified"
+}
