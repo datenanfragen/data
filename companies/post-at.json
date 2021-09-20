@@ -8,6 +8,9 @@
         "commerce"
     ],
     "name": "Österreichische Post AG",
+    "runs": [
+        "EMD - Elektronische- u. Mikrofilm-Dokumentationssysteme Ges.m.b.H. (www.emd.at)"
+    ],
     "address": "Rochusplatz 1\n1030 Wien\nÖsterreich",
     "phone": "+43 800 010100",
     "fax": "+43 57 7672 2071",
@@ -16,12 +19,13 @@
     "sources": [
         "https://www.post.at/co/c/datenschutz",
         "https://www.post.at/co/c/impressum",
-        "https://a1deal.post.at/legal-notice"
+        "https://a1deal.post.at/legal-notice",
+        "https://github.com/datenanfragen/data/pull/1322"
     ],
+    "request-language": "de",
+    "suggested-transport-medium": "email",
     "comments": [
         "Webformular für Anfragen: https://www.post.at/k/f/kontaktformular?problem=DatenschutzAuskunft"
     ],
-    "suggested-transport-medium": "email",
-    "request-language": "de",
     "quality": "verified"
 }
