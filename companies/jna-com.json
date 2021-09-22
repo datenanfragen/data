@@ -1,0 +1,16 @@
+{
+    "slug": "jna-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "JNA Pvt Ltd",
+    "address": "Suite # 35-B, Square-1, Stadium Road, Karachi, Pakistan",
+    "phone": "+92 300 2012076",
+    "email": "dawsoan896@gmail.com",
+    "web": "https://jna.com.pk/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1326"
+    ]
+}
