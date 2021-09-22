@@ -3,6 +3,9 @@ const fs = require('fs');
 const glob = require('glob');
 const path = require('path');
 const countries = require('countries-list').countries;
+const cities = require('all-the-cities');
+
+const autofix = process.argv[2] === '--auto-fix'; // TODO do more sophisticated parsing if we need more options
 
 // json-forms uses the `text` format for multi-line strings.
 ajv.addFormat('text', (a) => true);
@@ -23,54 +26,65 @@ const templates = glob.sync('**/*.txt', { cwd: 'templates' }).reduce((acc, cur) 
     return acc;
 }, {});
 
-const fail = (errors) => {
-    for (let file in errors) {
+/**
+ * @typedef {Object} TestEvent
+ * @property {('error'|'autofix')} type
+ * @property {string} msg - a message for the user
+ * @property {string} ref - a URL as reference
+ * @property {Object} error - an error object
+ **/
+
+const print = (events) => {
+    for (let file in events) {
+        if (!events[file] || events[file].length === 0) continue;
         console.error(/* bold, bg red */ `\x1b[1m\x1b[41mError(s) in ${file}:\x1b[0m` /* reset */);
-        for (let error of errors[file]) {
-            if (error.msg && Object.keys(error).length === 1) {
-                console.error(error.msg);
-            } else if (error.msg) {
-                const { msg, ...stuff } = error;
+        events[file].forEach((/** @type TestEvent*/ event) => {
+            if (event.msg && Object.keys(event).length === 1) {
+                console.error(event.msg);
+            } else if (event.msg) {
+                const { msg, ...stuff } = event;
                 console.error(msg, stuff);
             } else {
-                console.error(error);
+                console.error(event);
             }
-        }
+        });
     }
-    process.exit(1);
 };
+
 const validator = (dir, schema, additional_checks = null) => {
-    let errors = {};
+    /** @type {Object.<string, Array.<TestEvent>>*/
+    let events = {};
     const files = glob.sync(`${dir}/*.json`);
 
     files.forEach((f) => {
-        const add_error = (err) => {
-            if (!errors[f]) errors[f] = [];
-            errors[f].push(err);
+        /** @param {TestEvent} ev */
+        const add_event = (ev) => {
+            if (!events[f]) events[f] = [];
+            events[f].push(ev);
         };
 
         const file_content = fs.readFileSync(f).toString();
-        if (!file_content.toString().endsWith('}\n')) add_error({ msg: "File doesn't end with exactly one newline." });
+        if (!file_content.toString().endsWith('}\n'))
+            add_event({ msg: "File doesn't end with exactly one newline.", type: 'error' });
 
         let json;
         try {
             json = JSON.parse(file_content);
         } catch (err) {
-            add_error({ msg: 'Parsing JSON failed.\n', errors: err });
+            add_event({ msg: 'Parsing JSON failed.\n', error: err, type: 'error' });
             // if parsing failed we can't do any content-related checks, we skip to the next file.
             return;
         }
-        if (!schema(json)) add_error({ msg: 'Schema validation failed.\n', errors: schema.errors });
+        if (!schema(json)) add_event({ msg: 'Schema validation failed.\n', error: schema.errors, type: 'error' });
         if (json.slug + '.json' !== path.basename(f)) {
-            add_error({ msg: `Filename "${path.basename(f)}" does not match slug "${json.slug}".` });
+            add_event({ msg: `Filename "${path.basename(f)}" does not match slug "${json.slug}".`, type: 'error' });
         }
         if (additional_checks) {
-            for (const e of additional_checks(json)) {
-                add_error(e);
-            }
+            const tmp = additional_checks(json, f);
+            events[f] = events[f] ? events[f].concat(tmp) : tmp;
         }
     });
-    if (Object.keys(errors).length > 0) fail(errors);
+    print(events);
 };
 
 function isLastLineCountry(last_line, country_name_variations = []) {
@@ -81,11 +95,18 @@ function isLastLineCountry(last_line, country_name_variations = []) {
         ) || country_name_variations.includes(last_line)
     );
 }
-module.exports = { isLastLineCountry, country_name_variations, variation_countrycodes };
-
-if (module.parent) return;
-validator('companies', cdb_schema, (json) => {
+/**
+ *
+ * @param {Object} json
+ * @param {string} f
+ * @returns {Array.<TestEvent>}
+ */
+function additional_checks(json, f) {
+    let af_json = JSON.parse(JSON.stringify(json));
+    /** @type {Array.<TestEvent>} */
     let errors = [];
+    /** @type {Array.<TestEvent>} */
+    let autofixes = [];
     // Check for necessary `name` field in the required elements (#388).
     if (json['required-elements']) {
         const has_name_field = json['required-elements'].some((el) => el.type === 'name');
@@ -130,19 +151,34 @@ validator('companies', cdb_schema, (json) => {
     }
     // whitespace check
     Object.keys(json).forEach((key) => {
-        if (typeof json[key] === 'string' && json[key] !== json[key].trim())
-            errors.push(`Seems like \`${key}\` isn't trimmed, i.e. it contains leading or trailing whitespace.`);
+        if (typeof json[key] === 'string' && json[key] !== json[key].trim()) {
+            errors.push({
+                msg: `Seems like \`${key}\` isn't trimmed, i.e. it contains leading or trailing whitespace.`,
+            });
+            if (autofix) {
+                af_json[key] = json[key].trim();
+                autofixes.push({ msg: `trimmed ${key}` });
+            }
+        }
     });
 
     // address formatting
     const address_lines = json['address'].split('\n');
-    if (address_lines.length < 2) errors.push('`address` is not formatted with newlines (\\n).');
+    if (address_lines.length < 2) errors.push({ msg: '`address` is not formatted with newlines (\\n).' });
 
     if (address_lines.some((line) => line !== line.trim())) {
-        errors.push("`address` isn't trimmed (linewise), i.e. it contains unnecessary whitespace.");
+        errors.push({ msg: "`address` isn't trimmed (linewise), i.e. it contains unnecessary whitespace." });
+        if (autofix) {
+            af_json['address'] = address_lines.map((x) => x.trim()).join('\n');
+            autofixes.push({ msg: 'trimmed address' });
+        }
     }
 
-    if (address_lines.includes(json['name'])) errors.push('Record includes `name` in the `address`.');
+    if (address_lines.includes(json['name'])) errors.push({ msg: 'Record includes `name` in the `address`.' });
+    if (autofix && address_lines[0].trim() === json['name']) {
+        af_json['address'] = address_lines.slice(1).join('\n');
+        autofixes.push({ msg: 'Removed duplicate name in first line of address' });
+    }
 
     // check if the last line is a country
     // this test might produce false-positives, as it's a difficult thing to do
@@ -151,12 +187,26 @@ validator('companies', cdb_schema, (json) => {
     const last_line = address_lines[address_lines.length - 1].trim();
     const last_line_is_country = isLastLineCountry(last_line, country_name_variations);
 
-    if (!last_line_is_country)
-        errors.push(
-            `Last line of \`address\` (${last_line}) should be a country. If you feel like this error is a mistake, please let us know! We get our list of countries from https://www.npmjs.com/package/countries-list. We've decided on specific variations for some countries: (${country_name_variations.join(
+    if (!last_line_is_country) {
+        errors.push({
+            msg: `Last line of \`address\` (${last_line}) should be a country. If you feel like this error is a mistake, please let us know! We get our list of countries from https://www.npmjs.com/package/countries-list. We've decided on specific variations for some countries: (${country_name_variations.join(
                 ', '
-            )}).`
-        );
+            )}).`,
+        });
+        if (autofix) {
+            const city = /[\d ]* ([\S ]*)/.exec(last_line)[1]; // TODO make this smarter, i.e. make it work with more formats
+            const guess = cities.filter((x) => x.name === city)[0];
+            if (guess) {
+                af_json.address += `\n${
+                    variation_countrycodes.includes(guess.country)
+                        ? country_name_variations[variation_countrycodes.indexOf(guess.country)]
+                        : countries[guess.country].name
+                }`;
+                autofixes.push({ msg: `guessed missing country: ${guess.country}` });
+            }
+        }
+    }
+    if (autofix && json !== af_json) fs.writeFileSync(f, JSON.stringify(af_json, null, 4) + '\n'); // TODO add replacer for re-ordering, see suggest in website
 
     /**
      * re-use when we've implemented warnings, this shouldn't be a hard fail
@@ -170,6 +220,11 @@ validator('companies', cdb_schema, (json) => {
             );
     }
      */
-    return errors;
-});
+    /**@type Array.<TestEvent> */
+    let returnevents = [];
+    for (const a of autofixes) returnevents.push({ ...a, type: 'autofix' });
+    for (const e of errors) returnevents.push({ ...e, type: 'error' });
+    return returnevents;
+}
+validator('companies', cdb_schema, additional_checks);
 validator('supervisory-authorities', adb_schema);
