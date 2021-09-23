@@ -1,14 +1,14 @@
 const ajv = new (require('ajv'))({ verbose: true });
-const fs = require('fs');
-const glob = require('glob');
-const path = require('path');
-const countries = require('countries-list').countries;
-const cities = require('all-the-cities');
+import fs from 'fs';
+import glob from 'glob';
+import path from 'path';
+import {countries} from 'countries-list'
+import cities from 'all-the-cities';
 
 const autofix = process.argv[2] === '--auto-fix'; // TODO do more sophisticated parsing if we need more options
 
 // json-forms uses the `text` format for multi-line strings.
-ajv.addFormat('text', (a) => true);
+ajv.addFormat('text', () => true);
 // ajv doesn't support the `idn-email` format. As validation of email addresses isn't exactly critical for us, we'll
 // just use this *very* basic check.
 ajv.addFormat('idn-email', /^\S+@\S+\.\S+$/);
@@ -19,26 +19,19 @@ const adb_schema = ajv.compile(JSON.parse(fs.readFileSync('schema-supervisory-au
 const country_name_variations = ['United States of America', 'The Netherlands', 'Republic of Singapore'];
 const variation_countrycodes = ['US', 'NL', 'SG'];
 
-const templates = glob.sync('**/*.txt', { cwd: 'templates' }).reduce((acc, cur) => {
+const templates = glob.sync('**/*.txt', { cwd: 'templates' }).reduce((acc: Record<string, string[]>, cur: string) => {
     const [lang, name] = cur.replace('.txt', '').split('/');
     if (acc[lang]) acc[lang].push(name);
     else acc[lang] = [name];
     return acc;
 }, {});
 
-/**
- * @typedef {Object} TestEvent
- * @property {('error'|'autofix')} type
- * @property {string} msg - a message for the user
- * @property {string} ref - a URL as reference
- * @property {Object} error - an error object
- **/
-
-const print = (events) => {
+type TestEvent = {type?: 'error'|'autofix', msg: string, ref?: string, error?: unknown}
+const print = (events: Record<string, TestEvent[]>) => {
     for (let file in events) {
         if (!events[file] || events[file].length === 0) continue;
         console.error(/* bold, bg red */ `\x1b[1m\x1b[41mError(s) in ${file}:\x1b[0m` /* reset */);
-        events[file].forEach((/** @type TestEvent*/ event) => {
+        events[file].forEach((/** @type TestEvent*/ event: TestEvent) => {
             if (event.msg && Object.keys(event).length === 1) {
                 console.error(event.msg);
             } else if (event.msg) {
@@ -51,14 +44,14 @@ const print = (events) => {
     }
 };
 
-const validator = (dir, schema, additional_checks = null) => {
+const validator = (dir: string, schema: typeof cdb_schema, additional_checks?: ((json: object, f: string) => TestEvent[]) ) => {
     /** @type {Object.<string, Array.<TestEvent>>*/
-    let events = {};
+    let events: { [s: string]: Array<TestEvent>; } = {};
     const files = glob.sync(`${dir}/*.json`);
 
     files.forEach((f) => {
         /** @param {TestEvent} ev */
-        const add_event = (ev) => {
+        const add_event = (ev: TestEvent) => {
             if (!events[f]) events[f] = [];
             events[f].push(ev);
         };
@@ -87,7 +80,7 @@ const validator = (dir, schema, additional_checks = null) => {
     print(events);
 };
 
-function isLastLineCountry(last_line, country_name_variations = []) {
+function isLastLineCountry(last_line: string, country_name_variations: string[] = []) {
     return (
         Object.entries(countries).some(
             ([countrycode, v]) =>
@@ -101,15 +94,15 @@ function isLastLineCountry(last_line, country_name_variations = []) {
  * @param {string} f
  * @returns {Array.<TestEvent>}
  */
-function additional_checks(json, f) {
+function additional_checks(json: any, f: string): Array<TestEvent> {
     let af_json = JSON.parse(JSON.stringify(json));
     /** @type {Array.<TestEvent>} */
-    let errors = [];
+    let errors: Array<TestEvent> = [];
     /** @type {Array.<TestEvent>} */
-    let autofixes = [];
+    let autofixes: Array<TestEvent> = [];
     // Check for necessary `name` field in the required elements (#388).
     if (json['required-elements']) {
-        const has_name_field = json['required-elements'].some((el) => el.type === 'name');
+        const has_name_field = json['required-elements'].some((el: {type: string}) => el.type === 'name');
         if (!has_name_field)
             errors.push({
                 msg: `Record has required elements but no 'name' element.`,
@@ -149,6 +142,8 @@ function additional_checks(json, f) {
                 ref: 'https://github.com/datenanfragen/data/issues/811',
             });
     }
+    const address_lines: string[] = json['address'].split('\n');
+
     // whitespace check
     Object.keys(json).forEach((key) => {
         if (typeof json[key] === 'string' && json[key] !== json[key].trim()) {
@@ -163,21 +158,27 @@ function additional_checks(json, f) {
     });
 
     // address formatting
-    const address_lines = json['address'].split('\n');
+
     if (address_lines.length < 2) errors.push({ msg: '`address` is not formatted with newlines (\\n).' });
 
     if (address_lines.some((line) => line !== line.trim())) {
         errors.push({ msg: "`address` isn't trimmed (linewise), i.e. it contains unnecessary whitespace." });
         if (autofix) {
-            af_json['address'] = address_lines.map((x) => x.trim()).join('\n');
+            af_json['address'] = address_lines.map((x: string) => x.trim()).join('\n');
             autofixes.push({ msg: 'trimmed address' });
         }
     }
 
-    if (address_lines.includes(json['name'])) errors.push({ msg: 'Record includes `name` in the `address`.' });
-    if (autofix && address_lines[0].trim() === json['name']) {
-        af_json['address'] = address_lines.slice(1).join('\n');
-        autofixes.push({ msg: 'Removed duplicate name in first line of address' });
+    const lambda_contains_name = (el: string) => el.trim() === json['name'];
+    if (address_lines.some(lambda_contains_name)) {
+        errors.push({ msg: 'Record includes `name` in the `address`.' });
+        if (autofix) {
+            af_json['address'] = af_json['address']
+                .split('\n')
+                .filter((x: string) => !lambda_contains_name(x))
+                .join('\n');
+            autofixes.push({ msg: 'Removed duplicate name in first line of address' });
+        }
     }
 
     // check if the last line is a country
@@ -194,15 +195,19 @@ function additional_checks(json, f) {
             )}).`,
         });
         if (autofix) {
-            const city = /[\d ]* ([\S ]*)/.exec(last_line)[1]; // TODO make this smarter, i.e. make it work with more formats
-            const guess = cities.filter((x) => x.name === city)[0];
-            if (guess) {
-                af_json.address += `\n${
-                    variation_countrycodes.includes(guess.country)
-                        ? country_name_variations[variation_countrycodes.indexOf(guess.country)]
-                        : countries[guess.country].name
-                }`;
-                autofixes.push({ msg: `guessed missing country: ${guess.country}` });
+            const city_res = /\S+ (.+)/.exec(last_line);
+            if (city_res && city_res[1]) {
+                const city = city_res[1];
+                // TODO make this smarter, i.e. make it work with more formats
+                const guess = cities.filter((x) => x.name === city).sort((a, b) => a.population - b.population)[0].country as keyof typeof countries;
+                if (guess) {
+                    af_json.address += `\n${
+                        variation_countrycodes.includes(guess)
+                            ? country_name_variations[variation_countrycodes.indexOf(guess)]
+                            : countries[guess].name
+                    }`;
+                    autofixes.push({ msg: `guessed missing country: ${guess}` });
+                }
             }
         }
     }
@@ -221,7 +226,7 @@ function additional_checks(json, f) {
     }
      */
     /**@type Array.<TestEvent> */
-    let returnevents = [];
+    let returnevents: Array<TestEvent> = [];
     for (const a of autofixes) returnevents.push({ ...a, type: 'autofix' });
     for (const e of errors) returnevents.push({ ...e, type: 'error' });
     return returnevents;
