@@ -1,0 +1,37 @@
+{
+    "slug": "madsack",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment",
+        "ads"
+    ],
+    "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+    "runs": [
+        "Ostsee-Zeitung",
+        "Hannoversche Allgemeine Zeitung",
+        "Dresdner Neueste Nachrichten",
+        "Gelnhäuser Neue Zeitung",
+        "Göttinger Tageblatt",
+        "Leipziger Volkszeitung",
+        "Lübecker Nachrichten",
+        "Märkische Allgemeine Zeitung",
+        "Naumburger Tageblatt",
+        "Neue Presse",
+        "Peiner Allgemeine Zeitung",
+        "Schaumburger Nachrichten",
+        "Wolfsburger Allgemeine Zeitung"
+    ],
+    "address": "MADSACK Mediengruppe\nDatenschutz\nAugust-Madsack-Straße 1\n30559 Hannover",
+    "email": "datenschutz@madsack.de",
+    "web": "https://www.madsack.de",
+    "sources": [
+        "https://www.madsack.de/informationen-gem-art-13-eu-dsgvo/",
+        "https://www.madsack.de/wp-content/uploads/2021/06/Informationen-gem-Art-13-DSGVO.pdf",
+        "https://de.wikipedia.org/wiki/Verlagsgesellschaft_Madsack#Produkte_und_Dienstleistungen",
+        "https://github.com/datenanfragen/data/pull/1328"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
