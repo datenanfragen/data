@@ -3,23 +3,18 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [
-        null
-    ],
-    "name": "Andreas Kollmer",
+    "name": "Eclipse Software",
     "runs": [
-        "https://www.neuverlieben.com"
+        "Neuverlieben.com",
+        "Neuverliebendate.de"
     ],
-    "address": "Azuero Business Center\nSuite 456\nAvenida Perez Chitre\n0601-00395 Panama",
-    "email": "mail@neuverlieben.com",
+    "address": "Azuero Business Center\nSuite 456\nAvenida Perez Chitre 0601-00395\nPanama",
+    "email": "delphi@neuverlieben.com",
     "web": "http://www.eclipse-software.net",
     "sources": [
         "http://www.eclipse-software.net",
         "https://www.neuverlieben.com/impressum.php",
         "https://github.com/datenanfragen/data/pull/1289"
-    ],
-    "comments": [
-        "Weitere Webseiten im Angebot, siehe http://www.eclipse-software.net"
     ],
     "quality": "verified"
 }
