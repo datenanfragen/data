@@ -1,0 +1,20 @@
+{
+    "slug": "giga",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "GIGA.de",
+    "address": "℅ Ströer Media Brands GmbH\nTorstraße 49\n10119 Berlin-Mitte",
+    "email": "datenschutz-giga@stroeermediabrands.de",
+    "web": "https://www.giga.de",
+    "sources": [
+        "https://www.giga.de/info/impressum",
+        "https://www.giga.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1337"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative E-Mail-Adresse: smb-datenschutzbeauftragter@stroeer.de"
+    ],
+    "quality": "verified"
+}
