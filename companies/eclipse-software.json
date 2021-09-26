@@ -5,8 +5,15 @@
     ],
     "name": "Eclipse Software",
     "runs": [
+        "blinddateclub.de",
+        "forextraden.de",
+        "munchen-party.de",
         "Neuverlieben.com",
-        "Neuverliebendate.de"
+        "Neuverliebendate.de",
+        "neuverliebennetz.de",
+        "nightlife-muenchen.de",
+        "partnervermittlung-jugoslawien.de",
+        "singlewochenendreisen.de"
     ],
     "address": "Azuero Business Center\nSuite 456\nAvenida Perez Chitre 0601-00395\nPanama",
     "email": "delphi@neuverlieben.com",
@@ -14,7 +21,8 @@
     "sources": [
         "http://www.eclipse-software.net",
         "https://www.neuverlieben.com/impressum.php",
-        "https://github.com/datenanfragen/data/pull/1289"
+        "https://github.com/datenanfragen/data/pull/1289",
+        "https://github.com/datenanfragen/data/pull/1341"
     ],
     "quality": "verified"
 }
