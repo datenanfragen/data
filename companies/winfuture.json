@@ -3,14 +3,18 @@
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "ads",
+        "entertainment"
+    ],
     "name": "WinFuture.de",
-    "address": "Sebastian Kuhbach\nDudenstr. 10\n10965 Berlin\n",
+    "address": "Dudenstr. 10\n10965 Berlin\nDeutschland",
     "phone": "+49 30 27908360",
     "email": "sk@winfuture.de",
     "web": "https://www.winfuture.de",
     "sources": [
         "https://www.winfuture.de/impressum",
-        "https://www.winfuture.de/impressum#datenschutz",
+        "https://winfuture.de/impressum.html#datenschutz",
         "https://github.com/datenanfragen/data/pull/1265"
     ],
     "quality": "verified"
