@@ -1,0 +1,20 @@
+{
+    "slug": "vip-live",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads",
+        null
+    ],
+    "name": "VIPLIVE GbR",
+    "address": "Frau Yaroslava Chornobai\nGoernestraße 4\n20249 Hamburg\nGERMANY",
+    "email": "info@vip-live.de",
+    "web": "https://vip-live.de",
+    "sources": [
+        "https://vip-live.de/impress.html",
+        "https://github.com/datenanfragen/data/pull/1346"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
