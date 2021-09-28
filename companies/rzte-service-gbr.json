@@ -1,0 +1,21 @@
+{
+    "slug": "rzte-service-gbr",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance",
+        "insurance"
+    ],
+    "name": "Ärzte-Service GbR",
+    "address": "August-Bebel-Straße 27\n15344 Strausberg",
+    "phone": "03341 312027",
+    "fax": "03341 311366",
+    "email": "aerzte-service-gbr@web.de",
+    "sources": [
+        "https://gewusst-wo-strausberg.de/branchenbuch/aerzte-service-strausberg-unternehmensberatung_78013.html",
+        "https://github.com/datenanfragen/data/pull/1345"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
