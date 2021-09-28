@@ -1,0 +1,17 @@
+{
+    "slug": "chefkoch-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Chefkoch GmbH",
+    "address": "Rheinwerk 3\nJoseph-Schumpeter-Allee 33\n53227 Bonn",
+    "phone": "0228 29977 400",
+    "fax": "0228 29977 499",
+    "email": "datenschutz@chefkoch.de",
+    "sources": [
+        "https://www.chefkoch.de/magazin/datenschutz.html",
+        "https://www.chefkoch.de/impressum.php",
+        "https://github.com/datenanfragen/data/pull/1344"
+    ],
+    "quality": "verified"
+}
