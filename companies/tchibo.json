@@ -1,5 +1,8 @@
 {
     "slug": "tchibo",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -9,17 +12,25 @@
         "TchiboCard"
     ],
     "address": "Überseering 18\n22297 Hamburg\nDeutschland",
-    "phone": "+49 40 63 87 0",
+    "phone": "+49 40 63870",
     "email": "service@tchibo.de",
     "web": "https://www.tchibo.de/",
     "sources": [
         "https://www.tchibo.de/datenschutz-s400007324.html",
         "https://www.tchibo.de/impressum-bei-tchibo-c400001300.html",
         "https://www.tchibo.de/handys-sim-karten-internetflatrates-und-vieles-mehr-bei-tchibo-c5.html",
-        "https://www.tchibo.de/tchibocard-nutzen-sie-die-exklusiven-vorteile-bei-tchibo-c400004472.html"
+        "https://www.tchibo.de/tchibocard-nutzen-sie-die-exklusiven-vorteile-bei-tchibo-c400004472.html",
+        "https://github.com/datenanfragen/data/pull/1348"
     ],
-    "relevant-countries": [
-        "de"
+    "required-elements": [
+        {
+            "desc": "Ausweiskopie",
+            "type": "textarea",
+            "optional": false
+        }
+    ],
+    "comments": [
+        "Der Kundenservice bittet darum, ein per Email übermitteltes PDF-Formular auszufüllen und zusammen mit einer Ausweiskopie per Post zurück an Tchibo zu senden (Stand September 2019)."
     ],
     "quality": "verified"
 }
