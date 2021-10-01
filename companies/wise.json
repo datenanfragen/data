@@ -1,0 +1,21 @@
+{
+    "slug": "wise",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Wise Payments Limited",
+    "runs": [
+        "TransferWise"
+    ],
+    "address": "6th Floor of The Tea Building\n56 Shoreditch High Street\nLondon E1 6JJ\nEngland",
+    "email": "privacy@wise.com",
+    "web": "https://wise.com/",
+    "sources": [
+        "https://wise.com/de/legal/privacy-policy"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
