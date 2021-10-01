@@ -1,11 +1,16 @@
 {
-    "slug": "dtv",
+    "slug": "dtv-verlag",
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "commerce"
+    ],
     "name": "dtv Verlagsgesellschaft mbH & Co. KG",
-    "address": "Tumblingerstraße 21\n80337 München",
-    "email": "datenschutz@dtv.de",
+    "address": "Tumblingerstraße 21\n80337 München\nDeutschland",
+    "phone": "+49 89 381670",
+    "fax": "+49 89 346428",
+    "email": "verlag@dtv.de",
     "web": "https://www.dtv.de",
     "sources": [
         "https://www.dtv.de/datenschutz",
