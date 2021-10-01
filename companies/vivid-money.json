@@ -1,7 +1,10 @@
 {
     "slug": "vivid-money",
     "relevant-countries": [
-        "de"
+        "de",
+        "fr",
+        "es",
+        "it"
     ],
     "categories": [
         "finance"
