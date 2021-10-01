@@ -1,0 +1,18 @@
+{
+    "slug": "vivid-money",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Vivid Money GmbH",
+    "address": "Kemperplatz 1\n10785 Berlin\nDeutschland",
+    "email": "privacy@vivid.money",
+    "web": "https://vivid.money/",
+    "sources": [
+        "https://website-static.vivid.money/static/legal-docs/de-de/privacy-policy.pdf"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
