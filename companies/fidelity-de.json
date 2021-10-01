@@ -1,0 +1,21 @@
+{
+    "slug": "fidelity-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "FIL Fondsbank GmbH",
+    "runs": [
+        "Fidelity"
+    ],
+    "address": "Datenschutzbeauftragter\nPostfach 11 06 63\n60041 Frankfurt am Main\nDeutschland",
+    "web": "https://www.fidelity.de",
+    "sources": [
+        "https://www.fidelity.de/datenschutzhinweise/",
+        "https://www.fidelity.de/canonical/1590723880/6574/"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
