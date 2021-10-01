@@ -4,6 +4,11 @@
         "de"
     ],
     "name": "Re-In Retail International GmbH",
+    "runs": [
+        "Re-In Retail International GmbH",
+        "Digitalo",
+        "digitalo.de"
+    ],
     "address": "Nordring 98a\n90409 Nürnberg\nDeutschland",
     "phone": "+49 911 27430933",
     "fax": "+49 911 27430934",
