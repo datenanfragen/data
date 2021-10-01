@@ -1,0 +1,19 @@
+{
+    "slug": "tomorrow",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Tomorrow GmbH",
+    "address": "c/o secjur GmbH\nFranz-Mayer-Straße 1\n93053 Regensburg\nDeutschland",
+    "phone": "+49 941 56955020",
+    "email": "dsb@secjur.com",
+    "web": "https://www.tomorrow.one/",
+    "sources": [
+        "https://www.tomorrow.one/de-DE/datenschutzerklaerung/"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
