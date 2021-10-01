@@ -1,0 +1,15 @@
+{
+    "slug": "asdf",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses",
+        null
+    ],
+    "name": "asdf",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1357"
+    ]
+}
