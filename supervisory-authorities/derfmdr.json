@@ -11,7 +11,6 @@
     "web": "https://www.mdr.de/unternehmen/datenschutz-im-mdr100.html",
     "sources": [
         "https://www.rundfunkdatenschutzkonferenz.de/kontakt",
-        "https://www.mdr.de/service/datenschutz/index.html",
         "https://www.bfdi.bund.de/SharedDocs/Adressen/DE/Rundfunkdatenschutzbeauftragte/DatenschutzbeauftragterMitteldeutscherRundfunk.html"
     ],
     "suggested-transport-medium": "email"
