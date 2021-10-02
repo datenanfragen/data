@@ -6,10 +6,11 @@
     "name": "Rundfunkdatenschutzbeauftragter Norddeutscher Rundfunk",
     "address": "Rothenbaumchaussee 132\n20149 Hamburg\nDeutschland",
     "phone": "+49 40 41562236",
+    "fax": "+49 40 41563452",
     "email": "datenschutz@ndr.de",
     "web": "https://www.ndr.de/der_ndr/unternehmen/organisation/Datenschutz-beimNDR,datenschutz6.html",
     "sources": [
-        "https://www.ndr.de/service/datenschutz/index.html",
+        "https://www.rundfunkdatenschutzkonferenz.de/kontakt",
         "https://www.bfdi.bund.de/SharedDocs/Adressen/DE/Rundfunkdatenschutzbeauftragte/DatenschutzbeauftragterNorddeutscherRundfunk.html"
     ],
     "suggested-transport-medium": "email"
