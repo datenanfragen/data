@@ -10,8 +10,8 @@
     "runs": [
         "bahn.de"
     ],
-    "address": "Europa-Allee 70-76\n60486 Frankfurt am Main",
-    "phone": "030 2970",
+    "address": "Europa-Allee 70-76\n60486 Frankfurt am Main\nDeutschland",
+    "phone": "+49 30 2970",
     "email": "datenschutz.regio@deutschebahn.com",
     "web": "https://www.dbregio.de",
     "sources": [
