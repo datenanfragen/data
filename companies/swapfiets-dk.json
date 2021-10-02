@@ -10,6 +10,7 @@
     "web": "https://swapfiets.dk/",
     "sources": [
         "https://swapfiets.dk/en-DK/privacy",
+        "https://swapfiets.dk/en-DK/terms",
         "https://help.swapfiets.dk/hc/en-gb"
     ],
     "suggested-transport-medium": "email",
