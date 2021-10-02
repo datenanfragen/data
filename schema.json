@@ -192,7 +192,7 @@
             "type": "boolean",
             "title": "NSFW",
             "description": "Is this company “not safe for work“, i.e. does it offer content or services that fall under applicable youth protection laws and are only meant for adults? Only set if `true`.",
-            "default": false
+            "enum": ["true"]
         }
     },
     "additionalProperties": false,
