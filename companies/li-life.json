@@ -13,7 +13,8 @@
     "email": "info@li-life.li",
     "web": "https://www.li-life.li/",
     "sources": [
-        "https://www.li-life.li/DE/Datenschutz/tblid/195/Default.asp"
+        "https://www.li-life.li/DE/Datenschutz/tblid/195/Default.asp",
+        "https://www.li-life.li/DE/Ueber-uns/tblid/170/Default.asp#kontakt"
     ],
     "quality": "verified"
 }
