@@ -1,0 +1,16 @@
+{
+    "slug": "derfrbb",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Datenschutzbeauftragte Rundfunk Berlin-Brandenburg",
+    "address": "Masurenallee 8-14\n14057 Berlin\nDeutschland",
+    "phone": "+49 30 979930",
+    "email": "datenschutz@rbb-online.de",
+    "web": "https://www.rbb-online.de/",
+    "sources": [
+        "https://www.rbb-online.de/datenschutz/datenschutzerklaerung.html",
+        "https://www.bfdi.bund.de/SharedDocs/Adressen/DE/Rundfunkdatenschutzbeauftragte/DatenschutzbeauftragteRundfunkBerlin-Brandenburg.html"
+    ],
+    "suggested-transport-medium": "email"
+}

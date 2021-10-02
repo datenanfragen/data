@@ -1,0 +1,16 @@
+{
+    "slug": "derfhr",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Datenschutzbeauftragter Hessischer Rundfunk",
+    "address": "Bertramstraße 8\n60320 Frankfurt\nDeutschland",
+    "phone": "+49 69 1552541",
+    "email": "datenschutz@hr.de",
+    "web": "https://www.hr.de/",
+    "sources": [
+        "https://www.hr.de/datenschutz/index.html",
+        "https://www.bfdi.bund.de/SharedDocs/Adressen/DE/Rundfunkdatenschutzbeauftragte/DatenschutzbeauftragterHessischerRundfunk.html"
+    ],
+    "suggested-transport-medium": "email"
+}

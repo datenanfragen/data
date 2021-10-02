@@ -1,0 +1,17 @@
+{
+    "slug": "derfswr",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Rundfunkbeauftragter für den Datenschutz beim Südwestrundfunk",
+    "address": "Neckarstraße 230\n70190 Stuttgart\nDeutschland",
+    "phone": "+49 711 92913014",
+    "fax": "+49 711 92913019",
+    "email": "datenschutz@SWR.de",
+    "web": "https://www.swr.de/",
+    "sources": [
+        "https://www.swr.de/unternehmen/organisation/datenschutz-128.html",
+        "https://www.bfdi.bund.de/SharedDocs/Adressen/DE/Rundfunkdatenschutzbeauftragte/DatenschutzbeauftragterSuedwestrundfunk.html"
+    ],
+    "suggested-transport-medium": "email"
+}

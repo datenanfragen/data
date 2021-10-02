@@ -1,0 +1,16 @@
+{
+    "slug": "derfrb",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Datenschutzbeauftragte Radio Bremen",
+    "address": "Diepenau 10\n28195 Bremen\nDeutschland",
+    "phone": "+49 421 24641029",
+    "email": "datenschutz@radiobremen.de",
+    "web": "https://www.radiobremen.de/",
+    "sources": [
+        "https://www.radiobremen.de/info/datenschutz/index.html",
+        "https://www.bfdi.bund.de/SharedDocs/Adressen/DE/Rundfunkdatenschutzbeauftragte/DatenschutzbeauftragterRadioBremen.html"
+    ],
+    "suggested-transport-medium": "email"
+}
