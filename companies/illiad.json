@@ -1,0 +1,44 @@
+{
+    "slug": "illiad",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Illiad",
+    "runs": [
+        "Free"
+    ],
+    "address": "FREE – Informatique et Libertés – 75371 Paris Cedex 08",
+    "email": "dpo@iliad.fr",
+    "sources": [
+        "https://www.free.fr/freebox/informations/politique-de-confidentialite/",
+        "https://github.com/datenanfragen/data/pull/1374"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Contract number",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Email adress in @free.fr",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "nsfw": false
+}
