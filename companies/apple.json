@@ -9,16 +9,12 @@
     "name": "Apple Distribution International",
     "address": "Hollyhill Industrial Estate\nHollyhill, Cork\nIreland",
     "email": "contactus.de@euro.apple.com",
-    "phone": [
-        "1800 92 38 98",
-        "800 692 7753"
-    ],
+    "phone": "+1800 92 38 98",
     "web": "https://www.apple.com",
     "sources": [
         "https://www.apple.com/legal/privacy/de-ww/",
         "https://www.apple.com/de/contact/",
-        "https://www.apple.com/ie/contact/",
-        "https://www.apple.com/contact/"
+        "https://www.apple.com/ie/contact/"
     ],
     "relevant-countries": [
         "all"
