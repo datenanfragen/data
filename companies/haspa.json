@@ -7,11 +7,14 @@
         "finance"
     ],
     "name": "Hamburger Sparkasse AG",
-    "address": "Ecke Adolphsplatz / Gr. Burstah\n20457 Hamburg",
-    "email": "haspa@haspa.de",
+    "address": "20454 Hamburg\nDeutschland",
+    "email": "datenschutz@haspa.de",
     "web": "https://haspa.de",
+    "phone": "+49 40 35790",
+    "fax": "+49 40 35793418",
     "sources": [
         "https://www.haspa.de/de/home/footer/impressum.html",
+        "https://www.haspa.de/de/home/footer/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/1304"
     ],
     "quality": "verified"
