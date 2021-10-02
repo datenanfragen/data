@@ -6,11 +6,11 @@
     "name": "Der Rundfunkdatenschutzbeauftragte von BR, SR, WDR, Deutschlandradio und ZDF",
     "address": "Marlene-Dietrich-Allee 20\n14482 Potsdam\nDeutschland",
     "phone": "+49 331 9799385500",
+    "fax": "+49 331 7098985509",
     "email": "kontakt@rundfunkdatenschutz.de",
     "web": "https://www.rundfunkdatenschutz.de/",
     "sources": [
-        "https://www.rundfunkdatenschutz.de/kontakt/",
-        "https://www.deutschlandradio.de/datenschutzerklaerung.1828.de.html"
+        "https://www.rundfunkdatenschutz.de/impressum/"
     ],
     "suggested-transport-medium": "email"
 }
