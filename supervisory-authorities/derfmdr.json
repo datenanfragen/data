@@ -5,10 +5,12 @@
     ],
     "name": "Rundfunkbeauftragter für den Datenschutz beim MDR",
     "address": "Kantstraße 71-73\n04275 Leipzig\nDeutschland",
-    "phone": "+49 341 3000",
+    "phone": "+49 341 3007732",
+    "fax": "+49 341 300297732",
     "email": "rundfunkdatenschutz@mdr.de",
     "web": "https://www.mdr.de/unternehmen/datenschutz-im-mdr100.html",
     "sources": [
+        "https://www.rundfunkdatenschutzkonferenz.de/kontakt",
         "https://www.mdr.de/service/datenschutz/index.html",
         "https://www.bfdi.bund.de/SharedDocs/Adressen/DE/Rundfunkdatenschutzbeauftragte/DatenschutzbeauftragterMitteldeutscherRundfunk.html"
     ],
