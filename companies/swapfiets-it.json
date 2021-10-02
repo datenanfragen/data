@@ -1,0 +1,18 @@
+{
+    "slug": "swapfiets-it",
+    "relevant-countries": [
+        "it"
+    ],
+    "name": "Swapfiets Italia s.r.l.",
+    "address": "Via Adda 16\n20090 Opera MI\nItaly",
+    "phone": "+39 02 8295 8065",
+    "email": "privacy@swapfiets.com",
+    "web": "https://swapfiets.it/",
+    "sources": [
+        "https://swapfiets.it/en-IT/privacy",
+        "https://help.swapfiets.it/hc/en-gb",
+        "https://swapfiets.it/en-IT/terms"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
