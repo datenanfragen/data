@@ -4,11 +4,15 @@
         "de"
     ],
     "name": "webgo GmbH",
-    "address": "Heidenkampsweg 81\n20097 Hamburg",
+    "address": "c/o S-CON DATENSCHUTZ\nKriegerstraße 44\n30161 Hannover\nDeutschland",
+    "phone": "+49 40 605900399",
+    "email": "datenschutzteam@s-con.de",
+    "web": "https://www.webgo.de",
     "sources": [
         "https://www.webgo.de/impressum/",
         "https://www.webgo.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/1309"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
