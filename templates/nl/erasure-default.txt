@@ -1,24 +1,24 @@
 Aan wie het aanbelangt:
 
-Ik verzoek hierbij om onmiddellijke verwijdering van de mij betreffende persoonsgegevens volgens artikel 17 van het GDPR.
+Ik verzoek hierbij om onmiddellijke verwijdering van de mij betreffende persoonsgegevens volgens artikel 17 AVG.
 
-[erase_all>Wis alle persoonsgegevens die op mij betrekking hebben zoals beschreven in artikel 4, lid 1, GDPR.][erase_some>Gelieve de volgende data met betrekking tot mij te verwijderen:
+[erase_all>Wis alle persoonsgegevens die op mij betrekking hebben zoals beschreven in artikel 4, lid 1, AVG.][erase_some>Gelieve de volgende data met betrekking tot mij te verwijderen:
 {erasure_data}]
 
-ik ben ervan overtuigd dat er voldaan is aan de voorwaarden gesteld in artikel 17 lid 1. U kan ook geen aanspraak maken op een uitzondering op grond van artikel 17, lid 3, van de GDPR, aangezien ik geen publiek figuur ben.
+Ik ben ervan overtuigd dat er voldaan is aan de voorwaarden gesteld in artikel 17 lid 1. U kan geen aanspraak maken op een uitzondering op grond van artikel 17, lid 3, van de AVG, aangezien ik geen publiek figuur ben.
 
-Indien ik toestemmming gegeven heb om mijn persoonlijke gegevens te verwerken (bijvoorbeeld navenant artikel 6 lid 1 of artikel 9 lid 2 van GDPR), trek ik bij deze de toestemming daarvoor in.
-Daarnaast maak ik bezwaar tegen het verwerken van persoonlijke gegevens die op mij betrekking hebben (waaronder ook profilering valt), volgens artikel 21 GDPR. Ik verzoek u de verwerking van de gegevens die op mij betrekking hebben te beperken in afwachting van de verificatie of uw legitieme gronden de mijne teniet doen, overeenkomstig met artikel 18, lid 1, onder GDPR.
+Indien ik toestemmming gegeven heb om mijn persoonlijke gegevens te verwerken (bijvoorbeeld op basis van artikel 6 lid 1 of artikel 9 lid 2 van AVG), trek ik bij deze de toestemming daarvoor in.
+Daarnaast maak ik bezwaar tegen het verwerken van persoonlijke gegevens die op mij betrekking hebben (waaronder ook profilering valt), volgens artikel 21 AVG. Ik verzoek u de verwerking van de gegevens die op mij betrekking hebben te beperken in afwachting van de verificatie of uw legitieme gronden de mijne teniet doen, overeenkomstig met artikel 18, lid 1(d), onder AVG.
 
-Indien u de eerder genoemde data gepubliceerd heeft, bent u verplicht deze volgens artikel 17, lid 2 GDPR om alle redelijke stappen te ondernemen om deze beheerders in te lichten, waaronder ook zoekmachine-exploitanten, welke de hierboven genoemde gegevens verwerken, dat ik het verzoek heb gedaan om alle links, kopieën or replicaties te verwijderen. Dit geld niet alleen voor exacte kopieën van de betrokken gegevens, maar ook voor gegevens waaruit de informatie in de betrokken gegevens kan worden afgeleid.
+Indien u de eerder genoemde data gepubliceerd heeft, bent u verplicht deze volgens artikel 17, lid 2 AVG om alle redelijke stappen te ondernemen om deze beheerders in te lichten, waaronder ook zoekmachine-exploitanten, welke de hierboven genoemde gegevens verwerken, dat ik het verzoek heb gedaan om alle links, kopieën or replicaties te verwijderen. Dit geld niet alleen voor exacte kopieën van de betrokken gegevens, maar ook voor gegevens waaruit de informatie in de betrokken gegevens kan worden afgeleid.
 
-In het geval dat u de betrokken persoonlijke gegevens met derden gedeeld heeft, dient u mijn verzoek voor verwijdering van de betrokken persoonlijke gegevens, inclusief alle referenties naar de gegevens, door te sturen naar iedere ontvanger zoals beschreven in artikel 19 GDPR. Gelieve mij ook te informeren over de ontvangers.
+In het geval dat u de betrokken persoonlijke gegevens met derden gedeeld heeft, dient u mijn verzoek voor verwijdering van de betrokken persoonlijke gegevens, inclusief alle referenties naar de gegevens, door te sturen naar iedere ontvanger zoals beschreven in artikel 19 AVG. Gelieve mij ook te informeren over de ontvangers.
 
 Als u bezwaar maakt tegen de verzochte verwijdering, moet u dat tegenover mij rechtvaardigen.
 
-Mijn verzoek bevat expliciet [runs>de volgende zowel als ]alle andere diensten en bedrijven voor wie u de beheerder bent zoals gedefinieerd in artikel 4, lid 7 GDPR[runs>: {runs_list}].
+Mijn verzoek omvat uitdrukkelijk [runs>het volgende, evenals ]alle andere diensten en bedrijven waarvoor u de verwerkingsverantwoordelijke bent zoals gedefinieerd in artikel 4, lid 7 AVG[runs>: {runs_list}].
 
-Zoals beschreven in artikel 12, lid 3 GDPR, u dient mij zonder onnodige vertraging en in ieder geval binnen een maand na ontvangst van het verzoek de gegevensverwijdering te bevestigen.
+Zoals beschreven in artikel 12, lid 3 AVG, dient u mij zonder onnodige vertraging en in ieder geval binnen een maand na ontvangst van het verzoek de gegevensverwijdering te bevestigen.
 [has_fields>
 Ik het de volgende informatie bijgevoegd die nodig is om mij te identificeren:
 {id_data}]
