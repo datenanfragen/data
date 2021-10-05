@@ -22,8 +22,7 @@ Zoals beschreven in artikel 12, lid 3 GDPR, u dient mij zonder onnodige vertragi
 [has_fields>
 Ik het de volgende informatie bijgevoegd die nodig is om mij te identificeren:
 {id_data}]
-Als u mijn verzoek niet binnen de vermelde periode beantwoord, behoud ik het recht om juridische stappen te ondernemen tegen u en een klacht in te dienen bij de daarvoor verantwoordelijke autoriteit.
-
+Als u mijn verzoek niet binnen de vermelde periode beantwoordt, behoud ik het recht om juridische stappen te ondernemen en een klacht tegen u in te dienen bij de daarvoor verantwoordelijke toezichthoudende autoriteit.
 
 Alvast bedankt.
 

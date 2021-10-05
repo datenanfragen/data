@@ -22,6 +22,6 @@ Zoals bepaald in artikel 12, lid 3, AVG, moet u mij de gevraagde informatie vers
 [has_fields>
 Ik neem de volgende informatie op die nodig is om mij te identificeren:
 {id_data}]
-Als u mijn verzoek niet binnen de gestelde termijn beantwoordt, behoud ik het recht voor om gerechtelijke stappen tegen u te ondernemen en een klacht in te dienen bij de verantwoordelijke toezichthoudende autoriteit.
+Als u mijn verzoek niet binnen de vermelde periode beantwoordt, behoud ik het recht om juridische stappen te ondernemen en een klacht tegen u in te dienen bij de daarvoor verantwoordelijke toezichthoudende autoriteit.
 
 Hoogachtend,
