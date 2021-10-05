@@ -1,0 +1,20 @@
+{
+    "slug": "getclockwise",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Clockwise Inc",
+    "address": "2021 Fillmore St, #126, San Francisco, CA 94115",
+    "phone": "888-720-9788",
+    "email": "support@getclockwise.com",
+    "web": "https://www.getclockwise.com/",
+    "sources": [
+        "https://www.getclockwise.com/privacy",
+        "https://github.com/datenanfragen/data/pull/1383"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
