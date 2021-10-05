@@ -7,16 +7,15 @@
         "finance"
     ],
     "name": "BBBank eG",
-    "address": "Herrenstraße 2-10\n76133 Karlsruhe",
-    "phone": "07 21 141-0",
-    "fax": "07 21 141-497",
-    "email": "info@bbbank.de",
+    "address": "Herrenstraße 2-10\n76133 Karlsruhe\nDeutschland",
+    "phone": "+49 721 1410",
+    "fax": "+49 721 141497",
+    "email": "datenschutz@bbbank.de",
     "web": "https://www.bbbank.de",
     "sources": [
         "https://www.bbbank.de/service/datenschutz.html",
-        "https://www.bbbank.de/service/bbbank-impressum.html",
         "https://github.com/datenanfragen/data/pull/1294"
     ],
-    "suggested-transport-medium": "letter",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
