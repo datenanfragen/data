@@ -1,8 +1,7 @@
 Aan wie het aanbelangt:
 
-op {request_date} heb ik u een verzoek verstuurd navenant artikel {request_article} GDPR.
+op {request_date} heb ik u een verzoek verstuurd overeenkomstig met artikel {request_article} AVG.
 {Beschrijving van het probleem, bijv.: Helaas heb ik dusver nog geen antwoord ontvangen. De periode van een maand zoals beschreven in artikel 12(3) zin 1 GDPR is daarmee overschreden.}
-
 
 Daarom neem ik nu opnieuw contact met u op. Na de aankomst van deze vermaning, gelieve mijn verzoek binnen twee weken adequaat te beantwoorden. Anders behoud ik het recht om juridische stappen te ondernemen en een klacht tegen u in te dienen bij de daarvoor verantwoordelijke toezichthoudende autoriteit.
 
