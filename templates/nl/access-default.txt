@@ -3,14 +3,14 @@ Aan wie het aanbelangt:
 Ik verzoek hierbij om toegang overeenkomstig met artikel 15 AVG. Bevestig alstublieft of u al dan niet persoonlijke gegevens (zoals gedefinieerd in artikel 4, leden 1 en 2, AVG) over mij verwerkt.
 
 In het geval dat u dat doet, vraag ik hierbij, in overeenstemming met art. 15, lid 3, AVG, een kopie van <italic>alle</italic> persoonlijke data over mij die jullie verwerken, inclusief eventuele gepseudonimiseerde gegevens over mij op grond van artikel 4, lid 5, AVG. Ik verzoek verder toegang tot de volgende data op grond van artikel 15, lid 1, AVG:
-1. het doel van de verwerking;
+1. het doel van de gegevensverwerking;
 2. de categorieën van de betrokken persoonlijke gegevens;
-3. de ontvangers of categorieën van ontvangers aan wie de persoonlijke gegevens zijn of zullen worden bekendgemaakt;
-4. waar mogelijk, de beoogde periode waarvoor de persoonlijke gegevens worden opgeslagen, of, indien niet mogelijk, de criteria die worden gebruikt om die periode te bepalen;
-5. wanneer de persoonlijke gegevens niet van de betrokkene worden verzameld, alle beschikbare informatie over hun bron;
-6. het bestaan van geautomatiseerde besluitvorming, inclusief profilering, als bedoeld in artikel 22, leden 1 en 4, AVG en, tenminste in die gevallen, zinvolle informatie over de betrokken logica, evenals het belang en de beoogde gevolgen van dergelijke verwerking voor mij.
+3. de ontvangers of categorieën van ontvangers aan wie de persoonlijke gegevens zijn of zullen worden verstrekt;
+4. waar mogelijk, de beoogde periode waarin de persoonlijke gegevens worden opgeslagen, of, indien niet mogelijk, de criteria die worden gebruikt om die periode te bepalen;
+5. in de gevallen waar de persoonsgegevens niet bij de betrokkene worden verzameld, alle beschikbare informatie over hun bron;
+6. het bestaan van geautomatiseerde besluitvorming, inclusief profilering, zoals vermeld in artikel 22, leden 1 en 4, AVG en, tenminste in die gevallen, zinvolle informatie over de betrokken logica, evenals het belang en de beoogde gevolgen van dergelijke verwerking voor mij.
 
-Indien u geanonimiseerde gegevens over mij verwerkt, verzoek ik om hierover geïnformeerd te worden en wil ik dat de gebruikte procedure op een gemakkelijk te begrijpen manier uitgelegd wordt.
+Indien u geanonimiseerde gegevens over mij verwerkt, verzoek ik om hierover geïnformeerd te worden en verzoek ik dat de gebruikte procedure op een gemakkelijk te begrijpen manier uitgelegd wordt.
 
 Als u mijn persoonlijke gegevens overdraagt naar een derde land of een internationale organisatie, verzoek ik om te worden geïnformeerd over de passende waarborgen overeenkomstig met artikel 46 AVG betreffende de overdracht.
 [data_portability>
