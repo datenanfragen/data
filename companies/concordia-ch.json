@@ -1,0 +1,21 @@
+{
+    "slug": "concordia-ch",
+    "relevant-countries": [
+        "li",
+        "ch"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "CONCORDIA Schweizerische Kranken- und Unfallversicherung AG",
+    "address": "Bundesplatz 15\n6002 Luzern",
+    "phone": "+41 41 228 01 11",
+    "email": "info@concordia.ch",
+    "web": "https://www.concordia.li/",
+    "sources": [
+        "https://www.concordia.li/de/ueber-uns/ueber-concordia/datenschutz.html",
+        "https://www.concordia.li/content/dam/concordia.ch/ueber-uns/Daten_Bearbeitungsreglement_de.pdf",
+        "https://www.concordia.li/de/impressum.html"
+    ],
+    "quality": "verified"
+}
