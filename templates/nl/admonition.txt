@@ -1,4 +1,4 @@
-Aan wie het aanbelangt:
+Geachte heer, mevrouw,
 
 op {request_date} heb ik u een verzoek verstuurd overeenkomstig met artikel {request_article} AVG.
 {Beschrijving van het probleem, bijv.: Helaas heb ik dusver nog geen antwoord ontvangen. De periode van een maand zoals beschreven in artikel 12(3) zin 1 AVG is daarmee overschreden.}
