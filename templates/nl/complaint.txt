@@ -1,4 +1,4 @@
-Geachte heer, mevrouw,
+Geachte,
 
 Ik dien hierbij een klacht in op grond van artikel 77 AVG. Op {request_date}, heb ik een verzoek verstuurd zoals beschreven in artikel {request_article} AVG aan de volgende verantwoordelijke:
 {request_recipient_address}
