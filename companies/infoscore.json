@@ -20,6 +20,7 @@
     "phone": "+49 7221 7793 300",
     "fax": "+49 7221 5040 3201",
     "email": "rm-data-information@arvato.com",
+    "webform": "https://www.experian.de/selbstauskunft/online-formular-selbstauskunft",
     "web": "https://www.experian.de/",
     "sources": [
         "https://www.experian.de/legal/datenschutz",
@@ -44,7 +45,6 @@
         }
     ],
     "comments": [
-        "Webformular für Anfragen: https://www.experian.de/selbstauskunft/online-formular-selbstauskunft",
         "Erbitten Anschriften der letzten fünf Jahre für vollständigere Auskunft."
     ],
     "needs-id-document": false,

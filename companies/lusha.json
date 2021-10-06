@@ -13,6 +13,7 @@
     ],
     "address": "1177 Avenue of the Americas\n5th Floor\nNew York NY 10036\nUnited States of America",
     "email": "Privacy@Lusha.com",
+    "webform": "https://www.lushaprivacy.com/privacy-form/",
     "web": "https://www.lusha.co/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/115",
@@ -24,8 +25,5 @@
     "request-language": "en",
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Web form for requests: https://www.lushaprivacy.com/privacy-form/"
-    ],
     "quality": "verified"
 }

@@ -12,14 +12,12 @@
     "phone": "+43 800 010100",
     "fax": "+43 57 7672 2071",
     "email": "datenschutz@post.at",
+    "webform": "https://www.post.at/k/f/kontaktformular?problem=DatenschutzAuskunft",
     "web": "https://www.post.at/",
     "sources": [
         "https://www.post.at/co/c/datenschutz",
         "https://www.post.at/co/c/impressum",
         "https://a1deal.post.at/legal-notice"
-    ],
-    "comments": [
-        "Webformular für Anfragen: https://www.post.at/k/f/kontaktformular?problem=DatenschutzAuskunft"
     ],
     "suggested-transport-medium": "email",
     "request-language": "de",

@@ -15,14 +15,12 @@
         "IBM Watson"
     ],
     "address": "Johan Huizingalaan 765\n1066 VH Amsterdam\nThe Netherlands",
+    "webform": "https://www.ibm.com/privacy/portal/contact/us-en",
     "web": "https://www.ibm.com",
     "sources": [
         "https://www.ibm.com/privacy",
         "https://www.ibm.com/privacy/portal/us-en",
         "https://www.ibm.com/privacy/details"
-    ],
-    "comments": [
-        "Data requests must be made via this web form:\nhttps://www.ibm.com/privacy/portal/contact/us-en"
     ],
     "quality": "verified"
 }

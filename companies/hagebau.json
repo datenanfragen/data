@@ -14,6 +14,7 @@
     "address": "Alter Teichweg 25\n22081 Hamburg\nDeutschland",
     "phone": "+49 40 600 235 505",
     "email": "datenschutz@hagebau.com",
+    "webform": "https://www.dsextern.de/anfragen",
     "web": "https://www.hagebau.de/",
     "sources": [
         "https://www.hagebau.de/datenschutz/",
@@ -21,8 +22,5 @@
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=464305&land_abk=hh"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Webformular für Anfragen: https://www.dsextern.de/anfragen"
-    ],
     "quality": "verified"
 }

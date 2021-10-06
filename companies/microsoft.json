@@ -22,12 +22,10 @@
     ],
     "address": "One Microsoft Place\nSouth County Business Park\nLeopardstown\nDublin 18\nIreland",
     "phone": "+353 1 295 3826",
+    "webform": "https://www.microsoft.com/en-us/concern/privacyrequest-msa",
     "web": "https://www.microsoft.com",
     "sources": [
         "https://privacy.microsoft.com/privacystatement"
-    ],
-    "comments": [
-        "There is also a web form for requests: https://privacy.microsoft.com/privacy-questions"
     ],
     "quality": "verified"
 }
