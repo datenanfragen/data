@@ -12,6 +12,7 @@
     "phone": "+49 30 44350 240",
     "fax": "+49 30 44350 249",
     "email": "datenschutz@regis24.de",
+    "webform": "https://selbstauskunft.regis24.com/",
     "web": "https://www.regis24.de",
     "sources": [
         "https://www.regis24.de/datenschutz/",
@@ -37,8 +38,5 @@
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Webformular für Anfragen: https://selbstauskunft.regis24.com/"
-    ],
     "quality": "tested"
 }

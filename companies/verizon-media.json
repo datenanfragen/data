@@ -27,6 +27,7 @@
     "address": "5-7 Point Square\nNorth Wall Quay\nDublin 1\nIreland",
     "phone": "+353 1 614 5000",
     "email": "GDPRRepresentative@mhc.ie",
+    "webform": "https://io.help.yahoo.com/contact/index?page=contactform&locale=en_US&token=Zh/BBVqXzLHlIbokbUqVWTUbuuQeXGkGnZzhKR2JQ4O6mMQdy9JSWfJCJWvc4C3/4ml2UKrHQ0nko7rLtSR524MJxCBJKi0QupzNgfCBzntg9dSBRYOublwVE756J6MoPaeCIytHoug=&selectedChannel=email-icon",
     "web": "https://www.yahooinc.com",
     "sources": [
         "https://legal.yahoo.com/us/en/yahoo/privacy/index.html",
@@ -38,9 +39,6 @@
             "type": "name",
             "optional": false
         }
-    ],
-    "comments": [
-        "The best way is to submit an inquiry via their web form:\nhttps://io.help.yahoo.com/contact/index?page=contactform&locale=en_US&token=Zh/BBVqXzLHlIbokbUqVWTUbuuQeXGkGnZzhKR2JQ4O6mMQdy9JSWfJCJWvc4C3/4ml2UKrHQ0nko7rLtSR524MJxCBJKi0QupzNgfCBzntg9dSBRYOublwVE756J6MoPaeCIytHoug=&selectedChannel=email-icon"
     ],
     "quality": "verified"
 }

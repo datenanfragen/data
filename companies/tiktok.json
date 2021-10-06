@@ -15,14 +15,12 @@
     ],
     "address": "10 Earlsfort Terrace\nDublin\nD02 T380\nIreland",
     "email": "privacy@tiktok.com",
+    "webform": "https://www.tiktok.com/legal/report/privacy",
     "web": "https://www.tiktok.com",
     "sources": [
         "https://www.tiktok.com/legal/new-privacy-policy",
         "https://www.tiktok.com/en-uk/privacy-policy"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Web form for requests: https://www.tiktok.com/legal/report/privacy"
-    ],
     "quality": "verified"
 }

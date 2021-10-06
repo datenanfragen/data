@@ -11,6 +11,7 @@
     "phone": "+49 228 406 0",
     "fax": "+49 228 406 2661",
     "email": "Datenschutzbeauftragte@bzst.bund.de",
+    "webform": "https://www.bzst.de/SiteGlobals/Kontaktformulare/DE/Datenschutz/kontakt_node.html",
     "web": "https://www.bzst.de",
     "sources": [
         "https://www.bzst.de/DE/Service/Datenschutz/datenschutz_node.html",
@@ -18,9 +19,6 @@
         "https://www.bzst.de/SharedDocs/Downloads/DE/Informationen_zum_Datenschutz/Deutsche_Rentenversicherung.pdf?__blob=publicationFile&v=2"
     ],
     "request-language": "de",
-    "comments": [
-        "Kontaktformular für Datenschutzanfragen: https://www.bzst.de/SiteGlobals/Kontaktformulare/DE/Datenschutz/kontakt_node.html"
-    ],
     "suggested-transport-medium": "email",
     "quality": "verified"
 }

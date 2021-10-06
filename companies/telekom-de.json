@@ -17,6 +17,7 @@
     "address": "Friedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
     "phone": "+49 800 33 04006",
     "email": "datenschutz@telekom.de",
+    "webform": "https://www.telekom.com/de/kontaktformulare/datenschutz",
     "web": "https://www.telekom.de",
     "sources": [
         "https://www.telekom.de/ueber-das-unternehmen/datenschutz",
@@ -29,8 +30,5 @@
         "https://github.com/datenanfragen/data/pull/1675"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Webformular für Anfragen: https://www.telekom.com/de/kontaktformulare/datenschutz"
-    ],
     "quality": "verified"
 }
