@@ -70,6 +70,12 @@
             "description": "An email address where the company can be reached for privacy-related inquires and requests. Preferably a specific privacy@[domain.tld] address if available.",
             "format": "idn-email"
         },
+        "webform": {
+            "type": "string",
+            "title": "Web form",
+            "description": "A URL to a web form where the company can be reached for privacy-related inquiries and requests. This should only be used for web forms specifically for privacy-related inquiries and requests (or ones which at least offer that as an option). General contact forms should only be entered here in rare cases, e.g. if the company has neither an email address nor a privacy-related web form.",
+            "format": "uri"
+        },
         "pgp-fingerprint": {
             "type": "string",
             "title": "PGP fingerprint",
