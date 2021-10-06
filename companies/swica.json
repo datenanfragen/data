@@ -19,6 +19,9 @@
         "https://www4.swica.ch/p/826_d_Datenschutzerklaerung_Liechtenstein.pdf",
         "https://www.swica.ch/de/ueber-swica/portrait/ueberblick/datenschutz/impressum"
     ],
+    "comments": [
+        "There is a webform questions about data protection available at https://www.swica.ch/de/ueber-swica/portrait/ueberblick/datenschutz"
+    ],
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
