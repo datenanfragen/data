@@ -1,0 +1,21 @@
+{
+    "slug": "prosieben",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "prosieben.de",
+    "address": "Seven.One Entertainment Group GmbH\nMedienallee 7\nD-85774 Unterföhring",
+    "phone": "+49 89 950710",
+    "fax": "+49 89 3977199",
+    "email": "datenschutz@prosieben.de",
+    "web": "https://www.prosieben.de/",
+    "sources": [
+        "https://www.prosieben.de/service/impressum",
+        "https://www.prosieben.de/service/datenschutz"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
