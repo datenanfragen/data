@@ -1,0 +1,61 @@
+{
+    "slug": "raygun-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Raygun Limited",
+    "address": "PO Box 19057\nMarion Square\nWellington\n6141\nNew Zealand",
+    "web": "https://raygun.com/",
+    "sources": [
+        "https://raygun.com/privacy"
+    ],
+    "required-elements": [
+        {
+            "desc": "First Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Last name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Your company email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Phone number",
+            "type": "input",
+            "optional": true
+        },
+        {
+            "desc": "Company Size",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Title",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Your message",
+            "type": "textarea",
+            "optional": false
+        },
+        {
+            "desc": "captcha",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "request-language": "en",
+    "custom-access-template": "https://raygun.com/about/contact",
+    "needs-id-document": false,
+    "quality": "verified"
+}
