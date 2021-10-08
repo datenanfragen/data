@@ -1,0 +1,18 @@
+{
+    "slug": "coursehero",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Course Hero, Inc.",
+    "address": "Ballindamm 39\n20095 Hamburg",
+    "email": "coursehero@gdpr-rep.com",
+    "web": "https://coursehero.com",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1394"
+    ]
+}
