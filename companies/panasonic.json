@@ -1,0 +1,19 @@
+{
+    "slug": "panasonic",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Panasonic Marketing Europe GmbH",
+    "runs": [
+        "Panasonic Deutschland"
+    ],
+    "address": "Hagenauer Straße 43\n65203 Wiesbaden\nDeutschland",
+    "email": "datenschutz@eu.panasonic.com",
+    "web": "https://www.panasonic.com/de",
+    "sources": [
+        "https://www.panasonic.com/de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/1395"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
