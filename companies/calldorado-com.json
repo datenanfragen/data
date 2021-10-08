@@ -1,0 +1,21 @@
+{
+    "slug": "calldorado-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads",
+        "telecommunication",
+        null
+    ],
+    "name": "Calldorado ApS",
+    "address": "Gladsaxevej 342, 2860 Soeborg, Denmark",
+    "email": "support@calldorado.com",
+    "web": "https://calldorado.com/",
+    "sources": [
+        "https://legal.calldorado.com/privacy-policy/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
