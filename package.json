@@ -22,12 +22,13 @@
         "husky": "^4.3.7",
         "lint-staged": "^10.5.3",
         "prettier": "^2.2.1",
+        "quicktype": "^15.0.260",
         "ts-node": "^10.2.1",
         "typescript": "^4.4.3",
         "typesense": "^0.6.1"
     },
     "scripts": {
-        "test": "eslint --ext .json --ext .js --ext .ts && ts-node test-records.ts # this order allows useful hints for invalid files",
+        "test": "eslint --ext .json --ext .js --ext .ts && ts-node-transpile-only src/test-records.ts # this order allows useful hints for invalid files",
         "deploy": "node deploy-typesense.js"
     },
     "husky": {
@@ -36,9 +37,12 @@
         }
     },
     "lint-staged": {
-        "*.{js,json}": [
+        "*.{js,json,ts}": [
             "prettier --write",
             "yarn test"
+        ],
+        "*.{ts,js}": [
+            "eslint --fix"
         ]
     }
 }

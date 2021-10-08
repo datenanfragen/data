@@ -2,13 +2,13 @@
     "compilerOptions": {
         "target": "ESNext",
         "module": "commonjs",
+        "strict": true,
         "strictNullChecks": true,
         "esModuleInterop": true,
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
-        "sourceMap": true,
-        "outDir": "dist",
         "lib": ["esnext"],
         "resolveJsonModule": true
-    }
+    },
+    "include": ["src/**/*.ts"]
 }
