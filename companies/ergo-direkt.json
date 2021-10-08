@@ -13,7 +13,6 @@
         "ERGO Direkt Krankenversicherung AG",
         "ERGO Vorsorge Lebensversicherung AG",
         "ERGO Krankenversicherung AG",
-        "MEAG Munich ERGO AssetManagement GmbH",
         "ERGO Versicherung AG",
         "Victoria Lebensversicherung AG",
         "DKV Deutsche Krankenversicherung AG",
@@ -22,12 +21,13 @@
         "ERGO Direkt AG"
     ],
     "address": "Karl-Martell-Straße 60\n90344 Nürnberg\nDeutschland",
-    "phone": "+49 800 444 1000",
+    "phone": "+49 800 4441000",
     "email": "datenschutz@ergo.de",
     "web": "https://ergodirekt.de",
     "sources": [
         "https://ergodirekt.de/de/datenschutzunddatensicherheit.html",
-        "https://github.com/datenanfragen/data/issues/42"
+        "https://github.com/datenanfragen/data/issues/42",
+        "https://github.com/datenanfragen/data/pull/1396"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
