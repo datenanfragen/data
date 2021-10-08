@@ -20,5 +20,6 @@
         "https://github.com/datenanfragen/data/pull/1114"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "nsfw": true
 }
