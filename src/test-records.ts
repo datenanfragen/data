@@ -58,7 +58,7 @@ const validate = (
         } catch (err) {
             add_event({ msg: 'Parsing JSON failed.\n', error: err, type: 'error' });
             // If parsing failed, we can't do any content-related checks, so skip to the next file.
-            return;
+            continue;
         }
 
         // Records have to pass schema validation.
