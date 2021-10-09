@@ -1,0 +1,12 @@
+{
+    "slug": "test-please-ignore",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Test - Please ignore",
+    "address": "Test - Please ignore",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1401"
+    ]
+}
