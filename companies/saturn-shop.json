@@ -6,13 +6,12 @@
     "categories": [
         "commerce"
     ],
-    "name": "MediaMarktSaturn E-Commerce GmbH",
+    "name": "Saturn.de",
     "runs": [
-        "Saturn.de",
         "Saturn Card",
         "Saturn online GmbH (ehem.)"
     ],
-    "address": "Wankelstraße 5\n85046 Ingolstadt\nDeutschland",
+    "address": "c/o MediaMarktSaturn E-Commerce GmbH\nWankelstraße 5\n85046 Ingolstadt\nDeutschland",
     "phone": "+49 221 22 243 123",
     "fax": "+49 841 634 99 1835",
     "email": "datenschutz@saturn.de",

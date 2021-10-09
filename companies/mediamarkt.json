@@ -1,19 +1,22 @@
 {
     "slug": "mediamarkt",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
-    "name": "MediaMarkt E-Business GmbH",
-    "address": "Wankelstraße 5\n85046 Ingolstadt\nDeutschland",
+    "name": "MediaMarkt.de",
+    "runs": [
+        "Media Markt E-Business GmbH (ehem.)"
+    ],
+    "address": "c/o MediaMarktSaturn E-Commerce GmbH\nWankelstraße 5\n85046 Ingolstadt\nDeutschland",
     "phone": "+49 221 22243 333",
     "email": "datenschutz@mediamarkt.de",
     "web": "https://www.mediamarkt.de/",
     "sources": [
-        "https://www.mediamarkt.de/de/shop/Datenschutzerklaerung.html",
-        "https://www.mediamarkt.de/de/shop/Impressum-Mediamarkt.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.mediamarkt.de/de/legal/datenschutzhinweise/shop",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410296&land_abk=by"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
