@@ -14,6 +14,7 @@
     "web": "https://www.sixx.de/",
     "sources": [
         "https://www.sixx.de/service/agb-datenschutz/datenschutz",
+        "https://www.fem.com/impressum",
         "https://www.sixx.de/service/impressum"
     ],
     "suggested-transport-medium": "email",
