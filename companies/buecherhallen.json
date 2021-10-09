@@ -1,0 +1,23 @@
+{
+    "slug": "buecherhallen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        "entertainment",
+        null
+    ],
+    "name": "Bücherhallen Hamburg (Stiftung Hamburger Öffentliche Bücherhallen)",
+    "address": "Hühnerposten 1\n20097 Hamburg",
+    "phone": "040 / 42 6060",
+    "email": "kundenservice@buecherhallen.de",
+    "web": "https://www.buecherhallen.de",
+    "sources": [
+        "https://www.buecherhallen.de/datenschutz.html",
+        "https://www.buecherhallen.de/impressum.html",
+        "https://github.com/datenanfragen/data/pull/1402"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
