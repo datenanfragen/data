@@ -8,13 +8,12 @@
         "telecommunication"
     ],
     "name": "Calldorado ApS",
-    "address": "Gladsaxevej 342, 2860 Soeborg, Denmark",
+    "address": "Gladsaxevej 342\n2860 Soeborg\nDenmark",
     "email": "support@calldorado.com",
     "web": "https://calldorado.com/",
     "sources": [
         "https://legal.calldorado.com/privacy-policy/"
     ],
-    "request-language": "en",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
