@@ -17,5 +17,6 @@
         "https://iabtechlab.com/privacy-policy/"
     ],
     "request-language": "en",
+    "custom-access-template": "access-tracking", 
     "quality": "verified"
 }
