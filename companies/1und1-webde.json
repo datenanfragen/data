@@ -6,7 +6,7 @@
     "categories": [
         "telecommunication"
     ],
-    "name": "WEB.DE",
+    "name": "1&1 Mail & Media GmbH",
     "runs": [
         "WEB.DE Vorteilswelt",
         "WEB.DE FreeMail",
@@ -26,19 +26,16 @@
         "WEB.DE Internet Fax",
         "WEB.DE Magazin"
     ],
-    "address": "c/o 1&1 Mail & Media GmbH\nElgendorfer Straße 57\n56410 Montabaur\nDeutschland",
-    "phone": "+49 900 1 932330",
+    "address": "Elgendorfer Straße 57\n56410 Montabaur\nDeutschland",
+    "phone": "+49 721 960 97 40",
     "email": "datenschutz@webde.de",
     "web": "https://web.de/",
     "sources": [
-        "https://agb.web.de/Datenschutzerklaerung/AGB/20170227/",
+        "https://agb-server.web.de/datenschutz",
         "https://web.de/impressum/",
         "https://produkte.web.de",
         "https://github.com/datenanfragen/data/pull/1339"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Achtung: Telefonnummer ist kostenpflichtig (3,99 EUR pro Anruf – nur aus dem deutschen Festnetz erreichbar)!"
-    ],
     "quality": "verified"
 }
