@@ -14,7 +14,8 @@
     "web": "https://www.kabeleins.de/",
     "sources": [
         "https://www.kabeleins.de/service/nutzungsbedingungen/datenschutz",
-        "https://www.kabeleins.de/service/impressum"
+        "https://www.kabeleins.de/service/impressum",
+        "https://www.sevenonemedia.de/impressum"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
