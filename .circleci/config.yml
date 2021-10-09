@@ -48,8 +48,8 @@ jobs:
         - image: circleci/node:14-buster
     working_directory: /tmp
     steps:
-        - run: apt update
-        - run: apt install golang
+        - run: sudo apt update
+        - run: sudo apt install golang
         # https://github.com/reviewdog/reviewdog#circle-ci
         - run: curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b ./bin
         - checkout
