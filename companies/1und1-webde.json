@@ -6,7 +6,7 @@
     "categories": [
         "telecommunication"
     ],
-    "name": "1&1 Mail & Media GmbH",
+    "name": "WEB.DE",
     "runs": [
         "WEB.DE Vorteilswelt",
         "WEB.DE FreeMail",
@@ -19,14 +19,14 @@
         "WEB.DE Cyberschutz",
         "WEB.DE PreisCheck",
         "WEB.Cent Bonusprogramm",
-        "WEB.DE Kalender ",
-        "WEB.DE De-Mail ",
+        "WEB.DE Kalender",
+        "WEB.DE De-Mail",
         "WEB.DE Suche",
         "WEB.DE SMS",
         "WEB.DE Internet Fax",
         "WEB.DE Magazin"
     ],
-    "address": "Elgendorfer Straße 57\n56410 Montabaur\nDeutschland",
+    "address": "c/o 1&1 Mail & Media GmbH\nElgendorfer Straße 57\n56410 Montabaur\nDeutschland",
     "phone": "+49 721 960 97 40",
     "email": "datenschutz@webde.de",
     "web": "https://web.de/",
