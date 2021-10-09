@@ -14,6 +14,7 @@
     "web": "https://www.prosieben.de/",
     "sources": [
         "https://www.prosieben.de/service/impressum",
+        "https://www.sevenonemedia.de/impressum",
         "https://www.prosieben.de/service/datenschutz"
     ],
     "suggested-transport-medium": "email",
