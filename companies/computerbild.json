@@ -4,18 +4,22 @@
         "de"
     ],
     "categories": [
-        null
+        "entertainment"
     ],
     "name": "COMPUTER BILD Digital GmbH",
-    "address": "Überseeallee 1\n20457 Hamburg",
+    "runs": [
+        "COMPUTER BILD",
+        "AUDIO VIDEO FOTO BILD",
+        "TEST BILD",
+        "COMPUTER BILD eHome"
+    ],
+    "address": "Überseeallee 1\n20457 Hamburg\nDeutschland",
     "email": "datenschutz@computerbild.de",
-    "web": "https://www.computerbild.de",
+    "web": "https://www.computerbild.de/cb-Heft-2498.html",
     "sources": [
         "https://www.computerbild.de/datenschutz",
         "https://github.com/datenanfragen/data/pull/1288"
     ],
-    "comments": [
-        "Teile des Angebots werden durch\n\nAxel Springer SE\nDatenschutz\nAxel-Springer-Str. 65\n10888 Berlin\ndatenschutz@axelspringer.de\ndatenschutz.kundenservice@axelspringer.de\n\nbereitgestellt."
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
