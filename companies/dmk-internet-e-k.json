@@ -1,14 +1,14 @@
 {
     "slug": "dmk-internet-e-k",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
         "ads"
     ],
     "name": "DMK-Internet e.K.",
     "runs": [
-        "http://www.superclix.de"
+        "SuperClix (www.superclix.de)"
     ],
     "address": "Christaweg 8\nFreiburg Baden-Wuerttemberg 79114\nDeutschland",
     "phone": "+49 761 8964980",
@@ -16,8 +16,8 @@
     "sources": [
         "http://www.superclix.de/impressum.php",
         "https://clix.superclix.de/w3c/",
-        "https://clix.superclix.de/w3c/policy.html",
         "https://github.com/datenanfragen/data/pull/1285"
     ],
-    "quality": "verified"
+    "quality": "verified",
+    "custom-access-template": "access-tracking"
 }
