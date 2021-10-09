@@ -43,12 +43,31 @@ jobs:
           key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
           paths:
             - ./node_modules
+  review:
+    docker:
+        - image: circleci/node:14-buster
+    working_directory: /tmp
+    steps:
+        - run: apt update
+        - run: apt install golang
+        # https://github.com/reviewdog/reviewdog#circle-ci
+        - run: curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b ./bin
+        - checkout
+
+        # Cache, see: https://circleci.com/docs/2.0/language-javascript/#sample-configuration
+        - restore_cache:
+            key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
+        - run: yarn ts-node src/test-records.ts --autofix
+        # https://github.com/reviewdog/reviewdog#diff
+        - run: F=${mktemp} && git diff > "${F}" && git stash -u && git stash drop && ./bin/reviewdog -f=diff -f.diff.strip=1 -reporter=github-pr-review < "${F}"
+
 
 workflows:
   version: 2
   test_and_deploy:
     jobs:
       - test
+      - review
       - deploy:
           requires:
             - test
