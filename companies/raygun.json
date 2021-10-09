@@ -23,5 +23,6 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "custom-access-template": "access-tracking"
 }

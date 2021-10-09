@@ -19,5 +19,6 @@
         "https://www.talkingdata.com/contact.jsp?languagetype=en_us"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "custom-access-template": "access-tracking"
 }
