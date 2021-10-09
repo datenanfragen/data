@@ -46,7 +46,6 @@ jobs:
   review:
     docker:
         - image: circleci/node:14-buster
-    working_directory: /tmp
     steps:
         - run: sudo apt update
         - run: sudo apt install golang
