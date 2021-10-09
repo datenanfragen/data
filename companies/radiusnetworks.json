@@ -11,9 +11,21 @@
     "email": "privacy@radiusnetworks.com",
     "web": "http://www.radiusnetworks.com/",
     "sources": [
-        "https://www.flybuy.com/privacy-policy"
+        "https://www.flybuy.com/privacy-policy",
+        "https://www.privacyshield.gov/participant?id=a2zt00000008WuQAAU&status=Active"
     ],
-    "request-language": "en",
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "suggested-transport-medium": "email",
     "quality": "verified"
 }

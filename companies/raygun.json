@@ -10,6 +10,18 @@
     "sources": [
         "https://raygun.com/privacy"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -14,5 +14,17 @@
     "sources": [
         "https://legal.calldorado.com/privacy-policy/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "quality": "verified"
 }
