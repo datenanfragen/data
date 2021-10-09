@@ -11,7 +11,8 @@
     "web": "https://dpunkt.de",
     "sources": [
         "https://dpunkt.de/datenschutzerklaerung",
-        "https://github.com/datenanfragen/data/pull/1269"
+        "https://github.com/datenanfragen/data/pull/1269",
+        "https://github.com/datenanfragen/data/pull/1413"
     ],
     "suggested-transport-medium": "email",
     "comments": [
