@@ -43,6 +43,9 @@
         ],
         "*.{ts,js}": [
             "eslint --fix"
+        ],
+        "*.ts": [
+            "bash -c 'tsc' # See: https://github.com/okonet/lint-staged/issues/825#issuecomment-674575655"
         ]
     }
 }

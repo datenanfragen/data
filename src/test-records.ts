@@ -210,7 +210,7 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
             if (city_match && city_match[1]) {
                 const city = city_match[1];
                 const guess = cities.filter((c) => c.name === city).sort((a, b) => a.population - b.population)[0]
-                    .country as keyof typeof countries;
+                    ?.country as keyof typeof countries;
                 if (guess) {
                     json_with_fixes.address += `\n${
                         variation_country_codes.includes(guess)
