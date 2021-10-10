@@ -1,0 +1,13 @@
+{
+    "slug": "bkk-euregio",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "BKK EUREGIO",
+    "address": "Boos-Fremery-Str. 66\n52525 Heinsberg",
+    "sources": [
+        "https://www.bkk-euregio.de/impressum",
+        "https://github.com/datenanfragen/data/pull/1432"
+    ],
+    "quality": "verified"
+}
