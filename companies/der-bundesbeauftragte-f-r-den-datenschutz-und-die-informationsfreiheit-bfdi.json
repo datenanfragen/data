@@ -1,0 +1,13 @@
+{
+    "slug": "der-bundesbeauftragte-f-r-den-datenschutz-und-die-informationsfreiheit-bfdi",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)",
+    "address": "Graurheindorfer Str. 153\n53117 Bonn",
+    "sources": [
+        "https://www.bfdi.bund.de/DE/Meta/Impressum/impressum_node.html",
+        "https://github.com/datenanfragen/data/pull/1437"
+    ],
+    "quality": "verified"
+}
