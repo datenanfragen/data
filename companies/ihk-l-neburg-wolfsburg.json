@@ -1,0 +1,13 @@
+{
+    "slug": "ihk-l-neburg-wolfsburg",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "IHK Lüneburg-Wolfsburg ",
+    "address": "Am Sande 1, 21335 Lüneburg ",
+    "sources": [
+        "https://www.ihk-lueneburg.de/service/ueber-uns/impressum2-3627664",
+        "https://github.com/datenanfragen/data/pull/1423"
+    ],
+    "quality": "verified"
+}
