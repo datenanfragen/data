@@ -1,0 +1,13 @@
+{
+    "slug": "handelskrankenkasse-hkk",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Handelskrankenkasse (hkk)",
+    "address": "Martinistraße 26\n28195 Bremen",
+    "sources": [
+        "https://www.hkk.de/impressum",
+        "https://github.com/datenanfragen/data/pull/1431"
+    ],
+    "quality": "verified"
+}
