@@ -7,8 +7,8 @@
         "travel"
     ],
     "name": "S-Bahn Hamburg GmbH",
-    "address": "Hammerbrookstraße 44\n20097 Hamburg",
-    "email": "s-bahn.hamburg@deutschebahn.com",
+    "address": "Hammerbrookstraße 44\n20097 Hamburg\nDeutschland",
+    "email": "datenschutz.regio@deutschebahn.com",
     "web": "https://www.s-bahn-hamburg.de",
     "sources": [
         "https://www.s-bahn-hamburg.de/impressum",
