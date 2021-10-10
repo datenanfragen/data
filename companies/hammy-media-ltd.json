@@ -17,5 +17,6 @@
         "https://github.com/datenanfragen/data/issues/546"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "nsfw": true
 }

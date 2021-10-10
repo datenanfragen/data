@@ -22,5 +22,6 @@
         "https://www.livejasmin.com/en/privacy-policy"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "nsfw": true
 }

@@ -13,7 +13,8 @@
     "email": "dataprotection@runtastic.com",
     "web": "https://www.runtastic.com/en/privacy-policy",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1169"
+        "https://github.com/datenanfragen/data/pull/1169",
+        "https://www.runtastic.com/en/privacy-policy"
     ],
     "required-elements": [
         {

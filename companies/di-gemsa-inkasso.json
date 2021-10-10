@@ -11,9 +11,9 @@
     "phone": "+49 36 31 49 78 0",
     "fax": "+49 36 31 49 78 78",
     "email": "datenschutz@di-gemsa.de",
-    "web": "http://di-gemsa.de/",
+    "web": "https://di-gemsa.de/",
     "sources": [
-        "http://di-gemsa.de/14368.html"
+        "https://di-gemsa.de/Datenschutz"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

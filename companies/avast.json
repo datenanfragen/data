@@ -44,6 +44,16 @@
         "https://github.com/datenanfragen/data/issues/133",
         "https://www.avg.com/en-ww/privacy"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

@@ -12,7 +12,7 @@
     "email": "hello@collectiveuk.com",
     "web": "http://collectiveuk.com/",
     "sources": [
-        "http://collectiveuk.com/privacy-policy/"
+        "https://collectivedemos.com/collectiveuk.com/privacy.html"
     ],
     "custom-access-template": "access-tracking",
     "request-language": "en",

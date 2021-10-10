@@ -3,16 +3,19 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "Webtrekk GmbH",
-    "phone": "+49 30 755 415 0",
-    "fax": "+49 30 755 415 100",
-    "address": "Robert-Koch-Platz 4\n10115 Berlin\nDeutschland",
-    "email": "datenschutz@webtrekk.com",
-    "web": "https://www.webtrekk.com/de/startseite/",
+    "name": "Mapp Digital Germany GmbH",
+    "runs": [
+        "Mapp Digital US, LLC",
+        "Webtrekk GmbH (ehem.)"
+    ],
+    "phone": "+49 89 12009 600",
+    "address": "Dachauer Str. 63\nNymphenburger Höfe NY II\n80335 Munich\nGermany",
+    "email": "privacy@mapp.com",
+    "web": "https://mapp.com",
     "sources": [
-        "https://www.webtrekk.com/en/legal/opt-out-webtrekk/",
-        "https://github.com/datenanfragen/data/issues/64",
-        "https://www.webtrekk.com/en/legal/legal/"
+        "https://mapp.com/privacy/",
+        "https://mapp.com/contact-us/",
+        "https://github.com/datenanfragen/data/issues/64"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

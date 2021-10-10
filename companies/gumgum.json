@@ -12,10 +12,10 @@
     ],
     "address": "WeWork Building\n138 Holborn\nLondon\nEC1N2SW\nUnited Kingdom",
     "phone": "+1 310 260 9666",
-    "email": "gdpr@gumgum.com",
+    "email": "dataprivacy@gumgum.com",
     "web": "https://gumgum.com/",
     "sources": [
-        "https://gumgum.com/privacy-policy"
+        "https://gumgum.com/terms-and-policies/privacy-policy"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

@@ -8,14 +8,12 @@
         "Bird Rides, Inc.",
         "Circ (formerly)"
     ],
-    "address": "Rokin 92\n1012KZ Amsterdam\nNetherlands",
+    "address": "Rokin 92\n1012KZ Amsterdam\nThe Netherlands",
     "phone": "+1 866 205 2442",
     "email": "privacy@bird.co",
     "web": "https://www.bird.co/",
     "sources": [
-        "https://www.bird.co/privacy/",
-        "https://www.bird.co/de/press/bird-uebernimmt-circ-den-europaeischen-marktfuehrer-fuer-mikromobilitaet/",
-        "https://www.bird.co/contact-us/"
+        "https://www.bird.co/privacy/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

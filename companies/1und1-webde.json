@@ -1,5 +1,8 @@
 {
     "slug": "1und1-webde",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
@@ -15,21 +18,23 @@
         "WEB.DE Homepage & Mail",
         "WEB.DE Cyberschutz",
         "WEB.DE PreisCheck",
-        "WEB.Cent Bonusprogramm"
+        "WEB.Cent Bonusprogramm",
+        "WEB.DE Kalender",
+        "WEB.DE De-Mail",
+        "WEB.DE Suche",
+        "WEB.DE SMS",
+        "WEB.DE Internet Fax",
+        "WEB.DE Magazin"
     ],
     "address": "c/o 1&1 Mail & Media GmbH\nElgendorfer Straße 57\n56410 Montabaur\nDeutschland",
-    "phone": "+49 900 1 93 23 30",
+    "phone": "+49 721 960 97 40",
     "email": "datenschutz@webde.de",
     "web": "https://web.de/",
     "sources": [
-        "https://agb.web.de/Datenschutzerklaerung/AGB/20170227/",
-        "https://web.de/impressum/"
-    ],
-    "comments": [
-        "Achtung: Telefonnummer ist kostenpflichtig (3,99 EUR pro Anruf – nur aus dem deutschen Festnetz erreichbar)!"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://agb-server.web.de/datenschutz",
+        "https://web.de/impressum/",
+        "https://produkte.web.de",
+        "https://github.com/datenanfragen/data/pull/1339"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

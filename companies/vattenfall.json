@@ -1,5 +1,8 @@
 {
     "slug": "vattenfall",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "utility"
     ],
@@ -13,16 +16,13 @@
         "Vattenfall Smarter Living GmbH",
         "Mein Vattenfall"
     ],
-    "address": "Chausseestraße 23\n10115 Berlin\nDeutschland",
-    "phone": "+49 40 657 988 000",
+    "address": "Überseering 12\n22297 Hamburg\nDeutschland",
+    "phone": "+49 800 992 5000",
     "email": "datenschutz@vattenfall.de",
     "web": "https://www.vattenfall.de/",
     "sources": [
-        "https://www.vattenfall.de/de/datenschutz.htm",
-        "https://www.vattenfall.de/de/impressum.htm"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.vattenfall.de/datenschutz",
+        "https://www.vattenfall.de/kundenservice-kontakt"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

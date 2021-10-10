@@ -13,7 +13,7 @@
     "email": "datenschutz@bbk.bund.de",
     "web": "https://www.bbk.bund.de",
     "sources": [
-        "https://www.bbk.bund.de/DE/Servicefunktionen/Datenschutz/Datenschutzbestimmungen_node.html"
+        "https://www.bbk.bund.de/DE/Service/Datenschutz/datenschutz_node.html"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

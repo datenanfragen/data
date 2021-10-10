@@ -1,15 +1,16 @@
-Aan wie het aanbelangt:
+Geachte,
 
 Ik verzoek hierbij om toegang overeenkomstig met artikel 15 AVG. Bevestig alstublieft of u al dan niet persoonlijke gegevens (zoals gedefinieerd in artikel 4, leden 1 en 2, AVG) over mij verwerkt.
 
-In het geval dat u dat doet, vraag ik hierbij toegang tot de volgende informatie overeenkomstig met artikel 15 AVG:
-1. <italic>alle</italic> aan mij toebehorende persoonlijke gegeven die u over mij heeft opgeslagen;
-2. het doel van de gegevensverwerking;
-3. de categorieën van de betrokken persoonlijke gegevens;
-4. de ontvangers of categorieën van ontvangers aan wie de persoonlijke gegevens zijn of zullen worden bekendgemaakt;
-5. waar mogelijk, de beoogde periode waarvoor de persoonlijke gegevens worden opgeslagen, of, indien niet mogelijk, de criteria die worden gebruikt om die periode te bepalen;
-6. waar de data niet direct van de betrokkene verzameld is, alle beschikbare informatie over de bron;
-7. het bestaan van geautomatiseerde besluitvorming, inclusief profilering, als bedoeld in artikel 22, leden 1 en 4, AVG en, althans in die gevallen, zinvolle informatie over de betrokken logica, evenals het belang en de beoogde gevolgen van dergelijke verwerking voor mij.
+In het geval dat u dat doet, vraag ik hierbij, in overeenstemming met art. 15, lid 3 AVG, een kopie van <italic>alle</italic> persoonlijke gegevens over mij die u verwerkt, inclusief eventuele gepseudonimiseerde gegevens over mij volgens artikel 4, lid 5, AVG. Ik verzoek verder om toegang tot de volgende informatie op grond van artikel 15, lid 1, AVG:
+1. het doel van de gegevensverwerking;
+2. de categorieën van de betrokken persoonlijke gegevens;
+3. de ontvangers of categorieën van ontvangers aan wie de persoonlijke gegevens zijn of zullen worden verstrekt;
+4. waar mogelijk, de beoogde periode waarvoor de persoonlijke gegevens worden opgeslagen, of, indien niet mogelijk, de criteria die worden gebruikt om die periode te bepalen;
+5. in de gevallen waar de persoonsgegevens niet bij de betrokkene worden verzameld, alle beschikbare informatie over hun bron;
+6. het bestaan van geautomatiseerde besluitvorming, inclusief profilering, zoals vermeld in artikel 22, leden 1 en 4, AVG en, tenminste in die gevallen, zinvolle informatie over de betrokken logica, evenals het belang en de beoogde gevolgen van dergelijke verwerking voor mij.
+
+Indien u geanonimiseerde gegevens over mij verwerkt, verzoek ik om hierover geïnformeerd te worden en verzoek ik dat de gebruikte procedure op een gemakkelijk te begrijpen manier uitgelegd wordt.
 
 Als u mijn persoonlijke gegevens overdraagt naar een derde land of een internationale organisatie, verzoek ik om te worden geïnformeerd over de passende waarborgen overeenkomstig met artikel 46 AVG betreffende de overdracht.
 [data_portability>
@@ -17,12 +18,14 @@ Stel alstublieft de persoonlijke gegevens over mij, die ik u heb verstrekt, voor
 ]
 Mijn verzoek omvat expliciet [runs>het volgende, evenals ]alle andere services en bedrijven waarvoor u de controleur bent zoals gedefinieerd in artikel 4, lid 7, AVG[runs>: {runs_list}].
 
-Zoals bepaald in Artikel 12, lid 3 AVG, you have to provide the requested information to me without undue delay and in any event within one month of receipt of the request. According to Article 15(3) GDPR, moet u mij de gevraagde informatie verstrekken zonder onnodige vertraging en in elk geval binnen een maand na ontvangst van het verzoek. Volgens artikel 15, lid 3, AVG moet u dit verzoek zonder kosten voor mij beantwoorden.
+Zoals bepaald in artikel 12, lid 3, AVG, moet u mij de gevraagde informatie verstrekken zonder onnodige vertraging en in elk geval binnen een maand na ontvangst van het verzoek. Volgens artikel 15, lid 3, AVG moet u dit verzoek zonder kosten voor mij beantwoorden.
 
-Vriendlijk verzoek ik u om mij te vertellen welke informatie (cookie nummer, apparaatkenmerk, etc.) nodig is voor u om mijn identiteit vast te stellen en hoe ik die informatie kan verkrijgen.
+Vriendlijk verzoek ik u om mij te vertellen welke informatie (cookie ID, apparaatkenmerk, etc.) nodig is voor u om mijn identiteit vast te stellen en hoe ik die informatie kan verkrijgen.
 [has_fields>
 Mijn contactgegevens zijn:
 {id_data}]
-Als u mijn verzoek niet binnen de gestelde termijn beantwoordt, behoud ik het recht voor om gerechtelijke stappen tegen u te ondernemen en een klacht in te dienen bij de verantwoordelijke toezichthoudende autoriteit.
+Als u mijn verzoek niet binnen de vermelde periode beantwoordt, behoud ik het recht om juridische stappen te ondernemen en een klacht tegen u in te dienen bij de daarvoor verantwoordelijke toezichthoudende autoriteit.
+
+Bij voorbaat dank,
 
 Hoogachtend,

@@ -13,7 +13,11 @@
         "Vodafone Kabel Deutschland GmbH (ehem.)",
         "EDEKA mobil (www.edeka-mobil.de)",
         "otelo (www.otelo.de)",
-        "Vodafone Deutschland GmbH"
+        "Vodafone Deutschland GmbH",
+        "Unitymedia GmbH (ehem.)",
+        "Unitymedia NRW GmbH (ehem.)",
+        "Unitymedia Hessen GmbH & Co. KG (ehem.)",
+        "Unitymedia BW GmbH (ehem.)"
     ],
     "address": "Ferdinand-Braun-Platz 1\n40549 Düsseldorf\nDeutschland",
     "phone": "+49 800 172 12 12",
@@ -29,7 +33,11 @@
         "https://www.vodafone.de/unternehmen/verantwortung/datenschutz-im-dialog.html",
         "https://github.com/datenanfragen/data/issues/12",
         "https://github.com/datenanfragen/data/pull/1131",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1456353&land_abk=by"
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1456353&land_abk=by",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754026&land_abk=nw",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1753698&land_abk=nw",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754700&land_abk=nw",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754124&land_abk=nw"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

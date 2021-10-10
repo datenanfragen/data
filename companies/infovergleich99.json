@@ -1,0 +1,20 @@
+{
+    "slug": "infovergleich99",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "INFOVERGLEICH99 UG",
+    "address": "Zimmerstraße 78\n10117 Berlin\nDeutschland",
+    "phone": "+49 30 255583655",
+    "email": "datenschutz@infovergleich99.de",
+    "web": "https://www.infovergleich99.de",
+    "sources": [
+        "https://www.infovergleich99.de/datenschutzerklarung",
+        "https://github.com/datenanfragen/data/pull/1206"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

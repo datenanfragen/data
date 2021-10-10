@@ -9,7 +9,7 @@
     "name": "Momentum Studio Ltd",
     "address": "Unit 4 Windsor Road\nRedditch\nB97 6DJ\nUnited Kingdom",
     "phone": "+44 330 229 0013",
-    "email": "gdpr@momentum.studio",
+    "email": "info@momentum.studio",
     "web": "https://momentum.studio",
     "sources": [
         "https://github.com/datenanfragen/data/issues/202",
@@ -28,6 +28,5 @@
         }
     ],
     "needs-id-document": true,
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -8,16 +8,14 @@
     ],
     "name": "Quantcast International Ltd.",
     "address": "Beaux Lane House\nLower Mercer Street\n1st Floor\nDublin 2\nIreland",
-    "email": "privacy.qil@quantcast.com",
     "web": "https://www.quantcast.com",
     "sources": [
         "https://www.quantcast.com/privacy/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email",
     "comments": [
-        "Alternative email for the DPO: dpo@quantcast.com"
+        "Web form for requests: https://www.quantcast.com/privacy/#contact-legal-dpo"
     ],
     "quality": "verified"
 }
