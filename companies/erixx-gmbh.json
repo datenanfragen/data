@@ -1,0 +1,13 @@
+{
+    "slug": "erixx-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "erixx GmbH",
+    "address": "Biermannstraße 33\n29221 Celle",
+    "sources": [
+        "https://www.erixx.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1434"
+    ],
+    "quality": "verified"
+}
