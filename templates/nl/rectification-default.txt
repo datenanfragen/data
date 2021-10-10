@@ -1,0 +1,19 @@
+Geachte,
+
+Ik verzoek hierbij om rectificatie of aanvulling van onjuiste persoonlijke gegevens over mij in overeenstemming met artikel 16 AVG.
+
+Ik zou graag willen dat de volgende wijzigingen aangebracht worden:
+{rectification_data}
+In het geval dat u de betrokken persoonlijke gegevens aan een of meer ontvangers hebt bekendgemaakt zoals gedefinieerd in artikel 4(9) AVG, moet u mijn verzoek tot rectificatie van de betrokken persoonlijke gegevens aan elke ontvanger meedelen zoals bepaald in artikel 19 AVG. Gelieve mij ook te informeren over die ontvangers.
+
+Mijn verzoek omvat expliciet [runs>het volgende, evenals ]alle andere diensten en bedrijven waarvoor u de verwerkingsverantwoordelijke bent zoals gedefinieerd in artikel 4(7) AVG[runs>: {runs_list}].
+
+Zoals beschreven in artikel 12, lid 3 AVG, dient u mij zonder onnodige vertraging en in ieder geval binnen een maand na ontvangst van het verzoek de rectificatie of aanvulling te bevestigen.
+[has_fields>
+Ik neem de volgende informatie op die nodig is om mij te identificeren:
+{id_data}]
+Als u mijn verzoek niet binnen de vermelde periode beantwoordt, behoud ik het recht om juridische stappen te ondernemen en een klacht tegen u in te dienen bij de daarvoor verantwoordelijke toezichthoudende autoriteit.
+
+Bij voorbaat dank.
+
+Hoogachtend,

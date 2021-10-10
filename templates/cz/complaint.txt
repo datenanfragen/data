@@ -1,0 +1,13 @@
+Dobrý den, 
+
+tímto podávám stížnost podle článku 77 Obecného nařízení o ochraně osobních údajů (GDPR). Dne {request_date} jsem poslal žádost podle článku {request_article} GDPR následujícímu správci osobních údajů:
+{request_recipient_address}
+
+{Popis přestupků správce osobních údajů a kroky, které jste učinil(a) (např. námitky nebo jiná korespondence včetně doručenek)}. 
+
+Proto podávám stížnost k Vašemu úřadu. Prosím zkontrolujte postup správce a přimějte je k uznání mé žádosti.
+
+Pokud potřebujete více detailů, neváhejte se na mě obrátit. Můžete mě kontaktovat prostřednictvím {popis způsobů, jak Vás kontaktovat, např. emailová adresa, poštovní adresa, telefonní číslo}. [optional: Prosím zachovejte tyto informace jako soukromé k zachování mé anonymity.]
+Děkuji předem za Vaši pomoc.
+
+S pozdravem,

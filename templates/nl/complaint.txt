@@ -1,6 +1,6 @@
-Aan wie het aanbelangt:
+Geachte,
 
-Ik dien hierbij een klacht in op grond van artikel 77 GDPR. Op {request_date}, heb ik een verzoek verstuurd zoals beschreven in artikel {request_article} GDPR aan de volgende verantwoordelijke:
+Ik dien hierbij een klacht in op grond van artikel 77 AVG. Op {request_date}, heb ik een verzoek verstuurd zoals beschreven in artikel {request_article} AVG aan de volgende verantwoordelijke:
 {request_recipient_address}
 
 {Beschrijving van de overtredingen door de verantwoordelijke en de stappen die u ondernomen hebt (bijv. vermaningen of andere correspondentie, inclusief ontvangstbewijzen)}.
