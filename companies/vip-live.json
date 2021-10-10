@@ -11,7 +11,7 @@
     "email": "info@vip-live.de",
     "web": "https://vip-live.de",
     "sources": [
-        "https://vip-live.de/impress.html",
+        "https://vip-live.de/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/1346"
     ],
     "required-elements": [
