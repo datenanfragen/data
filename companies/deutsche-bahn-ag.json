@@ -3,11 +3,18 @@
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "travel"
+    ],
     "name": "Deutsche Bahn AG",
-    "address": "Potsdamer Platz 2\n10785 Berlin",
+    "address": "Potsdamer Platz 2\n10785 Berlin\nDeutschland",
+    "email": "konzerndatenschutz@deutschebahn.com",
+    "web": "https://www.deutschebahn.com",
     "sources": [
         "https://www.deutschebahn.com/de/impressum-1198294",
+        "https://www.deutschebahn.com/de/datenschutzgrundsatz-1198262",
         "https://github.com/datenanfragen/data/pull/1433"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
