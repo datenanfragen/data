@@ -1,0 +1,13 @@
+{
+    "slug": "deutsche-rentenversicherung-nord",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Deutsche Rentenversicherung Nord",
+    "address": "Ziegelstraße 150\n23556 Lübeck",
+    "sources": [
+        "https://www.deutsche-rentenversicherung.de/Nord/DE/Service/Footer/Impressum/impressum_node.html",
+        "https://github.com/datenanfragen/data/pull/1430"
+    ],
+    "quality": "verified"
+}
