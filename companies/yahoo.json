@@ -1,0 +1,46 @@
+{
+    "slug": "yahoo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads",
+        "entertainment",
+        "social media",
+        "telecommunication"
+    ],
+    "name": "Yahoo EMEA",
+    "runs": [
+        "Verizon Media (former holding company)",
+        "Oath (formerly)",
+        "Flurry Mobile App Analytics (www.flurry.com)",
+        "Yahoo! (www.yahoo.com)",
+        "Yahoo! Mail (mail.yahoo.com)",
+        "Aol. (www.aol.com)",
+        "TechCrunch (techcrunch.com)",
+        "Engadget (www.engadget.com)",
+        "Autoblog (www.autoblog.com)",
+        "In The Know (www.intheknow.com)",
+        "Rivals (www.rivals.com)",
+        "Built by Girls (www.builtbygirls.com)"
+    ],
+    "address": "5-7 Point Square\nNorth Wall Quay\nDublin 1\nIreland",
+    "phone": "+353 1 614 5000",
+    "email": "GDPRRepresentative@mhc.ie",
+    "web": "https://www.yahooinc.com",
+    "sources": [
+        "https://legal.yahoo.com/us/en/yahoo/privacy/index.html",
+        "https://www.yahooinc.com/our-brands/"
+    ],
+    "required-elements": [
+        {
+            "desc": "Email or Yahoo ID",
+            "type": "name",
+            "optional": false
+        }
+    ],
+    "comments": [
+        "The best way is to submit an inquiry via their web form:\nhttps://io.help.yahoo.com/contact/index?page=contactform&locale=en_US&token=Zh/BBVqXzLHlIbokbUqVWTUbuuQeXGkGnZzhKR2JQ4O6mMQdy9JSWfJCJWvc4C3/4ml2UKrHQ0nko7rLtSR524MJxCBJKi0QupzNgfCBzntg9dSBRYOublwVE756J6MoPaeCIytHoug=&selectedChannel=email-icon"
+    ],
+    "quality": "verified"
+}
