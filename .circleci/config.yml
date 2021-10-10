@@ -58,7 +58,12 @@ jobs:
             key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
         - run: yarn ts-node src/test-records.ts --autofix
         # https://github.com/reviewdog/reviewdog#diff
-        - run: F=${mktemp} && git diff > "${F}" && git stash -u && git stash drop && ./bin/reviewdog -f=diff -f.diff.strip=1 -reporter=github-pr-review < "${F}"
+        - run: F=${mktemp} 
+        - run: echo "${F}
+        - run: git diff > "${F}"
+        - run: git stash -u
+        - run: git stash drop
+        - run: ./bin/reviewdog -f=diff -f.diff.strip=1 -reporter=github-pr-review < "${F}"
 
 
 workflows:
