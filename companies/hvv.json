@@ -19,7 +19,7 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "email",
+            "type": "name",
             "optional": false
         },
         {
