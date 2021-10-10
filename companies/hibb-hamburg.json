@@ -1,0 +1,27 @@
+{
+    "slug": "hibb-hamburg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body",
+        "school",
+        null
+    ],
+    "name": "Hamburger Institut für Berufliche Bildung (HIBB)",
+    "runs": [
+        "Berufliche Schulen in Hamburg",
+        "Jugendberufsagentur Hamburg",
+        null
+    ],
+    "address": "Hamburger Straße 131\n22083 Hamburg",
+    "phone": "040428 63-21 31",
+    "email": "sandra.garbade@hibb.hamburg.de",
+    "web": "https://hibb.hamburg.de",
+    "sources": [
+        "https://hibb.hamburg.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1420"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
