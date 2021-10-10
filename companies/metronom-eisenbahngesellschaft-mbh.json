@@ -1,0 +1,17 @@
+{
+    "slug": "metronom-eisenbahngesellschaft-mbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "metronom Eisenbahngesellschaft mbH",
+    "address": "St.-Viti-Str. 15\n29525 Uelzen",
+    "sources": [
+        "https://www.der-metronom.de/impressum/",
+        "https://www.der-metronom.de/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/1428"
+    ],
+    "quality": "verified"
+}
