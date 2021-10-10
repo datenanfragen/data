@@ -17,6 +17,7 @@
     "sources": [
         "https://www.hackerone.com/privacy"
     ],
+    "request-language": "en",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
