@@ -4,6 +4,8 @@ Con la presente mi oppongo al trattamento dei dati personali che mi riguardano p
 
 Se ho dato il mio consenso al trattamento dei miei dati personali per scopi di marketing diretto (ad es. ai sensi dell'Articolo 6(1) o dell'Articolo 9(2) del GDPR), con la presente revoco tale consenso.
 
+Per favore comunicatemi preventivamente se l'obiezione risulterà nella cancellazione di un account che io potrei avere con voi, nella cancellazione di un contratto che io potrei avere con voi, o in conseguenze simili. Deciderò dunque se questa operazione debba essere effettuata.
+
 La mia richiesta include esplicitamente [runs>il seguente così come ]qualsiasi altro servizio e compagnia dei quali voi siete titolari del trattamento come definito dall'Articolo 4(7) del GDPR[runs>: {runs_list}].
 
 Secondo l'Articolo 12(3) del GDPR, è necessario confermare la mia opposizione senza indugio, al più tardi entro un mese dal ricevimento della richiesta.

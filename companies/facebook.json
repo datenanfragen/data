@@ -9,7 +9,10 @@
     ],
     "name": "Facebook Ireland Ltd.",
     "runs": [
-        "Facebook, Inc."
+        "Facebook, Inc.",
+        "Messenger (www.messenger.com)",
+        "Facebook Audience Network",
+        "Spark AR"
     ],
     "address": "4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
     "web": "https://www.facebook.com/",
@@ -21,7 +24,10 @@
         "https://github.com/datenanfragen/data/issues/92",
         "https://github.com/datenanfragen/data/issues/93",
         "https://www.facebook.com/help/contact/2032834846972583",
-        "https://github.com/datenanfragen/data/pull/974"
+        "https://github.com/datenanfragen/data/pull/974",
+        "https://www.facebook.com/help/1561485474074139?ref=dp",
+        "https://www.facebook.com/audiencenetwork/",
+        "https://sparkar.facebook.com/ar-studio/"
     ],
     "comments": [
         "Various privacy controls (including the ability to download your data as HTML or JSON) are available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information",
