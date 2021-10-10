@@ -1,0 +1,15 @@
+{
+    "slug": "handwerkskammer-hamburg",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Handwerkskammer Hamburg",
+    "address": "Holstenwall 12\n20355 Hamburg",
+    "email": "datenschutz@hwk-hamburg.de",
+    "sources": [
+        "https://www.hwk-hamburg.de/artikel/impressum-93,8,8.html",
+        "https://www.hwk-hamburg.de/artikel/datenschutz-7-93,29,7.html",
+        "https://github.com/datenanfragen/data/pull/1427"
+    ],
+    "quality": "verified"
+}
