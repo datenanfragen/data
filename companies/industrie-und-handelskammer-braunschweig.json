@@ -1,0 +1,13 @@
+{
+    "slug": "industrie-und-handelskammer-braunschweig",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": " Industrie- und Handelskammer Braunschweig ",
+    "address": "Brabandtstraße 11\n38100 Braunschweig ",
+    "sources": [
+        "https://www.braunschweig.ihk.de/impressum-4047344",
+        "https://github.com/datenanfragen/data/pull/1422"
+    ],
+    "quality": "verified"
+}
