@@ -1,5 +1,8 @@
 {
     "slug": "monzo-gb",
+    "relevant-countries": [
+        "gb"
+    ],
     "categories": [
         "finance"
     ],
@@ -11,9 +14,6 @@
     "sources": [
         "https://monzo.com/legal/privacy-notice",
         "https://monzo.com/help/"
-    ],
-    "relevant-countries": [
-        "gb"
     ],
     "quality": "verified"
 }
