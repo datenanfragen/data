@@ -1,0 +1,20 @@
+{
+    "slug": "fyber",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Fyber N.V.",
+    "address": "Wallstraße 9-13\n10179 Berlin\nGermany",
+    "email": "privacy2021@fyber.com.",
+    "web": "https://www.fyber.com/",
+    "sources": [
+        "https://www.fyber.com/website-privacy-policy/"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email",
+    "custom-access-template": "access-tracking", 
+    "quality": "verified"
+}
