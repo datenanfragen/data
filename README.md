@@ -8,6 +8,8 @@ It is used to power the Datenanfragen.de company database but we warmly welcome 
 Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you to contribute whatever information you have. You can add new records or edit existing ones directly through the [company database](https://www.datarequests.org/company/) on our website.  
 If you want to edit many companies or do more involved edits, we recommend submitting pull requests directly to this repo (feel free to group changes to multiple records in a single PR). We have developed [this tool](https://company-json.netlify.com/) to make generating valid JSON records easier.
 
+You can chat with us through our [Matrix space](https://matrix.to/#/#datenanfragen:matrix.altpeter.me) and our [dedicated room for the company database](https://matrix.to/#/#dade-company:matrix.altpeter.me). Feel free to ask questions, pitch your ideas, or just talk with the community.
+
 Please be aware that by contributing, you agree for your work to be released under a Creative Commons CC0 1.0 Universal license, as specified in the `LICENSE` file.
 
 ### Testing records

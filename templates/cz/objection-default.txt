@@ -1,0 +1,19 @@
+Dobrý den, 
+
+tímto vznáším námitku proti zpracování osobních údajů týkajících se mé osoby za účelem přímého marketingu podle článku 21, odst. 2 Obecného nařízení o ochraně osobních údajů (GDPR). Tato námitka zahrnuje použití profilování, pokud se týká přímého marketingu.
+
+Pokud jsem udělil souhlas ke zpracování osobních údajů za účelem přímého marketingu (např. podle článku článku 6, odst. 1 nebo článku 9, odst. 2 GDPR), tímto odvolávám tento souhlas.
+
+Prosím o informování mě v předstihu, pokud tato námitka povede ke smazání mého účtu, který u Vás mám, zrušení smlouvy a tak podobně. V případě, že ano, rozhodnu, zda k tomu má dojít.
+
+Moje žádost explicitně zahrnuje [runs>následující stejně jako ]jakékoliv další služby a společnosti, pro které jste správcem osobních údajů podle článku 4, odst. 7 GDPR[runs>: {runs_list}].
+
+Jak je stanoveno v článku 12, odst. 3 GDPR, máte povinnost mi potvrdit námitku bez zbytečného odkladu a v každém případě do jednoho měsíce od obdržení žádosti. 
+
+Přikládám následující informace nezbytné k identifikování mé osoby:
+{id_data}
+Pokud neodpovíte na moji žádost ve stanovené lhůtě, vyhrazuji si právo učinit právní kroky a podat stížnost k odpovídajícímu kontrolnímu orgánu.
+
+Předem děkuji.
+
+S pozdravem,
