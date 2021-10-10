@@ -1,0 +1,24 @@
+{
+    "slug": "ihk-muenchen",
+    "relevant-countries": [
+        "de",
+        null
+    ],
+    "categories": [
+        "school",
+        "commerce",
+        "public body",
+        null
+    ],
+    "name": "Industrie- und Handelskammer für München und Oberbayern",
+    "address": "Max-Joseph-Straße 2\n80333 München",
+    "email": "info@muenchen.ihk.de",
+    "web": "https://www.ihk-muenchen.de",
+    "sources": [
+        "https://www.ihk-muenchen.de/de/%C3%9Cber-uns/Impressum.html",
+        "https://www.ihk-muenchen.de/informationspflichten-datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1421"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
