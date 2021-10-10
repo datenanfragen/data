@@ -1,0 +1,13 @@
+{
+    "slug": "deutsche-bahn-ag",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Deutsche Bahn AG",
+    "address": "Potsdamer Platz 2\n10785 Berlin",
+    "sources": [
+        "https://www.deutschebahn.com/de/impressum-1198294",
+        "https://github.com/datenanfragen/data/pull/1433"
+    ],
+    "quality": "verified"
+}
