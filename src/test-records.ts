@@ -86,7 +86,7 @@ const validate = (
             } else console.error(event);
         }
     }
-
+    // TODO: filter for type 'error'. In the feature we might have autofixes or other events without errors.
     if (Object.values(events).flat().length > 0) process.exit(1);
 };
 
