@@ -1,0 +1,13 @@
+{
+    "slug": "psd-bank-nord-eg",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "PSD Bank Nord eG",
+    "address": "Schloßstraße 10\n22041 Hamburg",
+    "sources": [
+        "https://www.psd-nord.de/spezialseiten/impressum/c413.html",
+        "https://github.com/datenanfragen/data/pull/1435"
+    ],
+    "quality": "verified"
+}
