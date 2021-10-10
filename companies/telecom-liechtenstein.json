@@ -1,0 +1,22 @@
+{
+    "slug": "telecom-liechtenstein",
+    "relevant-countries": [
+        "li"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Telecom Liechtenstein AG",
+    "runs": [
+        "FL1"
+    ],
+    "address": "Schaanerstrasse 1\n9490 Vaduz\nLiechtenstein",
+    "phone": "+423 237 74 00",
+    "email": "FL1@telecom.li",
+    "web": "https://fl1.li/",
+    "sources": [
+        "https://fl1.li/de/datenschutz",
+        "https://fl1.li/media/3656/download/FL1_Datenschutzerkl%C3%A4rung_20_07_2018%20%281%29.pdf?v=4"
+    ],
+    "quality": "verified"
+}

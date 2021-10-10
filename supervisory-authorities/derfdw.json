@@ -1,0 +1,17 @@
+{
+    "slug": "derfdw",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Rundfunkdatenschutzbeauftragter Deutsche Welle",
+    "address": "Kurt-Schumacher-Straße 3\n53113 Bonn\nDeutschland",
+    "phone": "+49 228 4292123",
+    "fax": "+49 228 4292120",
+    "email": "datenschutz@dw.com",
+    "web": "https://www.dw.com/de/datenschutzbericht/a-16130989",
+    "sources": [
+        "https://www.rundfunkdatenschutzkonferenz.de/kontakt",
+        "https://www.bfdi.bund.de/SharedDocs/Adressen/DE/Rundfunkdatenschutzbeauftragte/DatenschutzbeauftragterDeutscheWelle.html"
+    ],
+    "suggested-transport-medium": "email"
+}

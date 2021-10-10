@@ -1,28 +1,28 @@
 {
     "slug": "deutsche-bahn",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "travel"
     ],
     "name": "DB Vertrieb GmbH",
     "runs": [
-        "Deutsche Bahn Mobilitätsportal (www.bahn.de)",
+        "bahn.de",
         "BahnCard",
         "bahn.bonus",
         "Meine Bahn",
         "DB Navigator",
-        "DB Regio AG (www.dbregio.de)",
+        "DB Regio AG",
         "DB Fernverkehr AG"
     ],
-    "address": "Stephensonstraße 1\n60326 Frankfurt\nDeutschland",
-    "phone": "+49 89 1308 1477",
+    "address": "Europa-Allee 78-84\n60486 Frankfurt\nDeutschland",
+    "phone": "+49 30 2970",
     "email": "ecommerce-datenschutz@bahn.de",
     "web": "https://www.bahn.de",
     "sources": [
-        "https://www.bahn.de/p/view/home/datenschutz/schutz.shtml",
-        "https://www.bahn.de/p/view/home/info/impressum.shtml"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.bahn.de/datenschutz",
+        "https://www.bahn.de/impressum"
     ],
     "required-elements": [
         {
@@ -36,5 +36,5 @@
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
