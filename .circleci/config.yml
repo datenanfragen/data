@@ -59,7 +59,7 @@ jobs:
         - run: yarn ts-node src/test-records.ts --autofix
         # https://github.com/reviewdog/reviewdog#diff
         - run: F=${mktemp} 
-        - run: echo "${F}"
+        - run: echo "oh no: >${F}<"
         - run: git diff > "${F}"
         - run: git stash -u
         - run: git stash drop
