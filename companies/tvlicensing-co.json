@@ -1,0 +1,23 @@
+{
+    "slug": "tvlicensing-co",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "TV Licensing",
+    "address": "BBC TV Licensing Management Team\nBroadcast Centre BC2 C6\nWhite City Place\n201 Wood Lane\nLondon \nW12 7TP",
+    "email": "DataProtection.Officer@bbc.co.uk",
+    "web": "https://www.tvlicensing.co.uk/",
+    "sources": [
+        "https://www.tvlicensing.co.uk/privacy-security-policies",
+        "https://www.bbc.co.uk/privacy/",
+        "https://github.com/datenanfragen/data/pull/1440"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "The British Broadcasting Corporations ICO registration number is Z517352X"
+    ],
+    "quality": "verified"
+}
