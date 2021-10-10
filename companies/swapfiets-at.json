@@ -1,0 +1,17 @@
+{
+    "slug": "swapfiets-at",
+    "relevant-countries": [
+        "at"
+    ],
+    "name": "Swapfiets Austria GmbH",
+    "address": "Stubenring 24\n1010 Wien\nÖsterreich",
+    "phone": "+43 1 4170593",
+    "email": "privacy@swapfiets.com",
+    "web": "https://swapfiets.at/",
+    "sources": [
+        "https://swapfiets.at/privacy",
+        "https://help.swapfiets.at/hc/de-at"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

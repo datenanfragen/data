@@ -1,0 +1,19 @@
+Dobrý den, 
+
+tímto žádám o opravu nebo doplnění nepřesných osobních údajů týkajících se mé osoby podle článku 16 Obecného nařízení o ochraně osobních údajů (GDPR).
+
+Prosím o provedení následujících změn:
+{rectification_data}
+V případě, že jste sdělili dotčené osobní údaje jednomu nebo více příjemcům definovných článkem 4, odst. 9 GDPR, máte povinnosti sdělit moji žádost o opravu dotčených osobních údajů každému příjemci, jak stanovuje článek 19 GDPR. Prosím informujte mě o těchto příjemcích. 
+
+Moje žádost explicitně zahrnuje [runs>následující stejně jako ]jakékoliv další služby a společnosti, pro které jste správcem osobních údajů podle článku 4, odst. 7 GDPR[runs>: {runs_list}].
+
+Jak je stanoveno v článku 12, odst. 3 GDPR, máte povinnost mi potvrdit opravu bez zbytečného odkladu a v každém případě do jednoho měsíce od obdržení žádosti.
+[has_fields>
+Přikládám následující informace nezbytné k identifikování mé osoby:
+{id_data}]
+Pokud neodpovíte na moji žádost ve stanovené lhůtě, vyhrazuji si právo učinit právní kroky a podat stížnost k odpovídajícímu kontrolnímu orgánu.
+
+Předem děkuji.
+
+S pozdravem,
