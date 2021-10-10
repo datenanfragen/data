@@ -1,0 +1,20 @@
+{
+    "slug": "monzo-gb",
+    "categories": [
+        "finance"
+    ],
+    "name": "Monzo Bank Limited",
+    "address": "Broadwalk House\n5 Appold Street\nLondon\nEC2A 2DA\nUnited Kingdom",
+    "phone": "+44 0800 802 1281",
+    "email": "help@monzo.com",
+    "web": "https://monzo.com",
+    "sources": [
+        "https://monzo.com/legal/privacy-notice",
+        "https://monzo.com/help/"
+    ],
+    "relevant-countries": [
+        "gb"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
