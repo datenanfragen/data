@@ -12,6 +12,7 @@
     "sources": [
         "https://retargetly.com/privacy-policy"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "quality": "verified"
 }

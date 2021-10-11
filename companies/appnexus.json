@@ -12,6 +12,7 @@
     "sources": [
         "https://www.appnexus.com/platform-privacy-policy"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "quality": "verified"
 }

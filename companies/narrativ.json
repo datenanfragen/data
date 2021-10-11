@@ -14,6 +14,7 @@
         "https://dashboard.narrativ.com/v2/privacy-policy",
         "https://www.linkedin.com/company/hello-narrativ"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

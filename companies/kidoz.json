@@ -14,6 +14,7 @@
     "sources": [
         "https://kidoz.net/website-and-kidoz-sdk-privacy-policy/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

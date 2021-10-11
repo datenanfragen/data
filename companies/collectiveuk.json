@@ -14,7 +14,7 @@
     "sources": [
         "https://collectivedemos.com/collectiveuk.com/privacy.html"
     ],
-    "custom-access-template": "access-tracking",
     "request-language": "en",
+    "custom-access-template": "access-tracking",
     "quality": "verified"
 }

@@ -19,6 +19,7 @@
         "https://www.placeiq.com/privacy/",
         "https://www.placeiq.com/2020/04/placeiq-acquires-location-data-and-foot-traffic-measurement-business-freckleiot/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

@@ -18,8 +18,8 @@
         "https://www.faceapp.com/privacy",
         "https://www.faceapp.com/terms"
     ],
-    "custom-access-template": "access-tracking",
     "request-language": "en",
+    "custom-access-template": "access-tracking",
     "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "verified"
