@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "Datenanfragen.de company database record",
-    "description": "A single record of the Datenanfragen.de company database. It represents the contact information of a company (or other organization) specifically for privacy-related inquires and requests.\nMore information and access to the whole database at: https://github.com/datenanfragen/data",
+    "description": "A single record of the Datenanfragen.de company database. It represents the contact information of a company (or other organization) specifically for privacy-related inquiries and requests.\nMore information and access to the whole database at: https://github.com/datenanfragen/data",
     "type": "object",
     "properties": {
         "slug": {
@@ -49,25 +49,25 @@
         "address": {
             "type": "string",
             "title": "Address",
-            "description": "The address where the company can be reached for privacy-related inquires and requests. Has to include the country (either in the country's native language or in English) in the last line and should be formatted according to the standards of the respective country.",
+            "description": "The address where the company can be reached for privacy-related inquiries and requests. Has to include the country (either in the country's native language or in English) in the last line and should be formatted according to the standards of the respective country.",
             "format": "text"
         },
         "phone": {
             "type": "string",
             "title": "Phone",
-            "description": "A phone number where the company can be reached for privacy-related inquires and requests. Has to be in the standard international format and include the country code.",
+            "description": "A phone number where the company can be reached for privacy-related inquiries and requests. Has to be in the standard international format and include the country code.",
             "pattern": "^\\+\\d+ \\d+ (?:\\d+ )*\\d+(?: ext\\. \\d+)?$"
         },
         "fax": {
             "type": "string",
             "title": "Fax",
-            "description": "A fax number where the company can be reached for privacy-related inquires and requests. Has to be in the standard international format and include the country code.",
+            "description": "A fax number where the company can be reached for privacy-related inquiries and requests. Has to be in the standard international format and include the country code.",
             "pattern": "^\\+\\d+ \\d+ (?:\\d+ )*\\d+(?: ext\\. \\d+)?$"
         },
         "email": {
             "type": "string",
             "title": "Email",
-            "description": "An email address where the company can be reached for privacy-related inquires and requests. Preferably a specific privacy@[domain.tld] address if available.",
+            "description": "An email address where the company can be reached for privacy-related inquiries and requests. Preferably a specific privacy@[domain.tld] address if available.",
             "format": "idn-email"
         },
         "webform": {
@@ -79,13 +79,13 @@
         "pgp-fingerprint": {
             "type": "string",
             "title": "PGP fingerprint",
-            "description": "Fingerprint of the PGP key of the email address used to send privacy-related inquires and requests to the company. The PGP key should be found by this key on public keyservers. Please check the key thoroughly before entering it.",
+            "description": "Fingerprint of the PGP key of the email address used to send privacy-related inquiries and requests to the company. The PGP key should be found by this key on public keyservers. Please check the key thoroughly before entering it.",
             "pattern": "^([0-9A-F]{4} ){5}( [0-9A-F]{4}){5}$"
         },
         "pgp-url": {
             "type": "string",
             "title": "PGP URL",
-            "description": "URL, where the PGP key of the email address used to send privacy-related inquires and requests to the company can be downloaded. The protocol *must* be https and the domain has to belong to the repective authority. Please check the key thoroughly before entering it.",
+            "description": "URL, where the PGP key of the email address used to send privacy-related inquiries and requests to the company can be downloaded. The protocol *must* be https and the domain has to belong to the repective authority. Please check the key thoroughly before entering it.",
             "format": "uri"
         },
         "web": {
@@ -169,7 +169,7 @@
         "suggested-transport-medium": {
             "type": "string",
             "title": "Suggested transport medium",
-            "description": "The transport medium a user should use for their privacy-related inquires and requests. If a specific privacy@[domain.tld] email address is available, 'email' should be specified. If no value is specified, the default is 'email' if the record has an email address specified or 'letter' otherwise.",
+            "description": "The transport medium a user should use for their privacy-related inquiries and requests. If a specific privacy@[domain.tld] email address is available, 'email' should be specified. If no value is specified, the default is 'email' if the record has an email address specified or 'letter' otherwise.",
             "enum": [ "fax", "letter", "email" ]
         },
         "comments": {
