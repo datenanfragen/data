@@ -8,7 +8,8 @@
     ],
     "name": "CSV Computer - Service & Vertrieb",
     "runs": [
-        "CSV.de"
+        "CSV.de",
+        "csv-direct.de"
     ],
     "address": "Zitadellenweg 28\n13599 Berlin\nDeutschland",
     "phone": "+49 30 3377350",
