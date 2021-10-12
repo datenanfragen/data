@@ -51,7 +51,7 @@ jobs:
         - run: sudo apt update
         - run: sudo apt install golang
         # https://github.com/reviewdog/reviewdog#circle-ci
-        - run: curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b ./bin
+        - run: curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b ~/bin
 
         # Cache, see: https://circleci.com/docs/2.0/language-javascript/#sample-configuration
         - restore_cache:
