@@ -8,4 +8,7 @@ echo "F: -${F}-"
 git diff >"${F}"
 git clean -fd
 git clean -f
-~/bin/reviewdog -f=diff -f.diff.strip=1 -reporter=github-pr-review <"${F}"
+echo "---"
+cat "${F}"
+echo "---"
+~/bin/reviewdog -f=diff -f.diff.strip=1 -reporter=github-pr-review -tee <"${F}"
