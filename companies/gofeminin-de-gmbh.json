@@ -15,6 +15,11 @@
             "desc": "User email adress",
             "type": "email",
             "optional": false
+        },
+        {
+            "desc": "Real Name of the User",
+            "type": "name",
+            "optional": false
         }
     ],
     "request-language": "de",
