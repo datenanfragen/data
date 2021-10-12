@@ -1,7 +1,7 @@
 Till den berörda organisationen:
 
 den {request_date} skickade jag en förfrågan till dig enligt artikel {request_article} GDPR.
-{Beskrivning av problemet, t.ex.: Tyvärr fick jag inget svar än så länge. Perioden på en månad enligt artikel 12 punkt 3 i GDPR överskrids därför.}
+{Beskrivning av problemet, t.ex.: Tyvärr fick jag inget svar än så länge. Perioden på en månad enligt artikel 12.3 i GDPR överskrids därför.}
 
 Därför kontaktar jag dig igen. Vid ankomsten av denna förmaning, vänligen svara fullständigt på min begäran inom två veckor. Annars förbehåller jag mig rätten att vidta rättsliga åtgärder mot dig och att klaga hos den ansvariga tillsynsmyndigheten.
 
