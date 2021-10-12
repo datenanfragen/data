@@ -8,7 +8,11 @@
         "commerce"
     ],
     "name": "1&1 Internet Ltd.",
+<<<<<<< HEAD
     "address": "Discovery House\n154 Southgate Street\nGloucester\nGL1 2EX\nUnited Kingdom",
+=======
+    "address": "Discovery House\n154 Southgate Street     \nGloucester\nGL1 2EX\nUnited Kingdom",
+>>>>>>> 09916dcc95f0b0e564f2f231aeafd3c55f3143b2
     "phone": "+44 333 336 5691",
     "email": "privacypolicy@1and1.co.uk",
     "web": "https://www.1and1.co.uk",
