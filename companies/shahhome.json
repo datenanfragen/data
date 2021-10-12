@@ -1,0 +1,21 @@
+{
+    "slug": "shahhome",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Shah Home",
+    "address": " 207 Lightbowne Road, Moston, M40 9DD, Manchester, Lancashire, UK\n",
+    "phone": "01619470700",
+    "email": "mikealbert494@gmail.com",
+    "web": "https://shahhome.uk/",
+    "sources": [
+        "RENTAL PROPERTY",
+        "COMMERCIAL PROPERTIES",
+        "RESIDENTIAL PROPERTY",
+        "https://github.com/datenanfragen/data/pull/1447"
+    ],
+    "quality": "verified"
+}
