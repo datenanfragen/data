@@ -56,7 +56,7 @@ jobs:
         # Cache, see: https://circleci.com/docs/2.0/language-javascript/#sample-configuration
         - restore_cache:
             key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
-        - run: ./dog.sh
+        - run: bash ./dog.sh
 
 
 
