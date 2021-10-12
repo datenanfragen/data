@@ -51,19 +51,13 @@ jobs:
         - run: sudo apt update
         - run: sudo apt install golang
         # https://github.com/reviewdog/reviewdog#circle-ci
-        - run: curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b ./bin     
+        - run: curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b ./bin
 
         # Cache, see: https://circleci.com/docs/2.0/language-javascript/#sample-configuration
         - restore_cache:
             key: dependency-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
-        - run: yarn ts-node src/test-records.ts --autofix
-        # https://github.com/reviewdog/reviewdog#diff
-        - run: F=${mktemp} 
-        - run: echo "${F}
-        - run: git diff > "${F}"
-        - run: git stash -u
-        - run: git stash drop
-        - run: ./bin/reviewdog -f=diff -f.diff.strip=1 -reporter=github-pr-review < "${F}"
+        - run: ./dog.sh
+
 
 
 workflows:
