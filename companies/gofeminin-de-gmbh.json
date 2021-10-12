@@ -1,0 +1,27 @@
+{
+    "slug": "gofeminin-de-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "gofeminin.de GmbH",
+    "address": "AUFEMININ SA\n8 rue Saint-Fiacre\n75002 Paris\nFrankreich",
+    "email": "dpo@gofeminin.de",
+    "web": "https://www.gofeminin.de/",
+    "sources": [
+        "https://www.gofeminin.de/hilfe/datenschutzerklarung-der-aufeminin-gruppe-s2865421.html"
+    ],
+    "required-elements": [
+        {
+            "desc": "User email adress",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "request-language": "de",
+    "needs-id-document": true,
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Recht auf Auskunft, Berichtigung oder Löschung kann im User-Konto ausgeübt werden."
+    ],
+    "quality": "verified"
+}
