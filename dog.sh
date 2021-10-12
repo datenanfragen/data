@@ -1,6 +1,6 @@
 #!/bin/bash
 
-yarn ts-node src/test-records.ts --auto-fix
+yarn ts-node src/test-records.ts --auto-fix || true
 # https://github.com/reviewdog/reviewdog#diff
 ls
 F=$(mktemp)
