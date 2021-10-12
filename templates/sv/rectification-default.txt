@@ -6,7 +6,7 @@ Vänligen gör följande ändringar:
 {rectification_data}
 Om ni har avslöjat de berörda personuppgifterna för en eller flera mottagare enligt definitionen i artikel 4.9 i GDPR måste ni meddela min begäran om rättelse av de berörda personuppgifterna till varje mottagare enligt artikel 19 i GDPR. Vänligen informera mig också om mottagarna.
 
-My request explicitly includes [runs>the following as well as ]any other services and companies for which you are the controller as defined by Article 4(7) GDPR[runs>: {runs_list}].
+Min begäran innehåller uttryckligen [runs> följande samt] alla andra tjänster och företag som du är personuppgiftsansvarig för enligt definitionen i artikel 4.7 i GDPR [runs>: {runs_list}].
 
 Enligt artikel 12.3 i GDPR måste ni bekräfta rättelsen för mig utan onödigt dröjsmål och under alla omständigheter inom en månad efter mottagandet av begäran.
 [has_fields>
