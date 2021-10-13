@@ -3,27 +3,24 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [
-        null
-    ],
     "name": "Ströer Media Brands GmbH",
     "runs": [
         "GIGA.de",
-        "Herzrasen-App",
-        "Tanken-App"
+        "desired.de",
+        "kino.de",
+        "familie.de",
+        "spieletipps.de",
+        "mytest.de"
     ],
-    "address": "Torstraße 49\n10119 Berlin",
-    "email": "datenschutz-smb@stroeermediabrands.de",
+    "address": "Torstraße 49\n10119 Berlin\nDeutschland",
+    "email": "smb-datenschutzbeauftragter@stroeer.de",
     "web": "https://www.stroeermediabrands.de",
     "sources": [
         "https://www.stroeermediabrands.de/impressum",
         "https://www.stroeermediabrands.de/datenschutz",
-        "https://www.giga.de/info/impressum",
+        "https://www.stroeermediabrands.de/marken/",
         "https://github.com/datenanfragen/data/pull/1338"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Alternative E-Mail-Adresse: smb-datenschutzbeauftragter@stroeer.de"
-    ],
     "quality": "verified"
 }
