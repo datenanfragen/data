@@ -1,0 +1,29 @@
+Dobrý den, 
+
+tímto žádám o přístup k osobním údajům podle článku 15 Obecného nařízení o ochraně osobních údajů (GDPR). Prosím potvrďte, zda zpracováváte či nezpracováváte osobní údaje (jak jsou definovány v čl. 4, odst. 1 a 2 GDPR), které se týkají mé osoby.
+
+V případě, že ano, v souladu s čl. 15, odst. 3, prosím o poskytnutí kopie <italic>všech</italic> osobních údajů týkajících se mé osoby, které zpracováváte včetně jakýchkoliv pseudonymizovaných dat o mé osobě podle článku 4, odst. 5 GDPR. Dále žádám o přístup k následujícím informacím podle článku 15, odst. 1 GDPR:
+1. účely zpracování;
+2. kategorie dotčených osobních údajů;
+3. příjemci nebo kategorie příjemců, kterým osobní údaje byly nebo budou zpřístupněny, zejména příjemci ve třetích zemích nebo v mezinárodních organizacích;
+4. plánovaná doba, po kterou budou osobní údaje uloženy, nebo není-li ji možné určit, kritéria použitá ke stanovení této doby;
+5. veškeré dostupné informace o zdroji osobních údajů, pokud nejsou získány od subjektu údajů;
+6. skutečnost, že dochází k automatizovanému rozhodování, včetně profilování, uvedenému v čl. 22 odst. 1 a 4, a přinejmenším v těchto případech smysluplné informace týkající se použitého postupu, jakož i významu a předpoklá­daných důsledků takového zpracování pro subjekt údajů.
+
+V případě, že zpracováváte anonymizovaná data týkající se mé osoby, prosím nejen o informování mě o tom, ale také o vysvětlení použité procedury ve srozumitelné podobě. 
+
+Pokud předáváte mé osobní údaje do třetí země nebo mezinárodní organizaci, žádám být informován o vhodných zárukách podle článku 46 GDPR, které se vztahují k předávání.
+[data_portability>
+Prosím o zpřístupnění dat o mé osobě, které jsem Vám poskytl, ve strukturovaném, běžně používaném a strojově čitelném formátu v souladu s článkem 20, odst. 1 GDPR.
+]
+Moje žádost explicitně zahrnuje [runs>následující stejně jako ]jakékoliv další služby a společnosti, pro něž jste správcem podle článku 4, odst. 7 GDPR[runs>: {runs_list}].
+
+Podle článku 12, odst. 3 GDPR, máte povinnost mi poskytnout vyžadované informace bez zbytečného odkladu a v každém případě do jednoho měsíce od obdržení žádosti. Podle článku 15, odst. 3 GDPR máte povinnost odpovědět na tuto žádost bezplatně. 
+[has_fields>
+Přikládám následující informace nezbytné k identifikování mé osoby:
+{id_data}]
+Pokud neodpovíte na moji žádost ve stanovené lhůtě, vyhrazuji si právo učinit právní kroky a podat stížnost k odpovídajícímu kontrolnímu orgánu.
+
+Předem děkuji.
+
+S pozdravem,

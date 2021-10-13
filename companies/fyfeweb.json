@@ -12,7 +12,8 @@
     "web": "https://fyfeweb.com",
     "sources": [
         "https://fyfeweb.com/downloads/policies/privacy-policy.pdf",
-        "https://github.com/datenanfragen/data/pull/897"
+        "https://github.com/datenanfragen/data/pull/897",
+        "https://github.com/datenanfragen/data/pull/1277"
     ],
     "required-elements": [
         {
@@ -30,7 +31,7 @@
     ],
     "suggested-transport-medium": "email",
     "comments": [
-        "Web form for requests: https://fyfeweb.com/legal/reports-requests/data-subject-access-requests-global/"
+        "Web form for requests: https://portal.fyfeweb.com/submitticket.php?step=2&deptid=10"
     ],
     "quality": "verified"
 }

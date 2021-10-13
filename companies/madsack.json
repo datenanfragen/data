@@ -1,0 +1,46 @@
+{
+    "slug": "madsack",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment",
+        "ads"
+    ],
+    "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
+    "runs": [
+        "Ostsee-Zeitung",
+        "Hannoversche Allgemeine Zeitung",
+        "Dresdner Neueste Nachrichten",
+        "Göttinger Tageblatt",
+        "Leipziger Volkszeitung",
+        "Lübecker Nachrichten",
+        "Märkische Allgemeine Zeitung",
+        "Neue Presse",
+        "Peiner Allgemeine Zeitung",
+        "Schaumburger Nachrichten",
+        "Wolfsburger Allgemeine Zeitung"
+    ],
+    "address": "August-Madsack-Straße 1\n30559 Hannover\nDeutschland",
+    "phone": "+49 511 5180",
+    "email": "datenschutz@madsack.de",
+    "web": "https://www.madsack.de",
+    "sources": [
+        "https://www.madsack.de/wp-content/uploads/2021/06/Informationen-gem-Art-13-DSGVO.pdf",
+        "https://www.ostsee-zeitung.de/Verlagsservice/Datenschutzhinweise",
+        "https://www.haz.de/Abo/Portal-Service/Datenschutzhinweise",
+        "https://www.dnn.de/Abo/Servicetexte/Datenschutzhinweise",
+        "https://www.goettinger-tageblatt.de/Shops/Kontakt/Datenschutzhinweise",
+        "https://www.lvz.de/Abo/Servicetexte/Datenschutzhinweise",
+        "https://www.ln-online.de/Portal-Service/Datenschutzhinweise",
+        "https://www.maz-online.de/Portalservice/Datenschutzhinweise",
+        "https://www.neuepresse.de/Portal-Service/Datenschutzhinweise",
+        "https://www.paz-online.de/Abo/Datenschutzhinweise",
+        "https://www.sn-online.de/Anzeigen-Maerkte/Mediadaten/Kontakt/Datenschutzerklaerung",
+        "https://www.waz-online.de/Kontakt/Datenschutzhinweise",
+        "https://www.madsack.de/datenschutzhinweise/",
+        "https://github.com/datenanfragen/data/pull/1328"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

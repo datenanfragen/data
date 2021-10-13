@@ -1,0 +1,26 @@
+{
+    "slug": "report-uri",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Report-URI Ltd",
+    "address": "22 Shireburn Avenue\nClitheroe\nLancashire\nBB7 2PN\nUnited Kingdom",
+    "email": "dpa@report-uri.com",
+    "web": "https://report-uri.com",
+    "sources": [
+        "https://find-and-update.company-information.service.gov.uk/company/10943557",
+        "https://cdn.report-uri.com/pdf/Report%20URI%20-%20DPA%20(2v0).pdf",
+        "https://cdn.report-uri.com/pdf/Report%20URI%20-%20Data%20Protection%20(0v4).pdf",
+        "https://report-uri.com/home/privacy_policy",
+        "https://github.com/datenanfragen/data/pull/1381"
+    ],
+    "required-elements": [
+        {
+            "desc": "Email",
+            "type": "name",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

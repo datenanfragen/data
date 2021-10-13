@@ -8,6 +8,8 @@ It is used to power the Datenanfragen.de company database but we warmly welcome 
 Due to the nature of the data we are collecting here, frequent changes, additions and deletions will be necessary. We invite you to contribute whatever information you have. You can add new records or edit existing ones directly through the [company database](https://www.datarequests.org/company/) on our website.  
 If you want to edit many companies or do more involved edits, we recommend submitting pull requests directly to this repo (feel free to group changes to multiple records in a single PR). We have developed [this tool](https://company-json.netlify.com/) to make generating valid JSON records easier.
 
+You can chat with us through our [Matrix space](https://matrix.to/#/#datenanfragen:matrix.altpeter.me) and our [dedicated room for the company database](https://matrix.to/#/#dade-company:matrix.altpeter.me). Feel free to ask questions, pitch your ideas, or just talk with the community.
+
 Please be aware that by contributing, you agree for your work to be released under a Creative Commons CC0 1.0 Universal license, as specified in the `LICENSE` file.
 
 ### Testing records
@@ -41,7 +43,7 @@ We are only interested in [companies that the GDPR applies to](https://www.datar
 
 We prefer privacy-specific contact details (usually found in a company's privacy policy). In particular, email addresses like `privacy@example.com` or `dpo@example.org` and phone/fax numbers specifically of data protection officers are preferred. If no specific details are available, we use 'regular' contact details found on the company's website.
 
-Please make sure that there is **no** personal data in your record. This means no names in the address and no emails that include names, either.
+Records can contain personal data (like an email address that includes a person's name) if necessary. Please review the guidelines in [#1287](https://github.com/datenanfragen/data/issues/1287) beforehand.
 
 Some companies don't publish adequate contact information on their website. In these cases, you can resort to third-party sources but do check the information very thoroughly depending on the source.
 
@@ -58,7 +60,7 @@ For incomplete addresses, you can use SmartyStreets' [Single Address Validation 
 
 For addresses in Hong Kong, the [Correct Addressing tool](https://www.hongkongpost.hk/correct_addressing/index.jsp?lang=en_US) offered by Hongkong Post, is very useful.
 
-Please **don't** include lines like `Data protection officer`, `Privacy department` or similar. They will be automatically added by our generator, anyway. Also, **don't** include any personal data (like names) in the address.
+Please **don't** include lines like `Data protection officer`, `Privacy department` or similar. An 'Attn' line is always added automatically by our generator.
 
 ### Phone and fax numbers
 

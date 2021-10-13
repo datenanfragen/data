@@ -4,6 +4,8 @@ I am hereby objecting to the processing of personal data concerning me for direc
 
 If I have given consent to the processing of my personal data for direct marketing purposes (e.g. according to Article 6(1) or Article 9(2) GDPR), I am hereby withdrawing said consent.
 
+Please tell me in advance if the objection will result in the deletion of an account I may have with you, the cancellation of a contract I may have with you, or similar. I will then decide whether this should be carried out.
+
 My request explicitly includes [runs>the following as well as ]any other services and companies for which you are the controller as defined by Article 4(7) GDPR[runs>: {runs_list}].
 
 As laid down in Article 12(3) GDPR, you have to confirm the objection to me without undue delay and in any event within one month of receipt of the request.

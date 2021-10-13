@@ -1,30 +1,27 @@
 {
     "slug": "beitragsservice",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "entertainment",
         "public body"
     ],
     "name": "ARD ZDF Deutschlandradio Beitragsservice",
-    "address": "Freimersdorfer Weg 6\n50829 Köln\nDeutschland",
+    "address": "50656 Köln\nDeutschland",
     "runs": [
         "Gebühreneinzugszentrale GEZ (ehem.)"
     ],
-    "phone": "+49 221 5061 2632",
-    "fax": "+49 221 5061 2507",
-    "email": "datenschutz@beitragsservice.de",
+    "phone": "+49 221 5061 0",
+    "fax": "+49 221 5061 3030",
     "web": "https://www.rundfunkbeitrag.de",
     "sources": [
-        "https://www.rundfunkbeitrag.de/der_rundfunkbeitrag/beitragsservice/datenschutz/datenschutzbeauftragte/index_ger.html",
-        "https://www.rundfunkbeitrag.de/impressum/index_ger.html",
-        "https://www.bfdi.bund.de/DE/Buerger/Inhalte/Allgemein/Datenschutz/Rundfunk_Beitragsservice.html"
+        "https://www.rundfunkbeitrag.de/datenschutz/datenschutz_beim_beitragseinzug/index_ger.html",
+        "https://www.rundfunkbeitrag.de/impressum/index_ger.html"
     ],
     "comments": [
-        "Webformular: https://www.rundfunkbeitrag.de/der_rundfunkbeitrag/beitragsservice/datenschutz/datenschutzkontaktformular/index_ger.html",
+        "Webformular: https://www.rundfunkbeitrag.de/datenschutz/datenschutzkontaktformular/index_ger.html",
         "Faxnummer eigentlich +49 1806 999 555 01 (20 Cent/Anruf aus dem dt. Festnetz, 60 Cent/Anruf aus den dt. Mobilfunknetzen). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=0180699955501"
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
