@@ -1,0 +1,19 @@
+{
+  "slug": "transfermarkt-de",
+  "relevant-countries": [
+    "de"
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "name": "Transfermarkt GmbH & Co. KG",
+  "address": "Datenschutz\nWandsbeker Zollstraße 5a\n22041 Hamburg",
+  "phone": "+49 40 6704821 20",
+  "email": "datenschutz@transfermarkt.de",
+  "web": "https://www.transfermarkt.de",
+  "sources": [
+    "https://www.transfermarkt.de/intern/web/datenschutz"
+  ],
+  "request-language": "de",
+  "quality": "verified"
+}
