@@ -9,7 +9,11 @@
     "name": "Tchibo GmbH",
     "runs": [
         "Tchibo mobil",
-        "TchiboCard"
+        "TchiboCard",
+        "Treuebohnenkonto",
+        "TchiboEXPERTS",
+        "Tchibo Community",
+        "Qbo"
     ],
     "address": "Überseering 18\n22297 Hamburg\nDeutschland",
     "phone": "+49 40 63870",
@@ -20,10 +24,29 @@
         "https://www.tchibo.de/newmedia/document/e788014fbf45726c/datenschutzhinweis_tchibo_de.pdf",
         "https://github.com/datenanfragen/data/pull/1348"
     ],
-    "needs-id-document": true,
-    "suggested-transport-medium": "letter",
-    "comments": [
-        "Der Kundenservice bittet darum, ein per Email übermitteltes PDF-Formular auszufüllen und zusammen mit einer Ausweiskopie per Post zurück an Tchibo zu senden (Stand September 2019)."
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "TchiboCard-Nummer",
+            "type": "input",
+            "optional": true
+        },
+        {
+            "desc": "Seriennummer der Qbo",
+            "type": "input",
+            "optional": true
+        }
     ],
-    "quality": "verified"
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "tested"
 }
