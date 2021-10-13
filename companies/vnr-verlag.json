@@ -19,7 +19,8 @@
         "TeachToProtect.de",
         "ELEX (www.elex-portal.de)",
         "Sekada.de",
-        "Orgenda (verlag.orgenda.de)"
+        "Orgenda (verlag.orgenda.de)",
+        "sekretaerinnen.de"
     ],
     "address": "Theodor-Heuss-Str. 2-4\n53177 Bonn\nDeutschland",
     "phone": "+49 228 955066004",
@@ -42,7 +43,9 @@
         "https://www.elex-portal.de/datenschutz/#/",
         "https://www.sekada.de/footernavi/service-rechtliches/datenschutz/",
         "https://www.sekretaerinnen.de/login",
-        "https://verlag.orgenda.de/datenschutz/"
+        "https://verlag.orgenda.de/datenschutz/",
+        "https://www.vnrag.de/fachverlage",
+        "https://github.com/datenanfragen/data/pull/1314"
     ],
     "required-elements": [
         {
@@ -53,6 +56,9 @@
             "desc": "E-Mail",
             "type": "email"
         }
+    ],
+    "comments": [
+        "Sofern die Anfrage per Email erfolgt, muss der Absender mit der Adresse übereinstimmen, die zur Identifikation angegeben ist. Alternativ besteht die Möglichkeit, erhaltene Emails z.B. Newsletter als Anlage beizufügen."
     ],
     "quality": "tested"
 }
