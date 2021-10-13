@@ -1,6 +1,8 @@
 {
     "slug": "herdt",
     "relevant-countries": [
+        "at",
+        "ch",
         "de"
     ],
     "categories": [
@@ -8,16 +10,13 @@
         "commerce"
     ],
     "name": "HERDT-Verlag für Bildungsmedien GmbH",
-    "address": "Am Kuemmerling 19\n55294 Bodenheim",
+    "address": "Am Kuemmerling 19\n55294 Bodenheim\nDeutschland",
     "phone": "+49 6144 402197",
     "email": "herdt@dsbok.de",
     "web": "https://herdt.com",
     "sources": [
         "https://herdt.com/pages/datenschutz",
         "https://github.com/datenanfragen/data/pull/1313"
-    ],
-    "comments": [
-        "Telefon: +49 6135 9222-10\nE-Mail: info@herdt.com"
     ],
     "quality": "verified"
 }
