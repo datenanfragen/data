@@ -8,10 +8,15 @@
     ],
     "name": "Delticom AG",
     "runs": [
-        "ReifenDirekt.de",
-        "MotorradreifenDirekt.de",
-        "Reifentest.com",
-        "Komplettraeder24.de"
+        "Reifen-Online-Shop ReifenDirekt.de",
+        "Motorradreifen-Online-Shop MotorradreifenDirekt.de",
+        "Reifen-Testportal Reifentest.com",
+        "Schneeketten-Online-Shop Schneeketten-24.de",
+        "Kompletträder-Online-Shop Komplettraeder24.de",
+        "Autoteile-Online-Shop Autoteile-Meile.de (formerly)",
+        "Katalysatoren-Online-Shop Katdirekt.de (formerly)",
+        "Motoröl-Online-Shop Motoroel-direkt.de (formerly)",
+        "Sportfahrwerk.biz (formerly)"
     ],
     "address": "Brühlstraße 11\n30169 Hannover\nDeutschland",
     "phone": "+49 511 93634960",
@@ -21,11 +26,15 @@
     "sources": [
         "https://www.reifendirekt.de/datenschutz.html",
         "https://www.motorradreifendirekt.de/i/datenschutz",
-        "http://www.reifentest.com/wir.html",
+        "https://www.reifentest.com/web/pages/datenschutz",
+        "https://www.schneeketten-24.de/datenschutz.html",
         "https://www.komplettraeder24.de/datenschutz.html",
         "https://www.reifendirekt.de/Impressum.html",
-        "https://github.com/datenanfragen/data/pull/1275"
+        "https://github.com/datenanfragen/data/pull/1276"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Autoteile-Meile.de, Katdirekt.de, Motoroel-direkt.de und Sportfahrwerk.biz wurden mittlerweile von der Delticom AG and die Autodoc Group verkauft. Delticom kann nur Anfragen für vor dem Verkauf verarbeitete Daten beantworten, Anfragen bezogen auf den Zeitraum danach müssen an Autodoc gestellt werden"
+    ],
     "quality": "verified"
 }
