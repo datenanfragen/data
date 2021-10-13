@@ -1,5 +1,5 @@
 {
-    "slug": "gofeminin-de-gmbh",
+    "slug": "gofeminin",
     "relevant-countries": [
         "de"
     ],
@@ -12,15 +12,15 @@
     ],
     "required-elements": [
         {
-            "desc": "User email adress",
-            "type": "email",
+            "desc": "Name",
+            "type": "name",
             "optional": false
         },
         {
-            "desc": "Real Name of the User",
-            "type": "name",
+            "desc": "Email",
+            "type": "email",
             "optional": false
-        }
+        }       
     ],
     "request-language": "de",
     "needs-id-document": true,
