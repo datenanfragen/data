@@ -5,30 +5,26 @@
     ],
     "categories": [
         "ads",
-        "entertainment"
+        "entertainment",
+        "telecommunication"
     ],
     "name": "Ströer Digital Publishing GmbH",
     "runs": [
         "t-online.de",
-        "t-online APP",
-        "Wetter von t-online (App)",
-        "https://einfachtierisch.de"
+        "t-online App",
+        "Wetter von t-online App",
     ],
-    "address": "Platz der Einheit 1\n60327 Frankfurt\nDeutschland",
+    "address": "Ströer-Allee 1\n50999 Köln\nDeutschland",
     "phone": "+49 69 921017610",
     "email": "sdp-datenschutz@stroeer.de",
-    "web": "https://www.stroeer.de/konvergenz-konzepte/konzept-content/plattformen-portale/stroeer-digital-publishing.html",
+    "web": "https://www.t-online.de",
     "sources": [
         "https://www.t-online.de/datenschutz/",
         "https://www.t-online.de/impressum/id_12511434/index",
-        "https://www.stroeer.de/konvergenz-konzepte/konzept-content/plattformen-portale/stroeer-digital-publishing.html",
         "https://www.t-online.de/unternehmen/",
-        "https://einfachtierisch.de/p/datenschutz",
+        "https://www.stroeer.de/konvergenz-konzepte/konzept-content/plattformen-portale/stroeer-digital-publishing.html",
         "https://github.com/datenanfragen/data/pull/1336"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Das Angebot \"einfachtierisch.de\" hat einen abweichenden Datenschutzbeauftragten:\nStröer Digital Media GmbH\nPlatz der Einheit 1\n60327 Frankfurt am Main\nE-Mail: datenschutz@contentfleet.com"
-    ],
     "quality": "verified"
 }
