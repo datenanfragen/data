@@ -15,5 +15,6 @@
   "sources": [
     "https://www.umzugsauktion.de/datenschutz/"
   ],
+  "suggested-transport-medium": "email",
   "quality": "verified"
 }

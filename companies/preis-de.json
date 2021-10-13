@@ -15,5 +15,6 @@
   "sources": [
     "https://www.preis.de/impressum/#datenschutz"
   ],
+  "suggested-transport-medium": "email",
   "quality": "verified"
 }
