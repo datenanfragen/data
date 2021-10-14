@@ -1,0 +1,19 @@
+{
+  "slug": "bz-berlin-de",
+  "relevant-countries": [
+    "de"
+  ],
+  "categories": [
+    "entertainment"
+  ],
+  "name": "Axel Springer SE",
+  "address": "Axel-Springer-Straße 65\n10888 Berlin\nDeutschland",
+  "phone": "+49 30 5858 5379",
+  "email": "datenschutz.kundenservice@axelspringer.de",
+  "web": "https://www.bz-berlin.de",
+  "sources": [
+    "https://www.bz-berlin.de/allgemein/impressum-und-datenschutz"
+  ],
+  "suggested-transport-medium": "email",
+  "quality": "verified"
+}
