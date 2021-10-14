@@ -10,7 +10,8 @@
     ],
     "name": "SPIEGEL-Gruppe",
     "runs": [
-        "SPIEGEL ONLINE GmbH & Co. KG",
+        "DER SPIEGEL GmbH & Co. KG",
+        "DER SPIEGEL (online) (www.spiegel.de)",
         "DER SPIEGEL Abo (abo.spiegel.de)",
         "manager magazin (www.manager-magazin.de)",
         "manager lounge",
@@ -19,12 +20,13 @@
         "bento (www.bento.de)"
     ],
     "address": "Ericusspitze 1\n20459 Hamburg\nDeutschland",
-    "phone": "+49 40 38080 0",
+    "phone": "+49 40 380800",
     "email": "datenschutz@spiegelgruppe.de",
-    "web": "http://www.spiegel.de",
+    "web": "http://www.spiegelgruppe.de",
     "sources": [
         "http://www.spiegel.de/extra/datenschutzerklaerung-so-gehen-wir-mit-ihren-daten-um-a-1207780.html",
-        "http://www.spiegel.de/impressum/a-941280.html"
+        "http://www.spiegel.de/impressum/a-941280.html",
+        "https://github.com/datenanfragen/data/pull/1453"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
