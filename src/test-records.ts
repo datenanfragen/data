@@ -141,7 +141,15 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
                 type: 'error',
             });
     }
-
+    // The `web` field may only be set if `nsfw` is `false` (#1369).
+    if (json['web']) {
+       // if (json['nsfw'] === 'true')
+            events.push({
+                msg: "The `web` field may only be set if `nsfw` is not `true`.",
+                ref: 'https://github.com/datenanfragen/data/issues/1369',
+                type: 'error',
+            });
+    }
     // String field values cannot have trailing or leading whitespace.
     for (const key of Object.keys(json) as (keyof CompanyRecord)[]) {
         const value = json[key];
