@@ -1,30 +1,23 @@
 {
     "slug": "kaufland",
     "relevant-countries": [
-        "de",
-        "pl",
-        "cz",
-        "ro",
-        "sk",
-        "bg",
-        "hr"
+        "de"
     ],
     "categories": [
-        "commerce",
-        "utility"
+        "commerce"
     ],
     "name": "Kaufland Stiftung & Co. KG",
     "runs": [
         "Kaufland e-commerce GmbH",
         "Kaufland Dienstleistung GmbH & Co. KG"
     ],
-    "address": "Rötelstraße 35\n74172 Neckarsulm",
+    "address": "Rötelstraße 35\n74172 Neckarsulm\nDeutschland",
     "phone": "+49 7132 9400",
-    "email": "datenschutz@kaufland-online.de",
+    "email": "datenschutz@kaufland.de",
     "web": "https://www.kaufland.de",
     "sources": [
         "https://www.kaufland.de/rechtliches/impressum/",
-        "https://www.kaufland.com/legal-notice.html",
+        "https://filiale.kaufland.de/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/1455"
     ],
     "suggested-transport-medium": "email",

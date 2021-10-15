@@ -1,0 +1,18 @@
+{
+    "slug": "kaufland-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Kaufland Polska Markety sp. z o.o. sp. j.",
+    "address": "al. Armii Krajowej 47\n50-541 Wrocław\nPolska",
+    "email": "daneosobowe@kaufland.pl",
+    "web": "https://www.kaufland.pl",
+    "sources": [
+        "https://www.kaufland.pl/polityka-prywatnosci.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
