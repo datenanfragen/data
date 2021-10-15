@@ -144,7 +144,7 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
 
     // A `quality` of `tested` may only be set if `required-elements` are specified (#811).
     if (json['quality'] === 'tested') {
-        if (!json['required-elements'])
+        if (json['required-elements'])
             events.push({
                 msg: "Record has `quality` of `tested` but doesn't specify `required-elements`.",
                 ref: 'https://github.com/datenanfragen/data/issues/811',
