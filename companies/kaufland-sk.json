@@ -1,0 +1,18 @@
+{
+    "slug": "kaufland-sk",
+    "relevant-countries": [
+        "sk"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Kaufland Slovenská republika v.o.s.",
+    "address": "Trnavská cesta 41/A\n831 04 Bratislava\nSlovakia",
+    "email": "dataprotection@kaufland.sk",
+    "web": "https://www.kaufland.sk",
+    "sources": [
+        "https://www.kaufland.sk/ochrana-osobnych-udajov.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
