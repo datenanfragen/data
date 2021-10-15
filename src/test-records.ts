@@ -138,7 +138,7 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
                 ref: 'https://github.com/datenanfragen/data/issues/1445',
                 type: 'error',
         });
-    
+    }
 
     // A `quality` of `tested` may only be set if `required-elements` are specified (#811).
     if (json['quality'] === 'tested') {
