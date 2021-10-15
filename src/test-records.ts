@@ -132,7 +132,8 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
         }
 
         // If a record has 'custom-access-template' set, then it cannot have a 'required-elements' parameter set
-        if (prop && json['required-elements'])  
+        if (template) {
+            if (!json['required-elements'])  
             events.push({
                 msg: "If a record has 'custom-access-template' set, then it cannot have a 'required-elements' parameter set",
                 ref: 'https://github.com/datenanfragen/data/issues/1445',
