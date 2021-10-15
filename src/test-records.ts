@@ -138,7 +138,8 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
                 msg: "If a record has 'custom-access-template' set, then it cannot have a 'required-elements' parameter set",
                 ref: 'https://github.com/datenanfragen/data/issues/1445',
                 type: 'error',
-        });
+            });
+        }
     }
 
     // A `quality` of `tested` may only be set if `required-elements` are specified (#811).
