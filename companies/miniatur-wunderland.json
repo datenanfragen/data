@@ -8,7 +8,7 @@
     ],
     "name": "Miniatur Wunderland Hamburg GmbH",
     "runs": [
-        "Stadt-Portal Knuffingen"
+        "Stadt-Portal Knuffingen (www.knuffingen.de)"
     ],
     "address": "Kehrwieder 2\nBlock D\n20457 Hamburg\nDeutschland",
     "email": "datenschutz@miniatur-wunderland.de",
@@ -16,7 +16,8 @@
     "sources": [
         "https://www.miniatur-wunderland.de/service/datenschutz/",
         "https://www.knuffingen.de/datenschutz/",
-        "https://github.com/datenanfragen/data/pull/1281"
+        "https://github.com/datenanfragen/data/pull/1281",
+        "https://github.com/datenanfragen/data/pull/1459"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
