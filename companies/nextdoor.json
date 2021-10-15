@@ -1,0 +1,18 @@
+{
+      "slug": "nextdoor",
+      "relevant-countries": [
+          "all"
+      ],
+      "categories": [
+          "social media"
+      ],
+      "name": "nextdoor",
+      "address": "875 Stevenson Street Suite 700 San Francisco, CA 94103 USA",
+      "web": "https://nextdoor.com/",
+      "sources": [
+          "https://legal.nextdoor.com/us-privacy-policy-2021/"
+      ],
+      "custom-access-template": "access tracking",
+      "quality": "verified"
+  }
+  
