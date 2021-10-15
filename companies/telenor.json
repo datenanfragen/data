@@ -1,29 +1,18 @@
 {
     "slug": "telenor",
     "relevant-countries": [
-        "no",
-        "fi",
-        "se",
-        "dk"
+        "no"
     ],
     "categories": [
         "telecommunication"
     ],
-    "name": "Telenor",
-    "runs": [
-        "DNA",
-        "Telenor AS"
-    ],
-    "address": "Snarøyveien 30\n1331 Fornebu, Norway",
-    "phone": "+47 810 77 000",
-    "email": "DPO@telenordigital.com",
-    "web": "https://www.telenor.com/",
+    "name": "Telenor Norge AS",
+    "address": "Snarøyveien 30\n1331 Fornebu\nNorway",
+    "email": "personvernsenter@telenor.no",
+    "web": "https://www.telenor.no",
     "sources": [
-        "https://www.telenor.com/about-us/global-presence/",
-        "https://www.telenor.com/about-us/contact-us/",
-        "https://www.telenor.com/sustainability/responsible-business/privacy-governance/",
-        "https://www.telenordigital.com/privacy-notice/",
-        "https://github.com/datenanfragen/data/pull/1451"
+        "https://www.telenor.no/om/personvern/"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
