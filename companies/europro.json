@@ -1,5 +1,8 @@
 {
     "slug": "europro",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "credit agency",
         "addresses"
@@ -17,15 +20,14 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
+            "type": "address",
+            "optional": false
         }
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",

@@ -1,5 +1,8 @@
 {
     "slug": "deutsche-post-direkt",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "addresses"
     ],
@@ -23,9 +26,6 @@
             "desc": "Adresse",
             "type": "address"
         }
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",

@@ -19,14 +19,16 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
+            "type": "address",
+            "optional": false
         }
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
