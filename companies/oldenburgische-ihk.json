@@ -3,11 +3,16 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Oldenburgische IHK ",
-    "address": "Moslestraße 6\n26122 Oldenburg ",
-    "email": " datenschutzbeauftragte@oldenburg.ihk.de",
+    "categories": [
+        "commerce",
+        "public body"
+    ],
+    "name": "Oldenburgische IHK",
+    "address": "Moslestraße 6\n26122 Oldenburg\nDeutschland",
+    "phone": "+49 441 2220333",
+    "email": "datenschutzbeauftragte@oldenburg.ihk.de",
     "sources": [
-        "https://www.ihk-oldenburg.de/geschaeftsfelder/rechtundsteuern/impressum-3390776",
+        "https://www.ihk-oldenburg.de/geschaeftsfelder/rechtundsteuern/datenschutzinfo-4073540",
         "https://github.com/datenanfragen/data/pull/1424"
     ],
     "suggested-transport-medium": "email",
