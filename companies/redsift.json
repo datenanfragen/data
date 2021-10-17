@@ -7,8 +7,7 @@
     "runs": [
         "OnDMARC",
         "OnINBOX",
-        "OnDOMAIN",
-        "InGRAIN"
+        "OnDOMAIN"
     ],
     "address": "21A Noel Street\nLondon\nW1F 8GR\nUnited Kingdom",
     "phone": "+44 20 8144 0852",
