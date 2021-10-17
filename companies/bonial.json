@@ -1,5 +1,5 @@
 {
-  "slug": "kauf-da-de",
+  "slug": "bonial",
   "relevant-countries": [
     "de"
   ],
@@ -7,11 +7,18 @@
     "commerce"
   ],
   "name": "Bonial International GmbH",
+  "runs": [
+    "Bonial Reach",
+    "Bonial Connect",
+    "kaufDA",
+    "MeinProspekt"
+  ],
   "address": "Hussitenstraße 32-33\n13355 Berlin\nDeutschland",
   "email": "datenschutz@kaufda.de",
-  "web": "https://www.kaufda.de",
+  "web": "https://www.bonial.com/de/",
   "sources": [
-    "https://www.kaufda.de/Datenschutz"
+    "https://www.kaufda.de/Datenschutz",
+    "https://www.bonial.com/de/impressum"
   ],
   "suggested-transport-medium": "email",
   "quality": "verified"
