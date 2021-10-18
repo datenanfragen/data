@@ -1,0 +1,21 @@
+{
+    "slug": "tugraz",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "school",
+        "public body"
+    ],
+    "name": "Technische Universität Graz",
+    "address": "Rechbauerstraße 12\n8010 GRAZ\nAUSTRIA",
+    "email": "datenschutz@tugraz.at",
+    "web": "https://www.tugraz.at",
+    "sources": [
+        "https://www.tugraz.at",
+        "https://www.tugraz.at/ueber-diese-seite/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/1467"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
