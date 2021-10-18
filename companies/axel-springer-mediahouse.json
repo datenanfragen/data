@@ -13,12 +13,16 @@
         "musikexpress.de"
     ],
     "address": "Mehringdamm 33\n10961 Berlin\nDeutschland",
+    "phone": "+49 30 5858 5379",
     "email": "datenschutz@rollingstone.de",
     "web": "https://www.rollingstone.de/",
     "sources": [
         "https://www.rollingstone.de/datenschutz/",
         "https://www.metal-hammer.de/datenschutz/",
         "https://www.musikexpress.de/datenschutz/"
+    ],
+    "comments": [
+        "Webformular für Anfragen: https://www.rollingstone.de/formular-auskunftsersuchen-und-loeschersuchen/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
