@@ -10,13 +10,14 @@
     "address": "15 Windsor Place\nDublin 2\nIreland",
     "phone": "+353 1 662 2380",
     "fax": "+353 1 686 5552",
-    "email": "info@digitize.ie",
+    "email": "privacy@digitize.ie",
     "web": "https://www.digitize.ie/",
     "sources": [
         "https://www.digitize.ie/online-privacy/",
         "https://www.digitize.ie/#contact"
     ],
     "request-language": "en",
+    "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
     "quality": "verified"
 }
