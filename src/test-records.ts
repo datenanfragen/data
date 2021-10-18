@@ -129,16 +129,22 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
                         type: 'error',
                     });
             }
-        }
-
-        // If a record has 'custom-access-template' set, then it cannot have a 'required-elements' parameter set
-        if (template) {
-            if (!json['required-elements'])  
-            events.push({
-                msg: "If a record has 'custom-access-template' set, then it cannot have a 'required-elements' parameter set",
-                ref: 'https://github.com/datenanfragen/data/issues/1445',
-                type: 'error',
-            });
+            // If a record has 'custom-access-template' set for a tracking company, then it cannot have a 'required-elements' parameter set
+            const tracker = [
+                'access-tracking',
+                'erasure-tracking',
+                'rectification-tracking',
+                'objection-tracking',
+            ]
+            const is_tracking_template = templates[tracker];
+            if (is_tracking_template) {
+                if (json['required-elements'])
+                    events.push({
+                        msg: "If a record has 'custom-access-template' set for a tracking company, then it cannot have a 'required-elements' parameter set",
+                        ref: 'https://github.com/datenanfragen/data/issues/1445',
+                        type: 'error',
+                    });
+            }
         }
     }
 
