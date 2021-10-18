@@ -16,5 +16,6 @@
     "comments": [
         "You can also submit your data request via this form:\nhttps://www.redhat.com/en/about/personal-data-request"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
