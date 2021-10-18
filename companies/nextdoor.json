@@ -6,13 +6,15 @@
       "categories": [
           "social media"
       ],
-      "name": "nextdoor",
-      "address": "875 Stevenson Street Suite 700 San Francisco, CA 94103 USA",
+      "name": "Nextdoor EMEA Limited",
+      "address": "Digital Depot\nThomas Street West\nDublin 8\nIreland",
+      "email": "privacy@nextdoor.com",
       "web": "https://nextdoor.com/",
       "sources": [
-          "https://legal.nextdoor.com/us-privacy-policy-2021/"
+          "https://legal.nextdoor.com/us-privacy-policy-2021/",
+          "https://legal.nextdoor.com/es-privacy-policy-2021/",
+          "https://legal.nextdoor.com/de-privacy-policy-2021/"
       ],
-      "custom-access-template": "access tracking",
       "quality": "verified"
   }
   
