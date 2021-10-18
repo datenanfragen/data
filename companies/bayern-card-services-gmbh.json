@@ -1,5 +1,5 @@
 {
-    "slug": "bayern-card-services-gmbh-s-finanzgruppe",
+    "slug": "bayern-card-services-gmbh",
     "relevant-countries": [
         "de"
     ],
@@ -7,7 +7,10 @@
         "finance"
     ],
     "name": "Bayern Card-Services GmbH - S-Finanzgruppe",
-    "address": "Barer Straße 24\n80333 München",
+    "address": "Barer Straße 24\n80333 München\nDeutschland",
+    "phone": "+49 89 9040760",
+    "email": "info@bayerncard.de",
+    "web": "https://www.bayerncard.de",
     "sources": [
         "https://www.bayerncard.de/impressum",
         "https://github.com/datenanfragen/data/pull/1462"
