@@ -6,16 +6,16 @@
     "categories": [
         "entertainment"
     ],
-    "name": "  imfernsehen GmbH & Co. KG",
+    "name": "imfernsehen GmbH & Co. KG",
     "runs": [
-        "www.fernsehserien.de",
-        "www.wunschliste.de",
-        "www.tvforen.de",
-        "www.retro-tv.de",
-        "www.tv-kult.de"
+        "fernsehserien.de",
+        "wunschliste.de",
+        "tvforen.de",
+        "retro-tv.de",
+        "tv-kult.de"
     ],
     "address": "Aachener Straße 364-370\n50933 Köln\nDeutschland",
-    "phone": "032 - 121 443 795",
+    "phone": "+49 32 121443795",
     "email": "kontakt@imfernsehen.de",
     "web": "https://www.imfernsehen.de",
     "sources": [
