@@ -6,13 +6,20 @@
     "categories": [
         "ads"
     ],
-    "name": "ScorecardResearch",
-    "address": "c/o Full Circle Studies, Inc.\n11950 Democracy Drive\nReston\nVA 20190\nUnited States of America",
+    "name": "Comscore, Inc.",
+    "runs": [
+        "ScorecardResearch"
+    ],
+    "address": "11950 Democracy Drive\nReston, VA 20190\nUnited States of America",
     "phone": "+1 833 713 1509",
     "email": "DSR@comscore.com",
-    "web": "https://www.scorecardresearch.com/",
+    "web": "https://www.comscore.com",
     "sources": [
-        "https://www.scorecardresearch.com/privacy.aspx"
+        "https://www.scorecardresearch.com/privacy.aspx",
+        "https://www.comscore.com/About/Privacy-Policy"
+    ],
+    "comments": [
+        "Web form for requests: https://www.comscore.com/About/Privacy/Data-Subject-Rights"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
