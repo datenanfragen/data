@@ -8,7 +8,9 @@
         "public body"
     ],
     "name": "Technische Universität Graz",
-    "address": "Rechbauerstraße 12\n8010 GRAZ\nAUSTRIA",
+    "address": "c/o x-tention Informationstechnologie GmbH\nRömerstraße 80A\n4600 Wels\nÖsterreich",
+    "phone": "+43 316 8730",
+    "fax": "+43 316 8736009",
     "email": "datenschutz@tugraz.at",
     "web": "https://www.tugraz.at",
     "sources": [
