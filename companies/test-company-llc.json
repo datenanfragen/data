@@ -1,0 +1,12 @@
+{
+    "slug": "test-company-llc",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Test Company LLC",
+    "address": "Test Address 123\nTestcity",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1478"
+    ]
+}
