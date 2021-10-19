@@ -1,0 +1,19 @@
+{
+    "slug": "deutscher-segler-verband-e-v-dsv",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "nonprofit",
+        "entertainment",
+        "travel",
+        "public body"
+    ],
+    "name": "Deutscher Segler-Verband e.V. (DSV)",
+    "address": "Gründgensstraße 18\n22309 Hamburg",
+    "sources": [
+        "https://www.dsv.org/dsv/impressum/",
+        "https://github.com/datenanfragen/data/pull/1480"
+    ],
+    "quality": "verified"
+}
