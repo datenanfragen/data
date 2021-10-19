@@ -1,0 +1,35 @@
+{
+    "slug": "mail",
+    "relevant-countries": [
+        "de",
+        "fr",
+        "gb",
+        "ch"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "mail.de GmbH",
+    "runs": [
+        "mail.ch",
+        "mail.fr",
+        "mail.co.uk ",
+        "mail.uk",
+        "FanMail-Projekt @acdc.com"
+    ],
+    "address": "Münsterstraße 3\n33330 Gütersloh",
+    "phone": "+49 5241 7434982",
+    "fax": "+49 5241 7434987",
+    "email": "info@mail.de",
+    "web": "https://mail.de",
+    "sources": [
+        "https://mail.de/de/impressum/",
+        "https://mail.co.uk/en/legal-notice/",
+        "https://mail.fr/en/legal-notice/",
+        "https://mail.ch/de/impressum/",
+        "https://mail.ch/de/unternehmen/",
+        "https://github.com/datenanfragen/data/pull/1479"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
