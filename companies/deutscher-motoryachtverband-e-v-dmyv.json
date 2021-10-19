@@ -1,0 +1,20 @@
+{
+    "slug": "deutscher-motoryachtverband-e-v-dmyv",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        "nonprofit",
+        "public body",
+        "travel",
+        "entertainment"
+    ],
+    "name": "Deutscher Motoryachtverband e.V. (DMYV)",
+    "address": "Vinckeufer 12-14\n47119 Duisburg",
+    "sources": [
+        "https://www.dmyv.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1481"
+    ],
+    "quality": "verified"
+}
