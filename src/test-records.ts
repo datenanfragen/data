@@ -5,7 +5,7 @@ import { countries } from 'countries-list';
 import cities from 'all-the-cities';
 import { ajv } from './common/ajv';
 import { Common } from './common/ts';
-import { AuthorityRecord, SuggestedTransportMedium } from './types/AuthorityRecord';
+import { AuthorityRecord } from './types/AuthorityRecord';
 import { CompanyRecord } from './types/CompanyRecord';
 import cdb_json_schema from '../schema.json';
 import adb_json_schema from '../schema-supervisory-authorities.json';
