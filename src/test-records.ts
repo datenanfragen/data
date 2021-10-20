@@ -129,7 +129,7 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
                         type: 'error',
                     });
             }
-            // If a record has 'custom-access-template' set for a tracking company, then it cannot have a 'required-elements' parameter set
+            // If a record uses a tracking template (making it a "tracking company" in our terminology), it cannot have `required-elements` set as tracking companies ask for contact details (which are always the same fields) instead of identification data (which differs by company) in our generator.
             const tracking_templates = [
                 'access-tracking',
                 'erasure-tracking',
