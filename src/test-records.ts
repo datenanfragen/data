@@ -136,7 +136,7 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
                 'rectification-tracking',
                 'objection-tracking',
             ]
-            const is_tracking_template = tracker.some(elem => elem === template);
+            const is_tracking_template = tracking_templates.includes(template);
             if (is_tracking_template) {
                 if (json['required-elements'])
                     events.push({
