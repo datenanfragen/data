@@ -140,7 +140,7 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
             if (is_tracking_template) {
                 if (json['required-elements'])
                     events.push({
-                        msg: "If a record has 'custom-access-template' set for a tracking company, then it cannot have a 'required-elements' parameter set",
+                        msg: "Record uses tracking template but also has `required-elements` set.",
                         ref: 'https://github.com/datenanfragen/data/issues/1445',
                         type: 'error',
                     });
