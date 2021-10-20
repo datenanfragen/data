@@ -1,0 +1,24 @@
+{
+    "slug": "arnold-demmerer",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses",
+        "ads"
+    ],
+    "name": "Arnold, Demmerer & Partner GmbH",
+    "runs": [
+        "www.zielgruppenmarketing.de"
+    ],
+    "address": "AP: Frau Anita Demmerer\nMotorstr. 25\n70499 Stuttgart\nDeutschland",
+    "phone": "+49 711 8871310",
+    "email": "demmerer@arnold-demmerer.de",
+    "web": "http://www.arnold-demmerer.de",
+    "sources": [
+        "https://zielgruppenmarketing.de/?id=116",
+        "https://github.com/datenanfragen/data/pull/1483"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
