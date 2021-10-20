@@ -1,0 +1,24 @@
+{
+    "slug": "nrjmobile",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "NRJ Mobile",
+    "runs": [
+        "Bouygues Telecom Business - Distribution"
+    ],
+    "address": "12 rue Gaillon \n75002 Paris\nFrance",
+    "phone": "0969360200",
+    "email": "informatiquelibertes@mail.btbd.fr",
+    "web": "https://www.nrjmobile.fr/",
+    "sources": [
+        "https://www.nrjmobile.fr/fr/infos_legales.html",
+        "https://www.btbd.fr/fr/infos-legales.html",
+        "https://www.nrjmobile.fr/fr/pdf_v30/PolitiqueDonneesPersonnelles_NRJmobile.pdf",
+        "https://github.com/datenanfragen/data/pull/1487"
+    ],
+    "quality": "verified"
+}
