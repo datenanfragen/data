@@ -5,7 +5,7 @@ import { countries } from 'countries-list';
 import cities from 'all-the-cities';
 import { ajv } from './common/ajv';
 import { Common } from './common/ts';
-import { AuthorityRecord } from './types/AuthorityRecord';
+import { AuthorityRecord, SuggestedTransportMedium } from './types/AuthorityRecord';
 import { CompanyRecord } from './types/CompanyRecord';
 import cdb_json_schema from '../schema.json';
 import adb_json_schema from '../schema-supervisory-authorities.json';
@@ -136,7 +136,7 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
                 'rectification-tracking',
                 'objection-tracking',
             ]
-            const is_tracking_template = templates[tracker];
+            const is_tracking_template = tracker.some(elem => elem === template);
             if (is_tracking_template) {
                 if (json['required-elements'])
                     events.push({
@@ -150,7 +150,7 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
 
     // A `quality` of `tested` may only be set if `required-elements` are specified (#811).
     if (json['quality'] === 'tested') {
-        if (json['required-elements'])
+        if (!json['required-elements'])
             events.push({
                 msg: "Record has `quality` of `tested` but doesn't specify `required-elements`.",
                 ref: 'https://github.com/datenanfragen/data/issues/811',
