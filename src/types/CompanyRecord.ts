@@ -66,6 +66,11 @@ export interface CompanyRecord {
      */
     "needs-id-document"?: boolean;
     /**
+     * Is this company “not safe for work“, i.e. does it offer content or services that fall under 
+     * applicable youth protection laws and are only meant for adults? Only set if `true`."
+     */
+    "nsfw"?: boolean;
+    /**
      * Fingerprint of the PGP key of the email address used to send privacy-related inquires and
      * requests to the company. The PGP key should be found by this key on public keyservers.
      * Please check the key thoroughly before entering it.

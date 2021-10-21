@@ -105,6 +105,16 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
             });
     }
 
+    //  If 'nsfw' is set 'true', the record cannot have a website (field 'web') set (#1369)
+    if (json['nsfw']) {
+            if (json['web']) {
+                events.push({
+            msg: `Record has "nsfw" set "true", therefore no entry is allowed in "web".`,
+                ref: 'https://github.com/datenanfragen/data/issues/1369',
+                type: 'error',
+            });
+        }
+    }
     // If a record specifies a `custom-*-template` without also specifying a `request-language`, the template _must_ at
     // least be available in English and _should_ also be available in the other languages (#1120).
     for (const prop of [
