@@ -1,0 +1,19 @@
+{
+    "slug": "mailcommerce",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "mailcommerce GmbH",
+    "address": "Rupert-Mayer-Str. 44\nD-81379 München",
+    "phone": "+49 89 235193931",
+    "email": "datenschutz@mailcommerce.de ",
+    "web": "https://www.mailcommerce.de/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1497"
+    ]
+}
