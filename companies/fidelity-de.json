@@ -21,5 +21,15 @@
         "https://www.fidelity.de/ueber-uns/kontakt/unsere-ansprechpartner/",
         "https://www.fidelity.de/impressum/"
     ],
-    "quality": "verified"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "quality": "tested"
 }
