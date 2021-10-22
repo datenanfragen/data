@@ -31,5 +31,6 @@
             "type": "address"
         }
     ],
+    "needs-id-document": false,
     "quality": "tested"
 }
