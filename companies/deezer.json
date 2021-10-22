@@ -13,7 +13,8 @@
     "web": "http://www.deezer.com",
     "sources": [
         "https://www.deezer.com/legal/legal",
-        "https://github.com/datenanfragen/data/pull/718"
+        "https://github.com/datenanfragen/data/pull/718",
+        "https://github.com/datenanfragen/data/pull/1493"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
