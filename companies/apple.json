@@ -15,8 +15,7 @@
     "sources": [
         "https://www.apple.com/legal/privacy/de-ww/",
         "https://www.apple.com/legal/privacy/en-ww/",
-        "https://www.apple.com/de/contact/",
-        "https://github.com/datenanfragen/data/pull/1491"
+        "https://www.apple.com/de/contact/"
     ],
     "required-elements": [
         {
@@ -25,7 +24,7 @@
             "optional": false
         },
         {
-            "desc": "Email",
+            "desc": "Email or Apple ID",
             "type": "email",
             "optional": false
         }
