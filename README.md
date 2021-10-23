@@ -33,6 +33,8 @@ A list for a country is represented by a JSON array of the slugs representing th
 
 Finally, the `supervisory-authorities` folder contains data on supervisory data protection authorities. They are structured similarly to the company records, following the schema in the `schema-supervisory-authorities.json` file.
 
+All JSON files must end with exactly one newline. All string fields in records must be trimmed (i.e. not have any leading or trailing whitespace).
+
 ## Data format guidelines and resources (for company records)
 
 ### Companies we are interested in
@@ -54,13 +56,14 @@ Some companies don't publish adequate contact information on their website. In t
 
 ### Addresses
 
-We want the addresses to be formatted consistently, so don't just copy the information directly from the company's website. Try to format the address according to the standards of the respective country. For many countries, we already have records with examples on how to format the addresses. Otherwise, the Universal Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.
+We want the addresses to be formatted consistently, so don't just copy the information directly from the company's website. Try to format the address according to the standards of the respective country. For many countries, we already have records with examples on how to format the addresses. Otherwise, the Universal Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.  
+Delimit the individual lines of the address by newlines and make sure that each line is trimmed. The last line of the address has to be the country, either in the country's native language or in English.
 
 For incomplete addresses, you can use SmartyStreets' [Single Address Validation Tool](https://smartystreets.com/products/single-address).
 
 For addresses in Hong Kong, the [Correct Addressing tool](https://www.hongkongpost.hk/correct_addressing/index.jsp?lang=en_US) offered by Hongkong Post, is very useful.
 
-Please **don't** include lines like `Data protection officer`, `Privacy department` or similar. An 'Attn' line is always added automatically by our generator.
+Please **don't** include lines like `Data protection officer`, `Privacy department` or similar. An 'Attn' line is always added automatically by our generator. The same applies to the company name, don't include that in the `address` field, either.
 
 ### Phone and fax numbers
 
@@ -70,7 +73,7 @@ We want phone and fax numbers to be in a standard international format without a
 
 If we know from previous requests (or from a privacy policy) which identification information is needed for requests to a company, we record that under the `required-elements` key.
 
-If `required_elements` are specified, there *should* be one element with type `name`. This does not have to be a real name but could also be a username or even an email address, if no other information is required.  
+If `required_elements` are specified, there must be one element with type `name`. This does not have to be a real name but could also be a username or even an email address, if no other information is required.  
 In addition, the `required_elements` should include some way for the company to respond to the request, be it an address, an email address, a phone number or something similar. 
 
 ## Request language
