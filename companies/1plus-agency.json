@@ -13,6 +13,12 @@
     "fax": "+49 6252 6990559",
     "email": "info@1plus-agency.com",
     "web": "https://www.1plus-agency.com/",
+    "required-elements": [
+        {
+            "desc": "abc",
+            "type": "email"
+        }
+    ],
     "sources": [
         "https://www.facebook.com/1plusagency/",
         "https://github.com/datenanfragen/data/issues/450",

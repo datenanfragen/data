@@ -8,9 +8,10 @@
     ],
     "name": "4Care GmbH",
     "address": "Wissenschaftspark\nFraunhoferstr. 17\n24118 Kiel\nDeutschland",
-    "phone": "+49 431 881188",
+    "phone": "+49 431 881188a",
     "fax": "+49 431 881166",
-    "email": "datenschutz@4care.de",
+    "pgp-fingerprint": "",
+    "email": "datenschutz@4care.de.",
     "web": "https://www.4care.de",
     "sources": [
         "https://www.4care.de/datenschutz",

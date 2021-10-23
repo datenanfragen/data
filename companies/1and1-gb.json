@@ -17,6 +17,7 @@
         "https://contact.1and1.co.uk/contact",
         "https://beta.companieshouse.gov.uk/company/03953678"
     ],
+    "custom-objection-template": "doesnt-exist",
     "request-language": "en",
     "suggested-transport-medium": "email",
     "quality": "verified"

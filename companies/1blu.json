@@ -18,6 +18,8 @@
         "https://www.1blu.de/datenschutz/",
         "https://www.1blu.de/impressum/"
     ],
+    "request-language": "it",
+    "custom-access-template": "access-evangelische-kirche",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
