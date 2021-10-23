@@ -1,0 +1,20 @@
+{
+    "slug": "crowdmade",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": " CROWDMADE, INC.",
+    "address": "Crowdmade\n2645C Barrington Ct\nHayward\nCalifornia 94545\nUnited States of America",
+    "email": "support@crowdmade.com",
+    "web": "https://crowdmade.com/",
+    "sources": [
+        "https://businesssearch.sos.ca.gov/CBS/SearchResults?filing=&SearchType=CORP&SearchCriteria=crowdmade&SearchSubType=Keyword",
+        "https://crowdmade.com/pages/privacy",
+        "https://github.com/datenanfragen/data/pull/1502"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
