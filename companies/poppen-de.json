@@ -15,7 +15,6 @@
     "phone": "+49 800 3335521",
     "fax": "+49 30 338405 999",
     "email": "datenschutz@poppen.de",
-    "web": "https://www.poppen.de",
     "sources": [
         "https://www.poppen.de/policy/popup/true/",
         "https://github.com/datenanfragen/data/pull/1114"
