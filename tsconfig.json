@@ -9,7 +9,8 @@
         "forceConsistentCasingInFileNames": true,
         "lib": ["esnext"],
         "resolveJsonModule": true,
-        "noEmit": true
+        "noEmit": true,
+        "paths": { "*": ["./types/temporary/*"] }
     },
     "include": ["src/**/*.ts"]
 }
