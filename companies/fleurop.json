@@ -18,11 +18,19 @@
     ],
     "required-elements": [
         {
-            "desc": "Ausweiskopie",
-            "type": "input",
-            "optional": false
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
         }
     ],
+    "needs-id-document": true,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
