@@ -1,6 +1,6 @@
 module.exports = {
     parser: '@typescript-eslint/parser',
-    plugins: ['@typescript-eslint'],
+    plugins: ['@typescript-eslint', 'optimize-regex'],
     env: {
         es6: true,
         node: true,
@@ -15,14 +15,13 @@ module.exports = {
         'plugin:eslint-comments/recommended',
         'prettier',
     ],
-    plugins: ['optimize-regex'],
     // TODO this is duplicated from datenanfragen/website
     rules: {
         'no-unused-vars': ['warn', { args: 'none', caughtErrors: 'none' }],
         'no-empty': ['error', { allowEmptyCatch: true }],
         'optimize-regex/optimize-regex': 'warn',
         'no-undef': 'off',
-        'no-unused-vars': ['warn', { args: 'none', caughtErrors: 'none' }],
         '@typescript-eslint/no-non-null-assertion': 'off',
+        '@typescript-eslint/explicit-module-boundary-types': 'off', // TODO
     },
 };
