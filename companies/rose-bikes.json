@@ -1,0 +1,30 @@
+{
+    "slug": "rose-bikes",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "ROSE Bikes GmbH",
+    "email": "info@rosebikes.com",
+    "web": "https://www.rosebikes.de/",
+    "sources": [
+        "https://www.rosebikes.de/impressum",
+        "https://www.rosebikes.de/datenschutz"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": true
+        }
+    ],
+    "request-language": "de",
+    "quality": "verified"
+}
