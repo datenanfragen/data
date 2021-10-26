@@ -1,0 +1,15 @@
+{
+    "slug": "mobilevikings",
+    "relevant-countries": [
+        "be"
+    ],
+    "name": "Mobile Vikings",
+    "address": "Kempische Steenweg 309/1, 3500 Hasselt, KBO no. 886.946.917",
+    "email": "privacy@mobilevikings.be",
+    "web": "https://mobilevikings.be/en/",
+    "sources": [
+        "https://mobilevikings.be/en/terms-of-use/overview/",
+        "https://github.com/datenanfragen/data/pull/1513"
+    ],
+    "quality": "verified"
+}
