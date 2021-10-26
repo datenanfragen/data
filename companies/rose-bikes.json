@@ -8,7 +8,7 @@
     ],
     "name": "ROSE Bikes GmbH",
     "address": "Schersweide 4\n46395 Bocholt\nDeutschland",
-    "email": "info@rosebikes.com",
+    "email": "datenschutz@rosebikes.com",
     "web": "https://www.rosebikes.de/",
     "sources": [
         "https://www.rosebikes.de/impressum",
@@ -23,9 +23,9 @@
         {
             "desc": "Email",
             "type": "email",
-            "optional": true
+            "optional": false
         }
     ],
-    "request-language": "de",
+	"suggested-transport-medium": "email",
     "quality": "verified"
 }
