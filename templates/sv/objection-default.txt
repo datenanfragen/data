@@ -1,0 +1,19 @@
+Till den som detta berör:
+
+Jag invänder härmed mot behandlingen av personuppgifter som rör mig för direktmarknadsföringsändamål enligt artikel 21(2) GDPR. Denna invändning omfattar användningen av profilering i den mån det är relaterat till direktmarknadsföring.
+
+Om jag har gett samtycke till behandlingen av mina personuppgifter för direktmarknadsföringsändamål (t.ex. enligt artikel 6(1) eller artikel 9(2) i GDPR), drar jag härmed tillbaka detta samtycke.
+
+Vänligen meddela mig i förväg om invändningen kommer att leda till radering av ett konto jag kan ha hos dig, uppsägning av ett avtal jag kan ha med dig eller liknande. Jag tar sedan ställning till om detta ska genomföras.
+
+Min begäran inkluderar uttryckligen [kör> följande samt ]alla andra tjänster och företag för vilka du är personuppgiftsansvarig enligt definitionen i artikel 4(7) GDPR[runs>: {runs_list}].
+
+Som anges i artikel 12(3) GDPR måste du bekräfta invändningen till mig utan onödigt dröjsmål och under alla omständigheter inom en månad efter mottagandet av begäran.
+
+Jag inkluderar följande information som behövs för att identifiera mig:
+{id_data}
+Om du inte svarar på min begäran inom den angivna perioden förbehåller jag mig rätten att vidta rättsliga åtgärder mot dig och att lämna in ett klagomål till den ansvariga tillsynsmyndigheten.
+
+Tack på förhand.
+
+Med vänliga hälsningar,
