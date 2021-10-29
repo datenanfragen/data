@@ -1,0 +1,29 @@
+Till den som detta berör:
+
+Jag begär härmed omedelbar radering av personuppgifter som rör mig enligt artikel 17 GDPR.
+
+[erase_all>Var vänlig radera alla personuppgifter som rör mig enligt definitionen i artikel 4(1) GDPR.][erase_some>Vänligen radera följande personuppgifter om mig:
+{erasure_data}]
+
+Jag anser att kraven i artikel 17(1) i GDPR är uppfyllda. Du kan inte heller göra anspråk på ett undantag baserat på artikel 17(3) GDPR, särskilt som jag inte är en offentlig person.
+
+Om jag har gett samtycke till behandlingen av mina personuppgifter (t.ex. enligt artikel 6(1) eller artikel 9(2) GDPR) drar jag härmed tillbaka detta samtycke för hela processen.
+Dessutom invänder jag mot behandlingen av personuppgifter som rör mig (vilket inkluderar profilering), enligt artikel 21 GDPR. Jag ber dig att begränsa behandlingen av uppgifterna om mig i avvaktan på verifieringen av om dina legitima skäl åsidosätter mina, enligt art. 18(1)(d) GDPR.
+
+Om du har gjort ovannämnda uppgifter offentliga är du enligt artikel 17(2) GDPR skyldig att vidta alla rimliga åtgärder för att informera andra registeransvariga, inklusive sökmotoroperatörer, som behandlar personuppgifterna som anges ovan, att jag har begärt radering av alla länkar, kopior eller replikeringar. Detta gäller inte bara exakta kopior av de berörda uppgifterna, utan även de från vilka informationen i de berörda uppgifterna kan härledas.
+
+Om du har avslöjat de berörda personuppgifterna till tredje part måste du kommunicera min begäran om radering av de berörda personuppgifterna, såväl som eventuella hänvisningar till dem, till varje mottagare enligt artikel 19 GDPR. Informera mig också om dessa mottagare.
+
+Om du invänder mot den begärda raderingen måste du motivera det för mig.
+
+Min begäran inkluderar uttryckligen [kör> följande samt ]alla andra tjänster och företag för vilka du är personuppgiftsansvarig enligt definitionen i artikel 4(7) GDPR[runs>: {runs_list}].
+
+Som anges i artikel 12(3) GDPR måste du bekräfta raderingen till mig utan onödigt dröjsmål och i alla händelser inom en månad efter mottagandet av begäran.
+[har_fält>
+Jag inkluderar följande information som behövs för att identifiera mig:
+{id_data}]
+Om du inte svarar på min begäran inom den angivna perioden förbehåller jag mig rätten att vidta rättsliga åtgärder mot dig och att lämna in ett klagomål till den ansvariga tillsynsmyndigheten.
+
+Tack på förhand.
+
+Med vänliga hälsningar,
