@@ -1,0 +1,14 @@
+{
+    "slug": "aklamio-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "aklamio GmbH",
+    "address": "Hauptstraße 27-29\nHaus 9 (Neubau) Aufgang N\n10827 Berlin, Deutschland",
+    "sources": [
+        "https://www.aklamio.com/community/privacy?locale=de",
+        "https://github.com/datenanfragen/data/pull/1523"
+    ],
+    "quality": "verified"
+}
