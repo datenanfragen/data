@@ -1,0 +1,29 @@
+Till den som detta berör:
+
+Jag begär härmed tillgång enligt artikel 15 GDPR. Vänligen bekräfta om du behandlar personuppgifter (enligt definitionen i artikel 4.1 och (2) GDPR) om mig eller inte.
+
+Om du är det, vänligen, i enlighet med art. 15(3) GDPR, ge mig en kopia av <italic>alla</italic> personuppgifter som rör mig som du behandlar, inklusive eventuella pseudonymiserade uppgifter om mig enligt artikel 4(5) GDPR. Jag begär vidare tillgång till följande information i enlighet med artikel 15(1) GDPR:
+1. syftena med behandlingen;
+2. De berörda kategorierna av personuppgifter.
+3. de mottagare eller kategorier av mottagare till vilka personuppgifterna har lämnats eller kommer att lämnas ut;
+4. Om möjligt, den planerade perioden under vilken personuppgifterna kommer att lagras, eller, om det inte är möjligt, de kriterier som använts för att fastställa denna period.
+5. Om personuppgifterna inte samlas in från den registrerade, all tillgänglig information om deras källa.
+6. förekomsten av automatiserat beslutsfattande, inklusive profilering, som avses i artikel 22.1 och 22.4 i GDPR och, åtminstone i dessa fall, meningsfull information om logiken som är involverad, såväl som betydelsen och de förväntade konsekvenserna av sådan bearbetning för mig.
+
+Om du behandlar anonymiserade uppgifter om mig, vänligen informera mig inte bara om det utan också förklara proceduren som används på ett lättförståeligt sätt.
+
+Om du överför mina personuppgifter till ett tredjeland eller en internationell organisation begär jag att få information om lämpliga skyddsåtgärder enligt artikel 46 GDPR gällande överföringen.
+[dataportabilitet>
+Vänligen gör personuppgifterna om mig, som jag har lämnat till dig, tillgängliga för mig i ett strukturerat, allmänt använt och maskinläsbart format enligt artikel 20(1) GDPR.
+]
+Min begäran inkluderar uttryckligen [kör> följande samt ]alla andra tjänster och företag för vilka du är personuppgiftsansvarig enligt definitionen i artikel 4(7) GDPR[runs>: {runs_list}].
+
+Som anges i artikel 12(3) GDPR måste du tillhandahålla den begärda informationen till mig utan onödigt dröjsmål och i alla händelser inom en månad efter mottagandet av begäran. Enligt artikel 15(3) GDPR måste du svara på denna begäran utan kostnad för mig.
+[har_fält>
+Jag inkluderar följande information som behövs för att identifiera mig:
+{id_data}]
+Om du inte svarar på min begäran inom den angivna perioden förbehåller jag mig rätten att vidta rättsliga åtgärder mot dig och att lämna in ett klagomål till den ansvariga tillsynsmyndigheten.
+
+Tack på förhand.
+
+Med vänliga hälsningar,
