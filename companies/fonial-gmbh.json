@@ -1,0 +1,13 @@
+{
+    "slug": "fonial-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "fonial GmbH",
+    "address": "Kaiser-Wilhelm-Ring 7-9\n50672 Köln",
+    "sources": [
+        "https://www.fonial.de/kontakt/impressum/",
+        "https://github.com/datenanfragen/data/pull/1524"
+    ],
+    "quality": "verified"
+}
