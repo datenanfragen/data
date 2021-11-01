@@ -10,13 +10,11 @@
     "runs": [
         "dataxu"
     ],
-    "address": "Roku International B.V.\nHerikerbergweg 238\n1101 CM Amsterdam\nThe Netherlands",
+    "address": "Herikerbergweg 238\n1101 CM Amsterdam\nThe Netherlands",
     "email": "privacy@roku.com",
     "web": "https://www.roku.com/de-de/",
     "sources": [
-        "https://docs.roku.com/published/userprivacypolicy/de/de",
-        "https://privacy.roku.com/contact",
-        "https://privacy.roku.com/contact/anonymous"
+        "https://docs.roku.com/published/userprivacypolicy"
     ],
     "required-elements": [
         {
@@ -31,5 +29,8 @@
         }
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Web form for requests: https://privacy.roku.com/contact"
+    ],
     "quality": "verified"
 }
