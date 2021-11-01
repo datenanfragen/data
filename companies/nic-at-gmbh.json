@@ -3,16 +3,11 @@
     "relevant-countries": [
         "at"
     ],
-    "categories": [
-        "telecommunication"
-    ],
     "name": "nic.at GmbH",
-    "address": "Jakob-Haringer-Straße 8/V\n5020 Salzburg\nÖsterreich",
-    "email": "service@nic.at",
-    "web": "https://www.nic.at",
+    "address": "nic.at GmbH\n\nJakob-Haringer-Straße 8/V\n5020 Salzburg\nÖsterreich",
     "sources": [
         "https://www.nic.at/de/wissenswertes/rechtliche-hintergruende/datenschutzerklaerung",
-        "https://github.com/datenanfragen/data/pull/1305"
+        "https://github.com/datenanfragen/data/pull/1525"
     ],
     "quality": "verified"
 }
