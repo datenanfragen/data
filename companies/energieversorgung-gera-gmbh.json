@@ -1,0 +1,16 @@
+{
+    "slug": "energieversorgung-gera-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Energieversorgung Gera GmbH",
+    "address": "De-Smit-Straße 18\n07545 Gera",
+    "fax": "+49 365 8561199",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1528"
+    ]
+}
