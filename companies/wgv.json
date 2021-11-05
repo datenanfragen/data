@@ -1,0 +1,20 @@
+{
+    "slug": "wgv",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Württembergische Gemeinde-Versicherung a. G",
+    "address": "Datenschutzbeauftragter\nWGV Versicherungen\n70164 Stuttgart",
+    "phone": "0711 1695-1500",
+    "fax": "0711 1695-1100",
+    "email": "datenschutzbeauftragter@wgv.de",
+    "web": "https://www.wgv.de/",
+    "sources": [
+        "https://www.wgv.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1530"
+    ],
+    "quality": "verified"
+}
