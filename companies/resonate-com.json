@@ -13,6 +13,7 @@
     "sources": [
         "https://www.resonate.com/privacy-policy/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "quality": "verified"
 }

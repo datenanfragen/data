@@ -15,7 +15,6 @@
     "sources": [
         "https://www.emetriq.com/datenschutz/"
     ],
-    "request-language": "de",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

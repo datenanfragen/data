@@ -1,0 +1,16 @@
+{
+    "slug": "tellja",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Tellja GmbH",
+    "address": "Solmsstr. 12\n60486 Frankfurt am Main\nDeutschland",
+    "fax": "+49 69 870042929",
+    "email": "support@tellja.de",
+    "web": "https://www.tellja.de",
+    "sources": [
+        "https://www.tellja.eu/de/disclaimer.html",
+        "https://github.com/datenanfragen/data/pull/1310"
+    ],
+    "quality": "verified"
+}

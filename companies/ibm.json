@@ -1,0 +1,28 @@
+{
+    "slug": "ibm",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce",
+        "telecommunication"
+    ],
+    "name": "IBM International Group B.V.",
+    "runs": [
+        "IBM Aspera",
+        "IBM Cloud (formerly Softlayer)",
+        "IBM Consulting",
+        "IBM Watson"
+    ],
+    "address": "Johan Huizingalaan 765\n1066 VH Amsterdam\nThe Netherlands",
+    "web": "https://www.ibm.com",
+    "sources": [
+        "https://www.ibm.com/privacy",
+        "https://www.ibm.com/privacy/portal/us-en",
+        "https://www.ibm.com/privacy/details"
+    ],
+    "comments": [
+        "Data requests must be made via this web form:\nhttps://www.ibm.com/privacy/portal/contact/us-en"
+    ],
+    "quality": "verified"
+}

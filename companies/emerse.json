@@ -15,6 +15,7 @@
         "https://www.emerse.com/privacy-policy/",
         "https://www.emerse.com/contact/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

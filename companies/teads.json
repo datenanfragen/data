@@ -15,6 +15,7 @@
         "https://www.teads.com/privacy-policy/",
         "https://www.teads.com/teads-offices/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

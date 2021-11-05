@@ -1,5 +1,8 @@
 {
     "slug": "regis24",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "credit agency",
         "addresses"
@@ -18,21 +21,24 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
+            "type": "address",
+            "optional": false
         },
         {
             "desc": "Geburtsdatum",
-            "type": "birthdate"
+            "type": "birthdate",
+            "optional": false
         }
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
+    "comments": [
+        "Webformular für Anfragen: https://selbstauskunft.regis24.com/"
+    ],
     "quality": "tested"
 }

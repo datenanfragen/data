@@ -1,0 +1,19 @@
+Till den som detta berör:
+
+Jag begär härmed rättelse eller komplettering av felaktiga personuppgifter som rör mig enligt artikel 16 GDPR.
+
+Vänligen gör följande ändringar:
+{rectification_data}
+Om ni har avslöjat de berörda personuppgifterna för en eller flera mottagare enligt definitionen i artikel 4.9 i GDPR måste ni meddela min begäran om rättelse av de berörda personuppgifterna till varje mottagare enligt artikel 19 i GDPR. Vänligen informera mig också om mottagarna.
+
+Min begäran innehåller uttryckligen [runs> följande samt] alla andra tjänster och företag som du är personuppgiftsansvarig för enligt definitionen i artikel 4.7 i GDPR [runs>: {runs_list}].
+
+Enligt artikel 12.3 i GDPR måste ni bekräfta rättelsen för mig utan onödigt dröjsmål och under alla omständigheter inom en månad efter mottagandet av begäran.
+[has_fields>
+Jag inkluderar följande information som är nödvändig för att identifiera mig:
+{id_data}]
+Om ni inte svarar på min begäran inom den angivna tiden förbehåller jag mig rätten att vidta rättsliga åtgärder mot er och att klaga hos den ansvariga tillsynsmyndigheten.
+
+Tack på förhand.
+
+Med vänliga hälsningar,

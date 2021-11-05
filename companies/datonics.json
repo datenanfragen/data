@@ -14,6 +14,7 @@
     "sources": [
         "https://www.datonics.com/technology-privacy-policy"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

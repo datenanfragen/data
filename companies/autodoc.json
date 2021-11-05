@@ -1,0 +1,48 @@
+{
+    "slug": "autodoc",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "AUTODOC AG",
+    "runs": [
+        "Autoteile-Meile.de",
+        "Katdirekt.de",
+        "Motoroel-direkt.de",
+        "Sportfahrwerk.biz"
+    ],
+    "address": "Josef-Orlopp-Straße 55\n10365 Berlin\nDeutschland",
+    "fax": "+49 30 208478250",
+    "email": "privacy-policy@autodoc.de",
+    "web": "https://www.autodoc.de",
+    "sources": [
+        "https://www.autodoc.de/services/datenschutz",
+        "https://www.autoteile-meile.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1276"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Autoteile-Meile.de, Katdirekt.de, Motoroel-direkt.de und Sportfahrwerk.biz gehörten ursprünglich der Delticom AG, wurden aber mittlerweile an die Autodoc Group verkauft. Autodoc kann nur Anfragen für nach dem Verkauf verarbeitete Daten beantworten, Anfragen bezogen auf den Zeitraum davor müssen an Delticom gestellt werden."
+    ],
+    "quality": "tested"
+}
