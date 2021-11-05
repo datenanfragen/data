@@ -1,0 +1,17 @@
+{
+    "slug": "ikk-gesund-plus",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "IKK gesund plus",
+    "address": "IKK gesund plus\nUmfassungsstraße 85\n39124 Magdeburg",
+    "fax": "0391 2806-6839",
+    "email": "info@ikk-gesundplus.de",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1529"
+    ]
+}
