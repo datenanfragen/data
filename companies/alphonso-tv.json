@@ -8,12 +8,12 @@
     ],
     "name": "Alphonso Inc.",
     "address": "2440 W El Camino Real\nMountain View\nCA 94040\nUnited States of America",
-    "email": "privacy@alphonso.tv",
+    "email": "infoEU@alphonso.tv",
     "web": "https://alphonso.tv/",
     "sources": [
-        "https://alphonso.tv/privacy/site-privacy/",
-        "https://alphonso.tv/privacy/"
+        "https://alphonso.tv/privacy/smart-tvs/smart-tv-privacy-policy-eu/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

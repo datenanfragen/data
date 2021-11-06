@@ -21,6 +21,7 @@
     "sources": [
         "https://www.dataxu.com/about-us/privacy/data-collection-platform/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

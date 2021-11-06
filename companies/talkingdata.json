@@ -18,6 +18,7 @@
         "https://www.talkingdata.com/privacy.jsp?languagetype=en_us",
         "https://www.talkingdata.com/contact.jsp?languagetype=en_us"
     ],
+    "request-language": "en",
     "suggested-transport-medium": "email",
     "quality": "verified",
     "custom-access-template": "access-tracking"

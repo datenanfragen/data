@@ -21,6 +21,7 @@
         "https://www.flashtalking.com/privacypolicy",
         "https://www.flashtalking.com/contact-us"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

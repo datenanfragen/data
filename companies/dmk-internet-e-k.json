@@ -18,6 +18,7 @@
         "https://clix.superclix.de/w3c/",
         "https://github.com/datenanfragen/data/pull/1285"
     ],
+    "request-language": "de",
     "quality": "verified",
     "custom-access-template": "access-tracking"
 }

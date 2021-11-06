@@ -13,6 +13,7 @@
     "sources": [
         "https://www.ubimo.com/privacy"
     ],
+    "request-language": "en",
     "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
     "quality": "verified"
