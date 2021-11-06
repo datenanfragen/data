@@ -14,18 +14,7 @@
         "https://www.flybuy.com/privacy-policy",
         "https://www.privacyshield.gov/participant?id=a2zt00000008WuQAAU&status=Active"
     ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name",
-            "optional": false
-        },
-        {
-            "desc": "Email",
-            "type": "email",
-            "optional": false
-        }
-    ],
+    "request-language": "en",
     "suggested-transport-medium": "email",
     "quality": "verified",
     "custom-access-template": "access-tracking"

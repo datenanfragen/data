@@ -1,0 +1,26 @@
+{
+    "slug": "stroeermediabrands",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Ströer Media Brands GmbH",
+    "runs": [
+        "GIGA.de",
+        "desired.de",
+        "kino.de",
+        "familie.de",
+        "spieletipps.de",
+        "mytest.de"
+    ],
+    "address": "Torstraße 49\n10119 Berlin\nDeutschland",
+    "email": "smb-datenschutzbeauftragter@stroeer.de",
+    "web": "https://www.stroeermediabrands.de",
+    "sources": [
+        "https://www.stroeermediabrands.de/impressum",
+        "https://www.stroeermediabrands.de/datenschutz",
+        "https://www.stroeermediabrands.de/marken/",
+        "https://github.com/datenanfragen/data/pull/1338"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

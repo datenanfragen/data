@@ -9,7 +9,7 @@
         "Mapillary GmbH"
     ],
     "address": "Malmtorgsgatan 8\n111 51 Stockholm\nSweden",
-    "email": "privacy@mapillary.com",
+    "email": "support@mapillary.zendesk.com",
     "web": "https://www.mapillary.com",
     "sources": [
         "https://www.mapillary.com/terms",
@@ -29,7 +29,6 @@
             "type": "input"
         }
     ],
-    "suggested-transport-medium": "email",
     "request-language": "en",
     "quality": "verified"
 }

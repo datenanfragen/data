@@ -15,6 +15,7 @@
         "https://www.liveintent.com/services-privacy-policy/",
         "https://www.liveintent.com/get-in-touch/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

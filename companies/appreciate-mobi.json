@@ -13,6 +13,7 @@
     "address": "3 Hasadnaot Street\n4672830 Herzliya\nIsrael",
     "email": "privacy@appreciate.mobi",
     "web": "https://appreciate.mobi/",
+    "request-language": "en",
     "sources": [
         "https://appreciate.mobi/page.html#!/end-user-privacy-policy",
         "https://relationshipscience.com/organization/triapodi-ltd-1889252"

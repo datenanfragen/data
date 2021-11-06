@@ -15,6 +15,7 @@
         "https://supersonic.com/privacy-policy/",
         "https://supersonic.com/privacy/"
     ],
+    "request-language": "en",
     "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
     "quality": "verified"

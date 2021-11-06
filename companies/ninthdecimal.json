@@ -6,12 +6,17 @@
     "categories": [
         "ads"
     ],
-    "name": "NinthDecimal, Inc.",
-    "address": "150 Post Street\nSuite 500\nSan Francisco\nCA 94108\nUnited States of America",
-    "email": "privacy@ninthdecimal.com",
-    "web": "https://www.ninthdecimal.com/",
+    "name": "InMarket Media, LLC",
+    "runs": [
+        "NinthDecimal, Inc. (formerly)"
+    ],
+    "address": "11111 Jefferson Blvd #5243\nCulver City, CA 90231\nUnited States of America",
+    "email": "privacy@inmarket.com",
+    "web": "https://inmarket.com",
     "sources": [
-        "https://www.ninthdecimal.com/privacy-policy-terms-of-service/"
+        "https://inmarket.com/privacy/",
+        "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=201013910005-29193174",
+        "https://www.prnewswire.com/news-releases/inmarket-acquires-assets-from-ninthdecimal-creating-the-definitive-leader-in-real-time-data-driven-marketing-301126032.html"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
