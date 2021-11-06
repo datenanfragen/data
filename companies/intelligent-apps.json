@@ -22,7 +22,6 @@
     "address": "Neumühlen 19\n22763 Hamburg\nDeutschland",
     "phone": "+49 40 401198586",
     "fax": "+49 40 401198586",
-    "email": "impressum@free-now.com",
     "web": "https://free-now.com",
     "sources": [
         "https://free-now.com/de/impressum",
@@ -30,6 +29,9 @@
         "https://github.com/datenanfragen/data/issues/344",
         "https://www.crunchbase.com/organization/intelligent-apps-mytaxi",
         "https://free-now.com/de/fahrgast/europa/"
+    ],
+    "comments": [
+        "Webformular für Anfragen: https://support.free-now.com/hc/de/requests/new"
     ],
     "required-elements": [
         {
