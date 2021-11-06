@@ -5,4 +5,4 @@ export const ajv = new Ajv({ verbose: true });
 ajv.addFormat('text', () => true);
 // ajv doesn't support the `idn-email` format. As validation of email addresses isn't exactly critical for us, we'll
 // just use this *very* basic check.
-ajv.addFormat('idn-email', /^\S+@\S+\.\S+$/);
+ajv.addFormat('idn-email', /^\S+@\S+\.[^\.\s]+$/);

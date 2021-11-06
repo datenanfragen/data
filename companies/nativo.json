@@ -14,6 +14,9 @@
         "https://www.nativo.com/privacy-policy"
     ],
     "request-language": "en",
+    "comments": [
+        "Web form for requests: https://submit-irm.trustarc.com/services/validation/e1b081d3-40df-4137-add0-7e34cf4d13b2"
+    ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

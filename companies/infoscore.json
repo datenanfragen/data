@@ -1,21 +1,30 @@
 {
     "slug": "infoscore",
     "relevant-countries": [
-        "de"
+        "de",
+        "at",
+        "ch"
     ],
     "categories": [
         "credit agency"
     ],
     "name": "infoscore Consumer Data GmbH",
+    "runs": [
+        "informa Solutions GmbH",
+        "3C Deutschland GmbH",
+        "Credify Informationsdienstleistungen GmbH",
+        "Experian Austria GmbH",
+        "Experian Switzerland AG"
+    ],
     "address": "Rheinstraße 99\n76532 Baden-Baden\nDeutschland",
-    "phone": "+49 7221 5040 3200",
+    "phone": "+49 7221 7793 300",
     "fax": "+49 7221 5040 3201",
-    "email": "datenschutz@arvato-infoscore.de",
-    "web": "https://finance.arvato.com/de/verbraucher/selbstauskunft/infoscore-consumer-data-gmbh.html",
+    "email": "rm-data-information@arvato.com",
+    "web": "https://www.experian.de/",
     "sources": [
-        "https://finance.arvato.com/de/verbraucher/selbstauskunft.html",
-        "https://finance.arvato.com/4a2850/globalassets/02-documents/04-ger/07-icd/antrag_selbstauskunft.pdf",
-        "https://finance.arvato.com/content/dam/arvato/arvato-financial-solutions/de/documents/service-fuer-verbraucher/informationsblatt_artikel_14_EUDSGVO.pdf",
+        "https://www.experian.de/legal/datenschutz",
+        "https://www.experian.de/selbstauskunft",
+        "https://www.experian.de/legal/impressum",
         "https://github.com/datenanfragen/data/issues/100",
         "https://github.com/datenanfragen/data/issues/637"
     ],
@@ -27,9 +36,15 @@
         {
             "desc": "Adresse",
             "type": "address"
+        },
+        {
+            "desc": "Vorherige Adresse",
+            "type": "address",
+            "optional": true
         }
     ],
     "comments": [
+        "Webformular für Anfragen: https://www.experian.de/selbstauskunft/online-formular-selbstauskunft",
         "Erbitten Anschriften der letzten fünf Jahre für vollständigere Auskunft."
     ],
     "needs-id-document": false,
