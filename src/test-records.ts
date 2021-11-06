@@ -129,6 +129,22 @@ const company_checks = (json: CompanyRecord, f: string): TestEvent[] => {
                         type: 'error',
                     });
             }
+            // If a record uses a tracking template (making it a "tracking company" in our terminology), it cannot have `required-elements` set as tracking companies ask for contact details (which are always the same fields) instead of identification data (which differs by company) in our generator.
+            const tracking_templates = [
+                'access-tracking',
+                'erasure-tracking',
+                'rectification-tracking',
+                'objection-tracking',
+            ]
+            const is_tracking_template = tracking_templates.includes(template);
+            if (is_tracking_template) {
+                if (json['required-elements'])
+                    events.push({
+                        msg: "Record uses tracking template but also has `required-elements` set.",
+                        ref: 'https://github.com/datenanfragen/data/issues/1445',
+                        type: 'error',
+                    });
+            }
         }
     }
 
