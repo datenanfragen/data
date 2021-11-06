@@ -36,6 +36,11 @@
         {
             "desc": "Adresse",
             "type": "address"
+        },
+        {
+            "desc": "Vorherige Adresse",
+            "type": "address",
+            "optional": true
         }
     ],
     "comments": [
@@ -44,5 +49,5 @@
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
