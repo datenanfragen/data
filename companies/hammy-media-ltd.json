@@ -14,7 +14,8 @@
     "email": "help@xhamster.com",
     "sources": [
         "https://xhamster.com/info/privacy",
-        "https://github.com/datenanfragen/data/issues/546"
+        "https://github.com/datenanfragen/data/issues/546",
+        "https://github.com/datenanfragen/data/pull/1531"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified",
