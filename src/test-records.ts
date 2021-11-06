@@ -1,4 +1,6 @@
 import fs from 'fs';
+import { join, relative } from 'path';
+import arg from 'arg';
 import glob from 'glob';
 import json_map, { JsonSourceMap } from 'json-source-map';
 import { omit, pick } from 'filter-anything';
@@ -14,7 +16,8 @@ import { CheckInstance, RdjsonLine } from './types/checks';
 
 marked.setOptions({ renderer: new TerminalRenderer({ reflowText: true, width: process.stdout.columns - 10, tab: 2 }) });
 
-const reviewdog = process.argv.includes('--reviewdog'); // TODO: Do more sophisticated parsing if we need more options.
+const args = arg({ '--reviewdog': Boolean, '--dir': String, '-d': '--d' });
+const base_dir = args['--dir'] || '.';
 
 let exit_code = 0;
 
@@ -38,6 +41,7 @@ const validate = async (dir: string) => {
 
     for (const f of files) {
         const file_content = fs.readFileSync(f).toString();
+        const rel_path = relative(base_dir, f);
 
         let json: GenericRecord;
         let pointers: Record<string, JsonSourceMap>;
@@ -52,7 +56,7 @@ const validate = async (dir: string) => {
                     ['message', 'name', 'stack'],
                     4
                 )}\n\`\`\``,
-                location: { path: f, range: { start: { line: 1 } } },
+                location: { path: rel_path, range: { start: { line: 1 } } },
                 severity: 'ERROR',
                 code: { value: 'valid-json', url: 'https://github.com/datenanfragen/data#data-formats' },
                 source: { name: 'recordlint' },
@@ -76,10 +80,10 @@ const validate = async (dir: string) => {
         };
 
         for (const [name, { checks, url, path_filter }] of Object.entries(linters)) {
-            if (!path_filter(f)) continue;
+            if (!path_filter(rel_path)) continue;
 
             for (const check of checks) {
-                const res = check.run(json, { locator, file_path: f, file_content }) || [];
+                const res = check.run(json, { locator, file_path: rel_path, file_content }) || [];
                 check_results.push(
                     // Really not sure why the cast is necessary here…
                     ...(Array.isArray(res) ? (res.filter((r) => r) as CheckInstance[]) : [res])
@@ -87,7 +91,7 @@ const validate = async (dir: string) => {
                         .map((r) => ({
                             ...pick(r, ['message', 'severity']),
                             location: {
-                                path: f,
+                                path: rel_path,
                                 range: r.location || (r.json_pointer && locator(r.json_pointer)) || undefined,
                             },
                             code: { value: r.id, url: r.url },
@@ -108,7 +112,7 @@ const validate = async (dir: string) => {
         }
     }
 
-    if (reviewdog) console.log(check_results.map((r) => JSON.stringify(r)).join('\n'));
+    if (args['--reviewdog']) console.log(check_results.map((r) => JSON.stringify(r)).join('\n'));
     else {
         const results_per_file = check_results.reduce<Record<string, RdjsonLine[]>>((acc, cur) => {
             if (!acc[cur.location.path]) acc[cur.location.path] = [];
@@ -173,7 +177,7 @@ const validate = async (dir: string) => {
 };
 
 (async () => {
-    await validate('companies');
-    await validate('supervisory-authorities');
+    await validate(join(base_dir, 'companies'));
+    await validate(join(base_dir, 'supervisory-authorities'));
     process.exit(exit_code);
 })();
