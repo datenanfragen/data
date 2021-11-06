@@ -1,0 +1,29 @@
+Dobrý den, 
+
+tímto žádám o vymazání osobních údajů týkající se mé osoby bez zbytečného odkladu podle článku 17 Obecného nařízení o ochraně osobních údajů (GDPR).
+
+[erase_all>Prosím o vymazání všech osobních údajů týkajících se mé osoby, jak jsou definovány v článku 4, odst. 1 GDPR.][erase_some>Prosím o vymazání následujících osobních údajů týkajících se mé osoby:
+{erasure_data}]
+
+Jsem toho názoru, že jsou naplněny požadavky definované v článku 17, odst. 1 GDPR. A tedy nelze uplatnit výjimku podle článku 17, odst. 3 GDPR, neboť nejsem veřejně činnou osobou.
+
+Pokud jsem souhlasil se zpracováním osobních údajů (např. podle článku 6, odst. 1 nebo článku 9, odst. 2 GDPR), tímto odvolávám souhlas se zpracováním. 
+Kromě toho vznáším námitku ke zpracování osobních údajů týkajících se mé osoby (což zahrnuje profilování), podle článku 21 GDPR. Žádám, abyste omezili zpracování údajů týkajících se mé osoby do ověření, zda Vaše legitimní zájmy mají přednost před mými zájmy podle čl. 18, odst. 1, bodu d) GDPR.
+
+Pokud jste výše zmíněné údaje zveřejnili, jste povinni podle článku 17, odst. 2 GDPR učinit všechny opodstatněné kroky k informování ostatních správců osobních údajů, včetně provozovatelů vyhledávačů, kteří zpracovávají osobní údaje uvedené výše, že žádám o vymazání všech odkazů, kopií nebo replikací. To se týká nejen přesných kopií zmíněných údajů, ale také těch, ze kterých mohou být odvozeny informace obsažené v údajích. 
+
+V případě, že jste sdělili dotčené osobní údaje třetí straně, máte povinnost sdělit moji žádost o výmaz dotčených osobních údajů, jakož i jakékoliv reference na ně, každému příjemci, jak uvádí článek 19 GDPR. Prosím o informování mě o těchto příjemcích.
+
+Pokud nesouhlasíte s žádostí o výmaz, máte povinnost mi podat vysvětlení.
+
+Moje žádost explicitně zahrnuje [runs>následující stejně jako ]jakékoliv další služby a společnosti, pro které jste správcem osobních údajů podle článku 4, odst. 7 GDPR[runs>: {runs_list}].
+
+Jak je stanoveno v článku 12, odst. 3 GDPR, máte povinnost mi potvrdit výmaz bez zbytečného odkladu a v každém případě do jednoho měsíce od obdržení žádosti.
+[has_fields>
+Přikládám následující informace nezbytné k identifikování mé osoby:
+{id_data}]
+Pokud neodpovíte na moji žádost ve stanovené lhůtě, vyhrazuji si právo učinit právní kroky a podat stížnost k odpovídajícímu kontrolnímu orgánu.
+
+Předem děkuji.
+
+S pozdravem,

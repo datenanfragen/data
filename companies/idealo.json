@@ -1,5 +1,8 @@
 {
     "slug": "idealo",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads",
         "travel",
@@ -7,7 +10,10 @@
     ],
     "name": "idealo internet GmbH",
     "runs": [
-        "Kundenkonto „Mein idealo“"
+        "idealo Shopping",
+        "idealo Hotel",
+        "idealo Flug",
+        "Mein idealo"
     ],
     "address": "Ritterstraße 11\n10969 Berlin\nDeutschland",
     "phone": "+49 800 72 40 831",
@@ -29,9 +35,6 @@
             "type": "email",
             "optional": false
         }
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",

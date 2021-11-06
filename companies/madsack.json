@@ -19,7 +19,8 @@
         "Neue Presse",
         "Peiner Allgemeine Zeitung",
         "Schaumburger Nachrichten",
-        "Wolfsburger Allgemeine Zeitung"
+        "Wolfsburger Allgemeine Zeitung",
+        "RND RedaktionsNetzwerk Deutschland GmbH (www.rdn.de)"
     ],
     "address": "August-Madsack-Straße 1\n30559 Hannover\nDeutschland",
     "phone": "+49 511 5180",
@@ -39,7 +40,10 @@
         "https://www.sn-online.de/Anzeigen-Maerkte/Mediadaten/Kontakt/Datenschutzerklaerung",
         "https://www.waz-online.de/Kontakt/Datenschutzhinweise",
         "https://www.madsack.de/datenschutzhinweise/",
-        "https://github.com/datenanfragen/data/pull/1328"
+        "https://github.com/datenanfragen/data/pull/1328",
+        "https://www.rnd.de/impressum",
+        "https://www.rnd.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1372"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

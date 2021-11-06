@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   test:
       docker:
-        - image: circleci/node:12-buster
+        - image: circleci/node:14-buster
       steps:
         - checkout
 
@@ -22,7 +22,7 @@ jobs:
               - ./node_modules
   deploy:
     docker:
-        - image: circleci/node:12-buster
+        - image: circleci/node:14-buster
     steps:
       - checkout
 

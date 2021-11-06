@@ -22,6 +22,7 @@
         "https://www.wearemiq.com/privacy-and-compliance/privacy-policy/",
         "https://www.wearemiq.com/contact/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

@@ -1,0 +1,13 @@
+Till den som detta berör:
+
+Jag lämnar härmed ett klagomål enligt artikel 77 i GDPR. På {request_date} skickade jag en begäran enligt artikel {request_article} GDPR till följande personuppgiftsansvarige:
+{request_recipient_address}
+
+{Beskrivning av förseelserna från den personuppgiftsansvarige och de steg du vidtagit (t.ex. förmaningar eller annan korrespondens, inkludera kvitton)}.
+
+Det är därför jag lämnar detta klagomål till er. Kontrollera denna praxis av den personuppgiftsansvarige och få dem att följa min begäran.
+
+Om ni behöver mer information, kontakta mig gärna. Ni kan nå mig på {beskrivning av sättet att kontakta dig, t.ex. e -postadress, postadress, telefonnummer}. [valfritt: Snälla bibehåll denna information privat för att bevara min anonymitet.]
+Tack på förhand för er hjälp.
+
+Med vänliga hälsningar,

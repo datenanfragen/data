@@ -3,22 +3,44 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "BILD",
+    "name": "Axel Springer SE",
     "runs": [
+        "BILD",
+        "BILD.de",
+        "ComputerBILD.de",
+        "AutoBILD.de",
+        "SportBILD.de",
+        "TestBILD.de",
+        "myHOMEBOOK.de",
+        "FITBOOK.de",
+        "TECHBOOK.de",
+        "TRAVELBOOK.de",
+        "STYLEBOOK.de",
+        "bz-berlin.de",
+        "Axel Springer Akademie",
+        "FreeTech Academy",
+        "Mein BILD",
         "BILDsmart",
-        "BILDplus",
-        "Sport BILD",
-        "BILDspielt",
-        "BILD kämpft für Sie",
-        "BILD Leser-Reporter"
+        "BILDplus"
     ],
-    "address": "c/o Axel Springer SE\nAxel-Springer-Straße 65\n10888 Berlin\nDeutschland",
+    "address": "Axel-Springer-Straße 65\n10888 Berlin\nDeutschland",
     "phone": "+49 30 5858 5379",
-    "email": "datenschutz@bild.de",
+    "email": "datenschutz.kundenservice@axelspringer.de",
     "web": "https://www.bild.de",
     "sources": [
         "https://www.bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-54485502.bild.html",
-        "https://www.bild.de/corporate-site/impressum/bild-de/impressum-30746918.bild.html"
+        "https://sportbild.bild.de/corporate-site/datenschutz/sportbild-channel-struktur/artikel-datenschutz-55798076.sport.html",
+        "https://www.bild.de/corporate-site/impressum/bild-de/impressum-30746918.bild.html",
+        "https://www.computerbild.de/datenschutz/",
+        "https://www.testbild.de/datenschutz/",
+        "https://www.autobild.de/datenschutz/",
+        "https://www.myhomebook.de/datenschutzerklaerung",
+        "https://www.fitbook.de/datenschutzerklaerung",
+        "https://www.techbook.de/datenschutzerklaerung",
+        "https://www.travelbook.de/datenschutzerklaerung",
+        "https://www.stylebook.de/datenschutzerklaerung",
+        "https://www.freetech.academy/datenschutz.html",
+        "https://www.bz-berlin.de/allgemein/impressum-und-datenschutz"
     ],
     "suggested-transport-medium": "email",
     "comments": [

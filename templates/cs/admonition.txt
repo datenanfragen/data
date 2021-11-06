@@ -1,0 +1,10 @@
+Dobrý den, 
+
+dne {request_date} jsem Vám zaslal žádost podle článku {request_article} Obecného nařízení o ochraně osobních údajů (GDPR).
+{Popis problému, např.: Bohužel jsem zatím neobdržel odpověď. Doba jednoho měsíce podle článku 12, odst. 3, věty 1 GDPR je tedy překročena.}
+
+Proto Vás znovu kontaktuji. Po doručení této námitky, prosím o odpovídající odpověď na moji žádost do dvou týdnů. Pokud k tomu nedojde vyhrazuji si právo učinit právní kroky a podat stížnost k odpovídajícímu kontrolnímu orgánu.
+
+Děkuji.
+
+S pozdravem,

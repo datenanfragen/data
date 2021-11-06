@@ -16,6 +16,7 @@
         "https://www.jaduda.com/datenschutzerklaerung/",
         "https://www.jaduda.com/impressum/"
     ],
+    "request-language": "de",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

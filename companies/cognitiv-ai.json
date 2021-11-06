@@ -15,6 +15,7 @@
         "https://cognitiv.ai/privacy-policy/",
         "https://cognitiv.ai/about-cognitiv/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

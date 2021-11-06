@@ -24,6 +24,7 @@
         "https://www.mintegral.com/en/privacy/",
         "https://www.mintegral.com/wp-content/uploads/2021/07/Privacy_Policy-Mintegral.pdf"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"

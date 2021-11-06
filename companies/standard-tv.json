@@ -1,0 +1,23 @@
+{
+    "slug": "standard-tv",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Standard Broadcast LLC",
+    "runs": [
+        "Nebula"
+    ],
+    "address": "30 N Gould St Ste R\nSheridan, WY 82801\nUnited States of America",
+    "email": "privacy@standard.tv",
+    "web": "https://standard.tv",
+    "sources": [
+        "https://standard.tv/privacy/",
+        "https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=213050221250176168007023209179070220046129001154"
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

@@ -12,8 +12,8 @@
     "email": "datenschutz@acxiom.com",
     "web": "http://www.acxiom.de/",
     "sources": [
-        "http://www.acxiom.de/datenschutz/",
-        "http://www.acxiom.de/impressum/",
+        "https://www.acxiom.de/datenschutz/",
+        "https://www.acxiom.de/impressum/",
         "https://github.com/datenanfragen/data/pull/1099"
     ],
     "required-elements": [
@@ -26,9 +26,10 @@
             "type": "address"
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
         "Webformular für Anfragen: https://www.acxiom.de/verbraucheranfragen/"
     ],
-    "quality": "verified"
+    "quality": "tested"
 }

@@ -15,6 +15,7 @@
         "https://www.4wmarketplace.com/privacy/",
         "https://www.4wmarketplace.com/contatti/"
     ],
+    "request-language": "it",
     "custom-access-template": "access-tracking",
     "quality": "verified"
 }

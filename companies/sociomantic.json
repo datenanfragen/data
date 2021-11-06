@@ -16,6 +16,7 @@
         "https://www.dunnhumby.com/terms-and-conditions/",
         "https://www.dunnhumby.com/contact/"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
     "quality": "verified"
 }
