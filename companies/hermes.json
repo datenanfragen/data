@@ -1,5 +1,8 @@
 {
     "slug": "hermes",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -23,12 +26,7 @@
             "type": "address"
         }
     ],
-    "comments": [
-        "Erbitten datenschutzspezifische Anfragen per E-Mail zur schnelleren Bearbeitung."
-    ],
-    "relevant-countries": [
-        "de"
-    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
