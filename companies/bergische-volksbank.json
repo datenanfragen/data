@@ -7,13 +7,13 @@
         "finance"
     ],
     "name": "Volksbank im Bergischen Land eG",
-    "address": "Volksbank im Bergischen Land eG\nTenter Weg 1-3\n42897 Remscheid \nGermany",
-    "phone": " 02191699111",
-    "fax": "02191699372",
-    "email": "dialogteam@voba-ibl.de",
+    "address": "Tenter Weg 1-3\n42897 Remscheid\nDeutschland",
+    "phone": "+49 2191 699111",
+    "fax": "+49 2191 699372",
+    "email": "datenschutzbeauftragter@voba-ibl.de",
     "web": "https://www.bergische-volksbank.de/",
     "sources": [
-        "https://www.bergische-volksbank.de/service/rechtliche-hinweise/impressum.html",
+        "https://www.bergische-volksbank.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.nolayer.landingpage.html",
         "https://github.com/datenanfragen/data/pull/1499"
     ],
     "suggested-transport-medium": "email",
