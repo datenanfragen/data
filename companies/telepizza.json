@@ -7,14 +7,15 @@
         "commerce"
     ],
     "name": "TELE PIZZA AG",
-    "address": "Wittenberger Weg 103\n40593 Düsseldorf",
+    "address": "Wittenberger Weg 103\n40593 Düsseldorf\nDeutschland",
     "phone": "+49 211 996066",
     "fax": "+49 211 9960676",
-    "email": "info@telepizza.de",
+    "email": "datenschutz@telepizza.de",
     "web": "https://www.telepizza.de/",
     "sources": [
-        "https://www.telepizza.de/impressum",
+        "https://www.telepizza.de/datenschutz",
         "https://github.com/datenanfragen/data/pull/1532"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
