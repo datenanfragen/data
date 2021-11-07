@@ -12,7 +12,7 @@
     "email": "datenschutz@prosiebenmaxx.de",
     "web": "https://www.prosiebenmaxx.de/",
     "sources": [
-        "https://www.prosiebenmaxx.de/service/datenschutzbestimmungen",
+        "https://www.prosiebenmaxx.de/service/datenschutzbestimmungen"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
