@@ -1,0 +1,23 @@
+{
+    "slug": "katholisches-datenschutzzentrum",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "Katholisches Datenschutzzentrum",
+    "address": "Brackeler Hellweg 144\n44309 Dortmund",
+    "phone": "+49 231 1389850",
+    "fax": "+49 231 13898522",
+    "email": "info@kdsz.de",
+    "web": "https://www.katholisches-datenschutzzentrum.de/",
+    "sources": [
+        "https://www.katholisches-datenschutzzentrum.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1533"
+    ],
+    "comments": [
+        "S/MIME certificate: https://www.katholisches-datenschutzzentrum.de/wp-content/uploads/2018/08/info.cer"
+    ],
+    "quality": "verified"
+}
