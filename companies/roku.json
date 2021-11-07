@@ -19,13 +19,11 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Email",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "email",
