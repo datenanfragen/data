@@ -1,4 +1,4 @@
- 
+   
 {
     "slug": "sat1gold",
     "relevant-countries": [
@@ -8,12 +8,12 @@
         "entertainment"
     ],
     "name": "Seven.One Entertainment Group GmbH",
-    "address": "Medienallee 7\n85774 Unterföhring\nGermany",
+    "address": "Medienallee 7\\n85774 Unterföhring\\nGermany",
     "phone": "+49 89 950710",
     "email": "datenschutz@sat1gold.de",
     "web": "https://www.sat1gold.de/",
     "sources": [
-        "https://www.sat1gold.de/service/datenschutz-cookies/datenschutzbestimmungen",
+        "https://www.sat1gold.de/service/datenschutz-cookies/datenschutzbestimmungen"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
