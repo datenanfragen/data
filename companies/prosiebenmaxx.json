@@ -13,7 +13,6 @@
     "web": "https://www.prosiebenmaxx.de/",
     "sources": [
         "https://www.prosiebenmaxx.de/service/datenschutzbestimmungen",
-        "https://www.prosiebenmaxx.de/service/impressum"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
