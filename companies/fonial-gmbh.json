@@ -1,13 +1,21 @@
 {
-    "slug": "fonial-gmbh",
+    "slug": "fonial",
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "telecommunication"
+    ],
     "name": "fonial GmbH",
-    "address": "Kaiser-Wilhelm-Ring 7-9\n50672 Köln",
+    "address": "Kaiser-Wilhelm-Ring 7-9\n50672 Köln\nDeutschland",
+    "phone": "+49 221 66951100",
+    "fax": "+49 221 66951199",
+    "email": "datenschutz@fonial.de",
+    "web": "https://www.fonial.de/",
     "sources": [
-        "https://www.fonial.de/kontakt/impressum/",
+        "https://www.fonial.de/kontakt/datenschutzerklaerung/",
         "https://github.com/datenanfragen/data/pull/1524"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
