@@ -30,6 +30,7 @@
             "type": "address"
         }
     ],
+    "needs-id-document": true,
     "suggested-transport-medium": "email",
     "quality": "tested"
 }
