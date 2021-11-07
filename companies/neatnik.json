@@ -1,0 +1,32 @@
+{
+    "slug": "neatnik",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "telecommunication"
+    ],
+    "name": "Neatnik LLC",
+    "runs": [
+        "OMG.LOL",
+        "Terminal.Land"
+    ],
+    "address": "1917 Crossgate Ln\nLouisville, KY 40222\nUnited States of America",
+    "email": "privacy@omg.lol",
+    "web": "https://neatnik.net/",
+    "sources": [
+        "https://neatnik.net/about/privacy-policy/",
+        "https://meta.omg.lol/info/privacy",
+        "https://web.sos.ky.gov/ftshow/(S(haz04qypqalb2nk3450ttt5u))/default.aspx?path=ftsearch&id=0976846&ct=06&cs=99999&ce=GmfcP07NUjcXwwmkTW%2bgRQ7BfBNDt2wreBuBfXf2w%2fsIK%2f9sjy2liuZaHprcGJKM"
+    ],
+    "required-elements": [
+        {
+            "desc": "Email",
+            "type": "name",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
