@@ -11,14 +11,25 @@
     "runs": [
         "www.zielgruppenmarketing.de"
     ],
-    "address": "AP: Frau Anita Demmerer\nMotorstr. 25\n70499 Stuttgart\nDeutschland",
+    "address": "Motorstr. 25\n70499 Stuttgart\nDeutschland",
     "phone": "+49 711 8871310",
-    "email": "demmerer@arnold-demmerer.de",
+    "email": "datenschutz@arnold-demmerer.de",
     "web": "http://www.arnold-demmerer.de",
     "sources": [
         "https://zielgruppenmarketing.de/?id=116",
+        "https://www.zielgruppenmarketing.de/fileadmin/user_upload/pdfs/AGB_ADP_Mai_2018.pdf",
         "https://github.com/datenanfragen/data/pull/1483"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
