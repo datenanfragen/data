@@ -14,8 +14,6 @@
     "web": "https://www.sat1gold.de/",
     "sources": [
         "https://www.sat1gold.de/service/datenschutz-cookies/datenschutzbestimmungen",
-        "https://www.sevenonemedia.de/impressum",
-        "https://www.sat1gold.de/service/impressum"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
