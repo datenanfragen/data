@@ -1,0 +1,13 @@
+{
+    "slug": "trade-republic-bank-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Trade Republic Bank GmbH",
+    "address": "Trade Republic Bank GmbH\nKastanienallee 32\n10435 Berlin",
+    "sources": [
+        "https://traderepublic.com/de-de/imprint",
+        "https://github.com/datenanfragen/data/pull/1537"
+    ],
+    "quality": "verified"
+}
