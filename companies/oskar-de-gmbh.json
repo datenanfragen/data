@@ -1,0 +1,16 @@
+{
+    "slug": "oskar-de-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Oskar.de GmbH",
+    "address": "Gartenstraße 67\n76135 Karlsruhe",
+    "sources": [
+        "https://www.oskar.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1535"
+    ],
+    "quality": "verified"
+}
