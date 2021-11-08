@@ -1,0 +1,13 @@
+{
+    "slug": "finanzen-net-zero-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "finanzen.net zero GmbH",
+    "address": "Gartenstraße 67\nD-76135 Karlsruhe",
+    "sources": [
+        "https://www.finanzen.net/zero/impressum/",
+        "https://github.com/datenanfragen/data/pull/1536"
+    ],
+    "quality": "verified"
+}
