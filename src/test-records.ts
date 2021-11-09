@@ -112,7 +112,8 @@ const validate = async (dir: string) => {
         }
     }
 
-    if (args['--reviewdog']) console.log(check_results.map((r) => JSON.stringify(r)).join('\n'));
+    if (args['--reviewdog'] && check_results.length > 0)
+        console.log(check_results.map((r) => JSON.stringify(r)).join('\n'));
     else {
         const results_per_file = check_results.reduce<Record<string, RdjsonLine[]>>((acc, cur) => {
             if (!acc[cur.location.path]) acc[cur.location.path] = [];
