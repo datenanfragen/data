@@ -1,0 +1,21 @@
+{
+    "slug": "sixx",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Fem Media GmbH",
+    "address": "Gutenbergstr. 3\n85774 Unterföhring\nGermany",
+    "phone": "+49 89 950710",
+    "email": "datenschutz@sixx.de",
+    "web": "https://www.sixx.de/",
+    "sources": [
+        "https://www.sixx.de/service/agb-datenschutz/datenschutz",
+        "https://www.fem.com/impressum",
+        "https://www.sixx.de/service/impressum"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
