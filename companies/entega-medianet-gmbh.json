@@ -1,0 +1,13 @@
+{
+    "slug": "entega-medianet-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "ENTEGA Medianet GmbH",
+    "address": "Frankfurter Straße 100\n64293 Darmstadt",
+    "sources": [
+        "https://www.entega.de",
+        "https://github.com/datenanfragen/data/pull/1541"
+    ],
+    "quality": "verified"
+}
