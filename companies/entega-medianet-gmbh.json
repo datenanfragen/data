@@ -4,7 +4,7 @@
         "de"
     ],
     "name": "ENTEGA Medianet GmbH",
-    "address": "Frankfurter Straße 100\n64293 Darmstadt",
+    "address": "Frankfurter Straße 100\n64293 Darmstadt\nDeutschland",
     "sources": [
         "https://www.entega.de",
         "https://github.com/datenanfragen/data/pull/1541"
