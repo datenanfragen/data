@@ -1,10 +1,10 @@
 {
     "slug": "facebook",
     "relevant-countries": [
-        "all"
+        "at"
     ],
     "categories": [
-        "entertainment",
+        "political party",
         "social media"
     ],
     "name": "Facebook Ireland Ltd.",
@@ -27,7 +27,8 @@
         "https://github.com/datenanfragen/data/pull/974",
         "https://www.facebook.com/help/1561485474074139?ref=dp",
         "https://www.facebook.com/audiencenetwork/",
-        "https://sparkar.facebook.com/ar-studio/"
+        "https://sparkar.facebook.com/ar-studio/",
+        "https://github.com/datenanfragen/data/pull/1543"
     ],
     "comments": [
         "Various privacy controls (including the ability to download your data as HTML or JSON) are available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information",
