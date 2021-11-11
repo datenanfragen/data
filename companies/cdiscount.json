@@ -26,11 +26,12 @@
             "type": "name"
         },
         {
-            "desc": "Adresse e-mail rattachée au compte client",
+            "desc": "Adresse e-mail",
             "type": "email"
         }
     ],
     "request-language": "fr",
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
