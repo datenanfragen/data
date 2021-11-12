@@ -20,9 +20,9 @@ My request explicitly includes [runs>the following as well as ]any other service
 
 As laid down in Article 12(3) GDPR, you have to provide the requested information to me without undue delay and in any event within one month of receipt of the request. According to Article 15(3) GDPR, you have to answer this request without cost to me.
 [has_fields>
-I am including the following information necessary to identify me:
+I include the following information necessary to identify me:
 {id_data}]
-If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
+If you do not answer my request within the stated period, I reserve the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
 
 Thank you in advance.
 

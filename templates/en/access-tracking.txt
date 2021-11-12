@@ -24,7 +24,7 @@ Please tell me which information (cookie ID, device advertising ID, etc.) is nec
 [has_fields>
 My contact details are as follows:
 {id_data}]
-If you do not answer my request within the stated period, I am reserving the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
+If you do not answer my request within the stated period, I reserve the right to take legal action against you and to lodge a complaint with the responsible supervisory authority.
 
 Thank you in advance.
 
