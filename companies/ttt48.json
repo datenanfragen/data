@@ -1,7 +1,7 @@
 {
     "slug": "ttt48",
     "relevant-countries": [
-        "all"
+        "de"
     ],
     "categories": [
         "commerce",
@@ -9,8 +9,8 @@
     ],
     "name": "TTT-Filmservice GmbH",
     "address": "Röntgentraße 4\n67133 Maxdorf\nDeutschland",
-    "phone": "07131 - 3828 998",
-    "fax": "07131-20392-29",
+    "phone": "+49 7131 3828998",
+    "fax": "+49 7131 2039229",
     "email": "shop@ttt48.de",
     "web": "https://www.ttt48.de",
     "sources": [
