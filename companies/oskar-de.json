@@ -1,5 +1,5 @@
 {
-    "slug": "oskar-de-gmbh",
+    "slug": "oskar-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,9 +7,11 @@
         "finance"
     ],
     "name": "Oskar.de GmbH",
-    "address": "Gartenstraße 67\n76135 Karlsruhe",
+    "address": "Greschbachstraße 6a\n76229 Karlsruhe\nDeutschland",
+    "email": "datenschutzanfragen@xdsb.de",
+    "web": "https://www.oskar.de/",
     "sources": [
-        "https://www.oskar.de/impressum/",
+        "https://www.oskar.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/1535"
     ],
     "quality": "verified"
