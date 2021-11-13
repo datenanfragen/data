@@ -1,0 +1,20 @@
+{
+    "slug": "intan",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "intan media services GmbH",
+    "address": "Blumenhaller Weg 88, 49078 Osnabrück",
+    "phone": "+49 541 40840",
+    "fax": "+49 541 4084137",
+    "email": "info@intan.de",
+    "web": "https://www.intan.de",
+    "sources": [
+        "https://www.intan.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1548"
+    ],
+    "quality": "verified"
+}
