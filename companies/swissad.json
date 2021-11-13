@@ -1,0 +1,17 @@
+{
+    "slug": "swissad",
+    "relevant-countries": [
+        "ch",
+        "de"
+    ],
+    "name": "swissad GmbH",
+    "address": "St. Gallerstraße 49\n9100 Herisau\nSchweiz",
+    "phone": "+41 71 886 30 20",
+    "email": "datenschutz@swissad.net",
+    "web": "https://swissad.net/",
+    "sources": [
+        "https://swissad.net/",
+        "https://github.com/datenanfragen/data/pull/1546"
+    ],
+    "quality": "verified"
+}
