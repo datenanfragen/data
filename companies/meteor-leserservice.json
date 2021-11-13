@@ -1,0 +1,24 @@
+{
+    "slug": "meteor-leserservice",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Helmut Silbernagel e.K.",
+    "runs": [
+        "Meteor Leserservice",
+        "Meteor-Verlag"
+    ],
+    "address": "Helmut Silbernagel e.K.\nSchirmerweg 2a\n81245 München",
+    "phone": "089 820 20 400",
+    "fax": "089 820 20 405",
+    "email": "info@meteor-leserservice.de",
+    "web": "https://www.meteor-leserservice.de",
+    "sources": [
+        "https://www.meteor-leserservice.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1547"
+    ],
+    "quality": "verified"
+}
