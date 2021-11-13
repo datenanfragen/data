@@ -1,0 +1,23 @@
+{
+    "slug": "proxalto-lv",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Proxalto Lebensversicherung AG",
+    "runs": [
+        "hat die Veträge von Generali Lebensversicherung übernommen"
+    ],
+    "address": "Adenauerring 7\n81737 München",
+    "phone": "022841080",
+    "fax": "022841081550",
+    "email": "datenschutz@viridium-gruppe.com",
+    "web": "https://www.proxalto-lv.de",
+    "sources": [
+        "https://www.proxalto-lv.de/datenschutzbestimmungen/",
+        "https://github.com/datenanfragen/data/pull/1550"
+    ],
+    "quality": "verified"
+}
