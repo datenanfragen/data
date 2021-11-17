@@ -1,8 +1,10 @@
 {
     "slug": "adobe",
     "relevant-countries": [
+        "fr",
         "all"
     ],
+    "categories": [],
     "name": "Adobe Systems Software Ireland Ltd.",
     "runs": [
         "Adobe Systems Inc.",
@@ -27,7 +29,8 @@
         "https://github.com/datenanfragen/data/issues/531",
         "https://www.adobe.com/analytics/audience-manager.html",
         "https://reports.exodus-privacy.eu.org/en/trackers/40/",
-        "https://www.bounteous.com/insights/2019/09/19/omniture-adobe-analytics-ten-years-after/"
+        "https://www.bounteous.com/insights/2019/09/19/omniture-adobe-analytics-ten-years-after/",
+        "https://github.com/datenanfragen/data/pull/1552"
     ],
     "required-elements": [
         {
