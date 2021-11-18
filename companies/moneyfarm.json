@@ -1,0 +1,24 @@
+{
+    "slug": "moneyfarm",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "MFM Investment GmbH",
+    "runs": [
+        "vaamo",
+        "Moneyfarm"
+    ],
+    "address": "Mainzer Landstraße 250-254\n60326 Frankfurt am Main\nDEUTSCHLAND",
+    "phone": "+49 69 38076632",
+    "email": "service@moneyfarm.de",
+    "web": "https://www.moneyfarm.com",
+    "sources": [
+        "https://www.moneyfarm.com/de/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/1556"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
