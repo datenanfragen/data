@@ -7,7 +7,7 @@ const check: CompanyCheck = {
     run: (json) => {
         if (json['relevant-countries']) {
             const all_and = json['relevant-countries'].includes("all") && json["relevant-countries"].length > 1
-            if (!all_and)
+            if (all_and)
                 return {
                     message: `Record has redundant relevant-countries: \`all\` already covers : ${json["relevant-countries"].filter(x => x !== "all").join(",")}.`,
                     json_pointer: '/relevant-countries',
