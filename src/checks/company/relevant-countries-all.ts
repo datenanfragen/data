@@ -1,7 +1,7 @@
 import { CompanyCheck } from '../../types/checks';
 
 const check: CompanyCheck = {
-    id: 'all-plus-country-in-relevant-countries',
+    id: 'relevant-countries-all',
     desc: 'If `relevant-countries` contains `all`, it should only contain `all`.',
     severity: 'ERROR',
     run: (json) => {
