@@ -1,0 +1,19 @@
+{
+    "slug": "clevervital",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Clever Vital",
+    "address": "Eiswerderstraße 20 A, 13585 Berlin, Germany",
+    "phone": "+49 30 98362968",
+    "email": "rosemaryy708@gmail.com",
+    "web": "https://www.clevervital.com/",
+    "sources": [
+        "Google",
+        "https://github.com/datenanfragen/data/pull/1557"
+    ],
+    "quality": "verified"
+}
