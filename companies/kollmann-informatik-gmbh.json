@@ -1,0 +1,17 @@
+{
+    "slug": "kollmann-informatik-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "credit agency"
+    ],
+    "name": "Kollmann Informatik GmbH",
+    "address": "Brookkehre 34\n21029  Hamburg",
+    "phone": "040/72410310",
+    "fax": "040/72410311",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1558"
+    ]
+}
