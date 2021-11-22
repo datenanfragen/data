@@ -3,11 +3,19 @@
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "finance"
+    ],
     "name": "Trade Republic Bank GmbH",
-    "address": "Trade Republic Bank GmbH\nKastanienallee 32\n10435 Berlin",
+    "address": "Ernst-Schneider-Platz 1\n40212 Düsseldorf\nDeutschland",
+    "phone": "+49 30 5490 6310",
+    "email": "datenschutz@traderepublic.com",
+    "web": "https://traderepublic.com/",
     "sources": [
+        "https://traderepublic.com/de-de/privacy",
         "https://traderepublic.com/de-de/imprint",
         "https://github.com/datenanfragen/data/pull/1537"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
