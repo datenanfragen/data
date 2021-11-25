@@ -1,0 +1,19 @@
+{
+    "slug": "spydetectiveagency",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Spy Detective Agency",
+    "address": "Schottenring 16/2, 1010 Wien, Austria",
+    "phone": "9999335950",
+    "email": "Info@spydetectiveagency.com",
+    "web": "https://www.spydetectiveagency.com",
+    "sources": [
+        "https://www.spydetectiveagency.com",
+        "https://github.com/datenanfragen/data/pull/1559"
+    ],
+    "quality": "verified"
+}
