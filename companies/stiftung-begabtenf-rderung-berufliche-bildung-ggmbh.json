@@ -1,0 +1,13 @@
+{
+    "slug": "stiftung-begabtenf-rderung-berufliche-bildung-ggmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Stiftung Begabtenförderung berufliche Bildung gGmbH",
+    "address": "Menuhinstraße 6\n53113 Bonn",
+    "sources": [
+        "https://www.sbb-stipendien.de/impressum",
+        "https://github.com/datenanfragen/data/pull/1561"
+    ],
+    "quality": "verified"
+}
