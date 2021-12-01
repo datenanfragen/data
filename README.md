@@ -84,3 +84,9 @@ Usually, the `request-language` should not be set, except for the following case
 * If both of the following conditions are met, the `request-language` should be set to the language from the first condition:
     1. The company in question only addresses consumers in one language.
     2. The `relevant-countries` for the company include ones where this language is not spoken.
+
+## Relevant Countries
+
+`relevant-countries` is a list of countries the record is relevant for. The countries can either be an ISO 3166-1 alpha-2 country code or 'all'. If a company has branches in different countries with unique contact data, separate records should be created for those. If a company branch offers its services in English and isn't explicitly restricted to certain countries, 'all' should be specified.
+
+If 'all' is specified, no additional country should be specified, as 'all' covers all countries.
