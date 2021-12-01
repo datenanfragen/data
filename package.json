@@ -44,7 +44,7 @@
         "typesense": "^0.6.1"
     },
     "scripts": {
-        "test": "eslint --ext .json --ext .js --ext .ts && ts-node-transpile-only src/test-records.ts",
+        "test": "eslint --ext .json --ext .js --ext .ts && ts-node src/test-records.ts",
         "deploy": "node deploy-typesense.js"
     },
     "husky": {
