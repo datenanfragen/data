@@ -1,4 +1,5 @@
 import { CompanyCheck } from '../../types/checks';
+import { RelevantCountry } from '../../types/CompanyRecord';
 
 const check: CompanyCheck = {
     id: 'relevant-countries-all',
@@ -7,7 +8,7 @@ const check: CompanyCheck = {
     severity: 'ERROR',
     run: (json) => {
         if (json['relevant-countries']) {
-            if (json['relevant-countries'].includes("all") && json["relevant-countries"].length > 1)
+            if (json['relevant-countries'].includes(RelevantCountry.All) && json["relevant-countries"].length > 1)
                 return {
                     message: `Record has redundant \`relevant-countries\`: \`all\` already covers: ${json["relevant-countries"].filter(x => x !== "all").join(",")}.`,
 
