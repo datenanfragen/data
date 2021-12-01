@@ -9,7 +9,8 @@ const check: CompanyCheck = {
             const all_and = json['relevant-countries'].includes("all") && json["relevant-countries"].length > 1
             if (all_and)
                 return {
-                    message: `Record has redundant relevant-countries: \`all\` already covers : ${json["relevant-countries"].filter(x => x !== "all").join(",")}.`,
+                    message: `Record has redundant \`relevant-countries\`: \`all\` already covers: ${json["relevant-countries"].filter(x => x !== "all").join(",")}.`,
+
                     json_pointer: '/relevant-countries',
                     suggestions: ["all"] // should this be an array of arrays?
                 };
