@@ -84,3 +84,7 @@ Usually, the `request-language` should not be set, except for the following case
 * If both of the following conditions are met, the `request-language` should be set to the language from the first condition:
     1. The company in question only addresses consumers in one language.
     2. The `relevant-countries` for the company include ones where this language is not spoken.
+
+## Relevant countries
+
+If 'all' is specified, no additional country should be specified, as 'all' covers all countries.
