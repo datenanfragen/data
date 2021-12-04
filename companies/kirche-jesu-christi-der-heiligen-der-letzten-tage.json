@@ -1,0 +1,22 @@
+{
+    "slug": "kirche-jesu-christi-der-heiligen-der-letzten-tage",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "Kirche Jesu Christi der Heiligen der Letzten Tage",
+    "runs": [
+        "FamilySearch"
+    ],
+    "address": "Data Privacy Office \n50 E. North Temple Street \nSalt Lake City, UT 84150-0005 \nUSA",
+    "fax": "+1 801 240 1187",
+    "email": "DataPrivacyOfficer@ChurchofJesusChrist.org",
+    "sources": [
+        "https://www.churchofjesuschrist.org/legal/privacy-notice?lang=deu&country=go",
+        "https://www.familysearch.org/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/1564"
+    ],
+    "quality": "verified"
+}
