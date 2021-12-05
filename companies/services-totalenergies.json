@@ -6,14 +6,13 @@
     "categories": [
         "utility"
     ],
-    "name": "TOTAL Deutschland GmbH",
+    "name": "TotalEnergies Marketing Deutschland GmbH",
     "runs": [
         "TotalEnergies",
         "ELAN",
         "MINOL",
         "ACCESS",
-        "Total Access",
-        "heizoel.totalenergies.de"
+        "Total Access"
     ],
     "address": "Jean-Monnet-Str. 2\n10557 Berlin\nDeutschland",
     "phone": "+49 800 8682533",
@@ -24,8 +23,8 @@
         "https://www.services.totalenergies.de/impressum",
         "https://www.services.totalenergies.de/zentraler-kundenservice",
         "https://services.totalenergies.de/datenschutz",
-        "https://heizoel.totalenergies.de/datenschutzerklaerung/",
-        "https://github.com/datenanfragen/data/pull/1155"
+        "https://github.com/datenanfragen/data/pull/1155",
+        "https://github.com/datenanfragen/data/pull/1565"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
