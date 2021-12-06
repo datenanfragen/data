@@ -10,15 +10,15 @@
     "runs": [
         "The Washington Post (www.washingtonpost.com)"
     ],
-    "address": "1301 K Street NW\nWASHINGTON\nDC 20005\nUnited States of America",
-    "email": "comments@washpost.com",
+    "address": "1301 K Street NW\nWashington DC 20071\nUnited States of America",
+    "email": "privacy@washpost.com",
     "web": "https://www.washingtonpost.com",
     "sources": [
-        "https://www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html?noredirect=on",
-        "https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=331910"
+        "https://www.washingtonpost.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/1569"
     ],
     "comments": [
-        "There is also a web form for requests: https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000036752"
+        "There is also a web form for requests: https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000603931&itid=lk_inline_manual_146"
     ],
     "quality": "verified"
 }
