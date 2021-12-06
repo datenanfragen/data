@@ -1,17 +1,15 @@
 {
     "slug": "tier-mobility-de",
     "relevant-countries": [
-        "de",
-        "dk",
-        "ch",
-        "at"
+        "de"
     ],
     "name": "Tier Mobility GmbH",
     "address": "Mariendorfer Damm 1\n12099 Berlin\nDeutschland",
-    "email": "datenschutz@tier.app",
+    "email": "privacy@tier.app",
     "web": "https://www.tier.app",
     "sources": [
-        "https://www.tier.app/de/privacy-notice/"
+        "https://www.tier.app/de/privacy-notice/",
+        "https://github.com/datenanfragen/data/pull/1570"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
