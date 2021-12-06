@@ -8,14 +8,16 @@
     ],
     "name": "Outbrain, Inc.",
     "runs": [
-        "Outbrain Amplify"
+        "Outbrain Amplify",
+        "Ligatus"
     ],
-    "address": "222 Broadway\n19th Floor\nNew York\nNY 10038\nUnited States of America",
+    "address": "222 Broadway\n19th Floor\nNew York NY 10038\nUnited States of America",
     "email": "privacy@outbrain.com",
     "web": "https://www.outbrain.com/",
     "sources": [
         "https://www.outbrain.com/legal/privacy#privacy-policy",
-        "https://github.com/datenanfragen/data/pull/1109"
+        "https://github.com/datenanfragen/data/pull/1109",
+        "https://github.com/datenanfragen/data/issues/1510"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
