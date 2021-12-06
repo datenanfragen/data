@@ -1,0 +1,19 @@
+{
+    "slug": "wolt-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Wolt Enterprises Deutschland GmbH",
+    "address": "Am Postbahnhof 17\n10243 Berlin\nDeutschland",
+    "email": "support@wolt.com",
+    "web": "https://wolt.com/de/",
+    "sources": [
+        "https://wolt.com/pages/de/deu/impressum",
+        "https://wolt.com/pages/de/deu/privacy",
+        "https://github.com/datenanfragen/data/pull/1567"
+    ],
+    "quality": "verified"
+}
