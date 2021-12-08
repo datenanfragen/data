@@ -1,0 +1,19 @@
+{
+    "slug": "marley-spoon",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility",
+        "commerce"
+    ],
+    "name": "Marley Spoon",
+    "address": "Dr. Philipp Herrrmann\nHWData GmbH\nLeonrodstr. 54\n80636 München",
+    "email": "ph@hwdata.de",
+    "sources": [
+        "https://legal.marleyspoon.de/dsgvo/",
+        "https://github.com/datenanfragen/data/pull/1577"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
