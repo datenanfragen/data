@@ -3,12 +3,18 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Tier Mobility GmbH",
-    "address": "Mariendorfer Damm 1\n12099 Berlin\nDeutschland",
+    "categories": [
+        "travel"
+    ],
+    "name": "Tier Mobility AG",
+    "runs": [
+        "Tier Mobility GmbH (ehem.)"
+    ],
+    "address": "c/o WeWork Eichhornstr. 3\n12099 Berlin\nDeutschland",
     "email": "privacy@tier.app",
     "web": "https://www.tier.app",
     "sources": [
-        "https://www.tier.app/de/privacy-notice/",
+        "https://about.tier.app/privacy-notice/",
         "https://github.com/datenanfragen/data/pull/1570"
     ],
     "suggested-transport-medium": "email",
