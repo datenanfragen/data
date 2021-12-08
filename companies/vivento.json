@@ -3,13 +3,20 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Vivento",
-    "address": "c/o Deutsche Telekom AG\nFriedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
+    "name": "Deutsche Telekom AG",
+    "runs": [
+        "Telekom Deutschland GmbH (telekom.de)",
+        "Vivento (www.vivento.de)"
+    ],
+    "address": "Friedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
     "email": "datenschutz@telekom.de",
-    "web": "https://www.vivento.de",
+    "web": "https://www.telekom.com",
     "sources": [
+        "https://www.telekom.com/de/telekom/datenschutzhinweis-1808",
+        "https://www.telekom.de/ueber-das-unternehmen/datenschutz",
         "https://www.vivento.de/de/datenschutz",
-        "https://www.interamt.de/cms/legal/impressum.html"
+        "https://www.interamt.de/cms/legal/impressum.html",
+        "https://github.com/datenanfragen/data/pull/1571"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",
