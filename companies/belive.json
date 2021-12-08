@@ -1,0 +1,16 @@
+{
+    "slug": "belive",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Belive",
+    "address": "Dost Street Samundri Road,\nFaisalabad, Pakistan.",
+    "phone": "03450272300",
+    "email": "anayashahraz@gmail.com",
+    "web": "https://belive.pk/collections/shirts-blouses",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1575"
+    ]
+}
