@@ -4,16 +4,17 @@
         "gb"
     ],
     "categories": [
-        "ads"
+        "utility"
     ],
-    "name": "Digital Media Line",
-    "address": "622b Stockport Road\nManchester\nM13 0SH\nUnited Kingdom",
-    "phone": "+44 161 818 8500",
-    "email": "info@digitalmedialine.com",
-    "web": "https://digitalmedialine.com/",
+    "name": "Noah builders NYC general contractors NYC",
+    "address": "130-47 124th St Jamaica NY 11420 United States\n-73.81440549999999",
+    "phone": "3476341004",
+    "email": "ashleyjhonnyc@gmail.com",
+    "web": "https://noahbuildersnyc.com",
     "sources": [
         "https://github.com/datenanfragen/data/pull/857",
-        "https://digitalmedialine.com/contact/"
+        "https://noahbuildersnyc.com/contact/",
+        "https://github.com/datenanfragen/data/pull/1574"
     ],
     "quality": "verified"
 }
