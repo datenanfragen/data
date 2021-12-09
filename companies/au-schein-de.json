@@ -1,5 +1,5 @@
 {
-    "slug": "au-schein",
+    "slug": "au-schein-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,13 +7,14 @@
         "health"
     ],
     "name": "Dr. Ansay AU-Schein GmbH",
-    "address": "Hartungstraße 14\n20146 Hamburg",
+    "address": "Hartungstraße 14\n20146 Hamburg\nDeutschland",
     "phone": "+49 40 445589",
-    "email": "info@au-schein.de",
+    "email": "datenschutz@AU-Schein.de",
     "web": "https://www.au-schein.de",
     "sources": [
         "https://www.dransay.com/datenschutz/",
         "https://github.com/datenanfragen/data/pull/1551"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
