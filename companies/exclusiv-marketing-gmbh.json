@@ -10,12 +10,12 @@
     "runs": [
         "KioskPresse.de"
     ],
-    "address": "Kistlerhofstr. 170\n81379 München\nDeutschland",
+    "address": "c/o Datenschutzkanzlei Lenz GmbH & Co.KG\nBahnhofstraße 50\n87435 Kempten\nDeutschland",
     "phone": "+49 89 21129188",
     "email": "datenschutz@exclusiv-marketing.com",
     "web": "https://kioskpresse.de/",
     "sources": [
-        "https://kioskpresse.de/_downloads/2018-06-28-Datenschutzerklaerung-KP.pdf",
+        "https://kioskpresse.de/",
         "https://github.com/datenanfragen/data/issues/524",
         "https://github.com/datenanfragen/data/pull/1549"
     ],
