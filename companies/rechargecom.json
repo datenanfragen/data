@@ -1,0 +1,29 @@
+{
+    "slug": "rechargecom",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Recharge.com International B.V.",
+    "runs": [
+        "recharge.com",
+        "rapido.com",
+        "mobiletopup.co.uk",
+        "recharge.fr",
+        "herladen.com",
+        "guthaben.de",
+        "beltegoed.nl"
+    ],
+    "address": "Amsteldijk 216\n1079 LK Amsterdam\nNetherlands",
+    "phone": "+31 88 006 4109",
+    "email": "datarequest@cg.nl",
+    "sources": [
+        "https://www.guthaben.de/datenschutzerklaerung",
+        "https://www.guthaben.de/impressum"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "nsfw": false
+}
