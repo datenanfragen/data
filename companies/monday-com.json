@@ -1,0 +1,17 @@
+{
+    "slug": "monday-com",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Monday.com",
+    "address": "34 W 14th St. New York, NY 10011, USA",
+    "email": "dpo@monday.com",
+    "sources": [
+        "https://monday.com/l/privacy/monday-com-is-gdpr-ready/",
+        "https://github.com/datenanfragen/data/pull/1581"
+    ],
+    "quality": "verified"
+}
