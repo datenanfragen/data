@@ -1,0 +1,26 @@
+{
+    "slug": "rossmann",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Rossmann Drogeriemarkt",
+    "runs": [
+        "Dirk Rossmann GmbH",
+        "Rossmann Online GmbH"
+    ],
+    "address": "Isernhägener Str. 16\n30938 Burgwedel\nDeutschland",
+    "email": "datenschutz@rossmann.de",
+    "web": "https://www.rossmann.de",
+    "sources": [
+        "https://www.rossmann.de/de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/1583"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Die Geltendmachung von Betroffenenrechte gegenüber einer Rossmann-Gesellschaft wird jeweils auch als Geltendmachung von Rechten gegenüber der jeweils anderen Gesellschaft verstanden, wenn gemeinsame Dienste betroffen sind und Sie uns das nicht anderweitig mitteilen. Sie brauchen Ihre Rechte für gemeinsame Dienste also nicht gegenüber beiden Rossmann-Gesellschaften geltend machen."
+    ],
+    "quality": "verified"
+}
