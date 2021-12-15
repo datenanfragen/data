@@ -23,6 +23,19 @@
         "https://www.guthaben.de/datenschutzerklaerung",
         "https://www.guthaben.de/impressum"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": true
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "needs-id-document": false,
+    "quality": "tested"
 }
