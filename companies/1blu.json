@@ -9,14 +9,15 @@
         "telecommunication"
     ],
     "name": "1blu AG",
-    "address": "Stromstraße 1 – 5\n10555 Berlin\nDeutschland",
+    "address": "Riedemannweg 60\n13627 Berlin\nDeutschland",
     "phone": "+49 30 20 18 10 00",
     "fax": "+49 30 20 18 10 01",
     "email": "datenschutzbeauftragter@1blu.de",
     "web": "https://www.1blu.de/",
     "sources": [
         "https://www.1blu.de/datenschutz/",
-        "https://www.1blu.de/impressum/"
+        "https://www.1blu.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1582"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
