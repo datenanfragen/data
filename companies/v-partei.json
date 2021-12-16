@@ -7,12 +7,13 @@
         "political party"
     ],
     "name": "Partei für Veränderung, Vegetarier und Veganer (V-Partei³)",
-    "address": "Hochfeldstraße 4\n86159 Augsburg\nDeutschland",
+    "address": "Schönbachstr. 4a\n86154 Augsburg\nDeutschland",
     "phone": "+49 821 29716264",
-    "email": "info@harle.de",
+    "email": "info@v-partei.de",
     "web": "https://v-partei.de/",
     "sources": [
-        "https://v-partei.de/service/datenschutzerklaerung/"
+        "https://v-partei.de/service/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/1584"
     ],
     "quality": "verified"
 }
