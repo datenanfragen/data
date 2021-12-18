@@ -1,5 +1,5 @@
 {
-    "slug": "upwork",
+    "slug": "uphold",
     "relevant-countries": [
         "all"
     ],
@@ -7,15 +7,14 @@
         "commerce",
         "finance"
     ],
-    "name": "Uphold Europe Limited (Uphold group)",
-    "address": "Registered No. 09281410\nRegistered Office: Suite A, 6 Honduras Street, London England EC1Y 0TH.",
+    "name": "Uphold Europe Limited",
+    "address": "6 Honduras Street, Suite A\nEC1Y 0TH London\nUnited Kingdom",
     "email": "data.privacy@uphold.com",
     "web": "https://www.uphold.com",
     "sources": [
         "https://uphold.com/en-gb/legal/privacy-policy",
         "https://github.com/datenanfragen/data/pull/1587"
     ],
-    "request-language": "en",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
