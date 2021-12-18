@@ -1,10 +1,10 @@
 {
-    "slug": "burgerking",
+    "slug": "burgerking-de",
     "relevant-countries": [
         "de"
     ],
-    "name": "Burger King",
-    "address": "Burger King Deutschland GmbH\nAdenauerallee 6\n30175 Hannover",
+    "name": "Burger King Deutschland GmbH",
+    "address": "Adenauerallee 6\n30175 Hannover\nDeutschland",
     "phone": "+49 511 28810700",
     "email": "datenschutz@burgerking.de",
     "web": "https://www.burgerking.de",
