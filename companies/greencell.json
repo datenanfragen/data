@@ -1,0 +1,23 @@
+{
+    "slug": "greencell",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "CSG S.A.",
+    "runs": [
+        "Green Cell",
+        "Battery Empire",
+        "Świat Baterii"
+    ],
+    "address": "Kalwaryjska 33, 30-504 Kraków",
+    "phone": "+48 12 444 62 47",
+    "web": "https://greencell.global",
+    "sources": [
+        "greencell.global",
+        "https://github.com/datenanfragen/data/pull/1588"
+    ],
+    "quality": "verified"
+}
