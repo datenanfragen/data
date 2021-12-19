@@ -3,15 +3,13 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [
-        "credit agency"
-    ],
     "name": "Kollmann Informatik GmbH",
-    "address": "Brookkehre 34\n21029  Hamburg",
-    "phone": "040/72410310",
-    "fax": "040/72410311",
-    "quality": "verified",
+    "address": "Brookkehre 34\n21029 Hamburg\nDeutschland",
+    "phone": "+49 40 72410310",
+    "fax": "+49 40 72410311",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1558"
-    ]
+        "https://github.com/datenanfragen/data/pull/1558",
+        "https://www.genios.de/firmen/firma/KO/kollmann-informatik-gmbh.html"
+    ],
+    "quality": "verified"
 }
