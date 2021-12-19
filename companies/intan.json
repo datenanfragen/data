@@ -1,0 +1,27 @@
+{
+    "slug": "intan",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "entertainment"
+    ],
+    "name": "intan media services GmbH",
+    "runs": [
+        "intan service plus GmbH & Co. KG",
+        "intan international GmbH & Co. KG"
+    ],
+    "address": "Blumenhaller Weg 88\n49078 Osnabrück\nDeutschland",
+    "phone": "+49 541 4084735",
+    "fax": "+49 541 4084137",
+    "email": "datenschutz@intan.de",
+    "web": "https://www.intan.de",
+    "sources": [
+        "https://www.intan.de/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/1548",
+        "https://www.intan.de/impressum/"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
