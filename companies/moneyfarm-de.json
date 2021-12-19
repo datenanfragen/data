@@ -1,5 +1,5 @@
 {
-    "slug": "moneyfarm",
+    "slug": "moneyfarm-de",
     "relevant-countries": [
         "de"
     ],
@@ -11,14 +11,14 @@
         "vaamo",
         "Moneyfarm"
     ],
-    "address": "Mainzer Landstraße 250-254\n60326 Frankfurt am Main\nDEUTSCHLAND",
+    "address": "Mainzer Landstraße 250-254\n60326 Frankfurt am Main\nDeutschland",
     "phone": "+49 69 38076632",
     "email": "service@moneyfarm.de",
     "web": "https://www.moneyfarm.com",
     "sources": [
         "https://www.moneyfarm.com/de/datenschutzerklaerung/",
-        "https://github.com/datenanfragen/data/pull/1556"
+        "https://github.com/datenanfragen/data/pull/1556",
+        "https://blog.moneyfarm.com/en/moneyfarm-news/pan-european-leader-moneyfarm-acquires-german-vaamo-to-accelerate-growth/"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
