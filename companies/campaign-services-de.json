@@ -7,13 +7,14 @@
         "ads"
     ],
     "name": "direct services Gütersloh GmbH",
-    "address": "Business Unit Campaign\nAn der Autobahn 300\n33333 Gütersloh\nDeutschland",
+    "address": "Business Unit Campaign\nReinhard-Mohn-Str. 300\n33333 Gütersloh\nDeutschland",
     "phone": "+49 5241 8040685",
     "fax": "+49 5241 80640685",
-    "email": "info@campaign-services.de",
+    "email": "datenschutz@bertelsmann.de",
     "web": "https://www.campaign-services.de/",
     "sources": [
-        "https://www.campaign-services.de/datenschutz/"
+        "https://www.campaign-services.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1205"
     ],
     "quality": "verified"
 }
