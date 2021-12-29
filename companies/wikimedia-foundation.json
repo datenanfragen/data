@@ -9,10 +9,9 @@
     "name": "Wikimedia Foundation, Inc.",
     "runs": [
         "Wikipedia",
-        "Mediawiki",
+        "MediaWiki",
         "Wikimedia Commons",
         "Wikispecies",
-        "Wikilivres",
         "Wikidata",
         "Wikimania",
         "Wikinews",
@@ -20,17 +19,20 @@
         "Wikiversity",
         "Wikivoyage",
         "Wiktionary",
-        "meta.wikimedia.org"
+        "Meta Wikimedia",
+        "Wikitech",
+        "Wikimedia Enterprise"
     ],
     "address": "1 Montgomery Street\nSuite 1600\nSan Francisco, CA 94104\nUnited States of America",
     "phone": "+1 415 839 6885",
     "fax": "+1 415 882 0495",
     "email": "privacy@wikimedia.org",
-    "web": "https://www.wikipedia.org/",
+    "web": "https://wikimediafoundation.org/",
     "sources": [
         "https://foundation.wikimedia.org/wiki/Privacy_policy",
         "https://github.com/datenanfragen/data/issues/438",
-        "https://github.com/datenanfragen/data/pull/1272"
+        "https://github.com/datenanfragen/data/pull/1272",
+        "https://github.com/datenanfragen/data/pull/1602"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
