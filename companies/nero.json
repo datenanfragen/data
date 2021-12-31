@@ -1,0 +1,18 @@
+{
+    "slug": "nero",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Nero AG",
+    "address": "Rüppurrer Straße 1a\n76137 Karlsruhe\nDeutschland",
+    "email": "datenschutz@nero.com",
+    "web": "https://www.nero.com",
+    "sources": [
+        "https://www.nero.com",
+        "https://github.com/datenanfragen/data/pull/1603"
+    ],
+    "quality": "verified"
+}
