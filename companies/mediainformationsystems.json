@@ -14,21 +14,13 @@
     "web": "https://mediainformationsystems.de",
     "sources": [
         "https://mediainformationsystems.de/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/851"
+        "https://github.com/datenanfragen/data/pull/851",
+        "https://www.mediainformationsystems.de/datenschutz-faq-beworbene.html",
+        "https://github.com/datenanfragen/data/pull/1605"
     ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name",
-            "optional": false
-        },
-        {
-            "desc": "Adresse",
-            "type": "address",
-            "optional": false
-        }
-    ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "comments": [
+        "weitere E-Mail-Adresse: werbewiderspruch@mismail.de"
+    ],
+    "quality": "verified"
 }
