@@ -1,0 +1,19 @@
+{
+    "slug": "intsig-information-co-ltd",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "INTSIG Information Co., Ltd.",
+    "runs": [
+        "CamScanner"
+    ],
+    "address": "上海市静安区万荣路1268号云立方A座11层\nChina",
+    "email": "support@intsig.com",
+    "sources": [
+        "https://www.intsig.com",
+        "https://v3.camscanner.com/app/service?language=en-us",
+        "https://v3.camscanner.com/app/privacy?language=en-us",
+        "https://github.com/datenanfragen/data/pull/1608"
+    ],
+    "quality": "verified"
+}
