@@ -3,13 +3,12 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [],
     "name": "Shapr3D Zrt.",
     "runs": [
         "Shapr3D"
     ],
-    "address": "Shapr3D Zrt.\nH-1051 Budapest, Bajcsy-Zsilinszky út 12.\nHungary",
-    "email": "userdata@shapr3d.com‍",
+    "address": "Shapr3D Zrt.\nH-1051 Budapest\nBajcsy-Zsilinszky út 12.\nHungary",
+    "email": "userdata@shapr3d.com",
     "web": "https://www.shapr3d.com/",
     "sources": [
         "https://www.shapr3d.com/privacy-policy",
