@@ -6,8 +6,13 @@
     "categories": [
         "social media"
     ],
-    "name": "Bumble",
-    "address": "The Broadgate Tower Third Floor\n20 Primrose Street\nLondon\nUnited Kingdom\nEC2A 2RS",
+    "name": "Bumble Group",
+    "runs": [
+        "Bumble Holding Limited",
+        "Badoo Trading Limited",
+        "Bumble Trading LLC"
+    ],
+    "address": "The Broadgate Tower Third Floor\n20 Primrose Street\nLondon\nEC2A 2RS\nUnited Kingdom",
     "email": "DPO@team.bumble.com",
     "web": "https://bumble.com",
     "sources": [
