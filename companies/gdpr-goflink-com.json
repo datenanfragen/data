@@ -1,0 +1,18 @@
+{
+    "slug": "gdpr-goflink-com",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "gdpr@goflink.com",
+    "address": "Flink SE\n\nLobeckstrasse 30-35\n\n10969 Berlin",
+    "email": "gdpr@goflink.com",
+    "sources": [
+        "Commerce",
+        "https://github.com/datenanfragen/data/pull/1611"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
