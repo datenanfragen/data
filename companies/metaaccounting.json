@@ -1,0 +1,19 @@
+{
+    "slug": "metaaccounting",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Meta Accounting",
+    "address": "194 Alburg Drive winnipeg, Manitoba, R2N 1L9, Canada",
+    "phone": "4319969301",
+    "email": "miacharli7@gmail.com",
+    "web": "https://metaaccounting.ca/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1615"
+    ]
+}
