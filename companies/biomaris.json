@@ -1,0 +1,20 @@
+{
+    "slug": "biomaris",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "BIOMARIS GmbH & Co. KG",
+    "address": "Parallelweg 14\n28219 Bremen",
+    "email": "wendt@biomaris.com",
+    "web": "https://www.biomaris.com",
+    "sources": [
+        "https://www.biomaris.com/impressum",
+        "https://www.biomaris.com/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1619"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
