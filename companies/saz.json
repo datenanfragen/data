@@ -1,0 +1,24 @@
+{
+    "slug": "saz",
+    "relevant-countries": [
+        "de",
+        "ch"
+    ],
+    "categories": [
+        "addresses",
+        "ads"
+    ],
+    "name": "SAZ Services AG",
+    "runs": [
+        "SAZ Services GmbH"
+    ],
+    "address": "Datenschutz\nDavidstrasse 38\n9000 St. Gallen\nSchweiz",
+    "email": "datenschutz.ch@saz.com",
+    "web": "https://www.saz.com/de",
+    "sources": [
+        "https://www.saz.com/de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1618"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
