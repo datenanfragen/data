@@ -3,23 +3,14 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "finance",
-        "ads",
-        "social media"
-    ],
-    "name": "Gartner",
-    "address": "Global Data Protection Office\nLegal Department\n56 Top Gallant Road\nStamford, CT 09602\nUSA",
+    "name": "Gartner, Inc",
+    "address": "56 Top Gallant Road\nStamford, CT 06902\nUnited States of America",
     "email": "privacy@gartner.com",
-    "web": "https://www.gartner.com/en/about/",
+    "web": "https://www.gartner.com",
     "sources": [
         "https://www.gartner.com/en/about/policies/privacy",
+        "https://www.gartner.com/en/contact/worldwide-offices/europe",
         "https://github.com/datenanfragen/data/pull/1624"
-    ],
-    "required-elements": [
-        {
-            "type": "input"
-        }
     ],
     "quality": "verified"
 }
