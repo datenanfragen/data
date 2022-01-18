@@ -1,0 +1,17 @@
+{
+    "slug": "adressen-kaufen",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "name": "Adressen-kaufen.cc",
+    "address": "Adressen-kaufen.cc\nAn der Poent 46\n40885 Ratingen\nDeutschland",
+    "email": "support@adressen-kaufen.cc",
+    "web": "https://www.adressen-kaufen.cc",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1623"
+    ]
+}
