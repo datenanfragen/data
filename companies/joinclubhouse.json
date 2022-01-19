@@ -6,19 +6,35 @@
     "categories": [
         "social media"
     ],
-    "name": "Alpha Exploration Co., Inc",
+    "name": "Alpha Exploration Co.",
     "runs": [
         "Clubhouse"
     ],
     "address": "548 Market St\nPMB 72878\nSan Francisco, California 94104-5401\nUnited States of America",
-    "email": "support@alphaexplorationco.com",
-    "web": "https://www.joinclubhouse.com/",
+    "email": "support@clubhouse.com",
+    "web": "https://www.clubhouse.com/",
     "sources": [
-        "https://www.notion.so/Privacy-Policy-cd4b415950204a46819478b31f6ce14f",
+        "https://privacy.clubhouse.com",
+        "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=04563531-29903880",
         "https://github.com/datenanfragen/data/pull/934",
-        "https://github.com/datenanfragen/data/pull/937",
         "https://github.com/datenanfragen/data/pull/995",
-        "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=04563531-29903880"
+        "https://github.com/datenanfragen/data/pull/1505"
     ],
-    "quality": "verified"
+    "required-elements": [
+        {
+            "desc": "Email",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Phone Number",
+            "type": "textarea",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
+    "comments": [
+        "You can also contact their external DPO here:\nhttps://verasafe.com/public-resources/contact-data-protection-representative"
+    ],
+    "quality": "tested"
 }
