@@ -17,7 +17,7 @@
     "web": "https://neatnik.net/",
     "sources": [
         "https://neatnik.net/about/privacy-policy/",
-        "https://meta.omg.lol/info/legal",
+        "https://meta.omg.lol/info/legal"
     ],
     "required-elements": [
         {
