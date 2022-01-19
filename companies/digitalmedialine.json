@@ -9,11 +9,12 @@
     "name": "Digital Media Line",
     "address": "622b Stockport Road\nManchester\nM13 0SH\nUnited Kingdom",
     "phone": "+44 161 818 8500",
-    "email": "info@digitalmedialine.com",
-    "web": "https://digitalmedialine.com/",
+    "email": "info@noahbuildersnyc.com",
+    "web": "https://noahbuildersnyc.com",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/857",
-        "https://digitalmedialine.com/contact/"
+        "https://noahbuildersnyc.com/roofing-contractors",
+        "info@noahbuildersnyc.com/contact",
+        "https://github.com/datenanfragen/data/pull/1628"
     ],
     "quality": "verified"
 }
