@@ -19,6 +19,5 @@
     "request-language": "de",
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "nsfw": false
+    "quality": "verified"
 }
