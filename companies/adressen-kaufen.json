@@ -1,0 +1,18 @@
+{
+    "slug": "adressen-kaufen",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "name": "Adresskontor GmbH",
+    "address": "An der Poent 46\n40885 Ratingen\nDeutschland",
+    "phone": "+49 2102 8917073",
+    "email": "support@adressen-kaufen.cc",
+    "web": "https://www.adressen-kaufen.cc",
+    "sources": [
+        "https://www.adressen-kaufen.cc/impressum.html",
+        "https://github.com/datenanfragen/data/pull/1623"
+    ],
+    "quality": "verified"
+}
