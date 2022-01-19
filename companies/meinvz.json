@@ -1,0 +1,23 @@
+{
+    "slug": "meinvz",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "poolworks (Germany) Ltd.",
+    "runs": [
+        "MeinVZ",
+        "StudiVZ"
+    ],
+    "address": "Reinhardtstr.47\n10117 Berlin\nDeutschland",
+    "email": "datenschutz@meinvz.net",
+    "web": "http://www.meinvz.net/",
+    "sources": [
+        "http://www.meinvz.net/l/policy/info/",
+        "https://github.com/datenanfragen/data/pull/1612"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
