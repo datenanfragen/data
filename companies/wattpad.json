@@ -1,0 +1,20 @@
+{
+    "slug": "wattpad",
+    "relevant-countries": [
+        "es",
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Wattpad Corp.",
+    "address": "Our Toronto office\nLocated downtown Toronto, the heart of Canada’s startup capital\nBrick & beam office space boasts glorious natural sunlight, loft-style exposed brick, and a sunny rooftop patio\nWe’re located close to St. Lawrence Market, with lots of tasty food options and shopping\nOur leadership selected our office location for its proximity to transit options. We’re just a 5-minute walk from Union Station with easy access to TTC, GO Trains, Pearson Express (UP), and VIA Rail\ntoronto2.png\nOur Halifax office\nOur Halifax office is located in Volta, Canada’s East Coast innovation hub\nWe’re downtown Halifax—just steps from the beautiful waterfront district\nWe’re located close to the Halifax Seaport Farmer’s Market and many of the city’s best restaurants and cafés\nWe’re steps from a Line 7 bus stop and just two blocks away from the Halifax VIA Rail station",
+    "email": "privacy@wattpad.com",
+    "web": "https://www.wattpad.com/",
+    "sources": [
+        "https://www.wattpad.com/",
+        "https://github.com/datenanfragen/data/pull/1631"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
