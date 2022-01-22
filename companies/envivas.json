@@ -7,9 +7,9 @@
         "insurance"
     ],
     "name": "Envivas Krankenversicherung AG",
-    "address": "Gereonswall 68\n50670 Köln",
-    "phone": "0800/425 25 25",
-    "email": "info@envivas.de",
+    "address": "Gereonswall 68\n50670 Köln\nDeutschland",
+    "phone": "+49 800 4252525",
+    "email": "datenschutz@envivas.de",
     "web": "https://www.envivas.de/",
     "sources": [
         "https://www.envivas.de/datenschutz",
