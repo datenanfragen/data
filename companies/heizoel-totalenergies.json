@@ -1,0 +1,21 @@
+{
+    "slug": "heizoel-totalenergies",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "TotalEnergies Wärme&Kraftstoff Deutschland GmbH",
+    "address": "c/o TotalEnergies Marketing Deutschland GmbH\nJean-Monnet-Str. 2\n10557 Berlin\nDeutschland",
+    "phone": "+49 30 2027 600",
+    "email": "ms.datenschutz-germany@totalenergies.com",
+    "web": "https://heizoel.totalenergies.de",
+    "sources": [
+        "https://heizoel.totalenergies.de/datenschutzerklaerung/#Verantwortlicher",
+        "https://heizoel.totalenergies.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1566"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
