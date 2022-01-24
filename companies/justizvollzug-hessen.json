@@ -1,5 +1,5 @@
 {
-    "slug": "justizvollzug-hessen",
+    "slug": "justizvollzugsanstalt-frankfurt-am-main-iii",
     "relevant-countries": [
         "de"
     ],
@@ -18,14 +18,13 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
