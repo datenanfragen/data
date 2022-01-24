@@ -15,7 +15,8 @@
     "web": "https://www.shutterstock.com/",
     "sources": [
         "https://github.com/datenanfragen/data/pull/694",
-        "https://www.shutterstock.com/privacy"
+        "https://www.shutterstock.com/privacy",
+        "https://github.com/datenanfragen/data/pull/1633"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
