@@ -1,0 +1,29 @@
+{
+    "slug": "weirauch",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Zahnarztpraxis Dres. Weirauch",
+    "address": "Hallplatz 5\n90402 Nürnberg\nDeutschland",
+    "phone": "+49 911 226408",
+    "email": "mail@aweirauch.de",
+    "web": "https://www.weirauch.org",
+    "sources": [
+        "https://www.weirauch.org/impressum.html",
+        "https://github.com/datenanfragen/data/pull/1637"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "quality": "verified"
+}
