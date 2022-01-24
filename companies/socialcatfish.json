@@ -1,0 +1,42 @@
+{
+    "slug": "socialcatfish",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media",
+        "addresses",
+        "entertainment"
+    ],
+    "name": "SocialCatfish LLC",
+    "address": "SocialCatfish, LLC\n39252 Winchester Rd, STE 107 #228\nMurrieta, CA 92563",
+    "phone": "(844) 422-8347",
+    "email": "welcome@socialcatfish.com",
+    "web": "https://socialcatfish.com",
+    "sources": [
+        "N/A",
+        "https://github.com/datenanfragen/data/pull/1632"
+    ],
+    "required-elements": [
+        {
+            "desc": "E-mail",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Profile URL",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "CCPARequest@socialcatfish.com accepts requests from California and Nevada residents. \n\nMight be worth trying to CC GDPR requests there."
+    ],
+    "quality": "verified"
+}
