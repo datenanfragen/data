@@ -3,21 +3,13 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "school"
-    ],
     "name": "McGraw Hill LLC",
-    "runs": [
-        "McGraw Hill Education"
-    ],
-    "address": "Privacy Official\nMarketing Department\nMcGraw Hill (EMEA), Shoppenhangers Road,\nMaidenhead, Berkshire, SL6 2QL, UK",
-    "phone": "+1 646 766 3199",
+    "address": "Shoppenhangers Road\nMaidenhead\nBerkshire SL6 2QL\nUnited Kingdom",
     "email": "privacy@mheducation.com",
     "web": "https://www.mheducation.com",
     "sources": [
         "https://www.mheducation.com/privacy.end-user.html",
         "https://www.mheducation.com/privacy/customer-privacy-contacts.html",
-        "https://www.mheducation.com/terms-use.html",
         "https://github.com/datenanfragen/data/pull/1640"
     ],
     "suggested-transport-medium": "email",
