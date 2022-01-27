@@ -1,0 +1,17 @@
+{
+    "slug": "mheducation",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "McGraw Hill LLC",
+    "address": "Shoppenhangers Road\nMaidenhead\nBerkshire SL6 2QL\nUnited Kingdom",
+    "email": "privacy@mheducation.com",
+    "web": "https://www.mheducation.com",
+    "sources": [
+        "https://www.mheducation.com/privacy.end-user.html",
+        "https://www.mheducation.com/privacy/customer-privacy-contacts.html",
+        "https://github.com/datenanfragen/data/pull/1640"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
