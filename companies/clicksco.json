@@ -9,10 +9,11 @@
     "name": "Clicksco Digital Limited",
     "address": "Suite 3.03\nFloor 3\n91 Wimpole St\nLondon\nW1G 0EF\nUnited Kingdom",
     "phone": "+44 20 3457 0543",
-    "email": "data-protection@clicksco.com",
+    "email": "contact@clicksco.com",
     "web": "https://www.clicksco.com/",
     "sources": [
-        "https://www.clicksco.com/privacy/"
+        "https://www.clicksco.com/privacy/",
+        "https://github.com/datenanfragen/data/pull/1642"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
