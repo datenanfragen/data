@@ -1,0 +1,11 @@
+{
+    "slug": "domestic-general-insurance-plc",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Domestic & General Insurance PLC",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1643"
+    ]
+}
