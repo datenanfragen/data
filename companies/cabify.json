@@ -10,7 +10,7 @@
     "runs": [
         "Cabifymobility International, S.L"
     ],
-    "address": "Calle Pradillo 42\n28002, Madrid\nEspaña",
+    "address": "Calle Pradillo 42\n28002 Madrid\nEspaña",
     "email": "dpo@cabify.com",
     "web": "https://cabify.com",
     "sources": [
@@ -29,7 +29,6 @@
             "optional": false
         }
     ],
-    "request-language": "es",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
