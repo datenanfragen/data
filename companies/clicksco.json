@@ -6,15 +6,18 @@
     "categories": [
         "ads"
     ],
-    "name": "Clicksco Digital Limited",
-    "address": "Suite 3.03\nFloor 3\n91 Wimpole St\nLondon\nW1G 0EF\nUnited Kingdom",
-    "phone": "+44 20 3457 0543",
-    "email": "data-protection@clicksco.com",
+    "name": "Havas SA",
+    "runs": [
+        "Clicksco Digital Limited"
+    ],
+    "address": "Sutton Yard\n65 Goswell Road\nLondon EC1V 7EN\nUnited Kingdom",
+    "phone": "+44 20 3330 7000",
+    "email": "data.protectionuk@havas.com",
     "web": "https://www.clicksco.com/",
     "sources": [
-        "https://www.clicksco.com/privacy/"
+        "https://www.clicksco.com/privacy/",
+        "https://github.com/datenanfragen/data/pull/1642"
     ],
-    "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"
