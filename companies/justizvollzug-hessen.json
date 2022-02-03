@@ -1,0 +1,19 @@
+{
+    "slug": "justizvollzug-hessen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Justizvollzugsanstalt Frankfurt-Preungesheim III",
+    "address": "Obere Kreuzäckerstraße 4\n60435 Frankfurt am Main",
+    "phone": "069 1367-03",
+    "fax": "069 1367-1399",
+    "web": "https://justizvollzug.hessen.de/JVA-Frankfurt-III",
+    "sources": [
+        "https://justizvollzug.hessen.de/JVA-Frankfurt-III",
+        "https://github.com/datenanfragen/data/pull/1647"
+    ],
+    "quality": "verified"
+}
