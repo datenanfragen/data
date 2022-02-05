@@ -1,12 +1,13 @@
 {
     "slug": "cpx-onlineactive",
     "relevant-countries": [
-        "all"
+        "de"
     ],
     "categories": [
-        "ads"
+        "utility"
     ],
-    "name": "cpx online active AG",
+    "name": "Maiguizo",
+    "runs": [],
     "address": "Ortsgemeindstrasse 5\n9444 Diepoldsau\nSwitzerland",
     "phone": "+41 71 588 07 52",
     "email": "datenschutz@cpx-onlineactive.com",
@@ -14,8 +15,15 @@
     "sources": [
         "http://cpx-onlineactive.com/privacy-policy",
         "https://github.com/datenanfragen/data/issues/541",
-        "http://cpx-onlineactive.com/imprint"
+        "http://cpx-onlineactive.com/imprint",
+        "https://github.com/datenanfragen/data/pull/1648"
+    ],
+    "required-elements": [
+        {
+            "type": "input"
+        }
     ],
     "suggested-transport-medium": "email",
+    "comments": [],
     "quality": "verified"
 }
