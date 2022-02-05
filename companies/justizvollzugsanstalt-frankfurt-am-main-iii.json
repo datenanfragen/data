@@ -16,16 +16,6 @@
         "https://justizvollzug.hessen.de/datenschutz",
         "https://github.com/datenanfragen/data/pull/1634"
     ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name"
-        },
-        {
-            "desc": "Adresse",
-            "type": "address"
-        }
-    ],
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
