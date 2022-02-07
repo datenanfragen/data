@@ -1,0 +1,21 @@
+{
+    "slug": "vpeh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Verband der privaten Erste Hilfe Schulen e. V.",
+    "address": "Zellescher Weg 9\n01069 Dresden",
+    "phone": "+49 351 26441930",
+    "fax": "+49 351 26441939",
+    "email": "info@vpeh.org",
+    "web": "https://vpeh.org",
+    "sources": [
+        "https://vpeh.org/datenschutz",
+        "https://vpeh.org/impressum",
+        "https://github.com/datenanfragen/data/pull/1650"
+    ],
+    "quality": "verified"
+}
