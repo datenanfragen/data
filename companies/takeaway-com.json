@@ -49,7 +49,8 @@
         "https://www.10bis.co.il/next/privacyPolicy",
         "https://en.wikipedia.org/wiki/Takeaway.com",
         "https://github.com/datenanfragen/data/pull/1118",
-        "https://www.takeaway.com/drivers/privacy"
+        "https://www.takeaway.com/drivers/privacy",
+        "https://github.com/datenanfragen/data/pull/1654"
     ],
     "required-elements": [
         {
@@ -62,5 +63,8 @@
         }
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Die Kommunikation erfolgt in englischer Sprache."
+    ],
     "quality": "verified"
 }
