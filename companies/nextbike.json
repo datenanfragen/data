@@ -1,0 +1,17 @@
+{
+    "slug": "nextbike",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "nextbike",
+    "address": "nextbike GmbH\nErich-Zeigner-Allee 69-73\n04229 Leipzig",
+    "phone": "+49 341 30898890",
+    "fax": "+49 341 308988913",
+    "email": "datenschutz@nextbike.de",
+    "web": "https://nextbike.de",
+    "sources": [
+        "https://www.nextbike.de/de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1657"
+    ],
+    "quality": "verified"
+}
