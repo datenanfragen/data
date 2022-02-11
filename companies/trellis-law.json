@@ -5,13 +5,12 @@
     ],
     "name": "Trellis Research Inc.",
     "address": "1939 Wellington Rd\nLos Angeles\nCA 90016\nUnited States of America",
-    "phone": "+1 302 636 5440",
     "email": "support@trellis.law",
     "web": "https://trellis.law",
     "sources": [
         "https://trellis.law/privacy-policy",
-        "https://github.com/datenanfragen/data/issues/195",
-        "https://trellis.law/terms-of-service"
+        "https://trellis.law/terms-of-service",
+        "https://github.com/datenanfragen/data/pull/1658"
     ],
     "quality": "verified"
 }
