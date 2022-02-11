@@ -10,11 +10,7 @@
     "sources": [
         "https://trellis.law/privacy-policy",
         "https://github.com/datenanfragen/data/issues/195",
-        "https://trellis.law/terms-of-service",
-        "https://github.com/datenanfragen/data/pull/1660"
-    ],
-    "comments": [
-        "THe phone number above does not belong to Trellis Research and your site is directing people to call our number. Please cease and desist from listing our phone number."
+        "https://trellis.law/terms-of-service"
     ],
     "quality": "verified"
 }
