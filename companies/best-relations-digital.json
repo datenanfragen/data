@@ -1,0 +1,18 @@
+{
+    "slug": "best-relations-digital",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Best Relations Digital GmbH",
+    "address": "Im Heidewinkel 71\n21271 Asendorf",
+    "email": "info@best-relations-digital.de",
+    "web": "https://www.best-relations-digital.de/",
+    "sources": [
+        "https://www.best-relations-digital.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1663"
+    ],
+    "quality": "verified"
+}
