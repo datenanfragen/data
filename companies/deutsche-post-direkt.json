@@ -8,26 +8,25 @@
     ],
     "name": "Deutsche Post Direkt GmbH",
     "address": "Junkersring 57\n53844 Troisdorf\nDeutschland",
-    "phone": "+49 2241 2661 2680",
-    "fax": "+49 2241 2661 6680",
+    "phone": "+49 2241 26612680",
+    "fax": "+49 2241 26616680",
     "email": "datenschutz@postdirekt.de",
-    "web": "https://service.postdirekt.de/pdportal/PublicServlet",
-    "sources": [
-        "https://service.postdirekt.de/pdportal/PublicServlet?command=content&page=datenschutz",
-        "https://service.postdirekt.de/pdportal/PublicServlet?command=content&page=impressum",
-        "https://www.deutschepost.de/content/dam/dpag/images/D_d/DDP/Downloads/datenschutz/dp-direkt-informationen-zur-dv-fuer-av-und-adressabgleich-012020.pdf"
-    ],
+    "web": "https://www.deutschepost.de/de/d/deutsche-post-direkt/kontakt-auswahl/kontakt-datenschutz.html?%253Aformid=dpdirekt_kontakt_auswahl&%253Aformstart=%252Fcontent%252Fdpag%252Fde%252Fd%252Fdeutsche-post-direkt%252Fkontakt-auswahl%252Fjcr%253Acontent%252Fpar%252Fstripes%252Frow%252Fstripes_grid_1387177548%252Fcolumn-0%252Fstart&%253Aoriginalres=%252Fcontent%252Fdpag%252Fde%252Fd%252Fdeutsche-post-direkt%252Fkontakt-auswahl&_charset_=UTF-8&%253Aredirect=%252Fcontent%252Fdpag%252Fde%252Fd%252Fdeutsche-post-direkt%252Fkontakt-auswahl.html&%253Aclient=dpag&%253AaddSelector=&thema=Datenschutz&Weiter=Weiter",
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
+            "type": "address",
+            "optional": false
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1668"
+    ]
 }
