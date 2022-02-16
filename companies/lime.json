@@ -31,22 +31,21 @@
         "Neutronnet SA"
     ],
     "address": "6th Floor, South Bank House, Barrow Street\nDublin 4\nD04 TR29\nIreland",
-    "email": "legal@li.me",
+    "email": "dpo@li.me",
     "web": "https://www.li.me",
     "sources": [
         "https://www.li.me/privacy",
-        "https://www.li.me/myinformation"
+        "https://www.li.me/myinformation",
+        "https://github.com/datenanfragen/data/pull/1669"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Email",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "email",
