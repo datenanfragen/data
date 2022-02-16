@@ -1,0 +1,26 @@
+{
+    "slug": "verti",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Verti Versicherung AG",
+    "address": "Rheinstrasse 7A, 14513 Teltow",
+    "phone": "030 890 003 000",
+    "fax": "030 890 004 004",
+    "email": "datenschutz@verti.de",
+    "web": "https://www.verti.de",
+    "sources": [
+        "https://www.verti.de/impressum",
+        "https://www.verti.de/datenschutz",
+        "https://www.verti.de/presse",
+        "https://github.com/datenanfragen/data/pull/1670"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "presse@verti.de\nMedienanfrage: 03328 424 399 8\n\nkarriere@verti.de\nPersonalabteilung + Beschwerden 03328-424 360 0\n\nStreitbeilegung:\nVersicherungsombudsmann e.V.\nPostfach 08 06 32\n10006 Berlin\nwww.versicherungsombudsmann.de"
+    ],
+    "quality": "verified"
+}
