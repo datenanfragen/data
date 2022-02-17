@@ -5,18 +5,16 @@
     ],
     "categories": [
         "telecommunication",
-        "finance"
+        "utility"
     ],
     "name": "Deutsche Telekom AG",
-    "runs": [
-        "Vivento (vivento.de)"
-    ],
     "address": "Friedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
     "email": "datenschutz@telekom.de",
-    "web": "https://www.vivento.de",
+    "web": "https://www.telekom.com",
     "sources": [
-        "https://www.vivento.de/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/1571"
+        "https://www.telekom.com/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1571",
+        "https://github.com/datenanfragen/data/pull/1672"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",
