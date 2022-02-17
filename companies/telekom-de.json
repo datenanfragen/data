@@ -8,14 +8,14 @@
     ],
     "name": "Telekom Deutschland GmbH",
     "runs": [
-        "Telekom Deutschland Multibrand GmbH",
         "FCB Mobil (FC Bayern Mobil)",
         "Kaufland mobil",
         "NORMA Connect",
-        "EDEKA smart"
+        "EDEKA smart",
+        "Deutsche Telekom AG"
     ],
     "address": "Friedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
-    "phone": "+49 228 181 0",
+    "phone": "+49 800 3304006",
     "email": "datenschutz@telekom.de",
     "web": "https://www.telekom.de",
     "sources": [
@@ -25,7 +25,9 @@
         "https://www.fcbayernmobil.de/assets/pdf/AllgemeinerDatenschutzhinweis.pdf",
         "https://www.kaufland-mobil.de/assets/pdf/Kauflandmobil_AllgDatenschutzhinweis.pdf",
         "https://www.norma-connect.de/assets/pdf/NORMAConnect_AllgDatenschutzhinweis.pdf",
-        "https://www.edeka-smart.de/file/286/e241b501/EDEKAsmart_AllgDatenschutzhinweis_20180523.pdf"
+        "https://www.edeka-smart.de/file/286/e241b501/EDEKAsmart_AllgDatenschutzhinweis_20180523.pdf",
+        "https://www.telekom.com/de/kontaktformulare/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1676"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
