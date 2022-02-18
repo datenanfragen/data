@@ -1,5 +1,5 @@
 {
-    "slug": "drluppa",
+    "slug": "drluppa-de",
     "relevant-countries": [
         "de"
     ],
@@ -25,6 +25,9 @@
             "desc": "Adresse",
             "type": "address"
         }
+    ],
+    "comments": [
+        "Alternative E-Mail-Adresse: kontakt@drluppa.de"
     ],
     "quality": "verified"
 }
