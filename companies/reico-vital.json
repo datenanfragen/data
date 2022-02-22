@@ -1,0 +1,19 @@
+{
+    "slug": "reico-vital",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Reico & Partner Vertriebs GmbH",
+    "address": "Zunftstraße 3\n86869 Oberostendorf\nDeutschland",
+    "email": "datenschutz@reico-vital.de",
+    "web": "https://reico-vital.com/de/",
+    "sources": [
+        "https://reico-vital.com/de/content/7-datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/1680"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
