@@ -1,0 +1,19 @@
+{
+    "slug": "nortonlifelock",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "NortonLifeLock Inc.",
+    "runs": [
+        "Norton",
+        "Avira"
+    ],
+    "address": "NortonLifeLock Inc.\n60 E Rio Salado Pkwy STE 1000,\nTempe, AZ 85281, USA",
+    "web": "https://www.nortonlifelock.com/",
+    "sources": [
+        "https://www.nortonlifelock.com/",
+        "https://github.com/datenanfragen/data/pull/1686"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
