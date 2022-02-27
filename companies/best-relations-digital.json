@@ -1,0 +1,18 @@
+{
+    "slug": "best-relations-digital",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Best Relations Digital GmbH",
+    "runs": [
+        "Smash Online GmbH (vergl. Inhaber im Impressum)"
+    ],
+    "address": "Best Relations Digital GmbH\nIm Heidewinkel 71\n21271 Asendorf",
+    "fax": "info@best-relations-digital.de",
+    "web": "https://www.best-relations-digital.de/impressum/",
+    "sources": [
+        "Werbung",
+        "https://github.com/datenanfragen/data/pull/1685"
+    ],
+    "quality": "verified"
+}
