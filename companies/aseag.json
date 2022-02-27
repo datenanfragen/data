@@ -1,0 +1,24 @@
+{
+    "slug": "aseag",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body",
+        "travel"
+    ],
+    "name": "Aachener Straßenbahn- und Energieversorgungs-AG (ASEAG)",
+    "runs": [
+        "movA"
+    ],
+    "address": "Neuköllner Straße 1\n52068 Aachen",
+    "phone": "0241-1688 3040",
+    "email": "datenschutz@aseag.de",
+    "web": "https://www.aseag.de/",
+    "sources": [
+        "https://www.aseag.de/datenschutz/",
+        "https://www.aseag.de/impressum",
+        "https://github.com/datenanfragen/data/pull/1684"
+    ],
+    "quality": "verified"
+}
