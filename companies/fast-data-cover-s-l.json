@@ -1,0 +1,19 @@
+{
+    "slug": "fast-data-cover-s-l",
+    "relevant-countries": [
+        "es"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Fast Data Cover S.L.",
+    "address": "Avenida Portal de L'angel, 36, Barcelona, 08002 , Barcelona",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "CIF B67515452"
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1688"
+    ]
+}
