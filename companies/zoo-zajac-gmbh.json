@@ -1,0 +1,16 @@
+{
+    "slug": "zoo-zajac-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Zoo Zajac GmbH",
+    "address": "Konrad-Adenauer-Ring 6\n47167 Duisburg",
+    "sources": [
+        "www.zajac.de",
+        "https://github.com/datenanfragen/data/pull/1687"
+    ],
+    "quality": "verified"
+}
