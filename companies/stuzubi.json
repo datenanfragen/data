@@ -7,12 +7,12 @@
         "school"
     ],
     "name": "Stuzubi GmbH",
-    "address": "Dr.-Johann-Heitzer-Str. 2\n85757 Karlsfeld b. München",
-    "phone": "+49 8131 907480",
+    "address": "c/o blueDatex Health GmbH\nKantstr. 30\n10623 Berlin\nDeutschland",
+    "phone": "+49 30 88712453",
     "email": "kontakt@bluedatex.de",
     "web": "https://stuzubi.de",
     "sources": [
-        "https://stuzubi.de/impressum/",
+        "https://stuzubi.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/1655"
     ],
     "quality": "verified"
