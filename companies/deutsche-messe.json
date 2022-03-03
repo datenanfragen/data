@@ -1,5 +1,8 @@
 {
     "slug": "deutsche-messe",
+    "relevant-countries": [
+        "de"
+    ],
     "name": "Deutsche Messe AG",
     "runs": [
         "CEBIT (www.cebit.de)",
@@ -10,8 +13,8 @@
         "LIGNA (www.ligna.de)"
     ],
     "address": "Messegelände\n30521 Hannover\nDeutschland",
-    "phone": "+49 511 89 0",
-    "fax": "+49 511 89 32626",
+    "phone": "+49 511 890",
+    "fax": "+49 511 8932626",
     "email": "datenschutz@messe.de",
     "web": "http://www.messe.de",
     "sources": [
@@ -22,11 +25,20 @@
         "http://www.hannovermesse.de/de/datenschutz/",
         "http://www.domotex.de/de/datenschutz/",
         "http://www.interschutz.de/de/datenschutz/",
-        "http://www.ligna.de/de/datenschutz/"
+        "http://www.ligna.de/de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1656"
     ],
-    "relevant-countries": [
-        "de"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
