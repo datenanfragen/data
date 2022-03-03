@@ -58,13 +58,16 @@
             "type": "name"
         },
         {
+            "desc": "Email",
+            "type": "email"
+        },
+        {
             "desc": "Address",
-            "type": "address"
+            "type": "address",
+            "optional": true
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Die Kommunikation erfolgt in englischer Sprache."
-    ],
-    "quality": "verified"
+    "quality": "tested"
 }
