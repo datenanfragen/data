@@ -1,0 +1,20 @@
+{
+    "slug": "lekker",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "lekker Energie GmbH",
+    "address": "Invalidenstraße 17 a\n10115 Berlin",
+    "phone": "030 - 30 80 99 77",
+    "fax": "030 - 430 949 498",
+    "email": "kundenservice@lekker.de",
+    "web": "https://lekker.de",
+    "sources": [
+        "https://www.lekker.de/impressum",
+        "https://github.com/datenanfragen/data/pull/1689"
+    ],
+    "quality": "verified"
+}
