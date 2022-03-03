@@ -49,7 +49,8 @@
         "https://www.10bis.co.il/next/privacyPolicy",
         "https://en.wikipedia.org/wiki/Takeaway.com",
         "https://github.com/datenanfragen/data/pull/1118",
-        "https://www.takeaway.com/drivers/privacy"
+        "https://www.takeaway.com/drivers/privacy",
+        "https://github.com/datenanfragen/data/pull/1654"
     ],
     "required-elements": [
         {
@@ -57,10 +58,16 @@
             "type": "name"
         },
         {
+            "desc": "Email",
+            "type": "email"
+        },
+        {
             "desc": "Address",
-            "type": "address"
+            "type": "address",
+            "optional": true
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
