@@ -28,9 +28,17 @@
         "http://www.ligna.de/de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/1656"
     ],
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Das Unternehmen hat einen externen Datenschutzbeauftragten bestellt:\n\nKai Viehmeier\nKAI VIEHMEIER CONSULTING GmbH\nAn der Straßenbahn 12\n31157 Sarstedt\nwww.kai-viehmeier-consulting.de\nTelefon  +49 5066 69560 80\nFax          +49 5066 69560 81\nMail        dsgvo@kai-viehmeier-consulting.de"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
     ],
-    "quality": "verified"
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "tested"
 }
