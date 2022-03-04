@@ -1,0 +1,21 @@
+{
+    "slug": "praxis-hoehne",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Praxis Höhne für Kinder- und Jugendpsychiatrie und Psychotherapie",
+    "address": "Metzstraße 2\n88045 Friedrichshafen",
+    "phone": "07541 - 38470",
+    "fax": "07541 - 384722",
+    "email": "info@praxis-hoehne.com",
+    "web": "https://www.praxis-hoehne.com/",
+    "sources": [
+        "https://www.praxis-hoehne.com/",
+        "https://www.arzt-auskunft.de/arzt/kinder-jugendpsychiatrie-und-psychotherapie/friedrichshafen/dr-christian-hoehne-7010627",
+        "https://github.com/datenanfragen/data/pull/1691"
+    ],
+    "quality": "verified"
+}
