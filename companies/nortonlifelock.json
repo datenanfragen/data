@@ -3,17 +3,21 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "NortonLifeLock Inc.",
+    "name": "NortonLifeLock Ireland Limited",
     "runs": [
         "Norton",
-        "Avira"
+        "LifeLock"
     ],
-    "address": "NortonLifeLock Inc.\n60 E Rio Salado Pkwy STE 1000,\nTempe, AZ 85281, USA",
+    "address": "Ballycoolin Business Park\nBlanchardstown\nDublin 15\nIreland",
+    "email": "nll_privacy@nortonlifelock.com",
     "web": "https://www.nortonlifelock.com/",
     "sources": [
-        "https://www.nortonlifelock.com/",
+        "https://www.nortonlifelock.com/gb/en/privacy/global-privacy-statement/",
         "https://github.com/datenanfragen/data/pull/1686"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "There is also a web form you can use here:\nhttps://privacyportal.onetrust.com/webform/25b84167-55d3-4099-84e2-c9e08ec67d54/4d9f34ca-cc1d-4578-9590-35834c92f17b"
+    ],
     "quality": "verified"
 }

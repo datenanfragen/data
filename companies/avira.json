@@ -7,14 +7,12 @@
         "telecommunication",
         "commerce"
     ],
-    "name": "Avira Operations GmbH & Co. KG",
+    "name": "Avira Holding GmbH & Co. KG",
     "runs": [
-        "Avira Holding GmbH & Co. KG",
-        "Avira Sales GmbH & Co. KG",
-        "Avira, Inc.",
+        "Avira Operations GmbH & Co. KG",
         "Avira GmbH & Co. KG",
-        "Avira International Holding GmbH",
-        "Avira OP GmbH",
+        "Avira, Inc.",
+        "Avira Soft srl",
         "Avira Security Suite (Anti Virus)",
         "Avira Connect",
         "Avira Phantom VPN",
@@ -29,19 +27,13 @@
         "Avira Identity Scanner",
         "Avira Prime"
     ],
-    "address": "Kaplaneiweg 1\n88069 Tettnang\nGermany",
-    "phone": "+49 7542 500 0",
-    "fax": "+49 7542 500 3000",
-    "email": "datenschutzbeauftragter@avira.de",
+    "address": "c/o Pembroke Privacy Ltd.\n4 Upper Pembroke Street\nDublin 2\nIreland",
+    "email": "data-privacy@avira.com",
     "web": "https://www.avira.com",
     "sources": [
-        "https://www.avira.com/de/general-privacy",
-        "https://www.avira.com/en/general-privacy",
-        "https://github.com/datenanfragen/data/issues/49",
-        "https://www.avira.com/de/general-imprint",
-        "https://www.avira.com/de/privacy-policy/contact"
+        "https://www.avira.com/en/privacy-policy/contact",
+        "https://github.com/datenanfragen/data/issues/49"
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
