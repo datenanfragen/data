@@ -33,18 +33,6 @@ const getFieldsForSchema = function (schema) {
     return fields;
 };
 
-// TODO: No. Please. We *need* to find something better than this. :'(
-const intifySlug = (slug) =>
-    Math.min(
-        Number(
-            Array.from(new TextEncoder().encode(slug))
-                .slice(0, 7)
-                .map((i) => i.toString().padStart(3, '0'))
-                .join('')
-        ),
-        2147483640
-    );
-
 const setupCollection = async function (collection_name, schema_filename) {
     const schema = require(path.resolve(schema_filename));
     const fields = getFieldsForSchema(schema);
@@ -65,7 +53,7 @@ const deploy = async function (index, schema_filename, directory) {
     const records = glob
         .sync(`./${directory}/*.json`)
         .map((file) => require(path.resolve(file)))
-        .map((obj) => ({ ...obj, 'sort-index': intifySlug(obj.slug) }));
+        .map((obj) => ({ ...obj, 'sort-index': 1 }));
 
     // Insert in chunks of 1000 records (Typesense recommends packages < 1MB).
     for (const chunk of chunk_array(records, 1000)) await client.collections(collection_name).documents().import(chunk);
