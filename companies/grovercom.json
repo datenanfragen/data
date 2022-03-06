@@ -8,11 +8,11 @@
     ],
     "name": "Grover Group GmbH",
     "runs": [
-        "Grover Finance I UG (haftungsbeschränkt)",
-        "Grover Finance II GmbH  Holzmarktstraße 11, 10179 Berlin"
+        "Grover Finance I GmbH",
+        "Grover Finance II GmbH"
     ],
-    "address": "data protection nord GmbH\nBranch office Berlin\nKurfürstendamm 212\n10719 Berlin\nE-Mail: office@datenschutz-nord.de",
-    "email": "datenschutz@grover.com",
+    "address": "c/o data protection nord GmbH\nKurfürstendamm 212\n10719 Berlin\nGermany",
+    "email": "office@datenschutz-nord.de",
     "web": "https://www.grover.com",
     "sources": [
         "https://www.grover.com/de-de/g-about/datenschutzerklaerung",
