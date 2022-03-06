@@ -7,7 +7,7 @@ import { omit, pick } from 'filter-anything';
 import * as jsonpointer from 'jsonpointer';
 import pc from 'picocolors';
 import asTable from 'as-table';
-import marked = require('marked');
+import { marked } from 'marked';
 import TerminalRenderer from 'marked-terminal';
 import _linters from './checks';
 import { locatorFactory } from './common/locator';
@@ -176,6 +176,11 @@ const validate = async (dir: string) => {
 
     if (check_results.flat().filter((r) => r.severity === 'ERROR').length > 0) exit_code = 1;
 };
+
+process.on('unhandledRejection', (err) => {
+    console.error('An unhandled promise rejection occurred:', err);
+    process.exit(1);
+});
 
 (async () => {
     await validate(join(base_dir, 'companies'));
