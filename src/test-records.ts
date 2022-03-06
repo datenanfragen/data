@@ -177,6 +177,11 @@ const validate = async (dir: string) => {
     if (check_results.flat().filter((r) => r.severity === 'ERROR').length > 0) exit_code = 1;
 };
 
+process.on('unhandledRejection', (err) => {
+    console.error('An unhandled promise rejection occurred:', err);
+    process.exit(1);
+});
+
 (async () => {
     await validate(join(base_dir, 'companies'));
     await validate(join(base_dir, 'supervisory-authorities'));
