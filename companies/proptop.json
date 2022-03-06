@@ -1,0 +1,21 @@
+{
+    "slug": "proptop",
+    "relevant-countries": [
+        "de",
+        "pl"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "proptop GmbH",
+    "address": "Ladberger Straße 81\n49525 Lengerich\nDeutschland",
+    "phone": "+49 5482 9899000",
+    "email": "support@proptop.com",
+    "web": "https://www.proptop.com/",
+    "sources": [
+        "Internet",
+        "https://github.com/datenanfragen/data/pull/1694"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
