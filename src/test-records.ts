@@ -7,7 +7,7 @@ import { omit, pick } from 'filter-anything';
 import * as jsonpointer from 'jsonpointer';
 import pc from 'picocolors';
 import asTable from 'as-table';
-import marked = require('marked');
+import { marked } from 'marked';
 import TerminalRenderer from 'marked-terminal';
 import _linters from './checks';
 import { locatorFactory } from './common/locator';
