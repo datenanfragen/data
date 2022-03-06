@@ -1,6 +1,5 @@
 const Typesense = require('typesense');
 const chunk_array = require('chunk');
-const bent = require('bent');
 const glob = require('glob');
 const path = require('path');
 
@@ -15,9 +14,6 @@ const client = new Typesense.Client({
 
     apiKey: process.env.TYPESENSE_API_KEY,
     connectionTimeoutSeconds: 10,
-});
-const post = bent('POST', 'json', 200, 'https://search-backend.datenanfragen.de', {
-    'X-TYPESENSE-API-KEY': process.env.TYPESENSE_API_KEY,
 });
 
 const getFieldsForSchema = function (schema) {
@@ -69,19 +65,10 @@ const deploy = async function (index, schema_filename, directory) {
     const records = glob
         .sync(`./${directory}/*.json`)
         .map((file) => require(path.resolve(file)))
-        .map((obj) => ({ ...obj, 'sort-index': intifySlug(obj.slug) }))
-        .map((obj) => JSON.stringify(obj));
+        .map((obj) => ({ ...obj, 'sort-index': intifySlug(obj.slug) }));
 
     // Insert in chunks of 1000 records (Typesense recommends packages < 1MB).
-    for (const chunk of chunk_array(records, 1000)) {
-        // TODO: Let's hope the Typesense JS library will implement this at some point.
-        const result = await post(`/collections/${collection_name}/documents/import`, chunk.join('\n'));
-
-        if (!result.success || result.num_imported !== chunk.length) {
-            console.error(result);
-            throw 'Importing failed!';
-        }
-    }
+    for (const chunk of chunk_array(records, 1000)) await client.collections(collection_name).documents().import(chunk);
 
     // Update the alias to the new collection only after importing successfully.
     await client.aliases().upsert(index, { collection_name });
