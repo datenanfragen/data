@@ -8,14 +8,16 @@
     ],
     "name": "Grover Group GmbH",
     "runs": [
-        "Grover Finance I UG (haftungsbeschränkt)"
+        "Grover Finance I UG (haftungsbeschränkt)",
+        "Grover Finance II GmbH  Holzmarktstraße 11, 10179 Berlin"
     ],
-    "address": "c/o Freshcompliance GmbH\nSchlesische Str. 26\n10997 Berlin\nDeutschland",
+    "address": "data protection nord GmbH\nBranch office Berlin\nKurfürstendamm 212\n10719 Berlin\nE-Mail: office@datenschutz-nord.de",
     "email": "datenschutz@grover.com",
     "web": "https://www.grover.com",
     "sources": [
         "https://www.grover.com/de-de/g-about/datenschutzerklaerung",
-        "https://github.com/datenanfragen/data/issues/425"
+        "https://github.com/datenanfragen/data/issues/425",
+        "https://github.com/datenanfragen/data/pull/1695"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
