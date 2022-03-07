@@ -1,0 +1,20 @@
+{
+    "slug": "careerbuilder-germany-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "CareerBuilder Germany GmbH",
+    "runs": [
+        "jobs.de",
+        "JobScout24"
+    ],
+    "address": "Hanns-Schwindt-Str. 8\n81829 München\nDeutschland",
+    "email": "datenschutzbeauftragter@datenschutzexperte.de",
+    "web": "https:://www.careerbuilder.de",
+    "sources": [
+        "https://www.jobs.de/s/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1699"
+    ],
+    "quality": "verified"
+}
