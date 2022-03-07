@@ -223,6 +223,11 @@
   resolved "https://registry.yarnpkg.com/@types/all-the-cities/-/all-the-cities-3.1.0.tgz#bd8384d3ff95093bf991f3aeef34a5ed8a6d4934"
   integrity sha512-u8Y0xAStECwEpgWlzNkwW9mqV19iAIY8aHFlLabhQBF3cRUlIspQe6ZzKSqGu5mLlLVzYX7jyCHgksVzU72CcA==
 
+"@types/chunk@^0.0.0":
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/@types/chunk/-/chunk-0.0.0.tgz#644651a09113cb500a8563f5c8a9de657aa292c9"
+  integrity sha512-8z7Z9E1UoxUfwb4SUuWZZCAa5T+vi2daACygqUed7NpPnq04CJo0L3l0heHh3R9fLi/pOUbfR/ZwHd2+YEQIxg==
+
 "@types/glob@^7.1.4":
   version "7.1.4"
   resolved "https://registry.yarnpkg.com/@types/glob/-/glob-7.1.4.tgz#ea59e21d2ee5c517914cb4bc8e4153b99e566672"

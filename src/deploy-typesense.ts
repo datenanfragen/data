@@ -1,13 +1,22 @@
-const Typesense = require('typesense');
-const chunk_array = require('chunk');
-const glob = require('glob');
-const path = require('path');
+import Typesense from 'typesense';
+import { CollectionFieldSchema, FieldType } from 'typesense/lib/Typesense/Collection';
+import chunk_array from 'chunk';
+import glob from 'glob';
+import path from 'path';
+import fs from 'fs/promises';
+
+type Schema = {
+    properties: Record<string, { type: string; items?: { type: string; enum: string[] } }>;
+    required: string[];
+};
+
+if (!process.env.TYPESENSE_API_KEY) throw new Error('You need to set the `TYPESENSE_API_KEY` environment variable.');
 
 const client = new Typesense.Client({
     nodes: [
         {
             host: 'search-backend.datenanfragen.de',
-            port: '443',
+            port: 443,
             protocol: 'https',
         },
     ],
@@ -16,11 +25,11 @@ const client = new Typesense.Client({
     connectionTimeoutSeconds: 10,
 });
 
-const getFieldsForSchema = function (schema) {
-    let fields = [{ name: 'sort-index', type: 'int32' }];
+const getFieldsForSchema = function (schema: Schema) {
+    const fields: CollectionFieldSchema[] = [{ name: 'sort-index', type: 'int32' }];
 
     for (const [field, details] of Object.entries(schema.properties)) {
-        let prop_type = '';
+        let prop_type: FieldType = 'auto';
         if (details.type === 'array') {
             if (details.items && details.items.type !== 'string') continue;
             else prop_type = 'string[]';
@@ -33,8 +42,8 @@ const getFieldsForSchema = function (schema) {
     return fields;
 };
 
-const setupCollection = async function (collection_name, schema_filename) {
-    const schema = require(path.resolve(schema_filename));
+const setupCollection = async function (collection_name: string, schema_filename: string) {
+    const schema: Schema = JSON.parse(await fs.readFile(schema_filename, { encoding: 'utf8' }));
     const fields = getFieldsForSchema(schema);
 
     await client.collections().create({
@@ -44,7 +53,11 @@ const setupCollection = async function (collection_name, schema_filename) {
     });
 };
 
-const deploy = async function (index, schema_filename, directory) {
+const deploy = async function (
+    index: 'companies' | 'supervisory-authorities',
+    schema_filename: string,
+    directory: string
+) {
     // The main collections are only aliases to the actual collection (named with a Unix timestamp).
     const collection_name = `${index}_${Date.now()}`;
     await setupCollection(collection_name, schema_filename);

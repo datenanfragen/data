@@ -6,6 +6,7 @@
         "@babel/runtime": "^7.11.0",
         "@segment/ajv-human-errors": "^2.0.0",
         "@types/all-the-cities": "^3.1.0",
+        "@types/chunk": "^0.0.0",
         "@types/glob": "^7.1.4",
         "@types/marked": "^4.0.2",
         "@types/marked-terminal": "^3.1.2",
@@ -45,7 +46,7 @@
     },
     "scripts": {
         "test": "eslint --ext .json --ext .js --ext .ts && ts-node-transpile-only src/test-records.ts",
-        "deploy": "node deploy-typesense.js"
+        "deploy": "ts-node-transpile-only src/deploy-typesense.ts"
     },
     "husky": {
         "hooks": {
