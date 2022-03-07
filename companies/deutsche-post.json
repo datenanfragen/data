@@ -1,5 +1,8 @@
 {
     "slug": "deutsche-post",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -9,11 +12,12 @@
         "Shop der Deutschen Post (shop.deutschepost.de)",
         "E-Post (epost.de)",
         "DHL (dhl.de)",
-        "DHL Express"
+        "DHL Express",
+        "Packstation (packstation.de)"
     ],
     "address": "53250 Bonn\nDeutschland",
-    "phone": "+49 228 182 0",
-    "fax": "+49 228 182 7099",
+    "phone": "+49 228 1820",
+    "fax": "+49 228 1827099",
     "email": "datenschutz@dpdhl.com",
     "web": "https://www.deutschepost.de",
     "sources": [
@@ -21,24 +25,19 @@
         "https://www.deutschepost.de/de/f/footer/impressum.html",
         "https://www.dhl.de/de/toolbar/footer/datenschutz.html",
         "https://www.dhl.de/de/toolbar/footer/impressum/vertragspartner-impressum.html",
-        "http://www.dpdhl.com/reports/2010/zwischenbericht-q3/files/pdf/5.pdf"
+        "http://www.dpdhl.com/reports/2010/zwischenbericht-q3/files/pdf/5.pdf",
+        "https://github.com/datenanfragen/data/pull/1697"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
