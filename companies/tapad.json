@@ -3,26 +3,18 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "ads"
-    ],
-    "name": "Tapad UK Ltd.",
-    "runs": [
-        "Tapad, Inc."
-    ],
-    "address": "40 Bernard Street\nBloomsbury\nLondon\nWC1N 1LE\nUnited Kingdom",
-    "phone": "+44 207 025 8710",
+    "name": "Tapad, Inc.",
+    "address": "261 Madison Avenue\n4th Floor\nNew York, NY 10016",
     "email": "privacy@tapad.com",
     "web": "https://www.tapad.com/",
     "sources": [
+        "https://crportal.tapad.com/#/",
         "https://www.tapad.com/privacy-policy",
-        "https://www.tapad.com/about-us/find-us"
+        "https://github.com/datenanfragen/data/pull/1702"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
-    "comments": [
-        "Address in the US: 60 Madison Ave, 3rd Floor, New York, NY 10010, United States of America"
-    ],
+    "comments": [],
     "quality": "verified"
 }
