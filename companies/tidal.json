@@ -1,0 +1,30 @@
+{
+    "slug": "tidal",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Aspiro AB",
+    "runs": [
+        "TIDAL"
+    ],
+    "address": "540 W 26th Street, 8th Floor\nNew York, NY 10001\nUnited States of America",
+    "email": "support@tidal.com",
+    "web": "https://tidal.com/",
+    "sources": [
+        "https://tidal.com/privacy",
+        "https://github.com/datenanfragen/data/pull/1703"
+    ],
+    "required-elements": [
+        {
+            "desc": "Email",
+            "type": "name"
+        }
+    ],
+    "comments": [
+        "There is also a web form at:\nhttps://privacyportal-cdn.onetrust.com/dsarwebform/a4b6361b-ba67-42a5-919a-140274fa097d/a8935802-39e4-40e2-9df6-8b6bdd9fa3d2.html"
+    ],
+    "quality": "verified"
+}
