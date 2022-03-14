@@ -10,8 +10,8 @@
     "runs": [
         "TIDAL"
     ],
-    "address": "ASPIRO AB\nc/o TIDAL\n540 W 26th Street\n8th Floor\nNew York, NY 10001",
-    "email": "support@tidal.com, dpo@tidal.com",
+    "address": "540 W 26th Street, 8th Floor\nNew York, NY 10001\nUnited States of America",
+    "email": "support@tidal.com",
     "web": "https://tidal.com/",
     "sources": [
         "https://tidal.com/privacy",
@@ -19,11 +19,12 @@
     ],
     "required-elements": [
         {
-            "desc": "Email address",
-            "type": "email",
-            "optional": false
+            "desc": "Email",
+            "type": "name"
         }
     ],
-    "suggested-transport-medium": "email",
+    "comments": [
+        "There is also a web form at:\nhttps://privacyportal-cdn.onetrust.com/dsarwebform/a4b6361b-ba67-42a5-919a-140274fa097d/a8935802-39e4-40e2-9df6-8b6bdd9fa3d2.html"
+    ],
     "quality": "verified"
 }
