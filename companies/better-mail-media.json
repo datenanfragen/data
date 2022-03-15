@@ -7,12 +7,13 @@
         "ads"
     ],
     "name": "Better Mail Media GmbH",
-    "address": "c/o WeWork\nAxel-Springer-Platz 3\n20355 Hamburg\nDeutschland",
+    "address": "c/o Smart Factory\nHeinrich-Hertz-Straße 26\n25336 Elmshorn\nDeutschland",
     "email": "info@better-mail-media.de",
     "web": "https://better-mail-media.de",
     "sources": [
         "https://better-mail-media.de/impressum/",
-        "https://github.com/datenanfragen/data/issues/200"
+        "https://github.com/datenanfragen/data/issues/200",
+        "https://github.com/datenanfragen/data/pull/1704"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
