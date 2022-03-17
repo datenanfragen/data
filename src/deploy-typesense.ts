@@ -50,6 +50,7 @@ const setupCollection = async function (collection_name: string, schema_filename
         name: collection_name,
         fields,
         default_sorting_field: 'sort-index',
+        token_separators: ['-', '&', '.', ',', '*', '/', '|', '+'],
     });
 };
 
