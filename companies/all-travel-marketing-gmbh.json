@@ -1,0 +1,20 @@
+{
+    "slug": "all-travel-marketing-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "All Travel Marketing GmbH",
+    "runs": [
+        "Travel Media Network GmbH",
+        "Rhein-Medial GmbH",
+        "RoBeSt Media UG",
+        "Reise-Rebellen GmbH"
+    ],
+    "address": "Maarstr. 84, D-53227 Bonn",
+    "sources": [
+        "https://www.northdata.de/Stro%C3%9F,+Rouven+Benedikt,+St.+Augustin/19pi",
+        "https://github.com/datenanfragen/data/pull/1707"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
