@@ -24,9 +24,7 @@
             "type": "address"
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Online-Formular: https://www.deutschepost.de/de/d/deutsche-post-direkt/kontakt-auswahl/kontakt-datenschutz.html"
-    ],
-    "quality": "verified"
+    "quality": "tested"
 }
