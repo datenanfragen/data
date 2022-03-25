@@ -12,8 +12,24 @@
     "web": "https://www.decathlon.de",
     "sources": [
         "https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz",
-        "https://github.com/datenanfragen/data/pull/1646"
+        "https://github.com/datenanfragen/data/pull/1646",
+        "https://github.com/datenanfragen/data/pull/1698"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "comments": [
+        "Auskünfte erfolgen in Form einer PDF-Datei per Email."
+    ],
+    "quality": "tested"
 }
