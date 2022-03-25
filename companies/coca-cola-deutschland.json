@@ -8,11 +8,12 @@
         "https://www.coca-cola.de"
     ],
     "address": "Stralauer Allee 4\n10245 Berlin\nDeutschland",
-    "email": "dpo@coca-cola.com",
+    "email": "info@coca-cola.de",
     "web": "https://www.coca-cola-deutschland.de",
     "sources": [
         "https://www.coca-cola-deutschland.de/datenschutz",
-        "https://github.com/datenanfragen/data/pull/1279"
+        "https://github.com/datenanfragen/data/pull/1279",
+        "https://github.com/datenanfragen/data/pull/1709"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
