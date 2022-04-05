@@ -1,0 +1,26 @@
+{
+    "slug": "gutefrage-net-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "gutefrage.net GmbH",
+    "runs": [
+        "www.gutefrage.net",
+        "www.autofrage.net",
+        "www.computerfrage.net",
+        "www.finanzfrage.net",
+        "www.gesundheitsfrage.net",
+        "www.motorradfrage.net",
+        "www.reisefrage.net",
+        "www.sportlerfrage.net",
+        "www.katzenfrage.net"
+    ],
+    "address": "Erika-Mann-Str. 23\n80636 München\nDeutschland",
+    "phone": "089515146100",
+    "email": "info@gutefrage.net",
+    "sources": [
+        "https://www.gutefrage.net/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1712"
+    ],
+    "quality": "verified"
+}
