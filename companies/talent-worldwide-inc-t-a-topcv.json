@@ -1,0 +1,16 @@
+{
+    "slug": "talent-worldwide-inc-t-a-topcv",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Talent Worldwide Inc t/a TopCV",
+    "address": "80 STATE STREET\nALBANY\n12207\nNY\nUnited States",
+    "email": "privacy@topcv.co.uk",
+    "sources": [
+        "https://www.topcv.co.uk/privacy",
+        "https://opencorporates.com/companies/us_ny/4915234",
+        "https://github.com/datenanfragen/data/pull/1713"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
