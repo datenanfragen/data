@@ -1,0 +1,16 @@
+{
+    "slug": "nationwide-building-society",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Nationwide Building Society",
+    "address": "Nationwide House\nPipers Way\nSwindon\nSN38 1NW",
+    "suggested-transport-medium": "letter",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1714"
+    ]
+}
