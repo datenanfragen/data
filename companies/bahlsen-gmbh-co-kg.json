@@ -1,0 +1,13 @@
+{
+    "slug": "bahlsen-gmbh-co-kg",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "BAHLSEN GmbH & Co. KG",
+    "address": "BAHLSEN GmbH & Co. KG\nPodbielskistraße 11\nD-30163 Hannover",
+    "sources": [
+        "https://www.bahlsen.com/de/de/impressum",
+        "https://github.com/datenanfragen/data/pull/1720"
+    ],
+    "quality": "verified"
+}
