@@ -1,0 +1,18 @@
+{
+    "slug": "solit-kapital",
+    "relevant-countries": [],
+    "categories": [
+        "finance"
+    ],
+    "name": "SOLIT Management GmbH",
+    "address": "Otto-von-Guericke-Ring 10\nD-65205 Wiesbaden",
+    "phone": "+49 6122 587070",
+    "fax": "+49 6122 587077",
+    "email": "datenschutz@solit-kapital.de",
+    "web": "https://www.solit-kapital.de/",
+    "sources": [
+        "https://www.solit-kapital.de/",
+        "https://github.com/datenanfragen/data/pull/1724"
+    ],
+    "quality": "verified"
+}
