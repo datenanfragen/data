@@ -1,0 +1,18 @@
+{
+    "slug": "digitalriver",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Digital Ruver Inc.",
+    "address": "Scheidtweilerstraße 4, 50933 Köln\n\n10380 Bren Road West\nMinnetonka, MN 55343 USA",
+    "web": "https://www.digitalriver.de/impressum/",
+    "sources": [
+        "https://www.digitalriver.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1726"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
