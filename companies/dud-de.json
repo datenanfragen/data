@@ -1,0 +1,22 @@
+{
+    "slug": "dud-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses",
+        "ads"
+    ],
+    "name": "Dun & Bradstreet Deutschland GmbH",
+    "address": "Robert-Bosch-Straße 11\n64293 Darmstadt",
+    "phone": "+49 0615 13800",
+    "fax": "+49 0615 1380360",
+    "email": "info.de@dnb.com",
+    "web": "https://www-prod.dnb.com/de-de/",
+    "sources": [
+        "https://www-prod.dnb.com/de-de/impressum/"
+    ],
+    "request-language": "de",
+    "quality": "verified",
+    "nsfw": false
+}
