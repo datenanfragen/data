@@ -18,6 +18,23 @@
         "https://hello.dnb.com/rs/145-JUC-481/images/2022-02-21_Datenschutzhinweise-Auskunftsdatenbestand_DE.pdf",
         "https://www-prod.dnb.com/de-de/datenschutz/ihre-rechte-als-betroffener/selbstauskunft-widerspruch/selbstauskunft-fuer-privatperson-oder-unternehmen/selbstauskunft-privatperson/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
     "suggested-transport-medium": "email",
     "request-language": "de",
     "comments": [
