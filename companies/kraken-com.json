@@ -1,7 +1,7 @@
 {
     "slug": "kraken-com",
     "relevant-countries": [
-        "all"
+        "be"
     ],
     "categories": [
         "finance"
@@ -11,25 +11,33 @@
         "Kraken"
     ],
     "address": "6th Floor One London Wall\nLondon\nEC2Y 5EB\nUnited Kingdom",
+    "phone": "0493185195",
     "email": "support@kraken.com",
     "web": "https://www.kraken.com",
     "sources": [
         "https://www.kraken.com/en-us/legal/privacy",
-        "https://support.kraken.com/hc/en-us/articles/360024549671-How-do-I-verify-emails-from-Kraken-Enigmail-"
+        "https://support.kraken.com/hc/en-us/articles/360024549671-How-do-I-verify-emails-from-Kraken-Enigmail-",
+        "https://github.com/datenanfragen/data/pull/1734"
     ],
     "required-elements": [
         {
-            "desc": "Name",
-            "type": "name"
+            "desc": "Uhr",
+            "type": "textarea",
+            "optional": true
         },
         {
-            "desc": "Address",
-            "type": "address"
+            "desc": "Rue des chaineux 80",
+            "type": "input",
+            "optional": true
         },
         {
-            "desc": "Email",
+            "desc": "uhrmartial@gmail.com",
             "type": "email"
         }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Bonjour\nJe fais des versements SEPA ,pour kraken de la banque BPost vers payward qui sont acceptés,mais refusé dans le sens inverse,\nPersonne ne sait me donner la raison pour laquelle c est refusé donc je ne peux pas resoudre le problème."
     ],
     "quality": "verified"
 }
