@@ -34,13 +34,6 @@
         "https://legal.bigpoint.com/DE/terms-and-conditions/de-DE",
         "https://legal.bigpoint.com/DE/imprint/de-DE"
     ],
-    "required-elements": [
-        {
-            "desc": "Account e-mail address",
-            "type": "email",
-            "optional": false
-        }
-    ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "tested"
