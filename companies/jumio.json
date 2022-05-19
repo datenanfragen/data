@@ -3,14 +3,11 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "commerce"
-    ],
     "name": "Jumio Corporation",
     "runs": [
         "Netverify"
     ],
-    "address": "395 Page Mill Road, Suite 150\nPalo Alto, CA 94306",
+    "address": "395 Page Mill Road, Suite 150\nPalo Alto, CA 94306\nUnited States of America",
     "email": "privacy@jumio.com",
     "web": "https://www.jumio.com",
     "sources": [
@@ -18,8 +15,5 @@
         "https://github.com/datenanfragen/data/pull/1682"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Company that collects images of driving licenses and phone cameras to verify an identity (for example for ride sharing services)."
-    ],
     "quality": "verified"
 }
