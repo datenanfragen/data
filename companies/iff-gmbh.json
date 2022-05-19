@@ -1,14 +1,15 @@
 {
-    "slug": "iff-gmbh",
+    "slug": "otto-iff-gmbh",
     "relevant-countries": [
         "de"
     ],
     "categories": [
-        "ads",
         "commerce"
     ],
     "name": "Otto IFF GmbH",
     "address": "Am Wiesenweg 25\n97262 Hausen\nDeutschland",
+    "phone": "+49 9367 98770",
+    "fax": "+49 9367 987710",
     "email": "datenschutzbeauftragter@iff-gmbh.com",
     "web": "https://www.iff-gmbh.com/",
     "sources": [
