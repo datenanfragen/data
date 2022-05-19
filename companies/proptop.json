@@ -1,8 +1,7 @@
 {
     "slug": "proptop",
     "relevant-countries": [
-        "de",
-        "pl"
+        "de"
     ],
     "categories": [
         "commerce"
@@ -13,9 +12,9 @@
     "email": "support@proptop.com",
     "web": "https://www.proptop.com/",
     "sources": [
-        "Internet",
+        "https://www.proptop.com/datenschutzerklaerung",
+        "https://www.proptop.com/impressum",
         "https://github.com/datenanfragen/data/pull/1694"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
