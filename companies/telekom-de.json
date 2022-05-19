@@ -11,26 +11,26 @@
         "FCB Mobil (FC Bayern Mobil)",
         "Kaufland mobil",
         "NORMA Connect",
-        "EDEKA smart"
+        "EDEKA smart",
+        "Telekom Deutschland Multibrand GmbH"
     ],
     "address": "Friedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
-    "phone": "08003304006",
+    "phone": "+49 800 33 04006",
     "email": "datenschutz@telekom.de",
     "web": "https://www.telekom.de",
     "sources": [
-        "https://www.telekom.de/datenschutz-ganz-einfach",
-        "https://www.telekom.de/start/impressum",
+        "https://www.telekom.de/ueber-das-unternehmen/datenschutz",
+        "https://www.telekom.com/de/verantwortung/datenschutz-und-datensicherheit/datenschutz",
         "https://www.telekom.de/mobilewholesale/de/partner",
         "https://www.fcbayernmobil.de/assets/pdf/AllgemeinerDatenschutzhinweis.pdf",
         "https://www.kaufland-mobil.de/assets/pdf/Kauflandmobil_AllgDatenschutzhinweis.pdf",
-        "https://www.norma-connect.de/assets/pdf/NORMAConnect_AllgDatenschutzhinweis.pdf",
+        "https://norma-be.spreadspace.de/sites/default/files/2022-05/NORMAConnect_AllgDatenschutzhinweis_1.pdf",
         "https://www.edeka-smart.de/file/286/e241b501/EDEKAsmart_AllgDatenschutzhinweis_20180523.pdf",
-        "https://www.telekom.com/de/verantwortung/datenschutz-und-datensicherheit/datenschutz/ihre-daten-bei-der-telekom",
         "https://github.com/datenanfragen/data/pull/1675"
     ],
     "suggested-transport-medium": "email",
     "comments": [
-        "siehe auch Deutsche Telekom AG-> Kontaktformular: https://www.telekom.com/de/verantwortung/datenschutz-und-datensicherheit/datenschutz/ihre-daten-bei-der-telekom"
+        "Webformular für Anfragen: https://www.telekom.com/de/kontaktformulare/datenschutz"
     ],
     "quality": "verified"
 }
