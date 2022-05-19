@@ -40,6 +40,7 @@
             "optional": false
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "tested"
 }
