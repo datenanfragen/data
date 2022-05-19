@@ -1,13 +1,13 @@
 {
-    "slug": "bueromarkt-ag",
+    "slug": "boettcher",
     "relevant-countries": [
         "de"
     ],
     "categories": [
         "commerce"
     ],
-    "name": "Büromarkt Böttcher AG",
-    "address": "zu Hd. Datenschutzbeauftragter\nBüromarkt Böttcher AG\nBrüsseler Str. 3\n07747 Jena",
+    "name": "Böttcher AG",
+    "address": "Stadtrodaer Landstraße 1\n07751 Jena-Zöllnitz\nDeutschland",
     "phone": "+49 180 7 667300",
     "fax": "+49 3641 3113600",
     "email": "datenschutz@bueromarkt-ag.de",
@@ -18,5 +18,8 @@
         "https://github.com/datenanfragen/data/pull/1677"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Achtung: Telefonnummer ist kostenpflichtig (30 Sekunden frei, danach 14Cent inkl.MwSt/Minute aus dem deutschen Festnetz / Mobilfunknetz)!"
+    ],
     "quality": "verified"
 }
