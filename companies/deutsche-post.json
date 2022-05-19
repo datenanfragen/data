@@ -13,7 +13,7 @@
         "E-Post (epost.de)",
         "DHL (dhl.de)",
         "DHL Express",
-        "Packstation (packstation.de)"
+        "DHL Packstation"
     ],
     "address": "53250 Bonn\nDeutschland",
     "phone": "+49 228 1820",
@@ -31,13 +31,15 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
+            "type": "address",
+            "optional": false
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
