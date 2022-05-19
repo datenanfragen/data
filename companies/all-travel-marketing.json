@@ -1,0 +1,21 @@
+{
+    "slug": "all-travel-marketing",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel",
+        "ads"
+    ],
+    "name": "All Travel Marketing GmbH",
+    "runs": [
+        "Travel Media Network GmbH"
+    ],
+    "address": "Maarstr. 84\n53227 Bonn\nDeutschland",
+    "sources": [
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1657423&land_abk=nw",
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1828661&land_abk=nw",
+        "https://github.com/datenanfragen/data/pull/1707"
+    ],
+    "quality": "verified"
+}
