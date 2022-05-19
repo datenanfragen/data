@@ -1,0 +1,22 @@
+{
+    "slug": "praxis-hoehne",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Praxisgemeinschaft Dr. med. Christian Höhne",
+    "address": "c/o DeltaMed Süd GmbH & Co. KG\nUntere Gasse 9\n71642 Ludwigsburg\nDeutschland",
+    "phone": "+49 7141 974570",
+    "fax": "+49 7141 9745714",
+    "email": "dsb@deltamedsued.de",
+    "web": "https://www.praxis-hoehne.com/",
+    "sources": [
+        "https://www.praxis-hoehne.com/datenschutz",
+        "https://www.praxis-hoehne.com/impressum",
+        "https://github.com/datenanfragen/data/pull/1691"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
