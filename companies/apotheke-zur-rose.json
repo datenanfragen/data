@@ -1,0 +1,13 @@
+{
+    "slug": "apotheke-zur-rose",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Apotheke Zur Rose",
+    "address": "Thüringer Str. 29 06112 Halle (Saale)",
+    "sources": [
+        "www.zurrose.de",
+        "https://github.com/datenanfragen/data/pull/1739"
+    ],
+    "quality": "verified"
+}
