@@ -6,16 +6,17 @@
     "categories": [
         "utility"
     ],
-    "name": "Praxis Höhne für Kinder- und Jugendpsychiatrie und Psychotherapie",
-    "address": "Metzstraße 2\n88045 Friedrichshafen",
-    "phone": "07541 - 38470",
-    "fax": "07541 - 384722",
-    "email": "info@praxis-hoehne.com",
+    "name": "Praxisgemeinschaft Dr. med. Christian Höhne",
+    "address": "c/o DeltaMed Süd GmbH & Co. KG\nUntere Gasse 9\n71642 Ludwigsburg\nDeutschland",
+    "phone": "+49 7141 974570",
+    "fax": "+49 7141 9745714",
+    "email": "dsb@deltamedsued.de",
     "web": "https://www.praxis-hoehne.com/",
     "sources": [
-        "https://www.praxis-hoehne.com/",
-        "https://www.arzt-auskunft.de/arzt/kinder-jugendpsychiatrie-und-psychotherapie/friedrichshafen/dr-christian-hoehne-7010627",
+        "https://www.praxis-hoehne.com/datenschutz",
+        "https://www.praxis-hoehne.com/impressum",
         "https://github.com/datenanfragen/data/pull/1691"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
