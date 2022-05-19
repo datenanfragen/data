@@ -1,19 +1,13 @@
 {
-    "slug": "fast-data-cover-s-l",
+    "slug": "fast-data-cover",
     "relevant-countries": [
         "es"
     ],
-    "categories": [
-        "addresses"
-    ],
     "name": "Fast Data Cover S.L.",
-    "address": "Avenida Portal de L'angel, 36, Barcelona, 08002 , Barcelona",
-    "suggested-transport-medium": "email",
-    "comments": [
-        "CIF B67515452"
-    ],
-    "quality": "verified",
+    "address": "CL Portal de L'angel 36\n08002 Barcelona\nSpain",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1688"
-    ]
+        "https://github.com/datenanfragen/data/pull/1688",
+        "https://www.infoempresa.com/en-in/es/company/fast-data-cover-sl"
+    ],
+    "quality": "verified"
 }
