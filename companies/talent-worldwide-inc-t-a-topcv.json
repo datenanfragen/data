@@ -1,15 +1,20 @@
 {
-    "slug": "talent-worldwide-inc-t-a-topcv",
+    "slug": "talent-worldwide",
     "relevant-countries": [
         "all"
     ],
-    "name": "Talent Worldwide Inc t/a TopCV",
-    "address": "80 STATE STREET\nALBANY\n12207\nNY\nUnited States",
+    "name": "Talent Worldwide Inc.",
+    "runs": [
+        "TopCV",
+        "TopResume"
+    ],
+    "address": "Kemp House\n152 - 160 City Road\nLondon\nEC1V 2NX\nUnited Kingdom",
+    "phone": "+44 800 0293 253",
     "email": "privacy@topcv.co.uk",
     "sources": [
         "https://www.topcv.co.uk/privacy",
-        "https://opencorporates.com/companies/us_ny/4915234",
-        "https://github.com/datenanfragen/data/pull/1713"
+        "https://github.com/datenanfragen/data/pull/1713",
+        "https://www.topcv.co.uk/contact"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
