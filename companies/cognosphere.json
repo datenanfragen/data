@@ -8,26 +8,16 @@
     ],
     "name": "Cognosphere Pte. Ltd.",
     "runs": [
-        "miHoYo Co., Ltd."
+        "HoYoverse",
+        "Genshin Impact"
     ],
-    "address": "C/O: SINGAPORE FOZL GROUP PTE. LTD. 6 Raffles Quay Singapore, 048580 Singapore",
-    "email": "support_os@hoyoverse.com",
+    "address": "6 Raffles Quay\n048580 Singapore\nRepublic of Singapore",
+    "email": "privacy@hoyoverse.com",
     "web": "http://www.cognosphere.com/",
     "sources": [
-        "https://www.dnb.com/business-directory/company-profiles.cognosphere_pte_ltd.bbcfff3463ce92742ff3f0b82e6aa92e.html",
-        "https://en.wikipedia.org/wiki/MiHoYo",
+        "https://account.hoyoverse.com/#/about/privacy",
+        "https://genshin.hoyoverse.com/en/company/privacy",
         "https://github.com/datenanfragen/data/pull/1717"
-    ],
-    "required-elements": [
-        {
-            "desc": "HoYoverse-Pass-ID",
-            "type": "input",
-            "optional": false
-        },
-        {
-            "desc": "Zur Account-Registrierung genutzte Email",
-            "type": "email"
-        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
