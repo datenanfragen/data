@@ -3,7 +3,7 @@ import { SuggestedTransportMedium } from '../../types/CompanyRecord';
 
 const check: Check = {
     id: 'suggested-medium-exists',
-    desc: 'the suggested transport medium should be defined in the record.',
+    desc: 'The suggested transport medium should be specified in the record.',
     url: 'https://github.com/datenanfragen/data/issues/1740',
     severity: 'ERROR',
     run: (json) => {
