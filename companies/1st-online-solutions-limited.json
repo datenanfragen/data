@@ -1,10 +1,11 @@
 {
     "slug": "1st-online-solutions-limited",
     "relevant-countries": [
-        "gb"
+        "gb",
+        "ee"
     ],
     "categories": [
-        "school"
+        "social media"
     ],
     "name": "1st Online Solutions Limited",
     "runs": [
@@ -15,7 +16,8 @@
     "web": "https://fantasticacademy.com/",
     "sources": [
         "https://fantasticacademy.com/privacy-policy/",
-        "https://github.com/datenanfragen/data/pull/1189"
+        "https://github.com/datenanfragen/data/pull/1189",
+        "https://github.com/datenanfragen/data/pull/1743"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
