@@ -6,11 +6,28 @@
     "categories": [
         "commerce"
     ],
-    "name": "Digital Ruver Inc.",
-    "address": "Scheidtweilerstraße 4, 50933 Köln\n\n10380 Bren Road West\nMinnetonka, MN 55343 USA",
-    "web": "https://www.digitalriver.de/impressum/",
+    "name": "Digital River, Inc.",
+    "runs": [
+        "Digital River Australia Pty Ltd.",
+        "Digital River Do Brasil Importação e Comercio De Produtos De Informatica Ltda",
+        "Digital River GmbH",
+        "Digital River Hong Kong",
+        "Digital River India Private Ltd.",
+        "Digital River Ireland Ltd.",
+        "Digital River Japan K.K.",
+        "Digital River Korea, Limited",
+        "Digital River Mexico, S. de R.L. de C.V.",
+        "Digital River Singapore Pte. Ltd.",
+        "Digital River Trading (Shanghai) Co., Ltd.",
+        "DR APAC, LLC., Taiwan Branch",
+        "DR globalTech, Inc."
+    ],
+    "address": "c/o Digital River GmbH\nScheidtweilerstraße 4\n50933 Köln\nGermany",
+    "phone": "+1 952 253 1234",
+    "email": "privacy@digitalriver.com",
+    "web": "https://www.digitalriver.de",
     "sources": [
-        "https://www.digitalriver.de/impressum/",
+        "https://www.digitalriver.de/datenschutzrichtlinien/",
         "https://github.com/datenanfragen/data/pull/1726"
     ],
     "suggested-transport-medium": "email",
