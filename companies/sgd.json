@@ -10,8 +10,8 @@
     ],
     "name": "Studiengemeinschaft Werner Kamprath Darmstadt GmbH",
     "address": "Hilpertstr. 31\n64295 Darmstadt\nDeutschland",
-    "phone": "+49 6157 8060",
-    "fax": "+49 6157 80612",
+    "phone": "+49 6151 3842 200",
+    "fax": "+49 6151 3842 201",
     "email": "datenschutz@sgd.de",
     "web": "https://www.sgd.de",
     "sources": [
@@ -23,13 +23,16 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
+            "type": "address",
+            "optional": false
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
