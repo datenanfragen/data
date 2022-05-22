@@ -1,20 +1,17 @@
 {
     "slug": "aboalarm",
     "relevant-countries": [
-        "de",
-        "at",
-        "ch"
-    ],
-    "categories": [
-        "ads"
+        "de"
     ],
     "name": "Aboalarm GmbH",
-    "address": "Aboalarm GmbH\nDatenschutzbeauftragter Maximilian Hartung\nRidlerstr. 57\n80339 München",
+    "address": "Ridlerstr. 57\n80339 München\nDeutschland",
+    "phone": "+49 89 25557540",
+    "email": "datenschutz@aboalarm.de",
     "web": "https://www.aboalarm.de",
     "sources": [
-        "https://www.aboalarm.de/impressum",
+        "https://www.aboalarm.de/nt/datenschutz",
         "https://github.com/datenanfragen/data/pull/1723"
     ],
-    "suggested-transport-medium": "letter",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
