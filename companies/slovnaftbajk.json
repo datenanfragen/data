@@ -12,8 +12,8 @@
     "email": "info@slovnaftbajk.sk",
     "web": "https://slovnaftbajk.sk/en",
     "sources": [
-        "https://slovnaftbajk.sk/en/privacy-policy.html"
+        "https://slovnaftbajk.sk/en/privacy-policy.html",
+        "https://slovnaftbajk.sk/en/contact-us.html"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
