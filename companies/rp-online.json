@@ -4,11 +4,16 @@
         "de"
     ],
     "categories": [
-        "telecommunication",
         "entertainment"
     ],
     "name": "Rheinische Post Verlagsgesellschaft mbH",
-    "address": "Rheinische Post Verlagsgesellschaft mbH/RP Digital GmbH\nDatenschutzbeauftragter\nZülpicher Straße 10\n40549 Düsseldorf",
+    "runs": [
+        "RP Digital GmbH",
+        "RP ePaper App",
+        "RP ONLINE App",
+        "RP Trauer"
+    ],
+    "address": "Zülpicher Straße 10\n40549 Düsseldorf\nDeutschland",
     "phone": "+49 211 5050",
     "email": "datenschutz@rheinische-post.de",
     "web": "https://rp-online.de/",
@@ -16,5 +21,6 @@
         "https://rp-online.de/info/datenschutz/",
         "https://github.com/datenanfragen/data/pull/1731"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
