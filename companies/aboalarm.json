@@ -1,0 +1,17 @@
+{
+    "slug": "aboalarm",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Aboalarm GmbH",
+    "address": "Ridlerstr. 57\n80339 München\nDeutschland",
+    "phone": "+49 89 25557540",
+    "email": "datenschutz@aboalarm.de",
+    "web": "https://www.aboalarm.de",
+    "sources": [
+        "https://www.aboalarm.de/nt/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1723"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
