@@ -1,0 +1,22 @@
+{
+    "slug": "netgemacht-event",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "NETgemacht EVENT UG (haftungsbeschränkt)",
+    "runs": [
+        "online-stammtisch.com"
+    ],
+    "address": "Im Klapperhof 7-23\n50670 Köln\nDeutschland",
+    "phone": "+49 221 67776950",
+    "email": "team@online-stammtisch.com",
+    "sources": [
+        "http://online-stammtisch.com/datenschutzerklaerung/",
+        "http://online-stammtisch.com/impressum/",
+        "https://github.com/datenanfragen/data/pull/1725"
+    ],
+    "quality": "verified"
+}
