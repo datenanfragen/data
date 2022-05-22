@@ -6,14 +6,14 @@
     "categories": [
         "ads"
     ],
-    "name": "PadSquad",
-    "address": "368 9th Ave, 9th Floor New York, NY 10001 United States",
-    "phone": "(866) 507-8327",
-    "email": "sales@padsquad.com",
+    "name": "PadSquad, LLC",
+    "address": "350 Seventh Avenue\nSuite #406\nNew York, NY 10001\nUnited States of America",
+    "email": "privacy@padsquad.com",
     "web": "https://padsquad.com/",
     "sources": [
-        "https://padsquad.com/",
+        "https://padsquad.com/privacy-policy",
         "https://github.com/datenanfragen/data/pull/1730"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
