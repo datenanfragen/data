@@ -1,0 +1,37 @@
+{
+    "slug": "bigpoint",
+    "relevant-countries": [
+        "bg",
+        "cz",
+        "dk",
+        "de",
+        "gr",
+        "gb",
+        "es",
+        "fi",
+        "fr",
+        "hu",
+        "it",
+        "nl",
+        "no",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "se"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Bigpoint GmbH",
+    "address": "Drehbahn 47-48\n20354 Hamburg\nGermany",
+    "phone": "+49 821 90786458",
+    "email": "privacy@bigpoint.net",
+    "web": "https://www.bigpoint.net/",
+    "sources": [
+        "https://legal.bigpoint.com/DE/privacy-policy/de-DE"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
