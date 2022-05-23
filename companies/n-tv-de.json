@@ -8,13 +8,14 @@
     ],
     "name": "n-tv Nachrichtenfernsehen GmbH",
     "address": "Picassoplatz 1\n50679 Köln\nDeutschland",
-    "phone": "+49 221 4563 0",
-    "fax": "+49 221 4563 1009",
+    "phone": "+49 221 45630",
+    "fax": "+49 221 45631009",
     "email": "datenschutz@n-tv.de",
     "web": "https://www.n-tv.de/",
     "sources": [
         "https://www.n-tv.de/ntvintern/Datenschutzerklaerung-article15745191.html",
-        "https://www.n-tv.de/ntvintern/Impressum-article9517336.html"
+        "https://www.n-tv.de/ntvintern/Impressum-article9517336.html",
+        "https://github.com/datenanfragen/data/pull/1748"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
