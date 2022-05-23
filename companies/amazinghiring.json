@@ -1,0 +1,36 @@
+{
+    "slug": "amazinghiring",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses",
+        "social media"
+    ],
+    "name": "AmazingHiring",
+    "address": "541 Jefferson Avenue, Suite 100\nRedwood City, CA 94063\nUSA",
+    "phone": "+44 1451 600787",
+    "email": "dpo@amazinghiring.com",
+    "web": "https://amazinghiring.com/",
+    "sources": [
+        "https://amazinghiring.com/privacy/",
+        "https://amazinghiring.com/gdpr/",
+        "https://help.amazinghiring.com/en/articles/2976470-how-could-i-remove-my-data-from-the-search",
+        "https://github.com/datenanfragen/data/pull/1747"
+    ],
+    "required-elements": [
+        {
+            "desc": "E-mail",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [],
+    "quality": "verified"
+}
