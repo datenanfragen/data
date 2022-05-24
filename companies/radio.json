@@ -1,0 +1,20 @@
+{
+    "slug": "radio",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "radio.de GmbH",
+    "address": "Mühlenkamp 59\n22303 Hamburg\nDeutschland",
+    "phone": "+49 40 570065150",
+    "email": "datenschutz@radio.de",
+    "web": "https://www.radio.de",
+    "sources": [
+        "https://www.radio.de/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/1749"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
