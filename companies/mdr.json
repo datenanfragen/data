@@ -7,14 +7,19 @@
         "entertainment"
     ],
     "name": "Mitteldeutscher Rundfunk",
+    "runs": [
+        "jumpradio.de"
+    ],
     "address": "Kantstraße 71 – 73\n04275 Leipzig\nDeutschland",
-    "phone": "+49 341 300 7732",
-    "fax": "+49 341 300 7341",
+    "phone": "+49 341 3007732",
+    "fax": "+49 341 3007341",
     "email": "datenschutz@mdr.de",
     "web": "https://www.mdr.de",
     "sources": [
         "https://www.mdr.de/service/datenschutz/index.html",
-        "http://www.ard.de/kinder/Datenschutz/3436692/index.html"
+        "http://www.ard.de/kinder/Datenschutz/3436692/index.html",
+        "https://www.jumpradio.de/service/datenschutz/index.html",
+        "https://github.com/datenanfragen/data/pull/1754"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
