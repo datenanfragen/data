@@ -1,0 +1,13 @@
+{
+    "slug": "iqvia-espa-a-s-a",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "iqvia españa s.a",
+    "address": "Cl De Juan Esplandiu 11 6  28007  - Madrid",
+    "phone": "915045254",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1751"
+    ]
+}
