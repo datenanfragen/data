@@ -15,6 +15,7 @@
         "Spark AR"
     ],
     "address": "4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
+    "phone": "+353 1 442 8800",
     "web": "https://www.facebook.com/",
     "sources": [
         "https://www.facebook.com/privacy/explanation",
@@ -27,7 +28,8 @@
         "https://github.com/datenanfragen/data/pull/974",
         "https://www.facebook.com/help/1561485474074139?ref=dp",
         "https://www.facebook.com/audiencenetwork/",
-        "https://sparkar.facebook.com/ar-studio/"
+        "https://sparkar.facebook.com/ar-studio/",
+        "https://github.com/datenanfragen/data/pull/1755"
     ],
     "comments": [
         "Various privacy controls (including the ability to download your data as HTML or JSON) are available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information",
