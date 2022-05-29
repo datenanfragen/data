@@ -1,0 +1,18 @@
+{
+    "slug": "tripod-technology-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Tripod technology GmbH",
+    "runs": [
+        "Tandem app"
+    ],
+    "sources": [
+        "https://www.tandem.net/privacy",
+        "https://github.com/datenanfragen/data/pull/1757"
+    ],
+    "quality": "verified"
+}
