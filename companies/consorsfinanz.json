@@ -31,8 +31,5 @@
         "https://github.com/datenanfragen/data/pull/784"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Erbittet datenschutzspezifische Anfragen per E-Mail zu stellen. Als Antwort erhält man einen Link und muss die Hotline anrufen, sich authentifizieren und ein Einmalpassword zum Zugriff auf den Link erfragen."
-    ],
     "quality": "verified"
 }
