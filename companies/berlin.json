@@ -1,0 +1,18 @@
+{
+    "slug": "berlin",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Polizeipräsidium Berlin",
+    "address": "Platz der Luftbrücke 6, Tempelhof, 12101 Berlin, Germany",
+    "phone": "+49 30 46640",
+    "web": "https://www.berlin.de/polizei/dienststellen/polizeipraesidium/",
+    "sources": [
+        "https://www.berlin.de/polizei/dienststellen/polizeipraesidium/",
+        "https://github.com/datenanfragen/data/pull/1760"
+    ],
+    "quality": "verified"
+}
