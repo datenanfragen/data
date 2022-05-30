@@ -13,7 +13,7 @@ const check: Check = {
     url: 'https://github.com/datenanfragen/data#data-formats',
     severity: 'ERROR',
     run: (json, ctx) => {
-        const schema = ctx.file_path.startsWith('supervisory-authorities/') ? adb_schema : cdb_schema;
+        const schema = /^supervisory-authorities[\\/].*/.test(ctx.file_path) ? adb_schema : cdb_schema;
         // TODO: Provide better messages for common errors. `ajv-errors` might be useful for that.
         if (!schema(json)) {
             const errors = new AggregateAjvError(schema.errors || [], {
