@@ -24,6 +24,11 @@
             "type": "name"
         },
         {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": true
+        },
+        {
             "desc": "BFS-Nummer",
             "type": "input",
             "optional": true
