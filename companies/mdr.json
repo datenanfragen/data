@@ -8,14 +8,18 @@
     ],
     "name": "Mitteldeutscher Rundfunk",
     "address": "Kantstraße 71 – 73\n04275 Leipzig\nDeutschland",
-    "phone": "+49 341 300 7732",
-    "fax": "+49 341 300 7341",
+    "phone": "+49 341 3007732",
+    "fax": "+49 341 3007341",
     "email": "datenschutz@mdr.de",
     "web": "https://www.mdr.de",
     "sources": [
         "https://www.mdr.de/service/datenschutz/index.html",
-        "http://www.ard.de/kinder/Datenschutz/3436692/index.html"
+        "http://www.ard.de/kinder/Datenschutz/3436692/index.html",
+        "https://github.com/datenanfragen/data/pull/1764"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Da die Daten im MDR (aus Datenschutzgründen) nicht zentral gesammelt bzw. von einer zentralen Stelle verarbeitet werden, ist es erforderlich das Auskunftsersuchen zu konkretisieren:\n\n1.         in welchem Zusammenhang die personenbezogenen Daten an den MDR übermittelt wurden (z. B. für ein Newsletter-Abo oder ein Gewinnspiel, ggf. unter Nennung des betreffenden TV-, Radio- oder Onlineangebotes des MDR) bzw. vom MDR verarbeitet werden,\n\n2.         auf welchem Wege (z. B. über ein bestimmtes Kontaktformular) die Daten übertragen wurden und\n\n3.         ob bereits Kontakt mit Ansprechpartnern im MDR besteht und wer diese sind."
+    ],
     "quality": "verified"
 }
