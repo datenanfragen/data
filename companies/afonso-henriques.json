@@ -1,0 +1,18 @@
+{
+    "slug": "afonso-henriques",
+    "relevant-countries": [
+        "pt"
+    ],
+    "name": "Afonso Henriques",
+    "address": "Rua Eng. Júlio Gomes da Silva 19 2º Dto\nAlgueirão- Mem Martins Sintra Portugal",
+    "phone": "960 149 733",
+    "email": "afonsoh4@gmail.com",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Acho que deviam ter um campo, para apagar de modo fácil as pessoa que faleceram. O meu amigo Francisco José da Silva Ribeiro já faleceu há um ano e continua no Facebook.\nCumprimentos"
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1765"
+    ]
+}
