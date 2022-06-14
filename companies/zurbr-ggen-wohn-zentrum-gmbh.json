@@ -1,0 +1,30 @@
+{
+    "slug": "zurbr-ggen-wohn-zentrum-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Zurbrüggen Wohn-Zentrum GmbH",
+    "address": "Hans-Böckler-Str. 4\n59423 Unna",
+    "email": "widerruf@zurbrueggen.de",
+    "sources": [
+        "Werbebrief",
+        "https://github.com/datenanfragen/data/pull/1777"
+    ],
+    "required-elements": [
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": true
+        },
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
