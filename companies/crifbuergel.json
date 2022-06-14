@@ -5,7 +5,12 @@
         "addresses"
     ],
     "name": "CRIF GmbH",
-    "address": "Friesenweg 4\nLeopoldstraße 244\n80807 München\nDeutschland",
+    "runs": [
+        "HYBRIGHT",
+        "KYC MORE",
+        "CRIF Bürgel (ehem.)"
+    ],
+    "address": "Leopoldstraße 244\n80807 München\nDeutschland",
     "phone": "+49 40 89803 0",
     "fax": "+49 40 89803 309",
     "email": "datenschutz.de@crif.com",
@@ -24,9 +29,6 @@
             "desc": "Adresse",
             "type": "address"
         }
-    ],
-    "comments": [
-        "Entgegen der Angabe auf der CRIF-Webseite sollte eine Personalausweiskopie – wenn überhaupt – nur auf explizite Nachfrage verschickt werden und nicht direkt mit dem ersten Schreiben."
     ],
     "relevant-countries": [
         "de"
