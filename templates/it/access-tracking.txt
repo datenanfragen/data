@@ -10,8 +10,6 @@ In caso di conferma, cordialmente, ai sensi dell'Articolo 15(3) del GDPR, fornit
 5. l’origine dei dati (ovvero il soggetto o la specifica fonte dalla quale essi sono stati acquisiti);
 6. l'esistenza di un processo decisionale automatizzato, inclusa la profilazione, come specificato nell'Articolo 22(1) e (4) del GDPR e, almeno in quei casi, informazioni significative sulla logica utilizzata, nonché l'importanza e le conseguenze previste di tale trattamento per l'interessato.
 
-Vi chiederei gentilmente, nel caso voi stiate processando dati anonimizzati su di me, di informarmi a riguardo e inoltre di spiegarmi la procedura utilizzata in maniera comprensibile.
-
 Se i dati del sottoscritto sono trasferiti a un paese terzo o a un'organizzazione internazionale, io richiedo di essere informato circa le appropriate misure di protezione ai sensi dell'Articolo 46 del GDPR riguardante il trasferimento.
 [data_portability>
 Io sottoscritto prego di ricevere i miei dati personali, che vi ho fornito, in un formato strutturato, di uso comune e leggibile da dispositivo automatico come previsto nell'Articolo 20(1) del GDPR.
