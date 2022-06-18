@@ -1,0 +1,18 @@
+{
+    "slug": "crypto",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "crypto.com",
+    "address": "Level 7, Spinola Park, Triq Mikiel Ang Borg, St Julians SPK 1000 Malta.",
+    "email": "fhv53340@zcrcd.com",
+    "web": "https://crypto.com",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1784"
+    ]
+}
