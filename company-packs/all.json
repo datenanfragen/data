@@ -41,5 +41,15 @@
             "patreon",
             "visa-eu"
         ]
+    },
+    {
+        "slug": "telecommunication",
+        "type": "choose",
+        "companies": [
+            "google",
+            "microsoft",
+            "verizon-media",
+            "yandex"
+        ]
     }
 ]
