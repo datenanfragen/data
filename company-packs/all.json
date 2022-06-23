@@ -18,5 +18,19 @@
             "whatsapp",
             "zoom"
         ]
+    },
+    {
+        "slug": "entertainment",
+        "type": "choose",
+        "companies": [
+            "apple",
+            "deezer",
+            "disney",
+            "google",
+            "netflix",
+            "soundcloud",
+            "spotify",
+            "twitch"
+        ]
     }
 ]

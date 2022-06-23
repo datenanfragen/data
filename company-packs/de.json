@@ -57,5 +57,16 @@
             "zalando",
             "zara-de"
         ]
+    },
+    {
+        "slug": "entertainment",
+        "type": "choose",
+        "companies": [
+            "amazon-de",
+            "dazn",
+            "joyn-gmbh",
+            "sky-de",
+            "telekom"
+        ]
     }
 ]
