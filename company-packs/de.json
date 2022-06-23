@@ -122,5 +122,30 @@
             "ww-ag-com",
             "zurich-versicherung"
         ]
+    },
+    {
+        "slug": "telecommunication",
+        "type": "choose",
+        "companies": [
+            "1und1-gmx",
+            "1und1-webde",
+            "1und1",
+            "alditalk",
+            "congstar",
+            "deutsche-glasfaser",
+            "drillisch",
+            "ewe-de",
+            "fonial",
+            "freenet-de",
+            "klarmobil",
+            "lebara",
+            "m-net",
+            "netcologne",
+            "o2-de",
+            "pyur",
+            "sipgate",
+            "telekom-de",
+            "vodafone-de"
+        ]
     }
 ]
