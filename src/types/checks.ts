@@ -1,6 +1,6 @@
 import { MergeExclusive } from 'type-fest';
 import { locatorFactory } from '../common/locator';
-import { AuthorityRecord, CompanyRecord, GenericRecord } from '../types/records';
+import { AuthorityRecord, CompanyRecord, GenericRecord, CompanyPack } from '../types/records';
 
 export type Position = { line?: number; column?: number };
 type LocationRange = { start: Position; end?: Position };
@@ -25,6 +25,7 @@ export type Check<T = GenericRecord> = {
 };
 export type CompanyCheck = Check<CompanyRecord>;
 export type AuthorityCheck = Check<AuthorityRecord>;
+export type CompanyPackCheck = Check<CompanyPack[]>;
 
 // See: https://github.com/reviewdog/reviewdog/blob/master/proto/rdf/reviewdog.proto
 export type RdjsonLine = {
