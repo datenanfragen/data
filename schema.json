@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "Datenanfragen.de company database record",
-    "description": "A single record of the Datenanfragen.de company database. It represents the contact information of a company (or other organization) specifically for privacy-related inquires and requests.\nMore information and access to the whole database at: https://github.com/datenanfragen/companies",
+    "description": "A single record of the Datenanfragen.de company database. It represents the contact information of a company (or other organization) specifically for privacy-related inquires and requests.\nMore information and access to the whole database at: https://github.com/datenanfragen/data",
     "type": "object",
     "properties": {
         "slug": {
