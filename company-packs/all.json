@@ -1,0 +1,22 @@
+[
+    {
+        "slug": "social-media",
+        "type": "choose",
+        "companies": [
+            "discord",
+            "facebook",
+            "google",
+            "instagram",
+            "linkedin",
+            "microsoft",
+            "pinterest",
+            "reddit",
+            "snapchat",
+            "telegram",
+            "tiktok",
+            "twitter",
+            "whatsapp",
+            "zoom"
+        ]
+    }
+]
