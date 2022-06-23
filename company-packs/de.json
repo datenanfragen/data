@@ -17,5 +17,19 @@
             "schober",
             "universum-business"
         ]
+    },
+    {
+        "slug": "credit-agencies",
+        "type": "add-all",
+        "companies": [
+            "creditreform-boniversum",
+            "crifbuergel",
+            "europro",
+            "ihd-kredit",
+            "informa-his",
+            "infoscore",
+            "regis24",
+            "schufa"
+        ]
     }
 ]
