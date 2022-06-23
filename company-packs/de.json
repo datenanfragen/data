@@ -31,5 +31,31 @@
             "regis24",
             "schufa"
         ]
+    },
+    {
+        "slug": "commerce",
+        "type": "choose",
+        "companies": [
+            "aboutyou-shop",
+            "aliexpress",
+            "alternate",
+            "amazon-de",
+            "asos-shop",
+            "bonprix",
+            "conrad",
+            "cyberport",
+            "ebay-de",
+            "etsy",
+            "hm-mode",
+            "ikea",
+            "lidl",
+            "mediamarkt",
+            "notebookbilliger",
+            "otto-handel",
+            "saturn-shop",
+            "tchibo",
+            "zalando",
+            "zara-de"
+        ]
     }
 ]
