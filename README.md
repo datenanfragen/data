@@ -24,18 +24,23 @@ To use it manually, simply run `yarn test`.
 
 ## Data formats
 
-The company data is located in the `companies` folder. Every company (or other organization) in our database is represented by a single JSON file (named after the slug in the JSON). The JSON has to follow the schema specified in the `schema.json` file.
+The company data is located in the `companies` folder. Every company (or other organization) in our database is represented by a single JSON file (named after the slug in the JSON). The JSON has to follow the schema specified in the `schema.json` file. See [below](#company-records) for more details.
 
 If a company requires a special template for requests under the GDPR, these can be stored in the `templates` folder and referenced by their filename in the company JSON record.
 
-The `suggested-companies` folder contains suggestions on which companies users should send access requests to. It is grouped by country (where each country is represented by a file with the ISO 3166-1 alpha-2 country code as the filename). The list should only contain companies that the user should definitely request because they are relevant to pretty much every citizen of that country (e.g. collection agencies and credit agencies). It should not contain companies that are relevant for many but not all users (like Amazon, Facebook etc.)  
+<details>
+<summary>The <code>suggested-companies</code> are deprecated and will be removed soon.</summary>
+The <code>suggested-companies</code> folder contains suggestions on which companies users should send access requests to. It is grouped by country (where each country is represented by a file with the ISO 3166-1 alpha-2 country code as the filename). The list should only contain companies that the user should definitely request because they are relevant to pretty much every citizen of that country (e.g. collection agencies and credit agencies). It should not contain companies that are relevant for many but not all users (like Amazon, Facebook etc.)  
 A list for a country is represented by a JSON array of the slugs representing the corresponding companies.
+</details>
+
+The `company-packs` folder contains bundles of related companies that are relevant to many users, grouped by country. See [below](#company-packs) for more details.
 
 Finally, the `supervisory-authorities` folder contains data on supervisory data protection authorities. They are structured similarly to the company records, following the schema in the `schema-supervisory-authorities.json` file.
 
 All JSON files must end with exactly one newline. All string fields in records must be trimmed (i.e. not have any leading or trailing whitespace).
 
-## Data format guidelines and resources (for company records)
+## Company records
 
 ### Companies we are interested in
 
@@ -69,14 +74,14 @@ Please **don't** include lines like `Data protection officer`, `Privacy departme
 
 We want phone and fax numbers to be in a standard international format without any other characters than numbers, the plus for the international prefix and spaces. You can use the [Phone Number Parser Demo](https://libphonenumber.appspot.com/) based on [libphonenumber](https://github.com/googlei18n/libphonenumber/) to convert phone numbers to that format. Additional spaces may be inserted to improve readability.
 
-## Required elements
+### Required elements
 
 If we know from previous requests (or from a privacy policy) which identification information is needed for requests to a company, we record that under the `required-elements` key.
 
 If `required_elements` are specified, there must be one element with type `name`. This does not have to be a real name but could also be a username or even an email address, if no other information is required.  
 In addition, the `required_elements` should include some way for the company to respond to the request, be it an address, an email address, a phone number or something similar. 
 
-## Request language
+### Request language
 
 Usually, the `request-language` should not be set, except for the following cases:
 
@@ -85,6 +90,19 @@ Usually, the `request-language` should not be set, except for the following case
     1. The company in question only addresses consumers in one language.
     2. The `relevant-countries` for the company include ones where this language is not spoken.
 
-## Relevant countries
+### Relevant countries
 
 If 'all' is specified, no additional country should be specified, as 'all' covers all countries.
+
+## Company packs
+
+The company packs are bundles of related companies that hold data on many people in a certain country, with the goal of making it easier for users to send requests to them. They supersede our previous lists of suggested companies.
+
+For each supported country, there is a JSON file of the packs in the `company-packs` folder, named after the ISO 3166-1 alpha-2 country code. Additionally, company packs that are relevant for users in all countries are in the `all.json` file.  
+The JSON files follow the schema specified in `schema-company-packs.json`. They are an array of the company packs.
+
+Each company pack has a `slug`, a `type` (where `add-all` means that all companies in the pack are relevant to the vast majority of users and they should all be immediately added, and `choose` means that it is likely that some companies are not relevant to all users and users should choose which companies they want to add), and finally `companies`, a JSON array of the slugs of the included companies.
+
+One company can appear in multiple packs. Per-country packs are merged with an `all` pack with the same slug, if it exists. 
+
+As being listed in a pack can have an effect on the number of requests a company receives, we need to be especially mindful here and only add companies that provably fit the pack and hold data on many people. For that reason, commits that change a pack must include sufficient documentation and sources in the commit message. Each source must have an archived link, preferably from archive.org. A single commit may only change a single pack.
