@@ -1,0 +1,21 @@
+[
+    {
+        "slug": "address-brokers",
+        "type": "add-all",
+        "companies": [
+            "abis",
+            "acxiom",
+            "adpublisher",
+            "az-direct",
+            "crifbuergel",
+            "deutsche-post-adress",
+            "deutsche-post-direkt",
+            "egentic",
+            "europro",
+            "quadress",
+            "regis24",
+            "schober",
+            "universum-business"
+        ]
+    }
+]
