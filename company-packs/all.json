@@ -32,5 +32,14 @@
             "spotify",
             "twitch"
         ]
+    },
+    {
+        "slug": "finance",
+        "type": "choose",
+        "companies": [
+            "mastercard-eu",
+            "patreon",
+            "visa-eu"
+        ]
     }
 ]

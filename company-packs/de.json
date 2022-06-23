@@ -68,5 +68,27 @@
             "sky-de",
             "telekom"
         ]
+    },
+    {
+        "slug": "finance",
+        "type": "choose",
+        "companies": [
+            "comdirect",
+            "commerzbank",
+            "deka",
+            "deutsche-bank-ag",
+            "dkb-bank",
+            "ing-diba",
+            "kfw-bankengruppe",
+            "klarna",
+            "n26-bank",
+            "norisbank",
+            "paydirekt",
+            "paypal",
+            "postbank",
+            "santander",
+            "targobank",
+            "vw-bank"
+        ]
     }
 ]
