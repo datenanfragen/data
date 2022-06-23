@@ -147,5 +147,18 @@
             "telekom-de",
             "vodafone-de"
         ]
+    },
+    {
+        "slug": "public-authorities",
+        "type": "choose",
+        "companies": [
+            "arbeitsagentur-bund",
+            "beitragsservice",
+            "bka-bund",
+            "bundesjustizamt",
+            "deutsche-rentenversicherung-bund",
+            "fiu-zoll",
+            "kba-bund"
+        ]
     }
 ]
