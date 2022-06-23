@@ -90,5 +90,37 @@
             "targobank",
             "vw-bank"
         ]
+    },
+    {
+        "slug": "insurance",
+        "type": "choose",
+        "companies": [
+            "allianz",
+            "axa",
+            "barmeniade",
+            "barmer",
+            "continentale-versicherung",
+            "dak-de",
+            "debeka",
+            "devk",
+            "ergo-group",
+            "generali",
+            "gothaer",
+            "hansemerkur",
+            "huk-versicherung",
+            "ikk-classic",
+            "kkh-krankenkasse",
+            "lvm-versicherung",
+            "munich-re",
+            "nuernberger-versicherung",
+            "ruv-versicherung",
+            "signal-iduna",
+            "sparkassenversicherung",
+            "talanx",
+            "techniker-krankenkasse",
+            "vbk-versicherung",
+            "ww-ag-com",
+            "zurich-versicherung"
+        ]
     }
 ]
