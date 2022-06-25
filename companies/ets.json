@@ -1,0 +1,53 @@
+{
+    "slug": "ets",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "ETS",
+    "runs": [
+        "TOEFL"
+    ],
+    "address": "U.S. Mail:\n    ETS\n    660 Rosedale Road\n    Princeton, NJ 08541 USA\nEU Mail:\n    ETS Global B.V.\n    Academic & Business Assessments\n    Strawinskylaan 929\n    1077 XX Amsterdam – The Netherlands",
+    "email": "etsinfo@ets.org",
+    "web": "https://www.ets.org/",
+    "sources": [
+        "https://www.ets.org/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/1792"
+    ],
+    "required-elements": [
+        {
+            "type": "email"
+        },
+        {
+            "type": "name"
+        },
+        {
+            "type": "birthdate"
+        },
+        {
+            "desc": "ETS ID number",
+            "type": "input"
+        },
+        {
+            "desc": "Test date",
+            "type": "input"
+        },
+        {
+            "desc": "Phone number",
+            "type": "input",
+            "optional": true
+        },
+        {
+            "desc": "Email-adress at time of test (if different)",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "ETS only provides a generic e-mail for all support requests, including privacy-related ones."
+    ],
+    "quality": "verified"
+}
