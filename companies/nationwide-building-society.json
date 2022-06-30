@@ -7,11 +7,12 @@
         "finance"
     ],
     "name": "Nationwide Building Society",
-    "address": "Kings Park Road\nMoulton Park\nNorthampton\nNN3 6NW\nUnited Kingdom",
+    "address": "The Data Protection Officer\nNationwide Building Society\nNationwide House\nPipers Way\nSwindon\nSN38 1NW\nUnited Kingdom",
     "web": "https://www.nationwide.co.uk",
     "sources": [
         "https://github.com/datenanfragen/data/pull/1714",
-        "https://www.nationwide.co.uk/about-us/cookies-privacy/your-information-rights/"
+        "https://www.nationwide.co.uk/about-us/cookies-privacy/how-we-use-your-information/",
+        "https://github.com/datenanfragen/data/pull/1798"
     ],
     "quality": "verified"
 }
