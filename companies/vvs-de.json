@@ -1,5 +1,5 @@
 {
-    "slug": "vvs",
+    "slug": "vvs-de",
     "relevant-countries": [
         "de"
     ],
@@ -8,15 +8,14 @@
         "utility"
     ],
     "name": "Verkehrs‐ und Tarifverbund Stuttgart GmbH (VVS)",
-    "address": "Datenschutzbeauftragter\nRotebühlstraße 121\n70178 Stuttgart\nDeutschland",
-    "phone": "0711 19449",
-    "fax": "0711 6606257",
+    "address": "Rotebühlstraße 121\n70178 Stuttgart\nDeutschland",
+    "phone": "+49 711 66060",
+    "fax": "+49 711 66062400",
     "email": "datenschutz@vvs.de",
     "web": "http://www.vvs.de",
     "sources": [
-        "http://www.vvs.de",
-        "https://www.stuttgart.de/vv/adresse/verkehrs-und-tarifverbund-stuttgart-gmbh-vvs-.php",
         "https://www.vvs.de/datenschutz",
+        "https://www.vvs.de/impressum",
         "https://github.com/datenanfragen/data/pull/1773"
     ],
     "suggested-transport-medium": "email",
