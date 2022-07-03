@@ -3,13 +3,19 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [],
-    "name": "autopartservice86",
-    "address": "??",
-    "phone": "?",
-    "fax": "?",
+    "categories": [
+        "commerce"
+    ],
+    "name": "Avto parts serviz 86 eood",
+    "runs": [
+        "autopartservice86 (ebay)"
+    ],
+    "address": "Lesnovska 29\n2100 Elin Pelin\nBulgaria",
+    "phone": "+359 87 985 5850",
+    "email": "autoparts86@abv.bg",
+    "web": "https://www.ebay.de/usr/autopartservice86",
     "sources": [
-        "Ebay",
+        "https://www.ebay.de/str/autopartservice86",
         "https://github.com/datenanfragen/data/pull/1796"
     ],
     "quality": "verified"
