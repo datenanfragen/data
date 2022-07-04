@@ -1,0 +1,20 @@
+{
+    "slug": "bestwestern",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "BWH Hotel Group Central Europe GmbH",
+    "runs": [
+        "bestwestern.de"
+    ],
+    "address": "Frankfurter Straße 10-14\n65760 Eschborn",
+    "email": "marketing@bwhotelgroup.de",
+    "web": "http://bestwestern.de/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1799"
+    ]
+}
