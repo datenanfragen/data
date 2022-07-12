@@ -1,0 +1,19 @@
+{
+    "slug": "en-aptoide",
+    "relevant-countries": [
+        "pt"
+    ],
+    "name": "Aptoide",
+    "address": "Rua Soeiro Pereira Gomes,\nLote 1, 3D, 1649-031 \nLisboa, Portugal",
+    "phone": "+351 913 423 006",
+    "email": "personal-data@aptoide.com",
+    "web": "https://en.aptoide.com",
+    "sources": [
+        "https://en.aptoide.com/company/legal?section=privacy",
+        "https://github.com/datenanfragen/data/pull/1803"
+    ],
+    "comments": [
+        "Aptoide, S.A., a Portuguese company, with the identification number ID 509987184"
+    ],
+    "quality": "verified"
+}
