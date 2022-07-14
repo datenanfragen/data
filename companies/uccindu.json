@@ -1,0 +1,20 @@
+{
+    "slug": "uccindu",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "UCC INDU GmbH",
+    "address": "Schriesheimer Str. 101 68526 Ladenburg",
+    "phone": "49 06203 9572999 / 9572998",
+    "fax": "49 06203 9572997",
+    "email": "sales@uccindu.com",
+    "web": "https://uccindu.de/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1805"
+    ]
+}
