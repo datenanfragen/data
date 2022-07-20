@@ -8,13 +8,14 @@
     ],
     "name": "Discord, Inc.",
     "address": "444 De Haro Street\nSuite #200\nSan Francisco\nCA 94107\nUnited States of America",
-    "email": "privacy@discord.com",
+    "email": "dpo@discord.com",
     "web": "https://discord.com",
     "sources": [
         "https://discord.com/privacy",
         "https://discord.com/terms",
         "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=03472899-23565581",
-        "https://github.com/datenanfragen/data/pull/1159"
+        "https://github.com/datenanfragen/data/pull/1159",
+        "https://github.com/datenanfragen/data/pull/1809"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
