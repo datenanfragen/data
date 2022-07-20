@@ -1,0 +1,19 @@
+{
+    "slug": "drama",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Drama.gg",
+    "address": "Germany",
+    "email": "hello@drama.gg",
+    "web": "https://drama.gg",
+    "sources": [
+        "https://drama.gg/discord/",
+        "https://drama.gg/terms/",
+        "https://drama.gg/privacy/",
+        "https://drama.gg/d/1845-rules-and-information",
+        "https://github.com/datenanfragen/data/pull/1808"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
