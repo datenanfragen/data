@@ -1,0 +1,58 @@
+{
+    "slug": "ets",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "ETS",
+    "runs": [
+        "TOEFL",
+        "TOEIC"
+    ],
+    "address": "U.S. Mail:\nETS\n660 Rosedale Road\nPrinceton, NJ 08541 USA\n\nEU Mail:\nETS Global B.V.\nAcademic & Business Assessments\nStrawinskylaan 929\n1077 XX Amsterdam – The Netherlands",
+    "email": "etsinfo@ets.org",
+    "web": "https://www.ets.org/",
+    "sources": [
+        "https://www.ets.org/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/1807"
+    ],
+    "required-elements": [
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Date of birth",
+            "type": "birthdate",
+            "optional": true
+        },
+        {
+            "desc": "ETS ID number",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Phone number",
+            "type": "input",
+            "optional": true
+        },
+        {
+            "desc": "Email at time of test (if different)",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "ETS only provides a generic e-mail for all support requests, including privacy-related ones. Adresses known to answer GDPR requests include: piirevoke@ets.org and GCOprivacy@ets.org."
+    ],
+    "quality": "verified"
+}
