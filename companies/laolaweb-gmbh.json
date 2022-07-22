@@ -1,0 +1,14 @@
+{
+    "slug": "laolaweb-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "laOlaWeb GmbH",
+    "address": "Grassistr. 20\n04107 Leipzig",
+    "sources": [
+        "https://laolaweb.com",
+        "https://github.com/datenanfragen/data/pull/1810"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
