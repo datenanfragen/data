@@ -1,0 +1,20 @@
+{
+    "slug": "razer",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Razer",
+    "address": "Razer (Europe) GmbH\nEssener Bogen 23\n22419 Hamburg, Germany",
+    "email": "dpo@razer.com",
+    "web": "https://www.razer.com",
+    "sources": [
+        "https://www.razer.com/legal/customer-privacy-policy",
+        "https://www.razer.com/gdpr",
+        "https://github.com/datenanfragen/data/pull/1812"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
