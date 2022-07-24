@@ -1,0 +1,20 @@
+{
+    "slug": "rosettastone",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Rosetta Stone",
+    "address": "Privacy Officer\nRosetta Stone Ltd.\n135 West Market Street\nHarrisonburg VA 22801\nUSA",
+    "email": "privacyofficer@RosettaStone.com",
+    "web": "https://www.rosettastone.com/",
+    "sources": [
+        "https://www.rosettastone.com/legal/dataprivacyandsecurity/",
+        "https://www.rosettastone.com/privacy/",
+        "https://github.com/datenanfragen/data/pull/1811"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
