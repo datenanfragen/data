@@ -13,7 +13,8 @@
     "email": "datenschutz.koeln@polizei.nrw.de",
     "web": "https://koeln.polizei.nrw/",
     "sources": [
-        "https://polizei.nrw/datenschutzerklaerung"
+        "https://polizei.nrw/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/1814"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",
