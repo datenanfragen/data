@@ -6,19 +6,23 @@
     "categories": [
         "social media"
     ],
-    "name": "Twitch UK Limited",
+    "name": "Twitch Interactive, Inc.",
     "runs": [
         "Twitch Interactive, Inc."
     ],
-    "address": "1 New Oxford Street\nLondon\nWC1A 1BA\nUnited Kingdom",
+    "address": "350 Bush Street\n2nd Floor, San Francisco\nCA 94104\nUnited States of America",
     "email": "privacy@twitch.tv",
     "web": "https://www.twitch.tv",
     "sources": [
         "https://www.twitch.tv/p/legal/privacy-policy/",
         "https://www.twitch.tv/p/legal/terms-of-service/",
-        "https://github.com/datenanfragen/data/issues/623"
+        "https://github.com/datenanfragen/data/issues/623",
+        "https://github.com/datenanfragen/data/pull/1813"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
+    "comments": [
+        "\"Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative under the UK General Data Protection Regulation (UK GDPR) for residents of the UK. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at Twitch UK Limited,1 New Oxford Street WC1A 1BA, UK, here under the ‘Privacy Questions’ category, or by email to privacy@twitch.tv.\""
+    ],
     "quality": "verified"
 }
