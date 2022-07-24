@@ -1,0 +1,23 @@
+{
+    "slug": "jugendwerk-altholstein",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "Ev.-Luth. Kirchenkreis Altholstein",
+    "runs": [
+        "Jugendwerk des Ev.-Luth. Kirchenkreis Altholstein"
+    ],
+    "address": "Michael Georg Schmidt\nStabsstelle Datenschutz\nFalckstraße 9\n24103 Kiel",
+    "phone": "+49 431 2402336",
+    "fax": "+49 4321 498159",
+    "email": "michaelgeorg.schmidt@altholstein.de",
+    "web": "http://www.jugendwerk-altholstein.de",
+    "sources": [
+        "http://www.jugendwerk-altholstein.de/sonstiges/datenschutz/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/1817"
+    ],
+    "quality": "verified"
+}
