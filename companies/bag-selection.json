@@ -1,0 +1,17 @@
+{
+    "slug": "bag-selection",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Bag Selection",
+    "address": "8044 Zurich",
+    "email": "info.bagselection@gmail.com",
+    "sources": [
+        "https://www.bag-selection.ch/",
+        "https://github.com/datenanfragen/data/pull/1823"
+    ],
+    "quality": "verified"
+}
