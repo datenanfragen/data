@@ -1,0 +1,15 @@
+{
+    "slug": "bag-selection",
+    "relevant-countries": [
+        "se"
+    ],
+    "name": "Bag Selection",
+    "address": "8044 Zurich",
+    "phone": "+41 43 537 51 71",
+    "email": "info.bagselection@gmail.com",
+    "web": "https://www.bag-selection.ch/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1822"
+    ]
+}
