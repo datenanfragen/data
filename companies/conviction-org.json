@@ -1,0 +1,23 @@
+{
+    "slug": "conviction-org",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Conviction",
+    "runs": [
+        "Criminal Justice Hub",
+        "Autism in the CJS"
+    ],
+    "address": "PO Box 428\nMANCHESTER\nM8 2FS\nUnited Kingdom",
+    "phone": "+44 161 528 9071",
+    "email": "data.protection@conviction.org.uk",
+    "web": "https://www.conviction.org.uk",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1825"
+    ]
+}
