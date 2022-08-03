@@ -1,0 +1,24 @@
+{
+    "slug": "fvm",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Fußball-Verband Mittelrhein e.V.",
+    "runs": [
+        "Sportschule Hennef"
+    ],
+    "address": "Sövener Str. 60\n53773 Hennef",
+    "phone": "02242/91875-0",
+    "fax": "02242/91875-55",
+    "email": "fvm@fvm.de",
+    "web": "https://www.fvm.de",
+    "sources": [
+        "https://www.fvm.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1827"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
