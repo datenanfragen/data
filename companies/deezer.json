@@ -27,6 +27,9 @@
             "type": "email"
         }
     ],
-    "comments": [],
+    "needs-id-document": false,
+    "comments": [
+        "Web form for requests: https://support.deezer.com/hc/requests/new?ticket_form_id=360000057869"
+    ],
     "quality": "verified"
 }
