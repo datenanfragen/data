@@ -1,5 +1,5 @@
 {
-    "slug": "radio",
+    "slug": "radio-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,9 +7,9 @@
         "entertainment"
     ],
     "name": "radio.de GmbH",
-    "address": "Mühlenkamp 59\n22303 Hamburg\nDeutschland",
+    "address": "c/o MADSACK Mediengruppe\nAugust-Madsack-Straße 1\n30559 Hannover\nDeutschland",
     "phone": "+49 40 570065150",
-    "email": "datenschutz@radio.de",
+    "email": "datenschutz@madsack.de",
     "web": "https://www.radio.de",
     "sources": [
         "https://www.radio.de/privacy-policy",
