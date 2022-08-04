@@ -6,16 +6,16 @@
     "categories": [
         "telecommunication"
     ],
-    "name": "Ventla",
+    "name": "MeetApp International AB",
     "runs": [
-        "MeetApp"
+        "Ventla"
     ],
-    "address": "Kungsgatan 60, 111 22 Stockholm, Sweden",
+    "address": "Kungsgatan 60\n111 22 Stockholm\nSweden",
     "phone": "+46 8 83 18 44",
     "email": "dataprivacy@ventla.io",
     "web": "https://www.ventla.io/",
     "sources": [
-        "https://www.ventla.io/?hsLang=en",
+        "https://www.ventla.io/blog/rebrand-meetapp-is-now-ventla",
         "https://www.ventla.io/legal/privacy-policy",
         "https://github.com/datenanfragen/data/pull/1752"
     ],
