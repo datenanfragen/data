@@ -1,0 +1,19 @@
+{
+    "slug": "itplay",
+    "relevant-countries": [
+        "ro"
+    ],
+    "categories": [
+        "ads",
+        "social media"
+    ],
+    "name": "Itplay Ro",
+    "address": "Bucharest, Romania",
+    "email": "itplay@itplay.ro",
+    "web": "https://itplay.ro/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1831"
+    ]
+}
