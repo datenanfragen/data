@@ -1,0 +1,21 @@
+{
+    "slug": "tum",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        "public body"
+    ],
+    "name": "Technische Universität München",
+    "address": "Der/Die Datenschutzbeauftragte der Technischen Universität München\nArcisstr. 21\n80333 München",
+    "phone": "+49 89 28917052",
+    "email": "beauftragter@datenschutz.tum.de",
+    "web": "https://www.tum.de/",
+    "sources": [
+        "https://www.tum.de/spezialseiten/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1832"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
