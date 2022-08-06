@@ -1,0 +1,22 @@
+{
+    "slug": "elitenetzwerk-bayern",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        "public body"
+    ],
+    "name": "Elitenetzwerk Bayern",
+    "address": "Herr Ministerialrat Ralph Berg\nBayerisches Staatsministerium für Wissenschaft und Kunst\nSalvatorstraße 2\n80333 München",
+    "phone": "+49 89 21862393",
+    "email": "Ralph.Berg@stmwk.bayern.de",
+    "sources": [
+        "https://www.elitenetzwerk.bayern.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1833"
+    ],
+    "comments": [
+        "Es scheint keine nicht-personenbezogenen Kontaktdaten zu geben."
+    ],
+    "quality": "verified"
+}
