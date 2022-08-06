@@ -1,0 +1,23 @@
+{
+    "slug": "lmu",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        "public body"
+    ],
+    "name": "Ludwig-Maximilians-Universität München",
+    "address": "Ludwig-Maximilians-Universität München\n- Behördlicher Datenschutzbeauftragter -\nGeschwister-Scholl-Platz 1\nD-80539 München",
+    "phone": "+49 89 21802414",
+    "fax": "+49 89 21802985",
+    "web": "https://www.lmu.de/",
+    "sources": [
+        "https://www.lmu.de/de/die-lmu/struktur/organisation/beauftragte/datenschutzbeauftragte/index.html",
+        "https://github.com/datenanfragen/data/pull/1834"
+    ],
+    "comments": [
+        "Es git ein Formular zur Kontaktaufnahme: https://www.lmu.de/de/footer/datenschutz/kontakt-zum-behoerdlichen-datenschutzbeauftragten.html\nEine E-Mail-Adresse konnte ich nicht finden."
+    ],
+    "quality": "verified"
+}
