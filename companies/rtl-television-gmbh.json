@@ -1,0 +1,23 @@
+{
+    "slug": "rtl-television-gmbh",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "RTL Television GmbH",
+    "runs": [
+        "tvnow.de"
+    ],
+    "address": "Picassoplatz 1\n50679 Köln",
+    "phone": "+49 221 45662999",
+    "fax": "+49 221 45662993",
+    "sources": [
+        "tvnow.de/impressum",
+        "https://github.com/datenanfragen/data/pull/1840"
+    ],
+    "quality": "verified"
+}
