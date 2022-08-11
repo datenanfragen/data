@@ -7,11 +7,10 @@
     "address": "Krokusweg 9a\n48165 Münster\nDeutschland",
     "fax": "+49 251 14981189",
     "email": "info@zap-hosting.com",
-    "web": "https://.zap-hosting.com",
+    "web": "https://zap-hosting.com",
     "sources": [
-        "zap-hosting.com",
+        "https://zap-hosting.com/de/impressum/",
         "https://github.com/datenanfragen/data/pull/1845"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
