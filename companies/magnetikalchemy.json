@@ -1,0 +1,25 @@
+{
+    "slug": "magnetikalchemy",
+    "relevant-countries": [
+        "pt",
+        "es"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Magnetik Alchemy",
+    "address": "Av. do Forte 8, 2790-072 Carnaxide\nPortugal",
+    "web": "https://magnetikalchemy.com",
+    "sources": [
+        "https://magnetikalchemy.com",
+        "https://github.com/datenanfragen/data/pull/1846"
+    ],
+    "required-elements": [
+        {
+            "desc": "https://magnetikalchemy.com",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
