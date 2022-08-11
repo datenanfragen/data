@@ -1,0 +1,20 @@
+{
+    "slug": "conviction-org",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Conviction",
+    "address": "PO Box 428\nManchester\nM8 2FS\nUnited Kingdom",
+    "phone": "+44 161 528 9071",
+    "email": "data.protection@conviction.org.uk",
+    "web": "https://www.conviction.org.uk",
+    "sources": [
+        "https://www.conviction.org.uk/privacy-notice/",
+        "https://github.com/datenanfragen/data/pull/1825"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
