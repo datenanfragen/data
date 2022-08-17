@@ -1,0 +1,25 @@
+{
+    "slug": "de-creative",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Creative Technology Ltd",
+    "runs": [
+        "Creative Labs Europe"
+    ],
+    "address": "Datenschutz (Rechtsabteilung)\nCreative Technology Ltd\n31 International Business Park\n#03-01\nSingapore 609921",
+    "web": "https://de.creative.com/",
+    "sources": [
+        "https://sg.creative.com/corporate/about",
+        "https://de.creative.com/home/gdpr",
+        "https://github.com/datenanfragen/data/pull/1848"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "EMail per: https://de.creative.com/contactus/"
+    ],
+    "quality": "verified"
+}
