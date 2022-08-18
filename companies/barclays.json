@@ -8,17 +8,19 @@
     ],
     "name": "Barclays PLC",
     "runs": [
-        "Barclays Bank UK PLC"
+        "Barclays Bank UK PLC",
+        "Barclays Bank PLC"
     ],
     "address": "Leicester\nLE87 2BB\nUnited Kingdom",
-    "phone": "+44 800 282 390",
-    "web": "https://www.barclays.co.uk/",
+    "phone": "+44 800 282390",
     "email": "DPO@Barclays.com",
+    "web": "https://www.barclays.co.uk/",
     "sources": [
         "https://www.barclays.co.uk/important-information/control-your-data/",
         "https://www.barclays.co.uk/content/dam/documents/wealth-management/site-hygiene/full-privacy-notice/full-privacy-notice.pdf",
         "https://www.barclays.co.uk/important-information/privacy-policy/",
-        "https://www.barclays.co.uk/complaints/"
+        "https://www.barclays.co.uk/complaints/",
+        "https://github.com/datenanfragen/data/pull/1850"
     ],
     "suggested-transport-medium": "email",
     "comments": [
