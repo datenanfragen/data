@@ -11,7 +11,6 @@
         "WhatsApp Inc."
     ],
     "address": "4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
-    "email": "dpo-inquiries@support.whatsapp.com",
     "web": "https://www.whatsapp.com/",
     "sources": [
         "https://www.whatsapp.com/legal/#privacy-policy"
@@ -27,6 +26,6 @@
             "type": "input"
         }
     ],
-    "suggested-transport-medium": "email",
+    "comments": ["Web form for requests: https://www.whatsapp.com/contact/forms/382532939919295/"],
     "quality": "verified"
 }
