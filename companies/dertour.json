@@ -1,0 +1,19 @@
+{
+    "slug": "dertour",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "DER Touristik Deutschland GmbH",
+    "address": "Humboldtstraße 140\n51149 Köln",
+    "email": "datenschutz@dertouristik.com",
+    "web": "https://www.dertour.de/ibecontent/datenschutz",
+    "sources": [
+        "Unternehmenswebseite, Unterseite Datenschutz",
+        "https://github.com/datenanfragen/data/pull/1854"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
