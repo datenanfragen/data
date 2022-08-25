@@ -1,0 +1,17 @@
+{
+    "slug": "homeserve",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "HomeServe",
+    "address": "HomeServe Membership Ltd\nCable Drive\nWalsall\nWS2 7BN",
+    "web": "https://www.homeserve.com/uk/about/privacy-policy",
+    "suggested-transport-medium": "letter",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1855"
+    ]
+}
