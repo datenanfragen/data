@@ -1,0 +1,14 @@
+{
+    "slug": "test-ignore-me",
+    "name": "test ignore me",
+    "email": "dfgdfg@dfgdf.de",
+    "sources": [
+        "http://localhost:1314/app/",
+        "http://localhost:1313/app/",
+        "https://github.com/datenanfragen/data/pull/1856"
+    ],
+    "quality": "verified",
+    "relevant-countries": [
+        "all"
+    ]
+}
