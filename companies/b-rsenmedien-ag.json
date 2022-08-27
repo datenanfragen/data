@@ -1,0 +1,19 @@
+{
+    "slug": "b-rsenmedien-ag",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Börsenmedien AG",
+    "runs": [
+        "BÖRSE ONLINE"
+    ],
+    "address": "Am Eulenhof 14\n95326 Kulmbach",
+    "phone": "+49 9221 9051110",
+    "fax": "+49 9221 90514000",
+    "email": "kundenservice@boersenmedien.de",
+    "sources": [
+        "https://www.boersenmedien.de",
+        "https://github.com/datenanfragen/data/pull/1860"
+    ],
+    "quality": "verified"
+}
