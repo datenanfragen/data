@@ -1,0 +1,18 @@
+{
+    "slug": "fragrantica",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [],
+    "name": "Fragrantica Inc.",
+    "address": "Zoran Knezevic\n3830 Valley Centre Dr Ste 705\nSan Diego, CA 92130\nUnited States",
+    "phone": "+1 973 873 8766",
+    "email": "gdpr@fragrantica.com",
+    "web": "https://www.fragrantica.com",
+    "sources": [
+        "https://www.fragrantica.com/privacy-policy.phtml",
+        "https://github.com/datenanfragen/data/pull/1862"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
