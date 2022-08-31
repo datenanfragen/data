@@ -14,23 +14,22 @@
         "Ada Health, Inc."
     ],
     "address": "Adalbertstraße 20\n10997 Berlin\nDeutschland",
-    "phone": "+49 030 600 31987",
-    "email": "legal@ada.com",
+    "phone": "+49 30 60031987",
+    "email": "dpo@ada.com",
     "web": "https://ada.com",
     "sources": [
         "https://ada.com/privacy-policy/",
-        "https://ada.com/imprint/"
+        "https://ada.com/imprint/",
+        "https://github.com/datenanfragen/data/pull/1866"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "E-Mail",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "email",
