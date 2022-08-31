@@ -1,0 +1,19 @@
+{
+    "slug": "pradeo",
+    "relevant-countries": [
+        "fr",
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "address": "121, Rue de La Pompe\n75116 PARIS",
+    "phone": "+33 4 67 20 99 11",
+    "web": "https://pradeo.com/",
+    "sources": [
+        "https://pradeo.com/de-DE/kontakt",
+        "https://github.com/datenanfragen/data/pull/1863"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
