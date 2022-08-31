@@ -1,0 +1,17 @@
+{
+    "slug": "greenheads-onlineperformance",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Green Heads Online-Performance GmbH",
+    "address": "Green Heads Online-Performance GmbH, Dülkenstraße 9, 51143 Köln",
+    "web": "https://greenheads-onlineperformance.de/",
+    "sources": [
+        "https://greenheads-onlineperformance.de/",
+        "https://github.com/datenanfragen/data/pull/1864"
+    ],
+    "quality": "verified"
+}
