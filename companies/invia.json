@@ -1,5 +1,8 @@
 {
     "slug": "invia",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "travel",
         "finance",
@@ -22,8 +25,8 @@
         "billigflug.de (www.billigflug.de)"
     ],
     "address": "Dittrichring 18 – 20\n04109 Leipzig\nDeutschland",
-    "phone": "+49 341 35575 85530",
-    "fax": "+49 341 65050 82054",
+    "phone": "+49 341 3557585530",
+    "fax": "+49 341 6505082054",
     "email": "service@fluege.de",
     "web": "https://www.fluege.de/",
     "sources": [
@@ -46,10 +49,8 @@
         "http://www.travelchannel.de/service/datenschutz.html",
         "http://www.travelchannel.de/service/impressum.html",
         "http://www.billigflug.de/service/privacy",
-        "http://www.billigflug.de/service/imprint"
-    ],
-    "relevant-countries": [
-        "de"
+        "http://www.billigflug.de/service/imprint",
+        "https://github.com/datenanfragen/data/pull/1865"
     ],
     "quality": "verified"
 }
