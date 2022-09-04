@@ -4,10 +4,10 @@
         "all"
     ],
     "categories": [
-        "entertainment"
+        "commerce"
     ],
-    "name": "Razer",
-    "address": "Razer (Europe) GmbH\nEssener Bogen 23\n22419 Hamburg, Germany",
+    "name": "Razer (Europe) GmbH",
+    "address": "Essener Bogen 23\n22419 Hamburg\nGermany",
     "email": "dpo@razer.com",
     "web": "https://www.razer.com",
     "sources": [
