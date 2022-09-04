@@ -8,13 +8,13 @@
     ],
     "name": "LinkedIn Ireland Unlimited Company",
     "runs": [
-        "LinkedIn Learning (formerly Lynda.com)",
+        "LinkedIn Learning (formerly Lynda.com)"
     ],
     "address": "Wilton Plaza\nWilton Place, Dublin 2\nIreland",
-    "web": "https://www.linkedin.com/",
+    "web": "https://www.linkedin.com",
     "sources": [
-        "https://www.linkedin.com/help/linkedin/answer/79728",
         "https://www.linkedin.com/legal/privacy-policy",
+        "https://www.linkedin.com/help/linkedin/answer/79728",
         "https://github.com/datenanfragen/data/pull/1779"
     ],
     "comments": [
