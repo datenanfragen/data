@@ -1,0 +1,29 @@
+{
+    "slug": "venntel",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Venntel Inc.",
+    "runs": [
+        "https://www.venntel.com/"
+    ],
+    "address": "2201 Cooperative Way, Suite 600\nHerndon, VA 20171",
+    "email": "privacy@venntel.com",
+    "web": "https://www.venntel.com/",
+    "sources": [
+        "https://www.venntel.com/privacy-notice-eea",
+        "https://github.com/datenanfragen/data/pull/1871"
+    ],
+    "required-elements": [
+        {
+            "desc": "mobile advertising identifier",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
