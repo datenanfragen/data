@@ -1,0 +1,20 @@
+{
+    "slug": "usedcartonbox",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "usedcartonbox.com",
+    "address": "1002 Toa Payoh Industrial Park, #01-1471, Singapore 319074",
+    "phone": "66531555",
+    "email": "usedcartonbox@gmail.com",
+    "web": "https://usedcartonbox.com",
+    "sources": [
+        "https://www.cartonbox.sg/",
+        "https://github.com/datenanfragen/data/pull/1873"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
