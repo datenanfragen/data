@@ -1,0 +1,21 @@
+{
+    "slug": "binance",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Binance Holdings Ltd.",
+    "runs": [],
+    "address": "23 Lime Tree Bay Ave , George Town, Cayman Islands",
+    "email": "dpo@binance.com",
+    "web": "https://www.binance.com/",
+    "sources": [
+        "https://www.binance.com/en/privacy",
+        "https://craft.co/binance/locations",
+        "https://github.com/datenanfragen/data/pull/1874"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
