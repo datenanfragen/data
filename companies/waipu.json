@@ -1,0 +1,33 @@
+{
+    "slug": "waipu",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Waipu.tv EXARING AG",
+    "address": "EXARING AG\nLeopoldstraße 236\n80807 München",
+    "phone": "+49 89 215462470",
+    "fax": "+49 89 215462444",
+    "email": "datenschutz@exaring.de",
+    "web": "https://www.waipu.tv/",
+    "sources": [
+        "https://www.waipu.tv/impressum",
+        "https://github.com/datenanfragen/data/pull/1878"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
