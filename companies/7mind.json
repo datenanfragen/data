@@ -1,0 +1,17 @@
+{
+    "slug": "7mind",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "7Mind GmbH",
+    "address": "Neue Schönhauser Str. 19, 10178 Berlin, Deutschland",
+    "web": "https://www.7mind.de",
+    "sources": [
+        "7mind.de",
+        "https://github.com/datenanfragen/data/pull/1877"
+    ],
+    "quality": "verified"
+}
