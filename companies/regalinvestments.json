@@ -1,0 +1,21 @@
+{
+    "slug": "regalinvestments",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "Regal Investments",
+    "runs": [
+        "Regal Holdings",
+        "Royal Funds AC"
+    ],
+    "address": "Level 28\nThe Shard\nLondon SE1 9SG\nUnited Kingdom",
+    "phone": "+1 646 989 2572",
+    "email": "operations@regalinvestments.ltd",
+    "web": "https://regalinvestments.ltd",
+    "sources": [
+        "https://find-and-update.company-information.service.gov.uk/company/12535633",
+        "https://regalinvestments.ltd/#contact",
+        "https://github.com/datenanfragen/data/pull/1879"
+    ],
+    "quality": "verified"
+}
