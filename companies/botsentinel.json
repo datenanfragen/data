@@ -1,0 +1,20 @@
+{
+    "slug": "botsentinel",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Bot Sentinel Inc",
+    "address": "Headquarters: PO Box 156, Hasbrouck Heights, New Jersey, 07604, United States ;",
+    "web": "https://botsentinel.com/",
+    "suggested-transport-medium": "letter",
+    "comments": [
+        "No contact email provided… only a form."
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1880"
+    ]
+}
