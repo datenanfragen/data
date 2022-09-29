@@ -1,0 +1,26 @@
+{
+    "slug": "slotozilla",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Slotozilla",
+    "address": "Brückenstraße 3-7, 60594 Frankfurt am Main, Germany",
+    "phone": "(1 267) 800 0083",
+    "web": "https://www.slotozilla.com/de",
+    "sources": [
+        "website",
+        "https://github.com/datenanfragen/data/pull/1885"
+    ],
+    "required-elements": [
+        {
+            "desc": "slots online",
+            "type": "email",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
