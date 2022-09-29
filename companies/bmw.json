@@ -1,0 +1,11 @@
+{
+    "slug": "bmw",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "bmw",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1884"
+    ]
+}
