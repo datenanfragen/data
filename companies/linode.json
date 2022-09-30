@@ -1,0 +1,15 @@
+{
+    "slug": "linode",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Linode, LLC",
+    "phone": "855-454-6633",
+    "email": "service@linode.com",
+    "web": "https://www.linode.com/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1887"
+    ]
+}
