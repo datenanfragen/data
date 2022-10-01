@@ -1,0 +1,18 @@
+{
+    "slug": "pronovabkk",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "pronova BKK",
+    "address": "pronova BKK\nDatenschutz\nHorst-Henning-Platz 1\n51373 Leverkusen",
+    "email": "datenschutz@pronovabkk.de",
+    "web": "https://www.pronovabkk.de/unternehmen/datenschutz.html",
+    "sources": [
+        "https://www.pronovabkk.de/unternehmen/datenschutz.html#anker-1",
+        "https://github.com/datenanfragen/data/pull/1890"
+    ],
+    "quality": "verified"
+}
