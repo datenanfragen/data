@@ -1,0 +1,19 @@
+{
+    "slug": "datenschutzbuero",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Galaxus Deutschland GmbH",
+    "address": "datenschutzbuero.hamburg\nMag. Jur. Djoko Lukic\nSuhrenkamp 59\n22335 Hamburg",
+    "email": "galaxus@datenschutzbuero.hamburg",
+    "web": "https://datenschutzbuero.hamburg/",
+    "sources": [
+        "https://www.galaxus.de/de/wiki/5567",
+        "https://github.com/datenanfragen/data/pull/1889"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
