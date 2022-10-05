@@ -1,5 +1,8 @@
 {
     "slug": "gfkl-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "collection agency"
     ],
@@ -8,15 +11,13 @@
         "GFKL-Inkasso"
     ],
     "address": "Am Europa-Center 1b\n45145 Essen\nDeutschland",
-    "phone": "+49 201 102 0",
-    "fax": "+49 201 102 1199",
-    "email": "webmaster@lowellgroup.de",
-    "web": "https://www.gfkl.com",
+    "phone": "+49 201 1020",
+    "fax": "+49 201 1021199",
+    "email": "datenschutz@lowellgroup.de",
+    "web": "https://www.lowellgroup.de",
     "sources": [
-        "https://www.gfkl.com/datenschutz/"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.lowellgroup.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1891"
     ],
     "quality": "verified"
 }
