@@ -32,6 +32,18 @@
         "https://www.springernature.com/gp/macmillaneducation/legal/privacy-statement/17964152",
         "https://www.scientificamerican.com/page/privacy-policy/"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
