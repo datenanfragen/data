@@ -3,15 +3,14 @@
     "relevant-countries": [
         "gb"
     ],
-    "name": "Mach recruitment",
-    "address": "5 Carlton Court,\nLeeds,\nWest Yorkshire,\nLS12 6LT",
-    "phone": "0113 2452441",
+    "name": "Mach Recruitment Limited",
+    "address": "5 Carlton Court\nLeeds\nWest Yorkshire\nLS12 6LT\nUnited Kingdom",
+    "phone": "+44 113 245 2441",
     "email": "info@mach.co.uk",
     "web": "https://www.mach.co.uk/",
     "sources": [
-        "https://www.mach.co.uk/",
+        "https://www.mach.co.uk/wp-content/uploads/2021/11/Mach-Recruitment-External-Privacy-Notice-V1.0-1.pdf",
         "https://github.com/datenanfragen/data/pull/1888"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
