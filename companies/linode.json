@@ -1,0 +1,20 @@
+{
+    "slug": "linode",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Linode, LLC",
+    "address": "249 Arch St\nPhiladelphia, PA 19106\nUnited States of America",
+    "phone": "+1 855 454 6633",
+    "email": "privacy@linode.com",
+    "web": "https://www.linode.com/",
+    "sources": [
+        "https://www.linode.com/legal-privacy/",
+        "https://github.com/datenanfragen/data/pull/1887"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
