@@ -34,13 +34,13 @@
     ],
     "required-elements": [
         {
-            "desc": "E-mail used for the service",
-            "type": "email",
+            "desc": "Name",
+            "type": "name",
             "optional": false
         },
         {
-            "desc": "Name used for the service",
-            "type": "name",
+            "desc": "Email",
+            "type": "email",
             "optional": false
         }
     ],
