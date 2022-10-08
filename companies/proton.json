@@ -1,0 +1,25 @@
+{
+    "slug": "proton",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Proton AG",
+    "runs": [
+        "Proton Mail",
+        "Proton Calendar",
+        "Proton Drive",
+        "Proton VPN"
+    ],
+    "address": "Route de la Galaise 32\n1228 Plan-les-Ouates\nGeneva\nSwitzerland",
+    "web": "https://proton.me",
+    "sources": [
+        "https://proton.me/legal/privacy"
+    ],
+    "comments": [
+        "As of May 2022, they no longer publish an email, but rather direct people to their web form at https://proton.me/support/contact"
+    ],
+    "quality": "verified"
+}
