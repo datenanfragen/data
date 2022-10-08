@@ -44,7 +44,6 @@
             "optional": false
         }
     ],
-    "request-language": "en",
     "suggested-transport-medium": "email",
     "quality": "tested"
 }
