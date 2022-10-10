@@ -1,0 +1,19 @@
+{
+    "slug": "phoenix-payments-bv",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Phoenix Payments BV",
+    "runs": [
+        "https://anycoindirect.eu/"
+    ],
+    "address": "Marshallweg 5\n5466AH Veghel\nNederland",
+    "email": "privacy@anycoindirect.eu",
+    "sources": [
+        "https://anycoindirect.eu/de",
+        "https://anycoindirect.eu/de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1893"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
