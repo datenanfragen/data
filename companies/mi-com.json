@@ -1,7 +1,7 @@
 {
     "slug": "mi-com",
     "relevant-countries": [
-        "all"
+        "de"
     ],
     "name": "Xiaomi Communications Co., Ltd.",
     "runs": [
@@ -13,7 +13,8 @@
     "web": "https://www.mi.com",
     "sources": [
         "https://privacy.mi.com/all/de_DE/",
-        "https://www.wework.com/buildings/strawinskylaan-4117--amsterdam"
+        "https://www.wework.com/buildings/strawinskylaan-4117--amsterdam",
+        "https://github.com/datenanfragen/data/pull/1898"
     ],
     "required-elements": [
         {
