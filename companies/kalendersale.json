@@ -1,0 +1,27 @@
+{
+    "slug": "kalendersale",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "KalenderSale.de",
+    "address": "PAPIERaffin eCommerce GmbH\nFischertwiete 2, Chilehaus A\n20095 Hamburg\nDeutschland",
+    "phone": "+49 40 228682610",
+    "email": "service@kalendersale.de",
+    "web": "https://kalendersale.de/",
+    "sources": [
+        "https://kalendersale.de/",
+        "https://github.com/datenanfragen/data/pull/1897"
+    ],
+    "required-elements": [
+        {
+            "desc": "Zum Einkauf genutzte Email.",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
