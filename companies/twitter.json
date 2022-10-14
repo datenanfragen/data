@@ -1,10 +1,10 @@
 {
     "slug": "twitter",
     "relevant-countries": [
-        "all"
+        "at"
     ],
     "categories": [
-        "social media"
+        "finance"
     ],
     "name": "Twitter International Company",
     "runs": [
@@ -21,7 +21,8 @@
         "https://twitter.com/en/privacy",
         "https://legal.twitter.com/imprint",
         "https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO",
-        "https://www.mopub.com/en/legal/privacy"
+        "https://www.mopub.com/en/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/1901"
     ],
     "suggested-transport-medium": "email",
     "comments": [
