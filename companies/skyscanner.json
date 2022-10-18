@@ -1,19 +1,17 @@
 {
     "slug": "skyscanner",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "travel"
     ],
     "name": "Skyscanner Ltd",
     "address": "Quartermile One\n15 Lauriston Place\nEdinburgh\nEH3 9EN\nUnited Kingdom",
-    "phone": "+44 131 252 5353",
-    "fax": "+44 131 252 5354",
-    "web": "https://www.skyscanner.de/",
+    "web": "https://www.help.skyscanner.net/hc/en-gb",
     "sources": [
         "https://www.skyscanner.de/privacypolicy.aspx",
-        "https://www.skyscanner.de/companydetails.aspx"
-    ],
-    "relevant-countries": [
-        "all"
+        "https://github.com/datenanfragen/data/pull/1903"
     ],
     "request-language": "en",
     "quality": "verified"
