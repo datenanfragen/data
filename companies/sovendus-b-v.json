@@ -1,0 +1,28 @@
+{
+    "slug": "sovendus-b-v",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Sovendus B.V.",
+    "address": "P.J. Oudweg 5\n1314 CH Almere\nNederland",
+    "email": "info@sovendus.nl",
+    "sources": [
+        "https://online.sovendus.com/nl/impressum/",
+        "https://github.com/datenanfragen/data/pull/1906"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
