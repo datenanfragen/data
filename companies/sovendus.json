@@ -1,20 +1,31 @@
 {
     "slug": "sovendus",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads"
     ],
     "name": "Sovendus GmbH",
-    "address": "Moltkestraße 11\n76133 Karlsruhe\nDeutschland",
-    "phone": "+49 721 957 846 0",
-    "fax": "+49 721 957 846 129",
+    "address": "Hermann-Veit-Straße 6\n76135 Karlsruhe\nDeutschland",
+    "phone": "+49 721 9578460",
+    "fax": "+49 721 957846129",
     "email": "datenschutz@sovendus.de",
     "web": "https://www.sovendus.de",
     "sources": [
         "https://www.sovendus.de/de/datenschutz/",
-        "https://www.sovendus.de/de/impressum/"
+        "https://www.sovendus.de/de/impressum/",
+        "https://github.com/datenanfragen/data/pull/1905"
     ],
-    "relevant-countries": [
-        "de"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
