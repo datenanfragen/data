@@ -1,0 +1,25 @@
+{
+    "slug": "kdo",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "KDO Service GmbH",
+    "runs": [
+        "Zweckverband Kommunale Datenverarbeitung Oldenburg (KDO) (Körperschaft des öffentlichen Rechts)"
+    ],
+    "address": "Elsässer Str. 66\n26121 Oldenburg\nDeutschland",
+    "phone": "+49 441 97140",
+    "fax": "+49 441 9714148",
+    "email": "datenschutzbeauftragter@kdo.de",
+    "web": "https://www.kdo.de/",
+    "sources": [
+        "https://www.kdo.de/datenschutz",
+        "https://www.kdo.de/impressum",
+        "https://github.com/datenanfragen/data/pull/1904"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Beauftragt durch Robert Koch-Institut (RKI) zur Verarbeitung von Daten aus der CovPass App (s. Datenschutz-Informationen in der App)."
+    ],
+    "quality": "verified"
+}
