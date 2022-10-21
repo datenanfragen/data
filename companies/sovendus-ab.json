@@ -1,0 +1,28 @@
+{
+    "slug": "sovendus-ab",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Sovendus AB",
+    "address": "Kungsgatan 37\n111 56 Stockholm\nSweden",
+    "email": "info@sovendus.com",
+    "sources": [
+        "https://online.sovendus.com/se/bolagsinformation/",
+        "https://github.com/datenanfragen/data/pull/1908"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
