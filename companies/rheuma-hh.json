@@ -1,0 +1,23 @@
+{
+    "slug": "rheuma-hh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "MVZ Rheumatologie und Autoimmunmedizin Hamburg GmbH",
+    "address": "Mönckebergstraße 27\n20095 Hamburg-Altstadt\nDeutschland",
+    "phone": "040 333 196 10",
+    "fax": "040 333 196 11",
+    "email": "info.moenckeberg@rheuma-hh.de",
+    "web": "https://www.rheuma-hh.de",
+    "sources": [
+        "https://www.rheuma-hh.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1909"
+    ],
+    "comments": [
+        "MVZ hat in Hamburg (Ottensen) Corona-Tests durchgeführt, die z.T. nur mit Karte zu bezahlen waren.\nWenn ich es richtig verstanden habe, nutzt MVZ docolib bzw. ist dort gelistet:\nhttps://www.doctolib.de/medizinisches-versorgungszentrum-mvz/hamburg/mvz-rheuma-moenckebergstrasse/booking/new-patient?profile_skipped=true&specialityId=1301"
+    ],
+    "quality": "verified"
+}
