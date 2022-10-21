@@ -1,0 +1,17 @@
+{
+    "slug": "nodeeps",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Nodeeps - corporate hosting & service",
+    "address": "Weißdornweg 3\n77955 Ettenheim\nDeutschland",
+    "phone": "07822/7671632",
+    "fax": "07822/7671598",
+    "email": "info@nodeeps.de",
+    "web": "https://www.nodeeps.de/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1913"
+    ]
+}
