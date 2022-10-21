@@ -1,0 +1,18 @@
+{
+    "slug": "dortex",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Dortex Werbung und Vertrieb mbH",
+    "address": "Dortex Werbung und Vertrieb mbH\nAm Schlosspark 66\n44357 Dortmund\nDeutschland",
+    "phone": "+49 231 9371000",
+    "email": "post@dortex.de",
+    "web": "https://www.dortex.de/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1912"
+    ]
+}
