@@ -1,0 +1,28 @@
+{
+    "slug": "sovendus-uk-ltd",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Sovendus UK Ltd.",
+    "address": "1st Floor 90 Chancery Lane\nLondon WC2A 1EU\nUnited Kingdom",
+    "email": "info@sovendus.co.uk",
+    "sources": [
+        "https://online.sovendus.com/en/imprint/",
+        "https://github.com/datenanfragen/data/pull/1907"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
