@@ -8,11 +8,13 @@
     ],
     "name": "Skyscanner Ltd",
     "address": "Quartermile One\n15 Lauriston Place\nEdinburgh\nEH3 9EN\nUnited Kingdom",
-    "web": "https://www.help.skyscanner.net/hc/en-gb",
+    "web": "https://www.skyscanner.com/",
     "sources": [
-        "https://www.skyscanner.de/privacypolicy.aspx",
+        "https://www.skyscanner.net/privacypolicy.aspx",
         "https://github.com/datenanfragen/data/pull/1903"
     ],
-    "request-language": "en",
+    "comments": [
+        "You can exercise your rights by getting in touch with via: https://help.skyscanner.net/hc/requests/new"
+    ],
     "quality": "verified"
 }
