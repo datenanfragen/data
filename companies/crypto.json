@@ -6,13 +6,21 @@
     "categories": [
         "finance"
     ],
-    "name": "crypto.com",
-    "address": "Level 7, Spinola Park, Triq Mikiel Ang Borg, St Julians SPK 1000 Malta.",
-    "email": "fhv53340@zcrcd.com",
+    "name": "Foris DAX MT Limited",
+    "runs": [
+        "crypto.com",
+        "Foris MT Limited",
+        "Foris DAX Global Limited",
+        "ForisGFS UK Limited",
+        "MCO Malta DAX Limited (formerly)"
+    ],
+    "address": "Level 7, Spinola Park\nTriq Mikiel Ang Borg\nSt Julians SPK 1000\nMalta",
+    "email": "dpo@crypto.com",
     "web": "https://crypto.com",
-    "suggested-transport-medium": "email",
-    "quality": "verified",
     "sources": [
+        "https://crypto.com/privacy/global",
         "https://github.com/datenanfragen/data/pull/1784"
-    ]
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
