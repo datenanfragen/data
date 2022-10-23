@@ -7,7 +7,7 @@
         "ads"
     ],
     "name": "Digital Dialog Lab GmbH",
-    "address": "Digital Dialog Lab GmbH\nc/o Mindspace\nRödingsmarkt 9\n20459 Hamburg",
+    "address": "c/o Mindspace\nRödingsmarkt 9\n20459 Hamburg\nDeutschland",
     "email": "datenschutz@digital-dialog-lab.de",
     "web": "https://www.digital-dialog-lab.de",
     "sources": [
@@ -16,6 +16,5 @@
         "https://github.com/datenanfragen/data/pull/1785"
     ],
     "suggested-transport-medium": "email",
-    "comments": [],
     "quality": "verified"
 }
