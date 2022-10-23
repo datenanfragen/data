@@ -5,15 +5,18 @@
     ],
     "categories": [
         "addresses",
-        "collection agency"
+        "telecommunication"
     ],
     "name": "Growbots Inc.",
-    "address": "1015 Fillmore St. PMB 18339\nSan Francisco\nCA 94115\nUnited States",
-    "email": "privacy@gbts-privacy.com",
+    "address": "1015 Fillmore St\nPMB 18339\nSan Francisco, CA 94115\nUnited States of America",
+    "email": "privacy@growbots.com",
     "web": "https://www.growbots.com/",
     "sources": [
         "https://www.growbots.com/privacy/",
         "https://github.com/datenanfragen/data/pull/1761"
+    ],
+    "comments": [
+        "B2B email sharing opt-out request form: \nhttps://www.growbots.com/do-not-sell-my-info/"
     ],
     "quality": "verified"
 }
