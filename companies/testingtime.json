@@ -1,14 +1,14 @@
 {
     "slug": "testingtime",
     "relevant-countries": [
-        "de"
+        "all"
     ],
-    "categories": [
-        "ads"
+    "name": "TestingTime Deutschland GmbH",
+    "runs": [
+        "TestingTime AG"
     ],
-    "name": "Testingtime",
     "address": "Widdersdorfer Str. 246\n50825 Köln\nDeutschland",
-    "phone": "dpo@norstatgroup.com",
+    "email": "dpo@norstatgroup.com",
     "web": "https://www.testingtime.com",
     "sources": [
         "https://www.testingtime.com/en/privacy-policy/",
