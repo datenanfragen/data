@@ -7,23 +7,14 @@
         "ads"
     ],
     "name": "Gravy Analytics Inc.",
-    "runs": [
-        "https://gravyanalytics.com"
-    ],
-    "address": "45610 Woodland Rd., Suite 100\nSterling, VA 20166",
+    "address": "45610 Woodland Rd\nSuite 100\nSterling, VA 20166\nUnited States of America",
     "email": "privacy@gravyanalytics.com",
     "web": "https://gravyanalytics.com",
     "sources": [
         "https://gravyanalytics.com/request-your-information/",
         "https://github.com/datenanfragen/data/pull/1872"
     ],
-    "required-elements": [
-        {
-            "desc": "mobile advertising identifier",
-            "type": "input",
-            "optional": false
-        }
-    ],
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
