@@ -2,7 +2,7 @@
 
 Je viens par la présente, demander la suppression immédiate des données personnelles me concernant conformément à l'Article 17 du RGPD.
 
-[erase_all>Veuillez supprimer toutes les données personnelles me concernant comme définit pat l'Article 4, alinéa 1 du RGPD.][erase_some>Veuillez supprimer les données personnelles suivantes me concernant :
+[erase_all>Veuillez supprimer toutes les données personnelles me concernant comme définit par l'Article 4, alinéa 1 du RGPD.][erase_some>Veuillez supprimer les données personnelles suivantes me concernant :
 {erasure_data}]
 
 Si j'ai consenti au traitement de mes données à caractère personnel, je retire ce consentement par la présente.[include_objection>
