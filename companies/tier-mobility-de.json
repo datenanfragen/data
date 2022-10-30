@@ -6,17 +6,22 @@
     "categories": [
         "travel"
     ],
-    "name": "Tier Mobility AG",
+    "name": "Tier Mobility SE",
     "runs": [
         "Tier Mobility GmbH (ehem.)"
     ],
     "address": "c/o WeWork Eichhornstr. 3\n12099 Berlin\nDeutschland",
+    "phone": "+49 30 56838651",
     "email": "privacy@tier.app",
     "web": "https://www.tier.app",
     "sources": [
         "https://about.tier.app/privacy-notice/",
-        "https://github.com/datenanfragen/data/pull/1570"
+        "https://github.com/datenanfragen/data/pull/1570",
+        "https://www.tier.app/en/impressum"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative E-Mail-Adresse:  dpo@tier.app"
+    ],
     "quality": "verified"
 }
