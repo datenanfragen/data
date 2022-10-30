@@ -7,17 +7,23 @@
         "entertainment"
     ],
     "name": "VMG Verlags- und Medien GmbH & Co.KG",
-    "address": "Hansapark 1\n39116 Magdeburg\nDeutschland",
+    "runs": [
+        "1a-deutsche-hits.de",
+        "saw-musikwelt.de",
+        "rockland.fm",
+        "radiosaw.de"
+    ],
+    "address": "c/o compolicy GmbH\nSchwedenkai 1\n24103 Kiel\nDeutschland",
     "email": "info@compolicy.de",
     "web": "https://www.radiosaw.de",
     "sources": [
         "https://www.radiosaw.de/impressum",
         "https://www.radiosaw.de/content/datenschutzerklaerung",
+        "https://www.1a-deutsche-hits.de/impressum",
+        "https://www.rockland.fm/impressum",
+        "https://www.saw-musikwelt.de/impressum",
         "https://github.com/datenanfragen/data/pull/1753"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Externer Datenschutzbeauftragter:\n\ncompolicy GmbH\nSchwedenkai 1\n24103 Kiel\ninfo@compolicy.de"
-    ],
     "quality": "verified"
 }
