@@ -1,0 +1,35 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Datenanfragen.de company pack",
+    "description": "A bundle of related companies that hold data on many people, to make it easier for users to send requests to them.\nMore information and access to the whole database at: https://github.com/datenanfragen/data",
+    "type": "array",
+    "uniqueItems": true,
+    "items": {
+        "type": "object",
+        "properties": {
+            "slug": {
+                "type": "string",
+                "title": "Slug",
+                "pattern": "^[a-z0-9-]+$",
+                "description": "A unique identifier for the company pack."
+            },
+            "type": {
+                "type": "string",
+                "title": "Type",
+                "description": "Whether all companies in this pack are relevant to the vast majority of users and should be always be added (`add-all`), or the user should be presented with a choice of which companies to add (`choose`).",
+                "enum": ["add-all", "choose"]
+            },
+            "companies": {
+                "type": "array",
+                "title": "Companies",
+                "description": "A list of the slugs of the companies in the pack.",
+                "uniqueItems": true,
+                "items": {
+                    "type": "string"
+                }
+            }
+        },
+        "additionalProperties": false,
+        "required": ["slug", "type", "companies"]
+    }
+}

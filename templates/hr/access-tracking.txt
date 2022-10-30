@@ -11,8 +11,6 @@ U slučaju da ih obrađujete, ovim putem tražim pristup sljedećim podacima suk
 6. ako se osobni podaci ne prikupljaju od subjekta podataka, sve dostupne podatke o njihovom izvoru;
 7. postojanje automatiziranog odlučivanja, uključujući izradu profila na osnovi članka 22. stavka 1. i 4. GDPR-a, te barem u tim slučajevima, razumljive informacije o uključenoj logici, kao i značaju i predviđenim posljedicama takve obrade za mene.
 
-U slučaju da obrađujete anonimne podatke koji se tiču mene, molim vas da me na lako razumljiv način o tome obavijestite i da mi objasnite postupak.
-
 Ako moje osobne podatke prenosite u treću zemlju ili međunarodnu organizaciju, zahtijevam da me obavijestite o odgovarajućim zaštitnim mjerama u skladu s člankom 46. GDPR-a u vezi s prijenosom.
 [data_portability>
 Molim vas da mi omogućite pristup osobnim podacima u strukturiranom, uobičajenom i strojno čitljivom formatu, kako je utvrđeno u članku 20. stavka 1. GDPR-a.

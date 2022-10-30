@@ -1,0 +1,55 @@
+[
+    {
+        "slug": "social-media",
+        "type": "choose",
+        "companies": [
+            "discord",
+            "facebook",
+            "google",
+            "instagram",
+            "linkedin",
+            "microsoft",
+            "pinterest",
+            "reddit",
+            "snapchat",
+            "telegram",
+            "tiktok",
+            "twitter",
+            "whatsapp",
+            "zoom"
+        ]
+    },
+    {
+        "slug": "entertainment",
+        "type": "choose",
+        "companies": [
+            "apple",
+            "deezer",
+            "disney",
+            "google",
+            "netflix",
+            "soundcloud",
+            "spotify",
+            "twitch"
+        ]
+    },
+    {
+        "slug": "finance",
+        "type": "choose",
+        "companies": [
+            "mastercard-eu",
+            "patreon",
+            "visa-eu"
+        ]
+    },
+    {
+        "slug": "telecommunication",
+        "type": "choose",
+        "companies": [
+            "google",
+            "microsoft",
+            "verizon-media",
+            "yandex"
+        ]
+    }
+]

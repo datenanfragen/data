@@ -12,6 +12,10 @@
         {
             "fileMatch": ["/supervisory-authorities/*.json"],
             "url": "./schema-supervisory-authorities.json"
+        },
+        {
+            "fileMatch": ["/company-packs/*.json"],
+            "url": "./schema-company-packs.json"
         }
     ]
 }

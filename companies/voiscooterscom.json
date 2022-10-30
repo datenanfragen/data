@@ -21,11 +21,12 @@
     "name": "Voi Technology AB",
     "runs": [
         "Voi Technology Germany GmbH",
-        "Voi Technology SASU"
+        "Voi Technology SASU",
+        "VOI Technology SL"
     ],
-    "address": "c/o Box 3147\n103 62 Stockholm\nSweden",
+    "address": "Sveavägen 25\n111 34 Stockholm\nSweden",
     "phone": "+46 21 665 59 22",
-    "email": "info@voiapp.io",
+    "email": "dpo@voi.com",
     "web": "https://www.voiscooters.com",
     "sources": [
         "https://www.voiscooters.com/de/voi-privacy-policy/",
@@ -50,8 +51,6 @@
             "type": "address"
         }
     ],
-    "comments": [
-        "You can get the DPO's email from https://www.voiscooters.com/de/impressum/voi-privacy-policy/"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
