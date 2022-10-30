@@ -24,6 +24,16 @@
         "https://www.saw-musikwelt.de/impressum",
         "https://github.com/datenanfragen/data/pull/1753"
     ],
+    "required-elements": [
+        {
+            "desc": "E-Mail-Adresse",
+            "type": "email"
+        },
+        {
+            "desc": "Name",
+            "type": "name"
+        }
+    ],
     "suggested-transport-medium": "email",
     "quality": "tested"
 }
