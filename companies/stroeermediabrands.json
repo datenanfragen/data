@@ -10,7 +10,9 @@
         "kino.de",
         "familie.de",
         "spieletipps.de",
-        "mytest.de"
+        "mytest.de",
+        "spielaffe.de",
+        "kraloyun.com"
     ],
     "address": "Torstraße 49\n10119 Berlin\nDeutschland",
     "email": "smb-datenschutzbeauftragter@stroeer.de",
@@ -19,7 +21,8 @@
         "https://www.stroeermediabrands.de/impressum",
         "https://www.stroeermediabrands.de/datenschutz",
         "https://www.stroeermediabrands.de/marken/",
-        "https://github.com/datenanfragen/data/pull/1338"
+        "https://github.com/datenanfragen/data/pull/1338",
+        "https://github.com/datenanfragen/data/pull/1924"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
