@@ -1,6 +1,8 @@
 {
     "slug": "united-domains",
-    "relevant-countries": [],
+    "relevant-countries": [
+        "de"
+    ],
     "name": "united-domains AG",
     "address": "Gautinger Straße 10\n82319 Starnberg\nDeutschland",
     "email": "datenschutzbeauftragter@united-domains.de",
