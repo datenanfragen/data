@@ -15,6 +15,8 @@
         "Spark AR"
     ],
     "address": "4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
+    "phone": "+353 1 442 8800",
+    "email": "politicalethics@fb.com",
     "web": "https://www.facebook.com/",
     "sources": [
         "https://www.facebook.com/privacy/explanation",
@@ -27,7 +29,15 @@
         "https://github.com/datenanfragen/data/pull/974",
         "https://www.facebook.com/help/1561485474074139?ref=dp",
         "https://www.facebook.com/audiencenetwork/",
-        "https://sparkar.facebook.com/ar-studio/"
+        "https://sparkar.facebook.com/ar-studio/",
+        "https://lavado-de-alfombras.duraclean.com.mx/facebook-legal-department-dublin/",
+        "https://www.google.com/search?q=facebook+number+ireland&client=firefox-b-d&biw=1366&bih=615&sxsrf=ALiCzsbOReFf1nrS5H4VE1Gao1YWVajkTg%3A1668355518669&ei=vhVxY5GwKIiWgQa_jZbIDg&ved=0ahUKEwiRh7LQxKv7AhUIS8AKHb-GBekQ4dUDCA4&uact=5&oq=facebook+number+ireland&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIFCAAQhgMyBQgAEIYDOgoIABBHENYEELADOgUIABCRAjoKCAAQsQMQgwEQQzoLCC4QgwEQsQMQgAQ6CAgAELEDEIMBOgsIABCABBCxAxCDAToOCC4QsQMQgwEQxwEQ0QM6CwguEIMBENQCELEDOgsILhCxAxCDARDUAjoFCAAQgAQ6CggAEIAEEIcCEBRKBAhNGAFKBAhBGABKBAhGGABQ1ApYoyRgjiVoA3ABeAGAAe4DiAGcPJIBCDItMi4xNC41mAEAoAEByAEIwAEB&sclient=gws-wiz-serp",
+        "https://github.com/datenanfragen/data/pull/1933"
+    ],
+    "required-elements": [
+        {
+            "type": "input"
+        }
     ],
     "comments": [
         "Various privacy controls (including the ability to download your data as HTML or JSON) are available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information",
