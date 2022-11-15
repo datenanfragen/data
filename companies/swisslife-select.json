@@ -1,0 +1,24 @@
+{
+    "slug": "swisslife-select",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Swiss Life Select Deutschland GmbH",
+    "runs": [
+        "www.swisslife-select-kundenportal.de"
+    ],
+    "address": "Swiss-Life-Platz 1\n30659 Hannover",
+    "email": "datenschutz@swisslife-select.de",
+    "web": "https://www.swisslife-select.de",
+    "sources": [
+        "https://www.swisslife-select.de/privatkunden/footer/datenschutz.html",
+        "https://www.swisslife-select-kundenportal.de/datenschutz",
+        "https://www.swisslife-select-kundenportal.de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/1942"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
