@@ -1,0 +1,17 @@
+{
+    "slug": "nepatec",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "nepatec GmbH",
+    "address": "Seelhorststraße 44\nD-30175 Hannover",
+    "email": "datenschutz@nepatec.de",
+    "web": "https://www.nepatec.de",
+    "sources": [
+        "https://www.nepatec.de/j/privacy",
+        "https://github.com/datenanfragen/data/pull/1939"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
