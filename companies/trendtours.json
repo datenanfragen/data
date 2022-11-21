@@ -1,0 +1,21 @@
+{
+    "slug": "trendtours",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Trendtours Touristik GmbH",
+    "address": "Trendtours Touristik GmbH\nDüsseldorfer Straße 9\n65760 Eschborn",
+    "phone": "+49 6196 7800700",
+    "fax": "+49 6196 7800225",
+    "email": "info@trendtours.de",
+    "web": "https://www.trendtours.de",
+    "sources": [
+        "Werbebrief",
+        "https://github.com/datenanfragen/data/pull/1945"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
