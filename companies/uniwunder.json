@@ -1,0 +1,27 @@
+{
+    "slug": "uniwunder",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        "finance"
+    ],
+    "name": "Uniwunder GmbH",
+    "runs": [
+        "Talentagent",
+        "Hochschulinitiative Deutschland"
+    ],
+    "address": "c/o Uniwunder GmbH\nNicolas Mesa Prieto\nBergstraße 29\n01069 Dresden\nDeutschland",
+    "phone": "+49 351 79903384",
+    "email": "info@hochschulinitiative-deutschland.de",
+    "web": "https://uniwunder.com/",
+    "sources": [
+        "https://hochschulinitiative-deutschland.de/impressum",
+        "https://uniwunder.com/impressum/",
+        "https://talentagent.de/site-notice",
+        "https://github.com/datenanfragen/data/pull/1949"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
