@@ -1,0 +1,21 @@
+{
+    "slug": "tripadvisor",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Tripadvisor",
+    "runs": [
+        "Tripadvisor Ireland Limited C/O Matheson"
+    ],
+    "address": "70 Sir John Rogerson's Quay\nDublin 2\nD02 R296\nIreland",
+    "web": "https://www.tripadvisor.de",
+    "sources": [
+        "https://www.tripadvisor.de",
+        "https://github.com/datenanfragen/data/pull/1956"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
