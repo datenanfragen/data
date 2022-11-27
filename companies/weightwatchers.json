@@ -1,0 +1,17 @@
+{
+    "slug": "weightwatchers",
+    "relevant-countries": [
+        "nl"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "WeightWatchers",
+    "email": "info.nl@ww.com",
+    "web": "https://www.weightwatchers.com/nl/",
+    "sources": [
+        "website",
+        "https://github.com/datenanfragen/data/pull/1955"
+    ],
+    "quality": "verified"
+}
