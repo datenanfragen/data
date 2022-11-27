@@ -1,0 +1,19 @@
+{
+    "slug": "hivesocial",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Hive Social, Inc.",
+    "address": "8529 Correges Court\nFountain Valley, CA 92708\nUnited States of America",
+    "email": "support@Hiveinc.org",
+    "web": "https://www.hivesocial.app",
+    "sources": [
+        "https://www.hivesocial.app/privacy",
+        "https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/201011249045206152224071199161060114185185068126",
+        "https://github.com/datenanfragen/data/pull/1957"
+    ],
+    "quality": "verified"
+}
