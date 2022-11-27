@@ -1,0 +1,15 @@
+{
+    "slug": "becquet",
+    "relevant-countries": [
+        "fr"
+    ],
+    "name": "Becquet",
+    "address": "Rue François Arago 59930 La Chapelle D'Armentières",
+    "fax": "03 20 35 91 20",
+    "web": "https://www.becquet.fr/",
+    "sources": [
+        "https://www.becquet.fr/mentions-legales",
+        "https://github.com/datenanfragen/data/pull/1953"
+    ],
+    "quality": "verified"
+}
