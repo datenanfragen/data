@@ -1,0 +1,24 @@
+{
+    "slug": "leg-uelzen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Lessing-Gymnasium Uelzen",
+    "address": "Lessing-Gymnasium Uelzen\nKlaus Burger\nIlmenauufer 49\n29525 Uelzen",
+    "email": "datenschutz@leg-uelzen.de",
+    "web": "https://leg-uelzen.de",
+    "sources": [
+        "http://web.archive.org/web/20210128074509/https://www.leg-uelzen.de/cms/?page_id=4399",
+        "https://www.leg-uelzen.de/?page_id=126",
+        "https://www.leg-uelzen.de/?page_id=3",
+        "https://www.leg-uelzen.de/?page_id=1010",
+        "https://github.com/datenanfragen/data/pull/1967"
+    ],
+    "comments": [
+        "Es liegt keine korrekte Datenschutzerklärung vor, der Link im Impressum verweist auf eine inzwischen nicht mehr erreichbare Seite (hier als Webarchive-Link eingegeben). In der neuen, rudimentären Datenschutzerklärung werden keine Kontaktdaten angegeben, die alten Kontaktdaten werden aber im Impressum bestätigt. Die Kontaktdaten werden auch auf der Hinweisseite zum Datenschutz für Schüler bestätigt."
+    ],
+    "quality": "verified"
+}
