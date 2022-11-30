@@ -3,15 +3,18 @@
     "relevant-countries": [
         "ch"
     ],
-    "categories": [],
-    "name": "Brand Markt",
-    "address": "Rosenbergstrasse 46, 9000 St.Gallen",
-    "phone": "041797738712",
-    "email": "brandmarkt11@gmail.com",
+    "categories": [
+        "commerce"
+    ],
+    "name": "Brandmarkt-Outlet",
+    "address": "Rosenbergstrasse 46\n9000 St. Gallen\nSwitzerland",
+    "phone": "+41 79 773 87 12",
+    "email": "store@brandmarkt.ch",
     "web": "https://brandmarkt.store/",
-    "suggested-transport-medium": "email",
-    "quality": "verified",
     "sources": [
+        "https://brandmarkt.store/datenschutzbestimmungen/",
+        "https://brandmarkt.store/kontact-uns/",
         "https://github.com/datenanfragen/data/pull/1962"
-    ]
+    ],
+    "quality": "verified"
 }
