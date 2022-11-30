@@ -1,0 +1,16 @@
+{
+    "slug": "wertgarantie",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Wertgarantie SE",
+    "address": "Breite Straße 8\n30159 Hannover\nDeutschland",
+    "phone": "+49 511 71280123",
+    "email": "kunde@wertgarantie.de",
+    "web": "https://www.wertgarantie.de/",
+    "sources": [
+        "https://www.wertgarantie.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1966"
+    ],
+    "quality": "verified"
+}
