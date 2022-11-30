@@ -1,0 +1,20 @@
+{
+    "slug": "nitrado",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "name": "marbis GmbH",
+    "runs": [
+        "nitrado"
+    ],
+    "address": "marbis GmbH\nGriesbachstraße 10\n76185 Karlsruhe",
+    "email": "datenschutz@marbis.net",
+    "web": "https://nitrado.de/",
+    "sources": [
+        "https://server.nitrado.net/de-DE/rechtlich/datenschutzbestimmungen",
+        "https://github.com/datenanfragen/data/pull/1965"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
