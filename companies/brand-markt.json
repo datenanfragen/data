@@ -1,0 +1,14 @@
+{
+    "slug": "brand-markt",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Brand Markt",
+    "address": "Rosenbergstrasse 46, 9000 St.Gallen",
+    "phone": "041797738712",
+    "email": "brandmarkt11@gmail.com",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1961"
+    ]
+}
