@@ -1,0 +1,24 @@
+{
+    "slug": "onthatass",
+    "relevant-countries": [
+        "de",
+        "nl"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "ON THAT ASS INTERNATIONAL POSTBUS",
+    "runs": [],
+    "address": "5202 CA 's-Hertogenbosch\nNiederlande",
+    "email": "hello-de@onthatass.com",
+    "web": "https://onthatass.com/de-de/",
+    "sources": [
+        "https://onthatass.com/de-de/privacy-statement",
+        "https://github.com/datenanfragen/data/pull/1969"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Verweis auf niederländische Datenschutzbehörde in der Datenschutzerklärung"
+    ],
+    "quality": "verified"
+}
