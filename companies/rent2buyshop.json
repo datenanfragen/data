@@ -1,0 +1,26 @@
+{
+    "slug": "rent2buyshop",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Rent2buyshop",
+    "runs": [
+        "rent2buymusic"
+    ],
+    "address": "rent2buy AG\nIndustriestr. 10\n35580 Wetzlar\n\nDatenschutzbeauftragter:\nDataGAP GmbH\nBessemerstr. 82, 10. OG Süd\n12103 Berlin",
+    "phone": "+49 6441 785970",
+    "email": "datenschutz@rent2buy.ag",
+    "web": "https://www.rent2buyshop.de/",
+    "sources": [
+        "https://www.rent2buyshop.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/1971"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Wir setzen folgende(n) Hoster ein:\n\nhostNET Medien GmbH\nOsterdeich 107\n28205 Bremen\n\nGeschäftsführender Gesellschafter:\nSebastian Jäschke\n\nHRB 19358, Handelsregister Bremen"
+    ],
+    "quality": "verified"
+}
