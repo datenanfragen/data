@@ -1,0 +1,25 @@
+{
+    "slug": "sdc",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "SDC",
+    "runs": [
+        "https://www.sdc.com/de/"
+    ],
+    "phone": "1 866 4179956",
+    "email": "helpdesk@sdc.com",
+    "web": "https://www.sdc.com/de/",
+    "sources": [
+        "Datenschutzerklärung im Google Play Store",
+        "https://github.com/datenanfragen/data/pull/1973"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Website und App verfügbar"
+    ],
+    "quality": "verified"
+}
