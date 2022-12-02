@@ -1,0 +1,22 @@
+{
+    "slug": "sdc",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "SDC",
+    "runs": [
+        "https://www.sdc.com/de/"
+    ],
+    "address": "Weder Impressum noch Datenschutzerklärung vorhanden !!!!",
+    "web": "https://www.sdc.com/de/",
+    "comments": [
+        "Weder Impressum noch Kontaktmöglichkeit noch Datenschutzerklärung vorhanden"
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1972"
+    ]
+}
