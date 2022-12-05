@@ -1,0 +1,17 @@
+{
+    "slug": "salo-holding-ag",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Salo Holding AG",
+    "address": "Spaldingstraße 57-59\n20097 Hamburg",
+    "phone": "040 239160",
+    "sources": [
+        "https://www.salo-partner.de/",
+        "https://github.com/datenanfragen/data/pull/1975"
+    ],
+    "quality": "verified"
+}
