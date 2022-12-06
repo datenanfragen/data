@@ -1,0 +1,19 @@
+{
+    "slug": "stopandgo",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Stop+Go Die Autowerkstatt",
+    "address": "stop+go Systemzentrale GmbH\nPolostraße 1\n41363 Jüchen",
+    "phone": "02165 – 17170",
+    "email": "kontakt@stopandgo.de",
+    "web": "https://www.stopandgo.de/",
+    "sources": [
+        "https://www.stopandgo.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/1976"
+    ],
+    "quality": "verified"
+}
