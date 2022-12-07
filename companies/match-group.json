@@ -9,7 +9,6 @@
     "name": "MTCH Technology Services Ltd.",
     "runs": [
         "Tinder (tinder.com)",
-        "Plenty of Fish (pof.com)",
         "Hinge (hinge.co)",
         "Hawaya (hawaya.com)",
         "Match Group, LLC",
@@ -24,7 +23,8 @@
         "https://policies.tinder.com/privacy/intl/en",
         "https://hinge.co/privacy",
         "https://www.hawaya.com/privacy-policy",
-        "https://www.pof.com/privacypolicy"
+        "https://www.pof.com/privacypolicy",
+        "https://github.com/datenanfragen/data/pull/1977"
     ],
     "request-language": "en",
     "quality": "verified"
