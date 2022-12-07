@@ -1,0 +1,22 @@
+{
+    "slug": "asb",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Arbeiter-Samariter-Bund (ASB)",
+    "address": "ASB-Bundesgeschäftsstelle\nSülzburgstrasse 140\n50937 Cologne, Germany",
+    "phone": "+49 221 47605",
+    "fax": "+49 221 47605288",
+    "email": "info@asb.de",
+    "web": "https://asb.de",
+    "sources": [
+        "https://asb.de",
+        "https://github.com/datenanfragen/data/pull/1979"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [],
+    "quality": "verified"
+}
