@@ -1,0 +1,18 @@
+{
+    "slug": "vanderstorm-ventures-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Vanderstorm Ventures GmbH & Co. KG",
+    "runs": [],
+    "address": "Vanderstorm Ventures GmbH & Co. KG\nPostfach 110207\n10832 Berlin",
+    "email": "vanderstorm@datenschutz.hb-ecommerce.eu",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1981"
+    ]
+}
