@@ -15,5 +15,18 @@
     "sources": [
         "https://www.sos-kinderdoerfer.de/extra/datenschutz"
     ],
-    "quality": "verified"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
+    "quality": "tested"
 }
