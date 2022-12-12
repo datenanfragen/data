@@ -14,5 +14,12 @@
     "sources": [
         "https://bere.al/en/privacy"
     ],
-    "quality": "verified"
+    "required-elements": [
+        {
+            "desc": "username",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "quality": "tested"
 }
