@@ -1,0 +1,20 @@
+{
+    "slug": "disboard",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "disboard.org",
+    "email": "https://discord.gg/kbQMsHZVwp",
+    "web": "https://disboard.org/",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Disboard.org can only be contacted via their support server no registered email address has been found on their website."
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1985"
+    ]
+}
