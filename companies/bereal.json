@@ -17,7 +17,7 @@
     "required-elements": [
         {
             "desc": "username",
-            "type": "input",
+            "type": "name",
             "optional": false
         }
     ],
