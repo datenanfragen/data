@@ -1,0 +1,19 @@
+{
+    "slug": "healthfulchat",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Healthfulchat.org",
+    "runs": [
+        "depression-chat-rooms.org"
+    ],
+    "email": "https://www.healthfulchat.org/contact-us.html",
+    "web": "https://www.healthfulchat.org/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1990"
+    ]
+}
