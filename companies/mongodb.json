@@ -1,0 +1,20 @@
+{
+    "slug": "mongodb",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "MongoDB Limited",
+    "address": "1633 Broadway 38th floor, \nNew York, NY 10019, \nUnited States",
+    "phone": "+1 844 666 4632",
+    "email": "privacy@mongodb.com",
+    "web": "https://www.mongodb.com/home",
+    "sources": [
+        "https://www.mongodb.com/legal/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/1992"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
