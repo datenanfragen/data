@@ -1,0 +1,15 @@
+{
+    "slug": "bewertungsfee",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Bewertungsfee.com",
+    "address": "Neustiftgasse 44/1",
+    "phone": "+43 665 65132080",
+    "web": "https://www.bewertungsfee.com/",
+    "sources": [
+        "https://www.bewertungsfee.com/",
+        "https://github.com/datenanfragen/data/pull/1994"
+    ],
+    "quality": "verified"
+}
