@@ -1,0 +1,18 @@
+{
+    "slug": "gothaer-digital",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Gothaer Digital GmbH",
+    "address": "Hohe Str. 160/168\n50667 Köln\nDeutschland",
+    "email": "info@gothaer-digital.de",
+    "web": "https://www.gothaer-digital.de",
+    "sources": [
+        "https://www.gothaer-digital.de/data-privacy",
+        "https://github.com/datenanfragen/data/pull/1996"
+    ],
+    "quality": "verified"
+}
