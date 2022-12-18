@@ -1,5 +1,8 @@
 {
     "slug": "gothaer",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "insurance"
     ],
@@ -12,16 +15,14 @@
         "Gothaer Pensionskasse AG"
     ],
     "address": "Gothaer Allee 1\n50969 Köln\nDeutschland",
-    "phone": "+49 221 308 00",
-    "fax": "+49 221 308 103",
+    "phone": "+49 221 30800",
+    "fax": "+49 221 308103",
     "email": "datenschutz@gothaer.de",
     "web": "https://www.gothaer.de/",
     "sources": [
         "https://www.gothaer.de/ueber-uns/rechtliche-informationen/datenschutz/",
-        "https://www.gothaer.de/ueber-uns/rechtliche-informationen/impressum/"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.gothaer.de/ueber-uns/rechtliche-informationen/impressum/",
+        "https://github.com/datenanfragen/data/pull/1995"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
