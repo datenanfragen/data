@@ -1,0 +1,17 @@
+{
+    "slug": "gommehd",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "name": "GommeHDnet GmbH",
+    "address": "Domstraße 10\n20095 Hamburg\nDeutschland",
+    "web": "https://www.gommehd.net/",
+    "sources": [
+        "https://www.gommehd.net/terms/privacy",
+        "https://github.com/datenanfragen/data/pull/1998"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
