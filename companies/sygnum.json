@@ -1,0 +1,16 @@
+{
+    "slug": "sygnum",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Sygnum Bank AG",
+    "address": "Uetlibergstrasse 134 A, 8045 Zurich, Switzerland",
+    "email": "dpo@sygnum.com",
+    "web": "https://www.sygnum.com/",
+    "sources": [
+        "https://www.sygnum.com/more/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2002"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
