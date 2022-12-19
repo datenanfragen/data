@@ -1,0 +1,24 @@
+{
+    "slug": "nepatec",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "nepatec GmbH",
+    "runs": [
+        "edocbox.de",
+        "edocbox.nepatec.de",
+        "nepatec.de/showOfficialIps.php"
+    ],
+    "address": "Seelhorststraße 44\n30175 Hannover\nDeutschland",
+    "email": "datenschutz@nepatec.de",
+    "web": "https://www.nepatec.de",
+    "sources": [
+        "https://www.nepatec.de/j/privacy",
+        "https://github.com/datenanfragen/data/pull/2000"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
