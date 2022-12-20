@@ -1,0 +1,17 @@
+{
+    "slug": "ipsos",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "Ipsos GmbH",
+    "address": "Balanstraße 69b\nD-81541 München",
+    "email": "dpo.germany@ipsos.com",
+    "web": "https://www.ipsos.com/de-de",
+    "sources": [
+        "https://www.ipsos.com/de-de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2004"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
