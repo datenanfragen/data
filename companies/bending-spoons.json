@@ -13,7 +13,8 @@
     "web": "https://bendingspoons.com/",
     "sources": [
         "https://bendingspoons.com/assets/pdf/Bending_Spoons-Privacy_and_Cookie_Policy_ENG_IT.pdf",
-        "https://bendingspoons.com/privacy.html"
+        "https://bendingspoons.com/privacy.html",
+        "https://github.com/datenanfragen/data/pull/2006"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
