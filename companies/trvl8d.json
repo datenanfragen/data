@@ -1,0 +1,17 @@
+{
+    "slug": "trvl8d",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "trvl8d",
+    "address": "London, England",
+    "web": "https://trvl8d.com/",
+    "sources": [
+        "https://trvl8d.com/",
+        "https://github.com/datenanfragen/data/pull/2014"
+    ],
+    "quality": "verified"
+}
