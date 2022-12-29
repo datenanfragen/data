@@ -1,0 +1,27 @@
+{
+    "slug": "fax",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "FAX.de GmbH & Co.KG",
+    "runs": [
+        "pc-fax.com"
+    ],
+    "address": "Bei den Kämpen 10\n21220 Seevetal\nDeutschland",
+    "phone": "+49 4185 795233",
+    "email": "info@fax.de",
+    "web": "https://www.fax.de",
+    "sources": [
+        "https://www.fax.de/de/datenschutz.html",
+        "https://www.pc-fax.com/en/privacy_policy.html",
+        "https://github.com/datenanfragen/data/pull/2018"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Externer Datenschutzbeauftragter:\n\nErich Zimmermann\nc/0 ZiDa-Datenschutz GmbH\nWaldhofer Str. 102\nD-69123 Heidelberg\nwww.zida-datenschutz.de\nTelefon: +49 621 - 3069 6731\nE-Mail: e.zimmermann@zida-datenschutz.de"
+    ],
+    "quality": "verified"
+}
