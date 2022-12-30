@@ -9,9 +9,9 @@
     "name": "TV Spielfilm",
     "runs": [
         "www.tvspielfilm.de",
-        "StreamPicker"
+        "StreamPicker (streampicker.de)"
     ],
-    "address": "BurdaForward GmbH\nz. Hd. Abteilung Datenschutz\nSt.-Martin-Straße 66\n81541 München",
+    "address": "St.-Martin-Straße 66\n81541 München\nDeutschland",
     "phone": "+49 89 92504500",
     "email": "tvspielfilmonline@datenschutzanfrage.de",
     "web": "https://www.tvspielfilm.de/",
@@ -19,5 +19,6 @@
         "https://www.tvspielfilm.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2011"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
