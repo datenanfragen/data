@@ -1,0 +1,25 @@
+{
+    "slug": "studierendenschaft-der-johannes-gutenberg-universit-t-mainz-k-d-r",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        "nonprofit"
+    ],
+    "name": "Studierendenschaft der Johannes Gutenberg-Universität Mainz K.d.ö.R.",
+    "runs": [
+        "AStA Universität Mainz",
+        "Studierendenparlament der JGU"
+    ],
+    "address": "Staudingerweg 21\n55128 Mainz\nDeutschland",
+    "phone": "+49 6131 3924801",
+    "email": "datenschutz@asta.uni-mainz.de",
+    "sources": [
+        "https://asta.uni-mainz.de/2020/03/15/datenschutzerklaerung-hochschulgesetz/",
+        "https://asta.uni-mainz.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/2022"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
