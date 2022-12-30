@@ -1,5 +1,5 @@
 {
-    "slug": "ups-de",
+    "slug": "ups",
     "relevant-countries": [
         "de"
     ],
@@ -13,11 +13,13 @@
     ],
     "address": "c/o UPS Europa SA\nAve Ariane 5\n1200 Brussel\nBelgium",
     "phone": "+49 69 66405060",
+    "email": "CustomerServiceDEDE@ups.com",
     "web": "https://www.ups.com",
     "sources": [
         "https://www.ups.com/de/de/help-center/legal-terms-conditions/privacy-notice.page?",
         "https://www.ups.com/de/de/help-center/contact.page",
-        "https://www.ups.com/assets/resources/webcontent/de_DE/UPS_EEA_Controllers_List.pdf"
+        "https://www.ups.com/assets/resources/webcontent/de_DE/UPS_EEA_Controllers_List.pdf",
+        "https://www.ups.com/de/de/support/contact-us.page"
     ],
     "comments": [
         "Webformular: https://www.ups.com/upsemail/input?privacy=true&loc=de_DE"
