@@ -1,16 +1,19 @@
 {
-    "slug": "worx",
+    "slug": "eu-worx-com",
     "relevant-countries": [
         "all"
     ],
     "categories": [
-        "utility"
+        "commerce"
     ],
-    "name": "Worx",
-    "address": "Positec Germany GmbH \nGrüner Weg 10 \n50825 Köln \nDeutschland",
+    "name": "Positec Germany GmbH",
+    "runs": [
+        "Worx"
+    ],
+    "address": "Grüner Weg 10\n50825 Köln\nDeutschland",
     "phone": "+49 221 1306560",
     "email": "datenschutzeu@positecgroup.com",
-    "web": "https://worx.com",
+    "web": "https://eu.worx.com",
     "sources": [
         "https://eu.worx.com/en/privacy-policy/",
         "https://eu.worx.com/en/imprint/",
