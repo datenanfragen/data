@@ -32,6 +32,11 @@ const linters = async () => {
             url: 'https://github.com/datenanfragen/data/blob/master/src/checks/pack',
             path_filter: (path: string) => path.startsWith('company-packs/'),
         },
+        generic: {
+            checks: await importChecks('generic'),
+            url: 'https://github.com/datenanfragen/data/blob/master/src/checks/generic',
+            path_filter: (path: string) => path.startsWith('companies/') || path.startsWith('company-packs/') || path.startsWith('supervisory-authorities/'),
+        },
     };
 };
 export default linters;
