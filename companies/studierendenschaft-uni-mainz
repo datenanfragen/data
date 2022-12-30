@@ -1,5 +1,5 @@
 {
-    "slug": "studierendenschaft-der-johannes-gutenberg-universit-t-mainz-k-d-r",
+    "slug": "studierendenschaft-uni-mainz",
     "relevant-countries": [
         "de"
     ],
@@ -7,10 +7,9 @@
         "school",
         "nonprofit"
     ],
-    "name": "Studierendenschaft der Johannes Gutenberg-Universität Mainz K.d.ö.R.",
+    "name": "Verfasste Studierendenschaft der Johannes Gutenberg-Universität Mainz K.d.ö.R.",
     "runs": [
-        "AStA Universität Mainz",
-        "Studierendenparlament der JGU"
+        "AStA Universität Mainz"
     ],
     "address": "Staudingerweg 21\n55128 Mainz\nDeutschland",
     "phone": "+49 6131 3924801",
