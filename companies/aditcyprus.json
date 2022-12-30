@@ -1,0 +1,28 @@
+{
+    "slug": "aditcyprus",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Dedalos Ltd",
+    "runs": [
+        "Amun Interactive Ltd"
+    ],
+    "address": "Arch. Makarios III & Evagorou 1-7, 1st floor, off. 102,, Nicosia 1065, Cyprus",
+    "phone": "+357 22 003332",
+    "fax": "+357 22 003338",
+    "email": "corporate@dedalos.co",
+    "web": "https://aditcyprus.com",
+    "sources": [
+        "https://aditcyprus.com",
+        "https://www.cyprusnet.com/dedalos-ltd",
+        "https://github.com/datenanfragen/data/pull/2020"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Da in Zypern eventuell Anfrage auf Englisch stellen.\n\nDas Unternehmen betreibt auch Amun Interactive Ltd, ein Unternehmen, das ungefragt Werbe-Mails verschickt, und es nicht ersichtlich ist, woher dieses Unternehmen die Adresse hat.\n\nAngaben über weitere Unternehmen, welche weitere Spam-Mails versenden, oder andere Länder, in denen dieses Unternehmen aktiv ist, liegen mir nicht vor."
+    ],
+    "quality": "verified"
+}
