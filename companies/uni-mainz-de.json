@@ -1,5 +1,5 @@
 {
-    "slug": "organisation-uni-mainz",
+    "slug": "uni-mainz-de",
     "relevant-countries": [
         "de"
     ],
@@ -8,11 +8,11 @@
         "public body"
     ],
     "name": "Johannes Gutenberg-Universität Mainz",
-    "address": "Johannes Gutenberg-Universität Mainz\n55099 Mainz",
+    "address": "Johannes Gutenberg-Universität Mainz\n55099 Mainz\nDeutschland",
     "phone": "+49 6131 3922109",
     "fax": "+49 6131 3925131",
     "email": "datenschutz@uni-mainz.de",
-    "web": "https://organisation.uni-mainz.de/datenschutzbeauftragter/",
+    "web": "http://www.uni-mainz.de/",
     "sources": [
         "https://organisation.uni-mainz.de/datenschutzbeauftragter/",
         "https://www.uni-mainz.de/144.php",
