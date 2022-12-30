@@ -20,17 +20,17 @@
     ],
     "required-elements": [
         {
-            "desc": "Anschrift (wie im Ausweis)",
-            "type": "address",
-            "optional": false
-        },
-        {
-            "desc": "Name (wie im Ausweis)",
+            "desc": "Name",
             "type": "name",
             "optional": false
         },
         {
-            "desc": "Geburtsdatum (wie im Ausweis)",
+            "desc": "Anschrift",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "Geburtsdatum",
             "type": "birthdate",
             "optional": false
         },
@@ -46,9 +46,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Die Anfrage muss entweder S/MIME-signiert sein oder es muss sich im Anhang ein eingescanntes Ausweisdokument befinden. Hierauf muss lediglich der Name, die Anschrift, das Geburtsdatum und die Gültigkeitsdauer erkennbar sein, die übrigen Angaben bitte schwärzen. (Rechtsgrundlage: Art. 15 i.V.m. Art. 11 und 12 DS-GVO).",
-        "Eine Übersendung per E-Mail sei innerhalb des Netzes der JGU, also auch zwischen Studierenden- und Mitarbeiter-, bzw. Funktions-E-Mail-Adressen, datenschutzrechtlich unbedenklich, da die Übersendung verschlüsselt erfolge."
-    ],
     "quality": "verified"
 }
