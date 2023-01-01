@@ -32,10 +32,10 @@ const linters = async () => {
             url: 'https://github.com/datenanfragen/data/blob/master/src/checks/pack',
             path_filter: (path: string) => path.startsWith('company-packs/'),
         },
-        generic: {
+        genericlint: {
             checks: await importChecks('generic'),
             url: 'https://github.com/datenanfragen/data/blob/master/src/checks/generic',
-            path_filter: (path: string) => path.startsWith('companies/') || path.startsWith('company-packs/') || path.startsWith('supervisory-authorities/'),
+            path_filter: (path: string) => path.startsWith('companies/') || path.startsWith('company-packs/') || path.startsWith('supervisory-authorities/') || path.startsWith('suggested-companies/'),
         },
     };
 };
