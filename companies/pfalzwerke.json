@@ -11,25 +11,24 @@
         "123energie",
         "ALDI Grünstrom"
     ],
-    "address": "Kurfürstenstraße 29\n67061 Ludwigshafen\nDeutschland",
+    "address": "Wredestraße 35\n67059 Ludwigshafen\nDeutschland",
     "phone": "+49 621 570572585",
     "fax": "+49 621 5853388",
     "email": "datenschutz@pfalzwerke.de",
     "web": "https://www.pfalzwerke.de",
     "sources": [
         "https://www.pfalzwerke.de/datenschutz",
-        "https://github.com/datenanfragen/data/pull/834"
+        "https://github.com/datenanfragen/data/pull/834",
+        "https://github.com/datenanfragen/data/pull/2033"
     ],
     "required-elements": [
         {
             "desc": "name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "address",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
     "suggested-transport-medium": "email",
