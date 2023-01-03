@@ -30,7 +30,7 @@
         {
             "desc": "Adresse",
             "type": "address",
-            "optional": true
+            "optional": false
         }
     ],
     "suggested-transport-medium": "email",
