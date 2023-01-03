@@ -9,6 +9,7 @@
     "name": "DoctorBox GmbH",
     "address": "Lietzenburger Straße 107\n10707 Berlin\nDeutschland",
     "phone": "+49 30 34045468",
+    "fax": "+49 30 34045468 777",
     "email": "datenschutz@doctorbox.de",
     "web": "https://www.doctorbox.de/",
     "sources": [
@@ -18,15 +19,18 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Email",
-            "type": "email"
+            "type": "email",
+            "optional": false
         },
         {
             "desc": "Geburtsdatum",
-            "type": "birthdate"
+            "type": "birthdate",
+            "optional": false
         }
     ],
     "suggested-transport-medium": "email",
