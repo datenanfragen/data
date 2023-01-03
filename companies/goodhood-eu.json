@@ -1,20 +1,14 @@
 {
     "slug": "goodhood-eu",
     "relevant-countries": [
-        "de",
-        "fr",
-        "es",
-        "it"
+        "de"
     ],
     "categories": [
         "social media"
     ],
     "name": "Good Hood GmbH",
     "runs": [
-        "nebenan.de",
-        "mesvoisins.fr",
-        "¿Tienes sal?",
-        "vicinimiei.it"
+        "nebenan.de"
     ],
     "address": "Köpenicker Str. 154\n10997 Berlin\nGermany",
     "phone": "+49 30 346557760",
@@ -22,6 +16,7 @@
     "web": "https://goodhood.eu",
     "sources": [
         "https://goodhood.eu",
+        "https://nebenan.de/privacy",
         "https://github.com/datenanfragen/data/pull/2028"
     ],
     "required-elements": [
