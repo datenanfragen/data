@@ -22,8 +22,13 @@
         "https://www.stroeermediabrands.de/datenschutz",
         "https://www.stroeermediabrands.de/marken/",
         "https://github.com/datenanfragen/data/pull/1338",
+        "https://www.spielaffe.de/Statisch/Datenschutz",
+        "https://www.kraloyun.com/Sabit/Veri-Koruma-Kurallari",
         "https://github.com/datenanfragen/data/pull/1924"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Es gibt ein Webformular: https://stroeer-requests.my.onetrust.com/webform/5223f5cf-ed85-4b3d-a37c-2f49312cbd78/75d35c00-ce1c-4768-ac88-e1c81018f05d"
+    ],
     "quality": "verified"
 }
