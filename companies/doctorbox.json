@@ -14,6 +14,7 @@
     "web": "https://www.doctorbox.de/",
     "sources": [
         "https://www.doctorbox.de/datenschutz.jsp",
+        "https://github.com/datenanfragen/data/pull/1070",
         "https://github.com/datenanfragen/data/pull/1839"
     ],
     "required-elements": [
