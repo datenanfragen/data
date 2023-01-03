@@ -23,12 +23,14 @@
     ],
     "required-elements": [
         {
-            "desc": "name",
-            "type": "name"
+            "desc": "Name",
+            "type": "name",
+            "optional": false
         },
         {
-            "desc": "address",
-            "type": "address"
+            "desc": "Adresse",
+            "type": "address",
+            "optional": true
         }
     ],
     "suggested-transport-medium": "email",
