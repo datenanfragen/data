@@ -4,7 +4,8 @@
         "de"
     ],
     "categories": [
-        "commerce"
+        "commerce",
+        "finance"
     ],
     "name": "proptop GmbH",
     "address": "Ladberger Straße 81\n49525 Lengerich\nDeutschland",
@@ -14,7 +15,8 @@
     "sources": [
         "https://www.proptop.com/datenschutzerklaerung",
         "https://www.proptop.com/impressum",
-        "https://github.com/datenanfragen/data/pull/1694"
+        "https://github.com/datenanfragen/data/pull/1694",
+        "https://github.com/datenanfragen/data/pull/1842"
     ],
     "quality": "verified"
 }
