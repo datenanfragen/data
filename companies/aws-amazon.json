@@ -1,0 +1,19 @@
+{
+    "slug": "aws-amazon",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Amazon Web Services EMEA SARL",
+    "address": "Amazon Web Services EMEA SARL\n38 Avenue John F. Kennedy\nL-1855 Luxemburg",
+    "email": "aws-EU-privacy@amazon.com",
+    "web": "https://aws.amazon.com",
+    "sources": [
+        "https://aws.amazon.com/de/privacy/",
+        "https://github.com/datenanfragen/data/pull/2042"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
