@@ -7,14 +7,16 @@
         "finance"
     ],
     "name": "Trade Republic Bank GmbH",
-    "address": "Ernst-Schneider-Platz 1\n40212 Düsseldorf\nDeutschland",
-    "phone": "+49 30 5490 6310",
+    "address": "Köpenicker Straße 40c\n10179 Berlin\nDeutschland",
+    "phone": "+49 30 54906310",
     "email": "datenschutz@traderepublic.com",
     "web": "https://traderepublic.com/",
     "sources": [
         "https://traderepublic.com/de-de/privacy",
         "https://traderepublic.com/de-de/imprint",
-        "https://github.com/datenanfragen/data/pull/1537"
+        "https://github.com/datenanfragen/data/pull/1537",
+        "https://assets.traderepublic.com/assets/files/Privacy-Website_de-AT.pdf",
+        "https://github.com/datenanfragen/data/pull/2049"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
