@@ -1,0 +1,13 @@
+{
+    "slug": "activeroom-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Activeroom GmbH",
+    "address": "Spitalstraße 16\n20095 Hamburg",
+    "sources": [
+        "Werbebrief des Firma",
+        "https://github.com/datenanfragen/data/pull/2048"
+    ],
+    "quality": "verified"
+}
