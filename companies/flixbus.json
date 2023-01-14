@@ -1,18 +1,41 @@
 {
     "slug": "flixbus",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
         "travel"
     ],
-    "name": "FlixMobility GmbH",
+    "name": "Flix S.E.",
     "runs": [
+        "FlixBus DACH GmbH",
+        "FlixTrain GmbH",
         "FlixBus (www.flixbus.de)",
-        "FlixBus Mein Fernbus (www.meinfernbus.de)"
+        "FlixBus Mein Fernbus (www.meinfernbus.de)",
+        "FlixCharter GmbH",
+        "FlixMobility Tech GmbH",
+        "FlixMobility Experience GmbH",
+        "FlixBus B.V.",
+        "FlixBus CEE South d.o.o.",
+        "FlixBus CZ s.r.o.",
+        "FlixBus Danmark ApS",
+        "FlixBus France SARL",
+        "FlixBus Hungary Kft.",
+        "FlixBus Inc.",
+        "FlixBus Italia SRL",
+        "FlixBus North GmbH CEE",
+        "FlixBus Polska Sp. z.o.o.",
+        "FlixBus RO SRL",
+        "FlixBus RS d.o.o.",
+        "FlixBus RUS LLC",
+        "Greyhound",
+        "FlixBus Sverige AB",
+        "FlixBus UK Inc.",
+        "Rodbillet ApS",
+        "Swebus Express AB und Kâmil Koç Otobüsleri A.Ş."
     ],
-    "address": "Birketweg 33\n80639 München\nDeutschland",
-    "phone": "+49 30 300 137 300",
+    "address": "Friedenheimer Brücke 16\n80639 München\nDeutschland",
+    "phone": "+49 30 300137300",
     "email": "data.protection@flixbus.com",
     "web": "https://www.flixbus.de/",
     "sources": [
@@ -20,7 +43,8 @@
         "https://meinfernbus.de/de/datenschutz.html",
         "https://cdn.flixbus.de/2017-11/data-privacy.pdf",
         "https://www.flixbus.de/impressum",
-        "https://github.com/datenanfragen/data/issues/561"
+        "https://github.com/datenanfragen/data/issues/561",
+        "https://github.com/datenanfragen/data/pull/2060"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
