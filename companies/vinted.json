@@ -1,0 +1,28 @@
+{
+    "slug": "vinted",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Vinted UAB",
+    "runs": [
+        "Vinted GmbH",
+        "Vinted.de",
+        "Kleiderkreisel.de",
+        "Kleiderkreisel.at",
+        "Mamikreisel.de",
+        "Mamikreisel.at"
+    ],
+    "address": "Švitrigailos Str. 13\nLT-03228 Vilnius\nRepublik Litauen",
+    "email": "dpo@vinted.de",
+    "web": "https://www.vinted.de/",
+    "sources": [
+        "https://www.vinted.de/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2066"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
