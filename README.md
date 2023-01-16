@@ -62,7 +62,7 @@ Some companies don't publish adequate contact information on their website. In t
 ### Addresses
 
 We want the addresses to be formatted consistently, so don't just copy the information directly from the company's website. Try to format the address according to the standards of the respective country. For many countries, we already have records with examples on how to format the addresses. Otherwise, the Universal Postal Union has [resources](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html) on how to properly format addresses for many countries. In addition, there is a very [comprehensive guide](https://www.bitboost.com/ref/international-address-formats.html) offered by BitBoost Systems.  
-Delimit the individual lines of the address by newlines and make sure that each line is trimmed. The last line of the address has to be the country, either in the country's native language or in English.
+Delimit the individual lines of the address by newlines and make sure that each line is trimmed. The last line of the address has to be the country, either in the country's native language or in English (we are using [this list](https://github.com/annexare/Countries/blob/master/dist/countries.csv) to determine the canonical names).
 
 For incomplete addresses, you can use SmartyStreets' [Single Address Validation Tool](https://smartystreets.com/products/single-address).
 
