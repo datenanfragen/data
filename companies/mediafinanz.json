@@ -1,0 +1,16 @@
+{
+    "slug": "mediafinanz",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "mediaFinanz GmbH",
+    "address": "mediaFinanz GmbH\nWeiße Breite 5\n49084 Osnabrück\nDeutschland",
+    "email": "datenschutz@mediafinanz.de",
+    "web": "https://www.mediafinanz.de",
+    "sources": [
+        "https://www.mediafinanz.de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/2069"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
