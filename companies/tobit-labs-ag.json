@@ -1,0 +1,14 @@
+{
+    "slug": "tobit-labs-ag",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Tobit.Labs AG",
+    "address": "Tobit Software Laboratories AG\nParallelstraße 41\n48683 Ahaus",
+    "sources": [
+        "https://tobit.software/impressum",
+        "https://github.com/datenanfragen/data/pull/2068"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
