@@ -1,0 +1,21 @@
+{
+    "slug": "canadalife",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Canada Life Assurance Europe plc",
+    "address": "Niederlassung für Deutschland\nHohenzollernring 72\n50672 Köln\nDeutschland",
+    "email": "CLE_Datenschutz@canadalife.de",
+    "web": "https://www.canadalife.de",
+    "sources": [
+        "https://www.canadalife.de/impressum/",
+        "https://www.canadalife.de/datenschutz-sicherheit/",
+        "https://github.com/datenanfragen/data/pull/2070"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [],
+    "quality": "verified"
+}
