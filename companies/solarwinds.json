@@ -1,0 +1,21 @@
+{
+    "slug": "solarwinds",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Solarwinds",
+    "address": "7171 Southwest Parkway\nBldg 400\nAustin, Texas 78735",
+    "phone": "+1 866 530 8040",
+    "email": "privacy@SolarWinds.com",
+    "sources": [
+        "https://www.solarwinds.com/",
+        "https://www.solarwinds.com/legal/privacy#california-privacy-rights",
+        "https://www.solarwinds.com/company/contact-us",
+        "https://github.com/datenanfragen/data/pull/2072"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
