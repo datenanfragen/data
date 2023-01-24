@@ -1,0 +1,42 @@
+{
+    "slug": "all-accor",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Accor S.A.",
+    "runs": [
+        "Raffles",
+        "Sofitel Legend",
+        "Fairmont",
+        "Sofitel",
+        "onefinestay",
+        "Rixos",
+        "MGallery",
+        "Pullman",
+        "Swissôtel",
+        "25hours Hotels",
+        "Novotel",
+        "Mercure",
+        "Mama Shelter",
+        "Adagio",
+        "JO&JOE",
+        "ibis",
+        "ibis Styles",
+        "ibis budget",
+        "Grand Mercure",
+        "The Sebel",
+        "hotelF1"
+    ],
+    "address": "Département Protection des Données Personnelles\n82 rue Henri Farman\n92130 Issy-les-Moulineaux\nFrance",
+    "phone": "+33 8778561464",
+    "email": "data.privacy@accor.com",
+    "web": "https://all.accor.com",
+    "sources": [
+        "https://all.accor.com/information/legal/data-protection.de.shtml",
+        "https://github.com/datenanfragen/data/pull/2077"
+    ],
+    "quality": "verified"
+}
