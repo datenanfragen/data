@@ -1,0 +1,16 @@
+{
+    "slug": "vercel",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Vercel Inc.",
+    "address": "Vercel Inc.\n340 S Lemon Ave #4133\nWalnut, CA 91789",
+    "email": "privacy@vercel.com",
+    "web": "https://vercel.com",
+    "sources": [
+        "https://vercel.com/legal/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2079"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
