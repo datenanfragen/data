@@ -1,0 +1,19 @@
+{
+    "slug": "freshworks",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Freshworks",
+    "address": "2950 S. Delaware Street, \nSuite 201\nSan Mateo CA 94403",
+    "phone": "+1 855 747 6767",
+    "email": "support@freshservice.com",
+    "web": "https://www.freshworks.com/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2083"
+    ]
+}
