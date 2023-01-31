@@ -1,0 +1,20 @@
+{
+    "slug": "finavo",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Finavo GmbH",
+    "address": "Closweg 2",
+    "phone": "0621627773",
+    "email": "info@finavo.com",
+    "web": "https://finavo.com/",
+    "sources": [
+        "https://finavo.com/de/impressum/",
+        "https://github.com/datenanfragen/data/pull/2084"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
