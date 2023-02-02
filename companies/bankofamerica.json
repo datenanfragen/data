@@ -1,0 +1,26 @@
+{
+    "slug": "bankofamerica",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Bank of America Europe Designated Activity Company, Zweigniederlassung Frankfurt am Main, Frankfurt a. Main, Germany",
+    "address": "Taunusanlage 9-10, \n60329 Frankfurt am Main,\nDeutschland",
+    "phone": "+49 69 58990",
+    "email": "dpo@bofa.com",
+    "web": "https://www.bankofamerica.com",
+    "sources": [
+        "https://www.northdata.com/Bank+of+America+Europe+Designated+Activity+Company,+Zweigniederlassung+Frankfurt+am+Main,+Frankfurt+a.+Main/Amtsgericht+Frankfurt+am+Main+HRB+104800",
+        "https://business.bofa.com/content/boaml/en_us/locations.html#europeMiddleEastAndAfrica",
+        "https://investor.bankofamerica.com/regulatory-and-other-filings/subsidiary-and-country-disclosures",
+        "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+        "https://business.bofa.com/content/dam/flagship/pdf/data-privacy-german.pdf",
+        "https://github.com/datenanfragen/data/pull/2094"
+    ],
+    "comments": [
+        "Bank of America Europe D.A.C. vormals firmiert als Bank of America Merrill Lynch International D.A.C. und Merrill Lynch International Bank D.A.C.)"
+    ],
+    "quality": "verified"
+}
