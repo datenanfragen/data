@@ -1,0 +1,19 @@
+{
+    "slug": "schweizercasinoclub",
+    "relevant-countries": [
+        "ch",
+        "gb",
+        "nl"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "SchweizerCasinoClub",
+    "address": "Switzerland\nZürich\nBrunnacherstrasse 72",
+    "phone": "+41 28 162 77 61",
+    "email": "kontakt@schweizercasinoclub.com",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2087"
+    ]
+}
