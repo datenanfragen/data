@@ -1,0 +1,19 @@
+{
+    "slug": "simpleanalytics",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Simple Analytics B.V.",
+    "address": "Jacob van Lennepstraat 78 H\n1053 HM\nAmsterdam\nNoord-Holland\nThe Netherlands",
+    "email": "support@simpleanalytics.com",
+    "web": "https://simpleanalytics.com/contact",
+    "sources": [
+        "Direct from website",
+        "https://github.com/datenanfragen/data/pull/2095"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
