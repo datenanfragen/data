@@ -1,0 +1,19 @@
+{
+    "slug": "hcaptcha",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Intuition Machines, Inc. d/b/a hCaptcha",
+    "address": "350 Alabama St\nSan Francisco, CA 94110\nUnited States of America",
+    "email": "support@hcaptcha.com",
+    "web": "https://www.hcaptcha.com",
+    "sources": [
+        "https://www.hcaptcha.com/privacy",
+        "https://github.com/datenanfragen/data/pull/2096"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
