@@ -1,0 +1,22 @@
+{
+    "slug": "travelpayouts",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Go Travel Un Limited d/b/a Travelpayouts",
+    "address": "Suite 1504, 15/F\nChinachem Tower\n34-37 Connaught Rd Central\nHong Kong",
+    "email": "legal@gtu.ltd",
+    "web": "https://travelpayouts.com",
+    "sources": [
+        "https://gtu.ltd",
+        "https://github.com/datenanfragen/data/pull/2097"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative email: support@travelpayouts.com"
+    ],
+    "quality": "verified"
+}
