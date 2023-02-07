@@ -1,0 +1,16 @@
+{
+    "slug": "coinmarketcap",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "CoinMarketCap",
+    "address": "N/A",
+    "email": "legal@coinmarketcap.com",
+    "web": "https://coinmarketcap.com",
+    "sources": [
+        "https://coinmarketcap.com/privacy/",
+        "https://github.com/datenanfragen/data/pull/2098"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
