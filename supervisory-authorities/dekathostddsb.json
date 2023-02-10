@@ -3,15 +3,15 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Diözesandatenschutzbeauftragter der ostdeutschen Bistümer",
-    "address": "Chausseestraße 1\n39218 Schönebeck\nDeutschland",
-    "phone": "+49 3928 7 28 71 81",
-    "fax": "+49 3928 7 28 71 82",
-    "email": "matthias.ullrich@datenschutzbeauftragter-ost.de",
-    "web": "https://www.datenschutzbeauftragter-ost.de",
+    "name": "Kirchliche Datenschutzaufsicht der ostdeutschen Bistümer und des Katholischen Militärbischofs",
+    "address": "Badepark 4\n39218 Schönebeck\nDeutschland",
+    "phone": "+49 3928 7179018",
+    "fax": "+49 3928 7179019",
+    "email": "kontakt@kdsa-ost.de",
+    "webform": "https://www.kdsa-ost.de/datenschutzbeschwerde.html",
+    "web": "https://www.kdsa-ost.de/",
     "sources": [
-        "https://www.datenschutzbeauftragter-ost.de/o.red.r/impressum.html",
-        "https://www.datenschutz-kirche.de/%C3%BCbersicht_aufsichtsbeh%C3%B6rden"
+        "https://www.kdsa-ost.de/kontaktformular.html"
     ],
     "complaint-language": "de",
     "comments": [

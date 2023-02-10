@@ -3,18 +3,17 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Der Diözesandatenschutzbeauftragte der (Erz-)Bistümer Hamburg, Hildesheim, Osnabrück und des Bischöflich Münsterschen Offizialats in Vechta i.O.",
+    "name": "Katholische Datenschutzaufsicht Nord für das Erzbistum Hamburg, die Bistümer Hildesheim und Osnabrück und das Bischöflich Münstersche Offizialat in Vechta i.O.",
     "address": "Unser Lieben Frauen Kirchhof 20\n28195 Bremen\nDeutschland",
-    "phone": "+49 421 16 30 19 25",
-    "email": "info@datenschutz-katholisch-nord.de",
-    "web": "https://www.datenschutz-kirche.de/",
+    "phone": "+49 421 33 00 56 0",
+    "email": "info@kdsa-nord.de",
+    "webform": "https://www.kdsa-nord.de/beschwerde_einreichen",
+    "web": "https://www.kdsa-nord.de/",
     "sources": [
-        "https://www.datenschutz-kirche.de/impressum",
-        "https://www.datenschutz-kirche.de/%C3%BCbersicht_aufsichtsbeh%C3%B6rden"
+        "https://www.kdsa-nord.de/kontakt"
     ],
     "complaint-language": "de",
     "comments": [
-        "Es steht auch ein Beschwerdeformular zur Verfügung: https://www.datenschutz-kirche.de/beschwerde_einreichen",
         "Zuständig für norddeutsche Bistümer:\n\nErzbistum Hamburg\nBistum Hildesheim\nBistum Osnabrück\nBistum Münster (niedersächsischer Teil)"
     ]
 }

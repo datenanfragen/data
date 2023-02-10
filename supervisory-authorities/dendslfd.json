@@ -8,17 +8,14 @@
     "phone": "+49 511 120 4500",
     "fax": "+49 511 120 4599",
     "email": "poststelle@lfd.niedersachsen.de",
-    "pgp-fingerprint": "87E3 0238 A8ED A446 486C  8664 BE98 7E58 584C 24B6",
-    "pgp-url": "https://www.lfd.niedersachsen.de/download/32009/Unser_PGP-Schluessel_neu_ab_01.09.2015_.txt",
-    "web": "https://www.lfd.niedersachsen.de/startseite/",
+    "webform": "https://www.navo.niedersachsen.de/navo2/portal/csend/8915/fileget/dsbeschwerdeformular.html",
+    "pgp-fingerprint": "6194 AE01 4804 7C0C 915C  E1F8 21F1 4CA5 91F3 F7A7",
+    "pgp-url": "https://lfd.niedersachsen.de/download/32009",
+    "web": "https://lfd.niedersachsen.de/startseite/",
     "sources": [
-        "https://www.lfd.niedersachsen.de/wir_ueber_uns/so_erreichen_sie_uns/so-erreichen-sie-uns-56182.html",
-        "https://www.lfd.niedersachsen.de/wir_ueber_uns/hinweis_zur_eroeffnung_zugangs_elektronischer_kommunikation/hinweis-zur-eroeffnung-des-zugangs-elektronischer-kommunikation-56046.html",
-        "https://www.lfd.niedersachsen.de/wir_ueber_uns/kontakt/kontakt-56137.html"
+        "https://lfd.niedersachsen.de/wir_ueber_uns/so_erreichen_sie_uns/so-erreichen-sie-uns-56182.html",
+        "https://lfd.niedersachsen.de/wir_ueber_uns/hinweis_zur_eroeffnung_zugangs_elektronischer_kommunikation/hinweis-zur-eroeffnung-des-zugangs-elektronischer-kommunikation-56046.html"
     ],
     "complaint-language": "de",
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Es steht auch ein Beschwerdeformular zur Verfügung: https://www.navo.niedersachsen.de/navo2/portal/csend/8915/fileget/dsbeschwerdeformular.html"
-    ]
+    "suggested-transport-medium": "email"
 }
