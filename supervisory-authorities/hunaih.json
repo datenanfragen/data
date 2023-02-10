@@ -4,13 +4,13 @@
         "hu"
     ],
     "name": "Nemzeti Adatvédelmi és Információszabadság Hatóság (Hungarian National Authority for Data Protection and Freedom of Information)",
-    "address": "Budapest\nSzilágyi Erzsébet fasor 22/C.\n1125\nHungary",
+    "address": "Budapest\nPf.: 9.\n1363\nHungary",
     "phone": "+36 1 391 1400",
     "fax": "+36 1 391 1410",
     "email": "ugyfelszolgalat@naih.hu",
     "web": "https://www.naih.hu/",
     "sources": [
-        "https://www.naih.hu/general-information.html"
+        "https://naih.hu/ugyfelszolgalat-kapcsolat"
     ],
     "complaint-language": "hu"
 }
