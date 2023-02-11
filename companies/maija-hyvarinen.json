@@ -1,0 +1,22 @@
+{
+    "slug": "maija-hyvarinen",
+    "relevant-countries": [
+        "fi"
+    ],
+    "name": "Maija Hyvarinen",
+    "runs": [],
+    "address": "Taivaanpankontie 10 C A 44",
+    "phone": "+358 40 0328658",
+    "email": "Maija2712@gmail.com",
+    "sources": [
+        "Pension , bitcoins",
+        "https://github.com/datenanfragen/data/pull/2102"
+    ],
+    "required-elements": [
+        {
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
