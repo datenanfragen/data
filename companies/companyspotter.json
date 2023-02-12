@@ -1,0 +1,14 @@
+{
+    "slug": "companyspotter",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "CompanySpotter",
+    "address": "CompanySpotter BV\nKoninginnegracht 46-I\n2514 AD Den Haag (Niederlande)",
+    "email": "privacy@companyspotter.com",
+    "sources": [
+        "Datenschutzemail der Firma",
+        "https://github.com/datenanfragen/data/pull/2103"
+    ],
+    "quality": "verified"
+}
