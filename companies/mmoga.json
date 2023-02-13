@@ -1,0 +1,25 @@
+{
+    "slug": "mmoga",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "MMOGA Ltd.",
+    "runs": [
+        "Foshan MMOGA Ltd."
+    ],
+    "address": "705 A, Silvercord\nTower 2, 30 Canton Road, Tsim Sha Tsui, Kowloon\nHong Kong",
+    "phone": "+852 8191 4934",
+    "email": "info@mmoga.de",
+    "web": "https://www.mmoga.de",
+    "sources": [
+        "https://www.mmoga.de/content/Impressum.html",
+        "https://www.mmoga.de/content/Support-Impressum.html",
+        "https://www.mmoga.de/content/Privatsphaere-und-Datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/2104"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
