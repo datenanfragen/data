@@ -1,7 +1,7 @@
 {
     "slug": "hammy-media-ltd",
     "relevant-countries": [
-        "all"
+        "fr"
     ],
     "categories": [
         "entertainment"
@@ -14,9 +14,13 @@
     "email": "help@xhamster.com",
     "sources": [
         "https://xhamster.com/info/privacy",
-        "https://github.com/datenanfragen/data/issues/546"
+        "https://github.com/datenanfragen/data/issues/546",
+        "https://github.com/datenanfragen/data/pull/2116"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "La liberte sans ristriction."
+    ],
     "quality": "verified",
     "nsfw": true
 }
