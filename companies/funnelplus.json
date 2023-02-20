@@ -1,0 +1,19 @@
+{
+    "slug": "funnelplus",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Funnel Plus GmbH",
+    "address": "Werner-Otto-Straße 1-7\n22179 Hamburg\nDeutschland",
+    "email": "datenschutz@funnelplus.com",
+    "web": "https://www.funnelplus.com",
+    "sources": [
+        "https://www.funnelplus.com/datenschutz",
+        "https://www.vattenfall.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2119"
+    ],
+    "quality": "verified"
+}
