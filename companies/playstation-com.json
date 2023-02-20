@@ -18,7 +18,8 @@
     "sources": [
         "https://www.playstation.com/legal/privacy-policy/",
         "https://github.com/datenanfragen/data/issues/649",
-        "https://github.com/datenanfragen/data/pull/849"
+        "https://github.com/datenanfragen/data/pull/849",
+        "https://github.com/datenanfragen/data/pull/2121"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
