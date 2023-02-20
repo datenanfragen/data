@@ -1,0 +1,12 @@
+{
+    "slug": "bwin",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "Bwin",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2122"
+    ]
+}
