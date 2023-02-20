@@ -17,13 +17,15 @@
         "Mein Vattenfall"
     ],
     "address": "Überseering 12\n22297 Hamburg\nDeutschland",
-    "phone": "+49 800 992 5000",
+    "phone": "+49 800 9925000",
     "email": "datenschutz@vattenfall.de",
     "web": "https://www.vattenfall.de/",
     "sources": [
         "https://www.vattenfall.de/datenschutz",
-        "https://www.vattenfall.de/kundenservice-kontakt"
+        "https://www.vattenfall.de/kundenservice-kontakt",
+        "https://github.com/datenanfragen/data/pull/2118"
     ],
     "suggested-transport-medium": "email",
+    "comments": [],
     "quality": "verified"
 }
