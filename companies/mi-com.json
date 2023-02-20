@@ -13,7 +13,8 @@
     "web": "https://www.mi.com",
     "sources": [
         "https://privacy.mi.com/all/de_DE/",
-        "https://www.wework.com/buildings/strawinskylaan-4117--amsterdam"
+        "https://www.wework.com/buildings/strawinskylaan-4117--amsterdam",
+        "https://github.com/datenanfragen/data/pull/2120"
     ],
     "required-elements": [
         {
