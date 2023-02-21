@@ -1,0 +1,19 @@
+{
+    "slug": "wattfox-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "WattFox GmbH",
+    "address": "Engelbergerstr. 21\n79106 Freiburg\nDeutschland",
+    "phone": "+49 761 458758200",
+    "email": "datenschutz@wattfox.de",
+    "sources": [
+        "https://www.photovoltaik-angebotsvergleich.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/2123"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Betreibt photovoltaik-angebotsvergleich.de"
+    ],
+    "quality": "verified"
+}
