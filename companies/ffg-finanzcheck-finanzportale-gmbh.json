@@ -1,0 +1,19 @@
+{
+    "slug": "ffg-finanzcheck-finanzportale-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "FFG FINANZCHECK Finanzportale GmbH",
+    "address": "Admiralitätstraße  60\n20459 Hamburg\nDeutschland",
+    "email": "datenschutz@finanzcheck.de",
+    "web": "https://www.finanzcheck.de/uber-uns/datenschutz/",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2053",
+        "https://www.finanzcheck.de/uber-uns/datenschutz/"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
