@@ -18,15 +18,20 @@ const linters = async () => {
     return {
         recordlint: {
             checks: await importChecks('record'),
-            url: 'https://github.com/datenanfragen/data/blob/master/src/checks/record.ts',
-            path_filter: () => true,
+            url: 'https://github.com/datenanfragen/data/blob/master/src/checks/record',
+            path_filter: (path: string) => path.startsWith('companies/') || path.startsWith('supervisory-authorities/'),
         },
         companylint: {
             checks: await importChecks('company'),
-            url: 'https://github.com/datenanfragen/data/blob/master/src/checks/company.ts',
+            url: 'https://github.com/datenanfragen/data/blob/master/src/checks/company',
             path_filter: (path: string) => path.startsWith('companies/'),
         },
         // TODO: authoritylint
+        packlint: {
+            checks: await importChecks('pack'),
+            url: 'https://github.com/datenanfragen/data/blob/master/src/checks/pack',
+            path_filter: (path: string) => path.startsWith('company-packs/'),
+        },
     };
 };
 export default linters;

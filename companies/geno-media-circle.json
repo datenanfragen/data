@@ -18,6 +18,18 @@
         "https://github.com/datenanfragen/data/issues/86"
     ],
     "suggested-transport-medium": "email",
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "needs-id-document": false,
-    "quality": "verified"
+    "quality": "tested"
 }

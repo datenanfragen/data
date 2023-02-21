@@ -1,6 +1,6 @@
 Guten Tag,
 
-ich bitte hiermit um Auskunft gemäß Art. 15 DSGVO. Bitte bestätigen Sie mir, ob Sie mich betreffende personenbezogene Daten verarbeiten (vgl. Art. 4 Nr. 1 und 2 DSGVO).
+ich bitte hiermit um Auskunft gemäß Art. 15 DSGVO und §57 Abs. 1 BDSG. Bitte bestätigen Sie mir, ob Sie mich betreffende personenbezogene Daten verarbeiten (vgl. Art. 4 Nr. 1 und 2 DSGVO).
 
 Falls dem so sein sollte, stellen Sie mir bitte im Sinne des Art. 15 Abs. 3 DSGVO eine Kopie <italic>sämtlicher</italic> personenbezogener Daten, die Sie zu meiner Person verarbeiten, einschließlich eventueller mich betreffender pseudonymisierter Daten im Sinne des Art. 4 Nr. 5 DSGVO, zur Verfügung. Weiterhin bitte ich Sie in diesem Fall im Sinne des Art. 15 Abs. 1 DSGVO um Auskunft über:
 1. die Verarbeitungszwecke;
@@ -10,17 +10,16 @@ Falls dem so sein sollte, stellen Sie mir bitte im Sinne des Art. 15 Abs. 3 DSGV
 5. wenn die personenbezogenen Daten nicht bei mir erhoben wurden, alle verfügbaren Informationen über die Herkunft der Daten;
 6. falls zutreffend, das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Art. 22 Abs. 1 und 4 DSGVO und – sofern gegeben – aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für meine Person.
 
-Falls Sie mich betreffende anonymisierte Daten verarbeiten, bitte ich Sie darum, mir das nicht nur mitzuteilen, sondern auch das verwendete Verfahren verständlich zu erläutern.
-
 Sofern Sie meine personenbezogenen Daten an ein Drittland oder an eine internationale Organisation übermitteln, bitte ich über die geeigneten Garantien gemäß Art. 46 DSGVO im Zusammenhang mit der Übermittlung unterrichtet zu werden.
 [data_portability>
 Ich bitte Sie, mir die betreffenden personenbezogenen Daten, die ich Ihnen zur Verfügung gestellt habe, im Sinne des Art. 20 Abs. 1 DSGVO in einem strukturierten, gängigen und maschinenlesbaren Format zu übermitteln.
 ]
-Meine Anfrage schließt explizit auch [runs>die folgenden sowie ]sämtliche weiteren Angebote und Unternehmen ein, für die Sie Verantwortlicher im Sinne des Art. 4 Nr. 7 DSGVO sind[runs>: {runs_list}].
+Meine Anfrage schließt explizit auch die folgenden sowie sämtliche weiteren Register und Angebote ein, für die Sie Verantwortlicher im Sinne des Art. 4 Nr. 7 DSGVO sind:
+1. Zentrales Staatsanwaltschaftlichen Verfahrensregister (ZStV), nach §495 StPO und §9 ZStVBetrV, in Verbindung mit §57 BDSG
+2. Bundeszentralregister (BZR), nach §42 BZRG, in Verbindung mit Art. 15 DSGVO.
 
 Die Auskunft ist nach Art. 12 Abs. 3 DSGVO unverzüglich, in jedem Fall aber innerhalb eines Monats nach Eingang der Anfrage zu erteilen. Sie hat nach Art. 15 Abs. 3 DSGVO kostenlos zu erfolgen.
 
-Bitte erteilen Sie mir weiterhin nach §495 StPO und §9 ZStVBetrV, in Verbindung mit §57 BDSG, Auskunft über die zu meiner Person im Zentralen Staatsanwaltschaftlichen Verfahrensregister (ZStV) gespeicherten Daten.
 [has_fields>
 Zur Identifikation meiner Person habe ich folgende Daten beigefügt:
 {id_data}]

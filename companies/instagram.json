@@ -8,19 +8,16 @@
         "social media"
     ],
     "name": "Instagram",
-    "address": "c/o Facebook Ireland Ltd.\n4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
-    "fax": "+1 650 543 5340",
+    "address": "c/o Meta Platforms Ireland Limited\n4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
     "web": "https://www.instagram.com/",
     "sources": [
-        "https://help.instagram.com/519522125107875",
-        "https://help.instagram.com/contact/163695614321277",
+        "https://privacycenter.instagram.com/policy",
         "https://github.com/datenanfragen/data/issues/93",
         "https://help.instagram.com/581066165581870",
         "https://github.com/datenanfragen/data/pull/935"
     ],
     "comments": [
-        "Web form for privacy questions: https://help.instagram.com/contact/186020218683230",
-        "We have previously listed Instagram under Facebook’s record. We have since discovered better direct contact details and thus split the records."
+        "Web form for privacy questions: https://help.instagram.com/contact/163695614321277"
     ],
     "quality": "verified"
 }

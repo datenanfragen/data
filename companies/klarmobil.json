@@ -1,5 +1,8 @@
 {
     "slug": "klarmobil",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
@@ -7,7 +10,7 @@
     "runs": [
         "freenet mobile (www.freenetmobile.de)"
     ],
-    "address": "Deelbögenkamp 4c\n22297 Hamburg\nDeutschland",
+    "address": "Hollerstraße 126\n24782 Büdelsdorf\nDeutschland",
     "phone": "+49 40 34 8585 300",
     "email": "datenschutz@klarmobil.de",
     "web": "https://www.klarmobil.de/",
@@ -18,9 +21,6 @@
     ],
     "comments": [
         "Telefonnummer ist für Vertragskunden. Alternative Nummer für Prepaidkunden: +49 40 34 8585 305"
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

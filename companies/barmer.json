@@ -1,0 +1,22 @@
+{
+    "slug": "barmer",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health",
+        "insurance"
+    ],
+    "name": "BARMER",
+    "address": "42266 Wuppertal\nDeutschland",
+    "phone": "+49 800 3331010",
+    "fax": "+49 800 3330090",
+    "email": "datenschutz@barmer.de",
+    "web": "https://www.barmer.de/",
+    "sources": [
+        "https://www.barmer.de/consent/bestmoeglicher-schutz-fuer-ihre-daten-1003830",
+        "https://www.barmer.de/ueber-diese-website/impressum-1003148"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

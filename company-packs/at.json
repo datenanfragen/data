@@ -1,0 +1,24 @@
+[
+    {
+        "slug": "address-brokers",
+        "type": "add-all",
+        "companies": [
+            "adpublisher",
+            "az-direct-at",
+            "crif-at",
+            "europro",
+            "post-at",
+            "quadress"
+        ]
+    },
+    {
+        "slug": "credit-agencies",
+        "type": "add-all",
+        "companies": [
+            "akv-at",
+            "crif-at",
+            "dnb-at",
+            "ksv1870"
+        ]
+    }
+]

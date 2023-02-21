@@ -17,11 +17,12 @@
         "Unitymedia GmbH (ehem.)",
         "Unitymedia NRW GmbH (ehem.)",
         "Unitymedia Hessen GmbH & Co. KG (ehem.)",
-        "Unitymedia BW GmbH (ehem.)"
+        "Unitymedia BW GmbH (ehem.)",
+        "Lidl Connect Deutschland"
     ],
     "address": "Ferdinand-Braun-Platz 1\n40549 Düsseldorf\nDeutschland",
-    "phone": "+49 800 172 12 12",
-    "fax": "+49 211 533 2200",
+    "phone": "+49 800 1721212",
+    "fax": "+49 211 5332200",
     "email": "datenschutz@vodafone.com",
     "web": "https://www.vodafone.de/",
     "sources": [
@@ -37,7 +38,9 @@
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754026&land_abk=nw",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1753698&land_abk=nw",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754700&land_abk=nw",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754124&land_abk=nw"
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754124&land_abk=nw",
+        "https://kundenkonto.lidl-connect.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/1816"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

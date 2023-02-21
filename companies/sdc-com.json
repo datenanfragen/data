@@ -1,0 +1,23 @@
+{
+    "slug": "sdc-com",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "SDC Media LLC",
+    "runs": [
+        "https://www.sdc.com/de/"
+    ],
+    "address": "2054 Kildaire Farm Road #428\nCary\nNC 27511\nUnited States of America",
+    "phone": "+1 866 417 9956",
+    "email": "helpdesk@sdc.com",
+    "sources": [
+        "https://mbp.sdc.com/privacy_policy.php",
+        "https://www.sdc.com/de/about-us/contact-support/",
+        "https://github.com/datenanfragen/data/pull/1973"
+    ],
+    "quality": "verified",
+    "nsfw": true
+}

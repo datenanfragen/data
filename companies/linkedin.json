@@ -8,15 +8,14 @@
     ],
     "name": "LinkedIn Ireland Unlimited Company",
     "runs": [
-        "LinkedIn Corp.",
-        "SlideShare (www.slideshare.net)",
-        "Lynda.com (www.lynda.com)"
+        "LinkedIn Learning (formerly Lynda.com)"
     ],
     "address": "Wilton Plaza\nWilton Place, Dublin 2\nIreland",
-    "web": "https://www.linkedin.com/",
+    "web": "https://www.linkedin.com",
     "sources": [
+        "https://www.linkedin.com/legal/privacy-policy",
         "https://www.linkedin.com/help/linkedin/answer/79728",
-        "https://www.lynda.com/aboutus/otl-privacy.aspx"
+        "https://github.com/datenanfragen/data/pull/1779"
     ],
     "comments": [
         "Web form for requests: https://www.linkedin.com/help/linkedin/ask/ppq",

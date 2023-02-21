@@ -1,0 +1,164 @@
+[
+    {
+        "slug": "address-brokers",
+        "type": "add-all",
+        "companies": [
+            "abis",
+            "acxiom",
+            "adpublisher",
+            "az-direct",
+            "crifbuergel",
+            "deutsche-post-adress",
+            "deutsche-post-direkt",
+            "egentic",
+            "europro",
+            "quadress",
+            "regis24",
+            "schober",
+            "universum-business"
+        ]
+    },
+    {
+        "slug": "credit-agencies",
+        "type": "add-all",
+        "companies": [
+            "creditreform-boniversum",
+            "crifbuergel",
+            "europro",
+            "ihd-kredit",
+            "informa-his",
+            "infoscore",
+            "regis24",
+            "schufa"
+        ]
+    },
+    {
+        "slug": "commerce",
+        "type": "choose",
+        "companies": [
+            "aboutyou-shop",
+            "aliexpress",
+            "alternate",
+            "amazon-de",
+            "asos-shop",
+            "bonprix",
+            "conrad",
+            "cyberport",
+            "ebay-de",
+            "etsy",
+            "hm-mode",
+            "ikea",
+            "lidl",
+            "mediamarkt",
+            "notebookbilliger",
+            "otto-handel",
+            "saturn-shop",
+            "tchibo",
+            "zalando",
+            "zara-de"
+        ]
+    },
+    {
+        "slug": "entertainment",
+        "type": "choose",
+        "companies": [
+            "amazon-de",
+            "dazn",
+            "joyn-gmbh",
+            "sky-de",
+            "telekom-de"
+        ]
+    },
+    {
+        "slug": "finance",
+        "type": "choose",
+        "companies": [
+            "comdirect",
+            "commerzbank",
+            "deka",
+            "deutsche-bank-ag",
+            "dkb-bank",
+            "ing-diba",
+            "kfw-bankengruppe",
+            "klarna",
+            "n26-bank",
+            "norisbank",
+            "paydirekt",
+            "paypal",
+            "postbank",
+            "santander",
+            "targobank",
+            "vw-bank"
+        ]
+    },
+    {
+        "slug": "insurance",
+        "type": "choose",
+        "companies": [
+            "allianz",
+            "axa",
+            "barmeniade",
+            "barmer",
+            "continentale-versicherung",
+            "dak-de",
+            "debeka",
+            "devk",
+            "ergo-group",
+            "generali",
+            "gothaer",
+            "hansemerkur",
+            "huk-versicherung",
+            "ikk-classic",
+            "kkh-krankenkasse",
+            "lvm-versicherung",
+            "munich-re",
+            "nuernberger-versicherung",
+            "ruv-versicherung",
+            "signal-iduna",
+            "sparkassenversicherung",
+            "talanx",
+            "techniker-krankenkasse",
+            "vbk-versicherung",
+            "ww-ag-com",
+            "zurich-versicherung"
+        ]
+    },
+    {
+        "slug": "telecommunication",
+        "type": "choose",
+        "companies": [
+            "1und1-gmx",
+            "1und1-webde",
+            "1und1",
+            "alditalk",
+            "congstar",
+            "deutsche-glasfaser",
+            "drillisch",
+            "ewe-de",
+            "fonial",
+            "freenet-de",
+            "klarmobil",
+            "lebara",
+            "m-net",
+            "netcologne",
+            "o2-de",
+            "pyur",
+            "sipgate",
+            "telekom-de",
+            "vodafone-de"
+        ]
+    },
+    {
+        "slug": "public-authorities",
+        "type": "choose",
+        "companies": [
+            "arbeitsagentur-bund",
+            "beitragsservice",
+            "bka-bund",
+            "bundesjustizamt",
+            "deutsche-rentenversicherung-bund",
+            "fiu-zoll",
+            "kba-bund"
+        ]
+    }
+]

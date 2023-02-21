@@ -10,8 +10,6 @@ In case you are, please, in accordance with Art. 15(3) GDPR, provide me with a c
 5. where the personal data are not collected from the data subject, any available information as to their source;
 6. the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for me.
 
-In case you are processing anonymised data concerning me, please not only inform me about that but also explain the procedure used in an easily understandable way.
-
 If you are transferring my personal data to a third country or an international organisation, I request to be informed about the appropriate safeguards according to Article 46 GDPR concerning the transfer.
 [data_portability>
 Please make the personal data concerning me, which I have provided to you, available to me in a structured, commonly used and machine-readable format as laid down in Article 20(1) GDPR.
