@@ -1,0 +1,12 @@
+{
+    "slug": "techniclaunch",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "techniclaunch",
+    "web": "https://www.techniclaunch.net/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2126"
+    ]
+}
