@@ -1,0 +1,16 @@
+{
+    "slug": "nvidia",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Nvidia",
+    "address": "privacy@nvidia.com",
+    "email": "privacy@nvidia.com",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2127"
+    ]
+}
