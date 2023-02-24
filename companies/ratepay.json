@@ -4,16 +4,18 @@
         "de"
     ],
     "categories": [
-        "nonprofit"
+        "finance"
     ],
-    "name": "Tierheim Bad Mergentheim",
-    "address": "Nachbarschaftsweg \n(unterhalb von Burg Neuhaus)\n97999 Igersheim",
-    "phone": "+49 7931 44960",
-    "email": "info@tierheim-mergentheim.de",
-    "web": "https://www.tierheim-mergentheim.de/",
+    "name": "RatePAY GmbH",
+    "address": "Franklinstraße 28 – 29\n10587 Berlin\nDeutschland",
+    "phone": "+49 30 339 88 56 0",
+    "fax": "+49 30 339 88 56 10",
+    "email": "datenschutz@ratepay.com",
+    "web": "https://www.ratepay.com",
     "sources": [
-        "https://www.tierheim-mergentheim.de/",
-        "https://github.com/datenanfragen/data/pull/1892"
+        "https://www.ratepay.com/datenschutz/",
+        "https://www.ratepay.com/impressum/",
+        "https://github.com/datenanfragen/data/issues/165"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
