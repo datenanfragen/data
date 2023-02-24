@@ -18,13 +18,14 @@
         "Hinge, Inc.",
         "Harmonica IT, Inc."
     ],
-    "address": "Block D, Iveagh Court\nHarcourt Road\nDublin 2\nIreland",
+    "address": "WeWork Charlemont Exchange\n42 Charlemont Street\nDublin 2, D02 R593\nIreland",
     "web": "http://mtch.com",
     "sources": [
         "https://policies.tinder.com/privacy/intl/en",
         "https://hinge.co/privacy",
         "https://www.hawaya.com/privacy-policy",
-        "https://www.pof.com/privacypolicy"
+        "https://www.pof.com/privacypolicy",
+        "https://github.com/datenanfragen/data/pull/1977"
     ],
     "request-language": "en",
     "quality": "verified"
