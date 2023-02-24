@@ -9,6 +9,7 @@
     "name": "MTCH Technology Services Ltd.",
     "runs": [
         "Tinder (tinder.com)",
+        "Plenty of Fish (pof.com)",
         "Hinge (hinge.co)",
         "Hawaya (hawaya.com)",
         "Match Group, LLC",
@@ -17,7 +18,7 @@
         "Hinge, Inc.",
         "Harmonica IT, Inc."
     ],
-    "address": "Block D, Iveagh Court\nHarcourt Road\nDublin 2\nIreland",
+    "address": "WeWork Charlemont Exchange\n42 Charlemont Street\nDublin 2, D02 R593\nIreland",
     "web": "http://mtch.com",
     "sources": [
         "https://policies.tinder.com/privacy/intl/en",
