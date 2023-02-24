@@ -19,12 +19,13 @@
     "email": "dpo@europcar.com",
     "web": "https://www.europcar.de",
     "sources": [
-        "https://www.europcar.de/datenschutzrichtlinie",
+        "https://www.europcar.de/files/live/sites/Europcar.de/files/PDF/Datenschutz/Privacy-Policy-Europcar-DE-012022.pdf",
         "https://www.europcar.de/impressum",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=472092&land_abk=hh",
         "https://www.buchbinder.de/de/weitere-informationen/impressum/",
         "https://www.buchbinder.de/fileadmin/user_upload/corporate/user_upload/Datenschutzrichtlinie_deutsch.pdf",
-        "https://github.com/datenanfragen/data/issues/259"
+        "https://github.com/datenanfragen/data/issues/259",
+        "https://github.com/datenanfragen/data/pull/1930"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
