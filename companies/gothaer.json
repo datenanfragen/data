@@ -11,10 +11,11 @@
         "Gothaer Krankenversicherung AG",
         "Gothaer Lebensversicherung AG",
         "Gothaer Allgemeine Versicherung AG",
-        "Gothaer Versicherungsbank VVaG",
-        "Gothaer Pensionskasse AG"
+        "Gothaer Pensionskasse AG",
+        "Gothaer Asset Management AG",
+        "Gothaer Invest- und FinanzService GmbH"
     ],
-    "address": "Gothaer Allee 1\n50969 Köln\nDeutschland",
+    "address": "Arnoldiplatz 1\n50969 Köln\nDeutschland",
     "phone": "+49 221 30800",
     "fax": "+49 221 308103",
     "email": "datenschutz@gothaer.de",
@@ -22,8 +23,28 @@
     "sources": [
         "https://www.gothaer.de/ueber-uns/rechtliche-informationen/datenschutz/",
         "https://www.gothaer.de/ueber-uns/rechtliche-informationen/impressum/",
+        "https://www.gothaer.de/StreamingServlet/app/dvz/DocumentDownload/116991?scope=gothaer_scope",
+        "https://www.gothaer.de/media/n/rechtliche_informationen/datenschutz/datenschutz-informationsblatt-gif-goam.pdf",
         "https://github.com/datenanfragen/data/pull/1995"
     ],
+    "required-elements": [
+        {
+            "type": "name",
+            "desc": "Name",
+            "optional": false
+        },
+        {
+            "type": "address",
+            "desc": "Adresse",
+            "optional": false
+        },
+        {
+            "type": "email",
+            "desc": "E-Mail-Adresse",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
