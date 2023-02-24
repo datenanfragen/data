@@ -1,0 +1,19 @@
+{
+    "slug": "crisp",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Crisp IM S.A.S",
+    "address": "2 Boulevard de Launay\n44100 Nantes\nFRANCE",
+    "phone": "+33 2 40 03 11 87",
+    "web": "https://crisp.chat/",
+    "sources": [
+        "https://crisp.chat/",
+        "https://www.ripe.net/membership/indices/data/fr.crisp.html",
+        "https://github.com/datenanfragen/data/pull/2130"
+    ],
+    "quality": "verified"
+}
