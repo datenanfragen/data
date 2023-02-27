@@ -18,6 +18,18 @@
     "sources": [
         "https://www.pyur.com/privatkunden/datenschutz.html"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
