@@ -1,0 +1,22 @@
+{
+    "slug": "sncf-connect",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "SNCF Connect",
+    "address": "2, place de la Défense\nCNIT 1 - BP 440\n92053 Paris la Défense Cedex\nFrance",
+    "webform": "https://www.sncf-connect.com/aide/contact",
+    "web": "https://www.sncf-connect.com",
+    "sources": [
+        "https://www.sncf-connect.com/informations-legales/confidentialite/droits",
+        "https://www.sncf-connect.com/en-en/legal-information/privacy/your-rights"
+    ],
+    "needs-id-document": true,
+    "comments": [
+        "To access the relevant part of the form :\n\n- FR : Un voyage en train - Autres demandes - Envoyez-nous vos questions, réclamations ou suggestions par email - Droit d'accès ou suppression des données personnelles\n\n- EN : Our offers and services - Other - Send us your questions, complaints or suggestions by email - Access or Deletion rights\n"
+    ],
+    "quality": "verified"
+}
