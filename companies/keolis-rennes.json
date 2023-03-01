@@ -1,0 +1,33 @@
+{
+    "slug": "keolis-rennes",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Keolis Rennes SA",
+    "runs": [
+        "STAR Rennes",
+        "Handistar",
+        "STAR le vélo",
+        "Covoit'star",
+        "La Maison du vélo"
+    ],
+    "address": "Rue Jean-Marie Huchet\n, CS 94001, 35040 Rennes Cedex,\n France",
+    "email": "dpo.rennes@keolis.com",
+    "web": "https://www.keolis-rennes.com/",
+    "sources": [
+        "https://www.star.fr/a-propos/politique-de-confidentialite"
+    ],
+    "required-elements": [
+        {
+            "desc": "Numéro de carte KorriGo (si titulaire)",
+            "type": "input",
+            "optional": true
+        }
+    ],
+    "request-language": "fr",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
