@@ -1,0 +1,34 @@
+{
+    "slug": "sncf-voyageurs",
+    "relevant-countries": [
+        "fr",
+        "it",
+        "ch",
+        "de",
+        "be"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "SNCF Voyageurs",
+    "runs": [
+        "TGV",
+        "TGV Inoui",
+        "OUIGO",
+        "Intercités",
+        "Lyria SAS",
+        "DB-SNCF en coopération"
+    ],
+    "address": "9 rue Jean-Philippe Rameau,\n93633 La Plaine Saint-Denis cedex\nFrance",
+    "email": "dpo-sncf-voyageurs@sncf.fr",
+    "webform": "https://sncf-portail.my.onetrust.com/webform/8cf4ca11-20b3-4a48-94e4-24d6e95ff839/bef182f4-c9d6-4d2a-8a59-54d209ea73df?Source=TGVINOUI",
+    "web": "https://www.sncf.com/fr/sncf-voyageurs",
+    "sources": [
+        "https://sncf-portail.my.onetrust.com/webform/8cf4ca11-20b3-4a48-94e4-24d6e95ff839/bef182f4-c9d6-4d2a-8a59-54d209ea73df?Source=TGVINOUI",
+        "https://tgvinoui.sncf/conditions-generales#article-8",
+        "https://www.ouigo.com/charte-confidentialite",
+        "https://www.tgv-lyria.com/fr/en/privacy-policy"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
