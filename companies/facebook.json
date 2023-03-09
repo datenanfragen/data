@@ -4,8 +4,8 @@
         "all"
     ],
     "categories": [
-        "entertainment",
-        "social media"
+        "finance",
+        "ads"
     ],
     "name": "Meta Platforms Ireland Limited",
     "runs": [
@@ -24,7 +24,8 @@
         "https://www.facebook.com/help/1561485474074139",
         "https://github.com/datenanfragen/data/issues/92",
         "https://github.com/datenanfragen/data/issues/93",
-        "https://github.com/datenanfragen/data/pull/974"
+        "https://github.com/datenanfragen/data/pull/974",
+        "https://github.com/datenanfragen/data/pull/2146"
     ],
     "comments": [
         "Various privacy controls (including the ability to download your data as HTML or JSON) are available via the Facebook website: https://www.facebook.com/settings?tab=your_facebook_information"
