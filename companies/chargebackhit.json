@@ -1,0 +1,18 @@
+{
+    "slug": "chargebackhit",
+    "relevant-countries": [
+        "cy"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "chargebackhit",
+    "address": "6, Vasili Vryonides str., Gala Court Chambers, 3rd floor, office 304-I, 3095 Limassol, Cyprus",
+    "email": "support@chargebackhit.com",
+    "web": "https://chargebackhit.com/",
+    "sources": [
+        "https://chargebackhit.com/",
+        "https://github.com/datenanfragen/data/pull/2149"
+    ],
+    "quality": "verified"
+}
