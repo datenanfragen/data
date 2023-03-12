@@ -1,0 +1,21 @@
+{
+    "slug": "owncube",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "OwnCube e.U.",
+    "runs": [
+        "Owncube"
+    ],
+    "address": "Stadtplatz 12, Top 2\n3860 Heidenreichstein\nÖsterreich",
+    "email": "support@owncube.com",
+    "web": "https://owncube.com/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2154"
+    ]
+}
