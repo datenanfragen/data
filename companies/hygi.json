@@ -1,0 +1,20 @@
+{
+    "slug": "hygi",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "hygi.de GmbH & Co. KG",
+    "address": "hygi.de GmbH & Co. KG\nOtto-Diehls-Straße 13 – 17\nD-48291 Telgte\n\nPostanschrift:\nhygi.de GmbH & Co. KG\nPostfach 155\nD-48283 Telgte",
+    "phone": "+49 2504 7313222",
+    "fax": "+49 2504 7313444",
+    "email": "info@hygi.de",
+    "web": "https://www.hygi.de",
+    "sources": [
+        "https://www.hygi.de/impressum",
+        "https://github.com/datenanfragen/data/pull/2159"
+    ],
+    "quality": "verified"
+}
