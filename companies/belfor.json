@@ -1,0 +1,16 @@
+{
+    "slug": "belfor",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "BELFOR Deutschland GmbH, Niederlassung Mannheim",
+    "address": "Niederlassung Mannheim\nSchreiberstraße 14\n68219 Mannheim",
+    "phone": "+49 621 80396990",
+    "email": "nl.mannheim@de.belfor.com",
+    "web": "https://www.belfor.com/de/de/niederlassung-mannheim",
+    "sources": [
+        "https://www.belfor.com/de/de/niederlassung-mannheim",
+        "https://github.com/datenanfragen/data/pull/2158"
+    ],
+    "quality": "verified"
+}
