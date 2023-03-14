@@ -1,0 +1,14 @@
+{
+    "slug": "belfor-deutschland-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "BELFOR Deutschland GmbH",
+    "address": "Keniastraße 24\n47269 Duisburg",
+    "email": "privacy@belfor.com",
+    "sources": [
+        "https://www.belfor.com/de/de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/2157"
+    ],
+    "quality": "verified"
+}
