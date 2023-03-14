@@ -14,7 +14,8 @@
     "web": "https://www.schwaebisch-hall.de",
     "sources": [
         "https://www.schwaebisch-hall.de/sicherheit-und-datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/1555"
+        "https://github.com/datenanfragen/data/pull/1555",
+        "https://github.com/datenanfragen/data/pull/2156"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
