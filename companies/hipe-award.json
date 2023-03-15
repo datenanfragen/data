@@ -1,0 +1,14 @@
+{
+    "slug": "hipe-award",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "HIPE AWARD",
+    "address": "Theresienstraße 1\n80333 München",
+    "email": "nominierung@hipeaward.com",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2160"
+    ]
+}
