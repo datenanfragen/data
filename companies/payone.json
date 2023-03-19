@@ -1,30 +1,16 @@
 {
     "slug": "payone",
     "relevant-countries": [
-        "de"
-    ],
-    "categories": [
-        "finance"
+        "all"
     ],
     "name": "PAYONE GmbH",
-    "runs": [
-        "BS Payone GmbH (ehem.)",
-        "B+S Card Service GmbH (ehem.)"
-    ],
     "address": "Lyoner Straße 9\n60528 Frankfurt am Main\nDeutschland",
     "phone": "+49 69 663050",
     "email": "privacy@payone.com",
     "web": "https://www.payone.com",
-    "sources": [
-        "https://www.payone.com/impressum/",
-        "https://www.payone.com/datenschutz/",
-        "https://www.payone.com/dsgvo/",
-        "https://www.payone.com/ueber-uns/ueber-uns-payone/",
-        "https://www.payone.com/dsgvo-haendler/",
-        "https://investors.worldline.com/content/investors-worldline-com/en/home/governance.html",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=550849&land_abk=he",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=654520&land_abk=he"
-    ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2161"
+    ]
 }
