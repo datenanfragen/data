@@ -1,0 +1,20 @@
+{
+    "slug": "branchen-adressen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Branchen-Adressen",
+    "address": "An der Pönt 46\n40885 Ratingen",
+    "phone": "02102/8917073",
+    "email": "vertrieb@adresskontor.de",
+    "web": "https://www.branchen-adressen.com/",
+    "sources": [
+        "https://www.branchen-adressen.com/",
+        "https://github.com/datenanfragen/data/pull/2169"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
