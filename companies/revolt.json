@@ -1,0 +1,13 @@
+{
+    "slug": "revolt",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Revolt.chat",
+    "web": "https://revolt.chat",
+    "sources": [
+        "https://revolt.chat/privacy",
+        "https://github.com/datenanfragen/data/pull/2170"
+    ],
+    "quality": "verified"
+}
