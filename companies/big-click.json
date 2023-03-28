@@ -1,0 +1,20 @@
+{
+    "slug": "big-click",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "BigClick GmbH & Co.KG",
+    "runs": [
+        "alltagz.de"
+    ],
+    "address": "Marktstraße 23/25\n99084 Erfurt",
+    "email": "datenschutz@big-click.com",
+    "web": "https://big-click.com",
+    "sources": [
+        "https://big-click.com/#kontakt",
+        "https://www.alltagz.de/content/datenschutz.html",
+        "https://www.alltagz.de/info/impressum.html",
+        "https://github.com/datenanfragen/data/pull/2171"
+    ],
+    "quality": "verified"
+}
