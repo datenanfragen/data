@@ -1,0 +1,19 @@
+{
+    "slug": "openai",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "OpenAI LP",
+    "address": "3180 18th St, San Francisco, CA 94110, United States of America",
+    "web": "https://openai.com/",
+    "sources": [
+        "https://www.aidirectory.org/openai/",
+        "https://craft.co/openai/locations",
+        "https://goo.gl/maps/pXr18u6SiBdUHVyy6",
+        "https://github.com/datenanfragen/data/pull/2175"
+    ],
+    "quality": "verified"
+}
