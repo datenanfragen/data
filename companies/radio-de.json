@@ -1,19 +1,29 @@
 {
     "slug": "radio-de",
     "relevant-countries": [
-        "de"
+        "de",
+        "fr",
+        "at"
     ],
     "categories": [
         "entertainment"
     ],
     "name": "radio.de GmbH",
+    "runs": [
+        "radio.net",
+        "radiome.de",
+        "radiome.at",
+        "radiome.fr",
+        "ua.radiome.com"
+    ],
     "address": "c/o MADSACK Mediengruppe\nAugust-Madsack-Straße 1\n30559 Hannover\nDeutschland",
     "phone": "+49 40 570065150",
     "email": "datenschutz@madsack.de",
     "web": "https://www.radio.de",
     "sources": [
         "https://www.radio.de/privacy-policy",
-        "https://github.com/datenanfragen/data/pull/1749"
+        "https://github.com/datenanfragen/data/pull/1749",
+        "https://github.com/datenanfragen/data/pull/2181"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
