@@ -1,0 +1,12 @@
+{
+    "slug": "maksym-belekanych",
+    "relevant-countries": [
+        "be"
+    ],
+    "name": "Maksym belekanych",
+    "address": "Iban :",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2182"
+    ]
+}
