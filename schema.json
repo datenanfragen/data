@@ -170,7 +170,7 @@
             "type": "string",
             "title": "Suggested transport medium",
             "description": "The transport medium a user should use for their privacy-related inquiries and requests. If a specific privacy@[domain.tld] email address is available, 'email' should be specified. If no value is specified, the default is 'email' if the record has an email address specified or 'letter' otherwise.",
-            "enum": [ "fax", "letter", "email" ]
+            "enum": [ "fax", "letter", "email", "webform" ]
         },
         "comments": {
             "type": "array",
