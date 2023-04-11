@@ -1,0 +1,21 @@
+{
+    "slug": "spotahome",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "SPOTAHOME Germany GmbH",
+    "address": "Friedrichstraße 171\n10117 Berlin\nDeutschland \n\nund \n\nSpotahome, S.L.U. Calle de Piamonte, 23, 28004, Madrid",
+    "email": "impressum@spotahome.com",
+    "web": "https://www.spotahome.com/company-details",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Sammelt persönliche Daten von Mietern und Vermietern."
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2186"
+    ]
+}
