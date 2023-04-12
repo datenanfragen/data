@@ -20,11 +20,13 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Email",
-            "type": "email"
+            "type": "email",
+            "optional": false
         }
     ],
     "quality": "verified"
