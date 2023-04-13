@@ -1,0 +1,25 @@
+{
+    "slug": "audibank",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Audi Financial Services",
+    "runs": [
+        "Audi Bank"
+    ],
+    "address": "Zweigniederlassung der Volkswagen Bank GmbH\nGifhorner Straße 57\n38112 Braunschweig",
+    "web": "https://www.audibank.de",
+    "sources": [
+        "https://www.audibank.de/impressum.html",
+        "https://www.audibank.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/2188"
+    ],
+    "comments": [
+        "Um vom Widerspruchsrecht Gebrauch zu machen, genügt eine E-Mail an widerspruch@audibank.de.",
+        "Darüber hinausgehender Kontakt zum Datenschutzbeauftragten: dsb@audibank.de"
+    ],
+    "quality": "verified"
+}
