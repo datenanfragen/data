@@ -12,14 +12,14 @@
     "email": "contact@bere.al",
     "web": "https://bere.al/",
     "sources": [
-        "https://bere.al/en/privacy"
+        "https://bere.al/en/privacy",
+        "https://github.com/datenanfragen/data/pull/2193"
     ],
     "required-elements": [
         {
             "desc": "username",
-            "type": "name",
-            "optional": false
+            "type": "name"
         }
     ],
-    "quality": "tested"
+    "quality": "verified"
 }
