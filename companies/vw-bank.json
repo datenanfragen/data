@@ -9,15 +9,16 @@
     ],
     "name": "Volkswagen Financial Services AG",
     "runs": [
+        "EURO-Leasing GmbH",
+        "LogPay Transport Services GmbH",
+        "Vehicle Trading International (VTI) GmbH",
+        "Volkswagen Autoversicherung AG",
         "Volkswagen Bank GmbH",
+        "Volkswagen Financial Services Digital Solutions GmbH",
+        "Volkswagen Insurance Brokers GmbH",
         "Volkswagen Leasing GmbH",
         "Volkswagen Versicherung AG",
-        "Volkswagen Versicherungsdienst GmbH",
-        "Volkswagen Financial Services Digital Solutions GmbH",
-        "EURO-Leasing GmbH",
-        "Vehicle Trading International (VTI) GmbH",
-        "LogPay Transport Services GmbH",
-        "Volkswagen Insurance Brokers GmbH"
+        "Volkswagen Versicherungsdienst GmbH"
     ],
     "address": "Gifhorner Straße 57\n38112 Braunschweig\nDeutschland",
     "phone": "+49 531 21202",
@@ -27,11 +28,12 @@
     "sources": [
         "https://www.vwfs.de/service/rechtliches/datenschutz.html",
         "https://www.volkswagenbank.de/de/privatkunden/kundenservice/hilfe/fragen_Antworten/allgemeines/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/2190"
+        "https://github.com/datenanfragen/data/pull/2190",
+        "https://github.com/datenanfragen/data/pull/2197"
     ],
+    "suggested-transport-medium": "email",
     "comments": [
         "Für Audi Financial Services siehe separaten Eintrag \"Audi Financial Services\"."
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
