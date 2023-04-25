@@ -1,0 +1,11 @@
+{
+    "slug": "exotargets",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "eXotargets",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2203"
+    ]
+}
