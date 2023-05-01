@@ -8,15 +8,16 @@
     ],
     "name": "Fivestar Marketing EOOD",
     "runs": [
-        "Fivestar OMS (fivestar-oms.net)"
+        "Fivestars-Marketing.de - Echte Bewertungen kaufen"
     ],
     "address": "Panoniya Straße 3\n3700 Vidin\nBulgaria",
-    "email": "info@fivestar-marketing.net",
-    "web": "https://fivestar-marketing.net/",
+    "email": "info@fivestars-marketing.de",
+    "webform": "https://fivestars-marketing.de/kontakt/",
+    "web": "https://fivestars-marketing.de/",
     "sources": [
-        "https://github.com/datenanfragen/data/issues/563",
-        "https://fivestar-marketing.net/datenschutz/",
-        "https://fivestar-oms.net/info.php?site=privacy&lang=de"
+        "https://fivestars-marketing.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2206"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
