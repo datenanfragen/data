@@ -7,12 +7,13 @@
         "commerce"
     ],
     "name": "Unstoppable Domains Inc.",
-    "address": "8465 W Sahara Ave Ste 111\n#1017\nLas Vegas\nNV 89117",
+    "address": "8465 W Sahara Ave Ste 111, #1017\nLas Vegas\nNV 89117\nUnited States of America",
     "email": "privacy@unstoppabledomains.com",
     "web": "https://unstoppabledomains.com/",
     "sources": [
         "https://unstoppabledomains.com/privacy-policy",
         "https://github.com/datenanfragen/data/pull/2205"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
