@@ -12,11 +12,13 @@
         "Kaufland mobil",
         "NORMA Connect",
         "EDEKA smart",
+        "Telekom Deutschland Multibrand GmbH",
         "Congstar"
     ],
     "address": "Friedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
     "phone": "+49 800 3304006",
     "email": "datenschutz@telekom.de",
+    "webform": "https://www.telekom.de/kontakt/e-mail-kontakt/unternehmen/datenschutz",
     "web": "https://www.telekom.de",
     "sources": [
         "https://www.telekom.de/ueber-das-unternehmen/datenschutz",
@@ -31,8 +33,5 @@
         "https://github.com/datenanfragen/data/pull/2046"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Webformular für Anfragen: https://www.telekom.de/kontakt/e-mail-kontakt/unternehmen/datenschutz?fs_id=44804d6b-2215-4cf4-ae13-35514048a989#299370"
-    ],
     "quality": "verified"
 }
