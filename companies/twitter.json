@@ -15,7 +15,7 @@
     "address": "One Cumberland Place\nFenian Street\nDublin 2\nD02 AX07\nIreland",
     "phone": "+1 415 222 9670",
     "fax": "+1 415 222 9958",
-    "email": "DPO@twitter.com",
+    "webform": "https://help.twitter.com/de/forms/privacy",
     "web": "https://twitter.com",
     "sources": [
         "https://twitter.com/en/privacy",
@@ -26,9 +26,8 @@
         "https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp",
         "https://github.com/datenanfragen/data/pull/2073"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "comments": [
-        "Contact form for privacy-related questions: https://help.twitter.com/forms/privacy",
         "Contact form for messages to the data protection officer: https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp"
     ],
     "quality": "verified"
