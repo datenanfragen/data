@@ -12,8 +12,7 @@
         "Kaufland mobil",
         "NORMA Connect",
         "EDEKA smart",
-        "Telekom Deutschland Multibrand GmbH",
-        "Congstar"
+        "Telekom Deutschland Multibrand GmbH"
     ],
     "address": "Friedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
     "phone": "+49 800 3304006",
@@ -29,7 +28,6 @@
         "https://norma-be.spreadspace.de/sites/default/files/2022-05/NORMAConnect_AllgDatenschutzhinweis_1.pdf",
         "https://www.edeka-smart.de/file/286/e241b501/EDEKAsmart_AllgDatenschutzhinweis_20180523.pdf",
         "https://github.com/datenanfragen/data/pull/1675",
-        "https://www.congstar.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2046"
     ],
     "suggested-transport-medium": "email",
