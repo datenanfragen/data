@@ -13,7 +13,7 @@
         "Momox Fashion (www.momoxfashion.com/)"
     ],
     "address": "c/o PROLIANCE GmbH\nLeopoldstr. 21\n80802 München\nDeutschland",
-    "phone": "+49 30 488288100",
+    "phone": "+49 30 488 288 100",
     "email": "datenschutzbeauftragter@datenschutzexperte.de",
     "web": "https://www.momox.de",
     "sources": [
@@ -21,6 +21,7 @@
         "https://www.momox.de/datenschutz/",
         "https://www.medimops.de/Impressum/",
         "https://www.medimops.de/Datenschutz/",
+        "https://www.momoxfashion.com/de/datenschutz",
         "https://github.com/datenanfragen/data/pull/2063"
     ],
     "required-elements": [
