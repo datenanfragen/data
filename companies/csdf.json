@@ -1,0 +1,13 @@
+{
+    "slug": "csdf",
+    "relevant-countries": [
+        "be"
+    ],
+    "name": "csdf",
+    "address": "sfwerewew",
+    "sources": [
+        "https://example.com",
+        "https://github.com/datenanfragen/data/pull/2207"
+    ],
+    "quality": "verified"
+}
