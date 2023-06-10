@@ -1,5 +1,5 @@
 {
-    "slug": "hygi",
+    "slug": "hygi-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,14 +7,15 @@
         "commerce"
     ],
     "name": "hygi.de GmbH & Co. KG",
-    "address": "hygi.de GmbH & Co. KG\nOtto-Diehls-Straße 13 – 17\nD-48291 Telgte\n\nPostanschrift:\nhygi.de GmbH & Co. KG\nPostfach 155\nD-48283 Telgte",
-    "phone": "+49 2504 7313222",
+    "address": "c/o exkulpa gmbh\nWaldfeuchter Str. 266\n52525 Heinsberg\nDeutschland",
+    "phone": "+49 2452 993311",
     "fax": "+49 2504 7313444",
-    "email": "info@hygi.de",
+    "email": "datenschutz@hygi.de",
     "web": "https://www.hygi.de",
     "sources": [
         "https://www.hygi.de/impressum",
         "https://github.com/datenanfragen/data/pull/2159"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
