@@ -1,0 +1,11 @@
+{
+    "slug": "is-suggest-fixed",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "is suggest fixed?",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2208"
+    ]
+}
