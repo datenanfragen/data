@@ -31,13 +31,11 @@
         "AppMetrica"
     ],
     "address": "Moreenikatu 6\n04600 Mantsala\nFinland",
+    "webform": "https://yandex.com/support/common/troubleshooting/other.html",
     "web": "https://yandex.com/",
     "sources": [
         "https://yandex.com/legal/confidential/?lang=en",
         "https://yandex.com/dev/appmetrica/index/"
-    ],
-    "comments": [
-        "Contact form: https://yandex.com/support/common/troubleshooting/other.html"
     ],
     "quality": "verified"
 }

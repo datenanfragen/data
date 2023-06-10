@@ -7,9 +7,10 @@
     "address": "Städtle 38\nPostfach 684\n9490 Vaduz\nLiechtenstein",
     "phone": "+423 236 60 90",
     "email": "info.dss@llv.li",
-    "web": "https://www.llv.li/#/1758/datenschutzstelle",
+    "webform": "http://formulare.llv.li/formserver_DSS/start.do?generalid=DSS_BF",
+    "web": "https://www.datenschutzstelle.li/",
     "sources": [
-        "https://www.llv.li/#/3482/"
+        "https://www.datenschutzstelle.li/impressum"
     ],
     "complaint-language": "de"
 }

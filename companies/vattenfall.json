@@ -22,8 +22,13 @@
     "web": "https://www.vattenfall.de/",
     "sources": [
         "https://www.vattenfall.de/datenschutz",
-        "https://www.vattenfall.de/kundenservice-kontakt"
+        "https://www.vattenfall.de/kundenservice-kontakt",
+        "https://www.vattenfall.de/datenschutz#4d70ee24-dca1-467b-bdbe-44ff66956d88_0_0",
+        "https://github.com/datenanfragen/data/pull/2118"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "E-Mail-Adresse für Werbewidersprüche: werbewiderspruch@vattenfall.de"
+    ],
     "quality": "verified"
 }

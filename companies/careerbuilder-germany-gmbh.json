@@ -11,6 +11,7 @@
     "address": "Hanns-Schwindt-Str. 8\n81829 München\nDeutschland",
     "phone": "+49 800 62824464",
     "email": "datenschutzbeauftragter@datenschutzexperte.de",
+    "webform": "https://app.onetrust.com/app/#/webform/21a80464-b277-4e6b-8a3c-92d912abf24b",
     "web": "https://www.jobs.de/",
     "sources": [
         "https://www.jobs.de/s/datenschutz",
@@ -19,8 +20,5 @@
         "https://github.com/datenanfragen/data/pull/1699"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Es gibt ein Webformular für Anfragen: https://app.onetrust.com/app/#/webform/21a80464-b277-4e6b-8a3c-92d912abf24b"
-    ],
     "quality": "verified"
 }

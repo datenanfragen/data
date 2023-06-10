@@ -12,13 +12,13 @@
     ],
     "address": "Wilton Plaza\nWilton Place, Dublin 2\nIreland",
     "web": "https://www.linkedin.com",
+    "webform": "https://www.linkedin.com/help/linkedin/ask/ppq",
     "sources": [
         "https://www.linkedin.com/legal/privacy-policy",
         "https://www.linkedin.com/help/linkedin/answer/79728",
         "https://github.com/datenanfragen/data/pull/1779"
     ],
     "comments": [
-        "Web form for requests: https://www.linkedin.com/help/linkedin/ask/ppq",
         "How to download your data directly through the LinkedIn website: https://www.linkedin.com/help/linkedin/answer/50191"
     ],
     "quality": "verified"
