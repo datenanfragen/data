@@ -4,12 +4,14 @@
         "at"
     ],
     "name": "Österreichische Datenschutzbehörde",
-    "address": "Wickenburggasse 8\n1080 Wien\nÖsterreich",
+    "address": "Barichgasse 40-42\n1030 Wien\nÖsterreich",
     "phone": "+43 1 52 152 0",
     "email": "dsb@dsb.gv.at",
+    "webform": "https://www.formularservice.gv.at/site/fsrv/user/formular.aspx?pid=5a37966ab26c4489adc20dc53162fa4d&pn=Bf10e1134f601464e9b3835170de668bd",
     "web": "https://www.dsb.gv.at/",
     "sources": [
-        "https://www.dsb.gv.at/kontakt"
+        "https://www.dsb.gv.at/kontakt",
+        "https://www.dsb.gv.at/Eingabeformular-online/Eingabeformular-online.html"
     ],
     "complaint-language": "de"
 }

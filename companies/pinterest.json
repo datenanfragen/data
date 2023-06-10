@@ -13,6 +13,7 @@
     ],
     "address": "Palmerston House\n2nd Floor\nFenian Street\nDublin 2\nIreland",
     "email": "privacy-support@pinterest.com",
+    "webform": "https://help.pinterest.com/en/contact",
     "web": "https://www.pinterest.com/",
     "sources": [
         "https://policy.pinterest.com/en/privacy-policy",
@@ -30,9 +31,6 @@
             "type": "email",
             "optional": false
         }
-    ],
-    "comments": [
-        "Contact form: https://help.pinterest.com/en/contact"
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",

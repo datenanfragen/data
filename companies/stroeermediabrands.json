@@ -16,6 +16,7 @@
     ],
     "address": "Torstraße 49\n10119 Berlin\nDeutschland",
     "email": "smb-datenschutzbeauftragter@stroeer.de",
+    "webform": "https://stroeer-requests.my.onetrust.com/webform/5223f5cf-ed85-4b3d-a37c-2f49312cbd78/75d35c00-ce1c-4768-ac88-e1c81018f05d",
     "web": "https://www.stroeermediabrands.de",
     "sources": [
         "https://www.stroeermediabrands.de/impressum",
@@ -27,8 +28,5 @@
         "https://github.com/datenanfragen/data/pull/1924"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Es gibt ein Webformular: https://stroeer-requests.my.onetrust.com/webform/5223f5cf-ed85-4b3d-a37c-2f49312cbd78/75d35c00-ce1c-4768-ac88-e1c81018f05d"
-    ],
     "quality": "verified"
 }
