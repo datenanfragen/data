@@ -1,4 +1,4 @@
-Stimate domn/Stimată doamnă:
+În atenția dumneavoastră:
 
 Solicit accesul pe această cale în concordanță cu Articolul 15 din RGPD. Vă rog să-mi confirmați dacă procesați datele mele personale (în concordanță cu Art. 4(1) și (2) din RGPD).
 
@@ -22,6 +22,6 @@ Includ pe această cale următoarele informații utile la identificarea mea:
 {id_data}]
 În cazul în care cererea mea nu este soluționată în termenul specificat, dețin dreptul de a ataca pe cale legală și de a depune plângere la autoritatea competentă.
 
-Vă mulțumesc în avans.
+Vă mulțumesc anticipat.
 
 Cu stimă,
