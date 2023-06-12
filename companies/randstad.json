@@ -1,0 +1,25 @@
+{
+    "slug": "randstad",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Randstad Deutschland GmbH & Co. KG",
+    "runs": [
+        "Randstad Deutschland GmbH & Co. KG",
+        "Randstad Outsourcing GmbH",
+        "Randstad Automotive GmbH & Co. KG",
+        "GULP Information Services GmbH",
+        "GULP Consulting Services GmbH",
+        "GULP Solution Services GmbH & Co. KG",
+        "GULP Schweiz AG",
+        "Mühlenhoff & Partner GmbH (Risesmart)"
+    ],
+    "address": "Frankfurter Straße 100\n65760 Eschborn\nDeutschland",
+    "email": "mailto:datenschutz@randstad.de",
+    "web": "https://www.randstad.de",
+    "sources": [
+        "https://www.randstad.de/datenschutzbestimmungen/"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
