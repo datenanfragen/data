@@ -1,20 +1,21 @@
 {
     "slug": "peterhahn",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
     "name": "Peter Hahn GmbH",
     "address": "Peter-Hahn-Platz 1\n73650 Winterbach\nDeutschland",
-    "phone": "+49 800 7 444 555",
-    "fax": "+49 7181 708 720",
-    "email": "datenschutz@peterhahn.de",
+    "phone": "+49 800 7444555",
+    "fax": "+49 7181 708720",
+    "email": "service@peterhahn.de",
     "web": "https://www.peterhahn.de/",
     "sources": [
         "https://www.peterhahn.de/datenschutz",
-        "https://www.peterhahn.de/impressum"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.peterhahn.de/impressum",
+        "https://github.com/datenanfragen/data/pull/2216"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
