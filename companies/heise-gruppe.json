@@ -1,0 +1,15 @@
+{
+    "slug": "heise-gruppe",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Heise Gruppe GmbH & Co. KG",
+    "address": "Karl-Wiechert-Allee 10\n30625 Hannover\nDeutschland",
+    "email": "datenschutz.heise-gruppe@heise.de",
+    "web": "https://www.heise-gruppe.de",
+    "sources": [
+        "https://www.heise-gruppe.de/Datenschutzerklaerung-3248271.html",
+        "https://github.com/datenanfragen/data/pull/2218"
+    ],
+    "quality": "verified"
+}
