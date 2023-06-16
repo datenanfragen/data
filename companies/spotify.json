@@ -11,11 +11,12 @@
         "Spotify GmbH"
     ],
     "address": "Birger Jarlsgatan 61\n113 56 Stockholm\nSweden",
-    "fax": "+49 30 5770 2443",
+    "fax": "+49 30 57702443",
     "email": "privacy@spotify.com",
     "web": "https://www.spotify.com",
     "sources": [
-        "https://www.spotify.com/legal/privacy-policy/"
+        "https://www.spotify.com/legal/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2221"
     ],
     "required-elements": [
         {
@@ -29,7 +30,7 @@
     ],
     "suggested-transport-medium": "email",
     "comments": [
-        "Some data can also be downloaded directly through the Spotify web interface: https://www.spotify.com/account/privacy/#privacy-download"
+        "Some data can also be downloaded directly through the Spotify web interface: https://www.spotify.com/account/privacy/#privacy-download\n\nKundenservice des Anbieter antwortet kurzfristig bei Anfragen per Email."
     ],
     "quality": "verified"
 }
