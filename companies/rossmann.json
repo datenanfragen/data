@@ -19,8 +19,12 @@
     "sources": [
         "https://www.rossmann.de/de/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/pull/1583",
-        "https://www.rossmann.de/de/impressum"
+        "https://www.rossmann.de/de/impressum",
+        "https://github.com/datenanfragen/data/pull/2224"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "\"ROSSMANN Mobil\" siehe unter Eintrag \"Vodafone\"."
+    ],
     "quality": "verified"
 }
