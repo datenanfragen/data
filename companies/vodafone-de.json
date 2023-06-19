@@ -8,17 +8,18 @@
     ],
     "name": "Vodafone GmbH",
     "runs": [
-        "Vodafone Community",
         "Vodafone Apps",
+        "Vodafone Community",
+        "Vodafone Deutschland GmbH",
         "Vodafone Kabel Deutschland GmbH (ehem.)",
         "EDEKA mobil (www.edeka-mobil.de)",
+        "Lidl Connect Deutschland",
         "otelo (www.otelo.de)",
-        "Vodafone Deutschland GmbH",
+        "ROSSMANN mobil (rossmann-mobil.de)",
         "Unitymedia GmbH (ehem.)",
-        "Unitymedia NRW GmbH (ehem.)",
-        "Unitymedia Hessen GmbH & Co. KG (ehem.)",
         "Unitymedia BW GmbH (ehem.)",
-        "Lidl Connect Deutschland"
+        "Unitymedia Hessen GmbH & Co. KG (ehem.)",
+        "Unitymedia NRW GmbH (ehem.)"
     ],
     "address": "Ferdinand-Braun-Platz 1\n40549 Düsseldorf\nDeutschland",
     "phone": "+49 800 1721212",
@@ -40,7 +41,9 @@
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754700&land_abk=nw",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754124&land_abk=nw",
         "https://kundenkonto.lidl-connect.de/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/1816"
+        "https://github.com/datenanfragen/data/pull/1816",
+        "https://www.rossmann-mobil.de",
+        "https://github.com/datenanfragen/data/pull/2223"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
