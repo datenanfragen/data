@@ -1,0 +1,19 @@
+{
+    "slug": "big-direkt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health",
+        "insurance"
+    ],
+    "name": "BIG direkt gesund",
+    "address": "Rheinische Straße 1\n44137 Dortmund",
+    "email": "datenschutz@big-direkt.de",
+    "web": "https://www.big-direkt.de/",
+    "sources": [
+        "https://www.big-direkt.de/de/impressum",
+        "https://github.com/datenanfragen/data/pull/2232"
+    ],
+    "quality": "verified"
+}
