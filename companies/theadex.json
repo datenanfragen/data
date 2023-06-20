@@ -6,21 +6,23 @@
     "categories": [
         "ads"
     ],
-    "name": "The ADEX GmbH",
-    "address": "Torstrasse 19\n10119 Berlin\nDeutschland",
-    "phone": "+49 30 555 7313 0",
-    "fax": "+49 30 555 7313 99",
-    "email": "mail@theadex.com",
+    "name": "Virtual Minds GmbH",
+    "runs": [
+        "The ADEX"
+    ],
+    "address": "Ellen-Gottlieb-Straße 16\n79106 Freiburg im Breisgau\nDeutschland",
+    "phone": "+49 761 881470",
+    "email": "legal@theadex.com",
     "web": "https://www.theadex.com/",
     "sources": [
         "https://www.theadex.com/privacy-opt-out/",
-        "https://www.theadex.com/imprint/"
+        "https://www.theadex.com/imprint/",
+        "https://github.com/datenanfragen/data/pull/2230"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "User ID",
