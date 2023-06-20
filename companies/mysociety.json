@@ -1,0 +1,23 @@
+{
+    "slug": "mysociety",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "mySociety Limited",
+    "runs": [
+        "TheyWorkForYou",
+        "WriteToThem",
+        "FixMyStreet",
+        "WhatDoTheyKnow",
+        "TICTeC"
+    ],
+    "address": "℅ mySociety\n483 Green Lanes\nLONDON\nN13 4BS\nUNITED KINGDOM",
+    "email": "hello@mysociety.org",
+    "webform": "http://mysociety.org/contact/",
+    "web": "http://www.mysociety.org",
+    "suggested-transport-medium": "webform",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2225"
+    ]
+}
