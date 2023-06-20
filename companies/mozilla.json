@@ -9,14 +9,41 @@
     ],
     "name": "Mozilla Corporation",
     "runs": [
-        "Firefox"
+        "Firefox",
+        "Thunderbird",
+        "MZLA Technologies Corporation"
     ],
-    "address": "331 E. Evelyn Ave\nMountain View\nCA 94041\nUnited States of America",
+    "address": "2 Harrison St., # 175,\nSan Francisco\nCA 94105\nUnited States of America",
     "email": "compliance@mozilla.com",
+    "webform": "https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0",
     "web": "https://www.mozilla.org/en-US/",
     "sources": [
-        "https://www.mozilla.org/en-US/privacy/"
+        "https://www.mozilla.org/en-US/privacy/",
+        "https://www.mozilla.org/en-US/privacy#contact",
+        "https://github.com/datenanfragen/data/pull/2226"
     ],
-    "suggested-transport-medium": "email",
+    "required-elements": [
+        {
+            "desc": "First Name",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Last Name",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Request details",
+            "type": "textarea",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
