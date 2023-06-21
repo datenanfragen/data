@@ -27,16 +27,19 @@
         "https://www.experian.de/legal/impressum",
         "https://github.com/datenanfragen/data/issues/100",
         "https://github.com/datenanfragen/data/issues/637",
-        "https://github.com/datenanfragen/data/pull/2201"
+        "https://github.com/datenanfragen/data/pull/2201",
+        "https://github.com/datenanfragen/data/pull/2233"
     ],
     "required-elements": [
         {
-            "desc": "Name",
-            "type": "name"
+            "desc": "Name Adjei Yeboah",
+            "type": "name",
+            "optional": true
         },
         {
-            "desc": "Adresse",
-            "type": "address"
+            "desc": "Kleiberweg 3 8535ng6 Freisi",
+            "type": "textarea",
+            "optional": true
         },
         {
             "desc": "Vorherige Adresse",
@@ -44,10 +47,9 @@
             "optional": true
         }
     ],
-    "needs-id-document": false,
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "letter",
     "comments": [
-        "Erbitten Anschriften der letzten fünf Jahre für vollständigere Auskunft."
+        "Erbitten Anschriften der letzten drei Jahre für vollständigere Auskunft."
     ],
     "quality": "verified"
 }
