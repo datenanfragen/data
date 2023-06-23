@@ -1,0 +1,22 @@
+{
+    "slug": "trendtest",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "trend.test Gesellschaft für telefonische Datenerhebung mbH",
+    "address": "Kolonnenstr. 26\n10829 Berlin\nDeutschland",
+    "phone": "089996001850",
+    "email": "datenschutz@ipsos.de",
+    "web": "https://www.trendtest.de",
+    "sources": [
+        "https://www.trendtest.de/datenschutzerklaerung/",
+        "https://www.trendtest.de/project/wer-ist-trend-test/",
+        "https://www.trendtest.de/wir-haben-sie-angerufen/",
+        "https://github.com/datenanfragen/data/pull/2238"
+    ],
+    "comments": [
+        "Die Trend Test GmbH ist das Telefonstudio der Ipsos-Gruppe in Deutschland."
+    ],
+    "quality": "verified"
+}
