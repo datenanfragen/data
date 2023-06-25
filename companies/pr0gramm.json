@@ -1,0 +1,37 @@
+{
+    "slug": "pr0gramm",
+    "relevant-countries": [
+        "de",
+        "ch",
+        "at"
+    ],
+    "categories": [
+        "social media",
+        "entertainment"
+    ],
+    "name": "Interdimensionale Gesellschaft mbH",
+    "runs": [
+        "pr0gramm.com"
+    ],
+    "address": "Interdimensionale Gesellschaft mbH\nRathausstr. 4\nDE-64521 Groß-Gerau",
+    "email": "support@pr0gramm.com",
+    "web": "https://pr0gramm.com",
+    "sources": [
+        "https://pr0gramm.com/datasafety",
+        "https://github.com/datenanfragen/data/pull/2240"
+    ],
+    "required-elements": [
+        {
+            "desc": "Benutzername",
+            "type": "input",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail Adresse",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
