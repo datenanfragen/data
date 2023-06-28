@@ -1,0 +1,35 @@
+{
+    "slug": "booking",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Residencial del Mar",
+    "runs": [
+        "Maribel Anguas"
+    ],
+    "address": "La Playa, SM 64 Mz 11 Lt 1",
+    "phone": "+52 998 302 6255",
+    "fax": "+52 998 302 6254",
+    "email": "lahiaclahiac@gmail.com",
+    "webform": "http://www.booking.com/hotel/mx/residencial-del-mar-cancun.html?lang=en",
+    "web": "http://www.booking.com/hotel/mx/residencial-del-mar-cancun.html?lang=en",
+    "sources": [
+        "http://www.booking.com/hotel/mx/residencial-del-mar-cancun.html?lang=en",
+        "https://github.com/datenanfragen/data/pull/2241"
+    ],
+    "required-elements": [
+        {
+            "desc": "Hotel at Booking.com B. V.",
+            "type": "input",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "webform",
+    "comments": [
+        "Thanks."
+    ],
+    "quality": "verified"
+}
