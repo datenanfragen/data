@@ -11,11 +11,12 @@
         "Top.gg"
     ],
     "address": "Gooimeer 8\n1411DD Naarden\nThe Netherlands",
-    "email": "privacy@top.gg",
+    "email": "support@top.gg",
     "web": "https://www.top.gg/",
     "sources": [
         "https://top.gg/privacy",
-        "https://github.com/datenanfragen/data/pull/1983"
+        "https://github.com/datenanfragen/data/pull/1983",
+        "https://github.com/datenanfragen/data/pull/2249"
     ],
     "suggested-transport-medium": "email",
     "comments": [
