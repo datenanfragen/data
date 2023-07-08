@@ -1,0 +1,22 @@
+{
+    "slug": "vultr",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "The Constant Company, LLC",
+    "runs": [
+        "Vultr.com"
+    ],
+    "address": "The Constant Company, LLC,\n 319 Clematis Street Suite 900,\n West Palm Beach, \nFL 33401, USA",
+    "phone": "+55 349820192",
+    "email": "legal@vultr.com",
+    "webform": "https://www.vultr.com/company/contact/",
+    "web": "https://www.vultr.com/",
+    "sources": [
+        "https://www.vultr.com/legal/tos/",
+        "https://www.crunchbase.com/organization/vultr-holdings-llc",
+        "https://github.com/datenanfragen/data/pull/2251"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
