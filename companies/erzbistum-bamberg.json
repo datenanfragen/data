@@ -1,0 +1,30 @@
+{
+    "slug": "erzbistum-bamberg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "Erzbistum Bamberg",
+    "address": "Datenschutzbeauftragter für die bayerischen (Erz-)Diözesen\nKapellenstr. 4\n80333 München\nDeutschland",
+    "phone": "089 2137-1796",
+    "email": "JJoachimski@eomuc.de",
+    "web": "https://erzbistum-bamberg.de",
+    "sources": [
+        "https://erzbistum.erzbistum-bamberg.de/kontakt/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2252"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
