@@ -1,0 +1,15 @@
+{
+    "slug": "codesandbox-io",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "codesandbox.io",
+    "address": "Singel 542, 1017 AZ, \nAmsterdam,\n The Netherlands",
+    "phone": "+1 650 731 3185",
+    "email": "support@codesandbox.io",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2253"
+    ]
+}
