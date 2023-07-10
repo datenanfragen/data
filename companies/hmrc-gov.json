@@ -1,0 +1,23 @@
+{
+    "slug": "hmrc-gov",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "HM Revenue and Customs",
+    "address": "SARS/DPU\nBP8002\nBenton Park View\nNewcastle Upon Tyne\nNE98 1ZZ\nUnited Kingdom",
+    "email": "advice.dpa@hmrc.gov.uk",
+    "web": "https://www.hmrc.gov.uk",
+    "sources": [
+        "https://www.gov.uk/guidance/hmrc-subject-access-request",
+        "https://www.gov.uk/government/organisations/hm-revenue-customs/contact/couriers",
+        "https://github.com/datenanfragen/data/pull/2256"
+    ],
+    "suggested-transport-medium": "letter",
+    "comments": [
+        "Address is the one for HMRC central mail unit"
+    ],
+    "quality": "verified"
+}
