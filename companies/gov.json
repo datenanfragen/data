@@ -1,0 +1,25 @@
+{
+    "slug": "gov",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Ministry of Justice",
+    "runs": [
+        "HM Courts and Tribunals Service",
+        "HM Prison and Probation Service"
+    ],
+    "address": "Disclosure Team \nPost point 5.22 \n102 Petty France \nLondon \nSW1H 9AJ\nUnited Kingdom",
+    "email": "data.access@justice.gov.uk",
+    "webform": "https://request-personal-info.form.service.justice.gov.uk",
+    "web": "https://www.gov.uk/government/organisations/ministry-of-justice",
+    "sources": [
+        "https://www.gov.uk/government/organisations/ministry-of-justice/about/personal-information-charter",
+        "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/personal-information-charter#requests-for-personal-information",
+        "https://github.com/datenanfragen/data/pull/2254"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
