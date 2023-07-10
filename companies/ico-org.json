@@ -1,0 +1,22 @@
+{
+    "slug": "ico-org",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Information Commissioner's Office",
+    "address": "Information Access Team\nWycliffe House\nWater Lane\nWilmslow\nSK9 5AF\nUnited Kingdom",
+    "phone": "+44 303 123 1113",
+    "email": "accessICOinformation@ico.org.uk",
+    "webform": "https://ico.org.uk/about-the-ico/information-access-team-form/",
+    "web": "https://www.ico.org.uk/",
+    "sources": [
+        "https://ico.org.uk/about-the-ico/our-information/request-information-from-us/",
+        "https://ico.org.uk/global/privacy-notice/controller-s-contact-details/",
+        "https://github.com/datenanfragen/data/pull/2258"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
