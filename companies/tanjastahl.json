@@ -1,0 +1,31 @@
+{
+    "slug": "tanjastahl",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Psychotherapeutische Praxis Für Kinder, Jugendliche und Heranwachsende Tanja Stahl, M.A.",
+    "address": "Voltastraße 1\n90459 Nürnberg\nDeutschland",
+    "phone": "+49 911 91943109",
+    "fax": "+49 911 91943108",
+    "email": "info@tanjastahl.de",
+    "web": "https://www.tanjastahl.de",
+    "sources": [
+        "https://www.tanjastahl.de/datenschutzerklaerungpraxis.html",
+        "https://github.com/datenanfragen/data/pull/2265"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
