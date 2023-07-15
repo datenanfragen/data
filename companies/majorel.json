@@ -1,0 +1,27 @@
+{
+    "slug": "majorel",
+    "relevant-countries": [
+        "de",
+        "es",
+        "fr",
+        "pl"
+    ],
+    "categories": [
+        "commerce",
+        "addresses"
+    ],
+    "name": "Majorel",
+    "address": "Majorel Group Luxembourg S.A.\n18, boulevard de Kockelscheuer\nL-1821 Luxembourg",
+    "phone": "+49 5241 5275010",
+    "email": "datenschutz.gee@majorel.com",
+    "web": "https://www.majorel.com/",
+    "sources": [
+        "https://de.majorel.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2269"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Ursache für dieses Datenleck: https://www.spiegel.de/netzwelt/web/banken-krankenversicherungen-und-mehr-ein-sommer-voller-datenlecks-a-71d1f112-b46b-46c9-8e84-3cf7f281d9d5\nhttps://www.heise.de/news/Datenleck-bei-Banken-Hackerangriff-betrifft-auch-ING-und-Comdirect-9213465.html"
+    ],
+    "quality": "verified"
+}
