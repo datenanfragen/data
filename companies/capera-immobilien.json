@@ -1,0 +1,20 @@
+{
+    "slug": "capera-immobilien",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "CAPERA Immobilien Service GmbH",
+    "address": "Dornhofstraße 100\n63263 Neu-Isenburg\nc/o Datenschutzbeauftragter\nSchülerstraße 40\n07545 Gera",
+    "phone": "+49 365 55214344",
+    "email": "datenschutz@capera-immoblien.de",
+    "web": "https://www.capera-immobilien.de",
+    "sources": [
+        "https://www.capera-immobilien.de",
+        "https://github.com/datenanfragen/data/pull/2271"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Wohnen, Immobilien"
+    ],
+    "quality": "verified"
+}
