@@ -1,0 +1,20 @@
+{
+    "slug": "freundlich-wohnen",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "WOGE Wohnungsgesellschaft Saarland mbH",
+    "address": "Balthasar-Goldstein-Straße 31\n66131 Saarbrücken",
+    "phone": "+49 681 9899600",
+    "email": "datenschutz@woge-saar.de",
+    "web": "https://www.freundlich-wohnen.de",
+    "sources": [
+        "www.freundlich-wohnen.de",
+        "https://github.com/datenanfragen/data/pull/2272"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Wohnen, Immobilien"
+    ],
+    "quality": "verified"
+}
