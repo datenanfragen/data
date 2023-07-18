@@ -1,7 +1,8 @@
 {
     "slug": "match-group",
     "relevant-countries": [
-        "all"
+        "all",
+        "gb"
     ],
     "categories": [
         "social media"
@@ -10,7 +11,7 @@
     "runs": [
         "Tinder (tinder.com)",
         "Plenty of Fish (pof.com)",
-        "Hinge (hinge.co)",
+        "Hinge (hinge",
         "Hawaya (hawaya.com)",
         "Match Group, LLC",
         "MG Japan Services GK",
@@ -19,14 +20,18 @@
         "Harmonica IT, Inc."
     ],
     "address": "WeWork Charlemont Exchange\n42 Charlemont Street\nDublin 2, D02 R593\nIreland",
+    "phone": "+255 623 ext. 234437",
+    "email": "Msemonakio@gmail.com",
     "web": "http://mtch.com",
     "sources": [
         "https://policies.tinder.com/privacy/intl/en",
         "https://hinge.co/privacy",
         "https://www.hawaya.com/privacy-policy",
         "https://www.pof.com/privacypolicy",
-        "https://github.com/datenanfragen/data/pull/1977"
+        "https://github.com/datenanfragen/data/pull/1977",
+        "https://github.com/datenanfragen/data/pull/2270"
     ],
     "request-language": "en",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
