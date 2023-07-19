@@ -1,0 +1,15 @@
+{
+    "slug": "hochschulinitiative-deutschland",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Hochschulinitiative Deutschland",
+    "address": "Uniwunder GmbH\nBergstraße 29\n01069 Dresden\nDeutschland",
+    "email": "info@uniwunder.com",
+    "web": "https://hochschulinitiative-deutschland.de/",
+    "sources": [
+        "https://hochschulinitiative-deutschland.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2275"
+    ],
+    "quality": "verified"
+}
