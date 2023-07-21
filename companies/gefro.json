@@ -1,0 +1,37 @@
+{
+    "slug": "gefro",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "GEFRO GmbH & Co. KG",
+    "address": "Rudolf-Diesel-Straße 21\nD-87700 Memmingen/Allgäu",
+    "phone": "08331/95950",
+    "fax": "08331/9595-17",
+    "email": "datenschutz@gefro.de",
+    "web": "https://gefro.de",
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": true
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": true
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2278"
+    ]
+}
