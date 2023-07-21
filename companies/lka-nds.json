@@ -8,30 +8,28 @@
     ],
     "name": "Landeskriminalamt Niedersachsen",
     "address": "Am Waterlooplatz 11\n30169 Hannover\nDeutschland",
-    "phone": "+49 511 262620",
-    "fax": "+49 511 262622115",
+    "phone": "+49 511 98730",
+    "fax": "+49 511 98732115",
     "email": "dsb@lka.polizei.niedersachsen.de",
     "web": "https://www.lka.polizei-nds.de",
     "sources": [
         "https://www.lka.polizei-nds.de/wir_ueber_uns/datenschutzerklaerung-113019.html",
         "https://www.lka.polizei-nds.de/wir_ueber_uns/impressum-22.html",
-        "https://www.lka.polizei-nds.de/wir_ueber_uns/kontakt-landeskriminalamt-niedersachsen-13.html"
+        "https://www.lka.polizei-nds.de/wir_ueber_uns/kontakt-landeskriminalamt-niedersachsen-13.html",
+        "https://github.com/datenanfragen/data/pull/2277"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Geburtsdatum",
-            "type": "birthdate",
-            "optional": false
+            "type": "birthdate"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         },
         {
             "desc": "Geburtsort",
