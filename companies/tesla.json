@@ -1,0 +1,11 @@
+{
+    "slug": "tesla",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "tesla",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2279"
+    ]
+}
