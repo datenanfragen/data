@@ -7,13 +7,18 @@
         "finance"
     ],
     "name": "Tomorrow GmbH",
-    "address": "c/o secjur GmbH\nFranz-Mayer-Straße 1\n93053 Regensburg\nDeutschland",
-    "phone": "+49 941 56955020",
+    "address": "Niklas Hanitsch\r\nc/o secjur GmbH\r\nSteinhöft 9\r\n20459 Hamburg\nDeutschland",
+    "phone": "+49 40 228599520",
     "email": "dsb@secjur.com",
     "web": "https://www.tomorrow.one/",
     "sources": [
-        "https://www.tomorrow.one/de-DE/datenschutzerklaerung/"
+        "https://assets.tomorrow.one/de-DE/legal/datenschutzerklaerung/tomorrow-datenschutzerklaerung.pdf",
+        "https://assets.tomorrow.one/de-DE/legal/app-datenschutzerklaerung/tomorrow-app-datenschutzerklaerung.pdf",
+        "https://github.com/datenanfragen/data/pull/2280"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Externer Datenschutzbeauftragter laut Datenschutzerklärung."
+    ],
     "quality": "verified"
 }
