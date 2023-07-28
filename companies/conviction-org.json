@@ -7,14 +7,16 @@
         "nonprofit"
     ],
     "name": "Conviction",
-    "address": "PO Box 428\nManchester\nM8 2FS\nUnited Kingdom",
-    "phone": "+44 161 528 9071",
-    "email": "data.protection@conviction.org.uk",
+    "address": "Po Box 428\n365 Waterloo Road\nCheetham\nManchester\nM8 2FS",
+    "phone": "+44 161 552 1954",
+    "email": "dpo@conviction.org.uk",
+    "webform": "https://www.conviction.org.uk/privacy-notice",
     "web": "https://www.conviction.org.uk",
     "sources": [
-        "https://www.conviction.org.uk/privacy-notice/",
-        "https://github.com/datenanfragen/data/pull/1825"
+        "https://www.conviction.org.uk/privacy-notice",
+        "https://github.com/datenanfragen/data/pull/1825",
+        "https://github.com/datenanfragen/data/pull/2287"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
