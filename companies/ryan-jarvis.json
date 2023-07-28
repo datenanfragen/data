@@ -1,0 +1,19 @@
+{
+    "slug": "ryan-jarvis",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "Ryan Jarvis",
+    "runs": [
+        "Ryan Jarvis Law"
+    ],
+    "address": "Po Box 428\n365 Waterloo Road\nCheetham\nManchester\nM8 2FS",
+    "phone": "+44 161 528 9071",
+    "email": "ryan.jarvis@ryanjarvis.law",
+    "sources": [
+        "https://ico.org.uk/ESDWebPages/Entry/ZB338223",
+        "https://github.com/datenanfragen/data/pull/2288"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
