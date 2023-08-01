@@ -1,0 +1,23 @@
+{
+    "slug": "crunchyroll",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Crunchyroll LLC",
+    "runs": [
+        "Crunchyroll",
+        "Crunchyroll Games"
+    ],
+    "address": "340 Brannan Street\nSuite 100\nSan Francisco, CA 94107\nUSA",
+    "webform": "https://privacyportal.onetrust.com/webform/d19e506f-1a64-463d-94e4-914dd635817d/35fb5149-8905-48f3-9cbf-8b651c427d0e",
+    "web": "https://www.crunchyroll.com/de",
+    "sources": [
+        "https://intl.sonypictures.com/de/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2293"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
