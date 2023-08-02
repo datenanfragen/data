@@ -1,0 +1,19 @@
+{
+    "slug": "nispa",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Niederrheinische Sparkasse RheinLippe - NISPA",
+    "address": "Bismarckstraße 1\n46483 Wesel\nDeutschland",
+    "phone": "0281 205-1",
+    "fax": "0281 205-353",
+    "email": "datenschutz@nispa.de",
+    "web": "https://www.nispa.de/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2295"
+    ]
+}
