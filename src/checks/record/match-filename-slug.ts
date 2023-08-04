@@ -7,8 +7,8 @@ const check: Check = {
     url: 'https://github.com/datenanfragen/data/#data-formats',
     severity: 'ERROR',
     run: (json, ctx) => {
-        const filename = basename(ctx.file_path);
-        if (json.slug + '.json' !== filename)
+        const filename = basename(ctx.file_path, '.json'); 
+        if (json.slug !== filename)
             return {
                 message: `Filename \`${filename}\` does not match slug \`${json.slug}\`.
 

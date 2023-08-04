@@ -37,7 +37,7 @@ const validate = async (dir: string) => {
     const check_results: RdjsonLine[] = [];
 
     const linters = await _linters();
-    const files = glob.sync(`${dir}/*.json`);
+    const files = glob.sync(`${dir}/*`);
 
     for (const f of files) {
         const file_content = fs.readFileSync(f).toString();
