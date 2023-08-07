@@ -1,0 +1,26 @@
+{
+    "slug": "american-express-europe-s-a-germany-branch",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "American Express Europe S.A. (Germany branch)",
+    "address": "Datenschutzbeauftragter, Theodor-Heuss-Allee 112, 60486 Frankfurt a.M",
+    "email": "DPO-Europe@aexp.com",
+    "webform": "https://iforms.americanexpress.com/iFormsSecure/un/iforms.do?cuid=gdprpref_de_DE&evtsrc=link&evttype=0",
+    "sources": [
+        "https://www.americanexpress.com/de-de/firma/legal/datenschutz-center/online-datenschutzerklarung/",
+        "https://www.americanexpress.com/de-de/firma/legal/datenschutz-center/",
+        "https://www.americanexpress.com/de/legal/datenschutzrichtlinien.html",
+        "https://www.americanexpress.com/de-de/firma/legal/datenschutz-center/?inav=de_legalfooter_privacycenter",
+        "https://github.com/datenanfragen/data/pull/2301"
+    ],
+    "required-elements": [
+        {
+            "desc": "Kreditkartennummer",
+            "type": "input",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
