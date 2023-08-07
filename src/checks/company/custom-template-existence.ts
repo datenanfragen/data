@@ -15,23 +15,25 @@ const check: CompanyCheck = {
             ] as const
         ).map((prop) => {
             const template = json[prop];
-            if (template) {
-                if (json['request-language']) {
-                    if (!ctx.existingTemplatesPerLanguage[json['request-language']].includes(template))
-                        return {
-                            message: `Record specifies \`${prop}\` of \`${template}\` but that isn't available for \`request-language\` of \`${json['request-language']}\`.`,
-                            json_pointer: `/${prop}`,
-                        };
-                } else {
-                    if (!ctx.existingTemplatesPerLanguage['en'].includes(template))
-                        return {
-                            message: `Record specifies \`${prop}\` of \`${template}\` but that isn't available in English.
+            if (!template) return;
+
+            if (json['request-language']) {
+                if (!ctx.existingTemplatesPerLanguage[json['request-language']]?.includes(template))
+                    return {
+                        message: `Record specifies \`${prop}\` of \`${template}\` but that isn't available for \`request-language\` of \`${json['request-language']}\`.`,
+                        json_pointer: `/${prop}`,
+                    };
+            } else {
+                if (!ctx.existingTemplatesPerLanguage['en']?.includes(template))
+                    return {
+                        message: `Record specifies \`${prop}\` of \`${template}\` but that isn't available in English.
 
 Maybe you forgot to set the \`request-language\`?`,
-                            json_pointer: `/${prop}`,
-                        };
-                }
+                        json_pointer: `/${prop}`,
+                    };
             }
+
+            return;
         });
     },
 };

@@ -14,6 +14,8 @@ const check: CompanyPackCheck = {
                             message: `Pack lists company “${c}” but that doesn't exist.`,
                             json_pointer: `/${pack_idx}/companies/${company_idx}`,
                         };
+
+                    return;
                 })
             )
             .filter((r) => r);

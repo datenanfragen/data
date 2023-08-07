@@ -123,7 +123,7 @@ const validate = async (dir: string) => {
     else {
         const results_per_file = check_results.reduce<Record<string, RdjsonLine[]>>((acc, cur) => {
             if (!acc[cur.location.path]) acc[cur.location.path] = [];
-            acc[cur.location.path].push(cur);
+            acc[cur.location.path]!.push(cur);
             return acc;
         }, {});
         const log = (str = '', padding = 0) =>
@@ -161,8 +161,8 @@ const validate = async (dir: string) => {
             const table = asTable(data.map((r) => r.row)).split('\n');
             for (let i = 0; i < data.length; i++) {
                 log(table[i], 2);
-                log(marked(data[i].res.message).trim(), 5);
-                const suggestions = data[i].res.suggestions;
+                log(marked(data[i]!.res.message).trim(), 5);
+                const suggestions = data[i]!.res.suggestions;
                 if (suggestions && suggestions.length) {
                     log();
                     log('Suggestions:', 5);

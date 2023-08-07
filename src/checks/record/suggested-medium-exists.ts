@@ -15,6 +15,8 @@ const check: Check = {
                 message: `Suggested-transport-medium is set to '${medium}', but the ${medium} is not defined in the record.`,
                 json_pointer: '/suggested-transport-medium',
             };
+
+        return;
     },
 };
 

@@ -14,6 +14,8 @@ const check: Check = {
                     json_pointer: `/${key}`,
                     suggestions: [value.trim()],
                 };
+
+            return;
             // TODO: Also deal with arrays and nested string fields.
         });
     },

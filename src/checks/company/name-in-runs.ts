@@ -14,6 +14,8 @@ const check: CompanyCheck = {
                 json_pointer: '/runs',
                 suggestions: [json['runs'].filter((x) => !contains_company_name(x))],
             };
+
+        return;
     },
 };
 export default check;
