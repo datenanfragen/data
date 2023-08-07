@@ -22,16 +22,16 @@ export type CheckFunction<T> = (
         existingTemplatesPerLanguage: Record<string, string[]>;
     }
 ) => CheckInstance | (CheckInstance | undefined)[] | void;
-export type Check<T = GenericRecord> = {
+export type Check<T = Partial<GenericRecord>> = {
     id: string; // Dash-cased.
     desc: string;
     url: string;
     severity: 'ERROR';
     run: CheckFunction<T>;
 };
-export type CompanyCheck = Check<CompanyRecord>;
-export type AuthorityCheck = Check<AuthorityRecord>;
-export type CompanyPackCheck = Check<CompanyPack[]>;
+export type CompanyCheck = Check<Partial<CompanyRecord>>;
+export type AuthorityCheck = Check<Partial<AuthorityRecord>>;
+export type CompanyPackCheck = Check<Partial<CompanyPack>[]>;
 
 // See: https://github.com/reviewdog/reviewdog/blob/master/proto/rdf/reviewdog.proto
 export type RdjsonLine = {
