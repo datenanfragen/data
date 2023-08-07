@@ -1,5 +1,4 @@
 import { MergeExclusive } from 'type-fest';
-import { locatorFactory } from '../common/locator';
 import { AuthorityRecord, CompanyRecord, GenericRecord, CompanyPack } from '../types/records';
 
 export type Position = { line?: number; column?: number };
@@ -15,7 +14,6 @@ export type CheckInstance = {
 export type CheckFunction<T> = (
     json: T,
     ctx: {
-        locator: ReturnType<typeof locatorFactory>;
         file_path: string;
         file_content: string;
         existingCompanySlugs: string[];

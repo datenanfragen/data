@@ -85,7 +85,6 @@ const validate = async (dir: string) => {
             for (const check of checks) {
                 const res =
                     check.run(json, {
-                        locator,
                         file_path: rel_path,
                         file_content,
                         existingCompanySlugs,
