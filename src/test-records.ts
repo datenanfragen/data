@@ -13,6 +13,7 @@ import linters from './checks';
 import { locatorFactory } from './common/locator';
 import { GenericRecord } from './types/records';
 import { CheckInstance, RdjsonLine } from './types/checks';
+import { existingCompanySlugs, existingTemplatesPerLanguage } from './common/ctx';
 
 marked.setOptions({ renderer: new TerminalRenderer({ reflowText: true, width: process.stdout.columns - 10, tab: 2 }) });
 
@@ -82,7 +83,14 @@ const validate = async (dir: string) => {
             if (!path_filter(rel_path)) continue;
 
             for (const check of checks) {
-                const res = check.run(json, { locator, file_path: rel_path, file_content }) || [];
+                const res =
+                    check.run(json, {
+                        locator,
+                        file_path: rel_path,
+                        file_content,
+                        existingCompanySlugs,
+                        existingTemplatesPerLanguage,
+                    }) || [];
                 check_results.push(
                     // Really not sure why the cast is necessary here…
                     ...(Array.isArray(res) ? (res.filter((r) => r) as CheckInstance[]) : [res])

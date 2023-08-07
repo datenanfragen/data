@@ -14,7 +14,13 @@ export type CheckInstance = {
 >;
 export type CheckFunction<T> = (
     json: T,
-    ctx: { locator: ReturnType<typeof locatorFactory>; file_path: string; file_content: string }
+    ctx: {
+        locator: ReturnType<typeof locatorFactory>;
+        file_path: string;
+        file_content: string;
+        existingCompanySlugs: string[];
+        existingTemplatesPerLanguage: Record<string, string[]>;
+    }
 ) => CheckInstance | (CheckInstance | undefined)[] | void;
 export type Check<T = GenericRecord> = {
     id: string; // Dash-cased.
