@@ -1,0 +1,23 @@
+{
+    "slug": "picnic",
+    "relevant-countries": [
+        "de",
+        "nl"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Picnic Technologien B.V.",
+    "runs": [
+        "Picnic App"
+    ],
+    "address": "Picnic Technologien B.V.\nVan Marwijk Kooystraat 15\n1114 AG in Amsterdam",
+    "email": "privacy@picnic.nl",
+    "web": "https://picnic.app/de/",
+    "sources": [
+        "https://picnic.app/de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2300"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
