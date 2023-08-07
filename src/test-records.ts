@@ -9,7 +9,7 @@ import pc from 'picocolors';
 import asTable from 'as-table';
 import { marked } from 'marked';
 import TerminalRenderer from 'marked-terminal';
-import _linters from './checks';
+import linters from './checks';
 import { locatorFactory } from './common/locator';
 import { GenericRecord } from './types/records';
 import { CheckInstance, RdjsonLine } from './types/checks';
@@ -36,7 +36,6 @@ let exit_code = 0;
 const validate = async (dir: string) => {
     const check_results: RdjsonLine[] = [];
 
-    const linters = await _linters();
     const files = glob.sync(`${dir}/*.json`);
 
     for (const f of files) {
