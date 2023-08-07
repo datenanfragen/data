@@ -14,6 +14,8 @@ const check: Check = {
                 json_pointer: '/address',
                 suggestions: json['address'].includes(',') && [json['address'].replace(/\s*,\s*/g, '\n')],
             };
+
+        return;
     },
 };
 export default check;

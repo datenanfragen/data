@@ -9,7 +9,9 @@ export const existingTemplatesPerLanguage = glob
     .sync('**/*.txt', { cwd: join(__dirname, '..', '..', 'templates') })
     .reduce<Record<string, string[]>>((acc, cur) => {
         const [lang, name] = cur.replace('.txt', '').split('/');
+        if (!lang || !name) return acc;
+
         if (!acc[lang]) acc[lang] = [];
-        acc[lang].push(name);
+        acc[lang]!.push(name);
         return acc;
     }, {});

@@ -17,6 +17,8 @@ const check: Check = {
                 json_pointer: '/address',
                 suggestions: [address_lines.map((line) => line.trim()).join('\n')],
             };
+
+        return;
     },
 };
 export default check;

@@ -17,6 +17,8 @@ const check: Check = {
                 json_pointer: '/address',
                 suggestions: [address_lines.filter((x) => !contains_company_name(x)).join('\n')],
             };
+
+        return;
     },
 };
 export default check;
