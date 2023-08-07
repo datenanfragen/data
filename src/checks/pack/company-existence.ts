@@ -8,7 +8,7 @@ const check: CompanyPackCheck = {
     run: (json, ctx) => {
         return json
             .flatMap((pack, pack_idx) =>
-                pack.companies.map((c, company_idx) => {
+                pack.companies?.map((c, company_idx) => {
                     if (!ctx.existingCompanySlugs.includes(c))
                         return {
                             message: `Pack lists company “${c}” but that doesn't exist.`,

@@ -6,6 +6,8 @@ const check: Check = {
     url: 'https://github.com/datenanfragen/data#addresses',
     severity: 'ERROR',
     run: (json) => {
+        if (!json['address']) return;
+
         const address_lines = json['address'].split('\n');
 
         if (address_lines.some((line) => line !== line.trim()))
