@@ -1,0 +1,17 @@
+{
+    "slug": "bizzocasino",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Bizzo Casino",
+    "address": "Querkamp 6B, 22119 Hamburg",
+    "phone": "+49 40 426660",
+    "fax": "+49 40 426660",
+    "email": "harrisonblandy@protonmail.com",
+    "web": "https://bizzocasino.online/",
+    "sources": [
+        "https://vimeo.com/824005684",
+        "https://github.com/datenanfragen/data/pull/2302"
+    ],
+    "quality": "verified"
+}
