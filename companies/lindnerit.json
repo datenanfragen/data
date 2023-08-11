@@ -1,0 +1,20 @@
+{
+    "slug": "lindnerit",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication",
+        "ads"
+    ],
+    "name": "Lindner IT UG (haftungsbeschränkt)",
+    "address": "Holzbronn 12\n97999 Igersheim\nDeutschland",
+    "phone": "+49 7931 5636150",
+    "email": "legal@lindnerit.io",
+    "web": "https://lindnerit.io",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2308"
+    ]
+}
