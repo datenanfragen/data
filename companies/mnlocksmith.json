@@ -1,0 +1,18 @@
+{
+    "slug": "mnlocksmith",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "MN LockSmith",
+    "address": "2250 victoria st N, Roseville, MN 55113.",
+    "phone": "612-450-4418",
+    "email": "Mn.locksmith.services@gmail.com",
+    "web": "https://mnlocksmith.org/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2307"
+    ]
+}
