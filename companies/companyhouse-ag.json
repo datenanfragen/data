@@ -1,0 +1,15 @@
+{
+    "slug": "companyhouse-ag",
+    "relevant-countries": [
+        "ch"
+    ],
+    "name": "CompanyHouse AG",
+    "address": "Lettenstrasse 7\nCH-6343 Rotkreuz",
+    "email": "datenschutz@companyhouse.de",
+    "sources": [
+        "https://www.companyhouse.de/Kontakt",
+        "https://github.com/datenanfragen/data/pull/2313"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
