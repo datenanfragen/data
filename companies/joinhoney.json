@@ -12,18 +12,17 @@
     "email": "privacy@joinhoney.com",
     "web": "https://www.joinhoney.com/",
     "sources": [
-        "https://www.joinhoney.com/privacy"
+        "https://www.joinhoney.com/privacy",
+        "https://github.com/datenanfragen/data/pull/2315"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Email",
-            "type": "email",
-            "optional": false
+            "type": "email"
         },
         {
             "desc": "Honey Gold balance",
@@ -32,5 +31,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
