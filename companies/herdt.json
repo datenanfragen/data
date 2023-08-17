@@ -16,7 +16,11 @@
     "web": "https://herdt.com",
     "sources": [
         "https://herdt.com/pages/datenschutz",
-        "https://github.com/datenanfragen/data/pull/1313"
+        "https://github.com/datenanfragen/data/pull/1313",
+        "https://github.com/datenanfragen/data/pull/2317"
+    ],
+    "comments": [
+        "Das Unternehmen wird den externer Datenschutzbeauftragten Oliver Krause (DSBOK) vertreten."
     ],
     "quality": "verified"
 }
