@@ -17,7 +17,9 @@
     "web": "https://www.getdigital.de",
     "sources": [
         "https://www.getdigital.de/infos/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/1312"
+        "https://github.com/datenanfragen/data/pull/1312",
+        "https://github.com/datenanfragen/data/pull/2316"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
