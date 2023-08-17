@@ -20,6 +20,20 @@
         "https://github.com/datenanfragen/data/pull/1312",
         "https://github.com/datenanfragen/data/pull/2316"
     ],
+    "required-elements": [
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        },
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
