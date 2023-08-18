@@ -15,7 +15,9 @@
     "sources": [
         "https://www.tvinfo.de/impressum",
         "https://www.tvinfo.de/datenschutz",
-        "https://github.com/datenanfragen/data/pull/1325"
+        "https://github.com/datenanfragen/data/pull/1325",
+        "https://github.com/datenanfragen/data/pull/2318"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
