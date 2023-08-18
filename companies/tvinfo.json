@@ -15,7 +15,11 @@
     "sources": [
         "https://www.tvinfo.de/impressum",
         "https://www.tvinfo.de/datenschutz",
-        "https://github.com/datenanfragen/data/pull/1325"
+        "https://github.com/datenanfragen/data/pull/1325",
+        "https://github.com/datenanfragen/data/pull/2319"
+    ],
+    "comments": [
+        "Das Unternehmen speichert nach eigenen Angaben lediglich die im Webinterface vom Benutzer selbst einsehbaren Daten und gibt diese nicht weiter."
     ],
     "quality": "verified"
 }
