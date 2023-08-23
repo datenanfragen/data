@@ -1,0 +1,16 @@
+{
+    "slug": "arkaenergy",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Arka Energy",
+    "address": "5064 Sloan Way Union City CA Zip Code - 94587",
+    "phone": "510-371-8977",
+    "email": "care@arkaenergy.com",
+    "web": "https://www.arkaenergy.com/",
+    "suggested-transport-medium": "webform",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2321"
+    ]
+}
