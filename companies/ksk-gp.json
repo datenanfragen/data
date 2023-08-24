@@ -1,0 +1,18 @@
+{
+    "slug": "ksk-gp",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Kreissparkasse Göppingen",
+    "address": "Kreissparkasse Göppingen\nDatenschutzbeauftragter\nMarktstr. 2\n73033 Göppingen\nDeutschland",
+    "email": "dsb@ksk-gp.de",
+    "web": "https://www.ksk-gp.de/",
+    "sources": [
+        "https://www.ksk-gp.de/de/home/toolbar/datenschutz.html?n=true&stref=footer",
+        "https://github.com/datenanfragen/data/pull/2326"
+    ],
+    "quality": "verified"
+}
