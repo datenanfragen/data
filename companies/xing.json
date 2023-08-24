@@ -6,19 +6,21 @@
     "categories": [
         "social media"
     ],
-    "name": "XING SE",
+    "name": "NEW WORK SE",
     "runs": [
         "XING Spain",
-        "XING Luxemburg (XING S.à r.l.)"
+        "XING Luxemburg (XING S.à r.l.)",
+        "XING"
     ],
     "address": "Dammtorstraße 30\n20354 Hamburg\nDeutschland",
-    "phone": "+49 40 419 131 0",
-    "fax": "+49 40 419 131 11",
+    "phone": "+49 40 4191310",
+    "fax": "+49 40 41913111",
     "email": "info@xing.com",
     "web": "https://www.xing.com/",
     "sources": [
         "https://privacy.xing.com/en/privacy-policy",
-        "https://www.xing.com/imprint"
+        "https://www.xing.com/imprint",
+        "https://github.com/datenanfragen/data/pull/2328"
     ],
     "quality": "verified"
 }
