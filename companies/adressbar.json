@@ -1,0 +1,19 @@
+{
+    "slug": "adressbar",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Fabian Wolf Data Services",
+    "address": "Fabian Wolf Data Services\nBetrifft: Datenschutz\nBrehmstraße 3\n40239 Düsseldorf\nDeutschland",
+    "email": "datenschutz@adressbar.de",
+    "web": "https://adressbar.de",
+    "sources": [
+        "https://adressbar.de/impressum/",
+        "https://adressbar.de/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/2330"
+    ],
+    "quality": "verified"
+}
