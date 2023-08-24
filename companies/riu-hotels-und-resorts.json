@@ -1,0 +1,17 @@
+{
+    "slug": "riu-hotels-und-resorts",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "RIU Hotels und Resorts",
+    "address": "C/ Llaud s/n (RIU Centre)\n07610 Palma de Mallorca – SPANIEN\nAbteilung Sicherheit und Datenschutz",
+    "email": "privacy@riu.com",
+    "sources": [
+        "https://www.riu.com/privacy",
+        "https://github.com/datenanfragen/data/pull/2323"
+    ],
+    "quality": "verified"
+}
