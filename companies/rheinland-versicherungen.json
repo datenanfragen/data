@@ -1,0 +1,24 @@
+{
+    "slug": "rheinland-versicherungen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "RheinLand Versicherungen",
+    "runs": [
+        "RheinLand Versicherungs AG"
+    ],
+    "address": "RheinLand Versicherungs AG\nRheinLandplatz\n41460 Neuss",
+    "phone": "02131 290-0",
+    "fax": "02131 290-13300",
+    "email": "datenschutz@rheinland-versicherungen.de",
+    "web": "https://www.rheinland-versicherungen.de/",
+    "sources": [
+        "https://www.rheinland-versicherungen.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2327"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
