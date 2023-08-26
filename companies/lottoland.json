@@ -3,13 +3,18 @@
     "relevant-countries": [
         "all"
     ],
-    "address": "Valley Towers, Suite 5\nValley Road, Birkirkara\nBKR 9022\nMalta",
+    "name": "Lottoland Holdings Limited",
+    "runs": [
+        "Lottoland.com"
+    ],
+    "address": "Instant EU GDPR Representative Limited\nOffice 2, 12A Lower Main Street\nLucan, Co. Dublin\nK78X5P8\nIreland",
     "phone": "+49 40 82216931",
+    "email": "dpo@lottoland.com",
     "web": "https://www.lottoland.com",
-    "suggested-transport-medium": "email",
-    "comments": [],
-    "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/2331"
-    ]
+        "https://www.lottoland.com/datenschutz",
+        "https://www.lottoland.com/impressum"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
