@@ -8,13 +8,30 @@
     ],
     "name": "Department for Work and Pensions",
     "address": "Mail Handling Site A\nWolverhampton\nWV98 2EF\nUnited Kingdom",
-    "email": "data.protectionofficer@dwp.gov.uk",
+    "email": "rightofaccess.requests@dwp.gov.uk",
     "web": "https://www.gov.uk/government/organisations/department-for-work-pensions",
     "sources": [
         "https://github.com/datenanfragen/data/issues/548",
         "https://www.gov.uk/government/organisations/department-for-work-pensions/about/personal-information-charter",
-        "https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions"
+        "https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions",
+        "https://www.gov.uk/government/publications/framework-generic-guidance-provider-guidance/chapter-8-information-security#right-of-access-requests",
+        "https://github.com/datenanfragen/data/pull/2332"
+    ],
+    "required-elements": [
+        {
+            "desc": "Full name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "National insurance number (NINO)",
+            "type": "input",
+            "optional": false
+        }
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Note! If you wish DWP to reply by email, you **must** tell them to do so, by requesting a \"reasonable adjustment\", otherwise, they will reply by post."
+    ],
     "quality": "verified"
 }
