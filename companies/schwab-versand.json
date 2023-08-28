@@ -6,20 +6,19 @@
     "categories": [
         "commerce"
     ],
-    "name": "sheego GmbH",
+    "name": "sheego AG",
     "runs": [
         "Schwab Versand GmbH (ehem.)"
     ],
     "address": "Hanauer Landstraße 523\n60386 Frankfurt\nDeutschland",
-    "phone": "+49 69 900 22 0",
+    "phone": "+49 69 900220",
     "email": "dsb@sheego.de",
-    "web": "https://www.schwab.de/",
+    "web": "https://www.sheego.de",
     "sources": [
         "https://company.sheego.de/datenschutz/",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=747621&land_abk=he",
-        "https://company.sheego.de/landingpage-schwab-de"
+        "https://www.handelsregister.de/rp_web/normalesuche.xhtml",
+        "https://github.com/datenanfragen/data/pull/2333"
     ],
-    "needs-id-document": false,
     "required-elements": [
         {
             "desc": "Name",
