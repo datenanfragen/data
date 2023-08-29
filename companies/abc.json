@@ -1,0 +1,12 @@
+{
+    "slug": "abc",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Abc",
+    "address": "Irgendeine-Straße 1\nGermany",
+    "sources": [
+        "https://company-json.datenanfragen.de/"
+    ],
+    "quality": "verified"
+}
