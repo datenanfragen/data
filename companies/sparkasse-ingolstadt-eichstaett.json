@@ -1,5 +1,5 @@
 {
-    "slug": "spk-in-ei",
+    "slug": "sparkasse-ingolstadt-eichstaett",
     "relevant-countries": [
         "de"
     ],
@@ -7,7 +7,9 @@
         "finance"
     ],
     "name": "Sparkasse Ingolstadt Eichstätt",
-    "address": "Datenschutzbeauftragter\nRathausplatz 6\n85049 Ingolstadt\nDeutschland",
+    "address": "Rathausplatz 6\n85049 Ingolstadt\nDeutschland",
+    "phone": "+49 841 3044040",
+    "fax": "+49 841 3042700",
     "email": "dsb@spk-in-ei.de",
     "web": "https://www.spk-in-ei.de/",
     "sources": [
