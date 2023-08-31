@@ -8,15 +8,15 @@
         "public body"
     ],
     "name": "Elitenetzwerk Bayern",
-    "address": "Herr Ministerialrat Ralph Berg\nBayerisches Staatsministerium für Wissenschaft und Kunst\nSalvatorstraße 2\n80333 München",
-    "phone": "+49 89 21862393",
-    "email": "Ralph.Berg@stmwk.bayern.de",
+    "address": "Bayerisches Staatsministerium für Wissenschaft und Kunst\nSalvatorstraße 2\n80333 München\nDeutschland",
+    "phone": "+49 89 21862405",
+    "fax": "+49 89 21862840",
+    "email": "Klaus.Molitoris@stmwk.bayern.de",
+    "web": "https://www.elitenetzwerk.bayern.de/start",
     "sources": [
         "https://www.elitenetzwerk.bayern.de/datenschutz",
         "https://github.com/datenanfragen/data/pull/1833"
     ],
-    "comments": [
-        "Es scheint keine nicht-personenbezogenen Kontaktdaten zu geben."
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
