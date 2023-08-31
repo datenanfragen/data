@@ -6,15 +6,16 @@
     "categories": [
         "travel"
     ],
-    "name": "BWH Hotel Group Central Europe GmbH",
-    "runs": [
-        "bestwestern.de"
-    ],
-    "address": "Frankfurter Straße 10-14\n65760 Eschborn",
-    "email": "marketing@bwhotelgroup.de",
+    "name": "Best Western Hotels & Resorts",
+    "address": "BWH Hotels Central Europe GmbH\nFrankfurter Straße 10-14\n65760 Eschborn\nDeutschland",
+    "phone": "+49 6196 47240",
+    "fax": "+49 6196 4724200",
+    "email": "datenschutzbeauftragter@bwhhotels.de",
     "web": "http://bestwestern.de/",
-    "quality": "verified",
     "sources": [
+        "https://www.bestwestern.de/agb/Datenschutzerklaerung-Data_Privacy_Statement.pdf",
         "https://github.com/datenanfragen/data/pull/1799"
-    ]
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
