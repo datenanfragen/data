@@ -15,6 +15,7 @@
     "phone": "+49 30 18754 3594",
     "fax": "+49 30 18754 2328",
     "email": "datenschutz@rki.de",
+    "webform": "https://www.rki.de/SharedDocs/Kontaktformulare/D/Datenschutz/DatenschutzIntegrator.html?nn=4976162",
     "web": "https://www.rki.de",
     "sources": [
         "https://www.rki.de/DE/Service/Datenschutz/datenschutzerklaerung_node.html",
@@ -23,9 +24,6 @@
         "https://github.com/datenanfragen/data/issues/612"
     ],
     "request-language": "de",
-    "comments": [
-        "Formular für Datenschutzanfragen: https://www.rki.de/SharedDocs/Kontaktformulare/D/Datenschutz/DatenschutzIntegrator.html?nn=4976162"
-    ],
     "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -3,7 +3,7 @@
  * information of a company (or other organization) specifically for privacy-related
  * inquires and requests.
  * More information and access to the whole database at:
- * https://github.com/datenanfragen/companies
+ * https://github.com/datenanfragen/data
  */
 export interface CompanyRecord {
     /**

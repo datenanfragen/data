@@ -22,6 +22,7 @@
     ],
     "address": "PO Box 69176\nWest Hollywood\nCA 90069\nUnited States of America",
     "email": "privacy@grindr.com",
+    "webform": "https://help.grindr.com/hc/en-us/requests/new?ticket_form_id=360002369054",
     "web": "https://www.grindr.com/",
     "sources": [
         "https://www.grindr.com/privacy-policy/",
@@ -29,8 +30,5 @@
     ],
     "needs-id-document": true,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Web form: https://help.grindr.com/hc/en-us/requests/new?ticket_form_id=360002369054"
-    ],
     "quality": "verified"
 }

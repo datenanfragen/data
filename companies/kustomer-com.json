@@ -9,6 +9,7 @@
     "name": "Kustomer, Inc.",
     "address": "318 W 39th St. 5th floor\nNew York\nNY 10018\nUnited States of America",
     "email": "privacy@kustomer.com",
+    "webform": "https://www.kustomer.com/compliance/data-subject-request/",
     "web": "https://www.kustomer.com",
     "sources": [
         "https://www.kustomer.com/privacy/policy/"
@@ -26,9 +27,6 @@
             "desc": "Email",
             "type": "email"
         }
-    ],
-    "comments": [
-        "Web form for requests: https://www.kustomer.com/compliance/data-subject-request/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

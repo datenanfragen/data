@@ -17,16 +17,17 @@
         "Experian Switzerland AG"
     ],
     "address": "Rheinstraße 99\n76532 Baden-Baden\nDeutschland",
-    "phone": "+49 7221 7793 300",
-    "fax": "+49 7221 5040 3201",
-    "email": "rm-data-information@arvato.com",
+    "phone": "+49 7221 7793300",
+    "email": "DACH-BDN-data-information@experian.com",
+    "webform": "https://www.experian.de/selbstauskunft/online-formular-selbstauskunft",
     "web": "https://www.experian.de/",
     "sources": [
         "https://www.experian.de/legal/datenschutz",
         "https://www.experian.de/selbstauskunft",
         "https://www.experian.de/legal/impressum",
         "https://github.com/datenanfragen/data/issues/100",
-        "https://github.com/datenanfragen/data/issues/637"
+        "https://github.com/datenanfragen/data/issues/637",
+        "https://github.com/datenanfragen/data/pull/2201"
     ],
     "required-elements": [
         {
@@ -43,11 +44,10 @@
             "optional": true
         }
     ],
-    "comments": [
-        "Webformular für Anfragen: https://www.experian.de/selbstauskunft/online-formular-selbstauskunft",
-        "Erbitten Anschriften der letzten fünf Jahre für vollständigere Auskunft."
-    ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "comments": [
+        "Erbitten Anschriften der letzten fünf Jahre für vollständigere Auskunft."
+    ],
+    "quality": "verified"
 }

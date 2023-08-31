@@ -17,13 +17,11 @@
     "address": "Unit 5, Watson & Johnson Centre\nMill Road, Greystones, Co. Wicklow\nA63 P0E2\nIreland",
     "phone": "+353 1 287 0707",
     "email": "support@safer-networking.org",
+    "webform": "https://www.safer-networking.org/privacy-policy/#jumpdown",
     "web": "https://www.safer-networking.org",
     "sources": [
         "https://www.safer-networking.org/privacy-policy/",
         "https://github.com/datenanfragen/data/pull/1331"
-    ],
-    "comments": [
-        "You can also fill out the form at the bottom of the Privacy Policy"
     ],
     "quality": "verified"
 }

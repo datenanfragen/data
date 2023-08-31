@@ -10,9 +10,9 @@
     "email": "poststelle@lfdi.bwl.de",
     "pgp-fingerprint": "E4FA 428C B315 2248 83BB  F6FB 0FC3 48A6 4A32 5962",
     "pgp-url": "https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2020/09/LfDI-PGP-Key.txt",
+    "webform": "https://www.service-bw.de/onlineantraege/onlineantrag?processInstanceId=994719535",
     "web": "https://www.baden-wuerttemberg.datenschutz.de/",
     "sources": [
-        "https://www.baden-wuerttemberg.datenschutz.de/pgp-schlussel/",
         "https://www.baden-wuerttemberg.datenschutz.de/kontakt/"
     ],
     "complaint-language": "de",
