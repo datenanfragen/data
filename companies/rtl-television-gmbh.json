@@ -8,16 +8,22 @@
     "categories": [
         "entertainment"
     ],
-    "name": "RTL Television GmbH",
+    "name": "RTL interactive GmbH",
     "runs": [
-        "tvnow.de"
+        "RTL+",
+        "TVNOW (ehem.)"
     ],
-    "address": "Picassoplatz 1\n50679 Köln",
-    "phone": "+49 221 45662999",
-    "fax": "+49 221 45662993",
+    "address": "Picassoplatz 1\n50679 Köln\nDeutschland",
+    "phone": "+49 221 45660",
+    "email": "datenschutz@rtl.de",
+    "web": "https://www.rtl.de/",
     "sources": [
-        "tvnow.de/impressum",
+        "https://www.rtl.de/cms/service/footer-navigation/datenschutz.html",
+        "https://www.rtl.de/cms/service/footer-navigation/impressum.html",
+        "https://plus.rtl.de/datenschutz",
+        "https://community.plus.rtl.de/s/hilfeartikel/fragen-und-antworten-zu-rtlplus",
         "https://github.com/datenanfragen/data/pull/1840"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
