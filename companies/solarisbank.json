@@ -1,20 +1,21 @@
 {
     "slug": "solarisbank",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "finance"
     ],
-    "name": "solarisBank AG",
-    "address": "Anna-Louisa-Karsch Straße 2\n10178 Berlin\nDeutschland",
-    "phone": "+49 30 232 5678 900",
-    "fax": "+49 30 232 5678 999",
-    "email": "privacy@solarisbank.de",
-    "web": "https://www.solarisbank.com",
+    "name": "Solaris SE",
+    "address": "Cuvrystraße 53\n10997 Berlin\nDeutschland",
+    "phone": "+49 30 83797775",
+    "email": "privacy@solarisgroup.com",
+    "web": "https://www.solarisgroup.com",
     "sources": [
-        "https://www.solarisbank.com/de/datenschutzhinweise/",
-        "https://www.solarisbank.com/de/impressum/"
-    ],
-    "relevant-countries": [
-        "all"
+        "https://www.solarisgroup.com/de/privacy-policy/",
+        "https://www.solarisgroup.com/de/imprint",
+        "https://github.com/datenanfragen/data/pull/1916",
+        "https://github.com/datenanfragen/data/pull/2192"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

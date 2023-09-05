@@ -4,19 +4,17 @@
         "de"
     ],
     "name": "Der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit",
-    "address": "Kurt-Schumacher-Allee 4\n20097 Hamburg\nDeutschland",
+    "address": "Ludwig-Erhard-Str 22, 7. OG\n20459 Hamburg\nDeutschland",
     "phone": "+49 40 428 54 4040",
-    "fax": "+49 40 4279 11 811",
+    "fax": "+49 40 4279 11 4000",
     "email": "mailbox@datenschutz.hamburg.de",
+    "webform": "https://datenschutz-hamburg.de/beschwerde/",
     "pgp-fingerprint": "0932 579B 33C1 8C21 6C9D  E77D 08DD BAE4 3377 5707",
     "pgp-url": "https://datenschutz-hamburg.de/assets/misc/pgp-schluessel-hmbbfdi.asc",
     "web": "https://datenschutz-hamburg.de/",
     "sources": [
-        "https://datenschutz-hamburg.de/pages/kontakt/"
+        "https://datenschutz-hamburg.de/pages/dienststelle/"
     ],
     "complaint-language": "de",
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Es steht auch ein Beschwerdeformular zur Verfügung: https://datenschutz-hamburg.de/beschwerde/"
-    ]
+    "suggested-transport-medium": "email"
 }

@@ -6,14 +6,15 @@ const check: CompanyCheck = {
     url: 'https://github.com/datenanfragen/data/issues/1369',
     severity: 'ERROR',
     run: (json) => {
-        if (json['nsfw'] === true && json['web']) {
+        if (json['nsfw'] === true && json['web'])
             return {
                 message:
                     'Record has `nsfw` set to `true` but also specifies `web`.\n\nIf this company is really not safe for work, remove the website.',
                 json_pointer: '/web',
                 suggestions: [undefined],
             };
-        }
+
+        return;
     },
 };
 export default check;

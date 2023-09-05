@@ -1,5 +1,8 @@
 {
     "slug": "verivox",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads",
         "finance",
@@ -13,16 +16,17 @@
         "Verivox Finanzvergleich GmbH",
         "Verivox Versicherungsvergleich GmbH"
     ],
-    "address": "Am Taubenfeld 10\n69123 Heidelberg\nDeutschland",
-    "phone": "+49 6221 7961 100",
-    "fax": "+49 6221 7961 8669",
+    "address": "Max-Jarecki-Straße 21\n69115 Heidelberg\nDeutschland",
+    "phone": "+49 6221 7961100",
+    "fax": "+49 6221 79618669",
     "email": "service@verivox.de",
     "web": "https://www.verivox.de/",
     "sources": [
         "https://www.verivox.de/company/datenschutz/",
         "https://www.verivox.de/company/datenschutz-finanzvergleich/",
         "https://www.verivox.de/company/datenschutz-versicherungsvergleich/",
-        "https://www.verivox.de/company/impressum/"
+        "https://www.verivox.de/company/impressum/",
+        "https://github.com/datenanfragen/data/pull/1859"
     ],
     "required-elements": [
         {
@@ -38,9 +42,6 @@
             "type": "input",
             "optional": true
         }
-    ],
-    "relevant-countries": [
-        "de"
     ],
     "quality": "verified"
 }

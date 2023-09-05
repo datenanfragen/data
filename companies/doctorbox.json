@@ -7,13 +7,15 @@
         "health"
     ],
     "name": "DoctorBox GmbH",
-    "address": "Knesebeckstr. 59-61\n10719 Berlin\nDeutschland",
+    "address": "Lietzenburger Straße 107\n10707 Berlin\nDeutschland",
     "phone": "+49 30 34045468",
+    "fax": "+49 30 34045468 777",
     "email": "datenschutz@doctorbox.de",
     "web": "https://www.doctorbox.de/",
     "sources": [
         "https://www.doctorbox.de/datenschutz.jsp",
-        "https://github.com/datenanfragen/data/pull/1070"
+        "https://github.com/datenanfragen/data/pull/1070",
+        "https://github.com/datenanfragen/data/pull/1839"
     ],
     "required-elements": [
         {
