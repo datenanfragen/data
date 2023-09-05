@@ -1,23 +1,22 @@
 {
     "slug": "gorillas",
     "relevant-countries": [
-        "de"
+        "de",
+        "dk",
+        "fr",
+        "nl",
+        "gb"
     ],
     "categories": [
         "commerce"
     ],
-    "name": "Gorillas Operations Germany B.V. & Co KG",
-    "runs": [
-        "gorillas.io"
-    ],
-    "address": "Saarbrücker Straße 36 \n10405 Berlin",
-    "phone": "030 23591 8698",
-    "fax": "030 23591 8699",
+    "name": "GORILLAS",
+    "address": "c/o Getir Germany GmbH\nPrenzlauer Allee 242-247\n10405 Berlin\nGermany",
     "email": "privacy@gorillasapp.com",
-    "web": "https://gorillas.io/de",
+    "web": "https://gorillas.io",
     "sources": [
-        "https://gorillas.io/de/privacy-policy-page",
-        "https://gorillas.io/r/imprint",
+        "https://gorillas.io/en/privacy-policy-page",
+        "https://gorillas.io/en/delivery-areas",
         "https://github.com/datenanfragen/data/pull/1849"
     ],
     "suggested-transport-medium": "email",
