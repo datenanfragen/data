@@ -1,0 +1,14 @@
+{
+    "slug": "mundotortuga",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Mundotortuga.org",
+    "address": "Avenida 24 de Julho\nN 102-E, 1200-870 Lisboa\nPortugal",
+    "web": "https://mundotortuga.org/",
+    "sources": [
+        "https://mundotortuga.org/contacto/",
+        "https://github.com/datenanfragen/data/pull/2341"
+    ],
+    "quality": "verified"
+}
