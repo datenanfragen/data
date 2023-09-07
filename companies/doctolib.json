@@ -3,6 +3,9 @@
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "health"
+    ],
     "name": "Doctolib GmbH",
     "runs": [
         "Doctolib SAS"
@@ -14,7 +17,8 @@
     "sources": [
         "https://www.doctolib.de/terms/agreement",
         "https://www.doctolib.de/terms/legal-notice",
-        "https://github.com/datenanfragen/data/pull/898"
+        "https://github.com/datenanfragen/data/pull/898",
+        "https://github.com/datenanfragen/data/pull/2342"
     ],
     "required-elements": [
         {
