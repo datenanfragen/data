@@ -1,0 +1,28 @@
+{
+    "slug": "jameda",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "jameda GmbH",
+    "runs": [
+        "jameda.de",
+        "pro.jameda.de",
+        "Helpcenter (jameda.zendesk.com)",
+        "danke-coronahelden.de",
+        "jameda - Für Ihre Gesundheit (App)"
+    ],
+    "address": "jameda GmbH\n\nBalanstraße 71a\n\n81541 München",
+    "phone": "089 / 2019 44 94",
+    "fax": "0800 / 111 237 686",
+    "email": "datenschutz@jameda.de",
+    "web": "https://www.jameda.de/",
+    "sources": [
+        "https://www.jameda.de/datenschutz",
+        "https://www.jameda.de/impressum",
+        "https://github.com/datenanfragen/data/pull/2343"
+    ],
+    "quality": "verified"
+}
