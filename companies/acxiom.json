@@ -8,15 +8,16 @@
         "ads"
     ],
     "name": "Acxiom Deutschland GmbH",
-    "address": "Martin-Behaim Straße 12\n63263 Neu-Isenburg\nDeutschland",
-    "phone": "+49 69 589962 700",
+    "address": "Speicherstraße 57-59\n60327 Frankfurt am Main\nDeutschland",
+    "phone": "+49 69 589962700",
     "email": "datenschutz@acxiom.com",
     "webform": "https://www.acxiom.de/verbraucheranfragen/",
     "web": "http://www.acxiom.de/",
     "sources": [
         "https://www.acxiom.de/datenschutz/",
         "https://www.acxiom.de/impressum/",
-        "https://github.com/datenanfragen/data/pull/1099"
+        "https://github.com/datenanfragen/data/pull/1099",
+        "https://github.com/datenanfragen/data/pull/2346"
     ],
     "required-elements": [
         {
@@ -28,7 +29,6 @@
             "type": "address"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
