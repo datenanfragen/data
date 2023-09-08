@@ -7,6 +7,9 @@
         "finance"
     ],
     "name": "Baden-Württembergische Bank (BW-Bank)",
+    "runs": [
+        "PAYBACK Visa Prepaid"
+    ],
     "address": "c/o Landesbank Baden-Württemberg\nAm Hauptbahnhof 2\n70173 Stuttgart\nDeutschland",
     "phone": "+49 711 1270",
     "fax": "+49 711 1276673495",
@@ -14,7 +17,8 @@
     "web": "http://www.bw-bank.de",
     "sources": [
         "https://www.bw-bank.de/de/home/toolbar/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/1841"
+        "https://github.com/datenanfragen/data/pull/1841",
+        "https://github.com/datenanfragen/data/pull/2345"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
