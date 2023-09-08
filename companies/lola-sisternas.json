@@ -1,0 +1,24 @@
+{
+    "slug": "lola-sisternas",
+    "relevant-countries": [
+        "es"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Lola Sisternas",
+    "address": "Calle Vent de Ponent, 58. Cp 46940 Manises. Valencia  por favor reenvien mi paquete a esta direccion. Referencia:BG2308310433178. Incidencia envio n: 0082800082809715973929",
+    "phone": "676 517 534",
+    "email": "Lolasisternas@gmail.com",
+    "required-elements": [
+        {
+            "desc": "Corrijan mi codigo postal. Este es el correcto 46940",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2344"
+    ]
+}
