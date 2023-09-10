@@ -6,12 +6,18 @@
     "categories": [
         "utility"
     ],
-    "name": "HomeServe",
-    "address": "HomeServe Membership Ltd\nCable Drive\nWalsall\nWS2 7BN",
-    "web": "https://www.homeserve.com/uk/about/privacy-policy",
-    "suggested-transport-medium": "letter",
-    "quality": "verified",
+    "name": "HomeServe Membership Ltd",
+    "runs": [
+        "HomeServe"
+    ],
+    "address": "Cable Drive\nWalsall\nWS2 7BN\nUnited Kingdom",
+    "phone": "+44 330 024 7999",
+    "email": "Privacy@homeserve.com",
+    "web": "https://www.homeserve.com/",
     "sources": [
+        "https://www.homeserve.com/uk/about/privacy-policy",
         "https://github.com/datenanfragen/data/pull/1855"
-    ]
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
