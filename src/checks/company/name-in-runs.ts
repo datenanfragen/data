@@ -6,7 +6,7 @@ const check: CompanyCheck = {
     url: 'https://github.com/datenanfragen/data/issues/2128',
     severity: 'ERROR',
     run: (json) => {
-        const contains_company_name = (el: string) => el.trim() === json['name'];
+        const contains_company_name = (el?: string) => el?.trim() === json['name'];
 
         if (json['runs']?.some(contains_company_name))
             return {

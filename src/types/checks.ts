@@ -1,4 +1,4 @@
-import { MergeExclusive } from 'type-fest';
+import { MergeExclusive, PartialDeep } from 'type-fest';
 import { AuthorityRecord, CompanyRecord, GenericRecord, CompanyPack } from '../types/records';
 
 export type Position = { line?: number; column?: number };
@@ -20,16 +20,16 @@ export type CheckFunction<T> = (
         existingTemplatesPerLanguage: Record<string, string[]>;
     }
 ) => CheckInstance | (CheckInstance | undefined)[] | void;
-export type Check<T = Partial<GenericRecord>> = {
+export type Check<T = PartialDeep<GenericRecord>> = {
     id: string; // Dash-cased.
     desc: string;
     url: string;
     severity: 'ERROR';
     run: CheckFunction<T>;
 };
-export type CompanyCheck = Check<Partial<CompanyRecord>>;
-export type AuthorityCheck = Check<Partial<AuthorityRecord>>;
-export type CompanyPackCheck = Check<Partial<CompanyPack>[]>;
+export type CompanyCheck = Check<PartialDeep<CompanyRecord>>;
+export type AuthorityCheck = Check<PartialDeep<AuthorityRecord>>;
+export type CompanyPackCheck = Check<PartialDeep<CompanyPack>[]>;
 
 // See: https://github.com/reviewdog/reviewdog/blob/master/proto/rdf/reviewdog.proto
 export type RdjsonLine = {
