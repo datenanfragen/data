@@ -1,0 +1,19 @@
+{
+    "slug": "habiledata",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "HabileData",
+    "address": "547 Moreland Way, Santa Clara, CA 95054",
+    "phone": "4083388047",
+    "email": "info@habiledata.com",
+    "web": "https://www.habiledata.com",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2348"
+    ]
+}
