@@ -1,0 +1,24 @@
+{
+    "slug": "deutschebahnconnect",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Deutsche Bahn Connect GmbH",
+    "runs": [
+        "Call a Bike",
+        "Flinkster"
+    ],
+    "address": "Mainzer Landstraße 169 - 175,\n60327 Frankfurt am Main\nDeutschland",
+    "email": "dbconnect-datenschutz@deutschebahn.com",
+    "web": "https://www.deutschebahnconnect.com/de",
+    "sources": [
+        "https://www.deutschebahnconnect.com/de/datenschutz",
+        "https://www.deutschebahnconnect.com/de/impressum",
+        "https://github.com/datenanfragen/data/pull/2352"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
