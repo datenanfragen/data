@@ -27,7 +27,8 @@
     "address": "Sveavägen 25\n111 34 Stockholm\nSweden",
     "phone": "+46 21 665 59 22",
     "email": "dpo@voi.com",
-    "web": "https://www.voiscooters.com",
+    "webform": "https://privacy.voi.com/policies/en-GB/",
+    "web": "https://www.voi.com",
     "sources": [
         "https://www.voiscooters.com/de/voi-privacy-policy/",
         "https://www.voiscooters.com/de/legal-notice/",
@@ -39,7 +40,9 @@
         "https://www.voiscooters.com/it/legal/voi-privacy-policy/",
         "https://www.voiscooters.com/da/legal/voi-privacy-policy/",
         "https://www.voiscooters.com/sv/legal-notice/voi-privacy-policy/",
-        "https://www.voiscooters.com/de-ch/legal/voi-privacy-policy/"
+        "https://www.voiscooters.com/de-ch/legal/voi-privacy-policy/",
+        "https://www.voi.com/de/impressum/voi-privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2353"
     ],
     "required-elements": [
         {
@@ -51,6 +54,9 @@
             "type": "address"
         }
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
+    "comments": [
+        "Für das Auskunftsrecht sowie Recht auf Löschung kann das Privacy Center genutzt werden (zu finden unter \"Web-Formular\")"
+    ],
     "quality": "verified"
 }
