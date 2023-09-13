@@ -4,19 +4,21 @@
         "all"
     ],
     "categories": [
-        "school"
+        "school",
+        "social media"
     ],
     "name": "Studydrive GmbH",
     "runs": [
         "studydrive.net"
     ],
-    "address": "Mehringdamm 32\n10961 Berlin\nDeutschland",
+    "address": "Karl-Marx-Straße 97-99\n12043 Berlin\nDeutschland",
     "phone": "+49 30 55579464",
     "email": "info@studydrive.net",
     "web": "https://www.studydrive.net",
     "sources": [
         "https://www.studydrive.net/datenschutz",
-        "https://www.studydrive.net/impressum"
+        "https://www.studydrive.net/de/tag/imprint",
+        "https://github.com/datenanfragen/data/pull/2351"
     ],
     "required-elements": [
         {
@@ -26,9 +28,9 @@
         },
         {
             "desc": "E-Mail-Adresse",
-            "type": "input",
-            "optional": false
+            "type": "input"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
