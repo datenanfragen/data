@@ -10,6 +10,7 @@
     ],
     "name": "Austrian Airlines AG",
     "address": "Office Park 2\nPostbox 100\n1300 Wien-Flughafen\nÖsterreich",
+    "webform": "https://www.austrian.com/de/de/betroffenenrechte-anfrage",
     "web": "https://www.austrian.com",
     "sources": [
         "https://www.austrian.com/Info/LegalRegulations/dataprotection_overview.aspx?sc_lang=de&cc=DE",
@@ -18,8 +19,5 @@
         "https://github.com/datenanfragen/data/issues/255"
     ],
     "needs-id-document": true,
-    "comments": [
-        "Bietet auch ein Formular für Betroffenenrechte an: https://www.austrian.com/Info/LegalRegulations/dataprotection_contact_form.aspx?sc_lang=de&cc=DE "
-    ],
     "quality": "verified"
 }

@@ -12,6 +12,7 @@
     "phone": "+49 615 13800",
     "fax": "+49 615 1380360",
     "email": "datenschutz.de@dnb.com",
+    "webform": "https://www-prod.dnb.com/de-de/datenschutz/ihre-rechte-als-betroffener/selbstauskunft-widerspruch/",
     "web": "https://www-prod.dnb.com/de-de/",
     "sources": [
         "https://www-prod.dnb.com/de-de/impressum/",
@@ -37,8 +38,5 @@
     ],
     "suggested-transport-medium": "email",
     "request-language": "de",
-    "comments": [
-        "Webformular für Anfragen: https://www-prod.dnb.com/de-de/datenschutz/ihre-rechte-als-betroffener/selbstauskunft-widerspruch/"
-    ],
     "quality": "verified"
 }

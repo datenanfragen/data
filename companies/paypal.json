@@ -10,6 +10,7 @@
     "address": "22 – 24 Boulevard Royal\nL-2449 Luxembourg\nLuxembourg",
     "phone": "+49 800 723 4500",
     "email": "impressum@paypal.com",
+    "webform": "https://www.paypal.com/de/smarthelp/contact-us/privacy",
     "web": "https://www.paypal.com",
     "sources": [
         "https://www.paypal.com/de/webapps/mpp/ua/privacy-full",
@@ -28,9 +29,6 @@
             "desc": "E-Mail-Adresse PayPal-Konto",
             "type": "input"
         }
-    ],
-    "comments": [
-        "Webformular für Anfragen: https://www.paypal.com/de/smarthelp/contact-us/privacy"
     ],
     "quality": "verified"
 }

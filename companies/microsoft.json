@@ -5,29 +5,42 @@
     ],
     "name": "Microsoft Ireland Operations Ltd.",
     "runs": [
-        "Xbox Live (www.xbox.com)",
-        "Microsoft Store ",
-        "Skype (www.skype.com)",
-        "Cortana",
-        "Microsoft Edge browsing history",
+        "Azure",
         "Bing (www.bing.com)",
-        "Windows",
-        "Microsoft Office (www.office.com)",
-        "Office 365",
-        "OneDrive (onedrive.live.com)",
-        "SwiftKey",
-        "Wunderlist c/o 6Wunderkinder GmbH (www.wunderlist.com)",
+        "Cortana",
+        "Edge (Browser) / Microsoft Edge browsing history",
+        "Flipgrid",
+        "GitHub",
+        "GroupMe",
+        "LinkedIn",
+        "Microsoft Office (www.office.com) /Microsoft 365 (ehemals Office 365)",
+        "Microsoft Account",
+        "Microsoft Ads (Bing Ads)",
         "Microsoft Rewards",
-        "MileIQ (www.mileiq.com)"
+        "Microsoft Store",
+        "Microsoft Teams",
+        "MileIQ (www.mileiq.com)",
+        "MSN",
+        "Office Apps",
+        "OneDrive (onedrive.live.com)",
+        "Outlook.com (live.com)",
+        "Power BI and Power Platform",
+        "Privacy Dashboard",
+        "Skype (www.skype.com)",
+        "SwiftKey",
+        "To Do",
+        "Visual Studio",
+        "Windows",
+        "Xbox and gaming (z.B. www.xbox.com)"
     ],
     "address": "One Microsoft Place\nSouth County Business Park\nLeopardstown\nDublin 18\nIreland",
     "phone": "+353 1 295 3826",
+    "webform": "https://www.microsoft.com/en-us/concern/privacyrequest-msa",
     "web": "https://www.microsoft.com",
     "sources": [
-        "https://privacy.microsoft.com/privacystatement"
-    ],
-    "comments": [
-        "There is also a web form for requests: https://privacy.microsoft.com/privacy-questions"
+        "https://privacy.microsoft.com/privacystatement",
+        "https://www.microsoft.com/de-de/concern/privacy",
+        "https://github.com/datenanfragen/data/pull/2187"
     ],
     "quality": "verified"
 }

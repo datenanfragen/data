@@ -2,7 +2,7 @@
  * A single record of the Datenanfragen.de supervisory authority database. It represents the
  * contact information of an authority specifically for lodging complaints.
  * More information and access to the whole database at:
- * https://github.com/datenanfragen/companies
+ * https://github.com/datenanfragen/data
  */
 export interface AuthorityRecord {
     /**

@@ -3,10 +3,13 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "nextbike",
-    "address": "Erich-Zeigner-Allee 69-73\n04229 Leipzig\nDeutschland",
-    "phone": "+49 341 30898890",
-    "fax": "+49 341 308988913",
+    "name": "Tier Mobility SE",
+    "runs": [
+        "nextbike (ehem.)",
+        "nextbike by TIER"
+    ],
+    "address": "c/o WeWork Eichhornstr. 3\n10785 Berlin\nDeutschland",
+    "phone": "+49 30 69205046",
     "email": "datenschutz@nextbike.de",
     "web": "https://nextbike.de",
     "sources": [
@@ -15,8 +18,5 @@
         "https://www.nextbike.de/media/2021-09-06_Datenschutzerklaerung_APP_nextbike.pdf"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Webformular für Anfragen: https://www.spiritlegal.com/de/datenschutzbeauftragter-anfragen.html"
-    ],
     "quality": "verified"
 }

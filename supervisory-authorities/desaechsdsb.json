@@ -3,20 +3,18 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Der Sächsische Datenschutzbeauftragte",
-    "address": "Postfach 12 00 16\n01001 Dresden\nDeutschland",
-    "phone": "+49 351 493 5401",
-    "fax": "+49 351 493 5490",
-    "email": "saechsdsb@slt.sachsen.de",
+    "name": "Sächsische Datenschutz- und Transparenzbeauftragte",
+    "address": "Postfach 11 01 32\n01330 Dresden\nDeutschland",
+    "phone": "+49 351 85471 101",
+    "fax": "+49 351 85471 109",
+    "email": "saechsdsb@sdtb.sachsen.de",
+    "webform": "https://www.saechsdsb.de/petition",
     "pgp-fingerprint": "804A AD38 6935 4591 BA87  E9AA A761 773D A1AF FDDC",
     "pgp-url": "https://www.saechsdsb.de/images/stories/sdb_inhalt/behoerde/saechsdsb.asc",
     "web": "https://www.saechsdsb.de/",
     "sources": [
-        "https://www.saechsdsb.de/n-kontakt"
+        "https://www.saechsdsb.de/kontakt"
     ],
     "complaint-language": "de",
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Es steht auch ein Beschwerdeformular zur Verfügung: https://www.saechsdsb.de/component/rsform/form/3-kein-titel?Itemid=330"
-    ]
+    "suggested-transport-medium": "email"
 }

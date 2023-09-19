@@ -27,6 +27,8 @@ ${JSON.stringify(e, null, 4)}
                 json_pointer: e.pointer,
             }));
         }
+
+        return;
     },
 };
 export default check;

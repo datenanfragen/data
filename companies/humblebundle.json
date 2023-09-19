@@ -30,7 +30,6 @@
     "needs-id-document": false,
     "request-language": "en",
     "comments": [
-        "Support form: https://support.humblebundle.com/hc/en-us/requests/new",
         "Alternative email address: privacy@humblebundle.com"
     ],
     "quality": "tested"

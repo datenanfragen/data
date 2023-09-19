@@ -1,0 +1,26 @@
+{
+    "slug": "emeraldhost",
+    "relevant-countries": [
+        "de",
+        "ch",
+        "at"
+    ],
+    "categories": [
+        "entertainment",
+        "commerce",
+        "utility"
+    ],
+    "name": "ONENET IT UG (haftungsbeschränkt)",
+    "runs": [
+        "emeraldhost.de"
+    ],
+    "address": "Luruper Hauptstraße 194\n22547 Hamburg\nDeutschland",
+    "phone": "+49 6894 3893926",
+    "email": "info@emeraldhost.de",
+    "web": "https://emeraldhost.de/",
+    "sources": [
+        "https://emeraldhost.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2023"
+    ],
+    "quality": "verified"
+}

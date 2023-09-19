@@ -8,15 +8,17 @@
         "addresses"
     ],
     "name": "Regis24 GmbH",
-    "address": "Wallstraße 58\n10179 Berlin\nDeutschland",
+    "address": "Alte Rhinstr. 16\n12681 Berlin\nDeutschland",
     "phone": "+49 30 44350 240",
     "fax": "+49 30 44350 249",
     "email": "datenschutz@regis24.de",
+    "webform": "https://selbstauskunft.regis24.com/",
     "web": "https://www.regis24.de",
     "sources": [
         "https://www.regis24.de/datenschutz/",
         "https://www.regis24.de/impressum/",
-        "https://github.com/datenanfragen/data/pull/699"
+        "https://github.com/datenanfragen/data/pull/699",
+        "https://be.m.mail.regis24.de/asset/33:antragsformular-selbstauskunft-regis24pdf"
     ],
     "required-elements": [
         {
@@ -37,8 +39,5 @@
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Webformular für Anfragen: https://selbstauskunft.regis24.com/"
-    ],
     "quality": "tested"
 }
