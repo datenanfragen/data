@@ -1,18 +1,19 @@
 {
-    "slug": "basteln-de-buttinette",
+    "slug": "buttinette",
     "relevant-countries": [
         "de"
     ],
     "categories": [
         "commerce"
     ],
-    "name": "buttinette - \"Am liebsten selbst gemacht\"",
-    "address": "buttinette Textil-Versandhaus GmbH\nc/o SECUWING GmbH & Co. KG | Datenschutz Agentur\nFrauentorstraße 9\nDeutschland",
+    "name": "buttinette Textil-Versandhaus GmbH",
+    "address": "c/o SECUWING GmbH & Co. KG | Datenschutz Agentur\nFrauentorstraße 9\n86152 Augsburg\nDeutschland",
     "phone": "+49 821 90786458",
     "email": "datenschutz@buttinette.de",
     "web": "https://basteln-de.buttinette.com/",
-    "quality": "verified",
     "sources": [
         "https://github.com/datenanfragen/data/pull/1911"
-    ]
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
