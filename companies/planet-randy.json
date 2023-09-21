@@ -8,18 +8,14 @@
     ],
     "name": "Sunset Connect S.L",
     "runs": [
-        "www.planet-randy.com"
+        "Planet-Randy"
     ],
-    "address": "Sunset Connect S.L\nAleksandar Stankovic\nCalle Aragon 28 1-1\n07006 Palma de Mallorca",
+    "address": "Calle Aragon 28 1-1\n07006 Palma de Mallorca\nSpain",
     "email": "support@planet-randy.com",
     "web": "https://planet-randy.com/",
     "sources": [
         "https://planet-randy.com/datenschutz.php",
         "https://github.com/datenanfragen/data/pull/1970"
-    ],
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Diese Webseite benutzt für die Auslieferung einiger Dateien ein CDN (content delivery network) von Cloudflare, jsDelivr sowie StackPath. Durch ein CDN werden Dateien von einem sehr schnellen Server der möglichst nahe an Ihrem Standort ist gesendet. Dadurch wird die Ladezeit der Webseite verkürzt, da weniger Daten direkt von unserem langsameren eigentlichen Server geladen werden müssen. Cloudflare, jsDelivr und StackPath betreiben zahlreiche Server in Europa um unsere Dateien möglichst schnell zu Ihnen senden zu können. Es kann technisch jedoch nicht ausgeschlossen werden, dass Ihr Browser (z.B. weil Sie auf diese Webseite von außerhalb der EU zugreifen oder aus irgendeinem anderen Grund) auf einen Server von außerhalb der EU zugreift. In so einem Fall werden Daten von Ihrem Browser direkt in das jeweilige Land (Nord- und Südamerika, Asien, Australien) gesendet. Für diesen Fall stimmen Sie einer Überlassung Ihrer Daten in die USA und/oder das Land in dem der jeweilige Server steht zu. (Privacy Policy Cloudflare, Privacy Policy jsDelivr, Privacy Statement StackPath)"
     ],
     "quality": "verified"
 }
