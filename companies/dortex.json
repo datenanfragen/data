@@ -7,12 +7,15 @@
         "commerce"
     ],
     "name": "Dortex Werbung und Vertrieb mbH",
-    "address": "Dortex Werbung und Vertrieb mbH\nAm Schlosspark 66\n44357 Dortmund\nDeutschland",
+    "address": "Am Schlosspark 66\n44357 Dortmund\nDeutschland",
     "phone": "+49 231 9371000",
+    "fax": "+49 231 93710019",
     "email": "post@dortex.de",
     "web": "https://www.dortex.de/",
-    "quality": "verified",
     "sources": [
+        "https://www.dortex.de/datenschutz.html",
+        "https://www.dortex.de/impressum.html",
         "https://github.com/datenanfragen/data/pull/1912"
-    ]
+    ],
+    "quality": "verified"
 }
