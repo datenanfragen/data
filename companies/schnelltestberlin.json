@@ -7,11 +7,15 @@
         "health"
     ],
     "name": "WeCare Services GmbH",
-    "address": "WeCare Services GmbH\nAuguststraße 20\n10117 Berlin\nDeutschland",
+    "runs": [
+        "Schnelltest Berlin"
+    ],
+    "address": "Auguststraße 20\n10117 Berlin\nDeutschland",
+    "phone": "+49 30 28599654",
     "email": "kraska@dr-kraska.de",
     "web": "https://schnelltestberlin.de/",
     "sources": [
-        "https://docs.mein-schnelltest.com/Datenschutzinformationen_WeCare.pdf",
+        "https://schnelltestberlin.de/datenschutzerklaerung/",
         "https://github.com/datenanfragen/data/pull/1952"
     ],
     "suggested-transport-medium": "email",
