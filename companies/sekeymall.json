@@ -7,18 +7,16 @@
         "commerce"
     ],
     "name": "Salcar GmbH",
-    "runs": [],
-    "address": "An der Hebemärchte 6\n04316 Leipzig",
-    "phone": "03412025321238",
+    "runs": [
+        "SEKEYMALL"
+    ],
+    "address": "An der Hebemärchte 6\n04316 Leipzig\nDeutschland",
+    "phone": "+49 341 25321238",
     "email": "info@sekeymall.com",
     "web": "https://www.sekeymall.com",
     "sources": [
-        "www.sekeymall.com",
+        "https://www.sekeymall.com/info/uebersicht/impressum.html",
         "https://github.com/datenanfragen/data/pull/1974"
-    ],
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Firma hat keinen abo- beenden button in emails und reagiert nicht auf schriftliche Anfragen keine werbe Mails mehr zu verschicken"
     ],
     "quality": "verified"
 }
