@@ -8,14 +8,14 @@
     ],
     "name": "Swiss Life Select Deutschland GmbH",
     "runs": [
-        "www.swisslife-select-kundenportal.de"
+        "mySwissLifeSelect"
     ],
-    "address": "Swiss-Life-Platz 1\n30659 Hannover",
+    "address": "Swiss-Life-Platz 1\n30659 Hannover\nDeutschland",
+    "fax": "+49 511 90205224",
     "email": "datenschutz@swisslife-select.de",
     "web": "https://www.swisslife-select.de",
     "sources": [
         "https://www.swisslife-select.de/privatkunden/footer/datenschutz.html",
-        "https://www.swisslife-select-kundenportal.de/datenschutz",
         "https://www.swisslife-select-kundenportal.de/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/pull/1942"
     ],
