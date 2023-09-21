@@ -6,13 +6,17 @@
     "categories": [
         "insurance"
     ],
-    "name": "pronova BKK",
-    "address": "pronova BKK\nDatenschutz\nHorst-Henning-Platz 1\n51373 Leverkusen",
+    "name": "Pronova BKK",
+    "address": "Horst-Henning-Platz 1\n51373 Leverkusen\nDeutschland",
+    "phone": "+49 621 533911000",
+    "fax": "+49 621 533917000",
     "email": "datenschutz@pronovabkk.de",
-    "web": "https://www.pronovabkk.de/unternehmen/datenschutz.html",
+    "web": "https://www.pronovabkk.de",
     "sources": [
-        "https://www.pronovabkk.de/unternehmen/datenschutz.html#anker-1",
+        "https://www.pronovabkk.de/unternehmen/datenschutz.html",
+        "https://www.pronovabkk.de/impressum.html",
         "https://github.com/datenanfragen/data/pull/1890"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
