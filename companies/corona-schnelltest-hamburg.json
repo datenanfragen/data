@@ -3,13 +3,17 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "CHS Corona Schnelltest Hamburg UG",
+    "categories": [
+        "health"
+    ],
+    "name": "Corona Schnelltest Hamburg UG (haftungsbeschränkt)",
     "address": "Rellinger Straße 16\n20257 Hamburg\nDeutschland",
-    "phone": "+49 173 2461073",
+    "phone": "+49 173 8699859",
     "email": "info@corona-schnelltest-hamburg.de",
     "web": "https://corona-schnelltest-hamburg.de/",
-    "quality": "verified",
     "sources": [
+        "https://corona-schnelltest-hamburg.de/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/pull/1910"
-    ]
+    ],
+    "quality": "verified"
 }
