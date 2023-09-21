@@ -5,24 +5,16 @@
     ],
     "categories": [
         "ads",
-        "addresses",
-        "collection agency"
+        "addresses"
     ],
     "name": "useArtemis",
-    "runs": [
-        "Credibly",
-        "Rocket Social",
-        "FirstMan.co",
-        "PopShack.co",
-        "LunaWeb Ltd"
-    ],
-    "address": "26 Chem. de Chalin\n69130 Écully, France",
-    "email": "sam@useartemis.co",
+    "address": "26 Chem. de Chalin\n69130 Écully\nFrance",
+    "email": "hello@useartemis.co",
     "web": "https://useartemis.co/",
     "sources": [
         "https://useartemis.co/terms",
+        "https://chrome.google.com/webstore/detail/useartemis-email-finder-e/eblaafalmnibhddbmepjjdoohmhnfncf",
         "https://github.com/datenanfragen/data/pull/1951"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
