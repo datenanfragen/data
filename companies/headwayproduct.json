@@ -5,17 +5,14 @@
     ],
     "name": "GTHW App Limited",
     "runs": [
-        "Headway: Fun & Easy Growth",
-        "Headway Academy"
+        "Headway"
     ],
     "address": "24 Peiraios Str.\n1st floor\nStrovolos\n2023 Nicosia\nCyprus",
     "email": "support@get-headway.com",
     "web": "https://headwayproduct.com/start",
     "sources": [
-        "https://headwayproduct.com/start",
         "https://headwayproduct.com/policy/privacy-policy",
         "https://github.com/datenanfragen/data/pull/1958"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
