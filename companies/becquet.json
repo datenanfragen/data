@@ -3,13 +3,17 @@
     "relevant-countries": [
         "fr"
     ],
-    "name": "Becquet",
-    "address": "Rue François Arago 59930 La Chapelle D'Armentières",
-    "fax": "03 20 35 91 20",
+    "categories": [
+        "commerce"
+    ],
+    "name": "BECQUET, SASU",
+    "address": "Rue François Arago\n59930 La Chapelle D'Armentières\nFrance",
+    "email": "dpo@becquet.fr",
     "web": "https://www.becquet.fr/",
     "sources": [
-        "https://www.becquet.fr/mentions-legales",
+        "https://www.becquet.fr/conditions-de-vente#cgv-donneespersonnelles",
         "https://github.com/datenanfragen/data/pull/1953"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
