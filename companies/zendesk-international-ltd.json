@@ -8,10 +8,11 @@
     ],
     "name": "Zendesk International Ltd.",
     "address": "55 Charlemont Place\nSaint Kevin’s\nDublin\nD02 F985\nIreland",
-    "email": "privacy@zendesk.com",
+    "email": "euprivacy@zendesk.com",
     "sources": [
         "https://www.zendesk.de/company/customers-partners/privacy-policy/",
-        "https://github.com/datenanfragen/data/pull/951"
+        "https://github.com/datenanfragen/data/pull/951",
+        "https://github.com/datenanfragen/data/pull/1993"
     ],
     "required-elements": [
         {
@@ -24,5 +25,8 @@
         }
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative email address: privacy@zendesk.com "
+    ],
     "quality": "verified"
 }

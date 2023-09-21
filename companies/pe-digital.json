@@ -1,22 +1,17 @@
 {
     "slug": "pe-digital",
-    "name": "PE Digital GmbH",
-    "runs": [
-        "Online-Partnervermittlung Parship (www.parship.de)",
-        "Online-Partnervermittlung ElitePartner (www.elitepartner.de)"
+    "relevant-countries": [
+        "de"
     ],
-    "address": "Speersort 10\n20095 Hamburg\nDeutschland",
+    "name": "Parship",
+    "address": "c/o PE Digital GmbH\nSpeersort 10\n20095 Hamburg\nDeutschland",
     "fax": "+49 40 46 00 26 596",
     "email": "datenschutz@parship.de",
+    "webform": "https://www.parship.de/privacypolicy/personaldatainquiry",
     "web": "https://www.parship.de/",
     "sources": [
         "https://www.parship.de/privacypolicy/",
-        "https://www.parship.de/aboutus/",
-        "https://www.elitepartner.de/privacypolicy/",
-        "https://www.elitepartner.de/aboutus/"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.parship.de/aboutus/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

@@ -9,6 +9,7 @@
     "name": "Marriott International, Inc.",
     "address": "c/o Luxury Reservations Limited\n10 Earlsfort Terrace\nDublin D02 T380\nIreland",
     "email": "privacy@marriott.com",
+    "webform": "https://privacyportal-cdn.onetrust.com/dsarwebform/0894cd2c-85ba-4d0b-8ec1-e18f3735e0e0/e4eef8ab-3071-4679-a374-5847fbe290de.html",
     "web": "https://www.marriott.com/",
     "sources": [
         "https://www.marriott.com/about/privacy.mi"
@@ -36,8 +37,5 @@
         }
     ],
     "needs-id-document": true,
-    "comments": [
-        "Request must be made via the web form at: \nhttps://privacyportal-cdn.onetrust.com/dsarwebform/0894cd2c-85ba-4d0b-8ec1-e18f3735e0e0/e4eef8ab-3071-4679-a374-5847fbe290de.html\n\nIf the web form does not work, it may be sent via email and the Privacy team will open a request for you."
-    ],
     "quality": "tested"
 }

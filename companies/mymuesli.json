@@ -19,6 +19,7 @@
     "phone": "+49 89 8006578 14",
     "fax": "+49 89 8006578 29",
     "email": "support@mymuesli.com",
+    "webform": "https://www.mymuesli.com/contact/subject/14",
     "web": "https://www.mymuesli.com",
     "sources": [
         "https://www.mymuesli.com/datenschutz",
@@ -42,9 +43,6 @@
             "type": "address",
             "optional": true
         }
-    ],
-    "comments": [
-        "There is a webform available at https://www.mymuesli.com/contact/subject/14"
     ],
     "quality": "verified"
 }

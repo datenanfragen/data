@@ -15,16 +15,14 @@
     "web": "https://tidal.com/",
     "sources": [
         "https://tidal.com/privacy",
-        "https://github.com/datenanfragen/data/pull/1703"
+        "https://github.com/datenanfragen/data/pull/1703",
+        "https://github.com/datenanfragen/data/pull/2047"
     ],
     "required-elements": [
         {
             "desc": "Email",
             "type": "name"
         }
-    ],
-    "comments": [
-        "There is also a web form at:\nhttps://privacyportal-cdn.onetrust.com/dsarwebform/a4b6361b-ba67-42a5-919a-140274fa097d/a8935802-39e4-40e2-9df6-8b6bdd9fa3d2.html"
     ],
     "quality": "verified"
 }

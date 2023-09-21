@@ -11,6 +11,7 @@
     "phone": "+49 6126 9375 1765",
     "fax": "+49 6126 9375 93",
     "email": "datenschutz@global-group.de",
+    "webform": "https://www.global-group.de/de/unternehmen/datenschutz/widerspruch-auskunftsersuchen",
     "web": "https://www.global-group.de",
     "sources": [
         "https://www.global-group.de/de/unternehmen/datenschutz",
@@ -33,8 +34,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Haben auch eigenes Formular für Anfragen: https://www.global-group.de/de/unternehmen/datenschutz/widerspruch-auskunftsersuchen"
-    ],
     "quality": "verified"
 }

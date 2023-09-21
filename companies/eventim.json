@@ -10,20 +10,18 @@
     ],
     "name": "CTS EVENTIM AG & Co. KGaA",
     "runs": [
-        "EVENTIM FanTicket (www.fanticket.com)"
+        "fanSALE (www.fansale.de)"
     ],
     "address": "Contrescarpe 75-A\n28195 Bremen\nDeutschland",
-    "phone": "+49 1806 533 933",
+    "phone": "+49 421 20315511",
     "email": "datenschutz@eventim.de",
     "web": "https://www.eventim.de",
     "sources": [
         "https://www.eventim.de/help/data-protection/",
         "https://www.eventim.de/help/imprint/",
-        "https://github.com/datenanfragen/data/issues/40"
+        "https://github.com/datenanfragen/data/issues/40",
+        "https://github.com/datenanfragen/data/pull/2058"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Telefonnummer eigentlich +49 1806 533 933 (0,20 €/Anruf inkl. MwSt. aus den Festnetzen, max. 0,60 €/Anruf inkl. MwSt. aus den Mobilfunknetzen). Alternative Nummer übernommen von: https://www.0180.info/suche.html?s=01806533933"
-    ],
     "quality": "verified"
 }

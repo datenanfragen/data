@@ -8,12 +8,11 @@
     "phone": "+49 361 57 311 29 00",
     "fax": "+49 361 57 311 29 04",
     "email": "poststelle@datenschutz.thueringen.de",
-    "pgp-fingerprint": "0682 D526 DABB 8D14 526B  4492 67B7 BED0 A227 764F",
-    "pgp-url": "https://www.tlfdi.de/mam/tlfdi/start/tlfdi_schluessel_ab_dez_2015.txt",
+    "pgp-fingerprint": "F22C 242B DE79 A9E6 58C5  258E C10D 6A44 E2F5 11A2",
+    "pgp-url": "https://www.tlfdi.de/fileadmin/tlfdi/wir-ueber-uns/tlfdi_schluessel_ab_2020.txt",
     "web": "https://www.tlfdi.de",
     "sources": [
-        "https://www.tlfdi.de/tlfdi/kontakt/",
-        "https://www.tlfdi.de/tlfdi/kontakt/#pgp"
+        "https://www.tlfdi.de/kontakt"
     ],
     "complaint-language": "de",
     "suggested-transport-medium": "email"

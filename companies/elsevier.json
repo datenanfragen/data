@@ -19,6 +19,7 @@
     ],
     "address": "Radarweg 29\n1043 Amsterdam\nThe Netherlands",
     "email": "DPO@elsevier.com",
+    "webform": "https://service.elsevier.com/app/contact/supporthub/privacysupport/",
     "web": "https://www.elsevier.com/",
     "sources": [
         "https://www.elsevier.com/legal/privacy-policy",
@@ -38,8 +39,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "You can also fill out the form at https://service.elsevier.com/app/contact/supporthub/privacysupport/"
-    ],
     "quality": "verified"
 }

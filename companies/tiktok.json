@@ -14,15 +14,16 @@
         "Musical.ly Inc."
     ],
     "address": "10 Earlsfort Terrace\nDublin\nD02 T380\nIreland",
-    "email": "privacy@tiktok.com",
+    "webform": "https://www.tiktok.com/legal/report/privacy",
     "web": "https://www.tiktok.com",
     "sources": [
         "https://www.tiktok.com/legal/new-privacy-policy",
-        "https://www.tiktok.com/en-uk/privacy-policy"
+        "https://www.tiktok.com/en-uk/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2306"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "comments": [
-        "Web form for requests: https://www.tiktok.com/legal/report/privacy"
+        "Alternative webform: https://www.tiktok.com/legal/report/DPO"
     ],
     "quality": "verified"
 }

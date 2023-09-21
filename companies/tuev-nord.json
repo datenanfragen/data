@@ -43,6 +43,7 @@
     "phone": "+49 201 825 2165",
     "fax": "+49 511 998 61237",
     "email": "privacy@tuev-nord.de",
+    "webform": "https://www.tuev-nord.de/de/dsgvo/",
     "web": "https://www.tuev-nord.de",
     "sources": [
         "https://www.tuev-nord.de/de/datenschutz/",
@@ -56,8 +57,7 @@
     ],
     "suggested-transport-medium": "email",
     "comments": [
-        "Die angegebene Adresse ist für den Datenschutzbeauftragten. Eigentliche Adresse: Am TÜV 1, 30519 Hannover, Deutschland",
-        "Anfragen auch über Formular möglich: https://www.tuev-nord.de/de/dsgvo/"
+        "Die angegebene Adresse ist für den Datenschutzbeauftragten. Eigentliche Adresse: Am TÜV 1, 30519 Hannover, Deutschland"
     ],
     "quality": "verified"
 }

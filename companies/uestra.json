@@ -1,0 +1,25 @@
+{
+    "slug": "uestra",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft",
+    "runs": [
+        "fahrtenbuch.uestra.de"
+    ],
+    "address": "Am Hohen Ufer 6\n30159 Hannover\nDeutschland",
+    "phone": "+49 511 16680",
+    "email": "datenschutz@uestra.de",
+    "web": "https://www.uestra.de",
+    "sources": [
+        "https://www.uestra.de/datenschutz/"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Für den Mobilitätsshop gelten abweichende Informationen: https://shop.gvh.de/index.php/cms/privacy_policy/0."
+    ],
+    "quality": "verified"
+}

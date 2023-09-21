@@ -4,6 +4,7 @@
     },
     "devDependencies": {
         "@babel/runtime": "^7.11.0",
+        "@baltpeter/tsconfig": "^3.0.0",
         "@segment/ajv-human-errors": "^2.0.0",
         "@types/all-the-cities": "^3.1.0",
         "@types/chunk": "^0.0.0",
@@ -38,10 +39,10 @@
         "marked-terminal": "^4.2.0",
         "picocolors": "^1.0.0",
         "prettier": "^2.2.1",
-        "quicktype": "^15.0.260",
+        "quicktype": "^16.0.12",
         "ts-node": "^10.2.1",
         "type-fest": "^2.5.1",
-        "typescript": "^4.4.3",
+        "typescript": "5.1.6",
         "typesense": "^1.2.2"
     },
     "scripts": {
