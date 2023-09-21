@@ -6,19 +6,16 @@
     "categories": [
         "nonprofit"
     ],
-    "name": "UNO-Flüchtlingshilfe",
-    "address": "UNO-Flüchtlingshilfe\nGraurheindorfer Str. 149 a\n53117 Bonn",
-    "phone": "(0228) 90 90 86-00",
-    "fax": "(0228) 90 90 86-01",
-    "email": "info@uno-fluechtlingshilfe.de",
+    "name": "UNO-Flüchtlingshilfe e.V.",
+    "address": "Graurheindorfer Str. 149a\n53117 Bonn\nDeutschland",
+    "phone": "+49 228 90908600",
+    "fax": "+49 228 90908601",
+    "email": "datenschutz@uno-fluechtlingshilfe.de",
     "web": "https://www.uno-fluechtlingshilfe.de",
     "sources": [
-        "uno-fluechtlingshilfe.de",
+        "https://www.uno-fluechtlingshilfe.de/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/pull/1978"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Datenschutzteam: datenschutz@uno-fluechtlingshilfe.de"
-    ],
     "quality": "verified"
 }
