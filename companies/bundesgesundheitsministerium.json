@@ -4,17 +4,18 @@
         "de"
     ],
     "categories": [
-        "health"
+        "public body"
     ],
-    "name": "https://www.bundesgesundheitsministerium.de/service/kontakt.html",
-    "address": "Bundesministerium für Gesundheit\n\nBonn\nHausanschrift \tRochusstraße 1, 53123 Bonn\nPostanschrift  \t53107 Bonn\n\nBerlin\nHausanschrift \tMauerstraße 29, 10117 Berlin\nPostanschrift  \t11055 Berlin",
-    "phone": "030/18441-0",
-    "fax": "030/18441-4900",
-    "email": "poststelle@bmg.bund.de",
+    "name": "Bundesministerium für Gesundheit",
+    "address": "11055 Berlin\nDeutschland",
+    "phone": "+49 228 994410",
+    "email": "DSB@bmg.bund.de",
     "web": "https://www.bundesgesundheitsministerium.de",
     "sources": [
         "https://www.bundesgesundheitsministerium.de/service/kontakt.html",
         "https://github.com/datenanfragen/data/pull/2043"
     ],
+    "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
