@@ -3,12 +3,11 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [],
     "name": "NIWA GbR",
     "runs": [
-        "hannover-singles.de"
+        "Hannover-Singles.de"
     ],
-    "address": "Großburgwedeler Str. 15a\n30938 Burgwedel",
+    "address": "Großburgwedeler Str. 15a\n30938 Burgwedel\nDeutschland",
     "email": "datenschutz@niwa-gbr.de",
     "web": "https://www.niwa-gbr.de",
     "sources": [
