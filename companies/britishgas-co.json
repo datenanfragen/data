@@ -6,12 +6,15 @@
     "categories": [
         "utility"
     ],
-    "name": "British Gas",
-    "address": "The Data Protection Officer,\nCentrica Plc,\nMillstream,\nMaidenhead Road,\nWindsor,\nBerkshire\nSL4 5GD",
-    "email": "Privacy@centrica.com",
+    "name": "Centrica Plc",
+    "runs": [
+        "British Gas"
+    ],
+    "address": "Millstream\nMaidenhead Road\nWindsor\nBerkshire\nSL4 5GD\nUnited Kingdom",
+    "email": "privacy@centrica.com",
     "web": "https://www.britishgas.co.uk",
     "sources": [
-        "https://www.britishgas.co.uk",
+        "https://www.britishgas.co.uk/privacy-policy.html",
         "https://github.com/datenanfragen/data/pull/2071"
     ],
     "suggested-transport-medium": "email",
