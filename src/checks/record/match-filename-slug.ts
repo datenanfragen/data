@@ -16,6 +16,8 @@ Either rename the file or change the slug.`,
                 json_pointer: '/slug',
                 suggestions: [basename(filename, '.json')],
             };
+
+        return;
     },
 };
 export default check;

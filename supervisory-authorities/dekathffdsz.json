@@ -3,15 +3,14 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Katholisches Datenschutzzentrum Frankfurt (Mittel- und Südwestdeutsche Bistümer)",
-    "address": "Diözesandatenschutzbeauftragte\nDomplatz 3\n60311 Frankfurt\nDeutschland",
+    "name": "Katholisches Datenschutzzentrum Frankfurt/M. KdöR (Mittel- und Südwestdeutsche Bistümer)",
+    "address": "Domplatz 3\nHaus am Dom\n60311 Frankfurt/M.\nDeutschland",
     "phone": "+49 69 800 871 8800",
     "fax": "+49 69 800 871 8815",
     "email": "info@kdsz-ffm.de",
-    "web": "https://kdsz-ffm.bistumlimburg.de/",
+    "web": "https://www.kath-datenschutzzentrum-ffm.de/",
     "sources": [
-        "https://kdsz-ffm.bistumlimburg.de/impressum/",
-        "https://www.datenschutz-kirche.de/%C3%BCbersicht_aufsichtsbeh%C3%B6rden"
+        "https://www.kath-datenschutzzentrum-ffm.de/impressum/"
     ],
     "complaint-language": "de",
     "comments": [

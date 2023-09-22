@@ -16,6 +16,7 @@
     "phone": "+1 415 222 9670",
     "fax": "+1 415 222 9958",
     "email": "DPO@twitter.com",
+    "webform": "https://help.twitter.com/forms/privacy",
     "web": "https://twitter.com",
     "sources": [
         "https://twitter.com/en/privacy",
@@ -24,9 +25,5 @@
         "https://www.mopub.com/en/legal/privacy"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Contact form for privacy-related questions: https://help.twitter.com/forms/privacy",
-        "Contact form for messages to the data protection officer: https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp"
-    ],
     "quality": "verified"
 }

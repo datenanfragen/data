@@ -13,6 +13,7 @@
     "address": "Chaussée de Mons 1424\n1070 Brussels\nBelgium",
     "phone": "+49 30 209 11 209",
     "email": "privacy@coca-cola.com",
+    "webform": "https://privacyportal.onetrust.com/webform/e3ab7adf-beb9-4769-844e-c1ec4e6d17bb/f2a168c7-8bfd-4f84-bf62-f11feac5dae6",
     "web": "https://www.coca-cola.com",
     "sources": [
         "https://www.coca-cola-france.fr/politique-de-confidentialite",
@@ -37,8 +38,5 @@
         "https://github.com/datenanfragen/data/issues/557"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Online-Formular:\nhttps://privacyportal.onetrust.com/webform/e3ab7adf-beb9-4769-844e-c1ec4e6d17bb/f2a168c7-8bfd-4f84-bf62-f11feac5dae6"
-    ],
     "quality": "verified"
 }

@@ -8,13 +8,10 @@
     "phone": "+31 70 888 85 00",
     "fax": "+31 70 888 85 01",
     "email": "info@autoriteitpersoonsgegevens.nl",
+    "webform": "https://autoriteitpersoonsgegevens.nl/nl/meldingsformulier-klachten",
     "web": "https://autoriteitpersoonsgegevens.nl",
     "sources": [
-        "https://autoriteitpersoonsgegevens.nl/en/contact-dutch-dpa/contact-us",
-        "http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080"
+        "https://autoriteitpersoonsgegevens.nl/en/contact-dutch-dpa/contact-us"
     ],
-    "complaint-language": "nl",
-    "comments": [
-        "A web form for complaints is also available: https://autoriteitpersoonsgegevens.nl/nl/zelf-doen/privacyrechten/klacht-indienen-bij-de-ap"
-    ]
+    "complaint-language": "nl"
 }

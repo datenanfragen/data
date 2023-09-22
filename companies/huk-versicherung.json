@@ -25,13 +25,11 @@
     "phone": "+49 9561 960",
     "fax": "+49 9561 963636",
     "email": "info@huk-coburg.de",
+    "webform": "https://www.huk.de/hukinfo/af/form.html?formname=/sonstige/datenschutz",
     "web": "https://www.huk.de/",
     "sources": [
         "https://www.huk.de/datenschutz.html?ID=D0045",
         "https://www.huk.de/impressum.html"
-    ],
-    "comments": [
-        "Webformular, um direkt eine Nachricht an den Datenschutzbeauftragten zu senden: https://www.huk.de/start_webformular.do?id=88"
     ],
     "relevant-countries": [
         "de"

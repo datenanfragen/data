@@ -15,6 +15,19 @@
         "https://www.holidaycheck.de/impressum",
         "https://github.com/datenanfragen/data/pull/1960"
     ],
+    "required-elements": [
+        {
+            "type": "name",
+            "desc": "Name",
+            "optional": false
+        },
+        {
+            "type": "email",
+            "desc": "E-Mail-Adresse",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

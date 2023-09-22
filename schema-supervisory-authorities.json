@@ -49,6 +49,12 @@
 			"description": "An email address where the authority can be reached to lodge complaints. Preferably a specific complaint@[domain.tld] address if available.",
 			"format": "idn-email"
 		},
+		"webform": {
+			"type": "string",
+			"title": "Web form",
+			"description": "A URL to a web form that can be used to lodge complaints with the authority. This should only be used for web forms specifically for complaints. General contact forms should only be entered here in rare cases, e.g. if the authority has neither an email address nor a complaint web form.",
+			"format": "uri"
+		},
 		"pgp-fingerprint": {
 			"type": "string",
 			"title": "PGP fingerprint",

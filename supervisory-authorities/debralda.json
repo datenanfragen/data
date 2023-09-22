@@ -8,17 +8,14 @@
     "phone": "+49 33203 356 0",
     "fax": "+49 33203 356 49",
     "email": "poststelle@lda.brandenburg.de",
-    "pgp-fingerprint": "E899 5780 7F65 F282 8CAC  C504 37F3 83FE 0844 834D",
-    "pgp-url": "https://www.lda.brandenburg.de/media_fast/4055/LDABbgpublickey.asc",
+    "webform": "https://www.lda.brandenburg.de/lda/de/service/formulare-und-musterschreiben/beschwerdeformular/",
+    "pgp-fingerprint": "D0D7 0D36 C6F9 F97C 74AA  33AB 1386 F557 7511 8EC7",
+    "pgp-url": "https://www.lda.brandenburg.de/sixcms/media.php/9/LDABbgPublickey.asc",
     "web": "https://www.lda.brandenburg.de",
     "sources": [
-        "https://www.lda.brandenburg.de/cms/detail.php/bb1.c.241171.de",
-        "https://www.lda.brandenburg.de/cms/detail.php/bb1.c.277104.de",
-        "https://www.lda.brandenburg.de/cms/detail.php/bb1.c.417504.de"
+        "https://www.lda.brandenburg.de/lda/de/ueber-uns/kontakt/",
+        "https://www.lda.brandenburg.de/lda/de/ueber-uns/kontakt/pgp-schluessel/"
     ],
     "complaint-language": "de",
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Es steht auch ein Beschwerdeformular zur Verfügung: https://www.lda.brandenburg.de/lda/de/service/formulare-und-musterschreiben/beschwerdeformular/"
-    ]
+    "suggested-transport-medium": "email"
 }

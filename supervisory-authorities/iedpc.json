@@ -4,13 +4,14 @@
         "ie"
     ],
     "name": "Irish Data Protection Commission",
-    "address": "Canal House\nStation Road\nPortarlington\nR32 AP23 Co. Laois\nIreland",
-    "phone": "+353 57 868 4800",
-    "fax": "+353 57 868 4757",
+    "address": "21 Fitzwilliam Square South\nDublin 2\nD02 RD28\nIreland",
+    "phone": "+353 1800 437 737",
     "email": "info@dataprotection.ie",
+    "webform": "https://forms.dataprotection.ie/contact",
     "web": "https://www.dataprotection.ie",
     "sources": [
-        "https://www.dataprotection.ie/docs/EN/Contact-us/m/11.htm"
+        "https://www.dataprotection.ie/en/contact/how-contact-us",
+        "https://www.dataprotection.ie/holding.html"
     ],
     "complaint-language": "en"
 }

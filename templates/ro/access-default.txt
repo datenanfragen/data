@@ -1,0 +1,27 @@
+În atenția dumneavoastră:
+
+Solicit accesul pe această cale în concordanță cu Articolul 15 din RGPD. Vă rog să-mi confirmați dacă procesați datele mele personale (în concordanță cu Art. 4(1) și (2) din RGPD).
+
+În cazul în care datele mele sunt procesate în concordanță cu Art. 15(3) din RGPD solicit o copie <italic>a tuturor</italic> datelor mele personale procesate incluzând orice date pseudonimizate. De asemenea, solicit accesul următoarelor informații în concordanță cu Art. 15(1) din RGPD:
+1. scopurile procesării;
+2. categoriile de date personale procesate;
+3. recipienții sau categoriile de recipienți către care datele mele personale au fost sau vor fi divulgate;
+4. după caz, perioada avizată pentru care datele personale vor fi stocate sau, dacă nu este cazul, criteriile folosite pentru determinarea acelei perioade;
+5. unde datele personale nu sunt colectate de autoritatea vizată, orice informație valabilă pentru determinarea sursei;
+6. existența sistemelor automate de luare a deciziilor incluzând profilarea referite în Art. 22(2) și (4) din RGDP și cel puțin în acele cazuri, informație utilă cu privire la logica implicată cât și semnificația și consecințele anticipate ale respectivei procesări vizând persoana mea.
+
+Dacă transferați datele mele personale către o terță parte sau o organizație internațională, solicit să fiu informat despre măsurile de protecție luate în privința transferului de date în concordanță cu Art. 46 din RGDP.
+[data_portability>
+Solicit datele mele personale încredințate dumneavoastră într-o anumită structură standard ce permite citirea automată în concordanță cu Art. 20(1) din RGDP.
+]
+Solicitarea mea include explicit [runs>următoarea cât și ]orice alte servicii și firme pentru care sunteți autoritatea de control conform Art. 4(7) din RGDP[runs>: {runs_list}].
+
+Precum este specificat în Art. 12(3) din RGDP, cererea mea de informații trebuie soluționată fără întârziere și în orice circumstanțe în termen de 1 lună de la primirea cererii. Conform Art. 15(3) din RGDP trebuie să soluționați cerea fără a-mi atribui nici un fel de costuri suplimentare.
+[has_fields>
+Includ pe această cale următoarele informații utile la identificarea mea:
+{id_data}]
+În cazul în care cererea mea nu este soluționată în termenul specificat, dețin dreptul de a ataca pe cale legală și de a depune plângere la autoritatea competentă.
+
+Vă mulțumesc anticipat.
+
+Cu stimă,

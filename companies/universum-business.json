@@ -11,6 +11,7 @@
     "phone": "+49 69 42091 325",
     "fax": "+49 69 42091 353",
     "email": "datenschutz@universum-group.de",
+    "webform": "https://www.universum-group.de/datenschutz/selbstauskunft/",
     "web": "https://www.universum-group.de",
     "sources": [
         "https://www.universum-group.de/datenschutz/",
@@ -27,7 +28,6 @@
         }
     ],
     "comments": [
-        "Webformular für Anfragen: https://www.universum-group.de/datenschutz/selbstauskunft/",
         "Erbitten frühere Anschriften nur, wenn Änderung in den letzten 36 Monaten stattgefunden hat."
     ],
     "needs-id-document": false,
