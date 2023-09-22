@@ -3,8 +3,11 @@
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "collection agency"
+    ],
     "name": "mediaFinanz GmbH",
-    "address": "mediaFinanz GmbH\nWeiße Breite 5\n49084 Osnabrück\nDeutschland",
+    "address": "Weiße Breite 5\n49084 Osnabrück\nDeutschland",
     "email": "datenschutz@mediafinanz.de",
     "web": "https://www.mediafinanz.de",
     "sources": [
