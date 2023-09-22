@@ -7,24 +7,20 @@
         "ads"
     ],
     "name": "SLS Data",
-    "runs": [
-        "Mailody",
-        "SoftD",
-        "Fly-Base"
-    ],
-    "address": "12 RUE VIVIENNE\n75002 PARIS\nFRANCE",
+    "address": "12 rue Vivienne\n75002 Paris\nFrance",
     "email": "dpo@sls-data.com",
     "web": "https://www.sls-data.com",
+    "sources": [
+        "https://www.sls-data.com/politique",
+        "https://github.com/datenanfragen/data/pull/1980"
+    ],
     "required-elements": [
         {
             "desc": "Adresse email",
-            "type": "email",
+            "type": "name",
             "optional": false
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "sources": [
-        "https://github.com/datenanfragen/data/pull/1980"
-    ]
+    "quality": "verified"
 }
