@@ -10,40 +10,15 @@
     "runs": [
         "Vodafone Sales App"
     ],
-    "address": "Oberbilker Allee 165\nD-40227 Düsseldorf",
+    "address": "c/o TMD Secure GmbH\nLannerstr. 22\n41189 Mönchengladbach\nDeutschland",
     "phone": "+49 2166 1359897",
     "fax": "+49 2166 551093",
     "email": "datenschutz@mvneco.com",
     "web": "https://mvneco.com/",
     "sources": [
         "https://mvneco.com/datenschutz",
-        "https://www.bsi.bund.de/SharedDocs/Kontaktinformationen/mvneco_gmbh.html",
-        "https://www.bsi.bund.de/SharedDocs/Zertifikate_TR/eID-Anwendungen/BSI-K-TR-0391-2020.html",
-        "https://play.google.com/store/apps/details?id=com.mvneco.simActivationAppVodafone",
         "https://www.mvneco.com/privacy-salesapp.html",
         "https://github.com/datenanfragen/data/pull/2052"
-    ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name",
-            "optional": false
-        },
-        {
-            "desc": "Adresse",
-            "type": "address",
-            "optional": false
-        },
-        {
-            "desc": "Geburtsdatum",
-            "type": "birthdate",
-            "optional": true
-        },
-        {
-            "desc": "E-Mail",
-            "type": "email",
-            "optional": true
-        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
