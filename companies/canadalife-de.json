@@ -1,5 +1,5 @@
 {
-    "slug": "canadalife",
+    "slug": "canadalife-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,15 +7,15 @@
         "finance"
     ],
     "name": "Canada Life Assurance Europe plc",
-    "address": "Niederlassung für Deutschland\nHohenzollernring 72\n50672 Köln\nDeutschland",
+    "address": "Siemensstraße 8\n63263 Neu-Isenburg\nDeutschland",
+    "phone": "+49 6102 3061800",
+    "fax": "+49 6102 3061801",
     "email": "CLE_Datenschutz@canadalife.de",
     "web": "https://www.canadalife.de",
     "sources": [
-        "https://www.canadalife.de/impressum/",
-        "https://www.canadalife.de/datenschutz-sicherheit/",
+        "https://www.canadalife.de/media/datenschutzhinweise-bei-beantragung-eines-versicherungsvertrags-gemaess-artikel-13-dsgvo.pdf",
         "https://github.com/datenanfragen/data/pull/2070"
     ],
     "suggested-transport-medium": "email",
-    "comments": [],
     "quality": "verified"
 }
