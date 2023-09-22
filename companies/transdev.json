@@ -64,8 +64,9 @@
         "Transdev Rhein-Ruhr GmbH"
     ],
     "address": "Georgenstraße 22\n10117 Berlin\nDeutschland",
-    "phone": "030 20073599",
+    "phone": "+49 30 20073599",
     "email": "datenschutz@transdev.de",
+    "webform": "https://www.transdev.de/de/ds-kontakt",
     "web": "https://www.transdev.de",
     "sources": [
         "https://www.transdev.de/de/datenschutzerklaerung-transdev-vertrieb-gmbh",
@@ -75,8 +76,5 @@
         "https://github.com/datenanfragen/data/pull/2059"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Anbieter diverser Verkehrsunternehmen, aber auch Aboverwaltung und Kundenservice für Verkehrsverbünde (z.B. VRR Check-In Tickets)"
-    ],
     "quality": "verified"
 }
