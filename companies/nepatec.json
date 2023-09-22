@@ -3,10 +3,12 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [],
     "name": "nepatec GmbH",
     "runs": [
-        "eDocBox eSignatur"
+        "eDocBox eSignatur",
+        "edocbox.de",
+        "edocbox.nepatec.de",
+        "nepatec.de/showOfficialIps.php"
     ],
     "address": "Seelhorststraße 44\n30175 Hannover\nDeutschland",
     "phone": "+49 511 93594651",
@@ -16,7 +18,8 @@
     "sources": [
         "https://www.nepatec.de/j/privacy",
         "https://www.edocbox.de/j/privacy",
-        "https://github.com/datenanfragen/data/pull/1939"
+        "https://github.com/datenanfragen/data/pull/1939",
+        "https://github.com/datenanfragen/data/pull/2362"
     ],
     "required-elements": [
         {
@@ -34,5 +37,5 @@
     ],
     "needs-id-document": true,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
