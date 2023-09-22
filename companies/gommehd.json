@@ -6,12 +6,13 @@
         "ch"
     ],
     "name": "GommeHDnet GmbH",
-    "address": "Domstraße 10\n20095 Hamburg\nDeutschland",
+    "address": "Salzstr. 1\n21335 Lüneburg\nDeutschland",
+    "email": "info@gommehd.net",
     "web": "https://www.gommehd.net/",
     "sources": [
         "https://www.gommehd.net/terms/privacy",
+        "https://www.gommehd.net/terms/imprint",
         "https://github.com/datenanfragen/data/pull/1998"
     ],
-    "suggested-transport-medium": "letter",
     "quality": "verified"
 }
