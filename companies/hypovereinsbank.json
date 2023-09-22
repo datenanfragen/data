@@ -10,20 +10,13 @@
     "runs": [
         "HypoVereinsbank"
     ],
-    "address": "Datenschutzbeauftragter\nPostfach\n80311 München",
+    "address": "80311 München\nDeutschland",
     "phone": "+49 89 3780",
     "email": "datenschutzrechte@unicredit.de",
-    "web": "https://www.hypovereinsbank.de/hvb/footer/datenschutz",
+    "web": "https://www.hypovereinsbank.de",
     "sources": [
         "https://www.hypovereinsbank.de/hvb/footer/datenschutz",
         "https://github.com/datenanfragen/data/pull/2050"
-    ],
-    "required-elements": [
-        {
-            "desc": "IBAN",
-            "type": "input",
-            "optional": true
-        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
