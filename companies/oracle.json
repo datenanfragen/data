@@ -17,6 +17,7 @@
     ],
     "address": "Hauptstraße 4\n85579 Neubiberg / München\nGermany",
     "phone": "+1 650 506 7000",
+    "webform": "https://www.oracle.com/legal/data-privacy-inquiry-form.html",
     "web": "https://www.oracle.com",
     "sources": [
         "https://www.oracle.com/legal/privacy/services-privacy-policy.html",
@@ -27,8 +28,5 @@
         "https://www.oracle.com/industries/hospitality/products/opera-cloud-services.html"
     ],
     "custom-access-template": "access-tracking",
-    "comments": [
-        "There is also a web form for requests: https://www.oracle.com/legal/data-privacy-inquiry-form.html"
-    ],
     "quality": "verified"
 }

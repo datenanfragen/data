@@ -8,11 +8,13 @@
     "phone": "+49 681 94781 0",
     "fax": "+49 681 94781 29",
     "email": "poststelle@datenschutz.saarland.de",
-    "pgp-fingerprint": "FEF8 1D51 A165 A81F 00ED  EF0C F3EF 03DE 520C C9BE",
-    "pgp-url": "https://datenschutz.saarland.de/fileadmin/pgp/datenschutzzentrum-key_.asc",
+    "webform": "https://www.datenschutz.saarland.de/online-dienste/beschwerdeformular",
+    "pgp-fingerprint": "F94D 5562 FEA3 27B7 D4E6  898F 07CF 5ADF 4B44 088A",
+    "pgp-url": "https://www.datenschutz.saarland.de/fileadmin/schluessel/datenschutzzentrum-pubkey.asc",
     "web": "https://datenschutz.saarland.de/",
     "sources": [
-        "https://datenschutz.saarland.de/ueber-uns/kontakt/"
+        "https://www.datenschutz.saarland.de/ueber-uns/kontakt-und-erreichbarkeit",
+        "https://www.datenschutz.saarland.de/impressum"
     ],
     "complaint-language": "de",
     "suggested-transport-medium": "email"

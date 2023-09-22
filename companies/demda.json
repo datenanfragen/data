@@ -11,14 +11,12 @@
     "phone": "+49 800 6060260",
     "fax": "+49 421 380 105 0",
     "email": "info@demda.de",
+    "webform": "https://www.demda.de/eigenauskunft.php",
     "web": "https://www.demda.de/",
     "sources": [
         "https://www.demda.de/index.php?ids=24",
         "https://www.demda.de/datenschutzerklaerung.php",
         "https://github.com/datenanfragen/data/issues/61"
-    ],
-    "comments": [
-        "Beantragung der Eigenauskunft auch über Formular unter https://www.demda.de/eigenauskunft.php möglich."
     ],
     "quality": "verified"
 }

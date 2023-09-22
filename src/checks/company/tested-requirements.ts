@@ -14,6 +14,8 @@ const check: CompanyCheck = {
                 suggestions: ['verified'],
             };
         }
+
+        return;
     },
 };
 export default check;

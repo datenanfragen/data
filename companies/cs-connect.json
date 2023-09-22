@@ -11,6 +11,7 @@
     "phone": "+49 611 53269 470",
     "fax": "+49 611 53269 468",
     "email": "datenschutz@cs-connect.de",
+    "webform": "https://www.cs-connect.de/kontakt/eigenauskunft.jsp",
     "web": "https://www.cs-connect.de",
     "sources": [
         "https://www.cs-connect.de/datenschutz.jsp",
@@ -29,8 +30,5 @@
     "request-language": "de",
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Webformular für Anfragen: https://www.cs-connect.de/kontakt/eigenauskunft.jsp"
-    ],
     "quality": "tested"
 }

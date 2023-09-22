@@ -7,14 +7,16 @@ const check: Check = {
     url: 'https://github.com/datenanfragen/data/issues/1740',
     severity: 'ERROR',
     run: (json) => {
-        if (!('suggested-transport-medium' in json)) return;
         const medium = json['suggested-transport-medium'];
+        if (!medium) return;
         if (medium == SuggestedTransportMedium.Letter) return; // this is covered by the schema itself, as records have to have an address.
         if (!(medium in json))
             return {
                 message: `Suggested-transport-medium is set to '${medium}', but the ${medium} is not defined in the record.`,
                 json_pointer: '/suggested-transport-medium',
             };
+
+        return;
     },
 };
 

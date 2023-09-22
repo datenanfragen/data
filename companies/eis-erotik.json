@@ -11,13 +11,14 @@
         "Triple A Sales GmbH"
     ],
     "address": "Am Lenkwerk 3\n33609 Bielefeld\nDeutschland",
-    "phone": "+49 800 4450000",
-    "fax": "+49 800 4460000",
-    "email": "kontakt-dsb@althammer-kill.de",
+    "phone": "+49 221 775365151",
+    "fax": "+49 521 3046863",
+    "email": "datenschutz@eis.de",
     "web": "https://www.eis.de/",
     "sources": [
         "https://www.eis.de/datenschutz",
-        "https://www.eis.de/impressum"
+        "https://www.eis.de/impressum",
+        "https://github.com/datenanfragen/data/pull/2076"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

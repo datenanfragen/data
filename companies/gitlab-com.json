@@ -9,6 +9,7 @@
     ],
     "address": "Ondiep 108\nUtrecht, 3552 EK\nThe Netherlands",
     "email": "DPO@gitlab.com",
+    "webform": "https://support.gitlab.io/account-deletion/",
     "web": "https://gitlab.com",
     "sources": [
         "https://about.gitlab.com/privacy/",
@@ -30,8 +31,5 @@
         }
     ],
     "request-language": "en",
-    "comments": [
-        "Web form must be used for any access or deletion request: https://support.gitlab.io/account-deletion/"
-    ],
     "quality": "verified"
 }
