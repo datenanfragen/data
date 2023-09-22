@@ -8,10 +8,13 @@
     ],
     "name": "Gothaer Digital GmbH",
     "address": "Hohe Str. 160/168\n50667 Köln\nDeutschland",
+    "phone": "+49 221 97589464",
+    "fax": "+49 221 308103",
     "email": "info@gothaer-digital.de",
     "web": "https://www.gothaer-digital.de",
     "sources": [
         "https://www.gothaer-digital.de/data-privacy",
+        "https://www.gothaer-digital.de/imprint",
         "https://github.com/datenanfragen/data/pull/1996"
     ],
     "quality": "verified"
