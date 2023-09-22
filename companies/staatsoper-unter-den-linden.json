@@ -1,5 +1,5 @@
 {
-    "slug": "staatsoper-berlin",
+    "slug": "staatsoper-unter-den-linden",
     "relevant-countries": [
         "de"
     ],
@@ -7,8 +7,9 @@
         "entertainment"
     ],
     "name": "Staatsoper Unter den Linden",
-    "address": "Staatsoper Unter den Linden\nVertrieb / Kundendatenschutz\nUnter den Linden 7\n10117 Berlin",
-    "email": "kundendatenschutz@staatsoper-berlin.de",
+    "address": "Unter den Linden 7\n10117 Berlin\nDeutschland",
+    "phone": "+49 30 34384148",
+    "email": "datenschutz@oper-in-berlin.de",
     "web": "https://www.staatsoper-berlin.de",
     "sources": [
         "https://www.staatsoper-berlin.de/de/extra/datenschutz/",
