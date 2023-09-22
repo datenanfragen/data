@@ -3,9 +3,13 @@
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "telecommunication"
+    ],
     "name": "Vercel Inc.",
-    "address": "Vercel Inc.\n340 S Lemon Ave #4133\nWalnut, CA 91789",
+    "address": "c/o EDPO\nAvenue Huart Hamoir 71\n1030 Brussels\nBelgium",
     "email": "privacy@vercel.com",
+    "webform": "https://edpo.com/gdpr-data-request/",
     "web": "https://vercel.com",
     "sources": [
         "https://vercel.com/legal/privacy-policy",
