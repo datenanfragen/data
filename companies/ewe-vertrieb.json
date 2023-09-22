@@ -1,5 +1,5 @@
 {
-    "slug": "ewe",
+    "slug": "ewe-vertrieb",
     "relevant-countries": [
         "de"
     ],
@@ -7,8 +7,8 @@
         "utility"
     ],
     "name": "EWE VERTRIEB GmbH",
-    "address": "Cloppenburger Str. 310\n26133 Oldenburg",
-    "phone": "044180005555",
+    "address": "Cloppenburger Str. 310\n26133 Oldenburg\nDeutschland",
+    "phone": "+49 441 80005555",
     "email": "datenschutz@ewe.de",
     "web": "https://www.ewe.de/",
     "sources": [
@@ -16,8 +16,5 @@
         "https://github.com/datenanfragen/data/pull/2034"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Bitte ausschließlich EWE VERTRIEB GmbH. Für Anfragen zu anderen EWE-Gesellschaften sind diese zwingend direkt zu kontaktieren"
-    ],
     "quality": "verified"
 }
