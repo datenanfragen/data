@@ -1,19 +1,18 @@
 {
     "slug": "shein",
     "relevant-countries": [
-        "all"
+        "fr"
     ],
     "categories": [
         "commerce"
     ],
     "name": "Infinite Styles Ecommerce Co., Ltd.",
     "runs": [
-        "SHEIN",
         "ZoeTop Business Co., Ltd.",
         "Roadget Business Pte. Ltd."
     ],
     "address": "1-2 Victoria Building\nHaddington Road\nDublin 4\nIreland",
-    "phone": "+49 1573598 4912",
+    "phone": "+49 1573 5984912",
     "email": "data@shein.com",
     "webform": "https://shein.com/user/privacy_request",
     "web": "https://www.shein.com/",
@@ -21,7 +20,8 @@
         "https://de.shein.com/Privacy-Security-Policy-a-282.html",
         "https://de.shein.com/imprint-a-746.html",
         "https://de.shein.com/Privacy-Center-a-1045.html",
-        "https://beta.companieshouse.gov.uk/company/FC033476"
+        "https://beta.companieshouse.gov.uk/company/FC033476",
+        "https://github.com/datenanfragen/data/pull/2363"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
