@@ -1,19 +1,13 @@
 {
-    "slug": "official-sensitive",
+    "slug": "official-sensitive-ltd",
     "relevant-countries": [
         "gb"
     ],
-    "categories": [
-        "public body"
-    ],
-    "name": "Official-Sensitive",
+    "name": "Official-Sensitive Ltd.",
     "address": "Postal Point 428\nManchester\nM8 2FS\nUnited Kingdom",
-    "email": "DPO@official-sensitive.uk",
-    "web": "https://www.official-sensitive.uk",
     "sources": [
         "https://ico.org.uk/ESDWebPages/Entry/ZB494428",
         "https://github.com/datenanfragen/data/pull/2112"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
