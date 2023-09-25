@@ -1,15 +1,19 @@
 {
     "slug": "privilegiosencompras",
     "relevant-countries": [
-        "all"
+        "es"
     ],
-    "name": "Webloyalty International, S.à.r.l",
-    "address": "Avenue Reverdil 8,\n1260 Nyon, \nZwitserland",
-    "email": "atencionalcliente@privilegiosencomp",
+    "name": "Webloyalty Sàrl.",
+    "runs": [
+        "Privilegios en Compras"
+    ],
+    "address": "Avenue Reverdil 8\n1260 Nyon\nSwitzerland",
+    "phone": "+41 900 878 710",
+    "email": "dpo@privilegiosencompras.es",
     "web": "https://www.privilegiosencompras.es",
-    "suggested-transport-medium": "email",
-    "quality": "verified",
     "sources": [
         "https://github.com/datenanfragen/data/pull/2129"
-    ]
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
