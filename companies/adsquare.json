@@ -14,13 +14,10 @@
     "webform": "https://adsquare.com/privacy/#goto-contact-us",
     "web": "https://adsquare.com/",
     "sources": [
+        "https://adsquare.com/privacy/platform_privacy_policy/",
         "https://adsquare.com/imprint/",
-        "https://adsquare.com/privacy/",
         "https://github.com/datenanfragen/data/pull/2227"
     ],
-    "suggested-transport-medium": "webform",
-    "comments": [
-        "Is a data trading company. Known from the research of netzpolitik.org on the plattform Xandr."
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
