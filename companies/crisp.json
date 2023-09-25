@@ -4,15 +4,16 @@
         "all"
     ],
     "categories": [
-        "telecommunication"
+        "social media"
     ],
-    "name": "Crisp IM S.A.S",
-    "address": "2 Boulevard de Launay\n44100 Nantes\nFRANCE",
+    "name": "Crisp IM SAS",
+    "address": "2 Boulevard de Launay\n44100 Nantes\nFrance",
     "phone": "+33 2 40 03 11 87",
+    "email": "support@crisp.chat",
     "web": "https://crisp.chat/",
     "sources": [
-        "https://crisp.chat/",
-        "https://www.ripe.net/membership/indices/data/fr.crisp.html",
+        "https://help.crisp.chat/en/article/whats-crisp-eu-gdpr-compliance-status-nhv54c/",
+        "https://crisp.chat/en/terms/",
         "https://github.com/datenanfragen/data/pull/2130"
     ],
     "quality": "verified"
