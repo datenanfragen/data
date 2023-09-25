@@ -1,22 +1,18 @@
 {
-    "slug": "clickup",
+    "slug": "mango-technologies-inc",
     "relevant-countries": [
         "all"
-    ],
-    "categories": [
-        "social media"
     ],
     "name": "Mango Technologies, Inc.",
     "runs": [
         "ClickUp"
     ],
-    "address": "350 10th Ave 5th Floor \nSan Diego, CA 92101\nUnited States",
+    "address": "350 10th Ave 5th Floor\nSan Diego, CA 92101\nUnited States of America",
     "phone": "+1 888 625 4258",
     "email": "data@clickup.com",
     "web": "https://clickup.com/",
     "sources": [
         "https://clickup.com/privacy",
-        "https://www.bloomberg.com/profile/company/1810376D:US",
         "https://www.privacyshield.gov/participant?id=a2zt00000004EgoAAE&status=Active",
         "https://github.com/datenanfragen/data/pull/2163"
     ],
