@@ -3,17 +3,15 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "ads"
-    ],
     "name": "Simple Analytics B.V.",
-    "address": "Jacob van Lennepstraat 78 H\n1053 HM\nAmsterdam\nNoord-Holland\nThe Netherlands",
-    "email": "support@simpleanalytics.com",
-    "web": "https://simpleanalytics.com/contact",
+    "address": "Hooftlaan 4\n1401ED Bussum\nThe Netherlands",
+    "email": "privacyquestions@simpleanalytics.com",
+    "web": "https://simpleanalytics.com",
     "sources": [
-        "Direct from website",
+        "https://simpleanalytics.com/privacy-policy",
         "https://github.com/datenanfragen/data/pull/2095"
     ],
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
