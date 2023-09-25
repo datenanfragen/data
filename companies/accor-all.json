@@ -1,5 +1,5 @@
 {
-    "slug": "all-accor",
+    "slug": "accor-all",
     "relevant-countries": [
         "all"
     ],
@@ -28,15 +28,17 @@
         "ibis budget",
         "Grand Mercure",
         "The Sebel",
-        "hotelF1"
+        "hotelF1",
+        "SO/"
     ],
-    "address": "Département Protection des Données Personnelles\n82 rue Henri Farman\n92130 Issy-les-Moulineaux\nFrance",
-    "phone": "+33 8778561464",
+    "address": "82 rue Henri Farman\n92130 Issy-les-Moulineaux\nFrance",
+    "phone": "+1 877 856 1464",
     "email": "data.privacy@accor.com",
     "web": "https://all.accor.com",
     "sources": [
         "https://all.accor.com/information/legal/data-protection.de.shtml",
         "https://github.com/datenanfragen/data/pull/2077"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
