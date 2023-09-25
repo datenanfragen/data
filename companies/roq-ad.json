@@ -1,5 +1,5 @@
 {
-    "slug": "roq",
+    "slug": "roq-ad",
     "relevant-countries": [
         "all"
     ],
@@ -7,7 +7,7 @@
         "ads"
     ],
     "name": "Roq.ad GmbH",
-    "address": "Betreff: Datenschutz\nTaubenstraße 26, 4th floor\n10117 Berlin\nGermany",
+    "address": "c/o ePrivacy GmbH\nGroße Bleichen 21\n20354 Hamburg\nGermany",
     "phone": "+49 172 5897954",
     "email": "privacy@roq.ad",
     "web": "https://www.roq.ad/",
@@ -16,8 +16,5 @@
         "https://github.com/datenanfragen/data/pull/2229"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Is a data trading company. Known from the research of netzpolitik.org on the plattform Xandr."
-    ],
     "quality": "verified"
 }
