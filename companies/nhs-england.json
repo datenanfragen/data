@@ -1,10 +1,11 @@
 {
-    "slug": "england-nhs",
+    "slug": "nhs-england",
     "relevant-countries": [
         "gb"
     ],
     "categories": [
-        "health"
+        "health",
+        "public body"
     ],
     "name": "NHS England",
     "runs": [
@@ -14,7 +15,7 @@
         "NHS North of England Commissioning Support Unit",
         "NHS South, Central & West Commissioning Support Unit"
     ],
-    "address": "Quarry House\nQuarry Hill\nLeeds\nLS2 7UE",
+    "address": "Quarry House\nQuarry Hill\nLeeds\nLS2 7UE\nUnited Kingdom",
     "email": "england.contactus@nhs.net",
     "web": "https://www.england.nhs.uk/",
     "sources": [
