@@ -3,7 +3,6 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [],
     "name": "Superfly Air Sports Holding GmbH",
     "runs": [
         "shop-wiesbaden.superfly.de"
@@ -15,5 +14,19 @@
         "https://superfly.de/datenschutz",
         "https://github.com/datenanfragen/data/pull/2219"
     ],
-    "quality": "verified"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "tested"
 }
