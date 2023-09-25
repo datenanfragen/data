@@ -3,17 +3,22 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "commerce"
+    "name": "Freshworks Inc.",
+    "runs": [
+        "Freshworks GmbH",
+        "Freshworks Technologies B.V.",
+        "Freshworks SAS",
+        "Freshworks Technologies UK Limited",
+        "Freshworks Technologies Private Limited"
     ],
-    "name": "Freshworks",
-    "address": "2950 S. Delaware Street, \nSuite 201\nSan Mateo CA 94403",
+    "address": "2950 S.Delaware Street\nSuite 201\nSan Mateo, CA 94403\nUnited States of America",
     "phone": "+1 855 747 6767",
-    "email": "support@freshservice.com",
+    "email": "dpo@freshworks.com",
     "web": "https://www.freshworks.com/",
-    "suggested-transport-medium": "email",
-    "quality": "verified",
     "sources": [
+        "https://www.freshworks.com/privacy/",
         "https://github.com/datenanfragen/data/pull/2083"
-    ]
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
