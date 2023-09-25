@@ -1,0 +1,13 @@
+{
+    "slug": "official-sensitive-ltd",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "Official-Sensitive Ltd.",
+    "address": "Postal Point 428\nManchester\nM8 2FS\nUnited Kingdom",
+    "sources": [
+        "https://ico.org.uk/ESDWebPages/Entry/ZB494428",
+        "https://github.com/datenanfragen/data/pull/2112"
+    ],
+    "quality": "verified"
+}
