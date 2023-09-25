@@ -19,5 +19,19 @@
         "https://www.feiyr.com/de/privacy-statement.html",
         "https://github.com/datenanfragen/data/pull/2213"
     ],
-    "quality": "verified"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "tested"
 }
