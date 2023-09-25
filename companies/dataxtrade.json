@@ -3,8 +3,11 @@
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "ads"
+    ],
     "name": "dataXtrade GmbH",
-    "address": "Dachauer Str. 15c\n80335 München\nGERMANY",
+    "address": "Dachauer Str. 15c\n80335 München\nGermany",
     "phone": "+49 89 200068364",
     "email": "privacy@dataxtrade.com",
     "web": "https://dataxtrade.com/",
@@ -13,8 +16,5 @@
         "https://github.com/datenanfragen/data/pull/2228"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Is a data trading company. Known from the research of netzpolitik.org on the plattform Xandr."
-    ],
     "quality": "verified"
 }
