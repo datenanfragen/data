@@ -11,13 +11,12 @@
         "WhatDoTheyKnow",
         "TICTeC"
     ],
-    "address": "℅ mySociety\n483 Green Lanes\nLONDON\nN13 4BS\nUNITED KINGDOM",
+    "address": "483 Green Lanes\nLondon\nN13 4BS\nUnited Kingdom",
     "email": "hello@mysociety.org",
-    "webform": "http://mysociety.org/contact/",
     "web": "http://www.mysociety.org",
-    "suggested-transport-medium": "webform",
-    "quality": "verified",
     "sources": [
+        "https://www.mysociety.org/contact/",
         "https://github.com/datenanfragen/data/pull/2225"
-    ]
+    ],
+    "quality": "verified"
 }
