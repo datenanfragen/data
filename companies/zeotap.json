@@ -7,8 +7,9 @@
         "ads"
     ],
     "name": "zeotap GmbH",
-    "address": "Privacy Team\nc/o WeWork\nStresemannstraße 123\n10963 Berlin\nGermany",
+    "address": "c/o ePrivacy GmbH\nGroße Bleichen 21\n20354 Hamburg\nGermany",
     "email": "privacy@zeotap.com",
+    "webform": "https://privacyportal-de.onetrust.com/webform/bdcc4a2f-2458-4e17-96c3-cf88f7115dfc/2c5e70e5-643a-4c1e-b9c2-1e71584d04ad",
     "web": "https://zeotap.com/",
     "sources": [
         "https://zeotap.com/product-privacy-policy/",
