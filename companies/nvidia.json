@@ -6,11 +6,14 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Nvidia",
-    "address": "privacy@nvidia.com",
+    "name": "NVIDIA Corporation",
+    "address": "2788 San Tomas Expressway\nSanta Clara, CA 95051\nUnited States of America",
     "email": "privacy@nvidia.com",
-    "quality": "verified",
+    "web": "https://www.nvidia.com",
     "sources": [
+        "https://www.nvidia.com/de-de/about-nvidia/privacy-policy/",
         "https://github.com/datenanfragen/data/pull/2127"
-    ]
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
