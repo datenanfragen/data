@@ -1,5 +1,5 @@
 {
-    "slug": "sky",
+    "slug": "sky-ie",
     "relevant-countries": [
         "ie"
     ],
@@ -9,9 +9,9 @@
     ],
     "name": "Sky Ireland Limited",
     "runs": [
-        "Sky Subscribers Services Limited (Irish branch)"
+        "Sky Subscribers Services Limited"
     ],
-    "address": "Customer Relations\nSky Subscriber Services Limited\nOne Burlington Plaza\nBurlington Plaza\nD04 RH96\nIreland",
+    "address": "One Burlington Plaza\nBurlington Plaza\nD04 RH96\nIreland",
     "email": "dp.department@sky.uk",
     "web": "https://www.sky.com/ie",
     "sources": [
@@ -19,8 +19,5 @@
         "https://github.com/datenanfragen/data/pull/2260"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "This is the Irish branch - related to Sky UK Limited, but legally distinct."
-    ],
     "quality": "verified"
 }
