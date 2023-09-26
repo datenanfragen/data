@@ -12,7 +12,6 @@
     "web": "https://www.klinikum-nuernberg.de",
     "sources": [
         "https://www.klinikum-nuernberg.de/datenschutz/",
-        "https://www.klinikum-nuernberg.de/impressum/",
         "https://github.com/datenanfragen/data/pull/2264"
     ],
     "required-elements": [
