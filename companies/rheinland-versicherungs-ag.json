@@ -1,18 +1,15 @@
 {
-    "slug": "rheinland-versicherungen",
+    "slug": "rheinland-versicherungs-ag",
     "relevant-countries": [
         "de"
     ],
     "categories": [
         "insurance"
     ],
-    "name": "RheinLand Versicherungen",
-    "runs": [
-        "RheinLand Versicherungs AG"
-    ],
-    "address": "RheinLand Versicherungs AG\nRheinLandplatz\n41460 Neuss",
-    "phone": "02131 290-0",
-    "fax": "02131 290-13300",
+    "name": "RheinLand Versicherungs AG",
+    "address": "RheinLandplatz\n41460 Neuss\nDeutschland",
+    "phone": "+49 2131 2900",
+    "fax": "+49 2131 2903770",
     "email": "datenschutz@rheinland-versicherungen.de",
     "web": "https://www.rheinland-versicherungen.de/",
     "sources": [
