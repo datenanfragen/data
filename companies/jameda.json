@@ -8,15 +8,11 @@
     ],
     "name": "jameda GmbH",
     "runs": [
-        "jameda.de",
-        "pro.jameda.de",
-        "Helpcenter (jameda.zendesk.com)",
-        "danke-coronahelden.de",
-        "jameda - Für Ihre Gesundheit (App)"
+        "danke-coronahelden.de"
     ],
-    "address": "jameda GmbH\n\nBalanstraße 71a\n\n81541 München",
-    "phone": "089 / 2019 44 94",
-    "fax": "0800 / 111 237 686",
+    "address": "Balanstraße 71a\n81541 München\nDeutschland",
+    "phone": "+49 89 20194494",
+    "fax": "+49 800 111237686",
     "email": "datenschutz@jameda.de",
     "web": "https://www.jameda.de/",
     "sources": [
