@@ -21,7 +21,6 @@
         "Tagesklinik für Erwachsene Roth",
         "Tagesklinik für Erwachsene Weißenburg",
         "Psychiatrische Institutsambulanz Ansbach",
-        "Gerontopsychiatrische Ambulanz Ansbach",
         "Institutsambulanz für Kinder und Jugendliche Ansbach",
         "Präventionsambulanz Ansbach",
         "Forensische Ambulanz Ansbach",
@@ -42,6 +41,7 @@
         "Soziotherapeutisches Wohnheim Eggenhof"
     ],
     "address": "Feuchtwanger Straße 38\n91522 Ansbach\nDeutschland",
+    "phone": "+49 981 46530",
     "email": "Datenschutz@bezirkskliniken-mfr.de",
     "web": "https://www.bezirkskliniken-mfr.de",
     "sources": [
