@@ -8,10 +8,13 @@
     ],
     "name": "CyberHealth GmbH",
     "address": "Dieckstr. 71-75\n48145 Münster\nDeutschland",
-    "email": "support@cyberfitness.de",
+    "phone": "+49 214 73487705",
+    "email": "niederjohann@gmail.com",
+    "web": "https://www.cyberpraevention.de/",
     "sources": [
         "https://www.cyberpraevention.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2244"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
