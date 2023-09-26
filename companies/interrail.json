@@ -10,11 +10,12 @@
     "runs": [
         "Interrail.eu"
     ],
-    "address": "Leidseveer 10, 3511 SB Utrecht, Netherlands",
+    "address": "Leidseveer 10\n3511 SB Utrecht\nThe Netherlands",
     "email": "privacy@eurail.com",
     "web": "https://www.interrail.eu",
     "sources": [
-        "Website -> h) Data Subject Rights under https://www.eurail.com/en/terms-conditions/privacy-and-cookie-statement",
+        "https://www.eurail.com/en/terms-conditions/privacy-and-cookie-statement",
+        "https://www.eurail.com/en/about-us",
         "https://github.com/datenanfragen/data/pull/2284"
     ],
     "suggested-transport-medium": "email",
