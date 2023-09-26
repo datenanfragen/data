@@ -1,5 +1,5 @@
 {
-    "slug": "bgv",
+    "slug": "bgv-de",
     "relevant-countries": [
         "de"
     ],
@@ -19,6 +19,7 @@
     "web": "https://www.bgv.de/",
     "sources": [
         "https://www.bgv.de/ueber-den-bgv/rechtliches/datenschutz/",
+        "https://www.bgv.de/ueber-den-bgv/rechtliches/impressum/",
         "https://github.com/datenanfragen/data/pull/2329"
     ],
     "quality": "verified"
