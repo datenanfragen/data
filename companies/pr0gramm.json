@@ -13,7 +13,7 @@
     "runs": [
         "pr0gramm.com"
     ],
-    "address": "Interdimensionale Gesellschaft mbH\nRathausstr. 4\nDE-64521 Groß-Gerau",
+    "address": "Rathausstr. 4\n64521 Groß-Gerau\nDeutschland",
     "email": "support@pr0gramm.com",
     "web": "https://pr0gramm.com",
     "sources": [
@@ -23,15 +23,14 @@
     "required-elements": [
         {
             "desc": "Benutzername",
-            "type": "input",
+            "type": "name",
             "optional": false
         },
         {
-            "desc": "E-Mail Adresse",
+            "desc": "E-Mail",
             "type": "input",
             "optional": false
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
