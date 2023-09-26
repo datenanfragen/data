@@ -1,5 +1,5 @@
 {
-    "slug": "csg-in",
+    "slug": "christoph-scheiner-gymnasium-ingolstadt",
     "relevant-countries": [
         "de"
     ],
@@ -8,6 +8,8 @@
     ],
     "name": "Christoph-Scheiner-Gymnasium Ingolstadt",
     "address": "Hartmannplatz 1\n85049 Ingolstadt\nDeutschland",
+    "phone": "+49 841 30540300",
+    "fax": "+49 841 30540399",
     "email": "datenschutz@csg-in.de",
     "web": "https://csg-in.de",
     "sources": [
@@ -15,5 +17,6 @@
         "https://github.com/datenanfragen/data/pull/2320"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "facet-group": "school"
 }
