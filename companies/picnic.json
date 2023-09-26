@@ -5,13 +5,10 @@
         "nl"
     ],
     "categories": [
-        "utility"
+        "commerce"
     ],
     "name": "Picnic Technologien B.V.",
-    "runs": [
-        "Picnic App"
-    ],
-    "address": "Picnic Technologien B.V.\nVan Marwijk Kooystraat 15\n1114 AG in Amsterdam",
+    "address": "Van Marwijk Kooystraat 15\n1114 AG Amsterdam\nThe Netherlands",
     "email": "privacy@picnic.nl",
     "web": "https://picnic.app/de/",
     "sources": [
