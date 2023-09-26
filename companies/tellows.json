@@ -34,7 +34,9 @@
         "tellows.pt",
         "tellows.se"
     ],
-    "address": "Eschenring 6\n04828 Bennewitz\nDeutschland",
+    "address": "Eschenring 6\n04828 Bennewitz\nGermany",
+    "phone": "+49 1578 4918966",
+    "fax": "+49 341 35540903",
     "email": "datenschutz@tellows.de",
     "web": "https://www.tellows.de",
     "sources": [
@@ -42,5 +44,6 @@
         "https://www.tellows.de/s/about-de/impressum",
         "https://github.com/datenanfragen/data/pull/2235"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
