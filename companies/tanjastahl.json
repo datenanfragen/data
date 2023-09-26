@@ -6,7 +6,7 @@
     "categories": [
         "health"
     ],
-    "name": "Psychotherapeutische Praxis Für Kinder, Jugendliche und Heranwachsende Tanja Stahl, M.A.",
+    "name": "Psychotherapeutische Praxis Tanja Stahl",
     "address": "Voltastraße 1\n90459 Nürnberg\nDeutschland",
     "phone": "+49 911 91943109",
     "fax": "+49 911 91943108",
@@ -26,6 +26,5 @@
             "type": "address"
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
