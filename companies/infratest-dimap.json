@@ -1,0 +1,20 @@
+{
+    "slug": "infratest-dimap",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "Mantle Germany GmbH",
+    "runs": [
+        "Infratest Dimap"
+    ],
+    "address": "Landsberger Str. 284\n80687 München\nDeutschland",
+    "phone": "0800 000 1468",
+    "email": "datenschutz.kantarpublic@kantar.com",
+    "web": "https://www.infratest-dimap.de",
+    "sources": [
+        "https://www.infratest-dimap.de/kontakt/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2366"
+    ],
+    "quality": "verified"
+}
