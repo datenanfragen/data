@@ -10,8 +10,12 @@
     "web": "https://www.heise-gruppe.de",
     "sources": [
         "https://www.heise-gruppe.de/Datenschutzerklaerung-3248271.html",
-        "https://github.com/datenanfragen/data/pull/2218"
+        "https://github.com/datenanfragen/data/pull/2218",
+        "https://github.com/datenanfragen/data/pull/2371"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Zu \"Heise-Medien\" siehe separaten Eintrag."
+    ],
     "quality": "verified"
 }
