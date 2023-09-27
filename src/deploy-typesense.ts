@@ -10,7 +10,7 @@ type Schema = {
     required: string[];
 };
 
-if (!process.env.TYPESENSE_API_KEY) throw new Error('You need to set the `TYPESENSE_API_KEY` environment variable.');
+if (!process.env['TYPESENSE_API_KEY']) throw new Error('You need to set the `TYPESENSE_API_KEY` environment variable.');
 
 const client = new Typesense.Client({
     nodes: [
@@ -21,7 +21,7 @@ const client = new Typesense.Client({
         },
     ],
 
-    apiKey: process.env.TYPESENSE_API_KEY,
+    apiKey: process.env['TYPESENSE_API_KEY'],
     connectionTimeoutSeconds: 10,
 });
 

@@ -11,6 +11,8 @@ const check: Check = {
     url: 'https://github.com/datenanfragen/data#addresses',
     severity: 'ERROR',
     run: (json) => {
+        if (!json['address']) return;
+
         const address_lines = json['address'].split('\n');
 
         const isCountry = (str: string) =>
@@ -19,7 +21,7 @@ const check: Check = {
                     (!variation_country_codes.includes(country_code) && str == c.name) || str === c.native
             ) || country_name_variations.includes(str);
 
-        const last_line = address_lines[address_lines.length - 1].trim();
+        const last_line = (address_lines[address_lines.length - 1] || '').trim();
         const last_line_is_country = isCountry(last_line);
         if (!last_line_is_country) {
             // TODO: Guess in case of incorrect variations of `variation_country_codes`.
@@ -58,6 +60,8 @@ ${country_name_variations.map((c) => `* \`${c}\``).join('\n')}`,
                 suggestions: country_guesses.map((guess) => `${json['address']}\n${guess}`),
             };
         }
+
+        return;
     },
 };
 export default check;

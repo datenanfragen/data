@@ -18,6 +18,8 @@ If this is really a "tracking company", remove the required elements.`,
                     suggestions: [undefined],
                 };
             }
+
+            return;
         });
     },
 };

@@ -8,15 +8,20 @@ const check: CompanyCheck = {
     severity: 'ERROR',
     run: (json) => {
         if (json['relevant-countries']) {
-            if (json['relevant-countries'].includes(RelevantCountry.All) && json["relevant-countries"].length > 1)
+            if (json['relevant-countries'].includes(RelevantCountry.All) && json['relevant-countries'].length > 1)
                 return {
-                    message: `Record has redundant \`relevant-countries\`: \`all\` already covers: ${json["relevant-countries"].filter(x => x !== "all").join(",")}.`,
+                    message: `Record has redundant \`relevant-countries\`: \`all\` already covers: ${json[
+                        'relevant-countries'
+                    ]
+                        .filter((x) => x !== 'all')
+                        .join(',')}.`,
 
                     json_pointer: '/relevant-countries',
-                    suggestions: [["all"]]
+                    suggestions: [['all']],
                 };
         }
+
+        return;
     },
 };
 export default check;
-
