@@ -10,8 +10,12 @@
     "web": "https://www.kantar.com/de",
     "sources": [
         "https://www.kantar.com/de/-/media/project/kantar/germany/datenschutz/datenschutzerklaerung-markt-sozialforschung.pdf",
-        "https://github.com/datenanfragen/data/pull/2234"
+        "https://github.com/datenanfragen/data/pull/2234",
+        "https://github.com/datenanfragen/data/pull/2367"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Für \"Infratest dimap\" siehe unter separaten Eintrag."
+    ],
     "quality": "verified"
 }
