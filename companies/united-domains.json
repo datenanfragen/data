@@ -9,7 +9,22 @@
     "web": "https://www.united-domains.de",
     "sources": [
         "https://www.united-domains.de/unternehmen/datenschutz/",
-        "https://github.com/datenanfragen/data/pull/1926"
+        "https://github.com/datenanfragen/data/pull/1926",
+        "https://github.com/datenanfragen/data/pull/2372"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
