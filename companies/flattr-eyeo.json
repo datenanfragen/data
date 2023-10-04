@@ -1,0 +1,26 @@
+{
+    "slug": "flattr-eyeo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Flattr (Eyeo)",
+    "address": "Flattr AB\nBox 4111\n20312 Malmö\nSweden",
+    "email": "privacy@eyeo.com",
+    "sources": [
+        "https://withdraw.flattr.com/privacy",
+        "https://flattr.com/privacy",
+        "https://github.com/datenanfragen/data/pull/2380"
+    ],
+    "required-elements": [
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
