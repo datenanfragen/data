@@ -22,7 +22,19 @@
     "sources": [
         "https://de.elv.com/sicherheit-datenschutz",
         "https://de.elv.com/i.-kontakt-und-ihre-rechte",
-        "https://github.com/datenanfragen/data/pull/1327"
+        "https://github.com/datenanfragen/data/pull/1327",
+        "https://github.com/datenanfragen/data/pull/2383"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Email",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
