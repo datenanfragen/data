@@ -9,14 +9,17 @@
     "name": "Deutsche Bahn Connect GmbH",
     "runs": [
         "Call a Bike",
-        "Flinkster"
+        "Flinkster",
+        "Bonvoyo"
     ],
-    "address": "Mainzer Landstraße 169 - 175,\n60327 Frankfurt am Main\nDeutschland",
+    "address": "Mainzer Landstraße 169 - 175\n60327 Frankfurt am Main\nDeutschland",
     "email": "dbconnect-datenschutz@deutschebahn.com",
     "web": "https://www.deutschebahnconnect.com/de",
     "sources": [
         "https://www.deutschebahnconnect.com/de/datenschutz",
-        "https://www.deutschebahnconnect.com/de/impressum",
+        "https://www.callabike.de/de/datenschutz",
+        "https://anmeldung.flinkster.de/de/datenschutz",
+        "https://www.deutschebahnconnect.com/produkte/mobilitaetsbudget/DSE_Bonvoyo_App.html",
         "https://github.com/datenanfragen/data/pull/2352"
     ],
     "suggested-transport-medium": "email",
