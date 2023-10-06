@@ -4,18 +4,19 @@
         "all"
     ],
     "categories": [
-        "utility"
+        "commerce"
     ],
-    "name": "Jimmy Joy",
-    "address": "Archangelkade 17D\n1013BE Amsterdam\nNiederlande",
+    "runs": [
+        "Jimmy Joy"
+    ],
+    "address": "Archangelkade 17D\n1013BE Amsterdam\nThe Netherlands",
     "email": "love@jimmyjoy.com",
-    "webform": "https://jimmyjoy.com/pages/contact",
     "web": "https://jimmyjoy.com/",
     "sources": [
         "https://jimmyjoy.com/de/pages/privacy-policy",
         "https://jimmyjoy.com/pages/contact",
         "https://github.com/datenanfragen/data/pull/2355"
     ],
-    "suggested-transport-medium": "webform",
-    "quality": "verified"
+    "quality": "verified",
+    "name": "itizi B.V."
 }
