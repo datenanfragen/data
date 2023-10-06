@@ -1,0 +1,22 @@
+{
+    "slug": "freenet-mobilfunk",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "freenet DLS GmbH",
+    "runs": [
+        "freenet-funk.de"
+    ],
+    "address": "Hollerstr. 126\n24782 Büdelsdorf\nDeutschland",
+    "email": "datenschutz@freenet-mobilfunk.de",
+    "web": "https://www.freenet-mobilfunk.de",
+    "sources": [
+        "https://www.freenet-mobilfunk.de/legal/datenschutz/",
+        "https://www.freenet-funk.de/agb-datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2384"
+    ],
+    "quality": "verified"
+}
