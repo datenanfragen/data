@@ -1,10 +1,10 @@
 {
     "slug": "flatastic-app",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "name": "Flatastic GmbH",
-    "address": "Nordstrasse 300\n8037 Zürich\nSchweiz",
+    "address": "Nordstrasse 300\n8037 Zürich\nSwitzerland",
     "email": "gdpr@flatastic-app.com",
     "web": "https://www.flatastic-app.com/de/",
     "sources": [
