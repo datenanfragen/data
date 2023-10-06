@@ -1,5 +1,5 @@
 {
-    "slug": "vinted",
+    "slug": "vinted-uab-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,7 +7,10 @@
         "commerce"
     ],
     "name": "Vinted UAB",
-    "address": "Švitrigailos Str. 13\nLT-03228 Vilnius\nRepublik Litauen",
+    "runs": [
+        "vinted.de"
+    ],
+    "address": "Švitrigailos Str. 13\nLT-03228 Vilnius\nLithuania",
     "email": "dpo@vinted.de",
     "web": "https://www.vinted.de",
     "sources": [
