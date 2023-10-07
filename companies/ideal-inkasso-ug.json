@@ -1,0 +1,21 @@
+{
+    "slug": "ideal-inkasso-ug",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Ideal Inkasso UG",
+    "address": "Westerfeldstr. 37\n33611 Bielefeld",
+    "phone": "0521/44815246",
+    "fax": "0521/44815245",
+    "email": "info@idealinkasso.de",
+    "sources": [
+        "https://www.bfif.de/mitgliedsunternehmen/",
+        "https://www.rechtsdienstleistungsregister.de/index.php?button=show&id=20883",
+        "https://github.com/datenanfragen/data/pull/2385"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
