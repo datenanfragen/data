@@ -1,0 +1,19 @@
+{
+    "slug": "klinikum-ingolstadt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Klinikum Ingolstadt",
+    "address": "Datenschutzbeauftragter des Klinikums Ingolstadts\nKrumenauerstraße 25\n85049 Ingolstadt\nDeutschland",
+    "phone": "0841 880 1055",
+    "email": "datenschutz@klinikum-ingolstadt.de",
+    "web": "https://klinikum-ingolstadt.de/datenschutzerklaerung/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2388"
+    ]
+}
