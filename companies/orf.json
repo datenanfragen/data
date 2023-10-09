@@ -1,7 +1,8 @@
 {
     "slug": "orf",
     "relevant-countries": [
-        "at"
+        "at",
+        "de"
     ],
     "name": "Österreichischer Rundfunk (ORF)",
     "address": "Würzburggasse 30\n1136 Wien\nÖsterreich",
@@ -10,8 +11,12 @@
     "sources": [
         "https://www.orf.at/stories/datenschutz/",
         "https://www.orf.at/stories/datenschutz-rechte/",
-        "https://github.com/datenanfragen/data/pull/1273"
+        "https://github.com/datenanfragen/data/pull/1273",
+        "https://github.com/datenanfragen/data/pull/2389"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Anfragen per E-Mail müssen von derselben E-Mail-Adresse erfolgen, die Gegenstand der Anfrage ist. Dies ist zu beachten, wenn es sich bei der übermittelten Adresse um eine E-Mail-Weiterleitungsadresse handelt."
+    ],
     "quality": "verified"
 }
