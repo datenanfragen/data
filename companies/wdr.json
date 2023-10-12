@@ -22,6 +22,17 @@
         "https://www.sportschau.de/sportschau-datenschutz-100.html",
         "https://github.com/datenanfragen/data/pull/1508"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
