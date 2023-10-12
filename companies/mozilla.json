@@ -13,37 +13,26 @@
         "Thunderbird",
         "MZLA Technologies Corporation"
     ],
-    "address": "2 Harrison St., # 175,\nSan Francisco\nCA 94105\nUnited States of America",
+    "address": "149 New Montgomery St, 4th Floor\nSan Francisco, CA 94105\nUnited States of America",
     "email": "compliance@mozilla.com",
-    "webform": "https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0",
+    "webform": "https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0",
     "web": "https://www.mozilla.org/en-US/",
     "sources": [
         "https://www.mozilla.org/en-US/privacy/",
-        "https://www.mozilla.org/en-US/privacy#contact",
         "https://github.com/datenanfragen/data/pull/2226"
     ],
     "required-elements": [
         {
-            "desc": "First Name",
-            "type": "input",
-            "optional": false
-        },
-        {
-            "desc": "Last Name",
-            "type": "input",
+            "desc": "Name",
+            "type": "name",
             "optional": false
         },
         {
             "desc": "Email",
             "type": "email",
             "optional": false
-        },
-        {
-            "desc": "Request details",
-            "type": "textarea",
-            "optional": false
         }
     ],
-    "suggested-transport-medium": "webform",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
