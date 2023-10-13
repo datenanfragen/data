@@ -6,7 +6,10 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Ellation, Inc.",
+    "name": "Crunchyroll, LLC",
+    "runs": [
+        "Crunchyroll"
+    ],
     "address": "444 Bush Street\nSan Francisco, CA 94108\nUnited States of America",
     "phone": "+49 89 51305697",
     "fax": "+49 89 51305698",
@@ -16,11 +19,12 @@
     "sources": [
         "https://intl.sonypictures.com/sony-entities",
         "https://intl.sonypictures.com/en/contact-us",
-        "https://github.com/datenanfragen/data/pull/2293"
+        "https://www.crunchyroll.com/de/tos/",
+        "https://github.com/datenanfragen/data/pull/2398"
     ],
-    "suggested-transport-medium": "email",
-    "quality": "verified",
-    "runs": [
-        "Crunchyroll"
-    ]
+    "suggested-transport-medium": "webform",
+    "comments": [
+        "Firma unbenannt in Crunchyroll, LLC. siehe TOS https://www.crunchyroll.com/de/tos/."
+    ],
+    "quality": "verified"
 }
