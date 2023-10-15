@@ -11,31 +11,27 @@
         "Saturn Card",
         "Saturn online GmbH (ehem.)"
     ],
-    "address": "c/o MediaMarktSaturn E-Commerce GmbH\nWankelstraße 5\n85046 Ingolstadt\nDeutschland",
-    "phone": "+49 221 22 243 123",
-    "fax": "+49 841 634 99 1835",
+    "address": "MediaMarktSaturn Retail Group GmbH\nMedia-Saturn-Straße 1\n85053 Ingolstadt\nDeutschland",
     "email": "datenschutz@saturn.de",
     "web": "http://www.saturn.de/",
     "sources": [
         "https://www.saturn.de/de/legal/datenschutzhinweise",
         "https://www.saturn.de/de/legal/datenschutzhinweise/card",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410442&land_abk=by"
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410442&land_abk=by",
+        "https://github.com/datenanfragen/data/pull/2401"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Anmelde-E-Mail-Adresse",
-            "type": "email",
-            "optional": false
+            "type": "email"
         },
         {
             "desc": "Anschrift",
-            "type": "address",
-            "optional": false
+            "type": "address"
         },
         {
             "desc": "Geburtsdatum (nur falls Saturn bekannt)",
@@ -43,9 +39,9 @@
             "optional": true
         }
     ],
-    "comments": [
-        "Verantwortliche Stelle für Saturn Card laut Datenschutzerklärung ist die redblue services GmbH, Helene-Wessel-Bogen 3, 80939 München, Deutschland, aber mit gleicher E-Mail-Adresse."
-    ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Für den Saturn Onlineshop Deutschland ist Verantwortliche im Sinne der DSGVO:\nMMS E-Commerce GmbH,\nMedia-Saturn-Straße 1,\n85053 Ingolstadt\n\nFür mySaturn Deutschland und mySaturn+ ist Verantwortliche im Sinne der DSGVO:\n\nMedia-Saturn Deutschland GmbH\nMedia-Saturn-Straße 1\n85053 Ingolstadt\n\nAls Datenschutzbeauftragter wurde für beide Fälle die MediaMarktSaturn Retail Group GmbH bestellt."
+    ],
     "quality": "verified"
 }
