@@ -3,6 +3,9 @@
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "social media"
+    ],
     "name": "Bird Rides Europe, B.V.",
     "runs": [
         "Bird Rides, Inc.",
@@ -13,8 +16,9 @@
     "email": "privacy@bird.co",
     "web": "https://www.bird.co/",
     "sources": [
-        "https://www.bird.co/privacy/"
+        "https://www.bird.co/privacy/",
+        "https://github.com/datenanfragen/data/pull/2403"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "letter",
     "quality": "verified"
 }
