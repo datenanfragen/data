@@ -7,14 +7,21 @@
         "finance"
     ],
     "name": "Volksbank Eisenberg eG",
+    "runs": [
+        "vbi Immobilienservice in Thüringen GmbH",
+        "EthikBank eG, Zwgndl. der Volksbank Eisenberg eG"
+    ],
     "address": "Martin-Luther-Straße 2\n07607 Eisenberg\nDeutschland",
     "phone": "+49 36691 5858",
     "fax": "+49 36691 58555",
-    "email": "hallo@my-volksbank.de",
+    "email": "datenschutzbeauftragter@VolksbankEisenberg.de",
     "web": "https://www.volksbankeisenberg.de/",
     "sources": [
         "https://www.volksbankeisenberg.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.nolayer.html",
-        "https://www.volksbankeisenberg.de/Pflichtangaben/impressum.landingpage.nolayer.html"
+        "https://www.volksbankeisenberg.de/Pflichtangaben/impressum.landingpage.nolayer.html",
+        "https://www.volksbankeisenberg.de/Pflichtangaben/datenschutz.html",
+        "https://www.ethikbank.de/fileadmin/bankuebergreifend/dokumente/VVI/Info_Widerrufsbelehrung_Bedingungen.pdf",
+        "https://github.com/datenanfragen/data/pull/2419"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
