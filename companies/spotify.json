@@ -28,9 +28,10 @@
             "type": "email"
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
-        "Some data can also be downloaded directly through the Spotify web interface: https://www.spotify.com/account/privacy/#privacy-download\n\nKundenservice des Anbieter antwortet kurzfristig bei Anfragen per Email."
+        "Some data can also be downloaded directly through the Spotify web interface: https://www.spotify.com/account/privacy/#privacy-download"
     ],
-    "quality": "verified"
+    "quality": "tested"
 }
