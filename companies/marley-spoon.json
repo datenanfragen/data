@@ -6,13 +6,19 @@
     "categories": [
         "commerce"
     ],
-    "name": "Marley Spoon AG",
-    "address": "c/o HWData GmbH\nLeonrodstr. 54\n80636 München\nDeutschland",
-    "email": "ph@hwdata.de",
+    "name": "Marley Spoon SE",
+    "runs": [
+        "Dinnerly"
+    ],
+    "address": "Paul-Lincke-Ufer 39-40\n10999 Berlin\nDeutschland",
+    "email": "privacy@marleyspoon.de",
     "web": "https://marleyspoon.de",
     "sources": [
         "https://legal.marleyspoon.de/dsgvo/",
-        "https://github.com/datenanfragen/data/pull/1577"
+        "https://github.com/datenanfragen/data/pull/1577",
+        "https://dinnerly.de/privacy",
+        "https://github.com/datenanfragen/data/pull/2298"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
