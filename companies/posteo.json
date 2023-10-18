@@ -8,9 +8,8 @@
     ],
     "name": "Posteo e.K.",
     "address": "Methfesselstr. 38\n10965 Berlin\nGermany",
-    "fax": "+4930346493249(nurT.38)",
+    "fax": "+49 30 346493249",
     "email": "datenschutz@posteo.de",
-    "webform": "https://posteo.de/site/kontakt#kontaktformular",
     "web": "https://posteo.de",
     "sources": [
         "https://posteo.de/en/site/legal_notice",
@@ -20,7 +19,8 @@
     "required-elements": [
         {
             "desc": "Email",
-            "type": "name"
+            "type": "name",
+            "optional": false
         }
     ],
     "suggested-transport-medium": "email",
