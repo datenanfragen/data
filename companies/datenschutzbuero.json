@@ -1,0 +1,37 @@
+{
+    "slug": "datenschutzbuero",
+    "relevant-countries": [
+        "de",
+        "ch",
+        "at",
+        "fr",
+        "it",
+        "nl",
+        "be"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Galaxus Deutschland GmbH",
+    "runs": [
+        "digitec.ch",
+        "galaxus.ch",
+        "galaxus.de",
+        "galaxus.at",
+        "galaxus.fr",
+        "galaxus.it",
+        "galaxus.nl",
+        "galaxus.be"
+    ],
+    "address": "Schützenstraße 5\n22761 Hamburg\nGermany",
+    "phone": "+49 40 334614747",
+    "email": "datenschutz@galaxus.de",
+    "web": "https://www.galaxus.de",
+    "sources": [
+        "https://www.galaxus.de/de/wiki/5567",
+        "https://www.galaxus.de/de/wiki/5639",
+        "https://github.com/datenanfragen/data/pull/1889"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

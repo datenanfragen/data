@@ -8,10 +8,6 @@
         "utility"
     ],
     "name": "EWE AG",
-    "runs": [
-        "onsatel (www.osnatel.de)",
-        "EWE Webmail"
-    ],
     "address": "Tirpitzstraße 39\n26122 Oldenburg\nDeutschland",
     "phone": "+49 441 48050",
     "fax": "+49 441 8033999",

@@ -25,7 +25,19 @@
         "https://www.wdrmaus.de/datenschutz.php5",
         "https://github.com/datenanfragen/data/pull/1256",
         "https://github.com/datenanfragen/data/pull/2222"
+        "https://github.com/datenanfragen/data/pull/1508"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

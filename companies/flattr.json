@@ -1,0 +1,28 @@
+{
+    "slug": "flattr",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Flattr AB",
+    "address": "Box 4111\n20312 Malmö\nSweden",
+    "email": "privacy@flattr.com",
+    "web": "https://flattr.com",
+    "sources": [
+        "https://withdraw.flattr.com/privacy",
+        "https://flattr.com/privacy",
+        "https://github.com/datenanfragen/data/pull/2380"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
