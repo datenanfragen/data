@@ -7,7 +7,7 @@
         "finance"
     ],
     "name": "Tomorrow GmbH",
-    "address": "Niklas Hanitsch\r\nc/o secjur GmbH\r\nSteinhöft 9\r\n20459 Hamburg\nDeutschland",
+    "address": "c/o secjur GmbH\nSteinhöft 9\n20459 Hamburg\nDeutschland",
     "phone": "+49 40 228599520",
     "email": "dsb@secjur.com",
     "web": "https://www.tomorrow.one/",
@@ -17,8 +17,5 @@
         "https://github.com/datenanfragen/data/pull/2280"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Externer Datenschutzbeauftragter laut Datenschutzerklärung."
-    ],
     "quality": "verified"
 }
