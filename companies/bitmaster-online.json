@@ -10,9 +10,10 @@
     "runs": [
         "flirtemitmir.com",
         "flirtgleich.com",
-        "provoziermich.com"
+        "provoziermich.com",
+        "MonSecretSensuel"
     ],
-    "address": "Plotterweg 31\n3821BB Amersfoort\nThe Netherlands",
+    "address": "Langeweg 1-D\n3233LM Oostvoorne\nThe Netherlands",
     "phone": "+31 85 400 0176",
     "email": "support@bitmaster-online.com",
     "web": "https://bitmaster-online.com/",
@@ -21,7 +22,8 @@
         "https://github.com/datenanfragen/data/pull/1019",
         "https://www.flirtemitmir.com/privacy",
         "https://www.flirtgleich.com/privacy",
-        "https://www.provoziermich.com/privacy"
+        "https://www.provoziermich.com/privacy",
+        "https://www.monsecretsensuel.com/privacy"
     ],
     "quality": "verified"
 }

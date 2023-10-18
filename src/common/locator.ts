@@ -10,7 +10,7 @@ const locatorFactory =
         // The `precision` parameter is only included to remind us that we could also have column-level precision
         // should we ever need that in the future.
         // eslint-disable-next-line @typescript-eslint/no-unused-vars
-        precision: 'line' = 'line'
+        _precision: 'line' = 'line'
     ) => {
         const loc = pointers[json_pointer];
         if (!loc) return;
