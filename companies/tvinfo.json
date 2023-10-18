@@ -18,6 +18,18 @@
         "https://github.com/datenanfragen/data/pull/1325",
         "https://github.com/datenanfragen/data/pull/2318"
     ],
-    "suggested-transport-medium": "email",
-    "quality": "verified"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
+    "quality": "tested"
 }
