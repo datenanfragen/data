@@ -16,7 +16,24 @@
     "web": "https://herdt.com",
     "sources": [
         "https://herdt.com/pages/datenschutz",
-        "https://github.com/datenanfragen/data/pull/1313"
+        "https://github.com/datenanfragen/data/pull/1313",
+        "https://github.com/datenanfragen/data/pull/2317"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "needs-id-document": false,
     "quality": "verified"
 }
