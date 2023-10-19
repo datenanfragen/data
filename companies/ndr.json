@@ -12,14 +12,18 @@
         "tagesschau.de"
     ],
     "address": "Rothenbaumchaussee 132\n20149 Hamburg\nDeutschland",
-    "phone": "+49 40 4156 2232",
-    "fax": "+49 40 4156 3697",
+    "phone": "+49 40 41562232",
+    "fax": "+49 40 41563697",
     "email": "datenschutz@ndr.de",
     "web": "https://www.ndr.de/",
     "sources": [
         "https://www.ndr.de/service/datenschutz/index.html",
-        "https://www.tagesschau.de/kontakt_und_hilfe/datenschutz/index.html"
+        "https://www.tagesschau.de/kontakt_und_hilfe/datenschutz/index.html",
+        "https://github.com/datenanfragen/data/pull/2424"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Eine gesonderte Erklärung zum Datenschutz der verschiedenen Apps ist direkt in der entsprechenden Anwendung zu finden."
+    ],
     "quality": "verified"
 }
