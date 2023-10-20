@@ -23,7 +23,8 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "E-Mail",
@@ -34,5 +35,6 @@
             "type": "address"
         }
     ],
-    "quality": "verified"
+    "needs-id-document": false,
+    "quality": "tested"
 }
