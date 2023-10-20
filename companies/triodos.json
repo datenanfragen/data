@@ -14,6 +14,7 @@
     "web": "https://www.triodos.de",
     "sources": [
         "https://www.triodos.de/datenschutz",
+        "https://www.triodos.de/impressum",
         "https://github.com/datenanfragen/data/pull/2418"
     ],
     "suggested-transport-medium": "email",
