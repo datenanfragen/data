@@ -12,7 +12,8 @@
         "spieletipps.de",
         "mytest.de",
         "spielaffe.de",
-        "kraloyun.com"
+        "kraloyun.com",
+        "winload.de (ehemals)"
     ],
     "address": "Torstraße 49\n10119 Berlin\nDeutschland",
     "email": "smb-datenschutzbeauftragter@stroeer.de",
@@ -25,7 +26,8 @@
         "https://github.com/datenanfragen/data/pull/1338",
         "https://www.spielaffe.de/Statisch/Datenschutz",
         "https://www.kraloyun.com/Sabit/Veri-Koruma-Kurallari",
-        "https://github.com/datenanfragen/data/pull/1924"
+        "https://github.com/datenanfragen/data/pull/1924",
+        "https://github.com/datenanfragen/data/pull/2391"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
