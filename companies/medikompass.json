@@ -8,8 +8,8 @@
     ],
     "name": "MediKompass GmbH",
     "address": "Hausener Weg 29\n60489 Frankfurt am Main\nDeutschland",
-    "phone": "0800 14330 17",
-    "fax": "0800 14330 18",
+    "phone": "+49 800 1433017",
+    "fax": "+49 800 1433018",
     "email": "sas@medikompass.com",
     "web": "https://www.medikompass.de",
     "sources": [
@@ -18,8 +18,5 @@
         "https://github.com/datenanfragen/data/pull/2416"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Für vertrauliche Anfragen kann der externe betriebliche Datenschutzbeauftragter kontaktiert werden.\nKontaktdaten (leider ohne E-Mail) für diesen sind zu finden unter:\nhttps://www.medikompass.de/impressum.php#datenschutz"
-    ],
     "quality": "verified"
 }
