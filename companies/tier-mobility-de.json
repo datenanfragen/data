@@ -7,19 +7,12 @@
         "travel"
     ],
     "name": "Tier Mobility SE",
-    "runs": [
-        "Tier Mobility GmbH (ehem.)",
-        "nextbike by Tier"
-    ],
-    "address": "c/o WeWork Eichhornstr. 3\n10785 Berlin\nDeutschland",
-    "phone": "+49 30 56838651",
+    "address": "c/o WeWork\nEichhornstr. 3\n10785 Berlin\nDeutschland",
     "email": "dpo@tier.app",
     "web": "https://www.tier.app",
     "sources": [
-        "https://about.tier.app/privacy-notice/",
-        "https://github.com/datenanfragen/data/pull/1570",
-        "https://www.tier.app/en/impressum",
         "https://www.tier.app/germany-privacy-notice-german",
+        "https://github.com/datenanfragen/data/pull/1570",
         "https://github.com/datenanfragen/data/pull/2393"
     ],
     "suggested-transport-medium": "email",
