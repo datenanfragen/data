@@ -1,0 +1,21 @@
+{
+    "slug": "snuffstore",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "snuffstore",
+    "runs": [],
+    "address": "Stratton Oakmont Innovations oü\nSnuffstore.de\nTartu mnt 16b-11\n10117 Tallinn\nEstland",
+    "email": "hallo@snuffstore.de",
+    "web": "https://snuffstore.de/",
+    "sources": [
+        "https://snuffstore.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2426"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
