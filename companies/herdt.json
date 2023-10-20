@@ -1,9 +1,9 @@
 {
     "slug": "herdt",
     "relevant-countries": [
+        "de",
         "at",
-        "ch",
-        "de"
+        "ch"
     ],
     "categories": [
         "school",
@@ -17,7 +17,8 @@
     "sources": [
         "https://herdt.com/pages/datenschutz",
         "https://github.com/datenanfragen/data/pull/1313",
-        "https://github.com/datenanfragen/data/pull/2317"
+        "https://github.com/datenanfragen/data/pull/2317",
+        "https://github.com/datenanfragen/data/pull/2425"
     ],
     "required-elements": [
         {
@@ -35,5 +36,5 @@
         }
     ],
     "needs-id-document": false,
-    "quality": "verified"
+    "quality": "tested"
 }
