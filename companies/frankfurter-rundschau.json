@@ -1,12 +1,11 @@
 {
-    "slug": "fr",
+    "slug": "frankfurter-rundschau",
     "relevant-countries": [
         "de"
     ],
-    "categories": [],
     "name": "Frankfurter Rundschau GmbH",
     "address": "Hedderichstraße 49\n60594 Frankfurt\nDeutschland",
-    "phone": "(069) 21 99-1",
+    "phone": "+49 69 21991",
     "email": "datenschutz@fr.de",
     "web": "https://www.fr.de",
     "sources": [
