@@ -7,12 +7,12 @@
         "commerce"
     ],
     "name": "Veja Faire Trade SARL",
-    "address": "146 rue du Faubourg Poissonnière\n 75010 Paris\nFrankreich",
+    "address": "146 rue du Faubourg Poissonnière\n75010 Paris\nFrance",
     "email": "service-clients@veja-store.com",
+    "web": "https://www.veja-store.com",
     "sources": [
         "https://www.veja-store.com/de_de/privacy",
         "https://github.com/datenanfragen/data/pull/2417"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
