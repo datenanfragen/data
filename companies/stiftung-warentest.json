@@ -1,12 +1,12 @@
 {
-    "slug": "test",
+    "slug": "stiftung-warentest",
     "relevant-countries": [
         "de"
     ],
     "name": "Stiftung Warentest",
     "address": "Lützowplatz 11–13\n10785 Berlin\nDeutschland",
-    "phone": "(030) 26 31–0",
-    "fax": "(030) 26 31–27 27",
+    "phone": "+49 30 26310",
+    "fax": "+49 30 26312727",
     "email": "datenschutzbeauftragte@stiftung-warentest.de",
     "web": "https://www.test.de",
     "sources": [
