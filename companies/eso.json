@@ -1,0 +1,22 @@
+{
+    "slug": "eso",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "ESO Education Group",
+    "runs": [
+        "Euro Schulen (euro-schulen.de)"
+    ],
+    "address": "Hauptstraße 23\n63811 Stockstadt am Main\nDeutschland",
+    "email": "datenschutz@eso.de",
+    "web": "https://www.eso.de",
+    "sources": [
+        "https://www.eso.de/datenschutz",
+        "https://www.euro-schulen.de/euro-schulen/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2430"
+    ],
+    "quality": "verified"
+}
