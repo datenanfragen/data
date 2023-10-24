@@ -11,13 +11,14 @@
         "Agentur Smash"
     ],
     "address": "Landsberger Straße 155\n80687 München\nDeutschland",
-    "phone": "+49 3222 34 28 073",
+    "phone": "+49 172 4009896",
     "email": "mail@agentur-smash.de",
     "web": "https://agentur-smash.de/",
     "sources": [
         "https://agentur-smash.de/datenschutz/",
         "https://github.com/datenanfragen/data/issues/647",
-        "https://agentur-smash.de/impressum/"
+        "https://agentur-smash.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/2431"
     ],
     "quality": "verified"
 }
