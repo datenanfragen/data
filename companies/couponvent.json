@@ -1,0 +1,22 @@
+{
+    "slug": "couponvent",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Couponvent",
+    "address": "9484 Frisco Street Frisco, Texas 75033",
+    "phone": "12794992386",
+    "fax": "12794992387",
+    "email": "jinxraz@gmail.com",
+    "webform": "https://couponvent.com/page/contact",
+    "web": "https://couponvent.com/",
+    "sources": [
+        "Google",
+        "https://github.com/datenanfragen/data/pull/2434"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
