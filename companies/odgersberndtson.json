@@ -1,0 +1,16 @@
+{
+    "slug": "odgersberndtson",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Odgers Berndtson",
+    "address": "Odgers Berndtson\n20 Cannon Street\nLondon, EC4M 6XD\nUnited Kingdom",
+    "email": "data.administrator@odgersberndtson.com",
+    "web": "https://www.odgersberndtson.com",
+    "sources": [
+        "https://www.odgersberndtson.com/de-ch/legal-notices/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2436"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
