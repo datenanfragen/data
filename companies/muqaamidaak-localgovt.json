@@ -1,0 +1,20 @@
+{
+    "slug": "muqaamidaak-localgovt",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "muqaami daak",
+    "address": "Plaza No 240, 2nd Floor, Sector FF, DHA Phase 4, Lahore Cantt",
+    "phone": "03046697295",
+    "email": "seharkhandaak@gmail.com",
+    "webform": "blogging",
+    "web": "https://muqaamidaak.localgovt.org/",
+    "sources": [
+        "news",
+        "https://github.com/datenanfragen/data/pull/2438"
+    ],
+    "quality": "verified"
+}
