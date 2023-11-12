@@ -23,13 +23,15 @@
     "email": "datenschutz@delti.com",
     "web": "https://www.delti.com/",
     "sources": [
+        "https://www.delti.com/de/datenschutzerklaerung/",
         "https://www.reifendirekt.de/datenschutz.html",
         "https://www.motorradreifendirekt.de/i/datenschutz",
         "https://www.reifentest.com/web/pages/datenschutz",
         "https://www.komplettraeder24.de/datenschutz.html",
         "https://www.reifendirekt.de/Impressum.html",
         "https://github.com/datenanfragen/data/pull/1276",
-        "https://github.com/datenanfragen/data/pull/1454"
+        "https://github.com/datenanfragen/data/pull/1454",
+        "https://github.com/datenanfragen/data/pull/2358"
     ],
     "suggested-transport-medium": "email",
     "comments": [
