@@ -10,11 +10,12 @@
     "name": "Humble Bundle, Inc.",
     "address": "114 Fifth Avenue\n5th Floor\nNew York\nNY 10011\nUnited States of America",
     "phone": "+1 877 948 6253",
-    "email": "dpo@humblebundle.com",
+    "email": "dpo@ziffdavis.com",
     "web": "https://www.humblebundle.com/",
     "sources": [
         "https://www.humblebundle.com/privacy",
-        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=130405036"
+        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=130405036",
+        "https://github.com/datenanfragen/data/pull/2445"
     ],
     "required-elements": [
         {
@@ -26,11 +27,10 @@
             "type": "email"
         }
     ],
-    "suggested-transport-medium": "email",
-    "needs-id-document": false,
     "request-language": "en",
+    "suggested-transport-medium": "email",
     "comments": [
         "Alternative email address: privacy@humblebundle.com"
     ],
-    "quality": "tested"
+    "quality": "verified"
 }
