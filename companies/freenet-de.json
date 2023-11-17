@@ -13,11 +13,23 @@
     "web": "https://www.freenet.de/",
     "sources": [
         "https://www.freenet.de/datenschutz/index.html",
-        "https://www.freenet.de/impressum"
+        "https://www.freenet.de/impressum",
+        "https://kundenservice.freenet.de",
+        "https://github.com/datenanfragen/data/pull/2447"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "input"
+        },
+        {
+            "desc": "Adresse",
+            "type": "input"
+        }
     ],
     "suggested-transport-medium": "email",
     "comments": [
-        "Achtung: Faxnummer ist kostenpflichtig (€ 0,09/Min. aus dem dt. Festnetz, Mobilfunk max. € 0,42/Min.)!"
+        "Achtung: Faxnummer ist kostenpflichtig (€ 0,09/Min. aus dem dt. Festnetz, Mobilfunk max. € 0,42/Min.)!\n\nBetrifft die Anfrage einen Vertrag bei einem anderen Unternehmen der freenet AG, dann möge man sich mit der Anfrage in diesem Fall direkt an dieses Unternehmen wenden. Eine Übersicht der Töchtergesellschaften ist unter https://kundenservice.freenet.de ersichtlich."
     ],
     "quality": "verified"
 }
