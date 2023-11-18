@@ -1,0 +1,41 @@
+{
+    "slug": "merton-gov",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "The London Borough of Merton",
+    "address": "Information Governance Team\nMerton Civic Centre\nLondon Road\nMorden\nSM4 5DX",
+    "email": "data.protection@merton.gov.uk",
+    "web": "https://www.merton.gov.uk/",
+    "sources": [
+        "https://www.merton.gov.uk/council-and-local-democracy/data-protection-and-freedom-of-information/ask-for-information-we-hold-about-you",
+        "https://github.com/datenanfragen/data/pull/2448"
+    ],
+    "required-elements": [
+        {
+            "desc": "Full Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "textarea",
+            "optional": false
+        },
+        {
+            "desc": "Contact Email Address",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Contact Phone Number",
+            "type": "input",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
