@@ -12,8 +12,30 @@
     "web": "https://www.neu.de/",
     "sources": [
         "https://www.neu.de/pages/misc/privacy",
-        "https://www.neu.de/pages/misc/impressum"
+        "https://www.neu.de/pages/misc/impressum",
+        "https://github.com/datenanfragen/data/pull/2451"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        },
+        {
+            "desc": "E-mail",
+            "type": "email"
+        },
+        {
+            "desc": "Benutzername",
+            "type": "input"
+        }
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Anfragen werden durch den Kundenservice beantwortet (kundenservice@help.neu.de).\n\nBei Inaktivität ist das Profil nach 12 Monaten nicht mehr im Dienst sichtbar und alle personenbezogenen Daten nach 24 Monaten gelöscht."
+    ],
     "quality": "verified"
 }
