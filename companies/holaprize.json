@@ -1,0 +1,53 @@
+{
+    "slug": "holaprize",
+    "relevant-countries": [
+        "bg",
+        "es"
+    ],
+    "categories": [
+        "commerce",
+        "entertainment"
+    ],
+    "name": "HolaPrize",
+    "runs": [
+        "Prize Winning Sl."
+    ],
+    "address": "Calle Santa Felicidad 22\n28017\nMadrid\nSpain",
+    "phone": "+34 722 66 62 10",
+    "fax": "+34 722 66 62 10",
+    "email": "support@holaprize.com",
+    "webform": "https://holaprize.com/contacts",
+    "web": "https://holaprize.com",
+    "sources": [
+        "https://holaprize.com",
+        "https://holaprize.com/terms",
+        "https://github.com/datenanfragen/data/pull/2452"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "Birth date",
+            "type": "birthdate",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "https://holaprize.com"
+    ],
+    "quality": "verified"
+}
