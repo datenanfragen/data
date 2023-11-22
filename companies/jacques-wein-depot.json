@@ -1,0 +1,14 @@
+{
+    "slug": "jacques-wein-depot",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Jacques’ Wein-Depot",
+    "address": "Bilker Allee 49\n40219 Düsseldorf",
+    "email": "kontakt@jacques.de",
+    "sources": [
+        "https://www.jacques.de/ueber-uns/impressum/",
+        "https://github.com/datenanfragen/data/pull/2454"
+    ],
+    "quality": "verified"
+}
