@@ -9,10 +9,11 @@ import pc from 'picocolors';
 import asTable from 'as-table';
 import { marked } from 'marked';
 import TerminalRenderer from 'marked-terminal';
-import _linters from './checks';
+import linters from './checks';
 import { locatorFactory } from './common/locator';
 import { GenericRecord } from './types/records';
 import { CheckInstance, RdjsonLine } from './types/checks';
+import { existingCompanySlugs, existingTemplatesPerLanguage } from './common/ctx';
 
 marked.setOptions({ renderer: new TerminalRenderer({ reflowText: true, width: process.stdout.columns - 10, tab: 2 }) });
 
@@ -36,7 +37,6 @@ let exit_code = 0;
 const validate = async (dir: string) => {
     const check_results: RdjsonLine[] = [];
 
-    const linters = await _linters();
     const files = glob.sync(`${dir}/*.json`);
 
     for (const f of files) {
@@ -83,7 +83,13 @@ const validate = async (dir: string) => {
             if (!path_filter(rel_path)) continue;
 
             for (const check of checks) {
-                const res = check.run(json, { locator, file_path: rel_path, file_content }) || [];
+                const res =
+                    check.run(json, {
+                        file_path: rel_path,
+                        file_content,
+                        existingCompanySlugs,
+                        existingTemplatesPerLanguage,
+                    }) || [];
                 check_results.push(
                     // Really not sure why the cast is necessary here…
                     ...(Array.isArray(res) ? (res.filter((r) => r) as CheckInstance[]) : [res])
@@ -117,7 +123,7 @@ const validate = async (dir: string) => {
     else {
         const results_per_file = check_results.reduce<Record<string, RdjsonLine[]>>((acc, cur) => {
             if (!acc[cur.location.path]) acc[cur.location.path] = [];
-            acc[cur.location.path].push(cur);
+            acc[cur.location.path]!.push(cur);
             return acc;
         }, {});
         const log = (str = '', padding = 0) =>
@@ -155,8 +161,8 @@ const validate = async (dir: string) => {
             const table = asTable(data.map((r) => r.row)).split('\n');
             for (let i = 0; i < data.length; i++) {
                 log(table[i], 2);
-                log(marked(data[i].res.message).trim(), 5);
-                const suggestions = data[i].res.suggestions;
+                log(marked(data[i]!.res.message).trim(), 5);
+                const suggestions = data[i]!.res.suggestions;
                 if (suggestions && suggestions.length) {
                     log();
                     log('Suggestions:', 5);

@@ -1,0 +1,17 @@
+{
+    "slug": "majorel-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Majorel Group Luxembourg S.A.",
+    "address": "18, boulevard de Kockelscheuer\nL-1821 Luxembourg\nLuxembourg",
+    "phone": "+49 5241 5275010",
+    "email": "datenschutz.gee@majorel.com",
+    "web": "https://www.majorel.com/",
+    "sources": [
+        "https://de.majorel.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2269"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

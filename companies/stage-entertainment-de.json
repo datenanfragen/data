@@ -14,9 +14,26 @@
     "sources": [
         "https://www.stage-entertainment.de/service/datenschutz.html",
         "https://www.stage-entertainment.com/companies",
-        "https://github.com/datenanfragen/data/pull/959"
+        "https://github.com/datenanfragen/data/pull/959",
+        "https://github.com/datenanfragen/data/pull/2276"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }

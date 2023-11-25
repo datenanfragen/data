@@ -6,6 +6,8 @@ const check: Check = {
     url: 'https://github.com/datenanfragen/data#addresses',
     severity: 'ERROR',
     run: (json) => {
+        if (!json['address']) return;
+
         const address_lines = json['address'].split('\n');
         const contains_company_name = (el: string) => el.trim() === json['name'];
 
@@ -15,6 +17,8 @@ const check: Check = {
                 json_pointer: '/address',
                 suggestions: [address_lines.filter((x) => !contains_company_name(x)).join('\n')],
             };
+
+        return;
     },
 };
 export default check;

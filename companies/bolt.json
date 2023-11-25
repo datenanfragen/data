@@ -1,0 +1,19 @@
+{
+    "slug": "bolt",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Bolt Operations OÜ",
+    "address": "Vana-Lõuna 15\n10134 Tallinn\nEstonia",
+    "email": "privacy@bolt.eu",
+    "web": "https://bolt.eu",
+    "sources": [
+        "https://bolt.eu/en/privacy/privacy-for-riders/",
+        "https://github.com/datenanfragen/data/pull/2354"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

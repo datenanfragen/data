@@ -11,18 +11,16 @@
         "bahn.de",
         "BahnCard",
         "bahn.bonus",
-        "Meine Bahn",
         "DB Navigator",
         "DB Regio AG",
         "DB Fernverkehr AG"
     ],
-    "address": "Europa-Allee 78-84\n60486 Frankfurt\nDeutschland",
-    "phone": "+49 30 2970",
-    "email": "ecommerce-datenschutz@bahn.de",
+    "address": "Europa-Allee 78-84\n60486 Frankfurt\nGermany",
+    "email": "p.d-datenschutz@deutschebahn.com",
     "web": "https://www.bahn.de",
     "sources": [
         "https://www.bahn.de/datenschutz",
-        "https://www.bahn.de/impressum"
+        "https://github.com/datenanfragen/data/pull/2349"
     ],
     "required-elements": [
         {

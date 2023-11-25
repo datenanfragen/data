@@ -1,29 +1,23 @@
 {
     "slug": "ewe-de",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication",
         "utility"
     ],
     "name": "EWE AG",
-    "runs": [
-        "onsatel (www.osnatel.de)",
-        "Mein EWE",
-        "EWE Webmail",
-        "EWE TEL GmbH",
-        "EWE VERTRIEB GmbH"
-    ],
     "address": "Tirpitzstraße 39\n26122 Oldenburg\nDeutschland",
-    "phone": "+49 441 4805 0",
-    "fax": "+49 441 803 3999",
+    "phone": "+49 441 48050",
+    "fax": "+49 441 8033999",
     "email": "datenschutz@ewe.de",
     "web": "https://www.ewe.de/",
     "sources": [
         "https://www2.ewe.de/privatkunden/datenschutzerklaerung",
         "https://www2.ewe.de/privatkunden/impressum",
-        "https://www.osnatel.de/osnatel-erkunden/datenschutz"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.osnatel.de/osnatel-erkunden/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2035"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

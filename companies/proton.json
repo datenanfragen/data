@@ -11,13 +11,15 @@
         "Proton Mail",
         "Proton Calendar",
         "Proton Drive",
-        "Proton VPN"
+        "Proton VPN",
+        "Proton Pass"
     ],
     "address": "Route de la Galaise 32\n1228 Plan-les-Ouates\nGeneva\nSwitzerland",
     "webform": "https://proton.me/support/contact",
     "web": "https://proton.me",
     "sources": [
-        "https://proton.me/legal/privacy"
+        "https://proton.me/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/2281"
     ],
     "quality": "verified"
 }

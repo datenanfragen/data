@@ -1,0 +1,21 @@
+{
+    "slug": "adressbar",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Fabian Wolf – Data Services",
+    "address": "c/o IITR Datenschutz GmbH\nMarienplatz 2\n80331 München\nDeutschland",
+    "phone": "+49 89 18917360",
+    "email": "email@iitr.de",
+    "web": "https://adressbar.de",
+    "sources": [
+        "https://adressbar.de/datenschutzerklaerung/",
+        "https://adressbar.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/2330"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
