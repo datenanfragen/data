@@ -19,12 +19,8 @@
         "https://github.com/datenanfragen/data/issues/548",
         "https://www.gov.uk/government/organisations/department-for-work-pensions/about/personal-information-charter",
         "https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions",
-        "https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions",
         "https://github.com/datenanfragen/data/pull/2255"
     ],
-    "suggested-transport-medium": "webform",
-    "comments": [
-        "Universal Credit is a brand that DWP uses for the \"Universal Credit\" social security benefit.- it is featured in adverts as a brand."
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
