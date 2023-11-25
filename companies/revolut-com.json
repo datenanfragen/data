@@ -13,7 +13,8 @@
     "web": "https://www.revolut.com",
     "sources": [
         "https://github.com/datenanfragen/data/issues/401",
-        "https://www.revolut.com/en-DE/legal/privacy"
+        "https://www.revolut.com/en-DE/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/2305"
     ],
     "required-elements": [
         {
@@ -27,6 +28,14 @@
         {
             "desc": "Email",
             "type": "email"
+        },
+        {
+            "type": "birthdate",
+            "desc": "Date of birth"
+        },
+        {
+            "desc": "Phone number",
+            "type": "input"
         }
     ],
     "suggested-transport-medium": "email",
