@@ -30,17 +30,14 @@
             "type": "email"
         },
         {
-            "desc": "Geburtsdatum",
-            "type": "birthdate"
+            "type": "birthdate",
+            "desc": "Date of birth"
         },
         {
-            "desc": "Registrierte Handnummer",
-            "type": "textarea"
+            "desc": "Phone number",
+            "type": "input"
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Please provide answers to the following security questions that will allow us to confirm your identity:\n\n\n    Your full name\n\n    Your business name (if applicable)\n\n    Your personal postal address\n\n    Your business registered address (if applicable)\n\n    Your date of birth\n\n    The mobile phone number that was used\n\n    The email address that you signed up with."
-    ],
     "quality": "verified"
 }
