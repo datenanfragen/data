@@ -6,24 +6,29 @@
     "categories": [
         "travel"
     ],
-    "name": "Keolis Rennes",
+    "name": "Keolis Rennes S.A.",
     "runs": [
         "STAR Rennes",
         "Handistar",
         "STAR le vélo",
-        "La Maison du vélo",
         "Covoit'Star"
     ],
-    "address": "Rue Jean-Marie Huchet\nCS 94001\n35040 Rennes Cedex\nFrance",
-    "email": "dpo.rennes@keolis.com",
+    "address": "34 Avenue Léonard De Vinci\n92400 Courbevoie\nFrance",
+    "webform": "https://www.keolis-rennes.com/contact/",
     "web": "https://www.keolis-rennes.com/",
     "sources": [
-        "https://www.star.fr/a-propos/politique-de-confidentialite"
+        "https://www.keolis-rennes.com/politique-de-confidentialite-keolis-rennes-s-a/",
+        "https://www.star2022.fr/info/politique-de-confidentialite"
     ],
     "required-elements": [
         {
-            "desc": "Customer number (N° Client) of the KorriGo card (if holder)",
+            "desc": "Name",
             "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Customer number (N° Client) of the KorriGo card (if holder)",
+            "type": "input",
             "optional": true
         },
         {
@@ -31,12 +36,6 @@
             "type": "input",
             "optional": true
         }
-    ],
-    "request-language": "fr",
-    "needs-id-document": true,
-    "suggested-transport-medium": "email",
-    "comments": [
-        "EN: If you are a holder of a KorriGo card, a copy of it is required to be joined or a copy of ID document\nFR: Si vous êtes titulaires d'une carte KorriGo, une copie doit être jointe aux demandes, à défaut, une copie de pièce d'identité peut être produite"
     ],
     "quality": "verified"
 }
