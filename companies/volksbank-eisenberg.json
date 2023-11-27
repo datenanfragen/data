@@ -15,9 +15,9 @@
     "sources": [
         "https://www.volksbankeisenberg.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.nolayer.html",
         "https://www.volksbankeisenberg.de/Pflichtangaben/impressum.landingpage.nolayer.html",
-        "https://github.com/datenanfragen/data/pull/2432"
+        "https://github.com/datenanfragen/data/pull/2432",
+        "https://www.volksbankeisenberg.de/content/dam/f2728-0/1_Webbank_2020/Dokumente/Pflichtinformationen/Datenschutzhinweise-fuer-Bewerber.pdf"
     ],
     "suggested-transport-medium": "email",
-    "comments": [],
     "quality": "verified"
 }
