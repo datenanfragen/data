@@ -8,17 +8,17 @@
     ],
     "name": "MediaMarkt.de",
     "runs": [
-        "Media Markt E-Business GmbH (ehem.)",
-        "myMediaMarkt (Deutschland)",
-        "myMediaMarkt+"
+        "myMediaMarkt",
+        "myMediaMarkt+",
+        "Media Markt E-Business GmbH (ehem.)"
     ],
-    "address": "c/o MediaMarktSaturn E-Commerce GmbH\nWankelstraße 5\n85046 Ingolstadt\nDeutschland",
+    "address": "c/o MediaMarktSaturn Retail Group GmbH\nMedia-Saturn-Straße 1\n85053 Ingolstadt\nDeutschland",
     "phone": "+49 221 22243333",
     "email": "datenschutz@mediamarkt.de",
     "web": "https://www.mediamarkt.de/",
     "sources": [
         "https://www.mediamarkt.de/de/legal/datenschutzhinweise/shop",
-        "https://www.mediamarkt.de/de/legal/my-mediamarkt",
+        "https://www.mediamarkt.de/de/legal/datenschutzhinweise/my-mediamarkt",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410296&land_abk=by",
         "https://github.com/datenanfragen/data/pull/2404"
     ],
