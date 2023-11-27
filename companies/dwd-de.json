@@ -8,9 +8,7 @@
     ],
     "name": "Deutscher Wetterdienst",
     "runs": [
-        "apps.apple.com/de/app/dwd-warnwetter/id986420993",
-        "play.google.com/store/apps/details?id=de.dwd.warnapp",
-        "warnwetterapp.de"
+        "WarnWetter-App"
     ],
     "address": "Frankfurter Straße 135\n63067 Offenbach\nDeutschland",
     "phone": "+49 69 80620",
