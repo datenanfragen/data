@@ -8,12 +8,14 @@
         "esojob.de"
     ],
     "address": "Alte Marktstraße 37\n31785 Hameln\nDeutschland",
-    "phone": "0 51 51/ 40 77 87",
+    "phone": "+49 5151 407787",
     "email": "datenschutz@job4you.de",
     "web": "https://job4you.de",
     "sources": [
+        "https://job4you.de/datenschutzerklaerung/",
         "https://esojob.de/eso/",
         "https://github.com/datenanfragen/data/pull/2427"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
