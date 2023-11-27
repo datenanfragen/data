@@ -9,7 +9,6 @@
     "name": "Twitter International Unlimited Company",
     "runs": [
         "X Corp. (x.com)",
-        "ehemals Twitter, Inc. (twitter.com)",
         "Periscope",
         "MoPub"
     ],
@@ -17,7 +16,7 @@
     "phone": "+1 415 222 9670",
     "fax": "+1 415 222 9958",
     "email": "dpo@twitter.com",
-    "webform": "https://help.twitter.com/forms/privacy",
+    "webform": "https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp",
     "web": "https://twitter.com",
     "sources": [
         "https://twitter.com/de/privacy",
