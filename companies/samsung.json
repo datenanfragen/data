@@ -4,16 +4,28 @@
         "all"
     ],
     "name": "Samsung Electronics (UK) Limited",
-    "address": "Europäischer Datenschutzbeauftragter\nSamsung House\n2000 Hillswood Drive, Chertsey, Surrey KT16 0RS",
+    "runs": [
+        "Samsung Electronics Co., Ltd."
+    ],
+    "address": "Samsung House\n2000 Hillswood Drive\nChertsey, Surrey\nKT16 0RS\nUnited Kingdom",
     "webform": "https://www.samsung.com/request-desk/",
-    "web": "https://www.samsung.com/de",
+    "web": "https://www.samsung.com/",
     "sources": [
         "https://www.samsung.com/de/info/privacy/",
         "https://github.com/datenanfragen/data/pull/2440"
     ],
-    "suggested-transport-medium": "webform",
-    "comments": [
-        "Samsung Electronics hat Niederlassungen in ganz Europa, sodass sichergestellt ist, dass die Anfrage bzw. Frage von dem in der Region ansässigen Datenschutzteam beantwortet wird."
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        }
     ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
