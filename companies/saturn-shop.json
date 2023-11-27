@@ -8,30 +8,38 @@
     ],
     "name": "Saturn.de",
     "runs": [
-        "Saturn Card",
+        "mySaturn",
+        "mySaturn+",
+        "Saturn Card (ehem.)",
         "Saturn online GmbH (ehem.)"
     ],
     "address": "MediaMarktSaturn Retail Group GmbH\nMedia-Saturn-Straße 1\n85053 Ingolstadt\nDeutschland",
+    "phone": "+49 221 22243123",
+    "fax": "+49 841 634991835",
     "email": "datenschutz@saturn.de",
     "web": "http://www.saturn.de/",
     "sources": [
         "https://www.saturn.de/de/legal/datenschutzhinweise",
-        "https://www.saturn.de/de/legal/datenschutzhinweise/card",
+        "https://www.saturn.de/de/legal/datenschutzhinweise/my-saturn",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410442&land_abk=by",
-        "https://github.com/datenanfragen/data/pull/2401"
+        "https://github.com/datenanfragen/data/pull/2401",
+        "https://github.com/datenanfragen/data/pull/2400"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Anmelde-E-Mail-Adresse",
-            "type": "email"
+            "type": "email",
+            "optional": false
         },
         {
             "desc": "Anschrift",
-            "type": "address"
+            "type": "address",
+            "optional": false
         },
         {
             "desc": "Geburtsdatum (nur falls Saturn bekannt)",
@@ -40,8 +48,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Für den Saturn Onlineshop Deutschland ist Verantwortliche im Sinne der DSGVO:\nMMS E-Commerce GmbH,\nMedia-Saturn-Straße 1,\n85053 Ingolstadt\n\nFür mySaturn Deutschland und mySaturn+ ist Verantwortliche im Sinne der DSGVO:\n\nMedia-Saturn Deutschland GmbH\nMedia-Saturn-Straße 1\n85053 Ingolstadt\n\nAls Datenschutzbeauftragter wurde für beide Fälle die MediaMarktSaturn Retail Group GmbH bestellt."
-    ],
     "quality": "verified"
 }
