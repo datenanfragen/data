@@ -1,5 +1,8 @@
 {
     "slug": "check24",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "ads",
         "insurance",
@@ -45,17 +48,15 @@
         "CHECK24 International GmbH"
     ],
     "address": "Erika-Mann-Str. 62 – 66\n80636 München\nDeutschland",
-    "phone": "+49 89 200 047 1010",
-    "fax": "+49 89 200 047 1011",
-    "email": "webseite_datenschutz@check24.de",
+    "phone": "+49 89 2000471010",
+    "fax": "+49 89 2000471011",
+    "email": "kundenmanagement_datenschutz@check24.de",
     "web": "https://www.check24.de/",
     "sources": [
-        "https://www.check24.de/popup/datenschutz/",
+        "https://www.check24.de/popup/datenschutz-check24-gmbh/",
         "https://www.check24.de/unternehmen/impressum/",
-        "https://github.com/datenanfragen/data/pull/697"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://github.com/datenanfragen/data/pull/697",
+        "https://github.com/datenanfragen/data/pull/2056"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

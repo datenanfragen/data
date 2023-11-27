@@ -6,31 +6,17 @@
     "categories": [
         "finance"
     ],
-    "name": "Ingenico Group SA",
-    "runs": [
-        "Ingenico S.A.",
-        "Ingenico Payment Services GmbH",
-        "Ingenico Marketing Solutions GmbH",
-        "Ingenico Financial Solutions ",
-        "Ingenico e-Commerce Solutions",
-        "Ingenico Healthcare GmbH",
-        "Ingenico Terminals",
-        "Ingenico ePayments"
-    ],
-    "address": "28/32 boulevard de Grenelle\n75015 Paris\nFrance",
-    "phone": "+33 158 018000",
-    "fax": "+33 158 019135",
-    "email": "contact.dataprotection@ingenico.com",
+    "name": "INGENICO",
+    "address": "13/17 Rue Pagès\n92150 Suresnes\nFrance",
+    "phone": "+33 1 58 01 91 35",
+    "email": "dataprivacy@ingenico.com",
+    "webform": "https://privacyportal-de.onetrust.com/webform/07da248a-8a27-43a5-9d95-75c59edd9aa7/cbb643be-b7a0-4324-b1af-3e02c33b91e1",
     "web": "https://www.ingenico.com",
     "sources": [
-        "https://www.ingenico.com/privacy-policy",
-        "https://www.ingenico.com/contact-us/offices",
-        "https://www.ingenico.com/privacy-policy#AnnexB",
-        "https://investors.worldline.com/content/investors-worldline-com/en/home/governance.html"
+        "https://ingenico.com/en/legal/privacy-policy",
+        "https://ingenico.com/en/contact",
+        "https://github.com/datenanfragen/data/pull/2338"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Payment Service Provider for Banking (e.g. Credit Card Fraud Checks) and Merchants (e.g. Online Payments)"
-    ],
     "quality": "verified"
 }

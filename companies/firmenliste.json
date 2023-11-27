@@ -9,15 +9,17 @@
     ],
     "name": "Adresskontor GmbH",
     "runs": [
-        "FirmenListe.net"
+        "FirmenListe.net",
+        "Branchen-Adressen.com"
     ],
-    "address": "An der Pönt 46\n40885 Ratingen\nDeutschland",
-    "phone": "+49 174 2649009",
-    "email": "office@firmenliste.net",
+    "address": "c/o IITR Datenschutz GmbH\nMarienplatz 2\n80331 München\nDeutschland",
+    "phone": "+49 89 1891 7360",
+    "email": "email@iitr.de",
     "web": "https://www.firmenliste.net",
     "sources": [
         "https://www.firmenliste.net/datenschutz.php",
         "https://adressen-kaufen.cc/impressum.html",
+        "https://www.branchen-adressen.com/datenschutz/",
         "https://github.com/datenanfragen/data/pull/715",
         "https://github.com/datenanfragen/data/pull/2041"
     ],

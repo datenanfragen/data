@@ -1,0 +1,34 @@
+{
+    "slug": "rmv",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Rhein-Main-Verkehrsverbund GmbH",
+    "runs": [
+        "meinRMV",
+        "RMV-HandyTicket",
+        "RMVgo",
+        "RMV-TicketShop",
+        "eTicket RheinMain-Services",
+        "RMVsmiles"
+    ],
+    "address": "Alte Bleiche 5\n65719 Hofheim am Taunus\nDeutschland",
+    "phone": "+49 6192 2940",
+    "fax": "+49 6192 294900",
+    "email": "datenschutz@rmv.de",
+    "web": "https://www.rmv.de",
+    "sources": [
+        "https://www.rmv.de/c/de/rechtliche-hinweise/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2408",
+        "https://www.rmv.de/c/de/rechtliche-hinweise/datenschutz/datenschutzgrundverordnung/meinrmv",
+        "https://www.rmv.de/c/de/rechtliche-hinweise/datenschutz/datenschutzgrundverordnung/rmv-handyticket",
+        "https://www.rmv.de/c/de/rechtliche-hinweise/datenschutzerklaerung/datenschutz-in-der-rmv-app",
+        "https://www.rmv.de/c/de/rechtliche-hinweise/datenschutz/datenschutzgrundverordnung/rmv-ticketshop-und-eticket-rheinmain-services",
+        "https://smiles.www.rmv.de/datenschutz"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

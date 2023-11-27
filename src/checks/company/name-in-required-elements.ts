@@ -8,7 +8,7 @@ const check: CompanyCheck = {
     run: (json) => {
         if (!json['required-elements']) return;
 
-        const has_name_field = json['required-elements'].some((el) => el.type === 'name');
+        const has_name_field = json['required-elements'].some((el) => el?.type === 'name');
         if (!has_name_field)
             return {
                 message: 'Record has required elements but no `name` element.',

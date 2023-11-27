@@ -7,14 +7,15 @@
         "ads"
     ],
     "name": "Adform A/S",
-    "address": "Wildersgade 10B\n1st floor\n1408 Copenhagen\nDenmark",
+    "address": "Silkegade 3B\n1113 Copenhagen\nDenmark",
     "email": "dpo@adform.com",
     "web": "https://site.adform.com/",
+    "webform": "https://site.adform.com/privacy-center/platform-privacy/rights-to-insights/",
     "sources": [
         "https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }

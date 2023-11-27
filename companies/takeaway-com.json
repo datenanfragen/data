@@ -28,12 +28,12 @@
         "lieferservice.de (ehem.)",
         "lieferheld.de (ehem.)"
     ],
-    "address": "Oosterdoksstraat 80\n1011 DK Amsterdam\nNederland",
+    "address": "Piet Heinkade 61\n1019 GM Amsterdam\nNederland",
     "phone": "+31 20 210 7000",
     "email": "privacy-concerns@takeaway.com",
+    "webform": "https://privacyportal-de.onetrust.com/webform/5fffb107-8d8a-49e5-bdda-be5d78615bc7/5e662c3e-31ca-49fe-a8b1-bfef7431a149",
     "web": "https://takeaway.com",
     "sources": [
-        "https://corporate.takeaway.com",
         "https://www.takeaway.com/bg/pravna-informatsia",
         "https://corporate.takeaway.com/governance/corporate-governance/",
         "https://www.lieferando.de/privacy-statement",
@@ -47,10 +47,10 @@
         "https://www.takeaway.com/ch-en/colofon",
         "https://www.thuisbezorgd.nl/colofon",
         "https://www.10bis.co.il/next/privacyPolicy",
-        "https://en.wikipedia.org/wiki/Takeaway.com",
         "https://github.com/datenanfragen/data/pull/1118",
         "https://www.takeaway.com/drivers/privacy",
-        "https://github.com/datenanfragen/data/pull/1654"
+        "https://github.com/datenanfragen/data/pull/1654",
+        "https://github.com/datenanfragen/data/pull/2407"
     ],
     "required-elements": [
         {
