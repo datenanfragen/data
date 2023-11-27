@@ -20,16 +20,16 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
-            "desc": "Email",
-            "type": "email"
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Alternativ steht die Adresse \"kundenservice@dtv.de\" zur Verfügung."
-    ],
-    "quality": "verified"
+    "quality": "tested"
 }
