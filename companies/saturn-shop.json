@@ -13,7 +13,7 @@
         "Saturn Card (ehem.)",
         "Saturn online GmbH (ehem.)"
     ],
-    "address": "c/o MediaMarktSaturn E-Commerce GmbH\nWankelstraße 5\n85046 Ingolstadt\nDeutschland",
+    "address": "MediaMarktSaturn Retail Group GmbH\nMedia-Saturn-Straße 1\n85053 Ingolstadt\nDeutschland",
     "phone": "+49 221 22243123",
     "fax": "+49 841 634991835",
     "email": "datenschutz@saturn.de",
@@ -22,6 +22,7 @@
         "https://www.saturn.de/de/legal/datenschutzhinweise",
         "https://www.saturn.de/de/legal/datenschutzhinweise/my-saturn",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410442&land_abk=by",
+        "https://github.com/datenanfragen/data/pull/2401",
         "https://github.com/datenanfragen/data/pull/2400"
     ],
     "required-elements": [
