@@ -14,7 +14,22 @@
     "web": "https://www.dtv.de",
     "sources": [
         "https://www.dtv.de/datenschutz",
-        "https://github.com/datenanfragen/data/pull/1274"
+        "https://github.com/datenanfragen/data/pull/1274",
+        "https://github.com/datenanfragen/data/pull/2441"
     ],
-    "quality": "verified"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "tested"
 }
