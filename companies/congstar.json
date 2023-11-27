@@ -6,7 +6,6 @@
     "categories": [
         "telecommunication"
     ],
-    "name": "Telekom Deutschland GmbH",
     "runs": [
         "congstar E-Mail",
         "congstar Musik",
@@ -15,13 +14,13 @@
         "Penny Mobil",
         "ja! mobil"
     ],
-    "address": "congstar Kundenservice\nPostfach 1165\n61466 Kronberg",
+    "address": "c/o Telekom Deutschland GmbH\nBayenwerft 12-14\n50678 Köln\nDeutschland",
     "phone": "+49 221 79700790",
     "fax": "+49 221 79700601",
     "email": "datenschutz@congstar.de",
     "web": "https://www.congstar.de/",
     "sources": [
-        "https://www.congstar.de/datenschutz/",
+        "https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/DSH_congstar_September2023_final.pdf",
         "https://www.congstar.de/impressum/",
         "https://www.congstar.de/hilfe-service/kontakt/",
         "https://www.congstar.de/unternehmensinformationen",
@@ -31,5 +30,6 @@
         "https://github.com/datenanfragen/data/pull/2405"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "name": "congstar"
 }
