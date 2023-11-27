@@ -8,9 +8,9 @@
     ],
     "name": "Saturn.de",
     "runs": [
-        "mySaturn (Deutschland)",
+        "mySaturn",
         "mySaturn+",
-        "Saturn Card",
+        "Saturn Card (ehem.)",
         "Saturn online GmbH (ehem.)"
     ],
     "address": "c/o MediaMarktSaturn E-Commerce GmbH\nWankelstraße 5\n85046 Ingolstadt\nDeutschland",
@@ -20,22 +20,25 @@
     "web": "http://www.saturn.de/",
     "sources": [
         "https://www.saturn.de/de/legal/datenschutzhinweise",
-        "https://www.saturn.de/de/legal/datenschutzhinweise/card",
+        "https://www.saturn.de/de/legal/datenschutzhinweise/my-saturn",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410442&land_abk=by",
         "https://github.com/datenanfragen/data/pull/2400"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Anmelde-E-Mail-Adresse",
-            "type": "email"
+            "type": "email",
+            "optional": false
         },
         {
             "desc": "Anschrift",
-            "type": "address"
+            "type": "address",
+            "optional": false
         },
         {
             "desc": "Geburtsdatum (nur falls Saturn bekannt)",
@@ -44,8 +47,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Verantwortliche Stelle für Saturn Card laut Datenschutzerklärung ist die redblue services GmbH, Helene-Wessel-Bogen 3, 80939 München, Deutschland, aber mit gleicher E-Mail-Adresse."
-    ],
     "quality": "verified"
 }
