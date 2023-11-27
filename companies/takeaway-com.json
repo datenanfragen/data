@@ -30,7 +30,8 @@
     ],
     "address": "Piet Heinkade 61\n1019 GM Amsterdam\nNederland",
     "phone": "+31 20 210 7000",
-    "email": "privacy-concerns@takeaway.com",
+    "fax": "rakibfokir250@gmail.com",
+    "email": "rakibfokir250@gmail.com",
     "webform": "https://privacyportal-de.onetrust.com/webform/5fffb107-8d8a-49e5-bdda-be5d78615bc7/5e662c3e-31ca-49fe-a8b1-bfef7431a149",
     "web": "https://takeaway.com",
     "sources": [
@@ -50,7 +51,8 @@
         "https://github.com/datenanfragen/data/pull/1118",
         "https://www.takeaway.com/drivers/privacy",
         "https://github.com/datenanfragen/data/pull/1654",
-        "https://github.com/datenanfragen/data/pull/2407"
+        "https://github.com/datenanfragen/data/pull/2407",
+        "https://github.com/datenanfragen/data/pull/2459"
     ],
     "required-elements": [
         {
@@ -59,7 +61,8 @@
         },
         {
             "desc": "Email",
-            "type": "email"
+            "type": "email",
+            "optional": true
         },
         {
             "desc": "Address",
@@ -67,7 +70,6 @@
             "optional": true
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
