@@ -7,7 +7,7 @@
         "entertainment",
         "social media"
     ],
-    "name": "Bigo Technology Pte. Ltd.",
+    "name": "Likee",
     "runs": [
         "Likee",
         "LIKE Video (formerly)"
@@ -20,7 +20,12 @@
         "https://likee.com/privacy",
         "https://github.com/datenanfragen/data/issues/539",
         "https://github.com/datenanfragen/data/pull/771",
-        "https://www.bigo.sg/contact"
+        "https://www.bigo.sg/contact",
+        "https://github.com/datenanfragen/data/pull/2465"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Türkiye paneliyle kimse ilgilenmiyor lütfen acil cevap"
     ],
     "quality": "verified"
 }
