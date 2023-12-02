@@ -1,0 +1,18 @@
+{
+    "slug": "mtgmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "MTG Miettreuhandgesellschaft mbH",
+    "address": "Mommsenstraße 4\n04329 Leipzig",
+    "phone": "+49 341 710030",
+    "fax": "+49 341 7100323",
+    "email": "info@mtgmbg.de",
+    "web": "https://www.mtgmbh.de",
+    "sources": [
+        "https://www.mtgmbh.de/",
+        "https://github.com/datenanfragen/data/pull/2460"
+    ],
+    "quality": "verified"
+}
