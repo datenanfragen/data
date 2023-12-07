@@ -1,0 +1,52 @@
+{
+    "slug": "ardentcannabis",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce",
+        "health"
+    ],
+    "name": "Ardent Cannabis",
+    "address": "265 Franklin St Ste 1702\nBoston, MA 02110-3144",
+    "phone": "+1 614 420 7343",
+    "email": "support@ardentcannabis.com",
+    "web": "https://ardentcannabis.com/",
+    "required-elements": [
+        {
+            "desc": "email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "Birthdate",
+            "type": "birthdate",
+            "optional": true
+        },
+        {
+            "desc": "Other",
+            "type": "textarea",
+            "optional": true
+        },
+        {
+            "desc": "Phone Number",
+            "type": "input",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2473"
+    ]
+}
