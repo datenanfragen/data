@@ -1,0 +1,21 @@
+{
+    "slug": "werkzeuge-motorgeraete",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "werkzeug-motorgeräte.de",
+    "address": "Henry Kühl\nKleine Straße 35\n15234 Frankfurt(Oder)",
+    "phone": "0162-655 19 78",
+    "email": "info@werkzeuge-motorgeraete.de",
+    "webform": "http://www.werkzeuge-motorgeraete.de/contact_us.php",
+    "web": "http://www.werkzeuge-motorgeraete.de",
+    "sources": [
+        "http://www.werkzeuge-motorgeraete.de",
+        "https://github.com/datenanfragen/data/pull/2477"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
