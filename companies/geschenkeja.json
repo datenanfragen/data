@@ -1,0 +1,19 @@
+{
+    "slug": "geschenkeja",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Geschenkeja.de",
+    "address": "Torowa 3N, Kraków, 30435",
+    "phone": "+48 12 414 00 30",
+    "email": "info@hgeschenkeja.de",
+    "web": "https://www.geschenkeja.de/",
+    "sources": [
+        "https://www.geschenkeja.de/ueber-uns",
+        "https://github.com/datenanfragen/data/pull/2471"
+    ],
+    "quality": "verified"
+}
