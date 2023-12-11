@@ -1,0 +1,18 @@
+{
+    "slug": "sales",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Sales.Rocks",
+    "address": "Stationsplein 45, 3013 AK Rotterdam, The Netherlands",
+    "email": "datasubjectrequest@sales.rocks",
+    "web": "https://sales.rocks/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2476"
+    ]
+}
