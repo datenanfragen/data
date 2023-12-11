@@ -1,0 +1,12 @@
+{
+    "slug": "datenschutz-planb-ruhr-de",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "datenschutz@planb-ruhr.de",
+    "address": "PLANB Ruhr e.V.\nAlleestr. 46\n44793 Bochum",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2456"
+    ]
+}
