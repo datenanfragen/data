@@ -1,21 +1,41 @@
 {
     "slug": "github",
     "relevant-countries": [
+        "all",
         "all"
     ],
+    "categories": [
+        "credit agency",
+        "addresses"
+    ],
     "name": "GitHub, Inc.",
+    "runs": [
+        "Janahubert30@hotmail.com"
+    ],
     "address": "88 Colin P Kelly Jr St\nSan Francisco\nCA 94107\nUnited States of America",
     "phone": "+1 877 448 4820",
     "email": "privacy@github.com",
     "web": "https://github.com/",
     "sources": [
         "https://help.github.com/articles/github-privacy-statement/",
-        "https://enterprise.github.com/contact"
+        "https://enterprise.github.com/contact",
+        "https://github.com/datenanfragen/data/pull/2480"
+    ],
+    "required-elements": [
+        {
+            "desc": "Son Canada au Québec dans les LAURENTIDES ",
+            "type": "textarea"
+        },
+        {
+            "desc": "Voleur, vol, infiltration sans permission ",
+            "type": "textarea",
+            "optional": true
+        }
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "letter",
     "comments": [
-        "The phone number is that of the enterprise sales team."
+        "Moi #JANICK HUBERT et beaucoup de personnes ses jamais leur avoir demandé l'autorisation, pour cette cochonneries, inscrits tpus les comptes de #rivièrerouge #LAURENTIDES, pour une #LICENCES LIBRES  INC,donc personnes à consentis,, ils nous écoutent, regarde,, détournela Caméra,  éffacetes photosou vidéo,, pour moi ils mon volée tous mes comptes Gmail Facebook et Facebook commercial. Hotmail Google Outlook,, et trafiquée mon entreprise sur mon google que se dit qui protègeses membres ,,,volée mon identité,, et JE VEUX  RAVOIR TOUS MES COMPTES [Facebook,Google, Hotmail, Gmail Outlook que tu ma voléeet changéles mots de passe,,,  TU redonne ET REMETS TOUS MES SITES DE MON ENTREPRISE #MASSOTHÉRAPEUTE-JANA A #NOMININGUE au Québec, maintenant ce sont des voleur"
     ],
     "quality": "verified"
 }
