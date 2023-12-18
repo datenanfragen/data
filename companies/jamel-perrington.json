@@ -1,0 +1,20 @@
+{
+    "slug": "jamel-perrington",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "JAMEL PERRINGTON",
+    "runs": [],
+    "address": "ALTER FRIEDHOFWEG 2",
+    "phone": "017621280387",
+    "email": "Jamell.perringto@gmail.com",
+    "sources": [
+        "netdebit/enconto",
+        "https://github.com/datenanfragen/data/pull/2485"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
