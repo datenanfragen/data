@@ -1,0 +1,25 @@
+{
+    "slug": "tebio",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication",
+        "commerce"
+    ],
+    "name": "Tebio GmbH",
+    "runs": [
+        "Tebio24",
+        "tebio24.de"
+    ],
+    "address": "Oberbilker Allee 165\n40227 Düsseldorf\nDeutschland",
+    "phone": "004921154570830",
+    "email": "datenschutz@tebio.de",
+    "web": "https://tebio.de",
+    "sources": [
+        "https://tebio.de/information/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2487"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
