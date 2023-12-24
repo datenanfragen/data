@@ -1,0 +1,20 @@
+{
+    "slug": "openai-ireland-limited",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "OpenAI Ireland Limited",
+    "runs": [
+        "ChatGPT, DALL-E"
+    ],
+    "address": "OpenAI Ireland Limited\nThe Liffey Trust Centre\n117-126 Sheriff Street Uppe\nDublin 1\nD01 YC43\nIrland",
+    "email": "privacy@openai.com",
+    "sources": [
+        "https://openai.com/de/policies/eu-privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2489"
+    ],
+    "quality": "verified"
+}
