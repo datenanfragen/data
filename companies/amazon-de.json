@@ -9,7 +9,7 @@
         "pl"
     ],
     "categories": [
-        "commerce",
+        "finance",
         "entertainment"
     ],
     "name": "Amazon Europe Core SARL",
@@ -30,13 +30,14 @@
         "Amazon Marketplace"
     ],
     "address": "Marcel-Breuer-Straße 12\n80807 München\nDeutschland",
-    "phone": "+49 800 3 63 84 69",
-    "fax": "+49 89 38 03 88 01",
+    "phone": "+49 800 3638469",
+    "fax": "+49 89 38038801",
     "email": "eu-privacy@amazon.de",
     "web": "https://www.amazon.de",
     "sources": [
         "https://www.amazon.de/gp/help/customer/display.html?ie=UTF8&nodeId=201909010",
-        "https://www.amazon.de/gp/help/customer/display.html/?ie=UTF8&nodeId=202024860"
+        "https://www.amazon.de/gp/help/customer/display.html/?ie=UTF8&nodeId=202024860",
+        "https://github.com/datenanfragen/data/pull/2493"
     ],
     "required-elements": [
         {
