@@ -4,14 +4,15 @@
         "de"
     ],
     "name": "Finya GmbH & Co. KG",
-    "address": "Mönckebergstraße 13\n20095 Hamburg\nDeutschland",
-    "phone": "+49 40 2286 885 90",
-    "fax": "+49 40 2286 885 99",
+    "address": "Kehrwieder 11\n20457 Hamburg\nDeutschland",
+    "phone": "+49 40 228688590",
+    "fax": "+49 40 228688599",
     "email": "datenschutz@finya.de",
-    "web": "https://www.finya.de/",
+    "web": "https://www.finya.de",
     "sources": [
         "https://www.finya.de/Legal/privacy",
-        "https://www.finya.de/Legal/about"
+        "https://www.finya.de/Legal/about",
+        "https://github.com/datenanfragen/data/pull/2492"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
