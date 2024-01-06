@@ -1,0 +1,14 @@
+{
+    "slug": "dufe-lub",
+    "relevant-countries": [
+        "gb",
+        "is"
+    ],
+    "name": "Dufe Lub",
+    "address": "P.O.Box 4700, Umm Al Quwain - UAE",
+    "sources": [
+        "google",
+        "https://github.com/datenanfragen/data/pull/2449"
+    ],
+    "quality": "verified"
+}
