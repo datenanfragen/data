@@ -1,0 +1,19 @@
+{
+    "slug": "fibonaccicode",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "name": "Jafari Consulting",
+    "address": "Jafari Consulting GmbH\nZur Ludwigshöhe 28\n86919 Utting am Ammerse",
+    "phone": "+49 8806 9590979",
+    "email": "kontakt@fibonaccicode.de",
+    "web": "https://fibonaccicode.de/",
+    "sources": [
+        "https://fibonaccicode.de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/2497"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
