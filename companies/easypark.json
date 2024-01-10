@@ -1,0 +1,26 @@
+{
+    "slug": "easypark",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Easypark GmbH",
+    "address": "Luegallee 116\n40545 Düsseldorf",
+    "email": "dpo@easypark.net",
+    "web": "https://www.easypark.com/de",
+    "sources": [
+        "https://legals.easyparksystem.net/DE/privacy/de/privacy_de_de.pdf",
+        "https://www.easypark.com/de/impressum",
+        "https://github.com/datenanfragen/data/pull/2500"
+    ],
+    "required-elements": [
+        {
+            "desc": "Handynummer",
+            "type": "input",
+            "optional": true
+        }
+    ],
+    "quality": "verified"
+}
