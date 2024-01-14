@@ -1,5 +1,5 @@
 {
-    "slug": "easypark",
+    "slug": "easypark-gmbh",
     "relevant-countries": [
         "de"
     ],
@@ -7,7 +7,8 @@
         "travel"
     ],
     "name": "Easypark GmbH",
-    "address": "Luegallee 116\n40545 Düsseldorf",
+    "address": "Große Düwelstraße 28\n30171 Hannover\nDeutschland",
+    "phone": "+49 221 2601899",
     "email": "dpo@easypark.net",
     "web": "https://www.easypark.com/de",
     "sources": [
@@ -20,7 +21,12 @@
             "desc": "Handynummer",
             "type": "input",
             "optional": true
+        },
+        {
+            "desc": "Name",
+            "type": "name"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
