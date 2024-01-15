@@ -1,0 +1,13 @@
+{
+    "slug": "gulf-fab",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "Gulf Fab",
+    "address": "P.O.Box 62730, Sharjah-U.A.E",
+    "sources": [
+        "Google",
+        "https://github.com/datenanfragen/data/pull/2504"
+    ],
+    "quality": "verified"
+}
