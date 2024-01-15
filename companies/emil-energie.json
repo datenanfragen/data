@@ -1,0 +1,22 @@
+{
+    "slug": "emil-energie",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "emil energie GmbH",
+    "address": "Richard-Wagner-Str. 14-16\n66111 Saarbrücken\nDeutschland",
+    "email": "datenschutz@emil-energie.de",
+    "webform": "https://www.scheja-partner.de/kontakt/kontakt.html",
+    "web": "https://www.emil-energie.de",
+    "sources": [
+        "https://www.emil-energie.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2458"
+    ],
+    "comments": [
+        "Das Unternehmen hat einen externen Datenschutzbeauftragten bestellt:\n\nHerr Boris Reibach\nScheja und Partner Rechtsanwälte mbB\nAdenauerallee 136, 53113 Bonn\nTelefon: (02 28) 22 72 26-0"
+    ],
+    "quality": "verified"
+}
