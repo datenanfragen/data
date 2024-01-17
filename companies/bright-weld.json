@@ -1,0 +1,13 @@
+{
+    "slug": "bright-weld",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "Bright Weld",
+    "address": "FZ JO AB 2007, JAFZA ONEJabel Ali Free Zone Area, PO BOX 263965, Dubai, UAE",
+    "sources": [
+        "google",
+        "https://github.com/datenanfragen/data/pull/2505"
+    ],
+    "quality": "verified"
+}
