@@ -8,18 +8,18 @@
     ],
     "name": "Conviction",
     "runs": [
-        "Criminal Justice Hub",
-        "Autism in the CJS"
+        "Criminal Justice Hub"
     ],
     "address": "Postal Point 428\nManchester\nM8 2FS\nUnited Kingdom",
     "phone": "+44 161 552 1954",
-    "email": "dpo@conviction.org.uk",
+    "email": "data.protection@conviction.org.uk",
     "web": "https://www.conviction.org.uk",
     "sources": [
         "https://www.conviction.org.uk/contact",
         "https://www.conviction.org.uk/data-subject-access-request-form",
         "https://github.com/datenanfragen/data/pull/1825",
-        "https://github.com/datenanfragen/data/pull/2111"
+        "https://github.com/datenanfragen/data/pull/2111",
+        "https://github.com/datenanfragen/data/pull/2507"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
