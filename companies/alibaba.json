@@ -1,27 +1,28 @@
 {
     "slug": "alibaba",
     "relevant-countries": [
-        "all"
+        "at"
     ],
     "categories": [
         "commerce"
     ],
-    "name": "Alibaba.com Singapore E-Commerce Private Limited",
-    "address": "8 Shenton Way\n#45-01\nAxa Tower\nSingapore 068811\nRepublic of Singapore",
+    "name": "OKI Bering",
+    "address": "RA07 AC03, JAFZA LIU 15, Near R/A 7, PO Box: 17589, Jabel Ali Free Zone,\nDubai - United Arab Emirates.",
     "email": "dataprotection@service.alibaba.com",
-    "web": "https://www.alibaba.com",
+    "web": "https://www.oki-me.com/",
     "sources": [
         "https://rule.alibaba.com/rule/detail/2034.htm",
         "https://opencorpdata.com/sg/200720572D",
-        "https://github.com/datenanfragen/data/pull/1112"
+        "https://github.com/datenanfragen/data/pull/1112",
+        "https://github.com/datenanfragen/data/pull/2516"
     ],
     "required-elements": [
         {
-            "desc": "Name",
-            "type": "name"
+            "desc": "OKI Beirng",
+            "type": "email"
         },
         {
-            "desc": "E-Mail",
+            "desc": "okibering404seo@gmail.com",
             "type": "email"
         }
     ],
