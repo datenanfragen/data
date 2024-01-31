@@ -1,0 +1,18 @@
+{
+    "slug": "hochschule-merseburg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Hochschule Merseburg",
+    "address": "Eberhard-Leibnitz-Straße 2\n06217 Merseburg",
+    "email": "datenschutz@hs-merseburg.de",
+    "sources": [
+        "https://www.hs-merseburg.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2519"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
