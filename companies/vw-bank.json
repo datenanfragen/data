@@ -31,9 +31,19 @@
         "https://github.com/datenanfragen/data/pull/2190",
         "https://github.com/datenanfragen/data/pull/2197"
     ],
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Für Audi Financial Services siehe separaten Eintrag \"Audi Financial Services\"."
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
     ],
-    "quality": "verified"
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "tested"
 }
