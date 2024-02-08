@@ -11,12 +11,11 @@
         "kino.de",
         "kraloyun.com",
         "mytest.de",
-        "spielaffe.de",
-        "spieletipps.de"
+        "spielaffe.de"
     ],
     "address": "Torstraße 49\n10119 Berlin\nDeutschland",
     "email": "smb-datenschutzbeauftragter@stroeer.de",
-    "webform": "https://stroeer-requests.my.onetrust.com/webform/5223f5cf-ed85-4b3d-a37c-2f49312cbd78/75d35c00-ce1c-4768-ac88-e1c81018f05d",
+    "webform": "https://stroeer-requests.my.onetrust.com/webform/5223f5cf-ed85-4b3d-a37c-2f49312cbd78/bc6191dc-5ebe-4e19-8413-d330dff68a18",
     "web": "https://www.stroeermediabrands.de",
     "sources": [
         "https://www.stroeermediabrands.de/impressum",
@@ -28,21 +27,19 @@
         "https://www.spielaffe.de/Statisch/Datenschutz",
         "https://github.com/datenanfragen/data/pull/1338",
         "https://github.com/datenanfragen/data/pull/1924",
-        "https://github.com/datenanfragen/data/pull/2390"
+        "https://github.com/datenanfragen/data/pull/2390",
+        "https://github.com/datenanfragen/data/pull/2525"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "E-Mail",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
-    "needs-id-document": false,
-    "suggested-transport-medium": "email",
-    "quality": "tested"
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
 }
