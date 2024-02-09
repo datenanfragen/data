@@ -1,0 +1,12 @@
+{
+    "slug": "apc-england",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "APC ENGLAND",
+    "address": "48 LEXINGTON SRTEET LONDON GB",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2527"
+    ]
+}
