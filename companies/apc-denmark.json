@@ -1,0 +1,12 @@
+{
+    "slug": "apc-denmark",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "APC DENMARK",
+    "address": "48 LEXINGTON STREET LONDON",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2526"
+    ]
+}
