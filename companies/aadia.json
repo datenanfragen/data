@@ -1,0 +1,16 @@
+{
+    "slug": "aadia",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "aadia Online Shop",
+    "address": "Weinbergstraße 8, 99834 Gerstungen",
+    "phone": "03692241500",
+    "fax": "036922- 4150110",
+    "email": "aadiaoffice@gmail.com",
+    "web": "https://aadia.de/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2532"
+    ]
+}
