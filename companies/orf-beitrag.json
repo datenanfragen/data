@@ -1,0 +1,26 @@
+{
+    "slug": "orf-beitrag",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "ORF-Beitrags Service GmbH (OBS)",
+    "runs": [],
+    "address": "Datenschutz\nPostfach 1000\n1051 Wien",
+    "phone": "+43 50 200 800",
+    "email": "datenschutz@orf.beitrag.at",
+    "webform": "https://orf.beitrag.at/aendern",
+    "web": "https://orf.beitrag.at/",
+    "sources": [
+        "https://orf.beitrag.at/impressum",
+        "https://orf.beitrag.at/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2537"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Weiter E-Mail Adresse: service@orf.beitrag.at\nSitzadresse: Operngasse 20 B, 1040 Wien\nPersönlich: Faulmanngasse 4, 1040 Wien  \nArt. 16 EU-DSGVO: https://orf.beitrag.at/aendern"
+    ],
+    "quality": "verified"
+}
