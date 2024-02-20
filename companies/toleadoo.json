@@ -1,10 +1,10 @@
 {
+    "slug": "toleadoo",
     "relevant-countries": [
         "de",
         "at",
         "ch"
     ],
-    "slug": "toleadoo",
     "categories": [
         "ads"
     ],
@@ -15,7 +15,8 @@
     "sources": [
         "https://www.toleadoo.com/sc/todo=cp_toleadoo#data_protection",
         "https://www.toleadoo.com/sc/todo=cp_toleadoo#imprint",
-        "https://github.com/datenanfragen/data/issues/54"
+        "https://github.com/datenanfragen/data/issues/54",
+        "https://github.com/datenanfragen/data/pull/2538"
     ],
     "required-elements": [
         {
@@ -23,7 +24,6 @@
             "type": "name"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
         "Antwort kommt von Talk2 GmbH, Rheinstraße 22, 64283 Darmstadt"
