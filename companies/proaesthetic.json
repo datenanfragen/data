@@ -1,0 +1,20 @@
+{
+    "slug": "proaesthetic",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Heidelberger Klinik für plastische und kosmetische Chirurgie proaesthetic GmbH",
+    "address": "℅ IITR Datenschutz GmbH\nMarienplatz 2\n80331 München\nDeutschland",
+    "phone": "+49 89 18917360",
+    "email": "email@iitr.de",
+    "web": "https://www.proaesthetic.de",
+    "sources": [
+        "https://www.proaesthetic.de/datenschutz/",
+        "https://www.iitr.de/unternehmen/impressum",
+        "https://github.com/datenanfragen/data/pull/2540"
+    ],
+    "quality": "verified"
+}
