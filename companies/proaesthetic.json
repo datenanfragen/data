@@ -14,7 +14,20 @@
     "sources": [
         "https://www.proaesthetic.de/datenschutz/",
         "https://www.iitr.de/unternehmen/impressum",
-        "https://github.com/datenanfragen/data/pull/2540"
+        "https://github.com/datenanfragen/data/pull/2540",
+        "https://github.com/datenanfragen/data/pull/2542"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mailadresse",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [],
     "quality": "verified"
 }
