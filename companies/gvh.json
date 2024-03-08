@@ -1,0 +1,23 @@
+{
+    "slug": "gvh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "GVH – Großraum-Verkehr Hannover GmbH",
+    "runs": [
+        "https://shop.gvh.de",
+        "GVH App „Mein GVH“"
+    ],
+    "address": "Karmarschstr. 30/32\n30159 Hannover\nDeutschland",
+    "email": "datenschutzbeauftragter@gvh.de",
+    "web": "https://www.gvh.de",
+    "sources": [
+        "https://www.gvh.de/datenschutzinformation/",
+        "https://github.com/datenanfragen/data/pull/2555"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
