@@ -1,0 +1,25 @@
+{
+    "slug": "adguard-software-limited",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "ADGUARD SOFTWARE LIMITED",
+    "runs": [
+        "AdGuard",
+        "AdGuard DNS",
+        "AdGuard VPN"
+    ],
+    "address": "Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus",
+    "email": "privacy@adguard.com",
+    "sources": [
+        "https://adguard-dns.io/en/privacy.html",
+        "https://adguard.com/en/privacy.html",
+        "https://adguard-vpn.com/en/privacy.html",
+        "https://github.com/datenanfragen/data/pull/2557"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "AdGuard VPN requests or questions should be sent to: privacy@adguard-vpn.com"
+    ],
+    "quality": "verified"
+}
