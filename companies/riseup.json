@@ -1,0 +1,28 @@
+{
+    "slug": "riseup",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication",
+        "school",
+        "nonprofit"
+    ],
+    "name": "Riseup Networks",
+    "runs": [
+        "RiseupVPN",
+        "Riseup Red",
+        "Riseup Email"
+    ],
+    "address": "Riseup Networks\nPO Box 3027\nLacey, WA 98509 USA",
+    "webform": "https://support.riseup.net/",
+    "web": "https://riseup.net/",
+    "sources": [
+        "https://riseup.net/en/privacy-policy",
+        "https://riseup.net/en/about-us",
+        "https://riseup.net/en/about-us/policy/tos",
+        "https://github.com/datenanfragen/data/pull/2560"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
