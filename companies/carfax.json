@@ -1,0 +1,20 @@
+{
+    "slug": "carfax",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "CARFAX Europe GmbH",
+    "address": "Martin Holzhofer\nHolzhofer Consulting GmbH\nLochhamer Str. 31\n82152 Planegg, Germany",
+    "phone": "+49 89 125015600",
+    "email": "privacy@carfax.eu",
+    "webform": "https://www.holzhofer-consulting.de/index_en.php",
+    "web": "https://www.carfax.eu/",
+    "sources": [
+        "https://www.carfax.eu/privacy-notice",
+        "https://github.com/datenanfragen/data/pull/2556"
+    ],
+    "quality": "verified"
+}
