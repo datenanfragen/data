@@ -12,12 +12,12 @@
         "Kaufland mobil",
         "NORMA Connect",
         "EDEKA smart",
-        "Telekom Deutschland Multibrand GmbH"
+        "Share Mobile",
+        "Bling Mobile"
     ],
     "address": "Friedrich-Ebert-Allee 140\n53113 Bonn\nDeutschland",
-    "phone": "+49 800 3304006",
     "email": "datenschutz@telekom.de",
-    "webform": "https://www.telekom.de/kontakt/e-mail-kontakt/unternehmen/datenschutz",
+    "webform": "https://www.telekom.de/kontakt/kontaktformular?execution299370=e1s3",
     "web": "https://www.telekom.de",
     "sources": [
         "https://www.telekom.de/ueber-das-unternehmen/datenschutz",
@@ -28,7 +28,10 @@
         "https://norma-be.spreadspace.de/sites/default/files/2022-05/NORMAConnect_AllgDatenschutzhinweis_1.pdf",
         "https://www.edeka-smart.de/file/286/e241b501/EDEKAsmart_AllgDatenschutzhinweis_20180523.pdf",
         "https://github.com/datenanfragen/data/pull/1675",
-        "https://github.com/datenanfragen/data/pull/2046"
+        "https://github.com/datenanfragen/data/pull/2046",
+        "https://share-mobile.de/datenschutz",
+        "https://www.bling.de/datenschutz-center",
+        "https://github.com/datenanfragen/data/pull/2561"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
