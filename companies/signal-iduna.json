@@ -1,5 +1,8 @@
 {
     "slug": "signal-iduna",
+    "relevant-countries": [
+        "es"
+    ],
     "categories": [
         "insurance"
     ],
@@ -21,16 +24,15 @@
         "SIGNAL IDUNA Asset Management GmbH"
     ],
     "address": "Joseph-Scherer-Straße 3\n44139 Dortmund\nDeutschland",
-    "phone": "+49 231 135 4630",
-    "fax": "+49 231 135 134630",
+    "phone": "+49 231 1354630",
+    "fax": "+49 231 135134630",
     "email": "datenschutz@signal-iduna.de",
+    "webform": "solicitar numero de ambunlacai españa tenerife",
     "web": "https://www.signal-iduna.de/",
     "sources": [
         "https://www.signal-iduna.de/datenschutz-und-rechtliche-hinweise.php",
-        "https://www.signal-iduna.de/anbieter.php"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.signal-iduna.de/anbieter.php",
+        "https://github.com/datenanfragen/data/pull/2563"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
