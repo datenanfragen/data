@@ -11,10 +11,12 @@
     "phone": "+1 914 921 8800",
     "email": "sayhello@adfirehealth.com",
     "web": "https://adfirehealth.com/",
-    "request-language": "en",
     "sources": [
-        "https://adfirehealth.com/privacy-policy/"
+        "https://adfirehealth.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2571"
     ],
+    "request-language": "en",
     "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "letter",
     "quality": "verified"
 }
