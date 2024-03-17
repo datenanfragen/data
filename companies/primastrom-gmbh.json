@@ -1,0 +1,18 @@
+{
+    "slug": "primastrom-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "primastrom GmbH",
+    "address": "primastrom GmbH\nZimmerstraße 78\n10117 Berlin\nDeutschland",
+    "phone": "+49 30 206143723",
+    "email": "datenschutz@primastrom.de",
+    "sources": [
+        "https://primastrom.de/media/pdf/Datenschutzerklaerung_der_primastrom%20GmbH_10072020.pdf",
+        "https://github.com/datenanfragen/data/pull/2572"
+    ],
+    "quality": "verified"
+}
