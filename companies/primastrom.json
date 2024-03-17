@@ -1,0 +1,19 @@
+{
+    "slug": "primastrom",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "primastrom GmbH",
+    "address": "Großbeerenstraße 2-10\n12107 Berlin",
+    "fax": "030 / 206 143 881",
+    "web": "https://primastrom.de/impressum/",
+    "sources": [
+        "https://primastrom.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/2570"
+    ],
+    "suggested-transport-medium": "fax",
+    "quality": "verified"
+}
