@@ -1,0 +1,17 @@
+{
+    "slug": "weltsparen",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "name": "Raisin GmbH",
+    "address": "Schlesische Straße 33/34\n10997 Berlin\nGermany",
+    "phone": "+49 30 21784002",
+    "email": "datenschutz@weltsparen.de",
+    "web": "https://www.weltsparen.de/",
+    "sources": [
+        "https://www.weltsparen.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2574"
+    ],
+    "quality": "verified"
+}
