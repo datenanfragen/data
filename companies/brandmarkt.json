@@ -7,14 +7,15 @@
         "commerce"
     ],
     "name": "Brandmarkt-Outlet",
-    "address": "Rosenbergstrasse 46\n9000 St. Gallen\nSwitzerland",
-    "phone": "+41 79 773 87 12",
+    "address": "Address 1:  INSIDE VOLKETSWIL Industriestrasse / Hofwiesenstrasse 4, 8604 Volketswil Switzerland\nAddress 2:  Fachmarktzentrum Grüzepark Industriestrasse 43/44 8404 Winterthur Switzerland",
+    "phone": "+41 44 946 37 20",
     "email": "store@brandmarkt.ch",
     "web": "https://brandmarkt.store/",
     "sources": [
-        "https://brandmarkt.store/datenschutzbestimmungen/",
+        "https://brandmarkt.store/uber-uns/",
         "https://brandmarkt.store/kontact-uns/",
-        "https://github.com/datenanfragen/data/pull/1962"
+        "https://brandmarkt.store/bloggen/",
+        "https://github.com/datenanfragen/data/pull/2576"
     ],
     "quality": "verified"
 }
