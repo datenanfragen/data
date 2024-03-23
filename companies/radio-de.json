@@ -1,5 +1,8 @@
 {
     "slug": "radio-de",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "entertainment"
     ],
@@ -23,11 +26,19 @@
         "https://radiome.fr/c/privacy-policy",
         "https://radiome.com.ua/c/privacy-policy",
         "https://github.com/datenanfragen/data/pull/1749",
-        "https://github.com/datenanfragen/data/pull/2181"
+        "https://github.com/datenanfragen/data/pull/2181",
+        "https://github.com/datenanfragen/data/pull/2579"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mailadresse",
+            "type": "email"
+        }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "relevant-countries": [
-        "all"
-    ]
+    "quality": "verified"
 }
