@@ -1,0 +1,15 @@
+{
+    "slug": "fantasyabaya",
+    "relevant-countries": [
+        "gb",
+        "be"
+    ],
+    "name": "Fantasy error",
+    "address": "Behind Malik & Shaheed Madinat Zayed, Abu Dhabi-U.A.E.",
+    "web": "https://fantasyabaya.me/",
+    "sources": [
+        "Google",
+        "https://github.com/datenanfragen/data/pull/2582"
+    ],
+    "quality": "verified"
+}
