@@ -1,0 +1,16 @@
+{
+    "slug": "drawboard",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Drawboard Pty Ltd.",
+    "address": "Level 4, 99 Queen Street, Melbourne, 3000, Australia",
+    "email": "privacy@drawboard.com",
+    "web": "https://www.drawboard.com/privacy",
+    "sources": [
+        "https://www.drawboard.com/privacy",
+        "https://github.com/datenanfragen/data/pull/2585"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
