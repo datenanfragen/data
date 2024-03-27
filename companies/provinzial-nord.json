@@ -1,19 +1,18 @@
 {
     "slug": "provinzial-nord",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "insurance"
     ],
     "name": "Provinzial Nord Brandkasse AG",
     "address": "Sophienblatt 33\n24114 Kiel\nDeutschland",
-    "phone": "+49 251 219 2520",
-    "fax": "+49 431 603 1115",
-    "email": "datenschutz@provinzial.de",
+    "email": "service@provinzial.de",
     "web": "https://www.provinzial-online.de",
     "sources": [
-        "https://www.provinzial-nordwest.de/export/sites/pkp/_resources/download/meta/Hinweise_zum_Datenschutz.pdf"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.provinzial-nordwest.de/export/sites/pkp/_resources/download/meta/Hinweise_zum_Datenschutz.pdf",
+        "https://github.com/datenanfragen/data/pull/2587"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
