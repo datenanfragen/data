@@ -18,13 +18,13 @@
     "email": "legal-requests@supercell.com",
     "web": "https://supercell.com",
     "sources": [
-        "https://supercell.com/en/privacy-policy/"
+        "https://supercell.com/en/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2589"
     ],
     "required-elements": [
         {
             "desc": "Email",
-            "type": "name",
-            "optional": false
+            "type": "name"
         }
     ],
     "suggested-transport-medium": "email",
