@@ -1,0 +1,15 @@
+{
+    "slug": "dylansteele",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Dylan Steele Technoliges LLC",
+    "phone": "+353 89 276 2677",
+    "email": "info@dylansteeletech.com",
+    "web": "https://dylansteele.org/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2591"
+    ]
+}
