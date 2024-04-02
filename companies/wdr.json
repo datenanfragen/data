@@ -9,6 +9,7 @@
     "name": "Westdeutscher Rundfunk Köln",
     "runs": [
         "kinder.wdr.de",
+        "planet-wissen.de",
         "sportschau.de",
         "wdrmaus.de"
     ],
@@ -25,7 +26,9 @@
         "https://www.wdrmaus.de/datenschutz.php5",
         "https://github.com/datenanfragen/data/pull/1256",
         "https://github.com/datenanfragen/data/pull/2222",
-        "https://github.com/datenanfragen/data/pull/1508"
+        "https://github.com/datenanfragen/data/pull/1508",
+        "https://www.planet-wissen.de/datenschutz/datenschutz316.html",
+        "https://github.com/datenanfragen/data/pull/2590"
     ],
     "required-elements": [
         {
@@ -37,7 +40,6 @@
             "type": "email"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
