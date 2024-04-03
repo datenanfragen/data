@@ -12,7 +12,26 @@
     "web": "https://www.neu.de/",
     "sources": [
         "https://www.neu.de/pages/misc/privacy",
-        "https://www.neu.de/pages/misc/impressum"
+        "https://www.neu.de/pages/misc/impressum",
+        "https://github.com/datenanfragen/data/pull/2451"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        },
+        {
+            "desc": "E-mail",
+            "type": "email"
+        },
+        {
+            "desc": "Benutzername",
+            "type": "input"
+        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
