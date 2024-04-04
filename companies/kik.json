@@ -1,0 +1,26 @@
+{
+    "slug": "kik",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Kik Interactive Inc",
+    "runs": [
+        "Kik Messenger"
+    ],
+    "address": "1222 6th St HQ\nSanta Monica\nUnited States\n90401\n\nAnd \n\n420 Weber St N suite i\nWaterloo Ontario \nCanada N2L 4E7",
+    "phone": "+1 519 883 7368",
+    "fax": "(226) 476-1442",
+    "email": "support@kik.com",
+    "webform": "https://kikhelpcenter.zendesk.com/hc/en-us/requests/new",
+    "web": "https://www.kik.com/",
+    "comments": [
+        "Kik Messenger, commonly called Kik, is a freeware instant messaging mobile app from the Canadian company Kik Interactive, available on iOS and Android operating systems.[6]"
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2595"
+    ]
+}
