@@ -1,0 +1,14 @@
+{
+    "slug": "polycomplasticinds",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Polycom",
+    "address": "P.O 4365 ,Jurf Ind Area, Ajman,U.A.E",
+    "web": "https://polycomplasticinds.com/",
+    "sources": [
+        "Google",
+        "https://github.com/datenanfragen/data/pull/2598"
+    ],
+    "quality": "verified"
+}
