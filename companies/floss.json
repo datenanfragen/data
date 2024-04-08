@@ -1,0 +1,19 @@
+{
+    "slug": "floss",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "FLOSS.social",
+    "web": "https://floss.social",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Ein Impressum konnte ich nicht finden."
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2600"
+    ]
+}
