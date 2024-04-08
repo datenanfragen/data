@@ -1,0 +1,22 @@
+{
+    "slug": "digitalcourage",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Digitalcourage e.V.",
+    "address": "Datenschutzbeauftragte\nc/o Digitalcourage e.V.\nMarktstraße 18\n33602 Bielefeld",
+    "phone": "+49 521 16391639",
+    "fax": "+49 521 61172",
+    "email": "datenschutz@digitalcourage.de",
+    "webform": "https://digitalcourage.de/kontakt",
+    "web": "https://digitalcourage.de/",
+    "sources": [
+        "https://digitalcourage.de/datenschutz-bei-digitalcourage",
+        "https://github.com/datenanfragen/data/pull/2601"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
