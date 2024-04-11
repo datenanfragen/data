@@ -1,0 +1,18 @@
+{
+    "slug": "timmermann-montagetechnik",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "Timmermann Montagetechnik Inh. Stephan Becker",
+    "address": "Salzstraße 81-83\n74076 Heilbronn",
+    "phone": "07131772873",
+    "email": "info@timmermann-montagetechnik.de",
+    "web": "https://www.timmermann-montagetechnik.de/leistungen-und-services/",
+    "sources": [
+        "www.timmermann-montagetechnik.de",
+        "https://github.com/datenanfragen/data/pull/2606"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
