@@ -1,0 +1,24 @@
+{
+    "slug": "opentable-inc",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "OpenTable, Inc.",
+    "runs": [
+        "OpenTable International Limited",
+        "OpenTable Godo Kaisha",
+        "OpenTable GmbH"
+    ],
+    "address": "OpenTable\nc/o Fieldfisher Tech Rechtsanwaltsgesellschaft mbH\nAm Sandtorkai 68\n20457 Hamburg",
+    "email": "privacy@opentable.com",
+    "sources": [
+        "https://www.opentable.de/legal/privacy-policy",
+        "https://www.opentable.de/legal/corporate-contact-information",
+        "https://github.com/datenanfragen/data/pull/2609"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
