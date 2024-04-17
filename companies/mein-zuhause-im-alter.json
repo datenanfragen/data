@@ -1,0 +1,20 @@
+{
+    "slug": "mein-zuhause-im-alter",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Mein Zuhause im Alter",
+    "address": "Feldbergstr. 31",
+    "phone": "496171277534299",
+    "email": "info@treppenlift-magazin.de",
+    "web": "https://www.mein-zuhause-im-alter.de/",
+    "sources": [
+        "other",
+        "https://github.com/datenanfragen/data/pull/2610"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
