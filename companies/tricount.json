@@ -1,0 +1,17 @@
+{
+    "slug": "tricount",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "Tricount S.A.",
+    "address": "Av. Arnaud Fraiteur 15/23\n1050 Ixelles\nBelgium",
+    "email": "privacy@tricount.com",
+    "web": "https://www.tricount.com/de/",
+    "sources": [
+        "https://www.tricount.com/de/datenschutzerklarung",
+        "https://github.com/datenanfragen/data/pull/2611"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
