@@ -1,0 +1,21 @@
+{
+    "slug": "napster",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Napster Luxembourg S.a.r.l.",
+    "address": "60, Route de Luxembourg\nL-5408 Bous\nLuxemburg",
+    "email": "privacy@napster.com",
+    "web": "https://www.napster.com/de",
+    "sources": [
+        "https://www.napster.com/de/privacy/",
+        "https://github.com/datenanfragen/data/pull/2612"
+    ],
+    "comments": [
+        "Alternative Kontaktadresse: dataprotection@napster.com"
+    ],
+    "quality": "verified"
+}
