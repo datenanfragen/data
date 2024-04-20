@@ -1,19 +1,20 @@
 {
     "slug": "netbank",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance"
     ],
     "name": "netbank",
-    "address": "c/o Augsburger Aktienbank AG\nHalderstraße 21\n86150 Augsburg\nDeutschland",
-    "phone": "+49 40 380 83 888",
-    "fax": "+49 40 380 23 561",
-    "email": "info@netbank.de",
-    "web": "https://www.netbank.de/",
+    "address": "AAB Management GmbH\nHalderstraße 21\n86150 Augsburg\nDeutschland",
+    "phone": "+49 40 38083888",
+    "fax": "+49 40 38023561",
+    "email": "info@aab.de",
+    "web": "https://www.aab.de",
     "sources": [
-        "https://www.netbank.de/privatkunden/ueber-uns/impressum/"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.aab.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/2613"
     ],
     "quality": "verified"
 }
