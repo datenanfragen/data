@@ -16,6 +16,6 @@
         "https://www.ticketmaster.de/help/imprint.html",
         "https://github.com/datenanfragen/data/pull/2604"
     ],
-    "suggested-transport-medium": "webform",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
