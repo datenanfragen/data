@@ -11,19 +11,19 @@
         "mySaturn",
         "mySaturn+",
         "Saturn Card (ehem.)",
-        "Saturn online GmbH (ehem.)"
+        "Saturn online GmbH (ehem.)",
+        "Media-Saturn Deutschland GmbH"
     ],
-    "address": "MediaMarktSaturn Retail Group GmbH\nMedia-Saturn-Straße 1\n85053 Ingolstadt\nDeutschland",
-    "phone": "+49 221 22243123",
-    "fax": "+49 841 634991835",
+    "address": "c/o MediaMarktSaturn Retail Group GmbH\nMedia-Saturn-Straße 1\n85053 Ingolstadt\nDeutschland",
+    "phone": "+49 221 22243333",
     "email": "datenschutz@saturn.de",
     "web": "http://www.saturn.de/",
     "sources": [
         "https://www.saturn.de/de/legal/datenschutzhinweise",
         "https://www.saturn.de/de/legal/datenschutzhinweise/my-saturn",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410442&land_abk=by",
         "https://github.com/datenanfragen/data/pull/2401",
-        "https://github.com/datenanfragen/data/pull/2400"
+        "https://github.com/datenanfragen/data/pull/2400",
+        "https://www.saturn.de/de/legal/impressum"
     ],
     "required-elements": [
         {

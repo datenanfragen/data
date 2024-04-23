@@ -19,8 +19,8 @@
     "sources": [
         "https://www.mediamarkt.de/de/legal/datenschutzhinweise/shop",
         "https://www.mediamarkt.de/de/legal/datenschutzhinweise/my-mediamarkt",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1410296&land_abk=by",
-        "https://github.com/datenanfragen/data/pull/2404"
+        "https://github.com/datenanfragen/data/pull/2404",
+        "https://www.mediamarkt.de/de/legal/impressum"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
