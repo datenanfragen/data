@@ -12,9 +12,10 @@
     "email": "store@brandmarkt.ch",
     "web": "https://brandmarkt.store/",
     "sources": [
-        "https://brandmarkt.store/datenschutzbestimmungen/",
+        "https://brandmarkt.store/terms-and-conditions/",
         "https://brandmarkt.store/kontact-uns/",
-        "https://github.com/datenanfragen/data/pull/1962"
+        "https://github.com/datenanfragen/data/pull/1962",
+        "https://github.com/datenanfragen/data/pull/2576"
     ],
     "quality": "verified"
 }
