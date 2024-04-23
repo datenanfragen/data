@@ -6,13 +6,16 @@
     "categories": [
         "social media"
     ],
-    "name": "Reddit, Inc.",
-    "address": "520 3rd Street\nSan Francisco\nCA 94107\nUnited States of America",
+    "name": "Reddit Netherlands B.V.",
+    "runs": [
+        "Reddit, Inc.",
+        "Reddit UK Limited"
+    ],
+    "address": "Euro Business Center\nKeizersgracht 62\n1015CS Amsterdam\nThe Netherlands",
     "webform": "https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=360001370251",
     "web": "https://www.reddit.com/",
     "sources": [
-        "https://www.redditinc.com/policies/privacy-policy",
-        "https://www.bloomberg.com/profiles/companies/0893288D:US-reddit-inc",
+        "https://www.reddit.com/policies/privacy-policy",
         "https://github.com/datenanfragen/data/issues/669",
         "https://github.com/datenanfragen/data/pull/893",
         "https://github.com/datenanfragen/data/pull/2551"
@@ -29,8 +32,5 @@
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
-    "comments": [
-        "Reddit only accepts requests using the contact form. They no longer respond to direct emails."
-    ],
     "quality": "verified"
 }
