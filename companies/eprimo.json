@@ -27,7 +27,7 @@
             "type": "name"
         },
         {
-            "desc": "E-Mailadresse",
+            "desc": "E-Mail",
             "type": "email"
         },
         {
@@ -35,6 +35,7 @@
             "type": "input"
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
