@@ -7,13 +7,12 @@
         "finance"
     ],
     "name": "netbank",
-    "address": "AAB Management GmbH\nHalderstraße 21\n86150 Augsburg\nDeutschland",
-    "phone": "+49 40 38083888",
-    "fax": "+49 40 38023561",
+    "address": "c/o AAB Management GmbH\nHalderstraße 21\n86150 Augsburg\nDeutschland",
+    "phone": "+49 821 50150",
     "email": "info@aab.de",
-    "web": "https://www.aab.de",
+    "web": "https://www.netbank.de/",
     "sources": [
-        "https://www.aab.de/datenschutz.html",
+        "https://www.netbank.de/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/2613"
     ],
     "quality": "verified"
