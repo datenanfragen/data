@@ -9,6 +9,8 @@
     ],
     "name": "FTI Touristik GmbH",
     "address": "Landsberger Straße 88\n80339 München\nDeutschland",
+    "phone": "+49 89 25250",
+    "fax": "+49 89 25256565",
     "email": "datenschutz@fti.de",
     "web": "https://www.fti.de/",
     "sources": [
@@ -23,7 +25,7 @@
             "optional": false
         },
         {
-            "desc": " Adresse",
+            "desc": "Adresse",
             "type": "address",
             "optional": false
         },
