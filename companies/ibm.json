@@ -22,7 +22,9 @@
         "https://www.ibm.com/privacy",
         "https://www.ibm.com/privacy/portal/us-en",
         "https://www.ibm.com/privacy/details",
+        "https://www.ibm.com/docs/en/ibmid?topic=contact-support",
         "https://github.com/datenanfragen/data/pull/2466"
     ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
