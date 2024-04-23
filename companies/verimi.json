@@ -7,13 +7,12 @@
         "finance"
     ],
     "name": "Verimi GmbH",
-    "address": "c/o TechGDPR DPC GmbH\nHeinrich-Roller-Straße 15\n10405 Berlin\nDeutschland",
-    "phone": "+49 800 8374644",
-    "email": "verimi.dsb@techgdpr.com",
+    "address": "Oranienstraße 91\n10969 Berlin\nDeutschland",
+    "phone": "+49 30 259 244 720",
+    "email": "service@verimi.com",
     "sources": [
         "https://verimi.de/datenschutzerklaerung/",
         "https://github.com/datenanfragen/data/pull/2386"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

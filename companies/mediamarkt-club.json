@@ -8,13 +8,12 @@
     ],
     "name": "Media-Saturn Deutschland GmbH",
     "runs": [
-        "MediaMarkt Club"
+        "MediaMarkt Club (ehem.)"
     ],
-    "address": "Wankelstraße 5\n85046 Ingolstadt\nGermany",
-    "email": "datenschutz@mediamarkt.club",
-    "web": "https://www.mediamarkt.de/de/myaccount/loyalty-benefits",
+    "address": "c/o MediaMarktSaturn Retail Group GmbH\nMedia-Saturn-Straße 1\n85053 Ingolstadt\nDeutschland",
+    "email": "datenschutz@mediamarkt.de",
     "sources": [
-        "https://www.mediamarkt.de/de/legal/datenschutzhinweise/club",
+        "https://www.mediamarkt.de/de/legal/datenschutzhinweise/my-mediamarkt",
         "https://github.com/datenanfragen/data/pull/1284"
     ],
     "suggested-transport-medium": "email",
