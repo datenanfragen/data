@@ -19,15 +19,15 @@
     "address": "Albert-Einstein-Ring 2 – 6\n14532 Kleinmachnow\nGermany",
     "phone": "+49 30 801950",
     "fax": "+49 30 80195444",
-    "email": "ebaydpo@ebay.com",
-    "webform": "https://www.ebayinc.com/our-company/privacy-center/privacy-contact/",
+    "webform": "https://ocswf.ebay.com/guest/privacy",
     "web": "https://www.ebay.de/",
     "sources": [
         "https://pages.ebay.de/help/policies/privacy-policy.html",
         "https://pages.ebay.de/help/policies/legal-imprint.html",
         "https://www.ebayinc.com/our-company/privacy-center/privacy-notice/data-protection-officer-contacts/",
         "https://www.ebayinc.com/company/privacy-center/privacy-notice/data-protection-officer-contacts/",
-        "https://github.com/datenanfragen/data/issues/178"
+        "https://github.com/datenanfragen/data/issues/178",
+        "https://github.com/datenanfragen/data/pull/2550"
     ],
     "required-elements": [
         {
@@ -42,10 +42,6 @@
             "desc": "E-Mail",
             "type": "email"
         }
-    ],
-    "comments": [
-        "eBay hat zum 1. Mai 2018 die verantworliche Stelle geändert: \"Ab dem ‌1‌.‌ ‌M‌a‌i‌ ‌2‌0‌1‌8‌ ist für eBay-Nutzer, die in der Europäischen Union (mit Ausnahme Großbritanniens und Nordirlands) ansässig sind, nicht mehr die eBay Europe S.à r.l. Vertragspartner für die Allgemeinen Geschäftsbedingungen, Zahlungsvereinbarungen oder andere Vereinbarungen. Neuer Vertragspartner ist dann die eBay GmbH, Albert-Einstein-Ring 2–6, 14532 Kleinmachnow, Deutschland. […] Infolge der Änderung Ihres eBay-Vertragspartners wird die eBay GmbH auch neue verantwortliche Stelle für Ihre Daten im Sinne unserer Datenschutzerklärung.\"",
-        "Diensteanbieter laut Impressum ist die eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Schweiz."
     ],
     "quality": "verified"
 }
