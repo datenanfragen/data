@@ -13,7 +13,8 @@
     "sources": [
         "https://www.neu.de/pages/misc/privacy",
         "https://www.neu.de/pages/misc/impressum",
-        "https://github.com/datenanfragen/data/pull/2451"
+        "https://github.com/datenanfragen/data/pull/2451",
+        "https://github.com/datenanfragen/data/pull/2599"
     ],
     "required-elements": [
         {
@@ -25,7 +26,7 @@
             "type": "address"
         },
         {
-            "desc": "E-mail",
+            "desc": "E-Mail",
             "type": "email"
         },
         {
@@ -33,6 +34,7 @@
             "type": "input"
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "tested"
 }
