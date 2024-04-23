@@ -1,0 +1,19 @@
+{
+    "slug": "ideal-inkasso-ug",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Ideal Inkasso UG",
+    "address": "Westerfeldstr. 37\n33611 Bielefeld\nDeutschland",
+    "email": "info@idealinkasso.de",
+    "sources": [
+        "https://www.northdata.de/?id=6320945050",
+        "https://www.bfif.de/mitgliedsunternehmen/",
+        "https://www.rechtsdienstleistungsregister.de/index.php?button=show&id=20883",
+        "https://github.com/datenanfragen/data/pull/2385"
+    ],
+    "quality": "verified"
+}

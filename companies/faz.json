@@ -7,13 +7,14 @@
         "entertainment"
     ],
     "name": "Frankfurter Allgemeine Zeitung GmbH",
-    "address": "Hellerhofstraße 2 – 4\n60327 Frankfurt am Main\nDeutschland",
-    "phone": "+49 69 7591 0",
+    "address": "Pariser Straße 1\n60486 Frankfurt am Main\nDeutschland",
+    "phone": "+49 69 75910",
     "email": "datenschutz@faz.net",
     "web": "http://www.faz.net",
     "sources": [
-        "http://www.faz.net/datenschutzerklaerung-11228151.html",
-        "http://www.faz.net/ueber-uns/faz-net-impressum-112096.html"
+        "https://www.faz-datenschutz.de/faz",
+        "https://www.faz.net/faz-net-impressum-112096.html",
+        "https://github.com/datenanfragen/data/pull/2409"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

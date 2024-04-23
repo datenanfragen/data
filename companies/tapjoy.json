@@ -11,11 +11,12 @@
     "phone": "+1 415 766 6900",
     "email": "privacy@tapjoy.com",
     "web": "https://www.tapjoy.com/",
+    "webform": "https://www.tapjoy.com/dataprivacyrequests/",
     "sources": [
         "https://www.tapjoy.com/legal/players/privacy-policy/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }

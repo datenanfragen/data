@@ -8,16 +8,17 @@
     ],
     "name": "Predictive Pop Inc.",
     "runs": [
-        "AuDigent"
+        "Audigent"
     ],
-    "address": "200 Varick St.\nSuite 514\nNew York\nNY 10014\nUnited States of America",
+    "address": "200 Varick St.\nSuite 514\nNew York, NY 10014\nUnited States of America",
     "email": "privacy@audigent.com",
     "web": "https://audigent.com/",
+    "webform": "https://privacy-center.audigent.com/",
     "sources": [
         "https://audigent.com/platform-privacy-policy"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }

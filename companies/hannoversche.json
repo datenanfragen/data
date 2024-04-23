@@ -35,5 +35,22 @@
         "https://www.hannoversche.de/datenschutz"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "quality": "tested"
 }

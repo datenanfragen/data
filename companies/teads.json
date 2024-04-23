@@ -11,6 +11,7 @@
     "phone": "+33 1 70 95 59 00",
     "email": "dpo@teads.com",
     "web": "https://www.teads.com",
+    "webform": "https://user-privacy.teads.tv",
     "sources": [
         "https://www.teads.com/privacy-policy/",
         "https://www.teads.com/teads-offices/"
