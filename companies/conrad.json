@@ -18,9 +18,25 @@
         "https://github.com/datenanfragen/data/pull/2450",
         "https://github.com/datenanfragen/data/pull/2508"
     ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
         "Faxnummer laut Datenschutzerklärung: +49 180 5 312110 (0,14 €/Min. inkl. MwSt. aus dem Festnetz). Alternative Nummer übernommen von https://www.0180.info/suche.html?s=01805312110"
     ],
-    "quality": "verified"
+    "quality": "tested"
 }
