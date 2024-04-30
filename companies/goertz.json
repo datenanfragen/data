@@ -7,17 +7,15 @@
         "commerce"
     ],
     "name": "Görtz Retail GmbH",
-    "address": "c/o PROLIANCE GmbH\nLeopoldstr. 21\n80802 München\nDeutschland",
-    "email": "datenschutzbeauftragter@datenschutzexperte.de",
+    "address": "c/o Görtz Holding GmbH\nSpitalerstr. 10\n20095 Hamburg\nDeutschland",
+    "email": "datenschutz@goertz.de",
     "webform": "https://www.goertz.de/service/kontakt/",
     "web": "https://www.goertz.de",
     "sources": [
-        "https://www.goertz.de/service/uebersicht/datenschutz/#kontakt",
+        "https://www.goertz.de/service/uebersicht/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2457"
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Bitten nennen Sie bei der Kontaktaufnahme mit den Datenschutzbeauftragten das Unternehmen, auf welches sich Ihre Anfrage bezieht. Bitte sehen Sie davon ab, Ihrer Anfrage sensible Informationen wie z. B. eine Ausweiskopie beizufügen."
-    ],
     "quality": "verified"
 }
