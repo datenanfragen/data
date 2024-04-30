@@ -1,0 +1,21 @@
+{
+    "slug": "goertz",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Görtz Retail GmbH",
+    "address": "c/o Görtz Holding GmbH\nSpitalerstr. 10\n20095 Hamburg\nDeutschland",
+    "email": "datenschutz@goertz.de",
+    "webform": "https://www.goertz.de/service/kontakt/",
+    "web": "https://www.goertz.de",
+    "sources": [
+        "https://www.goertz.de/service/uebersicht/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2457"
+    ],
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
