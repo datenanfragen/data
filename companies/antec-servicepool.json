@@ -7,15 +7,14 @@
         "telecommunication"
     ],
     "name": "ANTEC Servicepool GmbH",
-    "address": "℅ Michael Schweyda\nGoldene Aue 1\n38640 Goslar",
+    "address": "℅ Michael Schweyda\nGoldene Aue 1\n38640 Goslar\nDeutschland",
+    "phone": "+49 511 2709030",
+    "fax": "+49 511 27090340",
     "email": "michael@schweyda.com",
     "web": "https://www.antec-servicepool.de",
     "sources": [
         "https://www.antec-servicepool.de/datenschutz",
         "https://github.com/datenanfragen/data/pull/2502"
-    ],
-    "comments": [
-        "Kontaktdaten des Verantwortlichen\n\nANTEC Servicepool GmbH\nBerckhusenstr. 25\n30625 Hannover\n\nANTEC Servicepool hat einen externen Datenschutzbeauftragten bestellt, der unter folgenden Kontaktdaten erreichbar ist:\n\nMichael Schweyda\nGoldene Aue 1\n38640 Goslar\nE-Mail michael@schweyda.com"
     ],
     "quality": "verified"
 }
