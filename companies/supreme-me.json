@@ -1,5 +1,5 @@
 {
-    "slug": "supreme",
+    "slug": "supreme-me",
     "relevant-countries": [
         "de",
         "ch"
@@ -15,5 +15,6 @@
         "https://supreme.me/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2470"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
