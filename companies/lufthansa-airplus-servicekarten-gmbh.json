@@ -7,14 +7,21 @@
         "finance"
     ],
     "name": "Lufthansa AirPlus Servicekarten GmbH",
-    "runs": [
-        "airplus.com"
-    ],
-    "address": "Lufthansa AirPlus Servicekarten GmbH\nDatenschutzbeauftragter JX LD\nDornhofstraße 10\n63263 Neu-Isenburg\nDeutschland",
+    "address": "Dornhofstraße 10\n63263 Neu-Isenburg\nDeutschland",
     "email": "datenschutz@airplus.com",
     "sources": [
         "https://www.airplus.com/de/de/rechtliches/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2488"
     ],
-    "quality": "verified"
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "runs": [
+        "AirPlus International Srl",
+        "AirPlus International Ltd",
+        "AirPlus International SA/NV",
+        "AirPlus International Inc",
+        "AirPlus Payment Management Co., Ltd",
+        "AirPlus Int. Soluções de Pagamento",
+        "AirPlus International AG"
+    ]
 }
