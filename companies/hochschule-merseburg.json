@@ -4,10 +4,12 @@
         "de"
     ],
     "categories": [
-        "public body"
+        "school"
     ],
     "name": "Hochschule Merseburg",
-    "address": "Eberhard-Leibnitz-Straße 2\n06217 Merseburg",
+    "address": "Eberhard-Leibnitz-Straße 2\n06217 Merseburg\nDeutschland",
+    "phone": "+49 3461 460",
+    "fax": "+49 3461 462906",
     "email": "datenschutz@hs-merseburg.de",
     "sources": [
         "https://www.hs-merseburg.de/datenschutz/",
