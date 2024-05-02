@@ -8,25 +8,18 @@
     ],
     "name": "Vattenfall GmbH",
     "runs": [
-        "Vattenfall Europe Sales GmbH",
-        "Vattenfall Wärme Berlin AG",
-        "Vattenfall Wärme Hamburg GmbH",
-        "Vattenfall Real Estate Energy Sales GmbH",
-        "Vattenfall Europe Innovation GmbH",
-        "Vattenfall Smarter Living GmbH",
-        "Mein Vattenfall"
+        "Vattenfall Europe Sales GmbH"
     ],
-    "address": "Überseering 12\n22297 Hamburg\nDeutschland",
-    "phone": "+49 800 992 5000",
+    "address": "Hildegard-Knef-Platz 2\n10826 Berlin\nDeutschland",
+    "phone": "040180409092",
     "email": "datenschutz@vattenfall.de",
     "web": "https://www.vattenfall.de/",
     "sources": [
         "https://www.vattenfall.de/datenschutz",
-        "https://www.vattenfall.de/kundenservice-kontakt",
-        "https://www.vattenfall.de/datenschutz#4d70ee24-dca1-467b-bdbe-44ff66956d88_0_0",
-        "https://github.com/datenanfragen/data/pull/2118"
+        "https://www.vattenfall.de/kontakt",
+        "https://github.com/datenanfragen/data/pull/2620"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "comments": [
         "E-Mail-Adresse für Werbewidersprüche: werbewiderspruch@vattenfall.de"
     ],
