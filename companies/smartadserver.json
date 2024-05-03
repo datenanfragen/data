@@ -1,7 +1,7 @@
 {
     "slug": "smartadserver",
     "relevant-countries": [
-        "all"
+        "fr"
     ],
     "categories": [
         "ads"
@@ -16,7 +16,8 @@
     "web": "https://smartadserver.com/",
     "sources": [
         "https://smartadserver.com/corporate-privacy-policy/",
-        "https://smartadserver.com/legal-mentions/"
+        "https://smartadserver.com/legal-mentions/",
+        "https://github.com/datenanfragen/data/pull/2621"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
