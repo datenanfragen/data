@@ -17,6 +17,7 @@
     "address": "Langeweg 1-D\n3233LM Oostvoorne\nThe Netherlands",
     "phone": "+31 85 400 0176",
     "email": "support@bitmaster-online.com",
+    "web": "https://bitmaster-online.com",
     "sources": [
         "https://bitmaster-online.com/contact/",
         "https://github.com/datenanfragen/data/pull/1019",
