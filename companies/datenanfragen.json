@@ -6,7 +6,7 @@
     "categories": [
         "nonprofit"
     ],
-    "name": "Datenanfragen.de e. V.",
+    "name": "Testing on prod, sorry!",
     "runs": [
         "Datenanfragen.de",
         "datarequests.org",
@@ -24,7 +24,8 @@
     "sources": [
         "https://verein.datenanfragen.de/datenschutz",
         "https://github.com/datenanfragen/data/issues/595",
-        "https://github.com/datenanfragen/data/pull/968"
+        "https://github.com/datenanfragen/data/pull/968",
+        "https://github.com/datenanfragen/data/pull/2624"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
