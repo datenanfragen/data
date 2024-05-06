@@ -1,0 +1,19 @@
+{
+    "slug": "stadtverwaltung-erfurt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Stadtverwaltung Erfurt",
+    "address": "Fischmarkt 1\n99084 Erfurt\nDeutschland",
+    "phone": "+49 361 6551016",
+    "fax": "+49 361 6551029",
+    "email": "datenschutzbeauftragter@erfurt.de; ‎",
+    "sources": [
+        "https://maengelmelder.erfurt.de/about/privacy",
+        "https://github.com/datenanfragen/data/pull/2625"
+    ],
+    "quality": "verified"
+}
