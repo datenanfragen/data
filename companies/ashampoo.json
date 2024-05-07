@@ -18,11 +18,11 @@
         "hu",
         "gb"
     ],
-    "categories": [],
     "name": "Ashampoo GmbH & Co. KG",
-    "address": "//CRASH Building\nSchafjückenweg 2\n26180 Rastede\nDeutschland",
+    "address": "//CRASH Building\nSchafjückenweg 2\n26180 Rastede\nGermany",
+    "phone": "+49 4402 9739200",
+    "fax": "+49 4402 9739409",
     "email": "privacy@ashampoo.com",
-    "webform": "https://support.ashampoo.com/hc/requests/new",
     "web": "https://www.ashampoo.com",
     "sources": [
         "https://www.ashampoo.com/de-de/privacy",
@@ -48,9 +48,24 @@
         "https://www.ashampoo.com/en-eu/privacy",
         "https://github.com/datenanfragen/data/pull/2474"
     ],
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Für Deutschland, Österreich und der deutschsprachigen Schweiz kann alternativ auch datenschutz@ashampoo.com verwendet werden.\n\n\nExterner Datenschutzbeauftragter:\n\nDr. Uwe Schläger\ndatenschutz nord GmbH\nKonsul-Smidt-Straße 88\n28217 Bremen\nTel.:\n0421 696632-0\nFax:\n0421 696632-11\nE-Mail:\noffice@datenschutz-nord.de"
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Address",
+            "type": "address",
+            "optional": true
+        }
     ],
-    "quality": "verified"
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
+    "quality": "tested"
 }
