@@ -4,13 +4,12 @@
         "all"
     ],
     "name": "Milanote Pty Ltd",
-    "address": "Level 1, 20-24 Guildford Lane\nMelbourne, VIC 3000\nAustralia",
+    "address": "Level 1\n20-24 Guildford Lane\nMelbourne\nVIC 3000\nAustralia",
     "email": "info@milanote.com",
     "web": "https://milanote.com/",
     "sources": [
         "https://milanote.com/legal/privacy-policy",
         "https://github.com/datenanfragen/data/pull/2543"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
