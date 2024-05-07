@@ -11,19 +11,20 @@
     "name": "Meta Platforms Ireland Ltd.",
     "runs": [
         "Oculus",
+        "Meta VR (Meta Quest & Horizon)",
         "Oculus VR Ireland Limited (formerly)",
         "Facebook Technologies Ireland Limited (formerly)"
     ],
-    "address": "4 Grand Canal Square, Grand Canal Harbour\nDublin 2\nIreland",
-    "fax": "+353 1 6530737",
+    "address": "Merrion Road\nDublin 4\nD04 X2K5\nIreland",
+    "fax": "+353 1 653 0737",
     "email": "privacy@support.oculus.com",
-    "webform": "https://www.facebook.com/help/oculus/contact/334401184359256",
+    "webform": "https://www.facebook.com/help/contact/540977946302970",
     "web": "https://www.oculus.com",
     "sources": [
         "https://www.oculus.com/legal/privacy-policy/",
         "https://www.oculus.com/legal/about-us/",
         "https://github.com/datenanfragen/data/issues/609",
-        "https://www.facebook.com/help/oculus/contact/334401184359256"
+        "https://www.facebook.com/help/contact/330586388297523"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
