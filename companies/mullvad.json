@@ -7,14 +7,12 @@
     "runs": [
         "Mullvad Browser"
     ],
-    "address": "Mullvad VPN AB\nReg. no. 559238-4001\nBox 53049\n400 14 Gothenburg\nSweden",
+    "address": "Box 53049\n400 14 Gothenburg\nSweden",
     "email": "support@mullvadvpn.net",
     "web": "https://mullvad.net/",
     "sources": [
         "https://mullvad.net/en/help/privacy-policy",
-        "https://mullvad.net/en/help/terms-service",
         "https://github.com/datenanfragen/data/pull/2559"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
