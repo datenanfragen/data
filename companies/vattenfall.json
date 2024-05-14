@@ -12,10 +12,11 @@
     "email": "datenschutz@vattenfall.de",
     "web": "https://www.vattenfall.de/",
     "sources": [
-        "https://www.vattenfall.de/datenschutz#3a41410c-a833-4c82-9b8b-a08bb67495fd_0_0",
+        "https://www.vattenfall.de/datenschutz",
         "https://www.vattenfall.de/kontakt",
-        "https://github.com/datenanfragen/data/pull/2618"
+        "https://service.vattenfall.de/kontakt?client=KONTAKTSEITE",
+        "https://github.com/datenanfragen/data/pull/2626"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
