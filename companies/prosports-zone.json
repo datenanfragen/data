@@ -1,0 +1,21 @@
+{
+    "slug": "prosports-zone",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "SportsZone GmbH",
+    "runs": [
+        "proSports.Zone"
+    ],
+    "address": "Neparmitz 19\n18574 Poseritz\nDeutschland",
+    "phone": "+49 341 56639590",
+    "email": "contact@sportszone.gmbh",
+    "web": "https://prosports.zone/",
+    "sources": [
+        "https://prosports.zone/de/content/privacy",
+        "https://prosports.zone/de/contact",
+        "https://github.com/datenanfragen/data/pull/2592"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
