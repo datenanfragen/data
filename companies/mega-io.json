@@ -1,11 +1,13 @@
 {
-    "slug": "mega",
+    "slug": "mega-io",
     "relevant-countries": [
         "all"
     ],
-    "categories": [],
     "name": "Mega Limited",
-    "address": "Level 21, Huawei Centre, 120 Albert Street, Auckland, New Zealand",
+    "runs": [
+        "MEGA.io"
+    ],
+    "address": "Level 21\nHuawei Centre\n120 Albert Street\nAuckland\nNew Zealand",
     "email": "privacy@mega.nz",
     "web": "https://mega.io/",
     "sources": [
@@ -13,8 +15,5 @@
         "https://github.com/datenanfragen/data/pull/2558"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "New Zealand company number 7970438"
-    ],
     "quality": "verified"
 }
