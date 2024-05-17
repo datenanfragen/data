@@ -1,0 +1,34 @@
+{
+    "slug": "atala",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Atala",
+    "address": "ATALA GmbH & Co.\nFliesen- und Sanitärhandel KG\nBerliner Allee 270\n13088 Berlin (Weißensee)",
+    "phone": "030 / 96 24 10",
+    "email": "kontakt@atala.de",
+    "web": "https://www.atala.de/Impressum",
+    "sources": [
+        "https://www.atala.de/Impressum",
+        "https://github.com/datenanfragen/data/pull/2631"
+    ],
+    "required-elements": [
+        {
+            "type": "email",
+            "optional": true
+        },
+        {
+            "type": "address",
+            "optional": false
+        },
+        {
+            "type": "name",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
