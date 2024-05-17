@@ -1,0 +1,22 @@
+{
+    "slug": "utiq",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "utiq",
+    "runs": [
+        "https://utiq.com"
+    ],
+    "address": "Utiq SA/NV\nRue aux Laines 70\n1000 Brussels, Belgium",
+    "email": "privacy@utiq.com",
+    "web": "https://utiq.com",
+    "sources": [
+        "https://utiq.com/impressum/",
+        "https://github.com/datenanfragen/data/pull/2630"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
