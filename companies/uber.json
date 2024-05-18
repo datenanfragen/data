@@ -1,0 +1,42 @@
+{
+    "slug": "uber",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility",
+        "travel"
+    ],
+    "name": "Uber B.V.",
+    "runs": [
+        "Uber Eats Germany GmbH"
+    ],
+    "address": "Burgerweeshuispad 301\n1076 ER Amsterdam\nNiederlande",
+    "email": "anfragen.deutschland@uber.com",
+    "webform": "https://help.uber.com/riders/article/eine-anfrage-zum-datenschutz-einreichen-?nodeId=489292a2-27ce-42f5-9a47-d4dd017559fd",
+    "web": "https://www.uber.com",
+    "sources": [
+        "https://www.uber.com/legal/de/document/?name=impressum-eats",
+        "https://www.uber.com/legal/de/document/?name=impressum-rides",
+        "https://github.com/datenanfragen/data/pull/2632"
+    ],
+    "required-elements": [
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
