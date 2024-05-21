@@ -3,11 +3,14 @@
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "commerce"
+    ],
     "name": "eyes and more GmbH",
-    "address": "Hindenburgstrasse 49\n\n22297 Hamburg",
-    "phone": "040 22616270",
+    "address": "Hindenburgstrasse 49\n22297 Hamburg\nDeutschland",
+    "phone": "+49 40 22616270",
     "email": "datenschutz@eyesandmore.com",
-    "web": "https://www.eyesandmore.de/datenschutz/",
+    "web": "https://www.eyesandmore.de",
     "sources": [
         "https://www.eyesandmore.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2605"
