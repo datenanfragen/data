@@ -6,15 +6,12 @@
     "categories": [
         "ads"
     ],
-    "name": "utiq",
-    "runs": [
-        "https://utiq.com"
-    ],
-    "address": "Utiq SA/NV\nRue aux Laines 70\n1000 Brussels, Belgium",
+    "name": "Utiq SA/NV",
+    "address": "Rue aux Laines 70\n1000 Brussels\nBelgium",
     "email": "privacy@utiq.com",
     "web": "https://utiq.com",
     "sources": [
-        "https://utiq.com/impressum/",
+        "https://consenthub.utiq.com/pages/privacy-statement",
         "https://github.com/datenanfragen/data/pull/2630"
     ],
     "suggested-transport-medium": "email",
