@@ -1,0 +1,17 @@
+{
+    "slug": "about",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "about.me",
+    "email": "privacy@team.about.me",
+    "web": "https://about.me",
+    "sources": [
+        "https://about.me/legal/privacy/eu",
+        "https://github.com/datenanfragen/data/pull/2472"
+    ],
+    "quality": "verified"
+}
