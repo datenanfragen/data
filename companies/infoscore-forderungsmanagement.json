@@ -13,11 +13,11 @@
         "Süd-Westdeutsche Inkasso GmbH (ehem.)"
     ],
     "address": "Gütersloher Straße 123\n33415 Verl\nDeutschland",
-    "phone": "+49 5246 9391021",
     "fax": "+49 5241 8043190",
     "email": "info@arvato-infoscore.de",
     "sources": [
-        "https://finance.arvato.com/de/ueber-uns/impressum.html"
+        "https://finance.arvato.com/de/ueber-uns/impressum.html",
+        "https://github.com/datenanfragen/data/pull/2322"
     ],
     "quality": "verified"
 }
