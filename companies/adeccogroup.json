@@ -10,7 +10,7 @@
         "Adecco Service Center Solutions GmbH (abs-service-center.de)",
         "Adecco Personaldienstleistungen GmbH (adecco.de)",
         "CST energy services GmbH (cstgroup.de)",
-        "DIS AG (dis-ag.com)",
+        "DIS AG (dis-ag.com, mydis.dis-ag.com)",
         "LHH Recruitment Solutions",
         "ProServ Produktionsservice und Personaldienste GmbH (proserv-dienstleistungen.de)"
     ],
@@ -19,7 +19,8 @@
     "web": "https://www.adeccogroup.de",
     "sources": [
         "https://www.adeccogroup.de/datenschutz/",
-        "https://github.com/datenanfragen/data/pull/2422"
+        "https://github.com/datenanfragen/data/pull/2422",
+        "https://github.com/datenanfragen/data/pull/2462"
     ],
     "required-elements": [
         {
@@ -35,7 +36,6 @@
             "type": "address"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
