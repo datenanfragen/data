@@ -6,28 +6,15 @@
     "categories": [
         "commerce"
     ],
-    "name": "Atala",
-    "address": "ATALA GmbH & Co.\nFliesen- und Sanitärhandel KG\nBerliner Allee 270\n13088 Berlin (Weißensee)",
-    "phone": "030 / 96 24 10",
-    "email": "kontakt@atala.de",
-    "web": "https://www.atala.de/Impressum",
+    "name": "Atala GmbH & Co. Fliesen- und Sanitärhandel KG",
+    "address": "c/o TRIAPILA GmbH\nTorgauer Straße 231\n04347 Leipzig\nDeutschland",
+    "phone": "+49 30 962410",
+    "fax": "+49 30 9251220",
+    "email": "datenschutz@triapila.com",
+    "web": "https://www.atala.de",
     "sources": [
-        "https://www.atala.de/Impressum",
+        "https://www.atala.de/Datenschutz",
         "https://github.com/datenanfragen/data/pull/2631"
-    ],
-    "required-elements": [
-        {
-            "type": "email",
-            "optional": true
-        },
-        {
-            "type": "address",
-            "optional": false
-        },
-        {
-            "type": "name",
-            "optional": false
-        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
