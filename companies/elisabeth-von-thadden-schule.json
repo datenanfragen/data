@@ -7,7 +7,7 @@
         "school"
     ],
     "name": "Elisabeth-von-Thadden-Schule",
-    "address": "Schulstiftung der Evangelischen Landeskirche in Baden\nBritta Boschmann Klassen\nBlumenstraße 1-7\n76133 Karlsruhe\nDeutschland",
+    "address": "c/o Schulstiftung der Evangelischen Landeskirche in Baden\nBlumenstraße 1-7\n76133 Karlsruhe\nDeutschland",
     "phone": "+49 721 9175135",
     "fax": "+49 721 917525135",
     "email": "info@schulstiftung-baden.de",
@@ -27,5 +27,9 @@
             "type": "address"
         }
     ],
-    "quality": "verified"
+    "custom-erasure-template": "erasure-evangelische-kirche",
+    "custom-rectification-template": "rectification-evangelische-kirche",
+    "quality": "verified",
+    "custom-access-template": "access-evangelische-kirche",
+    "request-language": "de"
 }
