@@ -1,5 +1,5 @@
 {
-    "slug": "sonymusic",
+    "slug": "sony-music-entertainment-germany",
     "relevant-countries": [
         "de"
     ],
@@ -18,5 +18,6 @@
         "https://www.sonymusic.de/Datenschutz/",
         "https://github.com/datenanfragen/data/pull/2603"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
