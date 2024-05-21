@@ -4,17 +4,21 @@
         "de"
     ],
     "categories": [
-        "health"
+        "health",
+        "commerce"
     ],
-    "name": "Mein Zuhause im Alter",
-    "address": "Feldbergstr. 31",
-    "phone": "496171277534299",
-    "email": "info@treppenlift-magazin.de",
+    "runs": [
+        "Mein Zuhause im Alter"
+    ],
+    "address": "Feldbergstr. 31\n61449 Steinbach\nDeutschland",
+    "phone": "+49 800 7772346",
+    "email": "info@mein-zuhause-im-alter.de",
     "web": "https://www.mein-zuhause-im-alter.de/",
     "sources": [
-        "other",
+        "https://www.mein-zuhause-im-alter.de/impressum",
         "https://github.com/datenanfragen/data/pull/2610"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "name": "X4d Media"
 }
