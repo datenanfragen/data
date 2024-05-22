@@ -13,12 +13,13 @@
     "web": "https://www.vivacom.bg/",
     "sources": [
         "https://www.vivacom.bg/bg/files/7639-politika-za-poveritelnost.pdf",
-        "https://github.com/datenanfragen/data/pull/1090"
+        "https://github.com/datenanfragen/data/pull/1090",
+        "https://github.com/datenanfragen/data/pull/2633"
     ],
     "needs-id-document": true,
     "suggested-transport-medium": "email",
     "comments": [
-        "The request should be digitally signed. "
+        "The request should be digitally signed. Добър ден,\n \nДоговора с vivacom , който наема помещението в град Исперих на Хан Аспарух  номер 12 изтича на  22 Юни 2024, ще може ли да се обадите на горе посочения телефонен номер да ни уведомите дали искате да подновим договора или не. \n\nУважение, Неждет Казим Мюмюн tel: 0895789727"
     ],
     "quality": "verified"
 }
