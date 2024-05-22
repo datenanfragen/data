@@ -1,0 +1,19 @@
+{
+    "slug": "skyhire",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "SkyHire GmbH",
+    "address": "Am Brüll 17\n40878 Ratingen",
+    "phone": "+49 2102 9298209",
+    "email": "kontakt@skyhire.de",
+    "web": "https://skyhire.de",
+    "sources": [
+        "https://skyhire.de/",
+        "https://github.com/datenanfragen/data/pull/2634"
+    ],
+    "quality": "verified"
+}
