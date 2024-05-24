@@ -1,0 +1,27 @@
+{
+    "slug": "wm-beautysystems",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads",
+        "entertainment"
+    ],
+    "name": "WM BEAUTYSYSTEMS AG & Co. KG",
+    "runs": [
+        "WM Management AG",
+        "SUNPOINT Werbegesellschaft mbH"
+    ],
+    "address": "Carl-Friedrich-Gauß-Straße 11\n50259 Pulheim\nDeutschland",
+    "phone": "02234-98422-966",
+    "email": "datenschutz@wm-beautysystems.com",
+    "web": "https://www.wm-beautysystems.com/",
+    "sources": [
+        "https://www.wm-beautysystems.com/datenschutzhinweise/",
+        "https://www.sunpoint.de/sunpoint/datenschutz",
+        "https://www.wellmaxx.com/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2635"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
