@@ -1,0 +1,24 @@
+{
+    "slug": "runalyze",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Runalyze GmbH",
+    "address": "Runalyze GmbH\nHochstraße 11\n67700 Niederkirchen",
+    "phone": "+49 1514 2011855",
+    "email": "support@runalyze.com",
+    "web": "https://runalyze.com",
+    "sources": [
+        "Inhaber",
+        "https://runalyze.com/en/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/2638"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Unter https://runalyze.com/my/exports kann ein Datenexport aller Daten eines Accounts erfolgen. Entweder komplett oder nach Datenbereich getrennt."
+    ],
+    "quality": "verified"
+}
