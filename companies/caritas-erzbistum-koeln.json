@@ -1,0 +1,18 @@
+{
+    "slug": "caritas-erzbistum-koeln",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "Sozialdienst katholischer Frauen Rhein-Erft-Kreis e.V.",
+    "address": "An St. Severin 11-13\n50226 Frechen",
+    "email": "info@skf-erftkreis.de",
+    "web": "https://caritas.erzbistum-koeln.de/rheinerft-skf/",
+    "sources": [
+        "https://caritas.erzbistum-koeln.de/rheinerft-skf/",
+        "https://github.com/datenanfragen/data/pull/2639"
+    ],
+    "quality": "verified"
+}
