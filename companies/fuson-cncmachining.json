@@ -1,0 +1,16 @@
+{
+    "slug": "fuson-cncmachining",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Fuson Precision machining Co. Ltd",
+    "address": "Falcon Ridge Way, Los Angeles, Porter Ranch, California 91326, United States",
+    "phone": "15920434778",
+    "email": "fusoncncmachining@gmail.com",
+    "web": "https://www.fuson-cncmachining.com/product/cnc-precision-machining-prototype/",
+    "sources": [
+        "cnc metal cutting",
+        "https://github.com/datenanfragen/data/pull/2643"
+    ],
+    "quality": "verified"
+}
