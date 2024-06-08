@@ -50,7 +50,8 @@
         "https://github.com/datenanfragen/data/pull/1118",
         "https://www.takeaway.com/drivers/privacy",
         "https://github.com/datenanfragen/data/pull/1654",
-        "https://github.com/datenanfragen/data/pull/2407"
+        "https://github.com/datenanfragen/data/pull/2407",
+        "https://github.com/datenanfragen/data/pull/2646"
     ],
     "required-elements": [
         {
@@ -67,7 +68,6 @@
             "optional": true
         }
     ],
-    "needs-id-document": false,
-    "suggested-transport-medium": "email",
-    "quality": "tested"
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
 }
