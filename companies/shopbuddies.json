@@ -1,0 +1,35 @@
+{
+    "slug": "shopbuddies",
+    "relevant-countries": [
+        "de",
+        "ch"
+    ],
+    "name": "Woolsocks AG",
+    "runs": [
+        "ShopBuddies",
+        "BudgetBakers",
+        "GoCancel",
+        "BROKR Ltd.",
+        "Scoupy"
+    ],
+    "address": "Neustadtstrasse 7\n6003 Lucerne\nSwitzerland\n\nWoolsocks A.G.\nFranzösische\nNiederlassung, 38 rue des Mathurins, 75008 Paris, Frankreich, RCS Paris",
+    "email": "privacy@woolsocks.eu",
+    "web": "https://shopbuddies.de/",
+    "sources": [
+        "https://shopbuddies.de/legal-center",
+        "https://shopbuddies.de/legal/ag/Woolsocks-AG_Privacy-and-Cookie-Statement_DE_v1.7.pdf",
+        "https://github.com/datenanfragen/data/pull/2647"
+    ],
+    "required-elements": [
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Alternative e-mail: eurepresentative@woolsocks.eu"
+    ],
+    "quality": "verified"
+}
