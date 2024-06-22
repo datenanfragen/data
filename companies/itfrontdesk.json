@@ -1,0 +1,15 @@
+{
+    "slug": "itfrontdesk",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "ITFrontDesk",
+    "address": "3200 Westend Ave, Ste 500\nNashville\nTN",
+    "phone": "8883938899",
+    "email": "Itfrontdeskus@gmail.com",
+    "web": "https://itfrontdesk.com/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2655"
+    ]
+}
