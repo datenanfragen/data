@@ -4,31 +4,20 @@
         "all"
     ],
     "categories": [
-        "commerce"
+        "addresses"
     ],
-    "name": "3D Hubs B.V.",
+    "name": "ITFrontDesk",
     "runs": [
-        "3D Hubs, Inc.",
-        "3D Hubs Manufacturing LLC"
+        "ITFront"
     ],
-    "address": "Danzigerkade 23A\n1013 AP Amsterdam\nThe Netherlands",
-    "phone": "+31 85 888 7380",
-    "email": "legal@3dhubs.com",
-    "web": "https://www.hubs.com/",
-    "sources": [
-        "https://www.hubs.com/privacy-policy/"
-    ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name"
-        },
-        {
-            "desc": "E-Mail",
-            "type": "email"
-        }
-    ],
+    "address": "3200 Westend Ave, Ste 500\nNashville\nTN\n37203\nUnited States",
+    "phone": "8883938899",
+    "email": "Itfrontdeskus@gmail.com",
+    "web": "https://itfrontdesk.com/",
     "request-language": "en",
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2656"
+    ]
 }
