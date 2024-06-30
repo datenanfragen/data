@@ -9,27 +9,25 @@
     ],
     "name": "eGENTIC GmbH",
     "address": "Am Unisys-Park 1\n65843 Sulzbach/Ts\nDeutschland",
-    "fax": "+49 6151 9503 201",
-    "email": "privacy@egentic.com",
+    "fax": "+49 6151 9503201",
+    "email": "info@egentic.com",
     "web": "https://www.egentic.com",
     "sources": [
         "https://www.egentic.com/data-protection/",
         "https://www.egentic.com/imprint-2/",
-        "https://github.com/datenanfragen/data/issues/52"
+        "https://github.com/datenanfragen/data/issues/52",
+        "https://github.com/datenanfragen/data/pull/2661"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
