@@ -1,0 +1,19 @@
+{
+    "slug": "airlaps",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "AIRLAPS / COLABL FRANCE SAS",
+    "address": "83 A, rue des alliés",
+    "phone": "+33 4 28 04 47 20",
+    "email": "dpo@airlaps.com",
+    "web": "https://airlaps.com",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2660"
+    ]
+}
