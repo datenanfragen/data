@@ -1,0 +1,39 @@
+{
+    "slug": "jaksch-partner",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Jaksch Research GmbH",
+    "runs": [
+        "JAKSCH & PARTNER"
+    ],
+    "address": "Schillerstraße 8\n4020 Linz\nAustria",
+    "phone": "+43 732 604260",
+    "fax": "+43 732 60426042",
+    "email": "datenschutzbeauftragter@jaksch-partner.at",
+    "web": "https://www.jaksch-partner.at/",
+    "sources": [
+        "https://www.jaksch-partner.at/datenschutzerklarung/",
+        "https://github.com/datenanfragen/data/pull/2664"
+    ],
+    "required-elements": [
+        {
+            "desc": "Telefonnummer",
+            "type": "input",
+            "optional": true
+        },
+        {
+            "desc": "Name",
+            "type": "name",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Führt Marktumfragen in Österreich durch. Teilweise SPAM Anrufe"
+    ],
+    "quality": "verified"
+}
