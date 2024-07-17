@@ -1,0 +1,21 @@
+{
+    "slug": "3v-host",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "3v-Hosting",
+    "address": "04213, Prirechnaya str.25A, Kiev, Ukraine",
+    "email": "sales@3v-host.com",
+    "webform": "https://3v-host.com/",
+    "web": "https://3v-host.com/",
+    "sources": [
+        "vps",
+        "dedicated servers",
+        "web hosting",
+        "https://github.com/datenanfragen/data/pull/2637"
+    ],
+    "quality": "verified"
+}
