@@ -1,0 +1,17 @@
+{
+    "slug": "samsung-electronics-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Samsung Electronics GmbH",
+    "address": "Samsung House\nAm Kronberger Hang 6\n65824 Schwalbach / Ts.\nDeutschland",
+    "email": "dataprotection.seg@samsung.com",
+    "sources": [
+        "https://images.samsung.com/is/content/samsung/assets/de/mobile/samsung_pay_de_pn.pdf",
+        "https://github.com/datenanfragen/data/pull/2640"
+    ],
+    "comments": [
+        "Für die Datenverarbeitung Verantwortlicher von Samsung Pay"
+    ],
+    "quality": "verified"
+}
