@@ -6,7 +6,7 @@
     "categories": [
         "entertainment",
         "ads",
-        "social media"
+        "public body"
     ],
     "name": "Meta Platforms Ireland Ltd.",
     "runs": [
@@ -24,7 +24,8 @@
         "https://www.oculus.com/legal/privacy-policy/",
         "https://www.oculus.com/legal/about-us/",
         "https://github.com/datenanfragen/data/issues/609",
-        "https://www.facebook.com/help/contact/330586388297523"
+        "https://www.facebook.com/help/contact/330586388297523",
+        "https://github.com/datenanfragen/data/pull/2677"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
