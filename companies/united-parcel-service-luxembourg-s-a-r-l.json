@@ -1,0 +1,13 @@
+{
+    "slug": "united-parcel-service-luxembourg-s-a-r-l",
+    "relevant-countries": [
+        "lu"
+    ],
+    "name": "United Parcel Service Luxembourg S.A.R.L.",
+    "address": "Rue de l'Etang 1\n5326 Contern\nLuxembourg",
+    "sources": [
+        "https://www.ups.com/lu/en/support/contact-us.page",
+        "https://github.com/datenanfragen/data/pull/2678"
+    ],
+    "quality": "verified"
+}
