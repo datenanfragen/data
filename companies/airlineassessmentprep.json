@@ -1,0 +1,26 @@
+{
+    "slug": "airlineassessmentprep",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Airline Assessment Prep",
+    "address": "Mr CHERIF ANIS\nBOITE 43, 3 RUE JEAN VILAR\n59650 VILLENEUVE D’ASCQ, FRANCE",
+    "email": "contact@airlineassessmentprep.com",
+    "web": "https://airlineassessmentprep.com/",
+    "sources": [
+        "https://airlineassessmentprep.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2687"
+    ],
+    "required-elements": [
+        {
+            "desc": "mail",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
