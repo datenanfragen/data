@@ -9,29 +9,45 @@
         "lu"
     ],
     "categories": [
-        "commerce"
+        "addresses"
     ],
-    "name": "Cdiscount.com / SGPN",
+    "name": "chantal waltrigny",
     "address": "BP 90200\n93472 Neuilly Sur Marne\nFrance",
+    "phone": "0682450417",
     "email": "informatique-et-libertes@cdiscount.com",
     "web": "https://www.cdiscount.com/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/437",
         "https://www.cdiscount.com/vie-privee-et-cookies.html",
-        "https://i6.cdscdn.com/resources/imagesok/cgv/ml.pdf"
+        "https://i6.cdscdn.com/resources/imagesok/cgv/ml.pdf",
+        "https://github.com/datenanfragen/data/pull/2685"
     ],
     "required-elements": [
         {
-            "desc": "Nom",
-            "type": "name"
+            "desc": "waltrigny",
+            "type": "name",
+            "optional": true
         },
         {
-            "desc": "Adresse e-mail",
-            "type": "email"
+            "desc": "waltrigny1960@aol.cpm.",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "email ci dessus faux je vous donne le bon ci dessous ",
+            "type": "email",
+            "optional": false
+        },
+        {
+            "desc": "waltrigny1960@aol.com",
+            "type": "email",
+            "optional": true
         }
     ],
     "request-language": "fr",
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "comments": [
+        "je me suis trompe en rentrant mon adresse mail j ais marquer waltrigny1960@aol.cpm ce n ais pas le bon c est pour ca que je ne peux pas suivre mes commandes voici le bon e mail waltrigny1960@aol.com pouvez vous faire la modification cordialement"
+    ],
+    "quality": "verified"
 }
