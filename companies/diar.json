@@ -1,0 +1,17 @@
+{
+    "slug": "diar",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Diar",
+    "address": "CACILIENWEG 29",
+    "phone": "+49 176 63415871",
+    "fax": "23/9/2004",
+    "email": "dyiarbetkari627@gmail.com",
+    "webform": "LAICHINGEN",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2691"
+    ]
+}
