@@ -4,15 +4,17 @@
         "all"
     ],
     "categories": [
-        "ads",
+        "church",
         "entertainment"
     ],
     "name": "Unity Technologies ApS",
     "address": "Niels Hemmingsens Gade 24\n1153 Copenhagen\nDenmark",
+    "phone": "Qwlvtyuievjxkdkfkxkfkieikdkxkddkfopfodkd",
     "email": "DPO@unity3d.com",
     "web": "https://unity.com/",
     "sources": [
-        "https://unity3d.com/legal/privacy-policy"
+        "https://unity3d.com/legal/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2694"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
