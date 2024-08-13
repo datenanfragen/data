@@ -1,0 +1,21 @@
+{
+    "slug": "imdb",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "IMDB",
+    "runs": [
+        "Amazon"
+    ],
+    "address": "P.O. Box 81226 Seattle, WA 98108 United States",
+    "email": "press@imdb.com",
+    "web": "https://www.imdb.com",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2699"
+    ]
+}
