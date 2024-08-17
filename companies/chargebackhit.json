@@ -6,16 +6,20 @@
     "categories": [
         "finance"
     ],
+    "name": "Anteolink Limited",
     "runs": [
         "chargebackhit"
     ],
     "address": "loanni Mina, 8\n‘Agios loannis\n4871 Limassol\nCyprus",
+    "phone": "s",
+    "fax": "mina",
     "email": "support@chargebackhit.com",
+    "webform": "uzbekstan",
     "web": "https://chargebackhit.com/",
     "sources": [
-        "https://chargebackhit.com/terms-of-use/",
-        "https://github.com/datenanfragen/data/pull/2149"
+        "https://chargebackhit.com/terms-of-use/.",
+        "https://github.com/datenanfragen/data/pull/2149",
+        "https://github.com/datenanfragen/data/pull/2702"
     ],
-    "quality": "verified",
-    "name": "Anteolink Limited"
+    "quality": "verified"
 }
