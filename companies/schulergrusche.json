@@ -1,0 +1,15 @@
+{
+    "slug": "schulergrusche",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "SchulerGrusche",
+    "address": "Altmannstr.578464Konstanz",
+    "phone": "075314573748",
+    "email": "js7224455@gmail.com",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2707"
+    ]
+}
