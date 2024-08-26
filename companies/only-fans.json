@@ -1,0 +1,17 @@
+{
+    "slug": "only-fans",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Only Fans",
+    "address": "DAPR sp. z oo\nPolen Firmennummer 0000688178\nZurawia 47 Straße\n00-680 Warschau, Polen",
+    "email": "privacy@onlyfans.com",
+    "sources": [
+        "https://onlyfans.com/privacy",
+        "https://github.com/datenanfragen/data/pull/2714"
+    ],
+    "quality": "verified"
+}
