@@ -1,0 +1,19 @@
+{
+    "slug": "stadtwerke-weimar-stadtversorgungs-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Stadtwerke Weimar Stadtversorgungs-GmbH",
+    "address": "Industriestraße 14\n99427 Weimar\nDeutschland",
+    "phone": "+49 3643 43410",
+    "fax": "+49 3643 4341102",
+    "email": "stadtwerke@sw-weimar.de",
+    "sources": [
+        "https://sw-weimar.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2715"
+    ],
+    "quality": "verified"
+}
