@@ -1,0 +1,17 @@
+{
+    "slug": "stadtverwaltung-weimar",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Stadtverwaltung Weimar",
+    "address": "Schwanseestraße 17, \n99423 Weimar\nDeutschland",
+    "email": "datenschutz@stadtweimar.de",
+    "sources": [
+        "https://stadt.weimar.de/de/datenschutzerklaerung.html",
+        "https://github.com/datenanfragen/data/pull/2717"
+    ],
+    "quality": "verified"
+}
