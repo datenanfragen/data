@@ -1,0 +1,21 @@
+{
+    "slug": "med-on-mvz",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "MED:ON MVZ",
+    "runs": [
+        "Kielstein (ehemals)"
+    ],
+    "address": "MED:ON MVZ\nMelchendorfer Straße 1\n99096 Erfurt\nDeutschland",
+    "phone": "+49 361 262619100",
+    "email": "datenschutz@med-on-mvz.de",
+    "sources": [
+        "https://med-on-mvz.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2720"
+    ],
+    "quality": "verified"
+}
