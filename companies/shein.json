@@ -1,9 +1,10 @@
 {
     "slug": "shein",
     "relevant-countries": [
-        "all"
+        "pt"
     ],
     "categories": [
+        "commerce",
         "commerce"
     ],
     "name": "Infinite Styles Ecommerce Co., Ltd.",
@@ -17,7 +18,8 @@
     "sources": [
         "https://fr.shein.com/Privacy-Security-Policy-a-282.html",
         "https://play.google.com/store/apps/details?id=com.zzkko",
-        "https://github.com/datenanfragen/data/pull/2363"
+        "https://github.com/datenanfragen/data/pull/2363",
+        "https://github.com/datenanfragen/data/pull/2723"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
