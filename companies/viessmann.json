@@ -3,13 +3,10 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "Viessmann Werke GmbH & Co. KG",
+    "name": "Viessmann Climate Solutions SE",
     "runs": [
         "Viessmann Deutschland GmbH",
-        "Viessmann Climate Solutions Berlin GmbH",
-        "Viessmann IT Service GmbH",
-        "Viessmann PV + E GmbH",
-        "Digital Energy Solutions GmbH & Co. KG"
+        "Viessmann Climate Solutions Berlin GmbH"
     ],
     "address": "Viessmannstraße 1\n35108 Allendorf (Eder)\nGermany",
     "phone": "+49 6452 700",
@@ -18,7 +15,7 @@
     "web": "https://www.viessmann.de/",
     "sources": [
         "https://www.viessmann.de/de/datenschutzerklaerung.html",
-        "https://github.com/datenanfragen/data/pull/758"
+        "https://github.com/datenanfragen/data/pull/2722"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
