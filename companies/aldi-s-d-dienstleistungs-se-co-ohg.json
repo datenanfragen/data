@@ -1,0 +1,17 @@
+{
+    "slug": "aldi-s-d-dienstleistungs-se-co-ohg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "ALDI SÜD Dienstleistungs-SE & Co. oHG",
+    "address": "Unternehmensgruppe ALDI SÜD\nBurgstraße 37\n45476 Mülheim an der Ruhr\nDeutschland",
+    "email": "datenschutz@aldi-sued.de",
+    "sources": [
+        "https://www.aldi-sued.de/de/informationen/datenschutzhinweis-impressum.html",
+        "https://github.com/datenanfragen/data/pull/2733"
+    ],
+    "quality": "verified"
+}
