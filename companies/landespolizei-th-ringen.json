@@ -1,0 +1,19 @@
+{
+    "slug": "landespolizei-th-ringen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Landespolizei Thüringen",
+    "address": "Landespolizeidirektion\nMelchior-Bauer-Straße 5\n99092 Erfurt \nDeutschland",
+    "phone": "0361574315100",
+    "fax": "0361574317249",
+    "email": "Poststelle.lpd@polizei.thueringen.de",
+    "sources": [
+        "https://polizei.thueringen.de/fileadmin/Thueringer_Polizei/polizei/Thueringer_Polizei-Portal/lpd/Datenschutz/231123_LPD_Datenschutzinformation.pdf",
+        "https://github.com/datenanfragen/data/pull/2732"
+    ],
+    "quality": "verified"
+}
