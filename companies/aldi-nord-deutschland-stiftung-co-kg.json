@@ -1,0 +1,17 @@
+{
+    "slug": "aldi-nord-deutschland-stiftung-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "ALDI Nord Deutschland Stiftung & Co. KG",
+    "address": "ALDI Nord Deutschland Stiftung & Co. KG\nEckenbergstraße 16b\n45307 Essen\nDeutschland",
+    "email": "datenschutz@aldi-nord.de",
+    "sources": [
+        "https://www.aldi-nord.de/tools/datenschutzhinweis.html",
+        "https://github.com/datenanfragen/data/pull/2734"
+    ],
+    "quality": "verified"
+}
