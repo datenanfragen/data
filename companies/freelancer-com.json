@@ -12,13 +12,11 @@
         "Freelancer Ltd."
     ],
     "address": "Level 20\nWorld Square\n680 George Street\nSydney NSW 2000\nAustralia",
-    "phone": "+61 2 9279 3305",
     "email": "privacy-officer@freelancer.com",
     "web": "https://www.freelancer.com/",
     "sources": [
         "https://www.freelancer.com/about/privacy",
-        "https://www.freelancer.com/about/terms",
-        "http://www.hoovers.com/company-information/cs/company-profile.freelancer_international_pty_ltd.bcd0bcc39c4618bf.html"
+        "https://www.freelancer.com/about/terms"
     ],
     "required-elements": [
         {
