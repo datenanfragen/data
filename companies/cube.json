@@ -1,0 +1,17 @@
+{
+    "slug": "cube",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Cube",
+    "address": "Markus Rödel\nENS Privacy & Consulting GmbH\nBayreuther Str. 11\n95615 Marktredwitz\nDeutschland",
+    "email": "privacy@ensedv.de",
+    "sources": [
+        "https://www.cube.eu/de-de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2727"
+    ],
+    "quality": "verified"
+}
