@@ -1,0 +1,23 @@
+{
+    "slug": "doccheck",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "DocCheck",
+    "runs": [
+        "doccheck.com",
+        "doccheckshop.de"
+    ],
+    "address": "Vogelsanger Str. 66\n50823 Köln\nDeutschland",
+    "phone": "+49 221 920530",
+    "email": "datenschutz@doccheck.com",
+    "sources": [
+        "https://more.doccheck.com/de/privacy",
+        "https://github.com/datenanfragen/data/pull/2740"
+    ],
+    "quality": "verified"
+}
