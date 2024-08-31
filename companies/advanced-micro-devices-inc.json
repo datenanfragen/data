@@ -1,0 +1,22 @@
+{
+    "slug": "advanced-micro-devices-inc",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Advanced Micro Devices Inc.",
+    "runs": [
+        "Xilinx Inc.",
+        "AMD"
+    ],
+    "address": "2485 Augustine Drive, Santa Clara,\nCA 95054,\nUSA",
+    "email": "memberservices@amd-member.com",
+    "webform": "https://privacyportal.onetrust.com/webform/522af4e3-8eb6-419a-ab34-33424f162acd/8cc41943-5c42-4be1-a49d-973a8817fc12",
+    "sources": [
+        "https://www.amd.com/de/legal/privacy.html#submit-request",
+        "https://github.com/datenanfragen/data/pull/2750"
+    ],
+    "quality": "verified"
+}
