@@ -7,6 +7,9 @@
         "telecommunication"
     ],
     "name": "freenet.de GmbH",
+    "runs": [
+        "Mega Sim"
+    ],
     "address": "Hollerstraße 126\n24782 Büdelsdorf\nDeutschland",
     "fax": "+49 180 3 030310",
     "email": "datenschutz@freenet.ag",
@@ -14,24 +17,22 @@
     "sources": [
         "https://www.freenet.de/datenschutz/index.html",
         "https://www.freenet.de/impressum",
-        "https://github.com/datenanfragen/data/pull/2447"
+        "https://github.com/datenanfragen/data/pull/2447",
+        "https://github.com/datenanfragen/data/pull/2774"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
         "Achtung: Faxnummer ist kostenpflichtig (€ 0,09/Min. aus dem dt. Festnetz, Mobilfunk max. € 0,42/Min.)!"
     ],
-    "quality": "tested"
+    "quality": "verified"
 }
