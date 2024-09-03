@@ -1,0 +1,15 @@
+{
+    "slug": "tivian-xi-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Tivian XI GmbH",
+    "address": "Christophstr. 15-17,\n50670 Cologne,\nDeutschland",
+    "phone": "+49 221 271690",
+    "email": "dataprotection@tivian.com",
+    "sources": [
+        "https://www.tivian.com/de/privacy-policy-2/",
+        "https://github.com/datenanfragen/data/pull/2770"
+    ],
+    "quality": "verified"
+}
