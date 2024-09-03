@@ -7,6 +7,9 @@
         "entertainment"
     ],
     "name": "FUNKE Mediengruppe GmbH & Co. KGaA",
+    "runs": [
+        "Thüringer Allgemeine"
+    ],
     "address": "Jakob-Funke-Platz 1\n45127 Essen\nDeutschland",
     "phone": "+49 800 6060760",
     "fax": "+49 800 6060750",
@@ -15,7 +18,8 @@
     "sources": [
         "https://www.funkemedien.de/de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/1240",
-        "https://www.funkemedien.de/de/impressum/"
+        "https://www.funkemedien.de/de/impressum/",
+        "https://github.com/datenanfragen/data/pull/2773"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
