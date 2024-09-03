@@ -4,31 +4,17 @@
         "all"
     ],
     "categories": [
-        "commerce",
-        "entertainment",
-        "telecommunication"
+        "telecommunication",
+        "entertainment"
     ],
-    "name": "Apple Distribution International Ltd.",
-    "address": "Hollyhill Industrial Estate\nHollyhill, Cork\nIreland",
-    "email": "contactus.de@euro.apple.com",
+    "name": "Apple Inc.",
+    "address": "One Apple Park Way, Cupertino, CA 95014, USA",
     "webform": "https://www.apple.com/privacy/contact/",
-    "web": "https://www.apple.com",
+    "web": "https://apple.com/",
     "sources": [
-        "https://www.apple.com/legal/privacy/de-ww/",
-        "https://www.apple.com/legal/privacy/en-ww/",
-        "https://www.apple.com/de/contact/"
+        "https://www.apple.com/legal/privacy/",
+        "https://github.com/datenanfragen/data/pull/2768"
     ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name",
-            "optional": false
-        },
-        {
-            "desc": "Email or Apple ID",
-            "type": "email",
-            "optional": false
-        }
-    ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
