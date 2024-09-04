@@ -20,7 +20,9 @@
         "https://likee.com/privacy",
         "https://github.com/datenanfragen/data/issues/539",
         "https://github.com/datenanfragen/data/pull/771",
-        "https://www.bigo.sg/contact"
+        "https://www.bigo.sg/contact",
+        "https://github.com/datenanfragen/data/pull/2780"
     ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
