@@ -1,0 +1,14 @@
+{
+    "slug": "cosair",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Cosair",
+    "address": "Landshuter Allee 10\n80637 München\nDeutschland",
+    "email": "data.controller@corsair.com",
+    "sources": [
+        "https://www.corsair.com/de/de/s/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2784"
+    ],
+    "quality": "verified"
+}
