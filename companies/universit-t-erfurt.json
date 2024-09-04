@@ -1,0 +1,15 @@
+{
+    "slug": "universit-t-erfurt",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Universität Erfurt",
+    "address": "Nordhäuser Str. 63\n99089 Erfurt\nDeutschland",
+    "phone": "+49 361 7375007",
+    "email": "datenschutz@uni-erfurt.de",
+    "sources": [
+        "https://www.uni-erfurt.de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/2799"
+    ],
+    "quality": "verified"
+}
