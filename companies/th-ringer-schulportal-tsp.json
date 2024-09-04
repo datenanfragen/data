@@ -1,0 +1,22 @@
+{
+    "slug": "th-ringer-schulportal-tsp",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Thüringer Schulportal (TSP)",
+    "runs": [
+        "Thüringer Schulcloud"
+    ],
+    "address": "Heinrich-Heine-Allee 2-4\n99438 Bad Berka\nDeutschland",
+    "phone": "+49 36458 56288",
+    "fax": "+49 36458 56300",
+    "email": "datenschutzbeauftragter@thillm.de",
+    "sources": [
+        "https://www.schulportal-thueringen.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2782"
+    ],
+    "quality": "verified"
+}
