@@ -1,0 +1,14 @@
+{
+    "slug": "govee",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Govee",
+    "address": "ROOM 023, 9/F, BLOCK G, KWAI SHING IND BLDG (STAGE 2)\n42-46 TAI LIN PAI ROAD, KWAI CHUNG, NT",
+    "email": "privacy@govee.com",
+    "sources": [
+        "https://eu.govee.com/de-de/policies/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2787"
+    ],
+    "quality": "verified"
+}
