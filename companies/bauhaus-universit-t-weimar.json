@@ -1,0 +1,18 @@
+{
+    "slug": "bauhaus-universit-t-weimar",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Bauhaus-Universität Weimar",
+    "address": "Belvederer Allee 6\n99423 Weimar\nDeutschland",
+    "phone": "+49 3643 581222",
+    "email": "datenschutz@uni-weimar.de",
+    "sources": [
+        "https://www.uni-weimar.de/de/fs/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2800"
+    ],
+    "quality": "verified"
+}
