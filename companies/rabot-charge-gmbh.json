@@ -1,0 +1,17 @@
+{
+    "slug": "rabot-charge-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "RABOT Charge GmbH",
+    "address": "c./o. heyData GmbH,\nSchützenstraße 5,\n10117 Berlin\nDeutschland",
+    "email": "datenschutz@heydata.eu",
+    "sources": [
+        "https://www.rabot-charge.de/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/2797"
+    ],
+    "quality": "verified"
+}
