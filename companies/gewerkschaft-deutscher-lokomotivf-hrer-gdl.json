@@ -1,0 +1,14 @@
+{
+    "slug": "gewerkschaft-deutscher-lokomotivf-hrer-gdl",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Gewerkschaft Deutscher Lokomotivführer (GDL)",
+    "address": "Baumweg 45,\n60316 Frankfurt am Main,\nDeutschland",
+    "email": "datenschutzbeauftragter@gdl.de",
+    "sources": [
+        "https://www.gdl.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2821"
+    ],
+    "quality": "verified"
+}
