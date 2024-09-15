@@ -14,7 +14,14 @@
     "web": "https://primastrom.de/",
     "sources": [
         "https://primastrom.de/media/pdf/Datenschutzerklaerung_der_primastrom_GmbH_01062021.pdf",
-        "https://github.com/datenanfragen/data/pull/2581"
+        "https://github.com/datenanfragen/data/pull/2581",
+        "https://github.com/datenanfragen/data/pull/2755"
+    ],
+    "required-elements": [
+        {
+            "desc": "Kundenummer",
+            "type": "input"
+        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
