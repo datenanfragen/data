@@ -1,0 +1,20 @@
+{
+    "slug": "immowert",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "IMMOWERT GmbH",
+    "address": "Bajuwarenring 19\n82041 Oberhaching\nDeutschland",
+    "phone": "017664738675",
+    "email": "dataprotection@immowert.de",
+    "web": "https://www.immowert.de",
+    "sources": [
+        "https://www.immowert.de/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/2833"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
