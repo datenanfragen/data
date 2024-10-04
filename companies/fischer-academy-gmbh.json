@@ -1,0 +1,15 @@
+{
+    "slug": "fischer-academy-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Fischer Academy GmbH",
+    "address": "c./o. HCONSULT GmbH\ni.P. Lisa Hoyer\nBahnhofsplatz 15\n07545 Gera\nDeutschland",
+    "phone": "+49 365 835587321",
+    "email": "info@hconsult.info",
+    "sources": [
+        "https://www.fischer-academy.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2846"
+    ],
+    "quality": "verified"
+}
