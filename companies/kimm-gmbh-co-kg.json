@@ -1,0 +1,15 @@
+{
+    "slug": "kimm-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Kimm GmbH & Co. KG",
+    "address": "Riedfeld 6\n99189 Elxleben\nDeutschland",
+    "phone": "+49 36201 630",
+    "email": "info@kimm-baustoffe.de",
+    "sources": [
+        "https://kimm-baustoffe.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2850"
+    ],
+    "quality": "verified"
+}
