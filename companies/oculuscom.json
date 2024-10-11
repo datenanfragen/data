@@ -16,6 +16,7 @@
         "Facebook Technologies Ireland Limited (formerly)"
     ],
     "address": "Merrion Road\nDublin 4\nD04 X2K5\nIreland",
+    "phone": "+353 1 443 4342",
     "fax": "+353 1 653 0737",
     "email": "privacy@support.oculus.com",
     "webform": "https://www.facebook.com/help/contact/540977946302970",
@@ -24,7 +25,8 @@
         "https://www.oculus.com/legal/privacy-policy/",
         "https://www.oculus.com/legal/about-us/",
         "https://github.com/datenanfragen/data/issues/609",
-        "https://www.facebook.com/help/contact/330586388297523"
+        "https://www.facebook.com/help/contact/330586388297523",
+        "https://github.com/datenanfragen/data/pull/2861"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
