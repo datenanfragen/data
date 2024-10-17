@@ -1,0 +1,17 @@
+{
+    "slug": "rohner",
+    "relevant-countries": [
+        "de",
+        "ch"
+    ],
+    "name": "Rohner Direktpartner, Hans Rohner",
+    "address": "In der Hinterzelg 2\n8700 Küsnacht ZH\nSchweiz",
+    "phone": "+41 79 833 32 11",
+    "email": "office@rohner.biz",
+    "web": "http://www.rohner.biz/",
+    "sources": [
+        "Impressum / Datenanfrage",
+        "https://github.com/datenanfragen/data/pull/2865"
+    ],
+    "quality": "verified"
+}
