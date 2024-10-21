@@ -1,19 +1,20 @@
 {
     "slug": "baur-versand",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
-    "name": "Baur Versand GmbH & Co. KG",
-    "address": "96222 Burgkunstadt\nDeutschland",
-    "phone": "+49 95 72 91 0",
-    "email": "service@baur.de",
+    "name": "Niklos Patrick",
+    "address": "Warum kann ich keine raten Zahlungen mehr machen\n\nMit freundlichen Grüßen \n\nPatrick niklos",
+    "phone": "+49 9572 910",
+    "email": "niklospatrick@gmail.com",
     "web": "https://www.baur.de/",
     "sources": [
         "https://www.baur.de/service-hilfe/ueber-uns/datenschutz/datenschutzhinweis/",
-        "https://www.baur.de/service-hilfe/ueber-uns/impressum/"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.baur.de/service-hilfe/ueber-uns/impressum/",
+        "https://github.com/datenanfragen/data/pull/2869"
     ],
     "quality": "verified"
 }
