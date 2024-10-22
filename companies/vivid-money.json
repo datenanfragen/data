@@ -1,20 +1,18 @@
 {
     "slug": "vivid-money",
     "relevant-countries": [
-        "de",
-        "fr",
-        "es",
-        "it"
+        "de"
     ],
     "categories": [
         "finance"
     ],
     "name": "Vivid Money GmbH",
-    "address": "Kemperplatz 1\n10785 Berlin\nDeutschland",
+    "address": "Jürgen-Rolf Kessler\nHolzheimer Str. 30  \n35510 Butzbach\n\nIST VERSTORBEN DAHER KEINE WERBUNG MEHR!!!!!!",
     "email": "privacy@vivid.money",
     "web": "https://vivid.money/",
     "sources": [
-        "https://website-static.vivid.money/static/legal-docs/de-de/privacy-policy.pdf"
+        "https://website-static.vivid.money/static/legal-docs/de-de/privacy-policy.pdf",
+        "https://github.com/datenanfragen/data/pull/2872"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
