@@ -26,7 +26,8 @@
         "borreliose-infektionskrankheiten.de",
         "bilder-hochladen.tv",
         "fotosverkleinern.de",
-        "mietpreisermittlung.de"
+        "mietpreisermittlung.de",
+        "tagesaktuelleangebote.de"
     ],
     "address": "Pfaffenweg 15\n53227 Bonn\nDeutschland",
     "phone": "+49 228 688203105",
@@ -53,7 +54,8 @@
         "https://www.borreliose-infektionskrankheiten.de/datenschutz/",
         "https://www.bilder-hochladen.tv/page/datenschutz",
         "https://www.fotosverkleinern.de/datenschutz.php",
-        "https://www.mietpreisermittlung.de/datenschutz/"
+        "https://www.mietpreisermittlung.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2875"
     ],
     "required-elements": [
         {
@@ -65,7 +67,6 @@
             "type": "address"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
