@@ -18,8 +18,7 @@
     ],
     "address": "Rheinstraße 99\n76532 Baden-Baden\nDeutschland",
     "phone": "+49 7221 7793300",
-    "email": "DACH-BDN-data-information@experian.com",
-    "webform": "https://www.experian.de/selbstauskunft/online-formular-selbstauskunft",
+    "email": "rm-data-information@arvato.com",
     "web": "https://www.experian.de/",
     "sources": [
         "https://www.experian.de/legal/datenschutz",
@@ -27,7 +26,7 @@
         "https://www.experian.de/legal/impressum",
         "https://github.com/datenanfragen/data/issues/100",
         "https://github.com/datenanfragen/data/issues/637",
-        "https://github.com/datenanfragen/data/pull/2201"
+        "https://github.com/datenanfragen/data/pull/2883"
     ],
     "required-elements": [
         {
@@ -44,9 +43,9 @@
             "optional": true
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
+        "Webformular für Anfragen: https://www.experian.de/selbstauskunft/online-formular-selbstauskunft",
         "Erbitten Anschriften der letzten fünf Jahre für vollständigere Auskunft."
     ],
     "quality": "verified"
