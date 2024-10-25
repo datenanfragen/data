@@ -1,0 +1,11 @@
+{
+    "slug": "lebt-backend-noch",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "lebt backend noch?",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2882"
+    ]
+}
