@@ -2,7 +2,6 @@
     "slug": "datenschutzbuero",
     "relevant-countries": [
         "de",
-        "ch",
         "at",
         "fr",
         "it",
@@ -14,8 +13,6 @@
     ],
     "name": "Galaxus Deutschland GmbH",
     "runs": [
-        "digitec.ch",
-        "galaxus.ch",
         "galaxus.de",
         "galaxus.at",
         "galaxus.fr",
@@ -24,7 +21,6 @@
         "galaxus.be"
     ],
     "address": "Hoheluftchausssee 18\n20253 Hamburg\nGermany",
-    "phone": "+49 40 334614747",
     "email": "datenschutz@galaxus.de",
     "web": "https://www.galaxus.de",
     "sources": [
