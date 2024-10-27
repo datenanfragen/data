@@ -20,8 +20,10 @@
     "sources": [
         "https://okfn.de/impressum/#datenschutzerkl%C3%A4rung",
         "https://github.com/datenanfragen/data/issues/197",
-        "https://github.com/datenanfragen/data/pull/2736"
+        "https://github.com/datenanfragen/data/pull/2736",
+        "https://fragdenstaat.de/datenschutzerklaerung/"
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
