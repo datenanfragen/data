@@ -19,13 +19,18 @@
     ],
     "required-elements": [
         {
-            "desc": "Kundennummer ",
+            "desc": "Kundennummer",
             "type": "input",
             "optional": false
         },
         {
-            "desc": "Vertragsnummer ",
+            "desc": "Vertragsnummer",
             "type": "input",
+            "optional": true
+        },
+        {
+            "desc": "Name",
+            "type": "name",
             "optional": true
         }
     ],
