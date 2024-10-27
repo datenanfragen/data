@@ -4,12 +4,13 @@
         "all"
     ],
     "name": "DeepL SE",
-    "address": "c./o. dhpg IT-Services GmbH,\nBunsenstr. 10a,\n51647 Gummersbach\nDeutschland",
+    "address": "c./o. dhpg IT-Services GmbH\nBunsenstr. 10a\n51647 Gummersbach\nDeutschland",
     "phone": "+49 2261 81950",
     "email": "datenschutz@dhpg.de",
     "sources": [
         "https://www.deepl.com/de/privacy",
         "https://github.com/datenanfragen/data/pull/2855"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
