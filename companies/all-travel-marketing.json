@@ -11,11 +11,13 @@
     "runs": [
         "Travel Media Network GmbH"
     ],
-    "address": "Maarstr. 84\n53227 Bonn\nDeutschland",
+    "address": "Am Telegraph 26\n53773 Hennef\nDeutschland",
     "sources": [
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1657423&land_abk=nw",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1828661&land_abk=nw",
-        "https://github.com/datenanfragen/data/pull/1707"
+        "https://github.com/datenanfragen/data/pull/1707",
+        "https://www.northdata.de/?id=6249550862090240",
+        "https://github.com/datenanfragen/data/pull/2891"
     ],
     "quality": "verified"
 }
