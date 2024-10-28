@@ -19,28 +19,28 @@
     "phone": "+49 228 1820",
     "fax": "+49 228 1827099",
     "email": "datenschutz@dpdhl.com",
+    "webform": "https://www.deutschepost.de/datenschutz/kontakt",
     "web": "https://www.deutschepost.de",
     "sources": [
         "https://shop.deutschepost.de/shop/infocenter/datenschutz.jsp",
+        "https://www.deutschepost.de/de/f/footer/datenschutz.html",
         "https://www.deutschepost.de/de/f/footer/impressum.html",
         "https://www.dhl.de/de/toolbar/footer/datenschutz.html",
         "https://www.dhl.de/de/toolbar/footer/impressum/vertragspartner-impressum.html",
         "http://www.dpdhl.com/reports/2010/zwischenbericht-q3/files/pdf/5.pdf",
-        "https://github.com/datenanfragen/data/pull/1697"
+        "https://github.com/datenanfragen/data/pull/1697",
+        "https://github.com/datenanfragen/data/pull/2889"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
