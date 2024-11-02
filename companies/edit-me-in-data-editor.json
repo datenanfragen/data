@@ -1,0 +1,12 @@
+{
+    "slug": "edit-me-in-data-editor",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "edit me in data-editor :)",
+    "address": "but also, kindly delete me plz",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2893"
+    ]
+}
