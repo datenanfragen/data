@@ -1,0 +1,11 @@
+{
+    "slug": "let-s-try-this-again",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "let's try this again!",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2894"
+    ]
+}
