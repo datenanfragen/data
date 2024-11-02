@@ -22,7 +22,12 @@
     ],
     "required-elements": [
         {
-            "type": "email"
+            "type": "email",
+            "desc": "E-Mail Adresse"
+        },
+        {
+            "desc": "Name",
+            "type": "name"
         }
     ],
     "suggested-transport-medium": "email",
