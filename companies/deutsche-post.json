@@ -13,12 +13,14 @@
         "DHL (dhl.de, paket.de)",
         "DHL Express",
         "DHL Packstation",
-        "Internetmarke / Portokasse (internetmarke.de, portokasse.deutschepost.de)"
+        "Internetmarke / Portokasse (internetmarke.de, portokasse.deutschepost.de)",
+        "DHL Packstation (packstation.de)"
     ],
     "address": "53250 Bonn\nDeutschland",
     "phone": "+49 228 1820",
     "fax": "+49 228 1827099",
     "email": "datenschutz@dpdhl.com",
+    "webform": "https://www.deutschepost.de/datenschutz/kontakt",
     "web": "https://www.deutschepost.de",
     "sources": [
         "https://shop.deutschepost.de/shop/infocenter/datenschutz.jsp",
@@ -32,11 +34,13 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
+            "type": "address",
+            "optional": false
         }
     ],
     "suggested-transport-medium": "email",
