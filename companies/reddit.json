@@ -12,7 +12,7 @@
         "Reddit UK Limited"
     ],
     "address": "Euro Business Center\nKeizersgracht 62\n1015CS Amsterdam\nThe Netherlands",
-    "webform": "https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=360001370251",
+    "webform": "https://www.reddit.com/settings/data-request",
     "web": "https://www.reddit.com/",
     "sources": [
         "https://www.reddit.com/policies/privacy-policy",
@@ -31,6 +31,6 @@
         }
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
