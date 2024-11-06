@@ -3,9 +3,13 @@
     "relevant-countries": [
         "de"
     ],
+    "categories": [
+        "commerce"
+    ],
     "name": "Samsung Electronics GmbH",
-    "address": "Samsung House\nAm Kronberger Hang 6\n65824 Schwalbach / Ts.\nDeutschland",
+    "address": "Samsung House\n2000 Hillswood Drive\nChertsey, Surrey KT16 0RS\nUnited Kingdom",
     "email": "dataprotection.seg@samsung.com",
+    "web": "https://www.samsung.com/de/apps/samsung-pay/",
     "sources": [
         "https://images.samsung.com/is/content/samsung/assets/de/mobile/samsung_pay_de_pn.pdf",
         "https://github.com/datenanfragen/data/pull/2640"
