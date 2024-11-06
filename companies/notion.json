@@ -4,13 +4,13 @@
         "all"
     ],
     "categories": [
-        "utility"
+        "telecommunication"
     ],
     "name": "Notion Labs, Inc.",
     "runs": [
         "Notion"
     ],
-    "address": "2300 Harrison Street \nSan Francisco, CA 94110 \nUnited States",
+    "address": "2300 Harrison Street\nSan Francisco, CA 94110\nUnited States",
     "email": "team@makenotion.com",
     "web": "https://notion.so",
     "sources": [
