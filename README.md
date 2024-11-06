@@ -39,6 +39,7 @@ The `company-packs` folder contains bundles of related companies that are releva
 Finally, the `supervisory-authorities` folder contains data on supervisory data protection authorities. They are structured similarly to the company records, following the schema in the `schema-supervisory-authorities.json` file.
 
 All JSON files must end with exactly one newline. All string fields in records must be trimmed (i.e. not have any leading or trailing whitespace).
+Only use regular ASCII spaces, no non-breaking spaces and the like.
 
 ## Company records
 

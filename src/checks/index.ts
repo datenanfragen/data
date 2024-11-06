@@ -9,6 +9,7 @@ import passRecordSchemaCheck from './record/pass-schema';
 import suggestedMediumExistsCheck from './record/suggested-medium-exists';
 import trimAddressLinesCheck from './record/trim-address-lines';
 import trimStringFieldsCheck from './record/trim-string-fields';
+import unusualWhitespaceCheck from './record/unusual-whitespace';
 
 import customTemplateExistenceCheck from './company/custom-template-existence';
 import nameInRequiredElementsCheck from './company/name-in-required-elements';
@@ -33,6 +34,7 @@ const linters = {
             suggestedMediumExistsCheck,
             trimAddressLinesCheck,
             trimStringFieldsCheck,
+            unusualWhitespaceCheck,
         ] as Check[],
         url: 'https://github.com/datenanfragen/data/blob/master/src/checks/record',
         path_filter: (path: string) => path.startsWith('companies/') || path.startsWith('supervisory-authorities/'),
