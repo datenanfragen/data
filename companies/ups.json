@@ -1,26 +1,25 @@
 {
     "slug": "ups",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
         "commerce"
     ],
-    "name": "United Parcel Service Deutschland S.à r.l. & Co. OHG",
+    "name": "UPS Europe SA",
     "runs": [
         "UPS Paketdienst",
         "UPS My Choice"
     ],
-    "address": "c/o UPS Europa SA\nAve Ariane 5\n1200 Brussel\nBelgium",
-    "phone": "+49 69 66405060",
-    "email": "CustomerServiceDEDE@ups.com",
-    "webform": "https://www.ups.com/upsemail/input?privacy=true&loc=de_DE",
+    "address": "Ave Ariane 5\n1200 Brussels\nBelgium",
+    "email": "germandpo@ups.com",
+    "webform": "https://privacyportal.onetrust.com/webform/cff9470e-ab7d-4e8a-8a45-14391b299f19/f3f16aeb-9070-4a81-816c-7b20e5ebd65a",
     "web": "https://www.ups.com",
     "sources": [
-        "https://www.ups.com/de/de/help-center/legal-terms-conditions/privacy-notice.page?",
-        "https://www.ups.com/de/de/help-center/contact.page",
+        "https://www.ups.com/de/de/help-center/legal-terms-conditions/privacy-notice.page",
         "https://www.ups.com/assets/resources/webcontent/de_DE/UPS_EEA_Controllers_List.pdf",
-        "https://www.ups.com/de/de/support/contact-us.page"
+        "https://github.com/datenanfragen/data/pull/2913"
     ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
