@@ -1,12 +1,11 @@
 {
-    "slug": "deepl-se",
+    "slug": "deepl",
     "relevant-countries": [
         "all"
     ],
     "name": "DeepL SE",
-    "address": "c./o. dhpg IT-Services GmbH\nBunsenstr. 10a\n51647 Gummersbach\nDeutschland",
-    "phone": "+49 2261 81950",
-    "email": "datenschutz@dhpg.de",
+    "address": "Maarweg 165\n50825 Cologne\nGermany",
+    "email": "privacy@deepl.com",
     "sources": [
         "https://www.deepl.com/de/privacy",
         "https://github.com/datenanfragen/data/pull/2855"
