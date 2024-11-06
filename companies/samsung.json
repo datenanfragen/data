@@ -12,19 +12,9 @@
     "webform": "https://www.samsung.com/request-desk/",
     "web": "https://www.samsung.com/",
     "sources": [
-        "https://www.samsung.com/de/info/privacy/",
+        "https://www.samsung.com/uk/info/privacy/",
         "https://github.com/datenanfragen/data/pull/2440",
         "https://github.com/datenanfragen/data/pull/2842"
-    ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name"
-        },
-        {
-            "desc": "E-Mail",
-            "type": "email"
-        }
     ],
     "suggested-transport-medium": "webform",
     "quality": "verified"
