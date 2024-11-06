@@ -7,13 +7,14 @@
         "political party"
     ],
     "name": "„Alternative für Deutschland“ (AfD)",
-    "address": "Schillstraße 9\n10785 Berlin\nDeutschland",
-    "phone": "+49 30 220 56 96 0",
+    "address": "Eichhorster Weg 80\n13435 Berlin\nDeutschland",
+    "phone": "+49 30 22023000",
     "email": "datenschutz@afd.de",
     "web": "https://www.afd.de",
     "sources": [
         "https://github.com/datenanfragen/data/issues/150",
-        "https://www.afd.de/datenschutzhinweise/"
+        "https://www.afd.de/datenschutzhinweise/",
+        "https://github.com/datenanfragen/data/pull/2910"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
