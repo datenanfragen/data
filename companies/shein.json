@@ -12,12 +12,14 @@
         "Roadget Business Pte. Ltd."
     ],
     "address": "757 S. Alameda St., Suite 340\nLos Angeles, CA 90021\nUnited States of America",
+    "phone": "0622097902",
     "email": "privacy@sheingroup.com",
     "web": "https://www.shein.com/",
     "sources": [
         "https://fr.shein.com/Privacy-Security-Policy-a-282.html",
         "https://play.google.com/store/apps/details?id=com.zzkko",
-        "https://github.com/datenanfragen/data/pull/2363"
+        "https://github.com/datenanfragen/data/pull/2363",
+        "https://github.com/datenanfragen/data/pull/2903"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
