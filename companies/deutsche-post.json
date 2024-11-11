@@ -14,7 +14,8 @@
         "DHL Express",
         "DHL Packstation",
         "Internetmarke / Portokasse (internetmarke.de, portokasse.deutschepost.de)",
-        "DHL Packstation (packstation.de)"
+        "DHL Packstation (packstation.de)",
+        "POSTIDENT"
     ],
     "address": "53250 Bonn\nDeutschland",
     "phone": "+49 228 1820",
@@ -29,18 +30,17 @@
         "https://www.dhl.de/de/toolbar/footer/impressum/vertragspartner-impressum.html",
         "http://www.dpdhl.com/reports/2010/zwischenbericht-q3/files/pdf/5.pdf",
         "https://github.com/datenanfragen/data/pull/1697",
-        "https://github.com/datenanfragen/data/pull/2890"
+        "https://github.com/datenanfragen/data/pull/2890",
+        "https://github.com/datenanfragen/data/pull/2918"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
     "suggested-transport-medium": "email",
