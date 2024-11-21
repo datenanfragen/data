@@ -1,0 +1,22 @@
+{
+    "slug": "toogoodtogo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [],
+    "name": "Too Good To Go ApS",
+    "address": "Landskronagade 66\n2100 København Ø\nDenmark",
+    "email": "privacy@toogoodtogo.com",
+    "webform": "https://space.toogoodtogo.com/privacy",
+    "web": "https://www.toogoodtogo.com",
+    "sources": [
+        "https://www.toogoodtogo.com/privacy",
+        "https://github.com/datenanfragen/data/pull/2929"
+    ],
+    "required-elements": [
+        {
+            "type": "input"
+        }
+    ],
+    "quality": "verified"
+}
