@@ -17,6 +17,7 @@
         "https://adagio.io/privacy",
         "https://github.com/datenanfragen/data/pull/2926"
     ],
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
