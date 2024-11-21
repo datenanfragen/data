@@ -1,0 +1,26 @@
+{
+    "slug": "radissonhotels",
+    "relevant-countries": [
+        "de",
+        "be",
+        "dk",
+        "fr",
+        "ie",
+        "it",
+        "lv",
+        "nl",
+        "no",
+        "ch",
+        "es",
+        "hu"
+    ],
+    "name": "Radisson Hotel Group",
+    "address": "Radisson Hospitality Belgium SRL\nRadisson Loyalty Management SRL\n\nAvenue du Bourget 44\n1130 Brüssel\nBelgien",
+    "email": "dataprotection@radissonhotels.com",
+    "web": "https://www.radissonhotels.com",
+    "sources": [
+        "https://www.radissonhotels.com/de-de/datenschutz/druckbar",
+        "https://github.com/datenanfragen/data/pull/2931"
+    ],
+    "quality": "verified"
+}
