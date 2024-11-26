@@ -18,7 +18,9 @@
         "https://www.barmer.de/ueber-diese-website/impressum-1003148"
     ],
     "required-elements": [
-        "desc": "Krankenkassennummer"
+        {
+            "desc": "Krankenkassennummer"
+        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
