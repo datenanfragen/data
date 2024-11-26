@@ -19,7 +19,8 @@
     ],
     "required-elements": [
         {
-            "desc": "Krankenkassennummer"
+            "desc": "Krankenkassennummer",
+            "type": "input"
         }
     ],
     "suggested-transport-medium": "email",
