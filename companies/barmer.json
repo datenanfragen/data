@@ -17,6 +17,9 @@
         "https://www.barmer.de/consent/bestmoeglicher-schutz-fuer-ihre-daten-1003830",
         "https://www.barmer.de/ueber-diese-website/impressum-1003148"
     ],
+    "required-elements": [
+        "desc": "Krankenkassennummer"
+    ],
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
