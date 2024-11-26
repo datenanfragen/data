@@ -24,6 +24,7 @@
         "https://pubmatic.com/legal/dsr-notice/",
         "https://github.com/datenanfragen/data/pull/2935"
     ],
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
