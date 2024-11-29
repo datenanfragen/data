@@ -1,5 +1,5 @@
 {
-    "slug": "yoc",
+    "slug": "yoc-ag",
     "relevant-countries": [
         "all"
     ],
@@ -7,7 +7,6 @@
         "ads"
     ],
     "name": "YOC AG",
-    "address": "Greifswalder Str. 212 \n10405 Berlin\n Germany",
     "phone": "+49 30 7261620",
     "fax": "+49 30 726162222",
     "email": "privacy@yoc.com",
@@ -16,6 +15,8 @@
         "https://yoc.com/privacy",
         "https://github.com/datenanfragen/data/pull/2937"
     ],
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "address": "Greifswalder Str. 212\n10405 Berlin\nGermany"
 }
