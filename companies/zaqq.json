@@ -1,0 +1,18 @@
+{
+    "slug": "zaqq",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "ZAQQ GmbH",
+    "address": "Ernst Thälmann Str. 11\n06686 Lützen",
+    "web": "https://www.zaqq.de",
+    "sources": [
+        "https://www.zaqq.de/policies/legal-notice",
+        "https://github.com/datenanfragen/data/pull/2922"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
