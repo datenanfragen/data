@@ -1,0 +1,18 @@
+{
+    "slug": "knowunity",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Knowunity",
+    "address": "Julie-Wolfthorn-Straße 1\n10115 Berlin\nDeutschland",
+    "email": "datenschutz@heydata.eu",
+    "sources": [
+        "https://knowunity.de/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/2729"
+    ],
+    "quality": "verified"
+}
