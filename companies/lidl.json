@@ -1,25 +1,21 @@
 {
     "slug": "lidl",
-    "categories": [
-        "commerce"
-    ],
-    "name": "Lidl Digital International GmbH & Co. KG",
-    "runs": [
-        "Lidl Online-Shop (lidl-shop.de)"
-    ],
-    "address": "Stiftsbergstraße 1\n74172 Neckarsulm\nDeutschland",
-    "phone": "+49 800 43 53 361",
-    "fax": "+49 33055 200 331",
-    "email": "datenschutz@lidl-shop.de",
-    "web": "https://www.lidl.de/",
-    "sources": [
-        "https://www.lidl.de/de/datenschutz/s21",
-        "https://www.lidl.de/de/impressum/s5",
-        "https://www.lidl.de/de/gesetzliche-zusatzinformationen/s9"
-    ],
     "relevant-countries": [
         "de"
     ],
-    "suggested-transport-medium": "email",
+    "categories": [
+        "commerce"
+    ],
+    "name": "Lidl (Filialgeschäft)",
+    "address": "Lidl Vertriebs-GmbH & Co. KG",
+    "email": "datenschutzbeauftragter@lidl.de",
+    "web": "https://www.lidl.de",
+    "sources": [
+        "https://www.lidl.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2394"
+    ],
+    "comments": [
+        "Bei der verantwortlichen Stelle handelt es sich um die jeweilige Lidl Vertriebs-GmbH & Co. KG. Die Kontaktdaten sind dem Aushang in der Filiale zu entnehmen oder kann beim Kundenservice unter kontakt@lidl.de erfragt werden."
+    ],
     "quality": "verified"
 }
