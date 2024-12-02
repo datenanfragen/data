@@ -1,0 +1,22 @@
+{
+    "slug": "finanz-affiliate",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Finanz-Affiliate Marketing GmbH",
+    "address": "Pfaffenweg Ι5\n53227 Bonn\nDeutschland",
+    "phone": "0228-688203-600",
+    "fax": "0228-688203-610",
+    "email": "info@finanz-affiliate.de",
+    "webform": "https://www.finanz-affiliate.de/impressum.html",
+    "web": "https://www.finanz-affiliate.de",
+    "sources": [
+        "https://www.finanz-affiliate.de/impressum.html",
+        "https://github.com/datenanfragen/data/pull/2876"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
