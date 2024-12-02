@@ -1,0 +1,18 @@
+{
+    "slug": "shimano",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Shimano",
+    "address": "3-77 Oimatsu-cho, \nSakai-ku, Sakai City\nOsaka 590-8577,\nJapan",
+    "email": "privacy@shimano-eu.com.",
+    "sources": [
+        "https://www.shimano.com/en/privacypolicy.html",
+        "https://bike.shimano.com/de-DE/e-tube/project/formobile/imprint.html",
+        "https://github.com/datenanfragen/data/pull/2726"
+    ],
+    "quality": "verified"
+}
