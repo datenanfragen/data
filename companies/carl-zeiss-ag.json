@@ -1,0 +1,20 @@
+{
+    "slug": "carl-zeiss-ag",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Carl Zeiss AG",
+    "runs": [
+        "ZEISS Gruppe"
+    ],
+    "address": "Carl-Zeiss-Straße 22\n73447 Oberkochen\nDeutschland",
+    "phone": "+49 7364 200",
+    "email": "dataprivacy@zeiss.com",
+    "webform": "https://www.zeiss.de/datenschutz/kontakt.html",
+    "sources": [
+        "https://www.zeiss.de/datenschutz/home.html?vaURL=www.zeiss.de/privacy#controller",
+        "https://github.com/datenanfragen/data/pull/2801"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
