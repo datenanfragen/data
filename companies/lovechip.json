@@ -1,0 +1,23 @@
+{
+    "slug": "lovechip",
+    "relevant-countries": [
+        "at",
+        "de",
+        "gb",
+        "fr",
+        "it",
+        "si"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "LoveChip Semiconductor Co., Limited",
+    "address": "HO KING COMM CTR, 2-16 FA YUEN ST, MONGKOK KOWLOON\nHONG KONG",
+    "email": "info@lovechip.com",
+    "web": "https://www.lovechip.com/",
+    "sources": [
+        "https://www.lovechip.com/about",
+        "https://github.com/datenanfragen/data/pull/2692"
+    ],
+    "quality": "verified"
+}
