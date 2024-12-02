@@ -1,0 +1,18 @@
+{
+    "slug": "gemeinde-unfallversicherungsverband-hannover-die-landesunfallkasse-niedersachsen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Gemeinde-Unfallversicherungsverband Hannover/die Landesunfallkasse Niedersachsen",
+    "address": "Am Mittelfelde 169\n30519 Hannover\nDeutschland",
+    "phone": "+49 511 8707418",
+    "email": "datenschutz@guvh.de",
+    "sources": [
+        "https://www.lukn.de/datenschutz.php",
+        "https://github.com/datenanfragen/data/pull/2760"
+    ],
+    "quality": "verified"
+}
