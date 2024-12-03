@@ -13,8 +13,12 @@
     "sources": [
         "https://adguard-dns.io/en/privacy.html",
         "https://adguard.com/en/privacy.html",
-        "https://github.com/datenanfragen/data/pull/2557"
+        "https://github.com/datenanfragen/data/pull/2557",
+        "https://github.com/datenanfragen/data/pull/2941"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Finde kein Impressum auf deren Seite"
+    ],
     "quality": "verified"
 }
