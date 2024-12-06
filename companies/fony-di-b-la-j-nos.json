@@ -1,0 +1,28 @@
+{
+    "slug": "fony-di-b-la-j-nos",
+    "relevant-countries": [
+        "hu",
+        "hu"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Fonyódi Béla János",
+    "runs": [
+        "fonyodi.bjanos@gmail.com"
+    ],
+    "address": "Magyarország 6300. Kalocsa Dózsa György út 108.",
+    "phone": "+36 30 270 7808",
+    "email": "fonyodi.bjanos@gmail.com",
+    "required-elements": [
+        {
+            "type": "birthdate",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2943"
+    ]
+}
