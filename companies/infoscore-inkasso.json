@@ -6,20 +6,22 @@
     "categories": [
         "collection agency"
     ],
-    "name": "Paigo GmbH",
+    "name": "Riverty Services GmbH",
     "runs": [
         "infoscore Forderungsmanagement GmbH (ehem.)",
-        "BFS risk & collection GmbH (ehem.)"
+        "BFS risk & collection GmbH (ehem.)",
+        "Paigo GmbH (ehem.)"
     ],
     "address": "Gütersloher Straße 123\n33401 Verl\nDeutschland",
-    "fax": "+49 5246 905 5000",
-    "email": "datenschutzbeauftragter@paigo.com",
+    "fax": "+49 5246 9055000",
+    "email": "info@riverty.com",
     "web": "https://www.inkassoportal.de/",
     "sources": [
         "https://inkassoportal.de/de-de/datenschutz",
         "https://paigo.com/de-de/impressum",
         "https://github.com/datenanfragen/data/issues/43",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1839336&land_abk=nw"
+        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1839336&land_abk=nw",
+        "https://www.riverty.com/de/impressum/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
