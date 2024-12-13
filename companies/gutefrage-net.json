@@ -25,12 +25,12 @@
     ],
     "required-elements": [
         {
-            "desc": "E-Mail",
-            "type": "email"
+            "desc": "Nutzername",
+            "type": "name"
         },
         {
-            "desc": "Nutzername",
-            "type": "textarea"
+            "desc": "E-Mail",
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "email",
