@@ -10,20 +10,14 @@
     "runs": [
         "Malteser Deutschland gGmbH"
     ],
-    "address": "Erna-Scheffler-Straße 2\n51103 Köln",
+    "address": "Erna-Scheffler-Straße 2\n51103 Köln\nDeutschland",
     "phone": "+49 221 98220",
     "email": "datenschutz@malteser.org",
-    "webform": "https://www.malteser.de/datenschutz.html",
     "web": "https://www.malteser.de/",
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name"
-        }
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2657",
+        "https://www.malteser.de/datenschutz.html"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "sources": [
-        "https://github.com/datenanfragen/data/pull/2657"
-    ]
+    "quality": "verified"
 }
