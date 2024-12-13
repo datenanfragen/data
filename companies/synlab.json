@@ -13,7 +13,7 @@
     "web": "https://www.synlab.de",
     "sources": [
         "https://www.synlab.de/datenschutz",
-        "https://www.synlab.de/fileadmin/pdf/rechtliche-hinweise/patienteninformation-personenbezogene-daten-datenschutz.pdf",
+        "https://www.synlab.de/impressum",
         "https://github.com/datenanfragen/data/pull/2642"
     ],
     "required-elements": [
