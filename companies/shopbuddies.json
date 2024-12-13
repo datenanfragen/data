@@ -2,34 +2,32 @@
     "slug": "shopbuddies",
     "relevant-countries": [
         "de",
-        "ch"
+        "nl",
+        "es",
+        "fr",
+        "it",
+        "be"
     ],
-    "name": "Woolsocks AG",
-    "runs": [
-        "ShopBuddies",
-        "BudgetBakers",
-        "GoCancel",
-        "BROKR Ltd.",
-        "Scoupy"
-    ],
-    "address": "Neustadtstrasse 7\n6003 Lucerne\nSwitzerland\n\nWoolsocks A.G.\nFranzösische\nNiederlassung, 38 rue des Mathurins, 75008 Paris, Frankreich, RCS Paris",
+    "name": "ShopBuddies",
+    "address": "c/o Woolsocks A.G.\nFrench branch\n38 rue des Mathurins\n75008 Paris\nFrance",
     "email": "privacy@woolsocks.eu",
     "web": "https://shopbuddies.de/",
     "sources": [
-        "https://shopbuddies.de/legal-center",
-        "https://shopbuddies.de/legal/ag/Woolsocks-AG_Privacy-and-Cookie-Statement_DE_v1.7.pdf",
+        "https://shopbuddies.de/legal/ag/Woolsocks-AG_Privacy-and-Cookie-Statement_DE_v2.0.pdf",
+        "https://shopbuddies.nl/legal/ag/Woolsocks-AG_Privacy-and-Cookie-Statement_NL_v2.0.pdf",
+        "https://shopbuddies.es/legal/ag/Woolsocks-AG_Privacy-and-Cookie-Statement_ES_v2.0.pdf",
+        "https://shopbuddies.fr/legal/ag/Woolsocks-AG_Privacy-and-Cookie-Statement_FR_v2.0.pdf",
+        "https://shopbuddies.it/legal/ag/Woolsocks-AG_Privacy-and-Cookie-Statement_IT_v2.0.pdf",
+        "https://shopbuddies.be/legal/ag/Woolsocks-AG_Privacy-and-Cookie-Statement_NL_v2.0.pdf",
         "https://github.com/datenanfragen/data/pull/2647"
     ],
     "required-elements": [
         {
             "desc": "E-Mail",
-            "type": "email",
+            "type": "name",
             "optional": false
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Alternative e-mail: eurepresentative@woolsocks.eu"
-    ],
     "quality": "verified"
 }
