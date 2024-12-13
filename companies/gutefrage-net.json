@@ -20,7 +20,18 @@
     "email": "anfragen@projekt29.de",
     "sources": [
         "https://www.gutefrage.net/datenschutz",
-        "https://github.com/datenanfragen/data/pull/1712"
+        "https://github.com/datenanfragen/data/pull/1712",
+        "https://github.com/datenanfragen/data/pull/2739"
+    ],
+    "required-elements": [
+        {
+            "desc": "Nutzername",
+            "type": "name"
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
