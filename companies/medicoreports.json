@@ -6,17 +6,17 @@
     "categories": [
         "health"
     ],
-    "name": "Medico Reports",
+    "name": "Medqon Limited",
     "runs": [
-        "Medico legal report is a medical review of a patient in case of a personal injury requested by an insurance company/ solicitor in order to gain expert testimony in support of the cause and nature of patient's injury. When instructed by a client, the most appropriate medical expert witness from our network is selected to prepare the report considering their specialism, location and experience so they can best aid the litigation process."
+        "Medico Reports"
     ],
-    "address": "medqon ltd 435 london road, Sheffield, S2 4HJ, United Kingdom",
-    "phone": "03300010805",
-    "email": "info@medicoreports.com",
+    "address": "Alison Business Centre\n39-40 Alison Crescent\nSheffield\nS2 1AS\nUnited Kingdom",
+    "phone": "+44 330 001 0805",
+    "email": "info@medqon.co.uk",
     "web": "https://medicoreports.com/",
-    "suggested-transport-medium": "webform",
-    "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/2636"
-    ]
+        "https://github.com/datenanfragen/data/pull/2636",
+        "https://medicoreports.com/privacy-policy/"
+    ],
+    "quality": "verified"
 }
