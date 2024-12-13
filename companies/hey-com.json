@@ -7,22 +7,15 @@
         "telecommunication"
     ],
     "name": "HEYCOM GmbH & Co. KG",
-    "address": "Neulehenstr. 8c\n33790 Halle (Westf.)",
-    "phone": "05201 1804100",
-    "fax": "05201 18041023",
+    "address": "Neulehenstr. 8c\n33790 Halle (Westf.)\nDeutschland",
+    "phone": "+49 5201 1804100",
+    "fax": "+49 5201 18041023",
     "email": "info@hey-com.de",
-    "webform": "https://www.hey-com.de/index.php/de/kontakt/anfrage-zu-vertrag",
     "web": "https://www.hey-com.de/",
     "sources": [
+        "https://www.hey-com.de/index.php/de/datenschutz",
         "https://www.hey-com.de/index.php/de/impressum",
         "https://github.com/datenanfragen/data/pull/2641"
     ],
-    "required-elements": [
-        {
-            "type": "birthdate",
-            "optional": false
-        }
-    ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
