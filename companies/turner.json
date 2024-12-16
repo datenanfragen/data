@@ -1,21 +1,24 @@
 {
     "slug": "turner",
     "relevant-countries": [
+        "all",
         "all"
     ],
     "categories": [
-        "entertainment"
+        "telecommunication"
     ],
     "name": "Turner Broadcasting System Europe Ltd.",
     "runs": [
         "CNN (edition.cnn.com)",
         "Cartoon Network (www.cartoonnetworkhq.com)",
         "Boomerang (www.boomeranghq.net)",
-        "Turner Broadcasting System, Inc."
+        "Turner Broadcasting System, Inc.",
+        "Tooncast"
     ],
     "address": "Turner House\n16 Great Marlborough Street\nLondon\nW1F 7HS\nUnited Kingdom",
     "phone": "+1 404 827 1700",
     "email": "EMEA.privacy@turner.com",
+    "webform": "Good evening, I am leaving you the following communication, we kindly ask you to please return the broadcasts of your Christmas specials from December 17 to 25 and December 24 and 25 for 48 hours for these December holidays, starting with this list:",
     "web": "http://www.turner.com/",
     "sources": [
         "http://www.turner.com/locations",
@@ -23,12 +26,14 @@
         "https://edition.cnn.com/privacy1",
         "https://www.turner.com/contact-us",
         "https://www.cartoonnetworkhq.com/privacy-policy",
-        "http://www.boomeranghq.net"
+        "http://www.boomeranghq.net",
+        "https://github.com/datenanfragen/data/pull/2953"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
     "comments": [
-        "Address of Turner Broadcasting System, Inc.: 1050 Techwood Drive NW, Atlanta, GA 30318, United States of America."
+        "Address of Turner Broadcasting System, Inc.: 1050 Techwood Drive NW, Atlanta, GA 30318, United States of America.",
+        "Good evening, I leave you the following statement, we kindly ask you to please return the broadcasts on your Latin American channels Cartoon Network and Tooncast of your Christmas specials from December 17 to 25 and on December 24 and 25 for 48 hours starting with this list: Animaniacs Wakko Wish, all episodes and movies of the flintstones, the jetson,Bugs Bunny's Looney Christmas Tales, Bah, Humduck! A Looney Tunes Christmas, The Looney Tunes Show A Christmas Carol,\nFoster's Home for Imaginary Friends, Lazlo Camp, The grim adventures of billy and mandy, KND, Im weasel, Jhonny Bravo, Casper's First Christmas, A Christmas Story, Yogi's First Christmas, Animaniacs Plot Plotz and the little drummer warner, a pinky and the brain Christmas from 1995, Dexter's Lab, Power Puff girls Twas the Fight Before Christmas; among others from 1950 to 2006 please, we beg you, thank you very much for your attention."
     ],
     "quality": "verified"
 }
