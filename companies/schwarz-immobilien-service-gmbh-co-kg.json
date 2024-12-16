@@ -1,0 +1,16 @@
+{
+    "slug": "schwarz-immobilien-service-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Schwarz Immobilien Service GmbH & Co. KG",
+    "address": "Datenschutzbeauftragter\nStiftsbergstraße 1 \n74172 Neckarsulm",
+    "email": "datenschutz@mail.schwarz",
+    "sources": [
+        "https://immobilien.schwarz/datenschutz",
+        "https://rosenberg-quartier.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2927"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
