@@ -14,6 +14,7 @@
         "https://privacy-center.sharethrough.com/en/consumer-privacy-notice/",
         "https://github.com/datenanfragen/data/pull/2954"
     ],
+    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
