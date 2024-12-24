@@ -3,11 +3,21 @@
     "relevant-countries": [
         "gb"
     ],
-    "name": "Official-Sensitive Ltd.",
-    "address": "Postal Point 428\nManchester\nM8 2FS\nUnited Kingdom",
+    "name": "Official-Sensitive",
+    "runs": [
+        "Official-Sensitive Secure eMail Network",
+        "Official-Sensitive Protective DNS Network",
+        "JusticeNet"
+    ],
+    "address": "Suite 633\nPostal Point 440\nManchester\nM8 2GG",
+    "phone": "+44 161 552 0712",
+    "email": "administrator@official-sensitive.ch",
+    "web": "https://www.official-sensitive.uk",
     "sources": [
         "https://ico.org.uk/ESDWebPages/Entry/ZB494428",
-        "https://github.com/datenanfragen/data/pull/2112"
+        "https://github.com/datenanfragen/data/pull/2112",
+        "https://github.com/datenanfragen/data/pull/2961"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
