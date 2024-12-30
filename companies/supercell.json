@@ -18,15 +18,19 @@
     "email": "legal-requests@supercell.com",
     "web": "https://supercell.com",
     "sources": [
-        "https://supercell.com/en/privacy-policy/"
+        "https://supercell.com/en/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/2963"
     ],
     "required-elements": [
         {
             "desc": "Email",
             "type": "name",
-            "optional": false
+            "optional": true
         }
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "I would like you to change tjat people can write pffensive stuff about your mother cause some player (Id:2GP900VGY) insulted my mother"
+    ],
     "quality": "verified"
 }
