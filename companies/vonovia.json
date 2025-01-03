@@ -1,22 +1,26 @@
 {
     "slug": "vonovia",
+    "relevant-countries": [
+        "de"
+    ],
     "name": "Vonovia SE",
     "runs": [
         "Vonovia Kundenservice GmbH"
     ],
     "address": "Philippstraße 3\n44803 Bochum\nDeutschland",
-    "phone": "+49 234 314 0",
-    "fax": "+49 234 314 888 4414",
+    "phone": "+49 234 3140",
+    "fax": "+49 234 3148884414",
     "email": "datenschutz@vonovia.de",
     "web": "https://www.vonovia.de/",
     "sources": [
         "https://www.vonovia.de/datenschutz",
         "https://www.vonovia.de/impressum",
-        "https://github.com/datenanfragen/data/issues/14"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://github.com/datenanfragen/data/issues/14",
+        "https://github.com/datenanfragen/data/pull/2965"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "My name is Aliyou sirleaf i live in Lüneburg bei der keulah Hütte 4 \nMy friend ismailibrahimismail321@gmail.com that stay in this Apartment at the Adresse Theodor Heuss Straße 4 Lüneburg Wohnung 9,have another room free by February,i speak with him and he agreed ...thats my Email..Lasanasirleaf53@gmail.com. And my +49152850596"
+    ],
     "quality": "verified"
 }
