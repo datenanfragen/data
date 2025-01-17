@@ -1,0 +1,40 @@
+{
+    "slug": "shijigroup",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel",
+        "commerce"
+    ],
+    "name": "Shiji Group",
+    "runs": [
+        "Shiji Payment Solutions",
+        "Shiji ReviewPro",
+        "Shiji Digital Stay",
+        "Shiji Digital PayBy",
+        "SnapShot"
+    ],
+    "address": "Shiji EU Data Protection Officer\nShiji Poland Sp. z o.o.\nChorzowska 148\n40-101 Katowice, Poland",
+    "email": "dpo@shijigroup.com",
+    "web": "https://www.shijigroup.com/",
+    "sources": [
+        "https://www.shijigroup.com/privacy-policy"
+    ],
+    "required-elements": [
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Betreibt für diverse Hotelketten die Buchungs-, Zahlungs- und Kundenmanagementlösungen in der Cloud als zentralen Dienst"
+    ],
+    "quality": "verified"
+}
