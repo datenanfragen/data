@@ -1,0 +1,37 @@
+{
+    "slug": "xandrie",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "XANDRIE",
+    "runs": [
+        "Qobuz"
+    ],
+    "address": "Service juridique\n45 rue de Delizy\n93692 Pantin CEDEX\nFrance",
+    "web": "http://www.xandrie.com/en/",
+    "sources": [
+        "https://www.qobuz.com/de-de/discover/legals/privacy",
+        "https://annuaire-entreprises.data.gouv.fr/entreprise/xandrie-749983029",
+        "https://github.com/datenanfragen/data/pull/2982"
+    ],
+    "required-elements": [
+        {
+            "desc": "Vollständiger Name",
+            "type": "name",
+            "optional": false
+        },
+        {
+            "desc": "Adresse",
+            "type": "address",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "letter",
+    "comments": [
+        "E-Mail funktioniert derzeit nicht, weil qobuz' mailserver falsch konfiguriert sind."
+    ],
+    "quality": "verified"
+}
