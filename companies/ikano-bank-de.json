@@ -8,26 +8,25 @@
         "finance"
     ],
     "name": "Ikano Bank AB - Zweigniederlassung Deutschland",
-    "address": "Otto von Guericke Ring 15\n65205 Wiesbaden\nDeutschland",
+    "address": "Wettinerstraße 5\n65189 Wiesbaden\nDeutschland",
     "phone": "+49 6122 9990",
-    "fax": "+49 6122 999313",
+    "fax": "+49 6122 999799",
     "email": "kontakt@ikano.de",
     "web": "https://ikanobank.de",
     "sources": [
         "https://ikanobank.de/impressum",
         "https://ikanobank.de/service/sicherheit?tab=3",
-        "https://github.com/datenanfragen/data/pull/1056"
+        "https://github.com/datenanfragen/data/pull/1056",
+        "https://github.com/datenanfragen/data/pull/2981"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Email",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
     "quality": "verified"
