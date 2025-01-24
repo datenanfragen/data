@@ -1,0 +1,21 @@
+{
+    "slug": "kasinobonus",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Matti Slotte",
+    "address": "Maljalahdenkatu 25, 70100 Kuopio,",
+    "email": "info@kasinobonus.io",
+    "web": "https://kasinobonus.io/de/",
+    "sources": [
+        "https://platform.tracxn.com/a/d/livedeal/cyql711BJtsCpsdnYH18IBNHxGl7oXLgzAHdvfyW8J4/KasinobonusIO/details",
+        "https://orcid.org/0009-0007-2889-1713",
+        "https://www.trustpilot.com/review/kasinobonus.io",
+        "https://github.com/datenanfragen/data/pull/2985"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
