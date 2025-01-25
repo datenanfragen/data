@@ -1,0 +1,25 @@
+{
+    "slug": "vendomnia",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "vendomnia",
+    "runs": [
+        "Balkonkraftwerk"
+    ],
+    "address": "Germany, Honer Str. 49, 37269 Eschwege, Germany\nHoner Str. 49, 37269 Eschwege, Germany",
+    "phone": "056519919158",
+    "fax": "056519919158",
+    "email": "jackharryvendom@gmail.com",
+    "webform": "https://vendomnia.com/balkonkraftwerk/",
+    "web": "https://vendomnia.com/balkonkraftwerk/",
+    "sources": [
+        "Google",
+        "https://github.com/datenanfragen/data/pull/2986"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
