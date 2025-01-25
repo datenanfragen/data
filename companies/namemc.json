@@ -1,0 +1,21 @@
+{
+    "slug": "namemc",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "credit agency"
+    ],
+    "name": "NameMC",
+    "address": "-",
+    "email": "contact@namemc.com",
+    "webform": "https://de.namemc.com/login?&redirect=%2Fmy-profile%2Fnames",
+    "web": "https://namemc.com",
+    "sources": [
+        "https://de.namemc.com/",
+        "https://de.namemc.com/privacy",
+        "https://github.com/datenanfragen/data/pull/2988"
+    ],
+    "quality": "verified"
+}
