@@ -1,19 +1,11 @@
 {
     "slug": "adobe",
     "relevant-countries": [
-        "all"
+        "de"
     ],
     "name": "Adobe Systems Software Ireland Ltd.",
     "runs": [
-        "Adobe Systems Inc.",
-        "Behance (www.behance.net)",
-        "Creative Cloud",
-        "Document Cloud",
-        "Adobe-ID",
-        "Adobe Analytics",
-        "Demdex",
-        "Adobe Audience Manager",
-        "Omniture"
+        "Kündigung"
     ],
     "address": "4–6 Riverwalk\nCity West Business Campus\nDublin 24\nIreland",
     "phone": "+353 1 242 6700",
@@ -21,18 +13,13 @@
     "email": "dpo@adobe.com",
     "web": "https://www.adobe.com",
     "sources": [
-        "https://www.adobe.com/privacy/policy.html",
-        "https://www.adobe.com/legal/terms.html",
-        "https://www.adobe.com/de/about-adobe/impressum.html",
-        "https://github.com/datenanfragen/data/issues/531",
-        "https://www.adobe.com/analytics/audience-manager.html",
-        "https://reports.exodus-privacy.eu.org/en/trackers/40/",
-        "https://www.bounteous.com/insights/2019/09/19/omniture-adobe-analytics-ten-years-after/"
+        "Kündigung",
+        "https://github.com/datenanfragen/data/pull/2987"
     ],
     "required-elements": [
         {
-            "desc": "Name",
-            "type": "name"
+            "desc": "Ludwig Bayer",
+            "type": "address"
         },
         {
             "desc": "E-Mail",
