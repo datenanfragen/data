@@ -1,7 +1,7 @@
 {
     "slug": "mtch-technology",
     "relevant-countries": [
-        "all"
+        "de"
     ],
     "categories": [
         "social media"
@@ -14,7 +14,11 @@
     "email": "support@okcupid.com",
     "web": "https://www.okcupid.com",
     "sources": [
-        "https://www.okcupid.com/legal/privacy"
+        "https://www.okcupid.com/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/3003"
+    ],
+    "comments": [
+        "Die Privacy-Seite ist nicht erreichbar. Anscheinend hat sich die Adresse geändert. Die Hauptseite von Okcupid verweist auf https://okcupid-app.zendesk.com/hc/de/articles/22780694078491-Datenschutzbestimmungen"
     ],
     "quality": "verified"
 }
