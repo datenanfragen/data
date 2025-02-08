@@ -23,13 +23,16 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
+            "type": "address",
+            "optional": false
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
         "Achtung: Faxnummer ist kostenpflichtig (€ 0,09/Min. aus dem dt. Festnetz, Mobilfunk max. € 0,42/Min.)!"
