@@ -1,17 +1,17 @@
 {
     "slug": "mtch-technology",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
         "social media"
     ],
-    "name": "OkCupid",
+    "name": "MTCH Technology Services Limited",
     "runs": [
-        "Humor Rainbow, Inc."
+        "OkCupid"
     ],
-    "address": "c/o MTCH Technology Services Ltd.\nBlock D, Iveagh Court\nHarcourt Road\nDublin 2\nIreland",
-    "email": "support@okcupid.com",
+    "address": "1 Hatch Street Upper\nDublin 2\nD02 PY28\nIreland",
+    "webform": "https://okcupid-app.zendesk.com/hc/en-us/requests/new",
     "web": "https://www.okcupid.com",
     "sources": [
         "https://www.okcupid.com/legal/privacy",
