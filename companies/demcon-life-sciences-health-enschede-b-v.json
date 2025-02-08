@@ -3,8 +3,16 @@
     "relevant-countries": [
         "nl"
     ],
-    "name": "DEMCON life sciences & health Enschede B.V.",
-    "address": "Institutenweg 25 7521 PH, Enschede, Overijssel Netherlands",
+    "categories": [
+        "health"
+    ],
+    "name": "DEMCON management & support B.V.",
+    "runs": [
+        "Demcon life sciences & health "
+    ],
+    "address": "Institutenweg 25\n7521 PH Enschede\nThe Netherlands",
+    "phone": "+31 88 115 2000",
+    "email": "privacy@demcon.com",
     "sources": [
         "https://www.kvk.nl/bestellen/#/06070325000017692695",
         "https://github.com/datenanfragen/data/pull/2654"
