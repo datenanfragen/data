@@ -7,7 +7,7 @@
         "credit agency"
     ],
     "name": "Datarade GmbH",
-    "address": "Mollstr. 32,\n10249 Berlin\nGermany",
+    "address": "Mollstr. 32\n10249 Berlin\nGermany",
     "phone": "+49 30 31198087",
     "email": "privacy@datarade.ai",
     "web": "https://datarade.ai/",
@@ -16,5 +16,6 @@
         "https://datarade.ai/company/legal-notice",
         "https://github.com/datenanfragen/data/pull/2690"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
