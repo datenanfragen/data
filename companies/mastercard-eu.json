@@ -19,8 +19,5 @@
         "https://github.com/datenanfragen/data/pull/3000"
     ],
     "suggested-transport-medium": "webform",
-    "comments": [
-        "Antwort bei Anfrage an Email (privacyanddataprotection@mastercard.com):\n\nBetreff (Aktenzeichen ersetzt mit *): << Ref:******* >> {EXTERNAL} Anfrage bzgl. Auskunft gemäß Art. 15 DSGVO (Mein Zeichen: 2025-*******)\n\nText:\nDear Sir or Madam,\n\nThank you for contacting Mastercard.\n\nMastercard respects your privacy and will address your request promptly.\n\nPlease submit your request to My Data here [\"here\" ist ein Hyperlink zu: https://www.mastercard.us/public/my-data/gdp-public/index.html?locale=en-gb#_blank]. My Data is a simple, secure and easy-to-use portal, created for individuals to exercise privacy rights in relation to the personal information we hold about you. On My Data, you will be able to submit data requests, obtain the status of your requests and have them fulfilled in a timely manner. \n\nIf you are an agent or authorized party acting on behalf of another individual, you may also submit your request concerning that individual on My Data. When you submit the request, you will be prompted to choose whether you are placing a request for yourself or on behalf of another person. Select “On behalf of a person” and complete the registration process.\n\nSincerely,\n\nMastercard"
-    ],
     "quality": "verified"
 }
