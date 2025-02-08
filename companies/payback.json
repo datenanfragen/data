@@ -29,11 +29,13 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Kundenummer",
-            "type": "input"
+            "type": "input",
+            "optional": false
         },
         {
             "desc": "Adresse",
