@@ -1,12 +1,12 @@
 {
-    "slug": "procter-gamble-p-g",
+    "slug": "pg-de",
     "relevant-countries": [
-        "all"
+        "de"
     ],
     "categories": [
         "commerce"
     ],
-    "name": "Procter & Gamble (P&G)",
+    "name": "Procter & Gamble Service GmbH",
     "runs": [
         "Pampers",
         "Ariel",
@@ -31,5 +31,6 @@
         "https://privacypolicy.pg.com/de-DE/",
         "https://github.com/datenanfragen/data/pull/2790"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
