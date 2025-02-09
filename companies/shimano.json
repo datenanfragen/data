@@ -6,12 +6,12 @@
     "categories": [
         "commerce"
     ],
-    "name": "Shimano",
-    "address": "3-77 Oimatsu-cho, \nSakai-ku, Sakai City\nOsaka 590-8577,\nJapan",
-    "email": "privacy@shimano-eu.com.",
+    "name": "Shimano Europe B.V.",
+    "address": "High Tech Campus 92\n5656 AG Eindhoven\nThe Netherlands",
+    "email": "privacy@shimano-eu.com",
+    "web": "https://www.shimano.com/en",
     "sources": [
         "https://www.shimano.com/en/privacypolicy.html",
-        "https://bike.shimano.com/de-DE/e-tube/project/formobile/imprint.html",
         "https://github.com/datenanfragen/data/pull/2726"
     ],
     "quality": "verified"
