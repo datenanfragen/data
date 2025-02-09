@@ -6,8 +6,11 @@
     "categories": [
         "social media"
     ],
-    "name": "Only Fans",
-    "address": "DAPR sp. z oo\nPolen Firmennummer 0000688178\nZurawia 47 Straße\n00-680 Warschau, Polen",
+    "name": "Fenix International Limited",
+    "runs": [
+        "OnlyFans"
+    ],
+    "address": "c/o DAPR sp. z oo\nZurawia 47 Street\n00-680 Warsaw\nPoland",
     "email": "privacy@onlyfans.com",
     "sources": [
         "https://onlyfans.com/privacy",
