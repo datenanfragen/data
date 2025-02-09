@@ -1,0 +1,20 @@
+{
+    "slug": "many-electronics-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Many Electronics GmbH",
+    "runs": [
+        "dubaro"
+    ],
+    "address": "Am Schimmershof 7\n40880 Ratingen\nDeutschland",
+    "email": "info@keyed.de",
+    "sources": [
+        "https://www.dubaro.de/Privatsphaere-und-Datenschutz:_:2.html",
+        "https://github.com/datenanfragen/data/pull/2751"
+    ],
+    "quality": "verified"
+}
