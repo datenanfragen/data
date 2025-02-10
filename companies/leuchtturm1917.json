@@ -7,14 +7,20 @@
         "commerce"
     ],
     "name": "LEUCHTTURM GRUPPE GMBH & CO. KG",
+    "runs": [
+        "LEUCHTTURM1917™"
+    ],
     "address": "c/o BullProtect, eine Marke der NetBull GmbH\nPatrick Vaillant\nBirkenweg 48\n35435 Wettenberg\nDeutschland",
     "phone": "+49 4152 8010",
     "fax": "+49 4152 801222",
-    "email": "datenschutz@leuchtturm1917.de",
-    "web": "https://www.leuchtturm1917.de/",
+    "email": "datenschutz@leuchtturm.de",
+    "web": "https://www.leuchtturm.de/",
     "sources": [
         "https://www.leuchtturm1917.de/datenschutz/",
-        "https://github.com/datenanfragen/data/pull/2536"
+        "https://github.com/datenanfragen/data/pull/2536",
+        "https://www.leuchtturm.de/datenschutz/",
+        "https://www.leuchtturm1917.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/2993"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
