@@ -1,0 +1,14 @@
+{
+    "slug": "urban-sports-club-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Urban Sports Club GmbH",
+    "address": "Urban Sports Club GmbH\nVoltairestraße 10\n10179 Berlin, Deutschland",
+    "email": "datenschutz@urbansportsclub.com",
+    "sources": [
+        "https://urbansportsclub.com/de/privacy-de",
+        "https://github.com/datenanfragen/data/pull/3012"
+    ],
+    "quality": "verified"
+}
