@@ -1,0 +1,19 @@
+{
+    "slug": "headmatch-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Headmatch GmbH & Co. KG",
+    "runs": [
+        "Headmatch Interim GmbH",
+        "Headmatch Verwaltungsgesellschaft mbH"
+    ],
+    "address": "Georgenstraße 24\n10117 Berlin",
+    "email": "ferdinand.walter@headmatch.de",
+    "sources": [
+        "https://www.headmatch.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3022"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
