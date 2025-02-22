@@ -1,7 +1,7 @@
 {
     "slug": "oculuscom",
     "relevant-countries": [
-        "all"
+        "fr"
     ],
     "categories": [
         "entertainment",
@@ -24,7 +24,8 @@
         "https://www.oculus.com/legal/about-us/",
         "https://github.com/datenanfragen/data/issues/609",
         "https://www.facebook.com/help/contact/330586388297523",
-        "https://github.com/datenanfragen/data/pull/2999"
+        "https://github.com/datenanfragen/data/pull/2999",
+        "https://github.com/datenanfragen/data/pull/3023"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
