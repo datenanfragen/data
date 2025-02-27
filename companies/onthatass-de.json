@@ -1,5 +1,8 @@
 {
     "slug": "onthatass-de",
+    "relevant-countries": [
+        "fr"
+    ],
     "categories": [
         "commerce"
     ],
@@ -10,10 +13,8 @@
     "web": "https://onthatass.com/de-de/",
     "sources": [
         "https://onthatass.com/de-de/imprint",
-        "https://github.com/datenanfragen/data/pull/1969"
+        "https://github.com/datenanfragen/data/pull/1969",
+        "https://github.com/datenanfragen/data/pull/3027"
     ],
-    "quality": "verified",
-    "relevant-countries": [
-        "de"
-    ]
+    "quality": "verified"
 }
