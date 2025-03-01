@@ -1,0 +1,23 @@
+{
+    "slug": "goto",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "GoTo Technologies Ireland Unlimited Company",
+    "runs": [
+        "LogMeIn"
+    ],
+    "address": "Legal and Privacy Team\nGoTo\nThe Reflector\n10 Hanover Quay\nDublin 2\nD02R573\nIreland",
+    "email": "privacy@goto.com",
+    "webform": "https://privacyportal.onetrust.com/webform/e7308dd3-b090-4f6a-822b-df7ed5e567e4/191e6154-2276-4186-a982-edc617305fe4",
+    "web": "https://www.goto.com",
+    "sources": [
+        "https://www.goto.de/company/rechtliches/datenschutz/mitteilung-zum-rechtsrahmen-fur-den-datenschutz",
+        "https://www.goto.de/company/rechtliches/datenschutz/us",
+        "https://github.com/datenanfragen/data/pull/3030"
+    ],
+    "quality": "verified"
+}
