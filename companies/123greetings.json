@@ -6,17 +6,15 @@
     "categories": [
         "entertainment"
     ],
-    "name": "123Greetings.com Inc.",
+    "name": "chicken-road",
     "address": "255 Executive Drive, Suite 400\nPlainview New York 11803\nUnited States of America",
     "fax": "+1 212 202 4738",
-    "email": "privacy@123greetings-inc.com",
-    "web": "https://www.123greetings.com",
+    "email": "rarixe2728@dwriters.com",
+    "web": "https://chicken-road-spiel.de/",
     "sources": [
-        "https://www.123greetings.com/privacy_policy.html",
-        "https://www.123greetings.com/terms_of_use.html",
-        "https://github.com/datenanfragen/data/pull/1025"
+        "https://chicken-road-spiel.de/",
+        "https://github.com/datenanfragen/data/pull/3038"
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
