@@ -8,14 +8,14 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Gamblizard.de",
-    "address": "Börsenstrasse 2-4, \n5th Floor Frankfurt 60313, \nGermany.",
-    "email": "info@gamblizard.de",
-    "web": "https://gamblizard.de/casinos/lemon-casino-boni-und-freispiele/",
+    "name": "Gamblizard",
+    "address": "Börsenstrasse 2-4\n5th Floor\nFrankfurt 60313\nGermany",
+    "email": "support@gamblizard.de",
     "sources": [
-        "https://gamblizard.de/uber-uns/",
+        "https://gamblizard.de/datenschutzrichtlinie/",
         "https://github.com/datenanfragen/data/pull/2676"
     ],
     "suggested-transport-medium": "webform",
-    "quality": "verified"
+    "quality": "verified",
+    "nsfw": true
 }
