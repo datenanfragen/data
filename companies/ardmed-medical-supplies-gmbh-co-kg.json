@@ -4,11 +4,13 @@
         "de"
     ],
     "categories": [
-        "commerce"
+        "commerce",
+        "health"
     ],
     "name": "ARDMED Medical Supplies GmbH & Co. KG",
     "address": "Breite Str. 10\n40677 Meerbusch\nDeutschland",
     "email": "service@ardmed.de",
+    "web": "https://www.ardmed.de",
     "sources": [
         "https://www.ardmed.de/Datenschutz",
         "https://github.com/datenanfragen/data/pull/2713"
