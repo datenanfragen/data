@@ -7,9 +7,6 @@
         "utility"
     ],
     "name": "SWE Stadtwerke Erfurt GmbH",
-    "runs": [
-        "EVAG Erfurt"
-    ],
     "address": "Magdeburger Alle 34\n99086 Erfurt\nDeutschland",
     "phone": "+49 361 5640",
     "fax": "+49 361 5642054",
