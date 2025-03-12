@@ -4,18 +4,18 @@
         "de"
     ],
     "categories": [
-        "school"
+        "school",
+        "health"
     ],
     "name": "Werde-Lebensretter UG",
-    "address": "Steinweg 1,\n59494 Soest",
-    "phone": "02921/9331140",
+    "address": "Steinweg 1\n59494 Soest\nDeutschland",
+    "phone": "+49 2921 6850702",
     "email": "Jonathan@werde-lebensretter.com",
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Ist meine eigene Frima. Wir legen großen wert auf Datenschutz."
-    ],
-    "quality": "verified",
+    "web": "https://www.werde-lebensretter.com",
     "sources": [
+        "https://www.werde-lebensretter.com/datenschutzerklarung/",
+        "https://www.werde-lebensretter.com/impressum/",
         "https://github.com/datenanfragen/data/pull/2696"
-    ]
+    ],
+    "quality": "verified"
 }
