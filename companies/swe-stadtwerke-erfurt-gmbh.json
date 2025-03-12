@@ -10,13 +10,14 @@
     "runs": [
         "EVAG Erfurt"
     ],
-    "address": "SWE Stadtwerke Erfurt GmbH\nMagdeburger Alle 34\n99086 Erfurt, \nDeutschland",
+    "address": "Magdeburger Alle 34\n99086 Erfurt\nDeutschland",
     "phone": "+49 361 5640",
     "fax": "+49 361 5642054",
-    "email": "info@stadtwerke-erfurt.de",
+    "email": "datenschutz@stadtwerke-erfurt.de",
     "sources": [
         "https://www.stadtwerke-erfurt.de/pb/die_swe/die+swe/unternehmen/datenschutz",
         "https://github.com/datenanfragen/data/pull/2716"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
