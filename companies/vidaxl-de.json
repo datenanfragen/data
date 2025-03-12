@@ -1,13 +1,10 @@
 {
-    "slug": "vidaxl",
-    "relevant-countries": [
-        "de"
-    ],
+    "slug": "vidaxl-de",
     "categories": [
         "commerce"
     ],
     "name": "vidaXL marketplace Europe B.V.",
-    "address": "Mary Kingsleystraat 1\n5928 SK Venlo, Limburg\nNederland",
+    "address": "Mary Kingsleystraat 1\n5928 SK Venlo, Limburg\nThe Netherlands",
     "email": "webservice@vidaXL.de",
     "web": "https://www.vidaxl.de/",
     "sources": [
@@ -16,5 +13,8 @@
         "https://github.com/datenanfragen/data/pull/2670"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "relevant-countries": [
+        "de"
+    ]
 }
