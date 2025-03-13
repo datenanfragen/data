@@ -1,0 +1,19 @@
+{
+    "slug": "gruppe-pierre-vacances-center-parcs",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Gruppe PIERRE & VACANCES—CENTER PARCS",
+    "runs": [],
+    "address": "Postfach 10 06 33\n50446 Köln",
+    "email": "mail@contactariane.com",
+    "webform": "https://contactariane.centerparcs.de/",
+    "sources": [
+        "https://www.centerparcs.de/",
+        "https://github.com/datenanfragen/data/pull/3042"
+    ],
+    "quality": "verified"
+}
