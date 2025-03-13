@@ -1,18 +1,20 @@
 {
-    "slug": "amboss-gmbh",
+    "slug": "amboss-se",
     "relevant-countries": [
         "all"
     ],
     "categories": [
-        "school"
+        "school",
+        "health"
     ],
-    "name": "Amboss GmbH",
-    "address": "Torstrasse 19\n10119 Berlin, \nDeutschland",
+    "name": "AMBOSS SE",
+    "address": "Torstrasse 19\n10119 Berlin\nDeutschland",
     "phone": "+49 30 57702210",
     "email": "privacy@amboss.com",
     "sources": [
         "https://www.amboss.com/de/de-legal/datenschutz",
         "https://github.com/datenanfragen/data/pull/2741"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
