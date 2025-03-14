@@ -11,13 +11,14 @@
     "runs": [
         "HAPPYCAR UG (haftungsbeschränkt)"
     ],
-    "address": "Am Sandtorkai 48\n20457 Hamburg\nDeutschland",
-    "phone": "+49 40 40 11 92 18",
-    "email": "datenschutz@happycar.de",
+    "address": "c/o Protekto Gruppe\nWendenstraße 279\n20537 Hamburg\nDeutschland",
+    "phone": "+49 40 42236924",
+    "email": "datenschutz@protekto.de",
     "web": "https://www.happycar.de/",
     "sources": [
         "https://www.happycar.de/datenschutz",
-        "https://www.happycar.de/impressum"
+        "https://www.happycar.de/impressum",
+        "https://github.com/datenanfragen/data/pull/3015"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
