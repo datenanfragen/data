@@ -9,7 +9,7 @@
         "es"
     ],
     "categories": [
-        "finance"
+        "commerce"
     ],
     "name": "Advanzia Bank S.A.",
     "runs": [
@@ -19,13 +19,14 @@
         "Tarjeta YOU (tarjetayou.es)",
         "Advanzia deposit account (www.advanziakonto.com)"
     ],
-    "address": "9, rue Gabriel Lippmann\nParc d'Activité Syrdall 2\nL-5365 Munsbach\nLuxembourg",
-    "phone": "+49 800 880 2120",
+    "address": "9, rue Gabriel Lippmann\nParc d'Activité Syrdall 2\nL-5365 Munsbach\nLuxembourg⁸",
+    "phone": "+49 800 8802120",
     "fax": "+352 26 38 75 69 9",
     "email": "dataprotection@advanzia.com",
     "web": "https://www.advanzia.com",
     "sources": [
-        "https://www.advanzia.com/en-gb/Documents/PrivacyPolicy%28website%29_EN_advanziacorporate.pdf"
+        "https://www.advanzia.com/en-gb/Documents/PrivacyPolicy%28website%29_EN_advanziacorporate.pdf",
+        "https://github.com/datenanfragen/data/pull/2974"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
