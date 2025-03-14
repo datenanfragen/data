@@ -6,12 +6,16 @@
     "categories": [
         "ads"
     ],
-    "name": "AdColony, Inc.",
-    "address": "c/o ePrivacy GmbH\nGroße Bleichen 21\n20354 Hamburg\nGermany",
-    "email": "privacy@adcolony.com",
-    "web": "https://www.adcolony.com/",
+    "name": "Digital Turbine, Inc.",
+    "runs": [
+        "AdColony, Inc. (adcolony.com) (formerly)"
+    ],
+    "address": "110 San Antonio St., Ste 160\nAustin, TX 78701\nUnited States of America",
+    "email": "privacy@digitalturbine.com",
+    "web": "https://www.digitalturbine.com",
     "sources": [
-        "https://www.adcolony.com/privacy-policy/"
+        "https://www.digitalturbine.com/legal/privacy-policy",
+        "https://ir.digitalturbine.com/company-information/faq"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
