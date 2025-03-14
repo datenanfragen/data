@@ -8,13 +8,12 @@
     ],
     "name": "beyerdynamic GmbH & Co. KG",
     "address": "Theresienstraße 8\n74072 Heilbronn\nDeutschland",
-    "phone": "+49 7131 618 76 26",
-    "fax": "+49 7131 617 224",
-    "email": "datenschutz@dominox.de",
+    "email": "dsgvo@trustedshops.de",
     "web": "https://www.beyerdynamic.de/",
     "sources": [
         "https://www.beyerdynamic.de/rechtliche-informationen/datenschutzerklaerung",
-        "https://github.com/datenanfragen/data/pull/861"
+        "https://github.com/datenanfragen/data/pull/861",
+        "https://github.com/datenanfragen/data/pull/2991"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
