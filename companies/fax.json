@@ -11,19 +11,15 @@
         "pc-fax.com",
         "fax.de"
     ],
-    "address": "c/o ZiDa-Datenschutz GmbH\nWaldhofer Str. 102\n69123 Heidelberg\nDeutschland",
-    "phone": "+49 621 30696731",
-    "email": "e.zimmermann@zida-datenschutz.de",
+    "address": "Bei den Kämpen 10\n21220 Seevetal-Ramelsloh\nDeutschland",
+    "phone": "+49 4185 795232",
+    "email": "support@fax.de",
     "web": "https://www.fax.de",
     "sources": [
         "https://www.fax.de/de/datenschutz.html",
         "https://www.pc-fax.com/en/privacy_policy.html",
+        "https://www.fax.de/de/kontakt.html",
         "https://github.com/datenanfragen/data/pull/2018"
-    ],
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Die Kontaktdaten gehören zu einem externen Datenschutzbeauftragten",
-        "Anschrift der Firma:  Bei den Kämpen 10, 21220 Seevetal, Deutschland"
     ],
     "quality": "verified"
 }
