@@ -16,7 +16,6 @@
     "phone": "+1 415 222 9670",
     "fax": "+1 415 222 9958",
     "email": "dpo@twitter.com",
-    "webform": "https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp",
     "web": "https://twitter.com",
     "sources": [
         "https://twitter.com/de/privacy",
@@ -25,8 +24,12 @@
         "https://legal.twitter.com/imprint",
         "https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO",
         "https://www.mopub.com/en/legal/privacy",
-        "https://github.com/datenanfragen/data/pull/2443"
+        "https://github.com/datenanfragen/data/pull/2443",
+        "https://github.com/datenanfragen/data/pull/3055"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "web form no longer works"
+    ],
     "quality": "verified"
 }
