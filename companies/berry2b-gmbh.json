@@ -4,14 +4,17 @@
         "de"
     ],
     "categories": [
-        "social media"
+        "social media",
+        "school"
     ],
     "name": "Berry2b GmbH",
-    "address": "Datenschutz\nVor dem Bardowicker Tore 6a  \n21339 Lüneburg",
+    "address": "Vor dem Bardowicker Tore 6a\n21339 Lüneburg\nDeutschland",
     "email": "datenschutz@berry2b.com",
+    "web": "https://home.berry2b.com/",
     "sources": [
         "https://home.berry2b.com/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2756"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
