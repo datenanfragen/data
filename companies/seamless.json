@@ -1,11 +1,10 @@
 {
     "slug": "seamless",
     "relevant-countries": [
-        "de",
-        "ie"
+        "all"
     ],
     "name": "Seamless.AI",
-    "address": "EU Representative, IT Governance Europe, The Mill Enterprise Hub, Sagreenan, Drogheda, Co. Louth, A92 CD3D\nIreland",
+    "address": "c/o IT Governance Europe\nThe Mill Enterprise Hub\nSagreenan\nDrogheda\nCo. Louth\nA92 CD3D\nIreland",
     "email": "eurep@itgovernance.eu",
     "webform": "https://login.seamless.ai/personalDataRequest",
     "web": "https://seamless.ai",
@@ -13,8 +12,6 @@
         "https://seamless.ai/policies/privacy-policy",
         "https://github.com/datenanfragen/data/pull/3066"
     ],
-    "comments": [
-        "Seamless.AI is Seamless Contacts, Inc., and is located at 7652 Sawmill Road, Suite 341, Dublin, Ohio 43016."
-    ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
