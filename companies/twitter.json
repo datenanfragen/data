@@ -9,24 +9,18 @@
     "name": "Twitter International Unlimited Company",
     "runs": [
         "X Corp. (x.com)",
-        "Periscope",
-        "MoPub"
+        "Periscope"
     ],
     "address": "One Cumberland Place\nFenian Street\nDublin 2\nD02 AX07\nIreland",
-    "phone": "+1 415 222 9670",
     "fax": "+1 415 222 9958",
-    "email": "dpo@twitter.com",
-    "webform": "https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp",
+    "webform": "https://help.x.com/forms/privacy",
     "web": "https://twitter.com",
     "sources": [
-        "https://twitter.com/de/privacy",
         "https://twitter.com/en/privacy",
         "https://legal.twitter.com/de/imprint",
-        "https://legal.twitter.com/imprint",
-        "https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO",
-        "https://www.mopub.com/en/legal/privacy",
-        "https://github.com/datenanfragen/data/pull/2443"
+        "https://www.pscp.tv/privacy",
+        "https://github.com/datenanfragen/data/pull/2443",
+        "https://github.com/datenanfragen/data/pull/3055"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
