@@ -1,0 +1,25 @@
+{
+    "slug": "garmin",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "health",
+        "travel",
+        "utility"
+    ],
+    "name": "Garmin Würzburg GmbH",
+    "runs": [
+        "Garmin Connect"
+    ],
+    "address": "Beethovenstr. 1a\n97080 Würzburg\nDuitsland",
+    "email": "euprivacy@garmin.com",
+    "web": "https://garmin.com",
+    "sources": [
+        "https://www.garmin.com/en-GB/privacy/global/policy/",
+        "https://www.garmin.com/en-GB/privacy/connect/",
+        "https://github.com/datenanfragen/data/pull/2711"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
