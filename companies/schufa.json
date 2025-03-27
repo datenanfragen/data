@@ -13,7 +13,6 @@
     "email": "datenschutz@schufa.de",
     "web": "https://www.schufa.de",
     "sources": [
-        "https://www.meineschufa.de/index.php?site=11_3_1",
         "https://www.schufa.de/de/datenschutz/",
         "https://www.schufa.de/de/impressum/",
         "https://github.com/datenanfragen/data/pull/3031"
@@ -28,6 +27,7 @@
             "type": "address"
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
         "Frühere Adresse nur angeben, wenn sie sich in den letzten 12 Monaten geändert hat.",
