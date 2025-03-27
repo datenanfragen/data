@@ -7,26 +7,28 @@
     "categories": [
         "finance"
     ],
-    "name": "Ikano Bank AB - Zweigniederlassung Deutschland",
+    "name": "Ikano Bank AB (publ), Zweigniederlassung Deutschland",
     "address": "Wettinerstraße 5\n65189 Wiesbaden\nDeutschland",
     "phone": "+49 6122 9990",
-    "fax": "+49 6122 999799",
+    "fax": "+49 6122 999313",
     "email": "kontakt@ikano.de",
     "web": "https://ikanobank.de",
     "sources": [
+        "https://ikanobank.de/kontakt/sicherheit/datenschutz",
         "https://ikanobank.de/impressum",
-        "https://ikanobank.de/service/sicherheit?tab=3",
         "https://github.com/datenanfragen/data/pull/1056",
         "https://github.com/datenanfragen/data/pull/2981"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Email",
-            "type": "email"
+            "type": "email",
+            "optional": false
         }
     ],
     "quality": "verified"
