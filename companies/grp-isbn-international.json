@@ -1,0 +1,23 @@
+{
+    "slug": "grp-isbn-international",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "International ISBN Agency",
+    "address": "48-49 Russell Square\nLondon\nWC1B 4JP\nUnited Kingdom",
+    "phone": "+44 20 7580 8536",
+    "email": "info@isbn-international.org",
+    "web": "https://grp.isbn-international.org/",
+    "sources": [
+        "https://grp.isbn-international.org/",
+        "https://github.com/datenanfragen/data/pull/3034"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "I am trying to get in touch with International ISBN Agency to get my personal information removed. No response from last 2 months.\n\nI obtained ISBN from ISBN agency in India. I signup as a self publisher, I had to provide my ID card personal information which has been published on International ISBN Agency website Global Register of Publishers database. I am not a book publisher, I am an author who have self published books."
+    ],
+    "quality": "verified"
+}
