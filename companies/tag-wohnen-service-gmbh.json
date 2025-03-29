@@ -1,0 +1,17 @@
+{
+    "slug": "tag-wohnen-service-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "TAG Wohnen & Service GmbH",
+    "runs": [
+        "TAG Immobilien AG"
+    ],
+    "address": "c/o DOMUS Consult Wirtschaftsberatungsgesellschaft mbH\nSchornsteinfegergasse 13,\n14482 Potsdam-Babelsberg\nDeutschland",
+    "email": "datenschutz@tag-ag.com",
+    "sources": [
+        "https://tag-wohnen.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2776"
+    ],
+    "quality": "verified"
+}
