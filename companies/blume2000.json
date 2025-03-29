@@ -1,0 +1,15 @@
+{
+    "slug": "blume2000",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "BLUME2000 SE",
+    "address": "BLUME2000 SE\nGutenbergring 53\n22848 Norderstedt\n\nFrau Jennifer Jähn-Nguyen\ndatenschutz nord GmbH\nStandort Hamburg\nSechslingspforte 2\n22087 Hamburg",
+    "phone": "040 / 22636327",
+    "email": "service@blume2000.de",
+    "web": "https://www.blume2000.de/datenschutz",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2909"
+    ]
+}
