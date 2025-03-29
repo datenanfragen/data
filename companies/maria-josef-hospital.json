@@ -1,0 +1,21 @@
+{
+    "slug": "maria-josef-hospital",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Maria-Josef-Hospital Greven",
+    "address": "Lindenstraße 29\n48268 Greven",
+    "phone": "02571/502-0",
+    "fax": "02571/502-16097",
+    "email": "info@mjh-greven.de",
+    "web": "https://www.maria-josef-hospital.de",
+    "sources": [
+        "https://www.maria-josef-hospital.de",
+        "https://github.com/datenanfragen/data/pull/2901"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
