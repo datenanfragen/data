@@ -1,0 +1,15 @@
+{
+    "slug": "ray-sono-ag",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Ray Sono AG",
+    "address": "Tumblingerstraße 32,\n80337 München\nDeutschland",
+    "phone": "+49 89 746460",
+    "email": "datenschutz@raysono.com",
+    "sources": [
+        "https://www.raysono.com/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2816"
+    ],
+    "quality": "verified"
+}
