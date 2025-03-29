@@ -1,0 +1,19 @@
+{
+    "slug": "tasso-haustierregister-f-r-die-bundesrepublik-deutschland-e-v",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "TASSO-Haustierregister für die Bundesrepublik Deutschland e.V.",
+    "runs": [
+        "TASSO e.V."
+    ],
+    "address": "Otto-Volger-Str. 15\n65843 Sulzbach/Ts.\nDeutschland",
+    "phone": "4961 90 93 73 00",
+    "fax": "+49 6190 937400",
+    "email": "datenschutz@tasso.net",
+    "sources": [
+        "https://www.tasso.net/Datenschutz",
+        "https://github.com/datenanfragen/data/pull/2795"
+    ],
+    "quality": "verified"
+}
