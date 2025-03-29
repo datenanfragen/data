@@ -1,0 +1,19 @@
+{
+    "slug": "unfallkasse-brandenburg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Unfallkasse Brandenburg",
+    "address": "Müllroser Chaussee 75\n15236 Frankfurt (Oder)\nDeutschland",
+    "phone": "+49 335 52160",
+    "fax": "+49 335 5216222",
+    "email": "datenschutz@ukbb.de",
+    "sources": [
+        "https://www.ukbb.de/ueber-uns/datenschutz-und-informationspflichten",
+        "https://github.com/datenanfragen/data/pull/2754"
+    ],
+    "quality": "verified"
+}
