@@ -1,0 +1,23 @@
+{
+    "slug": "perfectgym",
+    "relevant-countries": [
+        "de",
+        "all"
+    ],
+    "name": "Perfect Gym Solutions S.A.",
+    "address": "Radosław Aniszczyk\nul. Klimczaka 1, 02-797 Warszawa",
+    "phone": "+48 22 307 34 04",
+    "email": "dpo@perfectgym.com",
+    "web": "https://www.perfectgym.com/",
+    "sources": [
+        "https://www.perfectgym.com/de/privacy-policy",
+        "https://www.perfectgym.com/de/information-obligation",
+        "https://www.perfectgym.com/de/contact",
+        "https://github.com/datenanfragen/data/pull/2834"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "General company adresses seem to be:\n\n\nPerfectGym Solutions S.A.\nKlimczaka 1, Royal Wilanów, Segment E, 4th floor 02-797 \nWarsaw\nPoland\n\nPerfectGym Solutions Pty Ltd.\n1 international Drive\nWestmeadows, VIC, 3049\nAustralia"
+    ],
+    "quality": "verified"
+}
