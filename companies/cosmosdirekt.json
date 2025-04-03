@@ -1,5 +1,8 @@
 {
     "slug": "cosmosdirekt",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "insurance"
     ],
@@ -10,13 +13,13 @@
         "Cosmos Finanzservice GmbH"
     ],
     "address": "66101 Saarbrücken\nDeutschland",
-    "phone": "+49 681 9 66 66 66",
-    "fax": "+49 681 9 66 66 33",
+    "phone": "+49 681 9666666",
     "email": "datenschutz@cosmosdirekt.de",
     "web": "https://www.cosmosdirekt.de/",
     "sources": [
         "https://www.cosmosdirekt.de/datenschutz/",
-        "https://www.cosmosdirekt.de/impressum/"
+        "https://www.cosmosdirekt.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/3069"
     ],
     "required-elements": [
         {
@@ -32,9 +35,9 @@
             "type": "address"
         }
     ],
-    "relevant-countries": [
-        "de"
-    ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Sehr geehrte Damen und Herren, bitte entfernen Sie die Faxnummer von CosmosDirekt. Diese steht weder im Impressum noch in den Datenschutzhinweisen und gewährleistet keine zeitnahe Bearbeitung von Kundenanliegen. Darüber hinaus entspricht der Übermittlungsweg per Fax nicht den Anforderungen an eine sichere Datenübermittlung (\"Postkartenprinzip\"). Vielen Dank"
+    ],
     "quality": "verified"
 }
