@@ -1,7 +1,7 @@
 {
     "slug": "advanzia",
     "relevant-countries": [
-        "de",
+        "all",
         "fr",
         "at",
         "gb",
@@ -9,7 +9,7 @@
         "es"
     ],
     "categories": [
-        "finance"
+        "addresses"
     ],
     "name": "Advanzia Bank S.A.",
     "runs": [
@@ -20,12 +20,13 @@
         "Advanzia deposit account (www.advanziakonto.com)"
     ],
     "address": "9, rue Gabriel Lippmann\nParc d'Activité Syrdall 2\nL-5365 Munsbach\nLuxembourg",
-    "phone": "+49 800 880 2120",
+    "phone": "+49 800 8802120",
     "fax": "+352 26 38 75 69 9",
     "email": "dataprotection@advanzia.com",
     "web": "https://www.advanzia.com",
     "sources": [
-        "https://www.advanzia.com/en-gb/Documents/PrivacyPolicy%28website%29_EN_advanziacorporate.pdf"
+        "https://www.advanzia.com/en-gb/Documents/PrivacyPolicy%28website%29_EN_advanziacorporate.pdf",
+        "https://github.com/datenanfragen/data/pull/3071"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
