@@ -9,13 +9,17 @@
     ],
     "name": "All Travel Marketing GmbH",
     "runs": [
-        "Travel Media Network GmbH"
+        "Travel Media Network GmbH (ehem.)"
     ],
     "address": "Am Telegraph 26\n53773 Hennef\nDeutschland",
+    "email": "datenschutz@all-travel-marketing.de",
     "sources": [
-        "https://www.northdata.de/All%20Travel%20Marketing%20GmbH,%20Hennef/Amtsgericht%20Siegburg%20HRB%2018128",
+        "https://www.all-travel-marketing.de/datenschutz/",
+        "https://www.northdata.de/?id=5965084542",
         "https://github.com/datenanfragen/data/pull/1707",
-        "https://github.com/datenanfragen/data/pull/2891"
+        "https://github.com/datenanfragen/data/pull/2891",
+        "https://github.com/datenanfragen/data/pull/2917"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
