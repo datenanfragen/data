@@ -11,11 +11,13 @@
     "phone": "+32 2 352 51 11",
     "fax": "+32 2 352 58 07",
     "email": "privacyanddataprotection@mastercard.com",
+    "webform": "https://www.mastercard.us/public/my-data/gdp-public/index.html?locale=en-gb#_blank",
     "web": "https://www.mastercard.de",
     "sources": [
         "https://www.mastercard.de/de-de/datenschutz.html",
-        "https://www.mastercard.de/de-de/datenschutz/impressum.html"
+        "https://www.mastercard.de/de-de/datenschutz/impressum.html",
+        "https://github.com/datenanfragen/data/pull/3000"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }

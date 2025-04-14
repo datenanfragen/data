@@ -5,16 +5,17 @@
     ],
     "name": "Redsift Limited",
     "runs": [
-        "OnDMARC",
-        "OnINBOX",
-        "OnDOMAIN"
+        "Red Sift OnDMARC",
+        "Red Sift Brand Trust",
+        "Red Sift Certificates",
+        "Hardenize"
     ],
     "address": "21A Noel Street\nLondon\nW1F 8GR\nUnited Kingdom",
-    "phone": "+44 20 8144 0852",
-    "email": "dpo@redsift.io",
+    "email": "privacy@redsift.io",
     "web": "https://redsift.com",
     "sources": [
-        "https://redsift.com/privacy"
+        "https://redsift.com/privacy",
+        "https://github.com/datenanfragen/data/pull/3008"
     ],
     "required-elements": [
         {

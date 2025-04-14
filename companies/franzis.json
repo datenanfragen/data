@@ -6,7 +6,7 @@
     "categories": [
         "commerce"
     ],
-    "name": "Franzis Verlag GmbH",
+    "name": "FRANZIS GmbH",
     "address": "Richard-Reitzner-Allee 2\n85540 Haar\nDeutschland",
     "phone": "+49 89 255561000",
     "fax": "+49 89 255561696",
@@ -15,7 +15,8 @@
     "sources": [
         "https://www.franzis.de/impressum",
         "https://www.franzis.de/datenschutz",
-        "https://github.com/datenanfragen/data/issues/581"
+        "https://github.com/datenanfragen/data/issues/581",
+        "https://github.com/datenanfragen/data/pull/2928"
     ],
     "required-elements": [
         {
