@@ -1,0 +1,17 @@
+{
+    "slug": "kommunale-wohnungsgesellschaft-mbh-erfurt",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Kommunale Wohnungsgesellschaft mbH Erfurt",
+    "runs": [
+        "KOWO (Erfurt)"
+    ],
+    "address": "c/o externer Datenschutzbeauftragter Ronny Schwanitz\nSchornsteinfegergasse 13\n14482 Potsdam-Babelsberg\nDeutschland",
+    "email": "datenschutz@domusconsult.de",
+    "sources": [
+        "https://kowo.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2777"
+    ],
+    "quality": "verified"
+}
