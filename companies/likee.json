@@ -12,15 +12,17 @@
         "Likee",
         "LIKE Video (formerly)"
     ],
-    "address": "30 Pasir Panjang Road # 15-31A\nMapletree Business City\nSingapore 117440\nRepublic of Singapore",
+    "address": "30 Pasir Panjang Road # 15-31A\nMapletree Business Citylegal@bigo.tv/feedback@bigo.tv\n\nSingapore 117440\nRepublic of Singapore",
     "phone": "+65 6351 9330",
+    "fax": "datenschutz@dance-all-day.com",
     "email": "legal@bigo.tv",
     "web": "https://likee.com",
     "sources": [
         "https://likee.com/privacy",
         "https://github.com/datenanfragen/data/issues/539",
         "https://github.com/datenanfragen/data/pull/771",
-        "https://www.bigo.sg/contact"
+        "https://www.bigo.sg/contact",
+        "https://github.com/datenanfragen/data/pull/3076"
     ],
     "quality": "verified"
 }
