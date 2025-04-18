@@ -1,0 +1,19 @@
+{
+    "slug": "nordth-ringer-volksbank-eg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Nordthüringer Volksbank eG",
+    "address": "Taschenberg 1-2,\n99734 Nordhausen\nDeutschland",
+    "phone": "+49 3631 6550",
+    "fax": "+49 3631 655655",
+    "email": "datenschutz@nordthueringer-volksbank.de",
+    "sources": [
+        "https://www.nordthueringer-volksbank.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.html",
+        "https://github.com/datenanfragen/data/pull/2762"
+    ],
+    "quality": "verified"
+}
