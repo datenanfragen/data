@@ -1,0 +1,18 @@
+{
+    "slug": "z4keys",
+    "relevant-countries": [
+        "gb"
+    ],
+    "name": "Z4Keys",
+    "address": "Mahmoud Sobhi St, Kolia Eladab St, Mansoura, Egypt",
+    "phone": "+20 155 020 6069",
+    "fax": "+20 155 020 6069",
+    "email": "info@z4keys.com",
+    "web": "http://z4keys.com",
+    "sources": [
+        "http://z4keys.com",
+        "https://github.com/datenanfragen/data/pull/3077"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
