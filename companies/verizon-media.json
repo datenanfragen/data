@@ -3,12 +3,6 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "ads",
-        "entertainment",
-        "social media",
-        "telecommunication"
-    ],
     "name": "Yahoo EMEA Limited",
     "runs": [
         "Flurry Mobile App Analytics (www.flurry.com)",
@@ -30,7 +24,8 @@
     "sources": [
         "https://legal.yahoo.com/ie/en/yahoo/privacy/index.html",
         "https://www.yahooinc.com/our-brands/",
-        "https://github.com/datenanfragen/data/pull/2162"
+        "https://github.com/datenanfragen/data/pull/2162",
+        "https://github.com/datenanfragen/data/pull/3079"
     ],
     "quality": "verified"
 }
