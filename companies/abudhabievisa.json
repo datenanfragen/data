@@ -1,0 +1,19 @@
+{
+    "slug": "abudhabievisa",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Abu Dhabi Visa LLC",
+    "address": "London",
+    "email": "social@abudhabievisa.com",
+    "web": "https://www.abudhabievisa.com",
+    "sources": [
+        "Abu Dhabi Visa Services",
+        "https://github.com/datenanfragen/data/pull/3080"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
