@@ -9,6 +9,7 @@
     "name": "Deezer S.A.",
     "address": "24 rue de Calais\n75009 Paris\nFrance",
     "phone": "+33 1 84 25 25 00",
+    "email": "privacy@deezer.com",
     "webform": "https://support.deezer.com/hc/requests/new?ticket_form_id=360000057869",
     "web": "http://www.deezer.com",
     "sources": [
@@ -16,7 +17,8 @@
         "https://github.com/datenanfragen/data/pull/718",
         "https://github.com/datenanfragen/data/pull/1493",
         "https://www.deezer.com/legal/personal-datas",
-        "https://github.com/datenanfragen/data/pull/1750"
+        "https://github.com/datenanfragen/data/pull/1750",
+        "https://github.com/datenanfragen/data/pull/3082"
     ],
     "required-elements": [
         {
@@ -28,6 +30,5 @@
             "type": "email"
         }
     ],
-    "needs-id-document": false,
     "quality": "verified"
 }
