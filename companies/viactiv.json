@@ -7,8 +7,8 @@
         "health"
     ],
     "name": "VIACTIV Krankenkasse",
-    "address": "Suttner-Nobel-Allee 3-5\n44803 Bochum",
-    "phone": "0234-4792799",
+    "address": "Suttner-Nobel-Allee 3-5\n44803 Bochum\nDeutschland",
+    "phone": "+49 234 4792799",
     "email": "datenschutz@viactiv.de",
     "web": "https://www.viactiv.de/",
     "sources": [
@@ -26,8 +26,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Adresse veraltet, neue Adresse ergänzt. Quellen ebenfalls nur die offizielle Seite der VIACTIV Krankenkasse genannt."
-    ],
     "quality": "verified"
 }
