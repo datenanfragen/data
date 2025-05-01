@@ -3,20 +3,14 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [
-        "ads"
+    "name": "Energiekompass Hamburg UG (haftungsbeschränkt)",
+    "address": "Sandkamp 1\n22111 Hamburg\nDeutschland",
+    "email": "datenschutz@energiekompass-hamburg.de",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2697",
+        "https://energiekompass-hamburg.de/datenschutz/"
     ],
-    "name": "Energiekompass Hamburg UG",
-    "runs": [
-        "https://www.praxis-ergovan.de/"
-    ],
-    "address": "Sandkamp 1, 22111 Hamburg",
-    "phone": "040 228993172",
-    "email": "info@energiekompass-hamburg.de",
-    "web": "https://energiekompass-hamburg.de/impressum/",
     "suggested-transport-medium": "email",
     "quality": "verified",
-    "sources": [
-        "https://github.com/datenanfragen/data/pull/2697"
-    ]
+    "web": "https://energiekompass-hamburg.de"
 }
