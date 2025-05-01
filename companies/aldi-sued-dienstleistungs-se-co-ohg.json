@@ -1,5 +1,5 @@
 {
-    "slug": "aldi-s-d-dienstleistungs-se-co-ohg",
+    "slug": "aldi-sued-dienstleistungs-se-co-ohg",
     "relevant-countries": [
         "de"
     ],
@@ -13,5 +13,6 @@
         "https://www.aldi-sued.de/de/informationen/datenschutzhinweis-impressum.html",
         "https://github.com/datenanfragen/data/pull/2733"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
