@@ -7,11 +7,12 @@
         "commerce"
     ],
     "name": "ALDI Nord Deutschland Stiftung & Co. KG",
-    "address": "ALDI Nord Deutschland Stiftung & Co. KG\nEckenbergstraße 16b\n45307 Essen\nDeutschland",
+    "address": "Eckenbergstraße 16b\n45307 Essen\nDeutschland",
     "email": "datenschutz@aldi-nord.de",
     "sources": [
         "https://www.aldi-nord.de/tools/datenschutzhinweis.html",
         "https://github.com/datenanfragen/data/pull/2734"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
