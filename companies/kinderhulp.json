@@ -1,0 +1,34 @@
+{
+    "slug": "kinderhulp",
+    "relevant-countries": [
+        "nl"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Stichting Nationaal Fonds Kinderhulp",
+    "runs": [
+        "Kinderzwerfboek"
+    ],
+    "address": "Wismarstraat 7\n7418 BN Deventer",
+    "phone": "0570-611899",
+    "email": "info@kinderhulp.nl",
+    "webform": "https://kinderhulp.nl/contact",
+    "web": "https://kinderhulp.nl",
+    "sources": [
+        "https://kinderhulp.nl/over-kinderhulp/privacy-verklaring/",
+        "https://kinderhulp.nl/contact",
+        "https://github.com/datenanfragen/data/pull/2967"
+    ],
+    "required-elements": [
+        {
+            "desc": "Naam",
+            "type": "name"
+        },
+        {
+            "desc": "Emailadres",
+            "type": "email"
+        }
+    ],
+    "quality": "verified"
+}
