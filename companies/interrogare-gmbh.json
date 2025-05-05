@@ -1,0 +1,16 @@
+{
+    "slug": "interrogare-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Interrogare GmbH",
+    "address": "c/o Kanzlei Prof. Schweizer Rechtsanwaltsgesellschaft mbH\nSchneckenburgerstraße 22\n81675 München\nDeutschland",
+    "phone": "+49 89 9280850",
+    "fax": "+49 89 92808585",
+    "email": "datenschutz@interrogare.de",
+    "sources": [
+        "https://www.interrogare.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2771"
+    ],
+    "quality": "verified"
+}
