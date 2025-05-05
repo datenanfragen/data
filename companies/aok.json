@@ -1,22 +1,19 @@
 {
     "slug": "aok",
-    "categories": [
-        "insurance"
-    ],
-    "name": "AOK-Bundesverband GbR",
-    "address": "Rosenthaler Straße 31\n10178 Berlin\nDeutschland",
-    "phone": "+49 30 346 46 0",
-    "fax": "+49 30 346 46 2502",
-    "email": "datenschutz@bv.aok.de",
-    "web": "https://www.aok.de/",
-    "sources": [
-        "https://www.aok.de/inhalt/informationen-zur-datenverarbeitung/",
-        "https://www.aok.de/inhalt/impressum-6/",
-        "https://www.aok.de/pk/fileadmin/user_upload/Universell/05-Content-PDF/informationen-zur-datenverarbeitung-durch-die-aok.pdf"
-    ],
     "relevant-countries": [
         "de"
     ],
-    "suggested-transport-medium": "email",
+    "categories": [
+        "insurance"
+    ],
+    "name": "AOK PLUS",
+    "address": "AOK PLUS – Die Gesundheitskasse für Sachsen und Thüringen\nSternplatz 7\n01067 Dresden",
+    "email": "service@plus.aok.de",
+    "web": "https://www.aok.de/pk/plus/",
+    "sources": [
+        "https://www.aok.de/pk/rechtliches/datenschutzrechte/",
+        "Hinweis zur Website: Unter \"Was gilt bei meiner AOK beim Thema Datenschutz?\" muss eine PLZ aus Sachen/Thüringen angegeben werden, z.B. die 01067",
+        "https://github.com/datenanfragen/data/pull/2902"
+    ],
     "quality": "verified"
 }
