@@ -1,0 +1,20 @@
+{
+    "slug": "ftxidentity",
+    "relevant-countries": [
+        "all",
+        "gb"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "FTx Identity",
+    "address": "146 Rock Hill Drive, Rock Hill, NY 12775",
+    "phone": "845-719-3550",
+    "email": "info@goftx.com",
+    "web": "https://ftxidentity.com/",
+    "sources": [
+        "https://ftxidentity.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/3053"
+    ],
+    "quality": "verified"
+}
