@@ -1,0 +1,14 @@
+{
+    "slug": "aida-cruises",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "AIDA Cruises",
+    "address": "Am Strande 3d,\n18055 Rostock\nDeutschland",
+    "email": "datenschutz@aida.de",
+    "sources": [
+        "https://aida.de/unternehmen/datenschutz#accordion-3c7781a98b-item-b75a23564a",
+        "https://github.com/datenanfragen/data/pull/2847"
+    ],
+    "quality": "verified"
+}
