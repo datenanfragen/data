@@ -1,0 +1,12 @@
+{
+    "slug": "mineko",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "mineko",
+    "address": "MINEKO GmbH, Schönhauser Allee 83, 10439 Berlin",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3050"
+    ]
+}
