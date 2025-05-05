@@ -1,0 +1,18 @@
+{
+    "slug": "manes-die-electro-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "manes die electro gmbh",
+    "address": "Eugen-Richter-Straße 25\n99085 Erfurt\nDeutschland",
+    "email": "info@mde-erfurt.de",
+    "sources": [
+        "https://www.mde-erfurt.de/kontakt/datenschutz",
+        "https://www.mde-erfurt.de/kontakt/impressum",
+        "https://github.com/datenanfragen/data/pull/2852"
+    ],
+    "comments": [
+        "Keine Adresse in der Datenschutzerklärung, deswegen aus Impressum genommen."
+    ],
+    "quality": "verified"
+}
