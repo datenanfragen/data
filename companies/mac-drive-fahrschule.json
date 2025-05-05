@@ -1,0 +1,15 @@
+{
+    "slug": "mac-drive-fahrschule",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Mac Drive (Fahrschule)",
+    "address": "Magdeburger Allee 214,\n99086 Erfurt,\nDeutschland",
+    "phone": "+49 176 58855889",
+    "email": "info@mac-drive.de",
+    "sources": [
+        "https://www.mac-drive.de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/2825"
+    ],
+    "quality": "verified"
+}
