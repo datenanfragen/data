@@ -18,7 +18,8 @@
         "Unitymedia GmbH (ehem.)",
         "Unitymedia BW GmbH (ehem.)",
         "Unitymedia Hessen GmbH & Co. KG (ehem.)",
-        "Unitymedia NRW GmbH (ehem.)"
+        "Unitymedia NRW GmbH (ehem.)",
+        "Vodafone West GmbH"
     ],
     "address": "Ferdinand-Braun-Platz 1\n40549 Düsseldorf\nDeutschland",
     "phone": "+49 800 1721212",
@@ -43,7 +44,8 @@
         "https://github.com/datenanfragen/data/pull/1816",
         "https://www.rossmann-mobil.de",
         "https://github.com/datenanfragen/data/pull/2223",
-        "https://github.com/datenanfragen/data/pull/3084"
+        "https://github.com/datenanfragen/data/pull/3084",
+        "https://github.com/datenanfragen/data/pull/3091"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
