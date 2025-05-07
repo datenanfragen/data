@@ -1,5 +1,8 @@
 {
     "slug": "adyen-de",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance"
     ],
@@ -13,10 +16,10 @@
     "web": "https://www.adyen.com/de_DE/",
     "sources": [
         "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/privacy-policy",
-        "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/impressum"
+        "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/impressum",
+        "https://github.com/datenanfragen/data/pull/3094"
     ],
-    "relevant-countries": [
-        "de"
-    ],
+    "suggested-transport-medium": "webform",
+    "comments": [],
     "quality": "verified"
 }
