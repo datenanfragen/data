@@ -3,24 +3,15 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "entertainment",
-        "social media"
-    ],
     "name": "Bigo Technology Pte. Ltd.",
-    "runs": [
-        "Likee",
-        "LIKE Video (formerly)"
-    ],
     "address": "30 Pasir Panjang Road # 15-31A\nMapletree Business City\nSingapore 117440\nRepublic of Singapore",
     "phone": "+65 6351 9330",
+    "fax": "id814292706",
     "email": "legal@bigo.tv",
+    "webform": "id814292706",
     "web": "https://likee.com",
+    "quality": "verified",
     "sources": [
-        "https://likee.com/privacy",
-        "https://github.com/datenanfragen/data/issues/539",
-        "https://github.com/datenanfragen/data/pull/771",
-        "https://www.bigo.sg/contact"
-    ],
-    "quality": "verified"
+        "https://github.com/datenanfragen/data/pull/3098"
+    ]
 }
