@@ -13,7 +13,10 @@
     "web": "https://digitalmedialine.com/",
     "sources": [
         "https://github.com/datenanfragen/data/pull/857",
-        "https://digitalmedialine.com/contact/"
+        "https://digitalmedialine.com/contact/",
+        "https://github.com/datenanfragen/data/pull/3097"
     ],
+    "suggested-transport-medium": "webform",
+    "comments": [],
     "quality": "verified"
 }
