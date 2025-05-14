@@ -5,9 +5,14 @@
         "at",
         "pl"
     ],
+    "categories": [
+        "commerce"
+    ],
     "name": "Preisvergleich Internet Services AG",
     "runs": [
-        "Geizhals"
+        "Geizhals.de",
+        "Geizhals.at",
+        "cenowarka.pl"
     ],
     "address": "Rothschildplatz 3 Top 3.01\n1020 Wien\nÖsterreich",
     "email": "info@geizhals.at",
