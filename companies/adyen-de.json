@@ -6,13 +6,10 @@
     "categories": [
         "finance"
     ],
-    "name": "Adyen GmbH",
-    "runs": [
-        "Adyen MarketPay"
-    ],
-    "address": "Hackescher Markt 4\nGebäude 44\n10178 Berlin\nDeutschland",
-    "phone": "+49 30 30808505",
-    "email": "germany@adyen.com",
+    "name": "Adyen N.V.",
+    "address": "Simon Carmiggeltstraat 6,\n1011 DJ Amsterdam\nThe Netherlands",
+    "email": "dpo@adyen.com",
+    "webform": "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/privacy-form",
     "web": "https://www.adyen.com/de_DE/",
     "sources": [
         "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/privacy-policy",
@@ -20,8 +17,5 @@
         "https://github.com/datenanfragen/data/pull/3095"
     ],
     "suggested-transport-medium": "webform",
-    "comments": [
-        "Dies scheint der beste weg zu sein um datenanfragen zu stellen:\nhttps://www.adyen.com/policies-and-disclaimer/privacy-form\n\nAnfragen an germany@adyen.com; germanauthorities@adyen.com waren Zeitverschwendung.\nIch habe schlussendlich die E-Mail von privacysupport@adyen.com erhalten:\nThank you for reaching out to Adyen and thank you for your patient. \n \nThank you for reaching out to Adyen. We kindly request you to send your data subject request via Adyen’s Privacy form via: https://www.adyen.com/policies-and-disclaimer/privacy-form. By way of this Privacy Form, you can access your data, delete it, and manage how it gets used. If required, we may request additional verification information, in order to be able to action you request. \n\nIf you are interested in details about a specific transaction, please instead use the following payment look-up option: https://www.adyen.com/payment-lookup.  \n\nKind regards, \n\nThe Adyen Privacy Team\n \n-----------------------------------\n\nvielen Dank, dass Sie sich an Adyen gewandt haben, und vielen Dank für Ihre Geduld.\n\nVielen Dank, dass Sie sich an Adyen gewandt haben. Wir bitten Sie, Ihre Anfrage zum Datenschutz über das Adyen-Datenschutzformular zu senden: https://www.adyen.com/policies-and-disclaimer/privacy-form. Über dieses Datenschutzformular können Sie auf Ihre Daten zugreifen, sie löschen und deren Verwendung verwalten. Falls erforderlich, können wir zusätzliche Informationen zur Überprüfung anfordern, um Ihre Anfrage bearbeiten zu können."
-    ],
     "quality": "verified"
 }
