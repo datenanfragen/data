@@ -1,0 +1,17 @@
+{
+    "slug": "jackpotsounds",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Jackpot Sounds",
+    "address": "Ständehausstraße 1\n40217 Düsseldorf (DE)",
+    "email": "hello@jackpotsounds.com",
+    "web": "https://jackpotsounds.com/de-de/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3110"
+    ]
+}
