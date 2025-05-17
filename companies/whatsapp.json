@@ -14,13 +14,13 @@
     "webform": "https://www.whatsapp.com/contact/forms/382532939919295/",
     "web": "https://www.whatsapp.com/",
     "sources": [
-        "https://www.whatsapp.com/legal/#privacy-policy"
+        "https://www.whatsapp.com/legal/#privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3112"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "WhatsApp phone number",
