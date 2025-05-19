@@ -5,18 +5,20 @@
     ],
     "name": "Under Armour, Inc.",
     "runs": [
-        "UA Record",
-        "MapMyfitness",
-        "MyFitnessPal",
-        "Endomondo"
+        "UA Record"
     ],
     "address": "1020 Hull Street\nBaltimore\nMD 21230\nUnited States of America",
-    "email": "EUprivacy@underarmour.com",
+    "email": "privacy@underarmour.com",
+    "webform": "https://privacy.underarmour.com/s/article/Privacy-Rights-Request-Form?language=en_US",
     "web": "https://account.underarmour.com/en-us",
     "sources": [
         "https://account.underarmour.com/en-us/privacy#location-specific-disclosures",
-        "https://github.com/datenanfragen/data/issues/428"
+        "https://github.com/datenanfragen/data/issues/428",
+        "https://github.com/datenanfragen/data/pull/3115"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Webform is currently US only. Email is global"
+    ],
     "quality": "verified"
 }
