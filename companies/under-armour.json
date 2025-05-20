@@ -7,18 +7,15 @@
     "runs": [
         "UA Record"
     ],
-    "address": "1020 Hull Street\nBaltimore\nMD 21230\nUnited States of America",
+    "address": "c/o Under Armour Europe B.V.\nStadionplein 10\n1076 CM Amsterdam\nThe Netherlands",
     "email": "privacy@underarmour.com",
-    "webform": "https://privacy.underarmour.com/s/article/Privacy-Rights-Request-Form?language=en_US",
-    "web": "https://account.underarmour.com/en-us",
+    "web": "https://www.underarmour.com/",
     "sources": [
-        "https://account.underarmour.com/en-us/privacy#location-specific-disclosures",
+        "https://privacy.underarmour.com/s/article/Residents-of-the-European-Economic-Area-and-the-United-Kingdom?language=en_US",
+        "https://privacy.underarmour.com/s/article/How-to-Contact-Us?language=en_US",
         "https://github.com/datenanfragen/data/issues/428",
         "https://github.com/datenanfragen/data/pull/3115"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Webform is currently US only. Email is global"
-    ],
     "quality": "verified"
 }
