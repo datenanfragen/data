@@ -7,12 +7,13 @@
         "travel"
     ],
     "name": "VBB Verkehrsverbund Berlin-Brandenburg GmbH",
-    "address": "Hardenbergplatz 2\n10623 Berlin\nDeutschland",
-    "email": "datenschutz@vbb.de",
+    "address": "Stralauer Platz 29\n10243 Berlin\nDeutschland",
     "phone": "+49 30 254140",
+    "email": "datenschutz@vbb.de",
     "web": "https://www.vbb.de/",
     "sources": [
-        "https://www.vbb.de/datenschutz"
+        "https://www.vbb.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3124"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
