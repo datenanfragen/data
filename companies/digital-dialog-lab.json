@@ -7,15 +7,13 @@
         "ads"
     ],
     "name": "Digital Dialog Lab GmbH",
-    "address": "c/o JCX Consulting\nRothenbaumchaussee 40, \n20148 Hamburg\nDeutschland",
-    "email": "datenschutz@digital-dialog-lab.de",
+    "address": "Rothenbaumchaussee 40\n20148 Hamburg\nDeutschland",
+    "email": "info@digital-dialog-lab.de",
     "web": "https://www.digital-dialog-lab.de",
     "sources": [
-        "https://www.digital-dialog-lab.de/datenschutz/",
-        "https://www.digital-dialog-lab.de/impressum/",
+        "https://ddl-datenschutz.s3.eu-central-1.amazonaws.com/Digital_Dialog_Lab_Datenschutz.pdf",
         "https://github.com/datenanfragen/data/pull/1785",
         "https://github.com/datenanfragen/data/pull/3126"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
