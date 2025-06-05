@@ -1,0 +1,20 @@
+{
+    "slug": "carwow",
+    "relevant-countries": [
+        "de",
+        "gb"
+    ],
+    "categories": [],
+    "name": "Carwow Ltd.",
+    "runs": [
+        "carwow.co.uk"
+    ],
+    "address": "Auenstr. 100\n80469 München",
+    "email": "hallo@carwow.de",
+    "web": "https://www.carwow.de",
+    "sources": [
+        "https://www.carwow.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2940"
+    ],
+    "quality": "verified"
+}
