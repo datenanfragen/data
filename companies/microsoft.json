@@ -31,6 +31,7 @@
         "To Do",
         "Visual Studio",
         "Windows",
+        "wunderlist.com (ehemals)",
         "Xbox and gaming (z.B. www.xbox.com)"
     ],
     "address": "One Microsoft Place\nSouth County Business Park\nLeopardstown\nDublin 18\nIreland",
@@ -41,7 +42,8 @@
         "https://privacy.microsoft.com/privacystatement",
         "https://www.microsoft.com/de-de/concern/privacy",
         "https://github.com/datenanfragen/data/pull/2187",
-        "https://github.com/datenanfragen/data/pull/2294"
+        "https://github.com/datenanfragen/data/pull/2294",
+        "https://github.com/datenanfragen/data/pull/2952"
     ],
     "quality": "verified"
 }
