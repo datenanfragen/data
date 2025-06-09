@@ -12,12 +12,14 @@
     "runs": [
         "Garmin Connect"
     ],
-    "address": "Beethovenstr. 1a\n97080 Würzburg\nDuitsland",
+    "address": "Leightonstr. 7\n97074 Würzburg\nDeutschland",
     "email": "euprivacy@garmin.com",
+    "webform": "https://www.garmin.com/account/datamanagement",
     "web": "https://garmin.com",
     "sources": [
         "https://www.garmin.com/en-GB/privacy/global/policy/",
         "https://www.garmin.com/en-GB/privacy/connect/",
+        "https://www.garmin.com/de-DE/privacy/your-data-protection-rights/policy/",
         "https://github.com/datenanfragen/data/pull/2711"
     ],
     "suggested-transport-medium": "email",
