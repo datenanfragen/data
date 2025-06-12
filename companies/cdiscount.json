@@ -1,28 +1,22 @@
 {
     "slug": "cdiscount",
     "relevant-countries": [
-        "fr",
-        "be",
-        "it",
-        "de",
-        "es",
-        "lu"
-    ],
-    "categories": [
-        "commerce"
+        "fr"
     ],
     "name": "Cdiscount.com / SGPN",
     "address": "BP 90200\n93472 Neuilly Sur Marne\nFrance",
+    "phone": "0652257583",
     "email": "informatique-et-libertes@cdiscount.com",
     "web": "https://www.cdiscount.com/",
     "sources": [
         "https://github.com/datenanfragen/data/issues/437",
         "https://www.cdiscount.com/vie-privee-et-cookies.html",
-        "https://i6.cdscdn.com/resources/imagesok/cgv/ml.pdf"
+        "https://i6.cdscdn.com/resources/imagesok/cgv/ml.pdf",
+        "https://github.com/datenanfragen/data/pull/3131"
     ],
     "required-elements": [
         {
-            "desc": "Nom",
+            "desc": "carduner",
             "type": "name"
         },
         {
@@ -31,7 +25,9 @@
         }
     ],
     "request-language": "fr",
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "comments": [
+        "changer numero de telephone"
+    ],
+    "quality": "verified"
 }
