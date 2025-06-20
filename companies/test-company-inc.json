@@ -1,0 +1,13 @@
+{
+    "slug": "test-company-inc",
+    "relevant-countries": [
+        "cy"
+    ],
+    "name": "Test company Inc.",
+    "address": "The company address goes here\nCyprus",
+    "sources": [
+        "https://github.com/einfrank/data/pull/1#pullrequestreview-2804535283",
+        null
+    ],
+    "quality": "verified"
+}
