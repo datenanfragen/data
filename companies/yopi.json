@@ -1,0 +1,16 @@
+{
+    "slug": "yopi",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "Yopi GmbH",
+    "address": "Nordstr. 43\n09113 Chemnitz\nDeutschland",
+    "email": "info@yopi.de",
+    "web": "https://www.yopi.de",
+    "sources": [
+        "https://www.yopi.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/3105"
+    ],
+    "quality": "verified"
+}
