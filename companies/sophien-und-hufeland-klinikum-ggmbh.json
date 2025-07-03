@@ -8,13 +8,17 @@
         "utility"
     ],
     "name": "Sophien- und Hufeland-Klinikum gGmbH",
+    "runs": [
+        "SHK Weimar (Abkürzung)"
+    ],
     "address": "Henry-van-de-Velde-Straße 2\n99425 Weimar\nDeutschland",
     "phone": "+49 361 6646170",
     "fax": "+49 3643 572002",
     "email": "dsb@klinikum-weimar.de",
     "sources": [
         "https://www.klinikum-weimar.de/web/de/content/content.php?areaID=1&menuID=38&contentID=152&hidden=true",
-        "https://github.com/datenanfragen/data/pull/2719"
+        "https://github.com/datenanfragen/data/pull/2719",
+        "https://github.com/datenanfragen/data/pull/3143"
     ],
     "request-language": "de",
     "custom-access-template": "access-evangelische-kirche",
