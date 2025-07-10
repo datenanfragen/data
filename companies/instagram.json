@@ -1,7 +1,7 @@
 {
     "slug": "instagram",
     "relevant-countries": [
-        "all"
+        "ie"
     ],
     "categories": [
         "entertainment",
@@ -9,13 +9,11 @@
     ],
     "name": "Instagram",
     "address": "c/o Meta Platforms Ireland Limited\n4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
-    "webform": "https://www.facebook.com/help/contact/540977946302970",
+    "email": "Dear Instagram team   You have suspended my account Nishajshetty . But I would like to inform you that on my account I have not did anything against your policy I always follow your policy and rules of Instagram so you have to review my account I am ready to show you my all proof and ID and please review my account and recover I have not violet any policy of Instagram I never upload any contact which is against your rules and conditions so please recover my account   Account name - Nishajshetty Email ID - shettynisha15@gmail.com Phone number - +353896161816  Sincerely,",
     "web": "https://www.instagram.com/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
     "sources": [
-        "https://privacycenter.instagram.com/policy",
-        "https://github.com/datenanfragen/data/issues/93",
-        "https://help.instagram.com/581066165581870",
-        "https://github.com/datenanfragen/data/pull/935"
-    ],
-    "quality": "verified"
+        "https://github.com/datenanfragen/data/pull/3146"
+    ]
 }
