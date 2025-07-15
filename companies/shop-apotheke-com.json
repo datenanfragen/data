@@ -10,7 +10,7 @@
     "runs": [
         "Europa Apotheek Venlo B.V."
     ],
-    "address": "Erik de Rodeweg 11-13\n5975 WD Sevenum\nThe Netherlands",
+    "address": "Postfach 410118\n41241 Mönchengladbach\nDeutschland",
     "phone": "+49 30 30806600",
     "fax": "+49 800 90709020",
     "email": "datenschutz@shop-apotheke.com",
@@ -21,8 +21,5 @@
         "https://github.com/datenanfragen/data/pull/3151"
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Deutsche Adresse: SHOP APOTHEKE, Postfach 410118, 41241 Mönchengladbach, Deutschland."
-    ],
     "quality": "verified"
 }
