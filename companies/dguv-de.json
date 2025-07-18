@@ -1,5 +1,5 @@
 {
-    "slug": "deutsche-gesetzliche-unfallversicherung-e-v",
+    "slug": "dguv-de",
     "relevant-countries": [
         "de"
     ],
@@ -7,7 +7,7 @@
         "insurance"
     ],
     "name": "Deutsche Gesetzliche Unfallversicherung e.V.",
-    "address": "Glinkastraße 40\n10117 Berlin\nBerlin",
+    "address": "Glinkastraße 40\n10117 Berlin\nDeutschland",
     "phone": "+49 30 130016130",
     "fax": "+49 30 130016132",
     "email": "datenschutzbeauftragter@dguv.de",
@@ -15,5 +15,6 @@
         "https://www.dguv.de/de/wir-ueber-uns/impressum/datenschutzerklaerung/index.jsp",
         "https://github.com/datenanfragen/data/pull/2758"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
