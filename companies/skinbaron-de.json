@@ -1,0 +1,21 @@
+{
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce",
+        "entertainment"
+    ],
+    "name": "SkinBaron GmbH",
+    "runs": [
+        "SmokeBaron"
+    ],
+    "address": "Ossecker Straße 165\n95030 Hof\nDeutschland",
+    "email": "info@skinbaron.de",
+    "web": "https://skinbaron.de",
+    "sources": [
+        "https://skinbaron.de/de/privacy_policy"
+    ],
+    "quality": "verified",
+    "slug": "skinbaron-de"
+}
