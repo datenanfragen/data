@@ -1,0 +1,18 @@
+{
+    "slug": "cbm",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "CBM Christoffel-Blindenmission Christian Blind Mission e.V.",
+    "address": "CBM Christoffel-Blindenmission Christian Blind Mission e.V.\nStubenwald-Allee 5\n64625 Bensheim",
+    "phone": "(06251) 131-131",
+    "email": "info@cbm.de",
+    "web": "https://www.cbm.de",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3158"
+    ]
+}
