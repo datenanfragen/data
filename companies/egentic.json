@@ -13,8 +13,7 @@
     "email": "info@egentic.com",
     "web": "https://www.egentic.com",
     "sources": [
-        "https://www.egentic.com/data-protection/",
-        "https://www.egentic.com/imprint-2/",
+        "https://www.egentic.com/datenschutz/",
         "https://github.com/datenanfragen/data/issues/52",
         "https://github.com/datenanfragen/data/pull/2661",
         "https://github.com/datenanfragen/data/pull/3169"
@@ -22,13 +21,14 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Adresse",
-            "type": "address"
+            "type": "address",
+            "optional": false
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
