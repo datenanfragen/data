@@ -8,21 +8,23 @@
     ],
     "name": "Travix Nederland B.V.",
     "runs": [
-        "Flugladen.de (www.flugladen.de)",
-        "BudgetAir.com (www.budgetair.com)",
-        "CheapTickets.nl (www.cheaptickets.nl)",
-        "Vliegwinkel.nl (www.vliegwinkel.nl)"
+        "Cheaptickets",
+        "Vliegwinkel",
+        "BudgetAir",
+        "Flugladen",
+        "Vayama"
     ],
-    "address": "Piet Heinkade 55\n1019 GM Amsterdam\nThe Netherlands",
+    "address": "Hoekenrode 3\n1102 BR Amsterdam\nThe Netherlands",
     "email": "privacy@travix.com",
     "web": "https://www.travix.com/",
     "sources": [
-        "https://s1.travix.com/flugladen/DE/flde-privacy-de.pdf",
-        "https://www.flugladen.de/impressum",
-        "https://s1.travix.com/budgetair/UK/buauk-privacy-en.pdf",
-        "https://s1.travix.com/cheaptickets/NL/assets/pdf/ctnl-privacy-nl.pdf",
-        "https://s1.travix.com/vliegwinkel/NL/assets/pdf/vwnl-privacy-nl.pdf"
+        "https://s1.travix.com/cheaptickets/DE/assets/pdf/ctde-privacy-de-updated-2024.pdf",
+        "https://s1.travix.com/vliegwinkel/NL/assets/pdf/vwnl-privacy-nl-updated-2024.pdf",
+        "https://s1.travix.com/vayama/IE/vayie-privacy-english-updated-2024.pdf",
+        "https://s1.travix.com/flugladen/DE/flde-privacy-de-updated-2024.pdf",
+        "https://s1.travix.com/budgetair/FR/buafr-privacy-fr.pdf",
+        "https://github.com/datenanfragen/data/pull/3164"
     ],
-    "quality": "verified",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
