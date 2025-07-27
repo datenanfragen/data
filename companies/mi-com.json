@@ -1,33 +1,26 @@
 {
     "slug": "mi-com",
     "relevant-countries": [
-        "all"
+        "ro"
     ],
     "name": "Xiaomi Communications Co., Ltd.",
     "runs": [
-        "Xiaomi Technology Netherlands B.V.",
-        "Xiaomi Singapore Pte. Ltd."
+        "Xiaomi",
+        "Gooelg"
     ],
-    "address": "Prinses Beatrixlaan 582\n2595BM The Hague\nThe Netherlands",
-    "email": "grievance.officer@xiaomi.com",
-    "web": "https://www.mi.com",
     "sources": [
-        "https://privacy.mi.com/all/de_DE/",
-        "https://www.wework.com/buildings/strawinskylaan-4117--amsterdam"
+        "زی",
+        "https://github.com/datenanfragen/data/pull/3171"
     ],
     "required-elements": [
         {
-            "desc": "Name",
+            "type": "name",
+            "optional": true
+        },
+        {
             "type": "name"
-        },
-        {
-            "desc": "Address",
-            "type": "address"
-        },
-        {
-            "desc": "Email",
-            "type": "email"
         }
     ],
+    "suggested-transport-medium": "fax",
     "quality": "verified"
 }
