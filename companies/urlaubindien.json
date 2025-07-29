@@ -1,0 +1,22 @@
+{
+    "slug": "urlaubindien",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Amazing Indien Reisen",
+    "runs": [
+        "Naveen Pathak"
+    ],
+    "address": "Bahnhofstraße 15-17, Lorsch 64653",
+    "phone": "062518037975",
+    "email": "info@urlaubindien.de",
+    "web": "https://urlaubindien.de",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3173"
+    ]
+}
