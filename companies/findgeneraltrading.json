@@ -1,0 +1,13 @@
+{
+    "slug": "findgeneraltrading",
+    "relevant-countries": [
+        "all",
+        "all"
+    ],
+    "name": "findgeneraltrading",
+    "address": "Office No 10, Pagoda Warehouse, Dubai Investment park-1",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3174"
+    ]
+}
