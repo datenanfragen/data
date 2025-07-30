@@ -1,0 +1,22 @@
+{
+    "slug": "casinobonusesfinder",
+    "relevant-countries": [
+        "is"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Casino Bonuses Finder",
+    "runs": [
+        "CasinoBonusesFinder"
+    ],
+    "address": "Kalkofnsvegur 2",
+    "email": "dave@bonusfinder.club",
+    "web": "https://casinobonusesfinder.com",
+    "sources": [
+        "https://x.com/BonusesFinder_",
+        "https://www.linkedin.com/company/casino-bonuses-finder/",
+        "https://github.com/datenanfragen/data/pull/3175"
+    ],
+    "quality": "verified"
+}
