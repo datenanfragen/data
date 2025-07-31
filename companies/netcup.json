@@ -7,10 +7,10 @@
         "telecommunication"
     ],
     "name": "netcup GmbH",
-    "address": "Emmy-Noether-Straße 10\n76131 Karlsruhe\nDeutschland",
+    "address": "c/o ANEXIA Internetdienstleistungs GmbH\nFeldkirchner Straße 140\n9020 Klagenfurt\nÖsterreich",
     "phone": "+49 721 75407550",
     "fax": "+49 721 75407559",
-    "email": "mail@netcup.de",
+    "email": "data-protection@anexia-it.com",
     "web": "https://www.netcup.com/",
     "sources": [
         "https://www.netcup.de/kontakt/datenschutzerklaerung.php",
@@ -18,6 +18,6 @@
         "https://github.com/datenanfragen/data/issues/644",
         "https://github.com/datenanfragen/data/pull/3176"
     ],
-    "suggested-transport-medium": "webform",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
