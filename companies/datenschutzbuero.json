@@ -18,7 +18,8 @@
         "galaxus.fr",
         "galaxus.it",
         "galaxus.nl",
-        "galaxus.be"
+        "galaxus.be",
+        "digitec.ch"
     ],
     "address": "Hoheluftchausssee 18\n20253 Hamburg\nGermany",
     "email": "datenschutz@galaxus.de",
@@ -27,7 +28,8 @@
         "https://www.galaxus.de/de/wiki/5567",
         "https://www.galaxus.de/de/wiki/5639",
         "https://github.com/datenanfragen/data/pull/1889",
-        "https://github.com/datenanfragen/data/pull/2863"
+        "https://github.com/datenanfragen/data/pull/2863",
+        "https://github.com/datenanfragen/data/pull/3184"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
