@@ -9,12 +9,13 @@
     "name": "PayPal (Europe) S.à r.l. et Cie, S.C.A.",
     "address": "22 – 24 Boulevard Royal\nL-2449 Luxembourg\nLuxembourg",
     "phone": "+44 800 358 7911",
-    "webform": "https://www.paypal.com/uk/smarthelp/contact-us?email=privacy",
-    "web": "https://www.paypal.com/uk",
+    "webform": "https://www.paypal.com/de/smarthelp/contact-us/privacy?locale.x=en_DE",
+    "web": "https://www.paypal.com/de",
     "sources": [
         "https://www.paypal.com/uk/webapps/mpp/ua/privacy-full",
         "https://github.com/datenanfragen/data/issues/110",
-        "https://www.paypal.com/uk/smarthelp/contact-us"
+        "https://www.paypal.com/de/smarthelp/contact-us",
+        "https://github.com/datenanfragen/data/pull/3187"
     ],
     "required-elements": [
         {
