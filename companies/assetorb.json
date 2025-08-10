@@ -1,0 +1,21 @@
+{
+    "slug": "assetorb",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "AssetOrb GmbH",
+    "address": "Wiebestraße 36-37\n10553 Berlin\nDeutschland",
+    "phone": "+49 30 7732630",
+    "email": "datenschutz@assetorb.com",
+    "web": "https://www.assetorb.com/",
+    "sources": [
+        "https://www.assetorb.com/datenschutz/",
+        "https://www.assetorb.com/impressum/",
+        "https://github.com/datenanfragen/data/pull/3191"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
