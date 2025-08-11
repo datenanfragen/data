@@ -1,0 +1,14 @@
+{
+    "slug": "b-g-mailing-de-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "b+g mailing.de gmbh",
+    "address": "Werkstrasse 501\n19061 Schwerin",
+    "email": "info@mailing.de",
+    "sources": [
+        "https://mailing.de/bg_impressum/",
+        "https://github.com/datenanfragen/data/pull/3063"
+    ],
+    "quality": "verified"
+}
