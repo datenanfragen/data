@@ -10,8 +10,12 @@
     "sources": [
         "https://ico.org.uk/ESDWebPages/Entry/ZB338223",
         "https://find-and-update.company-information.service.gov.uk/company/13017487",
-        "https://github.com/datenanfragen/data/pull/2113"
+        "https://github.com/datenanfragen/data/pull/2113",
+        "https://github.com/datenanfragen/data/pull/3140"
     ],
     "suggested-transport-medium": "email",
+    "comments": [
+        "Company has ceased trading. Request for removal."
+    ],
     "quality": "verified"
 }
