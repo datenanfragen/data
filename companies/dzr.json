@@ -1,0 +1,19 @@
+{
+    "slug": "dzr",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "DZR - Deutsches Zahnärztliches Rechenzentrum GmbH",
+    "address": "z.Hd.d. Datenschutzbeauftragten\nMarienstraße 10    \n70178 Stuttgart\nDeutschland",
+    "email": "datenschutz@dzr.de",
+    "web": "https://dzr.de/",
+    "sources": [
+        "https://www.dzr.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3007"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
