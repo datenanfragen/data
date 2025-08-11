@@ -1,0 +1,17 @@
+{
+    "slug": "tibber-deutschland-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Tibber Deutschland GmbH",
+    "address": "c./o. PROLIANCE GmbH\nLeopoldstr. 21\n80802 München\nDeutschland",
+    "email": "datenschutzbeauftragter@datenschutzexperte.de",
+    "sources": [
+        "https://tibber.com/de/datenschutzerklarung/tibber-deutschland",
+        "https://github.com/datenanfragen/data/pull/2796"
+    ],
+    "quality": "verified"
+}
