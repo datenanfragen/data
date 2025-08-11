@@ -1,0 +1,22 @@
+{
+    "slug": "vendomnia",
+    "relevant-countries": [
+        "fi"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Sunniva_balkonkraftwerk",
+    "address": "Germany, Honer Str. 49, 37269 Eschwege",
+    "phone": "056519919154",
+    "fax": "056519919154",
+    "email": "jackharryvendom@gmail.com",
+    "webform": "https://vendomnia.com/balkonkraftwerk/",
+    "web": "https://vendomnia.com/",
+    "sources": [
+        "Google",
+        "https://github.com/datenanfragen/data/pull/3041"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
