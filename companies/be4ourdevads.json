@@ -1,0 +1,27 @@
+{
+    "slug": "be4ourdevads",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "BE4OURDEVADS",
+    "address": "114 k.7, 411 Kaew Khawn village, Tambon Rangsit, Lumphakhud, Chang Wat Pathum Thani 12110, Thailand",
+    "phone": "+66 61 316 6058",
+    "email": "be4our.devads@outlook.co.th",
+    "webform": "be4ourdevads.net",
+    "sources": [
+        "650-319-8930",
+        "https://github.com/datenanfragen/data/pull/3010"
+    ],
+    "required-elements": [
+        {
+            "desc": "gin@be4our.devads.net",
+            "type": "email",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
