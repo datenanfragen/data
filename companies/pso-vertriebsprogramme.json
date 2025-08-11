@@ -1,0 +1,21 @@
+{
+    "slug": "pso-vertriebsprogramme",
+    "relevant-countries": [
+        "de",
+        "fr"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "pso vertriebsprogramme GmbH",
+    "address": "HEC Harald Eul Consulting GmbH\nDatenschutzbeauftragter der pso vertriebsprogramme GmbH\nAuf der Höhe 34\n50321 Brühl\nGermany",
+    "email": "datenschutz-pso@he-c.de",
+    "web": "https://pso-vertriebsprogramme.de/",
+    "sources": [
+        "https://www.friday-empfehlen.de/datenschutz",
+        "https://pso-vertriebsprogramme.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2864"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
