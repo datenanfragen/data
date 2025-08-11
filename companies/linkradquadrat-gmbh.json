@@ -1,0 +1,20 @@
+{
+    "slug": "linkradquadrat-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "LinkRadQuadrat GmbH",
+    "runs": [
+        "staterabikes.de"
+    ],
+    "address": "c./o. Vitali Sobnin, \nEugen Klaussner Strasse 18,\n77723 Gengenbach\nDeutschland",
+    "email": "ds-link-gengenbach@die-dsb-gmbh.de",
+    "sources": [
+        "https://www.staterabikes.de/rechtliches/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2809"
+    ],
+    "quality": "verified"
+}
