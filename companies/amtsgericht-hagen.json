@@ -7,17 +7,16 @@
         "public body"
     ],
     "name": "Amtsgericht Hagen",
-    "runs": [
-        "Handelsregister.de"
-    ],
     "address": "Heinitzstr. 42\n58097 Hagen\nDeutschland",
-    "phone": "+49 2331 985112",
-    "fax": "+49 211 87565114100",
-    "email": "service@handelsregister.de",
-    "web": "https://www.handelsregister.de/rp_web/welcome.do",
+    "phone": "+49 2331 9850",
+    "fax": "+49 2331 985515",
+    "email": "Datenschutz@ag-hagen.nrw.de",
+    "web": "https://www.ag-hagen.nrw.de/",
     "sources": [
-        "https://www.handelsregister.de/rp_web/contact.do"
+        "https://www.ag-hagen.nrw.de/kontakt/impressum/datenschutz/index.php",
+        "https://www.ag-hagen.nrw.de/kontakt/impressum/index.php"
     ],
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
