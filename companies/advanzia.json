@@ -20,6 +20,7 @@
         "Advanzia deposit account (www.advanziakonto.com)"
     ],
     "address": "14, Rue Gabriel Lippmann\nL-5365 Munsbach\nLuxembourg",
+    "email": "dataprotection@advanzia.com",
     "web": "https://www.advanzia.com",
     "sources": [
         "https://www.advanzia.com/en-gb/Documents/Corporate-Data-Protection-Notice-EN-202507.pdf",
@@ -30,6 +31,5 @@
         "https://staomc3we02.blob.core.windows.net/blob-static-documents/LEGAL/DEP/DEU/Datenschutzhinweise.pdf"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "email": "dataprotection@advanzia.com"
+    "quality": "verified"
 }
