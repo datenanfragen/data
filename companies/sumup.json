@@ -1,0 +1,20 @@
+{
+    "slug": "sumup",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "SumUp Limited",
+    "address": "Block 8, Harcourt Centre, Charlotte Way\nDublin 2, Irland D02 K580",
+    "web": "https://www.sumup.com/",
+    "sources": [
+        "https://www.sumup.com/",
+        "https://github.com/datenanfragen/data/pull/3197"
+    ],
+    "comments": [
+        "E-mail anfragen werden seit neustem geblockt."
+    ],
+    "quality": "verified"
+}
