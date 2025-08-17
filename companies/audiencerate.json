@@ -7,11 +7,11 @@
         "ads"
     ],
     "name": "Audiencerate Ltd",
-    "address": "Winnington House 2\nWoodberry Grove\nNorth Finchley\nLondon\nN12 0DR\nUnited Kingdom",
+    "address": "7 Bell Yard\nLondon\nWC2A 2JR\nUnited Kingdom",
     "email": "privacy@audiencerate.com",
     "web": "http://www.audiencerate.com/",
     "sources": [
-        "https://www.audiencerate.com/data-ethics-privacy/"
+        "https://www.audiencerate.com/privacy-policy"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

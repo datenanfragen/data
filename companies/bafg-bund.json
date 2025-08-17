@@ -9,11 +9,10 @@
     "name": "Bundesanstalt für Gewässerkunde (BfG)",
     "address": "Am Mainzer Tor 1\n56068 Koblenz\nDeutschland",
     "phone": "+49 261 1306 5295",
-    "fax": "+49 261 1306 5302",
     "email": "datenschutz@bafg.de",
     "web": "https://www.bafg.de",
     "sources": [
-        "https://www.bafg.de/DE/Service/Impressum/Datenschutz_node.html"
+        "https://www.bafg.de/DE/Service/Datenschutz/datenschutz_node.html"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

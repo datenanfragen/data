@@ -6,22 +6,14 @@
     "categories": [
         "school"
     ],
-    "name": "Martin-Segitz-Schule, Staatliche Berufsschule 3",
+    "name": "Martin-Segitz-Schule / Staatliche Berufsschule III Fürth",
     "address": "Ottostr. 22\n90762 Fürth\nDeutschland",
     "phone": "+49 911 756650",
     "fax": "+49 911 7566555",
     "email": "sekretariat@b3-fuerth.de",
     "web": "http://www.b3-fuerth.de",
     "sources": [
-        "http://www.b3-fuerth.de/b3/home.nsf/contentview/~impressum",
-        "https://www.b3-fuerth.de/b3/home.nsf/imgref/Download_B3%20F%C3%BCrth_Allgemeine%20Auskunft%20nach%20DGSVO%20(Stand%202020_08_28).pdf/$FILE/B3%20F%C3%BCrth_Allgemeine%20Auskunft%20nach%20DGSVO%20(Stand%202020_08_28).pdf"
-    ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name",
-            "optional": false
-        }
+        "https://www.b3-fuerth.de/wp-content/uploads/2023/04/B3-Fuerth_Allgemeine-Auskunft-nach-DGSVO-Stand-2023_04_19_Schueler.pdf"
     ],
     "quality": "verified",
     "facet-group": "school"

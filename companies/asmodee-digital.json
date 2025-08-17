@@ -6,14 +6,18 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Asmodee Digital",
-    "address": "18 rue Jacqueline Auriol\n78280 Guyancourt\nFrance",
+    "name": "Financière Amuse BidCo",
+    "runs": [
+        "My Asmodee"
+    ],
+    "address": "Quartier Villaroy\n18 rue Jacqueline Auriol\n78280 Guyancourt\nFrance",
     "phone": "+33 1 76 21 80 20",
-    "email": "support@asmodee.net",
+    "email": "DPO@asmodee.com",
     "web": "https://www.asmodee-digital.com",
     "sources": [
-        "https://www.iubenda.com/privacy-policy/97987365/cookie-policy",
+        "https://account.asmodee.net/en/legal/privacy",
         "https://account.asmodee.net/en/legal/notice"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -14,9 +14,8 @@
     "email": "datenschutz@baaderbank.de",
     "web": "https://www.baaderbank.de/",
     "sources": [
-        "https://www.baaderbank.de/Sonderseiten-428",
-        "https://www.baaderbank.de/Impressum-21",
-        "https://www.baaderbank.de/Sonderseiten-426"
+        "https://www.baaderbank.de/en/imprint/data-protection-declaration",
+        "https://www.baaderbank.de/en/imprint"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

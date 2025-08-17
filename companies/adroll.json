@@ -10,28 +10,19 @@
     "runs": [
         "AdRoll (www.adroll.com)",
         "RollWorks (www.rollworks.com)",
-        "connect.adroll.com",
-        "app.adroll.com",
-        "pages.adroll.com",
-        "www.nextroll.com",
-        "pages.rollworks.com",
-        "blog.adrollgroup.com",
-        "help.adroll.com",
-        "tech.adroll.com",
-        "developers.adroll.com",
         "NextRoll, Inc.",
         "AdRoll Advertising Ltd. (formerly)",
         "AdRoll, Inc. (formerly)"
     ],
-    "address": "Level 6\n1, Burlington Plaza\nBurlington Road\nDublin 4\nIreland",
-    "email": "dpo@nextroll.com",
+    "address": "Floor 3, Block 3\nMiesian Plaza\nDublin 2\nD02 Y754\nIreland",
+    "email": "support@nextroll.com",
+    "webform": "https://nextroll-privacy.relyance.ai/",
     "web": "https://www.adroll.com/",
     "sources": [
-        "https://www.adrollgroup.com/privacy",
         "https://www.nextroll.com/privacy",
         "https://github.com/datenanfragen/data/pull/753"
     ],
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }

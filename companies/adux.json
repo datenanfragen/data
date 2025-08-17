@@ -7,13 +7,13 @@
         "ads"
     ],
     "name": "AdUX",
-    "address": "6 Place du Colonel Bourgoin\n75012 Paris\nFrance",
+    "address": "27 rue de Mogador\n75009 Paris\nFrance",
     "phone": "+33 1 73 03 89 00",
     "email": "privacy@adux.com",
     "web": "http://www.adux.com",
     "sources": [
-        "http://www.adux.com/en/privacy/",
-        "http://www.adux.com/en/contact/"
+        "https://www.adux.co/donnees-personnelles/",
+        "https://www.adux.co/informations-legales/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
