@@ -6,7 +6,6 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Axel Springer España, S.A.",
     "runs": [
         "autobild.es",
         "businessinsider.es",
@@ -15,18 +14,20 @@
         "ticbit.com",
         "topgear.es"
     ],
-    "address": "C/ Juan de Mariana 15\n28045 Madrid\nEspaña",
-    "phone": "+34 915 14 06 00",
-    "email": "dpo@axelspringer.es",
-    "web": "https://www.axelspringer.es",
     "sources": [
-        "https://www.axelspringer.es/politica-privacidad",
-        "https://www.autobild.es/politica_privacidad",
+        "https://www.henneomagazines.com/policies/privacy-policy",
+        "https://www.henneomagazines.com/policies/contact-information",
+        "https://www.autobild.es/politica-privacidad",
         "https://www.businessinsider.es/politica-privacidad",
-        "https://computerhoy.com/politica-privacidad-chn",
-        "https://www.hobbyconsolas.com/politica-de-privacidad",
+        "https://computerhoy.20minutos.es/politica-privacidad",
+        "https://www.hobbyconsolas.com/politica-privacidad",
         "https://www.topgear.es/politica-privacidad"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "name": "Henneo Magazines, S.A.",
+    "web": "https://www.henneomagazines.com",
+    "address": "Calle Canarias 49\n28045 Madrid\nEspaña",
+    "email": "dpo@henneomagazines.com",
+    "phone": "+34 915 14 06 00"
 }
