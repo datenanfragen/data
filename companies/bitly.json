@@ -3,10 +3,13 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "Bitly, Inc.",
-    "address": "85 5th Avenue\nNew York\nNY 10003\nUnited States of America",
+    "name": "Bitly Europe GmbH",
+    "runs": [
+        "Bitly, Inc."
+    ],
+    "address": "c/o BK Wirtschaftstreuhand GmbH\nSpichernstraße 1\n10777 Berlin\nGermany",
     "phone": "+1 646 678 5610",
-    "email": "privacy@bitly.com",
+    "email": "privacy-eu@bit.ly",
     "web": "https://bitly.com/",
     "sources": [
         "https://bitly.com/pages/privacy",
@@ -23,7 +26,6 @@
             "type": "email"
         }
     ],
-    "request-language": "en",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }

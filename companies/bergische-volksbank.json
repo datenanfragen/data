@@ -13,7 +13,7 @@
     "email": "datenschutzbeauftragter@voba-ibl.de",
     "web": "https://www.bergische-volksbank.de/",
     "sources": [
-        "https://www.bergische-volksbank.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.nolayer.landingpage.html",
+        "https://www.bergische-volksbank.de/datenschutzhinweis-zur-website.html?showConsent=false",
         "https://github.com/datenanfragen/data/pull/1499"
     ],
     "suggested-transport-medium": "email",
