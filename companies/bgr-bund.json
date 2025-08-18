@@ -8,13 +8,13 @@
     ],
     "name": "Bundesanstalt für Geowissenschaften und Rohstoffe (BGR)",
     "address": "Stilleweg 2\n30655 Hannover\nDeutschland",
-    "phone": "+49 511 643 3688",
-    "fax": "+49 511 643 2304",
+    "phone": "+49 511 6430",
+    "fax": "+49 511 6432304",
     "email": "Datenschutz@bgr.de",
     "web": "https://www.bgr.bund.de",
     "sources": [
-        "https://www.bgr.bund.de/DE/Allgemeines/Wm/Impressum/datenschutzerklaerung.html?nn=1542388",
-        "https://www.bgr.bund.de/DE/Allgemeines/Wm/Impressum/impressum_node.html"
+        "https://www.bgr.bund.de/DE/Service/Datenschutz/datenschutz_node.html",
+        "https://www.bgr.bund.de/DE/Service/Impressum/impressum_node.html"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

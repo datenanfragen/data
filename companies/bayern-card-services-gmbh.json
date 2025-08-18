@@ -6,14 +6,19 @@
     "categories": [
         "finance"
     ],
-    "name": "Bayern Card-Services GmbH - S-Finanzgruppe",
-    "address": "Barer Straße 24\n80333 München\nDeutschland",
-    "phone": "+49 89 9040760",
-    "email": "info@bayerncard.de",
+    "name": "qards GmbH",
+    "runs": [
+        "Bayern Card-Services GmbH (ehem.)",
+        "Pluscard Service-Gesellschaft für Kreditkarten-Processing mbH (ehem.)"
+    ],
+    "address": "Georg-Brauchle-Ring 23 – 25\n80992 München\nDeutschland",
+    "email": "marketing@qards.de",
     "web": "https://www.bayerncard.de",
     "sources": [
-        "https://www.bayerncard.de/impressum",
+        "https://www.qards.de/datenschutz",
+        "https://www.kreditwesen.de/cards/ergaenzende-informationen/karten-meldungen/bayern-card-services-pluscard-fusionieren-qards-id97298.html",
         "https://github.com/datenanfragen/data/pull/1462"
     ],
-    "quality": "verified"
+    "quality": "verified",
+    "phone": "+49 681 93760"
 }

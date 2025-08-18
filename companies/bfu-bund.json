@@ -13,7 +13,7 @@
     "email": "datenschutz@bfu-web.de",
     "web": "https://www.bfu-web.de",
     "sources": [
-        "https://www.bfu-web.de/DE/Service/Datenschutz/Datenschutz_node.html"
+        "https://www.bfu-web.de/DE/Service/Datenschutz/datenschutz_node.html"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

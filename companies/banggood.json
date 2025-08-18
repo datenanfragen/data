@@ -19,13 +19,13 @@
     "phone": "+852 8192 9309",
     "email": "data@banggood.com",
     "web": "https://www.banggood.com",
-    "request-language": "en",
-    "suggested-transport-medium": "email",
-    "quality": "verified",
     "sources": [
         "https://www.banggood.com/help_center/question_category.html?catid=196&artid=2426",
         "https://www.banggood.com/help_center/question_category.html?catid=288&artid=1604",
         "https://www.banggood.com/help_center/question_category.html?catid=264&artid=2425",
         "https://www.banggood.com/help_center/question_category.html?catid=226&artid=2427"
-    ]
+    ],
+    "request-language": "en",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
