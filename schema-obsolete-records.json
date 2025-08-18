@@ -1,0 +1,65 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Datenanfragen.de company database obsolete record",
+    "description": "A former record in the Datenanfragen.de company database that is now obsolete.\nIt thus only holds minimal information so as not to break existing links etc.",
+    "type": "object",
+    "properties": {
+        "slug": {
+            "type": "string",
+            "title": "Slug",
+            "pattern": "^[a-z0-9-]+$",
+            "description": "The slug the former record had. May not be changed."
+        },
+        "name": {
+            "type": "string",
+            "description": "A human-readable name to identify what the record was about. This doesn't need to be the company's legal name, but could for example also be the name of a service it offered that the former record was about.",
+            "title": "Name",
+            "pattern": "^\\S.*\\S$"
+        },
+        "reason": {
+            "type": "string",
+            "title": "Reason for obsolescence",
+            "description": "The reason why the record is obsolete.",
+            "enum": [
+                "company-acquired",
+                "company-defunct",
+                "company-merged",
+                "duplicate",
+                "gdpr-not-applicable",
+                "out-of-scope"
+            ]
+        },
+        "redirect-to": {
+            "type": "string",
+            "title": "Redirect to record",
+            "pattern": "^[a-z0-9-]+$",
+            "description": "The slug of another record to which old links to this record should redirect, e.g. the record of the acquiring company."
+        },
+        "sources": {
+            "type": "array",
+            "title": "Sources",
+            "description": "A list of sources for the record. From those, it should be apparent why the record is obsolete. For example, for a defunct company, this could be a link to the company register for its deletion. For a company that has been bought by another, it could be a link to a press release announcing the acquisition. For records that were deleted for internal reasons, this can also just be a link to a PR or issue documenting the change.\nDo not keep the sources of the original record, which often will be broken anyway.",
+            "uniqueItems": true,
+            "minItems": 1,
+            "items": {
+                "type": "string",
+                "format": "uri"
+            }
+        },
+        "quality": {
+            "type": "string",
+            "title": "Quality",
+            "description": "Mark the record as obsolete to make it easily distinguishable from active records.",
+            "enum": [ "obsolete" ],
+            "default": "obsolete"
+        }
+    },
+    "additionalProperties": false,
+    "required": [
+        "slug",
+        "name",
+        "reason",
+        "sources",
+        "quality"
+    ]
+}
