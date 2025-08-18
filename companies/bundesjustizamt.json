@@ -8,12 +8,12 @@
     ],
     "name": "Bundesamt für Justiz",
     "address": "Adenauerallee 99 – 103\n53113 Bonn\nDeutschland",
-    "phone": "+49 228 99 410 5422",
-    "fax": "+49 228 99 410 5050",
-    "email": "datenschutzbeauftragte@bfj.bund.de",
+    "phone": "+49 228 9941040",
+    "fax": "+49 228 4104515",
+    "email": "datenschutz@bfj.bund.de",
     "web": "https://www.bundesjustizamt.de",
     "sources": [
-        "https://www.bundesjustizamt.de/DE/Servicebereich/Datenschutzerklaerung/Datenschutzerklaerung_node.html"
+        "https://www.bundesjustizamt.de/DE/ServiceGSB/Datenschutz/Datenschutz_node.html"
     ],
     "required-elements": [
         {
@@ -40,9 +40,5 @@
     "custom-access-template": "access-bundesjustizamt",
     "needs-id-document": true,
     "suggested-transport-medium": "email",
-    "comments": [
-        "Alternative Faxnummer: +49 228 99 410 4601",
-        "Auf der Ausweiskopie müssen die folgenden Daten ersichtlich sein: Name, Vorname, Geburtsdatum, Geburtsort, Gültigkeitsdatum, Unterschrift, Anschrift\n\nAlle sonstigen Daten können und sollten geschwärzt werden."
-    ],
     "quality": "verified"
 }

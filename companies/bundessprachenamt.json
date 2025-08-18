@@ -11,10 +11,10 @@
     "phone": "+49 2233 593 0",
     "fax": "+49 2233 593 5616",
     "email": "info@bundessprachenamt.de",
-    "web": "http://www.bundessprachenamt.de/",
     "sources": [
-        "http://www.bundessprachenamt.de/deutsch/impressum/impressum.htm"
+        "https://www.bundeswehr.de/de/organisation/personal/das-bundessprachenamt/bundessprachenamt"
     ],
     "request-language": "de",
-    "quality": "verified"
+    "quality": "verified",
+    "web": "https://www.bundeswehr.de/de/organisation/personal/das-bundessprachenamt"
 }

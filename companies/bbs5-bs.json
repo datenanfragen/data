@@ -7,6 +7,7 @@
         "school",
         "public body"
     ],
+    "name": "Martha-Fuchs-Schule, Berufsbildende Schulen der Stadt Braunschweig",
     "runs": [
         "Berufsbildende Schule V der Stadt Braunschweig (ehem.)"
     ],
@@ -22,6 +23,5 @@
     "request-language": "de",
     "suggested-transport-medium": "email",
     "quality": "verified",
-    "facet-group": "school",
-    "name": "Martha-Fuchs-Schule, Berufsbildende Schulen der Stadt Braunschweig"
+    "facet-group": "school"
 }

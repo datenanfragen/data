@@ -8,7 +8,7 @@
     ],
     "name": "Bundesanstalt für Immobilienaufgaben",
     "runs": [
-        "meine BImA"
+        "Meine BImA"
     ],
     "address": "Ellerstraße 56\n53119 Bonn\nDeutschland",
     "phone": "+49 228 37787 0",
@@ -16,8 +16,8 @@
     "email": "Datenschutz@bundesimmobilien.de",
     "web": "https://www.bundesimmobilien.de/",
     "sources": [
-        "https://pages.bundesimmobilien.de/datenschutzerklaerung",
-        "https://pages.bundesimmobilien.de/impressum"
+        "https://resources.bundesimmobilien.de/bima/de/datenschutz",
+        "https://resources.bundesimmobilien.de/bima/de/impressum"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",
