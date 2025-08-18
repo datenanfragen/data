@@ -3,6 +3,7 @@
     "relevant-countries": [
         "all"
     ],
+    "name": "Bitly Europe GmbH",
     "runs": [
         "Bitly, Inc."
     ],
@@ -26,6 +27,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "name": "Bitly Europe GmbH"
+    "quality": "verified"
 }
