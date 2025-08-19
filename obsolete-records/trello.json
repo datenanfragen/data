@@ -1,0 +1,10 @@
+{
+    "slug": "trello",
+    "name": "Trello",
+    "reason": "duplicate",
+    "redirect-to": "atlassian",
+    "sources": [
+        "https://www.atlassian.com/blog/announcements/atlassian-plus-trello"
+    ],
+    "quality": "obsolete"
+}

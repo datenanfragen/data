@@ -1,0 +1,10 @@
+{
+    "slug": "leopold-apotheke-nbg-de",
+    "name": "Leopold-Apotheke",
+    "reason": "company-defunct",
+    "sources": [
+        "https://maps.app.goo.gl/5KKttS2QHHybSee7A",
+        "https://github.com/datenanfragen/data/commit/c3f13ae7b824e5cf6ae368abfedf858fb53e8177"
+    ],
+    "quality": "obsolete"
+}

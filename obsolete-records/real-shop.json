@@ -1,0 +1,10 @@
+{
+    "slug": "real-shop",
+    "name": "real,- SB-Warenhaus GmbH",
+    "reason": "company-acquired",
+    "redirect-to": "kaufland",
+    "sources": [
+        "https://www.kaufland.de/i/rechtliches/datenschutz/~3DBQzIql6A382owak3A5oY/#1-verantwortliche-stelle"
+    ],
+    "quality": "obsolete"
+}

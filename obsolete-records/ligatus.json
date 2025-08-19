@@ -1,0 +1,11 @@
+{
+    "slug": "ligatus",
+    "name": "Ligatus GmbH",
+    "reason": "company-acquired",
+    "redirect-to": "outbrain",
+    "sources": [
+        "https://www.outbrain.com/blog/outbrain-acquires-ligatus-the-leading-native-advertising-platform-in-europe/",
+        "https://github.com/datenanfragen/data/issues/1510"
+    ],
+    "quality": "obsolete"
+}

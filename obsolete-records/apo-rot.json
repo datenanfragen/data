@@ -1,0 +1,10 @@
+{
+    "slug": "apo-rot",
+    "name": "apo-rot Versandapotheke",
+    "reason": "company-merged",
+    "redirect-to": "docmorris",
+    "sources": [
+        "https://www.docmorris.de/lp/apo-rot"
+    ],
+    "quality": "obsolete"
+}

@@ -1,0 +1,9 @@
+{
+    "slug": "habbocity",
+    "name": "HabboCity",
+    "reason": "out-of-scope",
+    "sources": [
+        "https://github.com/datenanfragen/data/commit/ac346fb700e12459df247dad968f969fecf1bb7d"
+    ],
+    "quality": "obsolete"
+}

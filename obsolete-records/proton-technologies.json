@@ -1,0 +1,10 @@
+{
+    "slug": "proton-technologies",
+    "name": "Proton Technologies AG",
+    "reason": "duplicate",
+    "redirect-to": "proton",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1874"
+    ],
+    "quality": "obsolete"
+}
