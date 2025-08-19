@@ -7,14 +7,18 @@
         "ads",
         "telecommunication"
     ],
-    "name": "Calldorado ApS",
-    "address": "Gladsaxevej 342\n2860 Soeborg\nDenmark",
-    "email": "support@calldorado.com",
+    "name": "Appvestor ApS",
+    "runs": [
+        "Calldorado"
+    ],
+    "address": "Gladsaxevej 342\n2860 Søborg\nDenmark",
+    "email": "info@appvestor.com",
     "web": "https://calldorado.com/",
     "sources": [
-        "https://legal.calldorado.com/privacy-policy/"
+        "https://calldorado.com/terms-of-use.html",
+        "https://appvestor.com/?page_id=457"
     ],
     "request-language": "en",
-    "quality": "verified",
-    "custom-access-template": "access-tracking"
+    "custom-access-template": "access-tracking",
+    "quality": "verified"
 }

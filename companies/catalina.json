@@ -11,11 +11,11 @@
         "Catalina Deutschland GmbH"
     ],
     "address": "200 Carillon Parkway\nSt. Petersburg\nFL 33716\nUnited States of America",
-    "email": "DPO@catalina.com",
+    "email": "privacyteam@catalina.com",
+    "webform": "https://privacyportal.onetrust.com/webform/7665c53e-aae8-4a03-9dd3-66fb6bce8f55/6c428920-a20e-4932-a5c9-a16f4a7abea2",
     "web": "https://www.catalina.com",
     "sources": [
-        "https://www.catalina.com/contact/",
-        "https://www.catalina.com/privacy-policy/"
+        "https://www.catalina.com/legal"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",

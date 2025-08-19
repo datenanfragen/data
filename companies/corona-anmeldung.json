@@ -5,21 +5,17 @@
         "de",
         "ch"
     ],
-    "categories": [
-        "health"
-    ],
     "name": "Krola Consulting GmbH",
     "runs": [
-        "corona-anmeldung.at",
-        "corona-anmeldung.de"
+        "corona-anmeldung.at (ehem.)",
+        "corona-anmeldung.de (ehem.)"
     ],
     "address": "Nördliche Münchner Str. 47\n82031 Grünwald\nDeutschland",
-    "phone": "+49 911 9993533",
-    "email": "info@corona-anmeldung.de",
-    "web": "https://corona-anmeldung.at",
+    "phone": "+49 89 21936266",
+    "email": "contact@krola.de",
+    "web": "https://www.krola.de/",
     "sources": [
-        "https://corona-anmeldung.at/imprint",
-        "https://corona-anmeldung.de/imprint"
+        "https://www.krola.de/datenschutzerklarung/"
     ],
     "quality": "verified"
 }

@@ -4,26 +4,9 @@
         "all"
     ],
     "name": "VIMtrek, LLC",
-    "runs": [
-        "Concora"
-    ],
-    "address": "13010 Morris Road\nBuilding 1, Suite 650\nAlpharetta GA 30004\nUnited States of America",
-    "email": "info@concora.com",
-    "web": "https://concora.com",
+    "address": "13661 New Providence Rd\nMilton, GA 30004\nUnited States of America",
     "sources": [
-        "https://concora.com/privacy-policy/"
-    ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name",
-            "optional": false
-        },
-        {
-            "desc": "Email",
-            "type": "email",
-            "optional": false
-        }
+        "https://ecorp.sos.ga.gov/businesssearch/BusinessInformation?businessId=1837981"
     ],
     "quality": "verified"
 }

@@ -12,7 +12,7 @@
     "email": "stiftung@concordia-sozialprojekte.de",
     "web": "https://www.concordia-sozialprojekte.de",
     "sources": [
-        "https://www.concordia-sozialprojekte.de/datenschutz",
+        "https://www.concordia-sozialprojekte.de/datenschutzerklaerung/",
         "https://github.com/datenanfragen/data/pull/835"
     ],
     "quality": "verified"

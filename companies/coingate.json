@@ -10,12 +10,11 @@
     "runs": [
         "CoinGate (coingate.com)"
     ],
-    "address": "A. Goštauto g. 8\nLT-01108 Vilnius\nLithuania",
+    "address": "A. Goštauto g. 8-331\nLT-01108 Vilnius\nLithuania",
     "email": "dpo@coingate.com",
     "web": "https://coingate.com/",
     "sources": [
-        "https://coingate.com/privacy",
-        "https://coingate.com/contact"
+        "https://coingate.com/policy/privacy-policy"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",

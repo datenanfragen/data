@@ -7,14 +7,10 @@
         "finance"
     ],
     "name": "Chase Debt Ltd",
-    "address": "1st Floor\n54 Watling Street Radlett\nHertfordshire\nWD7 7NN\nUnited Kingdom",
-    "phone": "+44 20 3780 7141",
-    "email": "info@chasedebt.co.uk",
-    "web": "https://chasedebt.co.uk/",
+    "address": "1st Floor\n54 Watling Street\nRadlett\nWD7 7NN\nUnited Kingdom",
     "sources": [
-        "https://chasedebt.co.uk/",
+        "https://find-and-update.company-information.service.gov.uk/company/07414263",
         "https://github.com/datenanfragen/data/pull/821"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
