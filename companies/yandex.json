@@ -9,7 +9,7 @@
         "social media",
         "telecommunication"
     ],
-    "name": "Yandex Oy",
+    "name": "Yandex",
     "runs": [
         "YANDEX LLC",
         "Yandex.Classifieds LLC",
@@ -30,8 +30,8 @@
         "Yandex.Kazakhstan LLP",
         "AppMetrica"
     ],
-    "address": "Moreenikatu 6\n04600 Mantsala\nFinland",
-    "webform": "https://yandex.com/support/common/troubleshooting/other.html",
+    "address": "c/o Global DC Oy\nMoreenikatu 6\n04600 Mantsala\nFinland",
+    "webform": "https://yandex.com/support/common/en/troubleshooting/main.html",
     "web": "https://yandex.com/",
     "sources": [
         "https://yandex.com/legal/confidential/?lang=en",
