@@ -14,6 +14,8 @@
     "phone": "+49 228 619 2050",
     "fax": "+49 228 99106191870",
     "email": "datenschutzbeauftragte@bas.bund.de",
+    "pgp-fingerprint": "6FB2 E57B EA42 4A51 D277  1E71 325D 183E EA87 354F",
+    "pgp-url": "https://www.bundesamtsozialesicherung.de/fileadmin/redaktion/Zertifikate_Kommunikation/2024Poststelle.asc",
     "web": "https://www.bundesamtsozialesicherung.de",
     "sources": [
         "https://www.bundesamtsozialesicherung.de/de/service/datenschutzerklaerung/",
@@ -22,7 +24,5 @@
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "pgp-url": "https://www.bundesamtsozialesicherung.de/fileadmin/redaktion/Zertifikate_Kommunikation/2024Poststelle.asc",
-    "pgp-fingerprint": "6FB2 E57B EA42 4A51 D277  1E71 325D 183E EA87 354F"
+    "quality": "verified"
 }
