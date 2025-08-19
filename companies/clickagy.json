@@ -7,15 +7,16 @@
         "ads"
     ],
     "name": "Clickagy, LLC",
-    "address": "3780 Mansell Road Suite 350\nAlpharetta\nGA 30022\nUnited States of America",
-    "phone": "+1 877 678 4577",
-    "email": "support@clickagy.com",
+    "address": "c/o VeraSafe Ireland Ltd.\nUnit 3D North Point House\nNorth Point Business Park\nNew Mallow Road\nCork T23AT2P\nIreland",
+    "email": "privacy@clickagy.com",
+    "webform": "https://www.clickagy.com/privacy-center/",
     "web": "https://www.clickagy.com/",
     "sources": [
-        "https://www.clickagy.com/privacy/",
-        "https://www.bloomberg.com/profile/company/1221050D:US"
+        "https://www.clickagy.com/privacy/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
-    "quality": "verified"
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "phone": "+1 833 737 1973"
 }

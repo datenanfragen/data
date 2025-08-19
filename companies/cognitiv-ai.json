@@ -7,13 +7,13 @@
         "ads"
     ],
     "name": "Cognitiv Corp.",
-    "address": "594 Broadway\nSuite 707\nNew York\nNY 10012\nUnited States of America",
-    "phone": "+1 917 383 3800",
+    "address": "215 Park Ave S\nFloor 16\nNew York\nNY 10003\nUnited States of America",
+    "phone": "+1 917 768 2600",
     "email": "privacy@cognitiv.ai",
     "web": "https://cognitiv.ai/",
     "sources": [
         "https://cognitiv.ai/privacy-policy/",
-        "https://cognitiv.ai/about-cognitiv/"
+        "https://www.cognitiv.ai/contact"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
