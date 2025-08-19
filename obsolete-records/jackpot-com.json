@@ -1,0 +1,9 @@
+{
+    "slug": "jackpot-com",
+    "name": "Jackpot.com",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://lotto.jackpot.com/prohibited-countries"
+    ],
+    "quality": "obsolete"
+}

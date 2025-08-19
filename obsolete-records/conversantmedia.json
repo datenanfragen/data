@@ -1,0 +1,10 @@
+{
+    "slug": "conversantmedia",
+    "name": "Conversant Media",
+    "reason": "duplicate",
+    "redirect-to": "epsilon-com",
+    "sources": [
+        "https://legal.epsilon.com/eu/privacy-policy"
+    ],
+    "quality": "obsolete"
+}

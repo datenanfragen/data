@@ -5,14 +5,9 @@
     ],
     "name": "KlexHub UG (haftungsbeschränkt)",
     "address": "Kurt-Schumacher-Str. 2\n89343 Jettingen-Scheppach\nDeutschland",
-    "phone": "+49 8225 7989000",
-    "fax": "+49 8225 7989001",
-    "email": "datenschutz@klexhub.com",
-    "web": "https://klexhub.com/",
     "sources": [
-        "https://github.com/datenanfragen/data/issues/214",
-        "https://klexhub.com/legal/datenschutz"
+        "https://www.northdata.de/KlexHub%20UG,%20Jettingen-Scheppach/Amtsgericht%20Memmingen%20HRB%2018195",
+        "https://github.com/datenanfragen/data/issues/214"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
