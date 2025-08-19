@@ -1,0 +1,10 @@
+{
+    "slug": "deliveroo-de",
+    "name": "Deliveroo Germany GmbH",
+    "reason": "duplicate",
+    "redirect-to": "deliveroo",
+    "sources": [
+        "https://github.com/datenanfragen/data/commit/5f1008569377e618c1a6c8c1aa8c1ad29d39b800"
+    ],
+    "quality": "obsolete"
+}

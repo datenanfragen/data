@@ -3,27 +3,22 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "ads"
-    ],
-    "name": "GroupM UK Ltd.",
+    "name": "WPP Media",
     "runs": [
-        "GroupM Worldwide LLC",
-        "[m]PLATFORM Ltd.",
-        "mPlatform, LLC",
-        "Xaxis"
+        "GroupM (formerly)",
+        "mPlatform (formerly)",
+        "Xaxis (formerly)"
     ],
-    "address": "40 The Strand\nLondon\nWC2N 5RW\nUnited Kingdom",
-    "phone": "+44 20 7896 4700",
-    "email": "DPO@GroupM.com",
-    "web": "https://www.groupm.com/",
+    "address": "Sea Containers\n18 Upper Ground\nLondon\nSE1 9ET\nUnited Kingdom",
+    "email": "DPO@wppmedia.com",
+    "web": "https://www.wppmedia.com/",
     "sources": [
-        "https://www.groupm.com/privacy-notice/",
-        "https://www.groupm.com/mplatform-privacy-notice/",
-        "https://www.xaxis.com/privacy-notice/"
+        "https://www.wppmedia.com/pages/privacy-policy",
+        "https://www.marketingdive.com/news/groupm-becomes-wpp-media-as-holding-company-prepares-for-future/749462/",
+        "https://www.campaignasia.com/article/groupm-sunsets-xaxis-sightline-and-finecast-brands-as-nexus-reorganises/491642",
+        "https://digiday.com/media/once-billed-as-the-future-of-groupm-mplatform-fades-into-the-background/"
     ],
     "request-language": "en",
-    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }

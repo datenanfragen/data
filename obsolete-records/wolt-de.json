@@ -1,0 +1,10 @@
+{
+    "slug": "wolt-de",
+    "name": "Wolt Enterprises Deutschland GmbH",
+    "reason": "duplicate",
+    "redirect-to": "wolt-com",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2499"
+    ],
+    "quality": "obsolete"
+}

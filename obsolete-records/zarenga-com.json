@@ -1,0 +1,10 @@
+{
+    "slug": "zarenga-com",
+    "name": "Zarenga GmbH",
+    "reason": "duplicate",
+    "redirect-to": "zarenga",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/850"
+    ],
+    "quality": "obsolete"
+}

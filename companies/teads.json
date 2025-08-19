@@ -6,14 +6,21 @@
     "categories": [
         "ads"
     ],
-    "name": "Teads SA",
+    "name": "Teads France SA",
+    "runs": [
+        "Teads SA",
+        "Teads Deutschland GmbH",
+        "Teads Italia srl",
+        "Teads NL BV",
+        "Teads Studio SRL",
+        "Teads Spain SLU"
+    ],
     "address": "97 rue du Cherche midi\n75006 Paris\nFrance",
-    "phone": "+33 1 70 95 59 00",
     "email": "dpo@teads.com",
     "web": "https://www.teads.com",
     "webform": "https://user-privacy.teads.tv",
     "sources": [
-        "https://www.teads.com/privacy-policy/",
+        "https://privacy-policy.teads.com/privacy-policy/european-privacy-notice/",
         "https://www.teads.com/teads-offices/"
     ],
     "request-language": "en",
