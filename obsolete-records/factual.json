@@ -1,0 +1,10 @@
+{
+    "slug": "factual",
+    "name": "Factual",
+    "reason": "company-acquired",
+    "redirect-to": "foursquare",
+    "sources": [
+        "https://foursquare.com/resources/blog/news/factual-joins-foursquare-to-create-clear-location-market-leader/"
+    ],
+    "quality": "obsolete"
+}
