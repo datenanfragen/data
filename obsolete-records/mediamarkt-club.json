@@ -1,0 +1,10 @@
+{
+    "slug": "mediamarkt-club",
+    "name": "MediaMarkt Club",
+    "reason": "duplicate",
+    "redirect-to": "mediamarkt",
+    "sources": [
+        "https://www.mediamarkt.de/de/legal/datenschutzhinweise/my-mediamarkt"
+    ],
+    "quality": "obsolete"
+}

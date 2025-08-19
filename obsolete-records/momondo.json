@@ -1,0 +1,10 @@
+{
+    "slug": "momondo",
+    "name": "momondo A/S",
+    "reason": "duplicate",
+    "redirect-to": "kayak",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/3246"
+    ],
+    "quality": "obsolete"
+}

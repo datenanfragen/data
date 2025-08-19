@@ -1,0 +1,10 @@
+{
+    "slug": "kleiderkreisel-de",
+    "name": "Kleiderkreisel.de",
+    "reason": "company-merged",
+    "redirect-to": "vinted-uab-de",
+    "sources": [
+        "https://www.kleiderkreisel.de/"
+    ],
+    "quality": "obsolete"
+}

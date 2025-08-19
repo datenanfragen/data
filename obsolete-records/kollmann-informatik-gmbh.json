@@ -1,0 +1,9 @@
+{
+    "slug": "kollmann-informatik-gmbh",
+    "name": "Kollmann Informatik GmbH",
+    "reason": "out-of-scope",
+    "sources": [
+        "http://kollmanninformatik.de/"
+    ],
+    "quality": "obsolete"
+}
