@@ -1,0 +1,10 @@
+{
+    "slug": "oebb-at",
+    "name": "ÖBB-Personenverkehr AG",
+    "reason": "duplicate",
+    "redirect-to": "oebb-personenverkehr",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1416"
+    ],
+    "quality": "obsolete"
+}

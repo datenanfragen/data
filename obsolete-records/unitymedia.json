@@ -1,0 +1,12 @@
+{
+    "slug": "unitymedia",
+    "name": "Unitymedia",
+    "reason": "company-acquired",
+    "redirect-to": "vodafone-de",
+    "sources": [
+        "https://newsroom.vodafone.de/unitymedia-kauf-vodafone-schafft-starken-bundesweiten-wettbewerber",
+        "https://www.northdata.de/?id=5852350070128640",
+        "https://www.unitymedia.de/"
+    ],
+    "quality": "obsolete"
+}

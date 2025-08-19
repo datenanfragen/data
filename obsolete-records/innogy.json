@@ -1,0 +1,10 @@
+{
+    "slug": "innogy",
+    "name": "innogy SE",
+    "reason": "company-merged",
+    "redirect-to": "eon-energie",
+    "sources": [
+        "https://web.archive.org/web/20201001035746/https://www.eon.de/de/innogy.html"
+    ],
+    "quality": "obsolete"
+}
