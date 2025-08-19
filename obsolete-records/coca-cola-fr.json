@@ -1,0 +1,10 @@
+{
+    "slug": "coca-cola-fr",
+    "name": "NV Coca-Cola Services SA",
+    "reason": "duplicate",
+    "redirect-to": "coca-cola-eu",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1709"
+    ],
+    "quality": "obsolete"
+}

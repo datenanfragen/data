@@ -1,0 +1,9 @@
+{
+    "slug": "raunakgroup",
+    "name": "Raunak Group",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/commit/4aeb67bfbc48a67c348ce64e350be8530010fa03"
+    ],
+    "quality": "obsolete"
+}

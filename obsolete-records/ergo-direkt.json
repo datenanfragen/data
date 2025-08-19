@@ -1,0 +1,10 @@
+{
+    "slug": "ergo-direkt",
+    "name": "ERGO Direkt Versicherungen",
+    "reason": "duplicate",
+    "redirect-to": "ergo-group",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1398"
+    ],
+    "quality": "obsolete"
+}

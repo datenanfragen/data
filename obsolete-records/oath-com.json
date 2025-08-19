@@ -1,0 +1,10 @@
+{
+    "slug": "oath-com",
+    "name": "Oath",
+    "reason": "duplicate",
+    "redirect-to": "verizon-media",
+    "sources": [
+        "https://variety.com/2018/digital/news/verizon-oath-renamed-verizon-media-group-1203092933/"
+    ],
+    "quality": "obsolete"
+}
