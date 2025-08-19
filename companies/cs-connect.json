@@ -7,15 +7,14 @@
         "credit agency"
     ],
     "name": "CS Connect GmbH & Co. KG",
-    "address": "Postfach 19 60\n65009 Wiesbaden\nDeutschland",
-    "phone": "+49 611 53269 470",
-    "fax": "+49 611 53269 468",
+    "address": "Kormoranweg 5\n65201 Wiesbaden\nDeutschland",
+    "phone": "+49 611 53269470",
     "email": "datenschutz@cs-connect.de",
-    "webform": "https://www.cs-connect.de/kontakt/eigenauskunft.jsp",
+    "webform": "https://www.cs-connect.de/kontakt/",
     "web": "https://www.cs-connect.de",
     "sources": [
         "https://www.cs-connect.de/datenschutz.jsp",
-        "https://www.cs-connect.de/impressum.html"
+        "https://www.cs-connect.de/impressum.jsp"
     ],
     "required-elements": [
         {

@@ -7,7 +7,7 @@
         "entertainment"
     ],
     "name": "Crunchyroll, LLC",
-    "address": "444 Bush Street\nSan Francisco, CA 94108\nUnited States of America",
+    "address": "c/o Crunchyroll GmbH\nSpreeufer 5\n1st, 3rd & 4th Floors\n10178 Berlin\nGermany",
     "phone": "+49 89 51305697",
     "fax": "+49 89 51305698",
     "email": "SPE_EU_Privacy_Contact@spe.sony.com",
@@ -16,7 +16,6 @@
     "sources": [
         "https://intl.sonypictures.com/sony-entities",
         "https://intl.sonypictures.com/en/contact-us",
-        "https://www.crunchyroll.com/en/tos/",
         "https://github.com/datenanfragen/data/pull/2398"
     ],
     "suggested-transport-medium": "webform",
