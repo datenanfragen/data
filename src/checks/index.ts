@@ -22,6 +22,12 @@ import trackingCompanyRequiredElementsCheck from './company/tracking-company-req
 import companyExistenceCheck from './pack/company-existence';
 import passPackSchemaCheck from './pack/pass-schema';
 
+import passObsoleteSchemaCheck from './obsolete-record/pass-schema';
+import originalRecordDeletedCheck from './obsolete-record/original-record-deleted';
+import matchFilenameSlugObsoleteCheck from './obsolete-record/match-filename-slug';
+import redirectToExistsCheck from './obsolete-record/redirect-to-exists';
+import shouldRedirectCheck from './obsolete-record/should-redirect';
+
 const linters = {
     recordlint: {
         checks: [
@@ -57,6 +63,17 @@ const linters = {
         checks: [companyExistenceCheck, passPackSchemaCheck] as unknown as Check[],
         url: 'https://github.com/datenanfragen/data/blob/master/src/checks/pack',
         path_filter: (path: string) => path.startsWith('company-packs/'),
+    },
+    obsoletelint: {
+        checks: [
+            passObsoleteSchemaCheck,
+            originalRecordDeletedCheck,
+            matchFilenameSlugObsoleteCheck,
+            redirectToExistsCheck,
+            shouldRedirectCheck,
+        ] as Check[],
+        url: 'https://github.com/datenanfragen/data/blob/master/src/checks/obsolete-record',
+        path_filter: (path: string) => path.startsWith('obsolete-records/'),
     },
 };
 export default linters;

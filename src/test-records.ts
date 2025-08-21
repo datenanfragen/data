@@ -192,5 +192,6 @@ process.on('unhandledRejection', (err) => {
     await validate(join(base_dir, 'companies'));
     await validate(join(base_dir, 'supervisory-authorities'));
     await validate(join(base_dir, 'company-packs'));
+    await validate(join(base_dir, 'obsolete-records'));
     process.exit(exit_code);
 })();
