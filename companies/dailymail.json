@@ -23,6 +23,7 @@
         "This is Money (www.thisismoney.co.uk)"
     ],
     "address": "Northcliffe House\n9 Derry Street\nLondon\nW8 5HY\nUnited Kingdom",
+    "phone": "+44 330 100 0601",
     "email": "dataprotection@dmgmedia.co.uk",
     "web": "https://www.dailymail.co.uk",
     "sources": [
@@ -37,6 +38,5 @@
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "phone": "+44 330 100 0601"
+    "quality": "verified"
 }
