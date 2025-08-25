@@ -1,0 +1,18 @@
+{
+    "slug": "cleverbuy",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "cleverbuy",
+    "address": "Cleverbuy GmbH\nHöffgeshofweg 17\n47807 Krefeld\nDeutschland",
+    "email": "info@cleverbuy.de",
+    "web": "https://www.cleverbuy.de/impressum/",
+    "sources": [
+        "https://www.cleverbuy.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/3120"
+    ],
+    "quality": "verified"
+}
