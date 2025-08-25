@@ -16,10 +16,10 @@
     "email": "dbconnect-datenschutz@deutschebahn.com",
     "web": "https://www.deutschebahnconnect.com/de",
     "sources": [
-        "https://www.deutschebahnconnect.com/de/datenschutz",
+        "https://www.deutschebahnconnect.com/dbconnect/Datenschutzhinweise-7320038",
         "https://www.callabike.de/de/datenschutz",
-        "https://anmeldung.flinkster.de/de/datenschutz",
-        "https://www.deutschebahnconnect.com/produkte/mobilitaetsbudget/DSE_Bonvoyo_App.html",
+        "https://www.flinkster.de/de/datenschutz",
+        "https://www.bonvoyo.de/benefit/Datenschutzhinweise-Bonvoyo-App-13448270",
         "https://github.com/datenanfragen/data/pull/2352"
     ],
     "suggested-transport-medium": "email",

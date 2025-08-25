@@ -12,7 +12,7 @@
     "email": "privacy@datonics.com",
     "web": "https://www.datonics.com/",
     "sources": [
-        "https://www.datonics.com/technology-privacy-policy"
+        "https://www.datonics.com/privacy/technology-privacy-policy"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

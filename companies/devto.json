@@ -3,13 +3,13 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "Dev Community Inc.",
-    "address": "20 Jay St #1110\nBrooklyn\nNY 11201\nUnited States of America",
-    "email": "yo@dev.to",
+    "name": "DEV Community Inc.",
+    "address": "228 Park Ave S, PMB 72192\nNY 10003\nUnited States of America",
+    "email": "support@dev.to",
     "web": "https://dev.to",
     "sources": [
         "https://dev.to/privacy",
-        "https://www.nycompanyregistry.com/companies/dev-community-inc/",
+        "https://opencorporates.com/companies/us_ny/5609743",
         "https://github.com/datenanfragen/data/issues/398"
     ],
     "required-elements": [
