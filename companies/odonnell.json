@@ -1,0 +1,21 @@
+{
+    "slug": "odonnell",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "O'Donnell Moonshine GmbH",
+    "address": "c/o heyData GmbH\nSchützenstraße 5\n10117 Berlin\nDeutschland",
+    "phone": "+49 30 12088330",
+    "email": "datenschutz@heydata.eu",
+    "web": "https://odonnell.de",
+    "sources": [
+        "https://odonnell.de/policies/privacy-policy",
+        "https://odonnell.de/policies/legal-notice",
+        "https://github.com/datenanfragen/data/pull/3141"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
