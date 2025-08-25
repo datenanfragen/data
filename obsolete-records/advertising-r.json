@@ -1,0 +1,10 @@
+{
+    "slug": "advertising-r",
+    "name": "Advertising.R",
+    "reason": "duplicate",
+    "redirect-to": "ewealth-cc",
+    "sources": [
+        "https://github.com/datenanfragen/data/commit/b0466a058c4c601817919238396975b864ff8af8"
+    ],
+    "quality": "obsolete"
+}

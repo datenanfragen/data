@@ -1,0 +1,10 @@
+{
+    "slug": "heroku",
+    "name": "Heroku",
+    "reason": "duplicate",
+    "redirect-to": "salesforce",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/969"
+    ],
+    "quality": "obsolete"
+}

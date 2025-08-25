@@ -1,0 +1,10 @@
+{
+    "slug": "buchbinder",
+    "name": "Buchbinder",
+    "reason": "company-merged",
+    "redirect-to": "europcar",
+    "sources": [
+        "https://www.europcar.de/de-de/p/buchbinder"
+    ],
+    "quality": "obsolete"
+}

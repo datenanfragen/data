@@ -1,0 +1,10 @@
+{
+    "slug": "coca-cola-deutschland",
+    "name": "Coca-Cola GmbH",
+    "reason": "duplicate",
+    "redirect-to": "coca-cola-eu",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1709"
+    ],
+    "quality": "obsolete"
+}

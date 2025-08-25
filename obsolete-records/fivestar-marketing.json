@@ -1,0 +1,9 @@
+{
+    "slug": "fivestar-marketing",
+    "name": "Fivestar Marketing EOOD",
+    "reason": "out-of-scope",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2206"
+    ],
+    "quality": "obsolete"
+}

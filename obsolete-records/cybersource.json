@@ -1,0 +1,11 @@
+{
+    "slug": "cybersource",
+    "name": "CyberSource",
+    "reason": "duplicate",
+    "redirect-to": "visa-eu",
+    "sources": [
+        "https://www.authorize.net/about-us.html",
+        "https://www.cybersource.com/en/about.html"
+    ],
+    "quality": "obsolete"
+}

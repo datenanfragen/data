@@ -16,6 +16,10 @@
         {
             "fileMatch": ["/company-packs/*.json"],
             "url": "./schema-company-packs.json"
+        },
+        {
+            "fileMatch": ["/obsolete-records/*.json"],
+            "url": "./schema-obsolete-records.json"
         }
     ]
 }

@@ -1,5 +1,5 @@
 import { MergeExclusive, PartialDeep } from 'type-fest';
-import { AuthorityRecord, CompanyRecord, GenericRecord, CompanyPack } from '../types/records';
+import { AuthorityRecord, CompanyRecord, GenericRecord, CompanyPack, ObsoleteRecord } from '../types/records';
 
 export type Position = { line?: number; column?: number };
 type LocationRange = { start: Position; end?: Position };
@@ -30,6 +30,7 @@ export type Check<T = PartialDeep<GenericRecord>> = {
 export type CompanyCheck = Check<PartialDeep<CompanyRecord>>;
 export type AuthorityCheck = Check<PartialDeep<AuthorityRecord>>;
 export type CompanyPackCheck = Check<PartialDeep<CompanyPack>[]>;
+export type ObsoleteRecordCheck = Check<PartialDeep<ObsoleteRecord>>;
 
 // See: https://github.com/reviewdog/reviewdog/blob/master/proto/rdf/reviewdog.proto
 export type RdjsonLine = {

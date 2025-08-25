@@ -1,0 +1,10 @@
+{
+    "slug": "barkandrock",
+    "name": "Bark & Rock",
+    "reason": "duplicate",
+    "redirect-to": "propergoose",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1050"
+    ],
+    "quality": "obsolete"
+}

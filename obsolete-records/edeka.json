@@ -1,0 +1,10 @@
+{
+    "slug": "edeka",
+    "name": "EDEKA ZENTRALE AG & Co. KG",
+    "reason": "duplicate",
+    "redirect-to": "edeka-zentrale",
+    "sources": [
+        "https://github.com/datenanfragen/data/commit/33e5702aa1f8ced983068083fab3bb2090924cde"
+    ],
+    "quality": "obsolete"
+}

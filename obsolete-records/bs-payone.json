@@ -1,0 +1,10 @@
+{
+    "slug": "bs-payone",
+    "name": "BS Payone GmbH",
+    "reason": "duplicate",
+    "redirect-to": "payone",
+    "sources": [
+        "https://github.com/datenanfragen/data/commit/a26d2122714629e8107194cf51e31a15766fb0c7"
+    ],
+    "quality": "obsolete"
+}
