@@ -1,0 +1,9 @@
+{
+    "slug": "apolloprogram",
+    "name": "Apollo Program LLC",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1509#issuecomment-950386060"
+    ],
+    "quality": "obsolete"
+}
