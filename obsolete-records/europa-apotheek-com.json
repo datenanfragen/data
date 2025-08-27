@@ -1,0 +1,10 @@
+{
+    "slug": "europa-apotheek-com",
+    "name": "Europa Apotheek Venlo B.V.",
+    "reason": "company-merged",
+    "redirect-to": "shop-apotheke-com",
+    "sources": [
+        "https://www.shop-apotheke.com/europa-apotheek"
+    ],
+    "quality": "obsolete"
+}

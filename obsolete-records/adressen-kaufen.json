@@ -1,0 +1,10 @@
+{
+    "slug": "adressen-kaufen",
+    "name": "Adresskontor GmbH",
+    "reason": "duplicate",
+    "redirect-to": "firmenliste",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1915"
+    ],
+    "quality": "obsolete"
+}

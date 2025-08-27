@@ -1,0 +1,10 @@
+{
+    "slug": "zetaglobal",
+    "name": "Zeta",
+    "reason": "duplicate",
+    "redirect-to": "zetaglobal-com",
+    "sources": [
+        "https://github.com/datenanfragen/data/commit/51fbbf1d138b59daecd6f8b1525852e3aa861a45"
+    ],
+    "quality": "obsolete"
+}
