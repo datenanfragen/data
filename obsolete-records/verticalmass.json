@@ -1,0 +1,9 @@
+{
+    "slug": "verticalmass",
+    "name": "Vertical Mass, Inc.",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1509#issuecomment-950387825"
+    ],
+    "quality": "obsolete"
+}
