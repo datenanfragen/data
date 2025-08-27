@@ -8,10 +8,11 @@
     ],
     "name": "Deutsche Kommunistische Partei (DKP)",
     "address": "Hoffnungstraße 18\n45127 Essen\nDeutschland",
+    "phone": "+49 201 1778890",
     "email": "pv@dkp.de",
-    "web": "http://news.dkp.suhail.uberspace.de",
+    "web": "https://dkp.de/",
     "sources": [
-        "http://news.dkp.suhail.uberspace.de/impressum/"
+        "https://dkp.de/rechtliche-hinweise/datenschutzerklaerung/"
     ],
     "quality": "verified"
 }

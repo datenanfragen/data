@@ -8,16 +8,14 @@
         "ads"
     ],
     "name": "Dun & Bradstreet Deutschland GmbH",
-    "address": "Robert-Bosch-Straße 11\n64293 Darmstadt\nDeutschland",
-    "phone": "+49 615 13800",
-    "fax": "+49 615 1380360",
+    "address": "Brüsseler Straße 1-3\n60327 Frankfurt am Main\nDeutschland",
+    "phone": "+49 69 204460000",
     "email": "datenschutz.de@dnb.com",
     "webform": "https://www-prod.dnb.com/de-de/datenschutz/ihre-rechte-als-betroffener/selbstauskunft-widerspruch/",
-    "web": "https://www-prod.dnb.com/de-de/",
+    "web": "https://www.dnb.com/de-de/",
     "sources": [
-        "https://www-prod.dnb.com/de-de/impressum/",
-        "https://hello.dnb.com/rs/145-JUC-481/images/2022-02-21_Datenschutzhinweise-Auskunftsdatenbestand_DE.pdf",
-        "https://www-prod.dnb.com/de-de/datenschutz/ihre-rechte-als-betroffener/selbstauskunft-widerspruch/selbstauskunft-fuer-privatperson-oder-unternehmen/selbstauskunft-privatperson/"
+        "https://www.dnb.com/de-de/warum-dnb/datenschutz/ihre-rechte-als-betroffener/selbstauskunft-widerspruch/selbstauskunft-privatperson.html",
+        "https://www.dnb.com/de-de/impressum.html"
     ],
     "required-elements": [
         {
@@ -36,7 +34,7 @@
             "optional": false
         }
     ],
-    "suggested-transport-medium": "email",
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
