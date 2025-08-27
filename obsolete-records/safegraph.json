@@ -1,0 +1,9 @@
+{
+    "slug": "safegraph",
+    "name": "SafeGraph Inc.",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1509#issuecomment-954078870"
+    ],
+    "quality": "obsolete"
+}

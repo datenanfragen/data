@@ -1,0 +1,9 @@
+{
+    "slug": "truedata-co",
+    "name": "TrueData Solutions, Inc.",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1509#issuecomment-950388572"
+    ],
+    "quality": "obsolete"
+}

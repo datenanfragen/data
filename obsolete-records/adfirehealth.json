@@ -1,0 +1,9 @@
+{
+    "slug": "adfirehealth",
+    "name": "Katon Partners LLC dba Adfire Health",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1509#issuecomment-950388283"
+    ],
+    "quality": "obsolete"
+}
