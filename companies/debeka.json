@@ -15,7 +15,7 @@
         "Debeka Pensionskasse AG",
         "Debeka proService und Kooperations-GmbH",
         "Debeka Unterstützungskasse e. V.",
-        "prorente-Debeka Pensions-Management GmbH",
+        "Debeka proBUSINESS betriebliche Vorsorgesysteme GmbH",
         "Debeka Zusatzversorgungskasse V. a. G.",
         "Debeka Rechtsschutz-Schadenabwicklung GmbH"
     ],
@@ -25,9 +25,8 @@
     "email": "datenschutzbeauftragter@debeka.de",
     "web": "https://www.debeka.de",
     "sources": [
-        "https://www.debeka.de/datenschutz/index.html",
         "https://www.debeka.de/content/dam/de/webauftritt/sonstige/datenschutz/I%20200%20Datenschutzhinweise_Versicherungen.pdf",
-        "https://www.debeka.de/content/dam/de/webauftritt/sonstige/datenschutz/Gemeinsame_Verantwortlichkeit_Partnersysteme.pdf",
+        "https://www.debeka.de/content/dam/de/webauftritt/sonstige/datenschutz/gemeinsame_verantwortlichkeit_partnersysteme.pdf",
         "https://github.com/datenanfragen/data/pull/2423"
     ],
     "suggested-transport-medium": "email",

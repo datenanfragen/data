@@ -6,13 +6,15 @@
     "categories": [
         "commerce"
     ],
-    "name": "Dorothy Perkins Trading Ltd.",
-    "address": "Burton Business Park\nTorre Road\nLeeds\nLS9 7DN\nUnited Kingdom",
-    "email": "DPO@dorothyperkins.com",
+    "name": "Debenhams Brands Limited",
+    "runs": [
+        "Dorothy Perkins"
+    ],
+    "address": "49-51 Dale Street\nManchester\nM1 2HF\nUnited Kingdom",
+    "email": "DPO@debenhams.co.uk",
     "web": "https://euro.dorothyperkins.com",
     "sources": [
-        "https://www.dorothyperkins.com/eu/page/cs-privacy-policy.html",
-        "https://euro.dorothyperkins.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=34070&storeId=13064&langId=-1&viewAllFlag=false&categoryId=366062&interstitial=true&TS=1317378897624"
+        "https://www.dorothyperkins.com/pages/informational/privacy"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

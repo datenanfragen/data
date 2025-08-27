@@ -7,17 +7,15 @@
         "ads"
     ],
     "name": "Digitize New Media Ltd.",
-    "address": "15 Windsor Place\nDublin 2\nIreland",
+    "address": "1st Floor\n61 Thomas St\nD08 W250\nDublin 8\nIreland",
     "phone": "+353 1 662 2380",
-    "fax": "+353 1 686 5552",
     "email": "privacy@digitize.ie",
     "web": "https://www.digitize.ie/",
     "sources": [
-        "https://www.digitize.ie/online-privacy/",
-        "https://www.digitize.ie/#contact"
+        "https://www.digitize.ie/privacy-policy/"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
