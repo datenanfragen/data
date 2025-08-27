@@ -1,0 +1,9 @@
+{
+    "slug": "datonics",
+    "name": "Datonics LLC",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1509#issuecomment-950388708"
+    ],
+    "quality": "obsolete"
+}

@@ -1,0 +1,9 @@
+{
+    "slug": "kbmg",
+    "name": "Wunderman Worldwide LLC",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1509#issuecomment-950385604"
+    ],
+    "quality": "obsolete"
+}
