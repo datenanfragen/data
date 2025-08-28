@@ -1,5 +1,5 @@
 {
-    "slug": "sparkasse-mittelth-ringen",
+    "slug": "sparkasse-mittelthueringen",
     "relevant-countries": [
         "de"
     ],
@@ -8,10 +8,13 @@
     ],
     "name": "Sparkasse Mittelthüringen",
     "address": "Anger 25/26\n99084 Erfurt\nDeutschland",
+    "phone": "+49 361 5455000",
+    "fax": "+49 361 5455999",
     "email": "datenschutz@sparkasse-mittelthueringen.de",
     "sources": [
         "https://www.sparkasse-mittelthueringen.de/de/home/toolbar/datenschutz.html?n=true&stref=footer",
         "https://github.com/datenanfragen/data/pull/2745"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
