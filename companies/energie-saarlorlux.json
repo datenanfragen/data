@@ -9,12 +9,11 @@
     "name": "Energie SaarLorLux AG",
     "address": "Richard-Wagner-Straße 14-16\n66111 Saarbrücken\nDeutschland",
     "phone": "+49 681 5874777",
-    "fax": "+49 681 5874650",
     "email": "datenschutz@energie-saarlorlux.com",
     "web": "https://www.energie-saarlorlux.com/",
     "sources": [
-        "https://github.com/datenanfragen/data/issues/189",
-        "https://www.energie-saarlorlux.com/datenschutz/"
+        "https://www.energie-saarlorlux.com/datenschutz/",
+        "https://github.com/datenanfragen/data/issues/189"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
