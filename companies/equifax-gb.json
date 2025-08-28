@@ -13,8 +13,7 @@
     "email": "UKDPO@equifax.com",
     "web": "https://www.equifax.co.uk/",
     "sources": [
-        "https://www.equifax.co.uk/About-us/Privacy_policy.html",
-        "https://equifaxuk.custhelp.com/app/answers/detail/a_id/225"
+        "https://www.equifax.co.uk/privacy-hub/privacy-notice"
     ],
     "request-language": "en",
     "quality": "verified"

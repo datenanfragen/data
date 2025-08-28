@@ -8,14 +8,13 @@
     ],
     "name": "e-tec electronic GmbH",
     "address": "Atterseestrasse 121\n4850 Timelkam\nÖsterreich",
-    "phone": "+43 7672 958800",
+    "phone": "+43 7672 95880",
     "fax": "+43 7672 9588020",
     "email": "ccc@e-tec.at",
     "web": "https://www.e-tec.at/",
     "sources": [
-        "https://www.e-tec.at/page.php?page=etec_impressum",
-        "https://github.com/datenanfragen/data/issues/403",
-        "https://www.e-tec.at/page.php?page=etec_datenschutz"
+        "https://www.e-tec.at/de/unternehmen/datenschutz.html",
+        "https://github.com/datenanfragen/data/issues/403"
     ],
     "quality": "verified"
 }
