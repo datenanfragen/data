@@ -6,6 +6,7 @@
     "name": "Ecolog International FZE",
     "address": "W38, Dubai Airport Free Zone Authority (DAFZA)\nP.O. Box 54464\nDubai\nUnited Arab Emirates",
     "phone": "+971 4 299 4500",
+    "fax": "+971 4 299 5055",
     "email": "dpo@ecolog-international.com",
     "web": "https://ecolog-international.com/de",
     "sources": [
@@ -25,6 +26,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "fax": "+971 4 299 5055"
+    "quality": "verified"
 }
