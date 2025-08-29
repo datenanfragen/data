@@ -18,7 +18,6 @@
     "web": "https://www.firmenliste.net",
     "sources": [
         "https://www.firmenliste.net/datenschutz.php",
-        "https://adressen-kaufen.cc/impressum.html",
         "https://www.branchen-adressen.com/datenschutz/",
         "https://github.com/datenanfragen/data/pull/715",
         "https://github.com/datenanfragen/data/pull/2041"
