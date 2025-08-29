@@ -7,19 +7,14 @@
         "commerce",
         "finance"
     ],
-    "name": "Fiverr International Ltd.",
     "runs": [
-        "Fiverr Inc.",
-        "Fiverr Ltd."
+        "Fiverr International Ltd."
     ],
-    "address": "12 Ha'ummanim\n67897 Tel Aviv-Yafo\nIsrael",
-    "phone": "+972 72 228 0910",
-    "fax": "+972 3 631 7882",
+    "address": "Westendstrasse 28\n60325 Frankfurt am Main\nGermany",
     "email": "privacy@fiverr.com",
     "web": "https://www.fiverr.com/",
     "sources": [
-        "https://www.fiverr.com/privacy-policy",
-        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=116221003"
+        "https://www.fiverr.com/legal-portal/privacy/privacy-policy"
     ],
     "required-elements": [
         {
@@ -36,5 +31,6 @@
     "request-language": "en",
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified",
+    "name": "Fiverr Germany GmbH"
 }

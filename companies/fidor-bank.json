@@ -1,17 +1,21 @@
 {
     "slug": "fidor-bank",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "finance"
     ],
-    "name": "Fidor Bank AG",
-    "address": "Sandstraße 33\n80335 München\nDeutschland",
-    "phone": "+49 89 954 597 520",
-    "fax": "+49 89 954 597 522",
-    "email": "datenschutz@fidor.de",
-    "web": "https://www.fidor.de",
+    "name": "FG Management GmbH",
+    "runs": [
+        "Fidor Bank AG (ehem.)"
+    ],
+    "address": "Prannerstr. 1\n80333 München\nDeutschland",
+    "webform": "https://fidor-datentreuhand.legaldata.law/",
+    "web": "https://fgmanagement.de/",
     "sources": [
-        "https://www.fidor.de/document-center/privacy-policy",
-        "https://www.fidor.de/legal-notice"
+        "https://fgmanagement.de/",
+        "https://legaldata.law/impressum/"
     ],
     "required-elements": [
         {
@@ -23,10 +27,8 @@
             "type": "address"
         }
     ],
-    "relevant-countries": [
-        "de"
-    ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "email": "datenschutz@legaldata.law"
 }

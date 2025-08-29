@@ -3,25 +3,17 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "Flattr AB",
-    "address": "Box 4111\n20312 Malmö\nSweden",
-    "email": "privacy@flattr.com",
-    "web": "https://flattr.com",
-    "sources": [
-        "https://withdraw.flattr.com/privacy",
-        "https://flattr.com/privacy",
-        "https://github.com/datenanfragen/data/pull/2380"
+    "name": "eyeo GmbH",
+    "runs": [
+        "Flattr (formerly)"
     ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name"
-        },
-        {
-            "desc": "E-Mail",
-            "type": "email",
-            "optional": false
-        }
+    "address": "Kunibertsgasse 10\n50668 Köln\nGermany",
+    "email": "privacy@eyeo.com",
+    "web": "https://eyeo.com/privacy",
+    "sources": [
+        "https://eyeo.com/privacy",
+        "https://techcrunch.com/2017/04/05/adblock-plus-acquires-flattr/",
+        "https://github.com/datenanfragen/data/pull/2380"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
