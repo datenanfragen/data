@@ -7,6 +7,7 @@
         "commerce",
         "finance"
     ],
+    "name": "Fiverr Germany GmbH",
     "runs": [
         "Fiverr International Ltd."
     ],
@@ -31,6 +32,5 @@
     "request-language": "en",
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "name": "Fiverr Germany GmbH"
+    "quality": "verified"
 }

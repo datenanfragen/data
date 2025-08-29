@@ -22,6 +22,6 @@
         "https://github.com/datenanfragen/data/pull/715",
         "https://github.com/datenanfragen/data/pull/2041"
     ],
-    "quality": "verified",
-    "suggested-transport-medium": "email"
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }

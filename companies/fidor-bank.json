@@ -11,6 +11,7 @@
         "Fidor Bank AG (ehem.)"
     ],
     "address": "Prannerstr. 1\n80333 München\nDeutschland",
+    "email": "datenschutz@legaldata.law",
     "webform": "https://fidor-datentreuhand.legaldata.law/",
     "web": "https://fgmanagement.de/",
     "sources": [
@@ -29,6 +30,5 @@
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "email": "datenschutz@legaldata.law"
+    "quality": "verified"
 }

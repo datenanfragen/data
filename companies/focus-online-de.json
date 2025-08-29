@@ -9,6 +9,7 @@
     "name": "FOCUS Online",
     "address": "c/o BurdaForward GmbH\nSt.-Martin-Straße 66\n81541 München\nDeutschland",
     "phone": "+49 89 92504500",
+    "fax": "+49 89 92501240",
     "email": "focusonline@datenschutzanfrage.de",
     "webform": "https://datenschutzanfrage.de/?source=focusonline",
     "web": "https://www.focus.de/",
@@ -17,6 +18,5 @@
         "https://www.focus.de/static/impressum_3ec10034-daf9-4dfd-a19f-5694af8a1e94.html"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "fax": "+49 89 92501240"
+    "quality": "verified"
 }
