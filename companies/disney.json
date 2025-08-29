@@ -64,12 +64,13 @@
     ],
     "address": "3 Queen Caroline Street\nHammersmith\nLondon\nW6 9PE\nUnited Kingdom",
     "phone": "+1 877 466 6669",
-    "email": "dataprotection@disney.co.uk",
+    "email": "EMEA.dataprotection@disney.com",
     "web": "https://thewaltdisneycompany.com/",
     "sources": [
         "https://privacy.thewaltdisneycompany.com/en/definitions",
         "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/privacy-notice/",
-        "https://privacy.thewaltdisneycompany.com/en/support/#tab-link-2"
+        "https://privacy.thewaltdisneycompany.com/en/support/#tab-link-2",
+        "https://github.com/datenanfragen/data/pull/3208"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
