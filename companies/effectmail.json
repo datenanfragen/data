@@ -1,0 +1,32 @@
+{
+    "slug": "effectmail",
+    "relevant-countries": [
+        "de",
+        "at",
+        "ch"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "effectmail UG",
+    "address": "Helbingstrasse 16\n22047 Hamburg\nDeutschland",
+    "email": "info@effectmail.eu",
+    "web": "https://effectmail.eu/",
+    "sources": [
+        "https://effectmail.eu/impressum/",
+        "https://effectmail.eu/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/3211"
+    ],
+    "required-elements": [
+        {
+            "desc": "Name",
+            "type": "name"
+        },
+        {
+            "desc": "Adresse",
+            "type": "address"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
