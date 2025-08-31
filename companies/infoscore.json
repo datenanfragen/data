@@ -10,16 +10,15 @@
     ],
     "name": "infoscore Consumer Data GmbH",
     "runs": [
-        "informa Solutions GmbH",
+        "informa HIS GmbH",
         "3C Deutschland GmbH",
-        "Credify Informationsdienstleistungen GmbH",
         "Experian Austria GmbH",
         "Experian Switzerland AG"
     ],
     "address": "Rheinstraße 99\n76532 Baden-Baden\nDeutschland",
-    "phone": "+49 7221 7793300",
-    "email": "DACH-BDN-data-information@experian.com",
-    "webform": "https://www.experian.de/selbstauskunft/online-formular-selbstauskunft",
+    "phone": "+49 7221 7793730",
+    "email": "ICD-Datenschutz@experian.com",
+    "webform": "https://www.experian.de/selbstauskunft",
     "web": "https://www.experian.de/",
     "sources": [
         "https://www.experian.de/legal/datenschutz",
@@ -27,7 +26,8 @@
         "https://www.experian.de/legal/impressum",
         "https://github.com/datenanfragen/data/issues/100",
         "https://github.com/datenanfragen/data/issues/637",
-        "https://github.com/datenanfragen/data/pull/2201"
+        "https://github.com/datenanfragen/data/pull/2201",
+        "https://github.com/datenanfragen/data/pull/3210"
     ],
     "required-elements": [
         {
@@ -39,12 +39,15 @@
             "type": "address"
         },
         {
+            "desc": "Geburtsdatum",
+            "type": "birthdate"
+        },
+        {
             "desc": "Vorherige Adresse",
             "type": "address",
             "optional": true
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
         "Erbitten Anschriften der letzten fünf Jahre für vollständigere Auskunft."
