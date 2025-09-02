@@ -10,12 +10,11 @@
     "address": "Schifferstraße 10\n47059 Duisburg\nDeutschland",
     "phone": "+49 203 41750",
     "fax": "+49 203 41757299",
-    "email": "datenschutz.lzpd@polizei.nrw.de",
+    "email": "poststelle.lzpd@polizei.nrw.de",
     "web": "https://lzpd.polizei.nrw/",
     "sources": [
         "https://polizei.nrw/datenschutzerklaerung"
     ],
     "request-language": "de",
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
