@@ -63,15 +63,21 @@
         "Disney Interactive"
     ],
     "address": "3 Queen Caroline Street\nHammersmith\nLondon\nW6 9PE\nUnited Kingdom",
-    "phone": "+1 877 466 6669",
+    "phone": "750227889",
+    "fax": "1065848539",
     "email": "EMEA.dataprotection@disney.com",
+    "webform": "1065848539",
     "web": "https://thewaltdisneycompany.com/",
     "sources": [
         "https://privacy.thewaltdisneycompany.com/en/definitions",
         "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/privacy-notice/",
         "https://privacy.thewaltdisneycompany.com/en/support/#tab-link-2",
-        "https://github.com/datenanfragen/data/pull/3208"
+        "https://github.com/datenanfragen/data/pull/3208",
+        "https://github.com/datenanfragen/data/pull/3224"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "letter",
+    "comments": [
+        "750227889⚠️⚠️⚠️⚠️👹👹👹⚠️⚠️🚫💻"
+    ],
     "quality": "verified"
 }
