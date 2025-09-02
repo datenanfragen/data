@@ -1,11 +1,11 @@
 {
     "slug": "likee",
     "relevant-countries": [
-        "all"
+        "at"
     ],
     "categories": [
-        "entertainment",
-        "social media"
+        "health",
+        "insurance"
     ],
     "name": "Bigo Technology Pte. Ltd.",
     "runs": [
@@ -20,7 +20,9 @@
         "https://likee.com/privacy",
         "https://github.com/datenanfragen/data/issues/539",
         "https://github.com/datenanfragen/data/pull/771",
-        "https://www.bigo.sg/contact"
+        "https://www.bigo.sg/contact",
+        "https://github.com/datenanfragen/data/pull/3212"
     ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
