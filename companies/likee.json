@@ -1,7 +1,7 @@
 {
     "slug": "likee",
     "relevant-countries": [
-        "all"
+        "mt"
     ],
     "categories": [
         "entertainment",
@@ -12,12 +12,17 @@
         "Likee"
     ],
     "address": "30 Pasir Panjang Road #15-31A\nMapletree Business City\nSingapore 117440\nRepublic of Singapore",
+    "phone": "“).Forfurtherinformation,pleasevisitour",
+    "fax": "+65 6351 9330",
     "email": "legal@likee.video",
+    "webform": "legal@bigo.tv",
     "web": "https://likee.com",
     "sources": [
         "https://likee.com/privacy",
         "https://github.com/datenanfragen/data/issues/539",
-        "https://github.com/datenanfragen/data/pull/771"
+        "https://github.com/datenanfragen/data/pull/771",
+        "https://github.com/datenanfragen/data/pull/3220"
     ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
