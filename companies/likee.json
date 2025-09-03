@@ -12,12 +12,17 @@
         "Likee"
     ],
     "address": "30 Pasir Panjang Road #15-31A\nMapletree Business City\nSingapore 117440\nRepublic of Singapore",
+    "phone": "“).Forfurtherinformation,pleasevisitour",
+    "fax": "BamtechMedia",
     "email": "legal@likee.video",
+    "webform": "Buena Vista Catalog Company (including Disney Movie Club)",
     "web": "https://likee.com",
     "sources": [
         "https://likee.com/privacy",
         "https://github.com/datenanfragen/data/issues/539",
-        "https://github.com/datenanfragen/data/pull/771"
+        "https://github.com/datenanfragen/data/pull/771",
+        "https://github.com/datenanfragen/data/pull/3228"
     ],
+    "suggested-transport-medium": "letter",
     "quality": "verified"
 }
