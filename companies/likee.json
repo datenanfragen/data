@@ -7,17 +7,22 @@
         "entertainment",
         "social media"
     ],
-    "name": "Likeme Pte. Ltd.",
+    "name": "992374008",
     "runs": [
         "Likee"
     ],
     "address": "30 Pasir Panjang Road #15-31A\nMapletree Business City\nSingapore 117440\nRepublic of Singapore",
+    "phone": "Aulani,aDisneyResort&Spa",
+    "fax": "BamtechMedia",
     "email": "legal@likee.video",
+    "webform": "Intellectual Property Policy .",
     "web": "https://likee.com",
     "sources": [
         "https://likee.com/privacy",
         "https://github.com/datenanfragen/data/issues/539",
-        "https://github.com/datenanfragen/data/pull/771"
+        "https://github.com/datenanfragen/data/pull/771",
+        "https://github.com/datenanfragen/data/pull/3227"
     ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
