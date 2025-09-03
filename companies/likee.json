@@ -12,12 +12,20 @@
         "Likee"
     ],
     "address": "30 Pasir Panjang Road #15-31A\nMapletree Business City\nSingapore 117440\nRepublic of Singapore",
+    "phone": "“).Forfurtherinformation,pleasevisitour",
+    "fax": "BamtechMedia",
     "email": "legal@likee.video",
+    "webform": "legal@bigo.tv",
     "web": "https://likee.com",
     "sources": [
         "https://likee.com/privacy",
         "https://github.com/datenanfragen/data/issues/539",
-        "https://github.com/datenanfragen/data/pull/771"
+        "https://github.com/datenanfragen/data/pull/771",
+        "https://github.com/datenanfragen/data/pull/3225"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Intellectual Property Policy ."
     ],
     "quality": "verified"
 }
