@@ -6,12 +6,13 @@
     "categories": [
         "political party"
     ],
-    "name": "Magdeburger Gartenpartei; ökologisch, sozial und ökonomisch (MG)",
+    "name": "Gartenpartei",
     "address": "Othrichstraße 7\n39128 Magdeburg\nDeutschland",
     "phone": "+49 175 7519190",
-    "web": "http://www.gartenpartei.eu/",
+    "email": "kontakt@gartenpartei.eu",
+    "web": "https://gartenpartei.eu/",
     "sources": [
-        "http://www.gartenpartei.eu/impressum.html"
+        "https://gartenpartei.eu/datenschutzerklaerung/"
     ],
     "quality": "verified"
 }
