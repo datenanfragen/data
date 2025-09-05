@@ -7,17 +7,18 @@
         "school",
         "public body"
     ],
-    "name": "Grundschule Wenden Braunschweig",
+    "name": "Grundschule Wenden",
     "address": "Heideblick 18\n38110 Braunschweig\nDeutschland",
-    "phone": "+49 5307 2279",
+    "phone": "+49 5307 932965",
     "fax": "+49 5307 932964",
-    "email": "gs.wenden@braunschweig.de",
-    "web": "https://www.gswenden.de/",
+    "email": "datenschutz@gswenden.de",
+    "web": "https://wordpress.nibis.de/gswenden",
     "sources": [
-        "https://www.gswenden.de/data_protection.php",
-        "https://www.gswenden.de/imprint_disclaimer.php"
+        "https://wordpress.nibis.de/gswenden/datenschutz/",
+        "https://wordpress.nibis.de/gswenden/impressum/"
     ],
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified",
     "facet-group": "school"
 }

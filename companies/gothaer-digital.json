@@ -7,15 +7,9 @@
         "insurance"
     ],
     "name": "Gothaer Digital GmbH",
-    "address": "Hohe Str. 160/168\n50667 Köln\nDeutschland",
-    "phone": "+49 221 97589464",
-    "fax": "+49 221 308103",
-    "email": "info@gothaer-digital.de",
-    "web": "https://www.gothaer-digital.de",
+    "address": "Arnoldiplatz 1\n50969 Köln\nDeutschland",
     "sources": [
-        "https://www.gothaer-digital.de/data-privacy",
-        "https://www.gothaer-digital.de/imprint",
-        "https://github.com/datenanfragen/data/pull/1996"
+        "https://www.northdata.de/Gothaer%20Digital%20GmbH,%20K%C3%B6ln/HRB%2094249"
     ],
     "quality": "verified"
 }

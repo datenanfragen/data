@@ -9,10 +9,10 @@
     "name": "GMMI, Inc.",
     "address": "880 SW 145th Avenue, Suite 400\nPembroke Pines\nFL 33027\nUnited States of America",
     "phone": "+1 954 370 6404",
-    "email": "legal@gmmi.com",
+    "email": "legal@us.generaliglobalassistance.com",
     "web": "https://www.gmmi.com",
     "sources": [
-        "https://www.gmmi.com/-/media/partner-portal/gmmi/files/gdpr/gdpr_privacypolicy_pdf.pdf",
+        "https://www.gmmi.com/gdpr/",
         "https://github.com/datenanfragen/data/issues/667"
     ],
     "required-elements": [

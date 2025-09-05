@@ -14,7 +14,7 @@
     "email": "datenschutz@gymnasium-sulingen.de",
     "web": "https://gymnasium-sulingen.de",
     "sources": [
-        "https://www.gymnasium-sulingen.de/desktop/service/datenschutzerklaerung.html",
+        "https://www.gymnasium-sulingen.de/metamenue/impressum.html",
         "https://github.com/datenanfragen/data/pull/1123"
     ],
     "needs-id-document": true,

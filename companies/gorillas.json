@@ -1,23 +1,17 @@
 {
     "slug": "gorillas",
     "relevant-countries": [
-        "de",
-        "dk",
-        "fr",
-        "nl",
-        "gb"
+        "de"
     ],
     "categories": [
         "commerce"
     ],
-    "name": "GORILLAS",
-    "address": "c/o Getir Germany GmbH\nPrenzlauer Allee 242-247\n10405 Berlin\nGermany",
-    "email": "privacy@gorillasapp.com",
-    "web": "https://gorillas.io",
+    "name": "Getir Germany GmbH",
+    "address": "Prenzlauer Allee 242-247\n10405 Berlin\nGermany",
+    "email": "privacy@getir.com",
+    "web": "https://getir.com/",
     "sources": [
-        "https://gorillas.io/en/privacy-policy-page",
-        "https://gorillas.io/en/delivery-areas",
-        "https://github.com/datenanfragen/data/pull/1849"
+        "https://getir.com/de/privacy-policy/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

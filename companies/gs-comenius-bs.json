@@ -10,15 +10,15 @@
     "name": "Grundschule Comeniusstraße Braunschweig",
     "address": "Comeniusstraße 11\n38102 Braunschweig\nDeutschland",
     "phone": "+49 531 220140",
-    "fax": "+49 531 2201444",
+    "fax": "+49 531 4705388",
     "email": "datenschutzkoordinator@gs-comenius.de",
-    "web": "https://www.gs-comenius.de/",
+    "web": "https://grundschule-comeniusstrasse.de/",
     "sources": [
-        "https://www.gs-comenius.de/datenschutzerklaerung/",
-        "https://www.gs-comenius.de/kontakt.html"
+        "https://grundschule-comeniusstrasse.de/datenschutzerklaerung/",
+        "https://grundschule-comeniusstrasse.de/kontakt/"
     ],
-    "suggested-transport-medium": "email",
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified",
     "facet-group": "school"
 }
