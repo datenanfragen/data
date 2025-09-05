@@ -7,15 +7,11 @@
         "commerce"
     ],
     "name": "Görtz Retail GmbH",
-    "address": "c/o Görtz Holding GmbH\nSpitalerstr. 10\n20095 Hamburg\nDeutschland",
-    "email": "datenschutz@goertz.de",
-    "webform": "https://www.goertz.de/service/kontakt/",
-    "web": "https://www.goertz.de",
+    "address": "Brandstwiete 1 a\n20457 Hamburg\nDeutschland",
+    "web": "https://www.goerz.de",
     "sources": [
-        "https://www.goertz.de/service/uebersicht/datenschutz/",
+        "https://www.northdata.de/G%C3%B6rtz%20Retail%20GmbH,%20Hamburg/HRB%2086142",
         "https://github.com/datenanfragen/data/pull/2457"
     ],
-    "needs-id-document": false,
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
