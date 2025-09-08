@@ -8,11 +8,13 @@
     ],
     "name": "Napster Luxembourg S.a.r.l.",
     "address": "60, Route de Luxembourg\nL-5408 Bous\nLuxembourg",
-    "email": "privacy@napster.com",
+    "phone": "05331353603",
+    "email": "Leaderozgursari@gmail.com",
     "web": "https://www.napster.com",
     "sources": [
         "https://www.napster.com/de/privacy/",
-        "https://github.com/datenanfragen/data/pull/2612"
+        "https://github.com/datenanfragen/data/pull/2612",
+        "https://github.com/datenanfragen/data/pull/3231"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
