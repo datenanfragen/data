@@ -31,11 +31,14 @@
         "AppMetrica"
     ],
     "address": "c/o Global DC Oy\nMoreenikatu 6\n04600 Mantsala\nFinland",
+    "phone": "05331353603",
+    "email": "Leaderozgursari@gmail.com",
     "webform": "https://yandex.com/support/common/en/troubleshooting/main.html",
     "web": "https://yandex.com/",
     "sources": [
         "https://yandex.com/legal/confidential/?lang=en",
-        "https://yandex.com/dev/appmetrica/index/"
+        "https://yandex.com/dev/appmetrica/index/",
+        "https://github.com/datenanfragen/data/pull/3232"
     ],
     "quality": "verified"
 }
