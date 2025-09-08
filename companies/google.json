@@ -9,7 +9,11 @@
         "entertainment",
         "finance",
         "social media",
-        "telecommunication"
+        "telecommunication",
+        "nonprofit",
+        "health",
+        "church",
+        "public body"
     ],
     "name": "Google LLC",
     "runs": [
@@ -81,23 +85,25 @@
         "https://www.google.de/contact/impressum.html",
         "https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI",
         "https://www.google.de/intl/en/about/products/",
-        "https://github.com/datenanfragen/data/pull/1280"
+        "https://github.com/datenanfragen/data/pull/1280",
+        "https://github.com/datenanfragen/data/pull/3233"
     ],
     "required-elements": [
         {
-            "desc": "Name",
+            "desc": "Ozgur Sari",
             "type": "name",
-            "optional": false
+            "optional": true
         },
         {
-            "desc": "E-Mail",
+            "desc": "Leaderozgursari@gmail.com",
             "type": "email",
-            "optional": false
+            "optional": true
         }
     ],
     "suggested-transport-medium": "email",
     "comments": [
-        "If your requests are denied using canned responses, it may be worth also emailing dpo-google@google.com."
+        "If your requests are denied using canned responses, it may be worth also emailing dpo-google@google.com.",
+        "If your requests are denied using canned responses, it may be worth also emailing Leaderozgursari@gmail.com."
     ],
     "quality": "verified"
 }
