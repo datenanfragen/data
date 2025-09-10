@@ -1,0 +1,32 @@
+{
+    "slug": "buero-albers",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Büro Albers GmbH & Co. KG",
+    "address": "Büro Albers GmbH & Co. KG\nBetrifft: Datenschutz\nFriederikenstraße 31,\n26871 Papenburg",
+    "phone": "0 49 61 / 92 71-0",
+    "fax": "0 49 61 / 92 71-27",
+    "email": "info@buero-albers.de",
+    "webform": "https://buero-albers.de/profil/#kontakt",
+    "web": "https://buero-albers.de/",
+    "sources": [
+        "https://buero-albers.de/",
+        "https://buero-albers.de/impressum/",
+        "https://buero-albers.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/3235"
+    ],
+    "required-elements": [
+        {
+            "desc": "E-Mail Adresse",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [],
+    "quality": "verified"
+}
