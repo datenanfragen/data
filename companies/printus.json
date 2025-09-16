@@ -1,0 +1,25 @@
+{
+    "slug": "printus",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "ads"
+    ],
+    "name": "Printus GmbH",
+    "address": "Carl-Zeiss-Str. 1\n77656 Offenburg\n\nLudwig Kimmig-Deck\nDatenschutzbeauftragter\nCarl-Zeiss-Str. 1\n77656 Offenburg",
+    "phone": "0781607100",
+    "email": "kundenservice@printus.de",
+    "web": "https://www.printus.de/hilfe/impressum",
+    "sources": [
+        "Impressum (https://www.printus.de/hilfe/impressum)",
+        "Datenschutzseite (https://www.printus.de/hilfe/datenschutz)",
+        "https://github.com/datenanfragen/data/pull/3237"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "email adresse fuer datenschutzanfragen: datenschutzanfragen@printus.de"
+    ],
+    "quality": "verified"
+}
