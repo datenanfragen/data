@@ -1,0 +1,18 @@
+{
+    "slug": "office-discount-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "ads"
+    ],
+    "name": "office discount GmbH",
+    "address": "Ludwig-Erhard-Str. 12\n85374 Neufahrn bei München",
+    "email": "Ludwig-Erhard-Str. 12 85374 Neufahrn bei München",
+    "sources": [
+        "https://www.office-discount.de/hilfe/datenschutz#pos_1",
+        "https://github.com/datenanfragen/data/pull/3238"
+    ],
+    "quality": "verified"
+}
