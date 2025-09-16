@@ -1,19 +1,21 @@
 {
     "slug": "openai",
     "relevant-countries": [
-        "all"
+        "fr"
     ],
     "categories": [
         "social media",
         "telecommunication"
     ],
-    "name": "OpenAI, L.L.C.",
-    "address": "3180 18th St\nSan Francisco, CA 94110\nUnited States of America",
-    "email": "dsar@openai.com",
-    "web": "https://openai.com/",
+    "name": "My Mountain",
+    "address": "61 Rue du cheval blanc \n34400\nSaint Just",
+    "phone": "0668804731",
+    "email": "anis@mymountain.ai",
+    "web": "https://mymountain.ai",
     "sources": [
         "https://openai.com/policies/privacy-policy",
-        "https://github.com/datenanfragen/data/pull/2175"
+        "https://github.com/datenanfragen/data/pull/2175",
+        "https://github.com/datenanfragen/data/pull/3236"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
