@@ -1,0 +1,23 @@
+{
+    "slug": "wuestenrot",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Wüstenrot Bausparkasse AG",
+    "address": "Wüstenrot Bausparkasse AG\nW&W-Platz 1,\n70806 Kornwestheim",
+    "phone": "Telefon 07141 16-0",
+    "email": "Kundenservice@wuestenrot.de",
+    "web": "https://www.wuestenrot.de/",
+    "sources": [
+        "https://www.wuestenrot.de/media/dokumente/merkblatt_datenschutzhinweis.pdf",
+        "https://github.com/datenanfragen/data/pull/3239"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Mit den Angaben aus dem bestehenden Eintrag \"Wüstenrot & Württembergische AG\" habe ich heute als Antwort auf meinen Widerspruch eine Mail aus Wien(!) erhalten, dass man mich als Kunden nicht finden könne. \n\nOb ich etwa Deutschland meine."
+    ],
+    "quality": "verified"
+}
