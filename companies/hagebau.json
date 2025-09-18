@@ -7,6 +7,9 @@
         "commerce"
     ],
     "name": "hagebau connect GmbH & Co. KG",
+    "runs": [
+        "hagebau Handelsgesellschaft für Baustoffe mbH & Co. KG"
+    ],
     "address": "Alter Teichweg 25\n22081 Hamburg\nDeutschland",
     "phone": "+49 40 600 235 505",
     "email": "datenschutz@hagebau.de",
@@ -15,8 +18,5 @@
         "https://www.hagebau.de/datenschutz/"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "runs": [
-        "hagebau Handelsgesellschaft für Baustoffe mbH & Co. KG"
-    ]
+    "quality": "verified"
 }
