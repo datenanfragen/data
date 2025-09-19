@@ -6,18 +6,22 @@
     "categories": [
         "collection agency"
     ],
-    "name": "infoscore Forderungsmanagement GmbH",
+    "name": "Riverty Services GmbH",
     "runs": [
-        "BFS risk & collection GmbH (ehem.)",
-        "Nürnberger Inkasso GmbH (ehem.)",
+        "Paigo GmbH (ehem.)",
+        "infoscore Forderungsmanagement GmbH (ehem.)",
         "Süd-Westdeutsche Inkasso GmbH (ehem.)"
     ],
     "address": "Gütersloher Straße 123\n33415 Verl\nDeutschland",
-    "phone": "+49 5246 9391021",
-    "fax": "+49 5241 8043190",
-    "email": "info@arvato-infoscore.de",
+    "phone": "+49 5246 9051000",
+    "fax": "+49 5246 9055000",
+    "email": "datenschutzbeauftragter@riverty.com",
+    "web": "https://de.flow.riverty.com/de-de",
     "sources": [
-        "https://finance.arvato.com/de/ueber-uns/impressum.html"
+        "https://de.flow.riverty.com/de-de/datenschutz",
+        "https://www.riverty.com/de/impressum/",
+        "https://www.northdata.de/Riverty%20Services%20GmbH,%20Verl/Amtsgericht%20G%C3%BCtersloh%20HRB%2010100"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

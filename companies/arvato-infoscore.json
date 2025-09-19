@@ -6,13 +6,17 @@
     "categories": [
         "collection agency"
     ],
-    "name": "Arvato infoscore GmbH",
+    "name": "Riverty Group GmbH",
+    "runs": [
+        "Arvato infoscore GmbH (ehem.)"
+    ],
     "address": "Rheinstraße 99\n76532 Baden-Baden\nDeutschland",
     "phone": "+49 7221 50400",
-    "email": "datenschutz-aig@arvato.com",
-    "web": "https://finance.arvato.com",
+    "email": "dataprotection@riverty.com",
+    "web": "https://www.riverty.com/de/",
     "sources": [
-        "https://finance.arvato.com/de/impressum/",
+        "https://www.riverty.com/de/impressum/",
+        "https://www.northdata.de/Riverty%20Group%20GmbH,%20Baden-Baden/Amtsgericht%20Mannheim%20HRB%20202547",
         "https://github.com/datenanfragen/data/issues/276"
     ],
     "required-elements": [
