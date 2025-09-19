@@ -1,26 +1,25 @@
 {
-    "categories": [
-        "commerce",
-        "finance"
-    ],
     "slug": "johnlewis",
     "relevant-countries": [
         "all"
     ],
+    "categories": [
+        "commerce",
+        "finance"
+    ],
     "name": "John Lewis Partnership",
     "runs": [
         "Waitrose Ltd.",
-        "John Lewis International",
-        "John Lewis Finance",
-        "John Lewis plc",
-        "my John Lewis"
+        "John Lewis & Partners International",
+        "John Lewis plc"
     ],
-    "address": "Partnership House\n1st Floor\nCarlisle Place\nLondon\nSW1P 1BX\nUnited Kingdom",
+    "address": "1 Drummond Gate\nPimlico\nLondon\nSW1V 2QQ\nUnited Kingdom",
     "email": "DPO@johnlewis.co.uk",
     "web": "https://www.johnlewis.com/",
     "sources": [
         "https://www.johnlewis.com/customer-services/shopping-with-us/privacy-notice",
-        "https://www.waitrose.com/ecom/legal-notices/privacy-notice",
+        "https://www.johnlewis.com/customer-services/shopping-with-us/terms-and-conditions",
+        "https://www.waitrose.com/ecom/help-information/privacy-notice",
         "https://github.com/datenanfragen/data/issues/25"
     ],
     "request-language": "en",
