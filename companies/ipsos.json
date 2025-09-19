@@ -4,11 +4,11 @@
         "de"
     ],
     "name": "Ipsos GmbH",
-    "address": "Balanstraße 69b\n81541 München\nDeutschland",
+    "address": "Sachsenstraße 6\n20095 Hamburg\nDeutschland",
     "email": "dpo.germany@ipsos.com",
     "web": "https://www.ipsos.com/de-de",
     "sources": [
-        "https://www.ipsos.com/de-de/datenschutz",
+        "https://www.ipsos.com/sites/default/files/2024-07/ipsos-datenschutzhinweise-gesch%C3%A4ftspartner-interessenten-betroffene.pdf",
         "https://github.com/datenanfragen/data/pull/2004"
     ],
     "suggested-transport-medium": "email",
