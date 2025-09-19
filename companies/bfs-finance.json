@@ -9,13 +9,14 @@
         "finance"
     ],
     "name": "BFS finance GmbH",
-    "address": "Gütersloher Straße 123\n33415 Verl\nDeutschland",
+    "address": "Carl-Bertelsmann-Str. 23\n33332 Gütersloh\nDeutschland",
     "phone": "+49 5241 8043199",
     "fax": "+49 5241 8043130",
-    "email": "bfs.finance@bertelsmann.de",
-    "web": "https://finance.arvato.com",
+    "email": "datenschutz@bfs-finance.com",
+    "web": "https://www.bfs-finance.com/",
     "sources": [
-        "https://finance.arvato.com/de/ueber-uns/impressum.html",
+        "https://www.bfs-finance.com/datenschutz/",
+        "https://www.bfs-finance.com/impressum/",
         "https://github.com/datenanfragen/data/pull/1679"
     ],
     "quality": "verified"

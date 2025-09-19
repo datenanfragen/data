@@ -1,0 +1,10 @@
+{
+    "slug": "infoscore-inkasso",
+    "name": "Paigo GmbH",
+    "reason": "duplicate",
+    "redirect-to": "infoscore-forderungsmanagement",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2322"
+    ],
+    "quality": "obsolete"
+}
