@@ -6,14 +6,13 @@
     "categories": [
         "commerce"
     ],
-    "name": "In The Style Fashion Ltd.",
-    "address": "Unit 5\nOlympic Court\nSalford\nM50 2QP\nUnited Kingdom",
-    "email": "dataprotection@inthestyle.com",
+    "name": "InTheStyle",
+    "address": "64 Grant Avenue\nLiverpool\nL15 5AY\nUnited Kingdom",
+    "email": "sean@twentytwentydigital.co.uk",
     "web": "https://www.inthestyle.com",
     "sources": [
-        "https://www.inthestyle.com/privacy-policy"
+        "https://www.inthestyle.com/policies/privacy-policy"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

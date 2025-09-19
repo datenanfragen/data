@@ -7,12 +7,14 @@
         "collection agency"
     ],
     "name": "Ideal Inkasso UG",
-    "address": "Westerfeldstr. 37\n33611 Bielefeld\nDeutschland",
+    "address": "Huttropstr. 60\n45138 Essen\nDeutschland",
+    "phone": "+49 521 44815246",
+    "fax": "+49 521 448152461",
     "email": "info@idealinkasso.de",
+    "web": "https://www.idealinkasso.de",
     "sources": [
-        "https://www.northdata.de/?id=6320945050",
-        "https://www.bfif.de/mitgliedsunternehmen/",
-        "https://www.rechtsdienstleistungsregister.de/index.php?button=show&id=20883",
+        "https://www.idealinkasso.de/datenschutz/",
+        "https://www.idealinkasso.de/impressum/",
         "https://github.com/datenanfragen/data/pull/2385"
     ],
     "quality": "verified"

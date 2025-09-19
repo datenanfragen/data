@@ -3,18 +3,11 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [
-        "ads"
-    ],
-    "name": "INFOVERGLEICH99 UG",
-    "address": "Zimmerstraße 78\n10117 Berlin\nDeutschland",
-    "phone": "+49 30 255583655",
-    "email": "datenschutz@infovergleich99.de",
-    "web": "https://www.infovergleich99.de",
+    "name": "InfoVergleich99 UG",
+    "address": "Großbeerenstr. 2 - 10\n12107 Berlin\nDeutschland",
     "sources": [
-        "https://www.infovergleich99.de/datenschutzerklarung",
+        "https://www.northdata.de/InfoVergleich99%20UG,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%20222100%20B",
         "https://github.com/datenanfragen/data/pull/1206"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
