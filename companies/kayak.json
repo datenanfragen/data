@@ -6,19 +6,24 @@
     "categories": [
         "travel"
     ],
-    "name": "Kayak Europe GmbH",
+    "name": "KAYAK",
     "runs": [
-        "SWOODOO (www.swoodoo.com)"
+        "momondo",
+        "HotelsCombined",
+        "SWOODOO",
+        "Cheapflights.com",
+        "checkfelix"
     ],
-    "address": "Fraumünsterstraße 16\n8001 Zürich\nSwitzerland",
+    "address": "c/o Momondo A/S\nFarvergade 10, 1\n1463 Copenhagen K\nDenmark",
     "email": "privacy@kayak.com",
     "web": "https://www.kayak.de/",
     "sources": [
         "https://www.kayak.de/privacy",
-        "https://www.kayak.de/impressum",
-        "https://www.swoodoo.com/info/datenschutz",
-        "https://www.swoodoo.com/info/impressum",
-        "https://www.kayak.de/privacy/applicants"
+        "https://www.swoodoo.com/privacy",
+        "https://www.momondo.de/privacy",
+        "https://www.hotelscombined.de/privacy",
+        "https://www.cheapflights.com/privacy",
+        "https://www.checkfelix.com/privacy"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
