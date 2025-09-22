@@ -6,7 +6,7 @@
     "categories": [
         "travel"
     ],
-    "name": "Lime Electric Ireland Limited",
+    "name": "Lime",
     "runs": [
         "Lime GmbH",
         "Lime Network",
@@ -30,12 +30,15 @@
         "Lime Technology Network S.R.L",
         "Neutronnet SA"
     ],
-    "address": "6th Floor, South Bank House, Barrow Street\nDublin 4\nD04 TR29\nIreland",
-    "email": "dpo@li.me",
+    "address": "c/o Neutron Holdings, Inc.\n85 2nd Street\nSuite 100\nSan Francisco, CA 94105\nUnited States of America",
+    "phone": "+1 888 546 3345",
+    "email": "privacy@li.me",
+    "webform": "https://privacy.li.me/",
     "web": "https://www.li.me",
     "sources": [
         "https://www.li.me/legal/privacy-policy",
-        "https://www.li.me/myinformation"
+        "https://www.li.me/myinformation",
+        "https://www.li.me/imprint"
     ],
     "required-elements": [
         {

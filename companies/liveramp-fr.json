@@ -6,17 +6,16 @@
     "categories": [
         "ads"
     ],
-    "name": "LiveRamp France",
-    "address": "25-29 rue Anatole France\n92300 Levallois-Perret\nFrance",
-    "phone": "+44 20 3966 4150",
+    "name": "LiveRamp France SAS",
+    "address": "25 rue Anatole France\n92300 Levallois-Perret\nFrance",
+    "phone": "+33 1 40 40 22 90",
     "email": "cil@liveramp.com",
     "web": "https://liveramp.fr/",
     "sources": [
-        "https://liveramp.com/privacy/service-privacy-policy/",
-        "https://liveramp.com/contact/",
-        "https://liveramp.fr/politique-confidentialite-produits-services/"
+        "https://liveramp.fr/politique-de-confidentialite-de-nos-produits-et-services-2/",
+        "https://liveramp.fr/mentions-legales/"
     ],
-    "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -8,17 +8,18 @@
     ],
     "name": "DoubleVerify, Inc.",
     "runs": [
-        "Leiki Ltd. (formerly)"
+        "Leiki (formerly)"
     ],
-    "address": "233 Spring St., 4th Floor\nNew York, NY 10013\nUnited States of America",
+    "address": "462 Broadway\nNew York, NY 10013\nUnited States of America",
     "email": "privacy-policy@doubleverify.com",
+    "webform": "https://doubleverify.com/opt-out/",
     "web": "https://doubleverify.com",
     "sources": [
         "https://doubleverify.com/privacy-notice/",
         "https://doubleverify.com/newsroom/doubleverify-acquires-leiki-leading-contextual-intelligence-platform/"
     ],
-    "suggested-transport-medium": "email",
     "request-language": "en",
     "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

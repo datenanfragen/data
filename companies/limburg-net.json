@@ -6,13 +6,13 @@
     "categories": [
         "utility"
     ],
-    "name": "Limburg.net",
-    "address": "Gouverneur Verwilghensingel 32\n3500 Hasselt\nBelgium",
+    "name": "Limburg.net o.v.",
+    "address": "Herkenrodesingel 14\n3500 Hasselt\nBelgium",
     "phone": "+32 11 28 89 89",
     "email": "privacy@limburg.net",
     "web": "https://limburg.net",
     "sources": [
-        "https://limburg.net/privacyverklaring",
+        "https://limburg.net/privacy",
         "https://github.com/datenanfragen/data/pull/908"
     ],
     "request-language": "nl",

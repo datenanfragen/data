@@ -8,11 +8,12 @@
         "telecommunication"
     ],
     "name": "Livehost.fr",
-    "address": "1 Chemin Du Moulin\n17220 Sainte Soulle\nFrance",
+    "address": "94, Place de la Gare\n68000 Colmar\nFrance",
+    "phone": "+33 7 45 85 45 85",
+    "email": "contact@livehost.fr",
     "web": "https://www.livehost.fr/",
     "sources": [
-        "https://www.livehost.fr/fixe?cgu",
-        "https://www.societe.com/societe/monsieur-boris-mace-535288898.html",
+        "https://www.livehost.fr/mentions-legales/",
         "https://github.com/datenanfragen/data/issues/551"
     ],
     "quality": "verified"
