@@ -6,17 +6,14 @@
     "categories": [
         "ads"
     ],
-    "name": "LiveRamp Netherlands B.V.",
-    "address": "Herengracht 244\n1016 BT Amsterdam\nThe Netherlands",
-    "phone": "+44 20 3966 4150",
+    "name": "LiveRamp France SAS",
+    "address": "25 rue Anatole France\n92300 Levallois-Perret\nFrance",
     "email": "privacy.es@liveramp.com",
-    "web": "https://liveramp.com/",
+    "web": "https://liveramp.es/",
     "sources": [
-        "https://liveramp.com/privacy/service-privacy-policy/",
-        "https://liveramp.com/contact/",
-        "https://liveramp.uk/politica-privacidad/"
+        "https://liveramp.es/politica-de-privacidad-de-servicios/"
     ],
-    "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -10,13 +10,12 @@
     "address": "1st Floor, Imperial House\n8 Kean Street\nLondon\nWC2B 4AS\nUnited Kingdom",
     "phone": "+44 20 3966 4150",
     "email": "ukprivacy@liveramp.com",
+    "webform": "https://liveramp.uk/privacy/your-rights/",
     "web": "https://liveramp.uk/",
     "sources": [
-        "https://liveramp.com/privacy/service-privacy-policy/",
-        "https://liveramp.com/contact/",
         "https://liveramp.uk/privacy/"
     ],
-    "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
