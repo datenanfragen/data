@@ -1,0 +1,23 @@
+{
+    "slug": "thaiairways",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "THAI AIRWAYS International",
+    "runs": [
+        "https://www.thaiairways.com/"
+    ],
+    "address": "THAI AIRWAYS International Public Company Limited\nPrivacy Office\n89 Vibhavadi Rangsit Road\nBangkok 10900\nThailand",
+    "phone": "+66 2 545 2102",
+    "email": "privacy@thaiairways.com",
+    "web": "https://www.thaiairways.com/de-de/content/datenschutzerklarung/",
+    "sources": [
+        "https://www.thaiairways.com/de-de/content/datenschutzerklarung/",
+        "https://github.com/datenanfragen/data/pull/3245"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
