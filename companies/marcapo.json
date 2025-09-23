@@ -9,12 +9,11 @@
     "name": "marcapo GmbH",
     "address": "Bahnhofstraße 4\n96106 Ebern\nDeutschland",
     "phone": "+49 9531 92200",
-    "email": "datenschutz@marcapo.com",
+    "email": "kontakt@marcapo.com",
     "web": "https://www.marcapo.com/",
     "sources": [
         "https://www.marcapo.com/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/2051"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

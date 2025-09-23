@@ -8,18 +8,15 @@
     ],
     "name": "Mitteldeutscher Rundfunk",
     "runs": [
-        "jumpradio.de",
-        "KiKA (Kinderkanal von ARD und ZDF)"
+        "MDR JUMP",
+        "KiKA"
     ],
     "address": "Kantstraße 71 – 73\n04275 Leipzig\nDeutschland",
-    "phone": "+49 341 3007732",
-    "fax": "+49 341 3007341",
     "email": "datenschutz@mdr.de",
     "web": "https://www.mdr.de",
     "sources": [
         "https://www.mdr.de/service/datenschutz/index.html",
-        "http://www.ard.de/kinder/Datenschutz/3436692/index.html",
-        "https://www.jumpradio.de/service/datenschutz/index.html",
+        "https://www.mdrjump.de/service/datenschutz/index.html",
         "https://github.com/datenanfragen/data/pull/1754",
         "https://www.kika.de/eltern/footernavi/datenschutz/index.html",
         "https://github.com/datenanfragen/data/pull/2245",
@@ -31,7 +28,7 @@
             "type": "name"
         },
         {
-            "desc": "E-Mailadresse",
+            "desc": "E-Mail",
             "type": "email"
         }
     ],

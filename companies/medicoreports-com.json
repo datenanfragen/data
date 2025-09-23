@@ -4,15 +4,13 @@
         "gb"
     ],
     "name": "Medqon Ltd.",
-    "address": "435 London Road\nSheffield\nS2 4HJ\nUnited Kingdom",
+    "address": "Alison Business Centre\n39-40 Alison Crescent\nSheffield\nS2 1AS\nUnited Kingdom",
     "phone": "+44 330 001 0805",
-    "email": "dpo@medqon.com",
+    "email": "info@medqon.co.uk",
     "web": "https://medicoreports.com",
-    "quality": "verified",
     "sources": [
         "https://github.com/datenanfragen/data/pull/886",
-        "https://medicoreports.com/privacy-policy-2/",
-        "https://medicoreports.com/#contactform"
+        "https://medicoreports.com/privacy-policy/"
     ],
-    "suggested-transport-medium": "email"
+    "quality": "verified"
 }

@@ -8,16 +8,14 @@
     ],
     "name": "N.F.O software development Ltd.",
     "runs": [
-        "MeApp"
+        "Me"
     ],
-    "address": "4 Arba Imaot St.\n7773504 Ashdod\nIsrael",
-    "phone": "+972 52 535 1166",
+    "address": "4 Arba Imaot St.\nAshdod 7773504\nIsrael",
     "email": "help@me.app",
-    "web": "http://www.meapp.info",
+    "web": "https://me.app/",
     "sources": [
-        "http://www.meapp.info/privacy-policy-terms-of-use/",
-        "https://github.com/datenanfragen/data/issues/529",
-        "https://www.dunsguide.co.il/en/C1a8dcd2bbb92365aa8b98ba0306fe0b9_high_tech_computing_services/nfo_software_development_and_real_estate/"
+        "https://me.app/privacy-policy/",
+        "https://github.com/datenanfragen/data/issues/529"
     ],
     "quality": "verified"
 }

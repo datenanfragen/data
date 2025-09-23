@@ -1,15 +1,15 @@
 {
     "slug": "majorel-de",
     "relevant-countries": [
-        "de"
+        "all"
     ],
-    "name": "Majorel Group Luxembourg S.A.",
-    "address": "18, boulevard de Kockelscheuer\nL-1821 Luxembourg\nLuxembourg",
-    "phone": "+49 5241 5275010",
-    "email": "datenschutz.gee@majorel.com",
-    "web": "https://www.majorel.com/",
+    "name": "Teleperformance SE",
+    "address": "21, rue Balzac\n75008 Paris\nFrance",
+    "email": "privacy@teleperformance.com",
+    "web": "https://www.tp.com/",
     "sources": [
-        "https://de.majorel.com/privacy-policy/",
+        "https://www.tp.com/media/lfao43uy/website_privacy_notice_english.pdf",
+        "https://www.tp.com/en-us/footer/legal-statement/",
         "https://github.com/datenanfragen/data/pull/2269"
     ],
     "suggested-transport-medium": "email",

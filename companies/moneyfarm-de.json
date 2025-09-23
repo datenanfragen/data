@@ -6,19 +6,16 @@
     "categories": [
         "finance"
     ],
-    "name": "MFM Investment GmbH",
+    "name": "WAP Invest GmbH",
     "runs": [
-        "vaamo",
-        "Moneyfarm"
+        "MFM Investment GmbH (ehem.)",
+        "Sciuridae Vermögensverwaltungs GmbH (ehem.)",
+        "Vaamo Asset Management GmbH (ehem.)"
     ],
-    "address": "Mainzer Landstraße 250-254\n60326 Frankfurt am Main\nDeutschland",
-    "phone": "+49 69 38076632",
-    "email": "service@moneyfarm.de",
-    "web": "https://www.moneyfarm.com",
+    "address": "c/o Kriftel Spaces\nTaunusstr. 52\n65830 Kriftel\nDeutschland",
     "sources": [
-        "https://www.moneyfarm.com/de/datenschutzerklaerung/",
-        "https://github.com/datenanfragen/data/pull/1556",
-        "https://blog.moneyfarm.com/en/moneyfarm-news/pan-european-leader-moneyfarm-acquires-german-vaamo-to-accelerate-growth/"
+        "https://www.northdata.de/WAP%20Invest%20GmbH,%20Kriftel/Amtsgericht%20Frankfurt%20am%20Main%20HRB%20105192",
+        "https://github.com/datenanfragen/data/pull/1556"
     ],
     "quality": "verified"
 }
