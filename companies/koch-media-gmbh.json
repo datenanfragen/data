@@ -7,22 +7,19 @@
         "entertainment",
         "commerce"
     ],
-    "name": "Koch Media GmbH",
+    "name": "PLAION GmbH",
     "runs": [
         "Deep Silver"
     ],
     "address": "Lochhamer Str. 9\n82152 Planegg\nGermany",
-    "phone": "+49 89 24245405",
-    "fax": "+49 89 242453405",
-    "email": "office@kochmedia.com",
-    "web": "https://www.kochmedia.com",
+    "phone": "+43 5672 606101",
+    "email": "dpo@plaion.com",
+    "web": "https://plaion.com/",
     "sources": [
-        "https://www.deepsilver.com/en/privacy-policy/",
-        "https://www.kochmedia.com/en/privacy-policy/",
-        "https://www.kochmedia.com/de/company/contact/"
+        "https://plaion.com/privacy",
+        "https://plaion.com/imprint",
+        "https://www.deepsilver.com/about/privacy-policy"
     ],
-    "comments": [
-        "Check https://www.deepsilver.com/en/privacy-policy/ to obtain the email address of the DPO."
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
