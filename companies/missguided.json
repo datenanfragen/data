@@ -11,16 +11,12 @@
     "categories": [
         "commerce"
     ],
-    "name": "Missguided Ltd.",
-    "runs": [
-        "Missguided USA (Finance) Inc.",
-        "Missguided Retail Ltd."
-    ],
-    "address": "75 Trafford Wharf Road\nManchester\nM17 1ES\nUnited Kingdom",
-    "email": "informationrights@missguided.com",
-    "web": "https://www.missguided.eu",
+    "name": "Missguided",
+    "address": "12 Marina Boulevard, #15-01\nMarina Bay Financial Centre\nSingapore 018982\nRepublic of Singapore",
+    "email": "data@missguided.com",
+    "web": "https://www.missguided.com/",
     "sources": [
-        "https://www.missguided.eu/privacy-policy"
+        "https://www.missguided.com/page/privacy"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

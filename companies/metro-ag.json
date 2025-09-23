@@ -3,16 +3,15 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "METRO AG",
-    "runs": [
-        "METRO Deutschland GmbH"
+    "categories": [
+        "commerce"
     ],
-    "address": "Metro-Straße 1\n40235 Düsseldorf\nDeutschland",
+    "name": "METRO Deutschland GmbH",
+    "address": "Metro-Straße 8\n40235 Düsseldorf\nDeutschland",
     "email": "datenschutzbeauftragter@metro.de",
     "web": "https://www.metroag.de",
     "sources": [
         "https://www.metro.de/unternehmen/datenschutzhinweise",
-        "https://www.metroag.de/impressum",
         "https://github.com/datenanfragen/data/pull/1408"
     ],
     "suggested-transport-medium": "email",

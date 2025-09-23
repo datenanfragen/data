@@ -9,6 +9,7 @@
     "name": "marketwing GmbH",
     "address": "Steinriede 5a\n30827 Garbsen\nDeutschland",
     "phone": "+49 5131 452250",
+    "fax": "+49 5131 4522520",
     "email": "datenschutz@marketwing.de",
     "web": "https://marketwing.de",
     "sources": [
@@ -17,6 +18,5 @@
         "https://github.com/datenanfragen/data/pull/765"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "fax": "+49 5131 4522520"
+    "quality": "verified"
 }

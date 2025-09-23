@@ -15,17 +15,12 @@
         "commerce"
     ],
     "name": "mymuesli AG",
-    "address": "c/o Verimax GmbH\nWarndtstraße 115\n66127 Saarbrücken\nGermany",
-    "phone": "+49 89 8006578 14",
-    "fax": "+49 89 8006578 29",
+    "address": "Sailerwöhr 16\n94032 Passau\nGermany",
     "email": "support@mymuesli.com",
-    "webform": "https://www.mymuesli.com/contact/subject/14",
     "web": "https://www.mymuesli.com",
     "sources": [
-        "https://www.mymuesli.com/datenschutz",
-        "https://www.mymuesli.com/impressum",
-        "https://github.com/datenanfragen/data/pull/952",
-        "https://helpcenter.mymuesli.com/hc/de/articles/360001170394-In-welche-L%C3%A4nder-kann-ich-mymuesli-bestellen-"
+        "https://www.mymuesli.com/policies/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/952"
     ],
     "required-elements": [
         {

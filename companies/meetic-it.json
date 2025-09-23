@@ -10,13 +10,11 @@
     "runs": [
         "Meetic.it"
     ],
-    "address": "6 Rue Auber\n75009 Paris\nFrance",
-    "email": "privacy@meetic.it",
+    "address": "53 rue de Châteaudun\nParis 9\nFrance",
+    "webform": "https://www.meetic.it/faq/#privacyRequest",
     "web": "https://www.meetic.it",
     "sources": [
-        "https://www.meetic.it/pages/misc/privacy",
-        "https://www.infogreffe.com/entreprise-societe/439780339-meetic-750113B053720000.html"
+        "https://www.meetic.it/pages/misc/privacy"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
