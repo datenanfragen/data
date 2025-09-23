@@ -13,11 +13,11 @@
         "Terminal.Land"
     ],
     "address": "c/o Legalinc Corporate Services\n4965 US Hwy 42\nSuite 1000\nLouisville, KY 40222\nUnited States of America",
-    "email": "privacy@omg.lol",
+    "email": "privacy@neatnik.net",
     "web": "https://neatnik.net/",
     "sources": [
         "https://neatnik.net/about/privacy-policy/",
-        "https://meta.omg.lol/info/legal"
+        "https://home.omg.lol/info/legal#privacy-policy"
     ],
     "required-elements": [
         {
@@ -27,5 +27,5 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
