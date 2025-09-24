@@ -6,16 +6,12 @@
     "categories": [
         "ads"
     ],
-    "name": "Nielsen Holdings Plc",
-    "runs": [
-        "VisualDNA"
-    ],
-    "address": "Nielsen House\nOxford Business Park South\nJohn Smith Drive\nOxford\nOX4 2WB\nUnited Kingdom",
+    "name": "Nielsen",
+    "address": "14 Riverwalk, National Digital Park\nCitywest Business Campus\nDublin 24\nD24 XN32\nUnited Kingdom",
     "email": "privacy.department@nielsen.com",
     "web": "https://www.nielsen.com",
     "sources": [
-        "https://www.nielsen.com/eu/en/legal/privacy-statement/gdpr-operating-entities/",
-        "https://www.nielsen.com/eu/en/legal/privacy-statement/faqs-nielsen-and-the-gdpr/"
+        "https://www.nielsen.com/legal/privacy-principles/website-privacy-statement/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

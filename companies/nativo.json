@@ -6,13 +6,13 @@
     "categories": [
         "ads"
     ],
-    "name": "Nativo London Limited",
-    "address": "5 Margaret Street\n2nd Floor\nLondon\nW1W 8RG\nUnited Kingdom",
+    "name": "Nativo, Inc.",
+    "address": "222 Pacific Coast Highway\n10th Floor\nEl Segundo, CA 90245\nUnited States of America",
     "email": "privacy@nativo.com",
     "webform": "https://submit-irm.trustarc.com/services/validation/e1b081d3-40df-4137-add0-7e34cf4d13b2",
     "web": "https://www.nativo.com/",
     "sources": [
-        "https://www.nativo.com/privacy-policy"
+        "https://www.nativo.com/legal/privacy-policy"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

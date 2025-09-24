@@ -16,18 +16,18 @@
         "entertainment",
         "telecommunication"
     ],
-    "name": "NRJ",
+    "name": "e-NRJ",
     "runs": [
         "Nostalgie",
         "Chérie FM",
         "Rires et chansons"
     ],
-    "address": "e-NRJ\n22 rue Boileau\n75 016 Paris\nFrance",
-    "phone": "+33 1 40 71 40 00",
+    "address": "22 rue Boileau\n75 016 Paris\nFrance",
+    "webform": "https://www.nrj.fr/contact",
     "web": "https://www.nrj.fr",
     "sources": [
-        "https://www.nrj.fr/cgu",
         "https://www.nrj.fr/politique-confidentialite",
+        "https://www.nrj.fr/cgu",
         "https://github.com/datenanfragen/data/issues/460"
     ],
     "quality": "verified"

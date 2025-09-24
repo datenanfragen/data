@@ -9,14 +9,13 @@
     "name": "NEORY GmbH",
     "address": "Brandschachtstraße 2\n44149 Dortmund\nGermany",
     "phone": "+49 231 58 69 73 0",
-    "fax": "+49 231 58 69 73 99",
     "email": "privacy@neory.com",
     "pgp-fingerprint": "1507 2217 A48E 482E ADAB  7F5E 142C 4DBE 30A5 288E",
     "pgp-url": "https://www.neory.com/static/support_neory_com_pubkey.asc",
     "web": "https://www.neory.com/",
     "sources": [
-        "https://www.neory.com/privacy.html",
-        "https://www.neory.com/imprint.html"
+        "https://www.neory.com/privacy-policy",
+        "https://www.neory.com/impressum"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",

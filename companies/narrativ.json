@@ -6,13 +6,16 @@
     "categories": [
         "ads"
     ],
-    "name": "Narrativ Company, Inc.",
-    "address": "335 Madison Avenue\nNew York\nNY 10017\nUnited States of America",
-    "email": "privacy@narrativ.com",
-    "web": "https://narrativ.com/",
+    "name": "Howl Technologies, Inc.",
+    "runs": [
+        "Narrativ (formerly)"
+    ],
+    "address": "335 Madison Ave Fl 4\nNY 10017\nUnited States of America",
+    "email": "privacy@howl.link",
+    "web": "https://www.howl.link",
     "sources": [
-        "https://dashboard.narrativ.com/v2/privacy-policy",
-        "https://www.linkedin.com/company/hello-narrativ"
+        "https://www.howl.link/privacy",
+        "https://pitchbook.com/profiles/company/119745-64#overview"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
