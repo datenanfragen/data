@@ -1,0 +1,10 @@
+{
+    "slug": "nlschb",
+    "name": "Niedersächsische Landesschulbehörde",
+    "reason": "company-defunct",
+    "redirect-to": "rlsb-lueneburg",
+    "sources": [
+        "https://www.mk.niedersachsen.de/startseite/wir_uber_uns/einrichtungen_und_behorden/niedersachsische_landesschulbehorde/regionale-landesamter-fur-schule-und-bildung-rlsb-6464.html"
+    ],
+    "quality": "obsolete"
+}
