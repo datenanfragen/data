@@ -13,6 +13,7 @@
         "yomonda (ehem.)"
     ],
     "address": "Werner-Otto-Str. 1-7\n22179 Hamburg\nDeutschland",
+    "phone": "+49 30 726201201",
     "email": "datenschutz@mytoys.de",
     "web": "https://www.otto.de/mytoys/",
     "sources": [
@@ -22,6 +23,5 @@
         "https://www.ottogroup.com/de/medien/newsroom/meldungen/mytoys-group-schliesst-home-living-shop-yomonda.php"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "phone": "+49 30 726201201"
+    "quality": "verified"
 }
