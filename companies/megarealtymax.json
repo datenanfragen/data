@@ -1,0 +1,15 @@
+{
+    "slug": "megarealtymax",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Mega Realty Max",
+    "address": "Pioneer Urban Square, Sector 62, Gurugram, Haryana, India",
+    "email": "rajeshkumar98991100@gmail.com",
+    "web": "https://megarealtymax.com/",
+    "sources": [
+        "https://megarealtymax.com/",
+        "https://github.com/datenanfragen/data/pull/3249"
+    ],
+    "quality": "verified"
+}
