@@ -9,14 +9,15 @@
     "name": "Polizeipräsidium Südhessen",
     "address": "Klappacher Str. 145\n64285 Darmstadt\nDeutschland",
     "phone": "+49 6151 9690",
-    "fax": "+49 6151 9693415",
-    "email": "poststelle.ppsh@polizei.hessen.de",
+    "fax": "+49 611 327667121",
+    "email": "datenschutz.ppsh@polizei.hessen.de",
     "web": "https://ppsh.polizei.hessen.de/Startseite/",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1208",
         "https://ppsh.polizei.hessen.de/kontakt/",
-        "https://innen.hessen.de/sites/default/files/media/hmdis/dienststellen_2-2021.pdf"
+        "https://www.polizei.hessen.de/datenschutz/binarywriterservlet?imgUid=15750da8-a4f4-4d71-6bfd-73160619d1eb&uBasVariant=11111111-1111-1111-1111-111111111111",
+        "https://github.com/datenanfragen/data/pull/1208"
     ],
     "request-language": "de",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

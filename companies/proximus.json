@@ -7,14 +7,14 @@
     "categories": [
         "telecommunication"
     ],
-    "name": "Proximus",
-    "address": "Proximus Towers\nKoning Albert II-laan 27\n1030 Brussel\nBelgium",
+    "name": "Proximus PLC",
+    "address": "Boulevard du Roi Albert II 27\n1030 Brussels\nBelgium",
     "email": "privacy@proximus.com",
+    "webform": "https://www.proximus.be/support/en/id_cr_contact_gdpr/personal/support/question-about-my-personal-data.html",
     "web": "https://www.proximus.com/",
     "sources": [
-        "https://www.proximus.com/nl/our-company/offices_headquarters_Schaerbeek.html",
-        "https://github.com/datenanfragen/data/issues/361",
-        "https://www.proximus.be/en/id_cr_warnland/personal/products/orphans/legal-information.html#/privacy"
+        "https://www.proximus.be/en/id_cr_privacy_policy/personal/orphans/privacy-policy.html",
+        "https://github.com/datenanfragen/data/issues/361"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

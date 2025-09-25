@@ -3,16 +3,25 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Opel Bank S.A. Niederlassung Deutschland",
-    "address": "Mainzer Straße 190\n65428 Rüsselsheim am Main\nDeutschland",
-    "phone": "+49 6142 878878",
-    "email": "datenschutzbeauftragte@opelfinance.com",
-    "web": "https://www.opelbank.de/",
+    "categories": [
+        "finance"
+    ],
+    "name": "Stellantis Bank SA Niederlassung Deutschland",
+    "runs": [
+        "Stellantis Direktbank",
+        "Opel Direktbank",
+        "Peugeot Financing Store"
+    ],
+    "address": "Siemensstraße 10\n63263 Neu-Isenburg am Main\nDeutschland",
+    "phone": "+49 6102 302111",
+    "email": "info-de@stellantis-finance.com",
+    "web": "https://www.stellantis-financial-services.de",
     "sources": [
-        "https://www.opelbank.de/datenschutz/",
-        "https://www.opelbank.de/impressum/",
+        "https://www.stellantis-financial-services.de/datenschutz",
+        "https://www.stellantis-direktbank.de/datenschutzerklaerung.html",
+        "https://www.opel-direktbank.de/datenschutzinformationen",
+        "https://financing.peugeot.store/datenschutz",
         "https://github.com/datenanfragen/data/pull/827"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

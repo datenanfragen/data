@@ -7,13 +7,14 @@
         "school"
     ],
     "name": "Quizlet, Inc.",
-    "address": "501 2nd Street, Suite 500\nSan Francisco, CA 94107\nUnited States of America",
+    "address": "123 Townsend Street, Suite 600\nSan Francisco, CA 94107\nUnited States of America",
     "phone": "+1 510 495 6550",
     "email": "privacy-eu@quizlet.com",
+    "webform": "https://quizlet.com/your-privacy-choices",
     "web": "https://quizlet.com",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/1204",
-        "https://quizlet.com/privacy"
+        "https://quizlet.com/privacy",
+        "https://github.com/datenanfragen/data/pull/1204"
     ],
     "required-elements": [
         {
