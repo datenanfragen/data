@@ -6,16 +6,12 @@
     "categories": [
         "social media"
     ],
-    "name": "Match.com Nordic AB",
-    "runs": [
-        "se.ourtime.com"
-    ],
-    "address": "c/o Deloitte\nBox 386\n201 23 Malmö\nSweden",
-    "email": "privacy-se@europe.ourtime.com",
+    "name": "Ourtime SE",
+    "address": "c/o Meetic SAS\n53 rue de Châteaudun\nParis 9\nFrance",
+    "webform": "https://se.ourtime.com/faq/#privacyRequest",
     "web": "https://se.ourtime.com",
     "sources": [
         "https://se.ourtime.com/pages/misc/privacy"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

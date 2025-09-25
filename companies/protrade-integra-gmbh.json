@@ -6,15 +6,15 @@
     "categories": [
         "commerce"
     ],
-    "name": "Protrade-Integra GmbH",
+    "name": "ProTrade Integra gGmbH",
     "address": "Steinbeisweg 14\n71364 Winnenden\nDeutschland",
     "phone": "+49 7195 587422",
     "fax": "+49 7195 587420",
     "email": "Datenschutz@protrade-integra.com",
     "web": "https://www.protrade-integra.com",
     "sources": [
-        "https://www.protrade-integra.com/datenschutz.html",
-        "https://www.protrade-integra.com/impressum.html"
+        "https://www.protrade-integra.com/datenschutz/",
+        "https://www.protrade-integra.com/impressum/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

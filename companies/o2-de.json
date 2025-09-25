@@ -1,49 +1,43 @@
 {
     "slug": "o2-de",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
     "name": "Telefónica Germany GmbH & Co. OHG",
     "runs": [
         "O2",
-        "Mein O2",
-        "BASE (www.base.de)",
-        "AY YILDIZ Communications GmbH (www.ayyildiz.de)",
-        "simfinity (www.simfinity.de)",
-        "WhatsApp SIM (www.whatsappsim.de)",
-        "Blau (www.blau.de)",
-        "FONIC (www.fonic.de)",
-        "netzclub (www.netzclub.net)",
-        "simyo (www.simyo.de, ehem.)",
-        "NettoKOM (www.nettokom.de)"
+        "O2 Blue",
+        "Blau",
+        "FONIC",
+        "FONIC mobile",
+        "netzclub",
+        "AY YILDIZ",
+        "aetkaSMART",
+        "TürkeiSIM",
+        "blauworld",
+        "Einfach Prepaid",
+        "K-Classic Mobil",
+        "MediaMarkt Prepaid",
+        "MediaMarkt Super Select",
+        "NettoKOM",
+        "novomobil",
+        "Saturn Prepaid",
+        "Saturn Super Select",
+        "Simfinity",
+        "WhatsApp SIM"
     ],
     "address": "Georg-Brauchle-Ring 50\n80992 München\nDeutschland",
-    "phone": "+49 89 78 79 79 40 0",
-    "email": "datenschutz@telefonica.com",
+    "phone": "+49 89 787979400",
+    "email": "impressum@cc.o2online.de",
+    "webform": "https://www.telefonica.de/unternehmen/datenschutz/kontakt/datenschutz-anfrage.html",
     "web": "https://www.o2online.de/",
     "sources": [
         "https://www.o2online.de/recht/datenschutz/",
-        "https://static2.o9.de/blob/10418706/v=16/Binary/oeffentliches-verfahrensverzeichnis.pdf",
         "https://www.o2online.de/recht/impressum/",
-        "https://www.base.de/datenschutz",
-        "https://www.base.de/impressum",
-        "https://www.ayyildiz.de/datenschutz",
-        "https://www.ayyildiz.de/impressum",
-        "https://www.simfinity.de/impressum",
-        "https://www.whatsappsim.de/service/kontakt#datenschutz",
-        "https://www.blau.de/recht/datenschutz/",
-        "https://www.blau.de/recht/impressum/",
-        "https://www.fonic.de/datenschutz",
-        "https://www.fonic.de/impressum",
-        "https://www.netzclub.net/datenschutz/",
-        "https://www.netzclub.net/impressum/",
-        "https://www.simyo.de/daten-jugendschutz/",
-        "https://www.simyo.de/impressum/",
-        "https://www.nettokom.de/datenschutz"
+        "https://meine-daten.telefonica.de/de/aurol"
     ],
-    "relevant-countries": [
-        "de"
-    ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

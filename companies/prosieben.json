@@ -7,13 +7,12 @@
         "entertainment"
     ],
     "name": "Seven.One Entertainment Group GmbH",
-    "address": "Medienallee 7\nD-85774 Unterföhring\nGermany",
+    "address": "Medienallee 7\n85774 Unterföhring\nGermany",
     "phone": "+49 89 950710",
     "email": "datenschutz@prosieben.de",
     "web": "https://www.prosieben.de/",
     "sources": [
-        "https://www.prosieben.de/service/impressum",
-        "https://www.prosieben.de/service/datenschutz"
+        "https://www.prosieben.de/service/datenschutzhinweise"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

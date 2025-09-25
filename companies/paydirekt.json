@@ -8,31 +8,13 @@
     ],
     "name": "paydirekt GmbH",
     "runs": [
-        "giropay"
+        "giropay (ehem.)"
     ],
-    "address": "Hamburger Allee 26 – 28\n60486 Frankfurt\nDeutschland",
-    "phone": "+49 69 2475382200",
-    "email": "datenschutz@paydirekt.de",
-    "web": "https://www.paydirekt.de",
+    "address": "c/o GÖRG Partnerschaft von Rechtsanwälten mbB\nUlmenstr. 30\n60325 Frankfurt a. Main\nDeutschland",
     "sources": [
-        "https://www.paydirekt.de/agb/index.html",
-        "https://www.paydirekt.de/impressum/index.html",
-        "https://www.giropay.de/rechtliches/datenschutzerklaerung",
+        "https://www.northdata.de/paydirekt%20GmbH,%20Frankfurt%20a%C2%B7%20Main/Amtsgericht%20Frankfurt%20am%20Main%20HRB%2099538",
+        "https://www.girocard.eu/news-media/blog/giropay-eingestellt/",
         "https://github.com/datenanfragen/data/pull/1176"
     ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name",
-            "optional": false
-        },
-        {
-            "desc": "E-Mail",
-            "type": "email",
-            "optional": false
-        }
-    ],
-    "needs-id-document": false,
-    "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }

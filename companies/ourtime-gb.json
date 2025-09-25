@@ -7,12 +7,11 @@
         "social media"
     ],
     "name": "Ourtime.co.uk",
-    "address": "c/o MIL\nPO Box 64197\nLondon\nWC1A 9FG\nUnited Kingdom",
-    "email": "privacy@ourtime.co.uk",
+    "address": "c/o MTCH Technology Services Limited\n10 Earlsfort Terrace\nD02 T380\nIreland",
+    "webform": "https://www.ourtime.co.uk/faq/#privacyRequest",
     "web": "https://www.ourtime.co.uk",
     "sources": [
         "https://www.ourtime.co.uk/pages/misc/privacy"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
