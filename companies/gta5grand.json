@@ -1,0 +1,32 @@
+{
+    "slug": "gta5grand",
+    "relevant-countries": [
+        "gb",
+        "de",
+        "it",
+        "fr",
+        "pt",
+        "es"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Grand Role Play",
+    "address": "VALERY TRAYAN\nUL. SOLIPSKA 3 / 5, 02-482 WARSZAWA",
+    "email": "support@gta5grand.com",
+    "web": "https://gta5grand.com/",
+    "sources": [
+        "https://gta5grand.com/de",
+        "https://gta5grand.com/pdf/policy.pdf",
+        "https://github.com/datenanfragen/data/pull/2989"
+    ],
+    "required-elements": [
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
