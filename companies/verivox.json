@@ -14,7 +14,8 @@
     "runs": [
         "Vertragswechselservice Verivox „prime“",
         "Verivox Finanzvergleich GmbH",
-        "Verivox Versicherungsvergleich GmbH"
+        "Verivox Versicherungsvergleich GmbH",
+        "Preis24.de (ehem.)"
     ],
     "address": "Max-Jarecki-Straße 21\n69115 Heidelberg\nDeutschland",
     "phone": "+49 6221 7961100",
@@ -25,6 +26,7 @@
         "https://www.verivox.de/company/datenschutz/",
         "https://www.verivox.de/company/datenschutz-finanzvergleich/",
         "https://www.verivox.de/company/datenschutz-versicherungsvergleich/",
+        "https://www.preis24.de/",
         "https://www.verivox.de/company/impressum/",
         "https://github.com/datenanfragen/data/pull/1859"
     ],

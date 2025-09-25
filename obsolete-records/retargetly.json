@@ -1,0 +1,10 @@
+{
+    "slug": "retargetly",
+    "name": "Retargetly",
+    "reason": "company-merged",
+    "redirect-to": "epsilon-com",
+    "sources": [
+        "https://retargetly.com/"
+    ],
+    "quality": "obsolete"
+}

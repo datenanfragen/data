@@ -1,0 +1,10 @@
+{
+    "slug": "propstei-salzgitter-bad",
+    "name": "Propstei Salzgitter-Bad",
+    "reason": "company-merged",
+    "redirect-to": "propstei-salzgitter-lebenstedt",
+    "sources": [
+        "https://www.propstei-salzgitter.de/kirche-in-der-region/propst"
+    ],
+    "quality": "obsolete"
+}
