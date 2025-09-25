@@ -1,0 +1,17 @@
+{
+    "slug": "wolfgangs-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "WOLFGANGS GmbH",
+    "runs": [
+        "ODENWOLF"
+    ],
+    "address": "Rathausstr. 21\n68519 Viernheim\nDeutschland",
+    "email": "dpo@vivawallet.com",
+    "sources": [
+        "https://odenwolf.shop/policies/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2789"
+    ],
+    "quality": "verified"
+}
