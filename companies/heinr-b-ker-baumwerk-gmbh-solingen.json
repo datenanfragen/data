@@ -1,0 +1,18 @@
+{
+    "slug": "heinr-b-ker-baumwerk-gmbh-solingen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Heinr. Böker Baumwerk GmbH Solingen",
+    "address": "Schützenstr. 30\n42659 Solingen\nDeutschland",
+    "phone": "+49 212 40120",
+    "email": "info@boker.de",
+    "sources": [
+        "https://www.boker.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2978"
+    ],
+    "quality": "verified"
+}
