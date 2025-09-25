@@ -12,6 +12,7 @@
         "Reddit UK Limited"
     ],
     "address": "Euro Business Center\nKeizersgracht 62\n1015CS Amsterdam\nThe Netherlands",
+    "email": "redditdatarequests@reddit.com",
     "webform": "https://www.reddit.com/settings/data-request",
     "web": "https://www.reddit.com/",
     "sources": [
@@ -31,6 +32,5 @@
         }
     ],
     "request-language": "en",
-    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
