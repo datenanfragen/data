@@ -1,0 +1,24 @@
+{
+    "slug": "disroot",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "nonprofit",
+        "telecommunication"
+    ],
+    "name": "Disroot.org",
+    "runs": [
+        "disroot.org"
+    ],
+    "address": "Daalwijkdreef 7\n1102RN Amsterdam\nNetherlands",
+    "email": "data.protection.officer@disroot.org",
+    "web": "https://disroot.org/",
+    "sources": [
+        "https://disroot.org/de/privacy_policy",
+        "https://www.oozo.nl/bedrijven/amsterdam/bijlmer-centrum-d-f-h/d-buurt/1538223/stichting-disroot-orgd-f-h/d-buurt/1538223/stichting-disroot-org",
+        "https://github.com/datenanfragen/data/pull/2830"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
