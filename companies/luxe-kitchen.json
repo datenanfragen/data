@@ -1,0 +1,20 @@
+{
+    "slug": "luxe-kitchen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "vdw GmbH",
+    "address": "Fichtenstr. 49\n57368 Lennestadt\nDeutschland",
+    "phone": "02723719334",
+    "email": "info@v-d-w.de",
+    "web": "https://luxe-kitchen.de/",
+    "sources": [
+        "https://luxe-kitchen.de/policies/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3182"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
