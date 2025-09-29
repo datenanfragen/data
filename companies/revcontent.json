@@ -8,10 +8,10 @@
     ],
     "name": "Revcontent, LLC",
     "address": "1689 2nd Street\nSarasota FL 34236\nUnited States of America",
-    "email": "privacy@revcontent.com",
+    "email": "dpo@revcontent.com",
     "web": "https://www.revcontent.com/",
     "sources": [
-        "https://help.revcontent.com/knowledge/revcontent-privacy-policy-residents-of-european-economic-area"
+        "https://www.revcontent.com/policy/privacy-policy"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
