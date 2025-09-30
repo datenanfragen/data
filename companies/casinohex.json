@@ -1,0 +1,14 @@
+{
+    "slug": "casinohex",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "casinohex.ca",
+    "address": "23 S 15th St\nPhiladelphia, PA 19101\nUnited States of America",
+    "web": "https://casinohex.ca/",
+    "sources": [
+        "https://casinohex.ca/",
+        "https://github.com/datenanfragen/data/pull/3255"
+    ],
+    "quality": "verified"
+}
