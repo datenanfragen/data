@@ -1,0 +1,16 @@
+{
+    "slug": "casinohex",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "casinohex.ca",
+    "address": "151 Bentley Ave #7, Nepean, ON K2E 6T7, Canada",
+    "phone": "+1 613 292 6748",
+    "email": "info@casinohex.ca.com",
+    "web": "https://casinohex.ca/",
+    "sources": [
+        "https://casinohex.ca/",
+        "https://github.com/datenanfragen/data/pull/3254"
+    ],
+    "quality": "verified"
+}
