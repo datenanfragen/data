@@ -1,0 +1,12 @@
+{
+    "slug": "handfest-laden",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "HANDFEST LADEN",
+    "address": "WILHELMSTRASS 11",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3256"
+    ]
+}
