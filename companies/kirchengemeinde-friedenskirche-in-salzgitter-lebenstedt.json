@@ -6,19 +6,20 @@
     "categories": [
         "church"
     ],
-    "name": "Kirchengemeinde Friedenskirche in Salzgitter-Lebenstedt",
+    "name": "Ev.-luth. Friedenskirche in Salzgitter-Lebenstedt",
+    "runs": [],
     "address": "Hans-Böckler-Ring 1\n38228 Salzgitter\nDeutschland",
     "phone": "+49 5341 85370",
-    "fax": "+49 5341 853725",
-    "email": "friedenskirche.pfa@lk-bs.de",
-    "web": "http://www.friedenskirchengemeinde.net/",
+    "email": "friedenskirche.sz.buero@lk-bs.de",
     "sources": [
-        "https://www.landeskirche-braunschweig.de/gemeinden/propsteien/einrichtungen.html?user_lkbsaddress_pi2%5Bid%5D=891"
+        "https://www.landeskirche-braunschweig.de/gemeinden/propsteien/einrichtungen.html?user_lkbsaddress_pi2%5Bid%5D=891",
+        "https://github.com/datenanfragen/data/pull/3261"
     ],
     "request-language": "de",
     "custom-access-template": "access-evangelische-kirche",
     "custom-erasure-template": "erasure-evangelische-kirche",
     "custom-rectification-template": "rectification-evangelische-kirche",
-    "quality": "scraped",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
     "facet-group": "church"
 }
