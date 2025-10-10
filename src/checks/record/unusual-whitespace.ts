@@ -7,6 +7,7 @@ const check: Check = {
     url: 'https://github.com/datenanfragen/data#data-formats',
     severity: 'ERROR',
     run: (json) => {
+        // https://stackoverflow.com/a/51399843/
         const reg = /[\u00A0\u1680\u180E\u2000-\u200B\u202F\u205F\u3000\uFEFF]/g;
 
         return checkAllStringsRecursive(
