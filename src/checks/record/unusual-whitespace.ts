@@ -1,3 +1,4 @@
+import { checkAllStringsRecursive } from '../../common/util';
 import { Check } from '../../types/checks';
 
 const check: Check = {
@@ -6,20 +7,17 @@ const check: Check = {
     url: 'https://github.com/datenanfragen/data#data-formats',
     severity: 'ERROR',
     run: (json) => {
-        // https://stackoverflow.com/a/51399843/
-        const reg = /[\u00A0\u1680\u180E\u2000-\u200B\u202F\u205F\u3000\uFEFF]/;
-        return (Object.keys(json) as (keyof typeof json)[]).map((key) => {
-            const value = json[key];
-            if (typeof value === 'string' && reg.test(value))
-                return {
-                    message: `Value of string field \`${key}\` contains non-ASCII spaces.`,
-                    json_pointer: `/${key}`,
-                    suggestions: [value.replace(reg, ' ')],
-                };
+        const reg = /[\u00A0\u1680\u180E\u2000-\u200B\u202F\u205F\u3000\uFEFF]/g;
 
-            return;
-            // TODO: Also deal with arrays and nested string fields.
-        });
+        return checkAllStringsRecursive(
+            json,
+            (value) => reg.test(value),
+            (value, path) => ({
+                message: `Value of string field \`${path}\` contains non-ASCII spaces.`,
+                json_pointer: path,
+                suggestions: [value.replace(reg, ' ')],
+            })
+        );
     },
 };
 export default check;
