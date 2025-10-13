@@ -10,15 +10,16 @@
     "address": "Hans-Böckler-Ring 1\n38228 Salzgitter\nDeutschland",
     "phone": "+49 5341 85370",
     "fax": "+49 5341 853725",
-    "email": "friedenskirche.pfa@lk-bs.de",
-    "web": "http://www.friedenskirchengemeinde.net/",
+    "email": "friedenskirche.sz.buero@lk-bs.de",
     "sources": [
-        "https://www.landeskirche-braunschweig.de/gemeinden/propsteien/einrichtungen.html?user_lkbsaddress_pi2%5Bid%5D=891"
+        "https://www.propstei-salzgitter.de/aktuell/gottesdienste/details-gottesdienste/?tx_nflkcal_cal%5Beid%5D=152561&tx_nflkcal_cal%5Baction%5D=show&tx_nflkcal_cal%5Bcontroller%5D=Cal&cHash=4d626efb82c2765f69861c6ab9f3dd52",
+        "https://github.com/datenanfragen/data/pull/3264"
     ],
     "request-language": "de",
     "custom-access-template": "access-evangelische-kirche",
     "custom-erasure-template": "erasure-evangelische-kirche",
     "custom-rectification-template": "rectification-evangelische-kirche",
-    "quality": "scraped",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
     "facet-group": "church"
 }
