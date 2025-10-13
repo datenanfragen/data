@@ -10,6 +10,7 @@
     "runs": [
         "Schwab Versand (ehem.)"
     ],
+    "address": "c/o Josef Witt GmbH\nSchillerstraße 4 – 12\n92637 Weiden i.d.Opf.\nDeutschland",
     "phone": "+49 69 75005688",
     "email": "service@sheego.de",
     "web": "https://www.sheego.de",
@@ -29,6 +30,5 @@
             "type": "address"
         }
     ],
-    "quality": "verified",
-    "address": "c/o Josef Witt GmbH\nSchillerstraße 4 – 12\n92637 Weiden i.d.Opf.\nDeutschland"
+    "quality": "verified"
 }
