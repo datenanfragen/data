@@ -6,18 +6,17 @@
     "categories": [
         "commerce"
     ],
-    "name": "sheego AG",
+    "name": "sheego",
     "runs": [
-        "Schwab Versand GmbH (ehem.)",
-        "schwab.de"
+        "Schwab Versand (ehem.)"
     ],
-    "address": "Hanauer Landstraße 523\n60386 Frankfurt\nDeutschland",
-    "phone": "+49 69 900220",
-    "email": "dsb@sheego.de",
+    "phone": "+49 69 75005688",
+    "email": "service@sheego.de",
     "web": "https://www.sheego.de",
     "sources": [
-        "https://company.sheego.de/datenschutz/",
-        "https://company.sheego.de/landingpage-schwab-de/",
+        "https://www.sheego.de/content/datenschutzhinweise",
+        "https://www.sheego.de/contact",
+        "https://karriere.witt-gruppe.eu/sheego/",
         "https://github.com/datenanfragen/data/pull/2333"
     ],
     "required-elements": [
@@ -30,6 +29,6 @@
             "type": "address"
         }
     ],
-    "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "address": "c/o Josef Witt GmbH\nSchillerstraße 4 – 12\n92637 Weiden i.d.Opf.\nDeutschland"
 }
