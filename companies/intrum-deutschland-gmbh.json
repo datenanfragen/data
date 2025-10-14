@@ -1,0 +1,18 @@
+{
+    "slug": "intrum-deutschland-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Intrum Deutschland GmbH",
+    "address": "Donnersbergstraße 1\n64646 Heppenheim",
+    "phone": "+49 6252 6720",
+    "email": "info.de@intrum.com",
+    "sources": [
+        "https://www.inkasso.de/mitglieder/mitgliederliste?tx_inkassomember_listview%5Baction%5D=list&tx_inkassomember_listview%5Bcontroller%5D=Member&cHash=c91e078cc9e3e0058192b09ee5a3058a",
+        "https://github.com/datenanfragen/data/pull/3267"
+    ],
+    "quality": "verified"
+}
