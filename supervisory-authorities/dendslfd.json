@@ -3,14 +3,14 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Die Landesbeauftragte für den Datenschutz Niedersachsen",
+    "name": "Der Landesbeauftragte für den Datenschutz Niedersachsen",
     "address": "Postfach 221\n30002 Hannover\nDeutschland",
     "phone": "+49 511 120 4500",
     "fax": "+49 511 120 4599",
     "email": "poststelle@lfd.niedersachsen.de",
     "webform": "https://www.navo.niedersachsen.de/navo2/portal/csend/8915/fileget/dsbeschwerdeformular.html",
     "pgp-fingerprint": "6194 AE01 4804 7C0C 915C  E1F8 21F1 4CA5 91F3 F7A7",
-    "pgp-url": "https://lfd.niedersachsen.de/download/32009",
+    "pgp-url": "https://www.lfd.niedersachsen.de/download/32009/PGP-Key_fuer_verschluesselte_E-Mails_an_unsere_Behoerde.asc",
     "web": "https://lfd.niedersachsen.de/startseite/",
     "sources": [
         "https://lfd.niedersachsen.de/wir_ueber_uns/so_erreichen_sie_uns/so-erreichen-sie-uns-56182.html",
