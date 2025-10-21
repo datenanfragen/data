@@ -30,7 +30,7 @@
         "eslint-plugin-json": "^3.1.0",
         "eslint-plugin-optimize-regex": "^1.2.1",
         "filter-anything": "^2.2.1",
-        "glob": "^7.1.6",
+        "glob": "^11",
         "husky": "^4.3.7",
         "json-source-map": "^0.6.1",
         "jsonpointer": "^5.0.0",

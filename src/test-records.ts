@@ -1,7 +1,7 @@
 import fs from 'fs';
 import { join, relative } from 'path';
 import arg from 'arg';
-import glob from 'glob';
+import {globSync} from 'glob';
 import json_map, { JsonSourceMap } from 'json-source-map';
 import { omit, pick } from 'filter-anything';
 import * as jsonpointer from 'jsonpointer';
@@ -37,7 +37,7 @@ let exit_code = 0;
 const validate = async (dir: string) => {
     const check_results: RdjsonLine[] = [];
 
-    const files = glob.sync(`${dir}/*.json`);
+    const files = globSync(`${dir}/*.json`);
 
     for (const f of files) {
         const file_content = fs.readFileSync(f).toString();
