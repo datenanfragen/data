@@ -8,7 +8,6 @@
         "@segment/ajv-human-errors": "^2.0.0",
         "@types/all-the-cities": "^3.1.0",
         "@types/chunk": "^0.0.0",
-        "@types/glob": "^7.1.4",
         "@types/marked": "^4.0.2",
         "@types/marked-terminal": "^3.1.2",
         "@types/node": "^14.14.20",
