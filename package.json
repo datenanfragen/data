@@ -1,6 +1,6 @@
 {
     "engines": {
-        "node": ">=20.0.0"
+        "node": ">=20.19.0"
     },
     "devDependencies": {
         "@babel/runtime": "^7.11.0",
@@ -34,7 +34,7 @@
         "husky": "^4.3.7",
         "json-source-map": "^0.6.1",
         "jsonpointer": "^5.0.0",
-        "lint-staged": "^10.5.3",
+        "lint-staged": "^16.2.5",
         "marked": "^4.0.12",
         "marked-terminal": "^4.2.0",
         "picocolors": "^1.0.0",
