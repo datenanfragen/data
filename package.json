@@ -38,7 +38,7 @@
         "marked-terminal": "^4.2.0",
         "picocolors": "^1.0.0",
         "prettier": "^2.2.1",
-        "quicktype": "^16.0.12",
+        "quicktype": "^23.2.6",
         "ts-node": "^10.2.1",
         "type-fest": "^2.5.1",
         "typescript": "5.1.6",
