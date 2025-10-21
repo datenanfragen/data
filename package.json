@@ -21,7 +21,7 @@
         "as-table": "^1.0.55",
         "babel-eslint": "^10.1.0",
         "chunk": "^0.0.2",
-        "countries-list": "^2.6.1",
+        "countries-list": "^3.2.0",
         "eslint": "^9.38.0",
         "eslint-config-prettier": "^10.1.8",
         "eslint-plugin-eslint-comments": "^3.2.0",
