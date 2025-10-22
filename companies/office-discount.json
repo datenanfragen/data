@@ -1,18 +1,19 @@
 {
-    "slug": "office-discount-gmbh",
+    "slug": "office-discount",
     "relevant-countries": [
         "de"
     ],
     "categories": [
-        "commerce",
-        "ads"
+        "commerce"
     ],
     "name": "office discount GmbH",
     "address": "Ludwig-Erhard-Str. 12\n85374 Neufahrn bei München\nDeutschland",
-    "email": "Ludwig-Erhard-Str. 12 85374 Neufahrn bei München",
+    "phone": "+49 800 8884442",
+    "email": "datenschutzanfragen@office-discount.de",
     "sources": [
-        "https://www.office-discount.de/hilfe/datenschutz#pos_1",
+        "https://www.office-discount.de/hilfe/datenschutz",
         "https://github.com/datenanfragen/data/pull/3238"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
