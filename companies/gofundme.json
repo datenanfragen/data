@@ -1,0 +1,23 @@
+{
+    "slug": "gofundme",
+    "relevant-countries": [
+        "de",
+        "all"
+    ],
+    "name": "GoFundMe Ireland, Limited",
+    "runs": [
+        "GoFundMe Inc.",
+        "GoFundMe Australia Pty Ltd.",
+        "GoFundMe Argentina S.R.L.",
+        "GoFundMe Group Inc."
+    ],
+    "address": "GoFundMe Ireland, Limited,\n℅ Legal Department\n70 Sir John Rogerson Quay,\nDublin 2, Ireland.",
+    "email": "privacy-requests@gofundme.com",
+    "webform": "https://preferences.gofundme.com/privacy",
+    "web": "https://www.gofundme.com/",
+    "sources": [
+        "https://www.gofundme.com/de-de/c/privacy",
+        "https://github.com/datenanfragen/data/pull/3193"
+    ],
+    "quality": "verified"
+}
