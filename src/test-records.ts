@@ -14,8 +14,11 @@ import { locatorFactory } from './common/locator';
 import { GenericRecord } from './types/records';
 import { CheckInstance, RdjsonLine } from './types/checks';
 import { existingCompanySlugs, existingTemplatesPerLanguage } from './common/ctx';
+import type { Renderer } from 'marked';
 
-marked.setOptions({ renderer: new TerminalRenderer({ reflowText: true, width: process.stdout.columns - 10, tab: 2 }) });
+// TS foo, seems like the types are wrong, via https://chatgpt.com/share/68fdfcea-8ecc-800a-b677-06d25ad8f2e9
+// marked-terminal2 is a hallucination :) 
+marked.setOptions({ renderer: new TerminalRenderer({ reflowText: true, width: process.stdout.columns - 10, tab: 2 }) as unknown as Renderer });
 
 const args = arg({ '--reviewdog': Boolean, '--dir': String, '-d': '--d' });
 const base_dir = args['--dir'] || '.';
@@ -161,15 +164,15 @@ const validate = async (dir: string) => {
             const table = asTable(data.map((r) => r.row)).split('\n');
             for (let i = 0; i < data.length; i++) {
                 log(table[i], 2);
-                log(marked(data[i]!.res.message).trim(), 5);
+                log((await marked(data[i]!.res.message)).trim(), 5);
                 const suggestions = data[i]!.res.suggestions;
                 if (suggestions && suggestions.length) {
                     log();
                     log('Suggestions:', 5);
                     log(
-                        marked(
+                        (await marked(
                             suggestions.map((s) => `* \`\`\`\n  ${s.text.trim() || '(remove it)'}\n  \`\`\``).join('\n')
-                        ).trim(),
+                        )).trim(),
                         5
                     );
                 }
