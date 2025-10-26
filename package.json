@@ -33,7 +33,7 @@
         "husky": "^4.3.7",
         "json-source-map": "^0.6.1",
         "jsonpointer": "^5.0.0",
-        "lint-staged": "^16.2.5",
+        "lint-staged": "^16.2.6",
         "marked": "^16.4.1",
         "marked-terminal": "^7.3.0",
         "picocolors": "^1.0.0",
