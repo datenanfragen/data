@@ -344,10 +344,10 @@
   resolved "https://registry.yarnpkg.com/@types/all-the-cities/-/all-the-cities-3.1.3.tgz#fde8339d0132912418428c53a20b012c8ef28fbb"
   integrity sha512-nmOKDsZi6ANeGto8P4E2Zkk4q/oLN94Jd0++zS0NLaGOUcCvIqNEOKn9btF2xDknaKicCpQymg0U9Llfz+Ourw==
 
-"@types/chunk@^0.0.0":
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/@types/chunk/-/chunk-0.0.0.tgz#644651a09113cb500a8563f5c8a9de657aa292c9"
-  integrity sha512-8z7Z9E1UoxUfwb4SUuWZZCAa5T+vi2daACygqUed7NpPnq04CJo0L3l0heHh3R9fLi/pOUbfR/ZwHd2+YEQIxg==
+"@types/chunk@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@types/chunk/-/chunk-0.0.2.tgz#9a13596381797af0427d3fd1227dd046683d1b8c"
+  integrity sha512-pKxhCljOuleDrDq/VlGrReAHS7jSuduB0C27s+eTlE4rGi0XJPcR+Q4WLnxZNs+7aPnvyKGHBJ+pYIMqUxTO4A==
 
 "@types/estree@^1.0.6":
   version "1.0.8"
@@ -849,10 +849,10 @@ char-regex@^1.0.2:
   resolved "https://registry.yarnpkg.com/char-regex/-/char-regex-1.0.2.tgz#d744358226217f981ed58f479b1d6bcc29545dcf"
   integrity sha512-kWWXztvZ5SBQV+eRgKFeh8q5sLuZY2+8WUIzlxWVTg+oGwY14qylx1KbKzHd8P6ZYkAg0xyIDU9JMHhyJMZ1jw==
 
-chunk@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/chunk/-/chunk-0.0.2.tgz#04aa4f31664ae850de500cf8d57b5f4c29cd522e"
-  integrity sha512-kDX5u5tP8QWc3kpsCv9H+5Qu7Q+bM/BVUVvfxcbItTzWr+mkuZ9u4UjOHjM1cCdwHNkSQ4/W+yWPl7fAN1pHSg==
+chunk@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/chunk/-/chunk-0.0.3.tgz#d4f7473e35439c543d1d209464c27839e2b51d7a"
+  integrity sha512-oGfwvhjGRW3Ks4GTdGoJhZWKEO1eomjOC26001R+5H0TIlP7vBCO+/XcNcPCA6ayYC7RQSq1/NsN4679Odcm5A==
 
 ci-info@^2.0.0:
   version "2.0.0"
