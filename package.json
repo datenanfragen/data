@@ -14,7 +14,7 @@
         "@typescript-eslint/eslint-plugin": "^8.46.2",
         "@typescript-eslint/parser": "^8.46.2",
         "ajv": "^8.6.3",
-        "ajv-formats": "^2.1.1",
+        "ajv-formats": "^3.0.1",
         "ajv-formats-draft2019": "^1.6.1",
         "all-the-cities": "^3.1.0",
         "arg": "^5.0.1",
@@ -40,7 +40,7 @@
         "prettier": "^2.2.1",
         "quicktype": "^23.2.6",
         "ts-node": "^10.2.1",
-        "type-fest": "^2.5.1",
+        "type-fest": "^5.1.0",
         "typescript": "5.1.6",
         "typesense": "^1.2.2"
     },
