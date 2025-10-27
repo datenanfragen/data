@@ -6,12 +6,20 @@
     "categories": [
         "commerce"
     ],
-    "name": "Görtz Retail GmbH",
-    "address": "Brandstwiete 1 a\n20457 Hamburg\nDeutschland",
-    "web": "https://www.goerz.de",
+    "name": "Hegor GmbH",
+    "runs": [
+        "GÖRTZ Lifestyle",
+        "GLDN by Görtz"
+    ],
+    "address": "Gertrud-Grunow-Straße 4 \n80807 München \nDeutschland",
+    "email": "support@gldn-fashion.com",
+    "web": "https://gldn-fashion.com/",
     "sources": [
         "https://www.northdata.de/G%C3%B6rtz%20Retail%20GmbH,%20Hamburg/HRB%2086142",
-        "https://github.com/datenanfragen/data/pull/2457"
+        "https://github.com/datenanfragen/data/pull/2457",
+        "https://gldn-fashion.com/policies/privacy-policy",
+        "https://gldn-fashion.com/policies/legal-notice",
+        "https://github.com/datenanfragen/data/pull/3278"
     ],
     "quality": "verified"
 }
