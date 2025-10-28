@@ -1,0 +1,18 @@
+{
+    "slug": "r-m",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Riese & Müller GmbH - eBikes",
+    "address": "Abt.: Data Privacy/Datenschutz\nAm Alten Graben 2\n64367 Mühltal",
+    "phone": "06151 36686-0",
+    "email": "dataprivacy@r-m.de",
+    "web": "http://www.r-m.de",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3279"
+    ]
+}
