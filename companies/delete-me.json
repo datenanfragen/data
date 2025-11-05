@@ -1,0 +1,11 @@
+{
+    "slug": "delete-me",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "delete me",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3283"
+    ]
+}
