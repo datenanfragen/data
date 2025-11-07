@@ -6,18 +6,14 @@
     "categories": [
         "commerce"
     ],
-    "name": "Storex",
-    "runs": [
-        "PACT Informatique"
-    ],
-    "address": "33 rue du Ballon\n93160 Noisy-le-Grand\nFrance",
-    "phone": "+33 1 55 85 81 81",
-    "fax": "+33 1 55 85 81 82",
-    "email": "info@storex.eu",
-    "web": "https://storex.fr/",
+    "name": "Pact Group",
+    "address": "29 Promenade Michel Simon\nLe Descartes building\n93160 Noisy-le-Grand\nFrance",
+    "email": "salesstoragedistri@pactinfo.eu",
+    "web": "https://pactgroup.eu/",
     "sources": [
-        "https://storex.fr/mentions-legales/",
+        "https://pactgroup.eu/contact.html",
         "https://github.com/datenanfragen/data/issues/492"
     ],
-    "quality": "verified"
+    "quality": "verified",
+    "phone": "+33 1 55 85 81 81"
 }

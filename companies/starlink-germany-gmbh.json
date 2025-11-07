@@ -1,16 +1,23 @@
 {
     "slug": "starlink-germany-gmbh",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
         "telecommunication"
     ],
-    "name": "Starlink Germany GmbH",
-    "address": "Mainzer Landstr. 49\n60329 Frankfurt am Main\nDeutschland",
+    "name": "Space Exploration Technologies Corp.",
+    "runs": [
+        "Starlink"
+    ],
+    "address": "c/o VeraSafe Ireland Ltd.\nUnit 3D North Point House\nNorth Point Business Park\nNew Mallow Road\nCork\nT23AT2P\nIreland",
+    "phone": "+420 228 881 031",
+    "email": "privacy@spacex.com",
+    "web": "https://starlink.com",
     "sources": [
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=731652&land_abk=he",
+        "https://starlink.com/legal/documents/DOC-1009-83220-61",
         "https://github.com/datenanfragen/data/pull/838"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

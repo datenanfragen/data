@@ -6,23 +6,21 @@
     "categories": [
         "social media"
     ],
-    "name": "Snap Group Ltd.",
     "runs": [
-        "Snapchat (www.snapchat.com)",
-        "Bitmoji (www.bitmoji.com)",
+        "Snapchat",
+        "Bitmoji",
+        "Spectacles",
         "Snap Inc."
     ],
-    "address": "63 Market St.\nVenice\nCA 90291\nUnited States of America",
-    "phone": "+1 424 443 6305",
+    "address": "Keizersgracht 165\n1016 DP Amsterdam\nThe Netherlands",
     "email": "dpo@snap.com",
     "web": "https://www.snap.com",
     "sources": [
-        "https://www.snap.com/en-US/privacy/privacy-policy/",
-        "https://www.snap.com/en-US/privacy/privacy-shield/",
-        "https://support.snapchat.com/en-US/a/impressum",
-        "https://www.privacyshield.gov/participant?id=a2zt0000000TNPxAAO&status=Active"
+        "https://values.snap.com/privacy/privacy-policy/eea-uk-privacy-notice",
+        "https://values.snap.com/privacy/privacy-policy"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "name": "Snap B.V."
 }
