@@ -7,12 +7,11 @@
         "travel"
     ],
     "name": "SNCF Connect",
-    "address": "2, place de la Défense\nCNIT 1 - BP 440\n92053 Paris la Défense Cedex\nFrance",
-    "webform": "https://www.sncf-connect.com/aide/contact",
+    "address": "1-3 rue Camille Moke\nCS 20012\n93212 La Plaine Saint-Denis Cedex\nFrance",
+    "webform": "https://forms.sncf-connect.com/form-50364/",
     "web": "https://www.sncf-connect.com",
     "sources": [
-        "https://www.sncf-connect.com/informations-legales/confidentialite/droits",
-        "https://www.sncf-connect.com/en-en/legal-information/privacy/your-rights"
+        "https://www.sncf-connect.com/informations-legales/confidentialite/droits"
     ],
     "needs-id-document": true,
     "quality": "verified"

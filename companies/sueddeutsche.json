@@ -8,31 +8,19 @@
     ],
     "name": "Süddeutsche Zeitung GmbH",
     "runs": [
-        "SZ-Bildungsmarkt (bildung.sueddeutsche.de)",
-        "Das Rezept (rezept.sz-magazin.de)",
-        "SZ-ePaper (epaper.sueddeutsche.de)",
-        "SZ-Immobilienmarkt",
-        "Jetzt (www.jetzt.de)",
-        "Kaufdown (www.kaufdown.de)",
-        "SZ-Prospekte",
-        "Satt und Glücklich (ausgehen.sueddeutsche.de)",
-        "Schule & Zeitung (schule-und-zeitung.sueddeutsche.de)",
-        "SZ-Stellenmarkt (stellenmarkt.sueddeutsche.de)",
-        "Süddeutsche Zeitung Magazin (sz-magazin.sueddeutsche.de)",
-        "SZ-Apps",
-        "SZ-Gedenken (trauer.sueddeutsche.de)",
-        "SZ-Media",
-        "SZ-Shop (szshop.sueddeutsche.de)",
-        "Zeitungsapp"
+        "Jetzt.de",
+        "Kaufdown"
     ],
-    "address": "c/o atarax\nDr.-Dassler-Straße 57\n91074 Herzogenaurach\nDeutschland",
-    "phone": "+49 700 2255282729",
-    "fax": "+49 89 2183 9715",
+    "address": "atarax Unternehmensgruppe\nLuitpold-Maier-Str. 7\n91074 Herzogenaurach\nDeutschland",
+    "phone": "+49 9132 79800",
+    "fax": "+49 89 21839777",
     "email": "swmh-datenschutz@atarax.de",
     "web": "https://www.sueddeutsche.de",
     "sources": [
         "https://www.swmh-datenschutz.de/sz",
-        "https://www.sueddeutsche.de/tools/impressum"
+        "https://www.swmh-datenschutz.de/jetzt#scroll-to-9",
+        "https://www.swmh-datenschutz.de/kaufdown",
+        "https://www.sueddeutsche.de/projekte/artikel/verlag/artikel-e287935/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

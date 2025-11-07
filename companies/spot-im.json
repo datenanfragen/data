@@ -6,16 +6,16 @@
     "categories": [
         "ads"
     ],
-    "name": "OpenWeb Ltd.",
+    "name": "Open Web Technologies Ltd.",
     "runs": [
         "Spot.IM (formerly)"
     ],
-    "address": "c/o Prighter\nSchellinggasse 3/10\nVienna 1010\nAustria",
+    "address": "c/o AdYouLike SASU\n145 avenue Charles de Gaulle (Bâtiment DESKEO)\n92200 Neuilly-sur-Seine\nFrance",
     "email": "privacy@openweb.com",
     "web": "https://www.openweb.com",
     "sources": [
         "https://www.openweb.com/legal-and-privacy/privacy/",
-        "https://www.crunchbase.com/organization/spotim"
+        "https://www.openweb.com/blog/press-release-spot-im-is-now-openweb"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",

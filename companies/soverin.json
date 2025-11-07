@@ -7,12 +7,12 @@
         "telecommunication"
     ],
     "name": "Soverin B.V.",
-    "address": "Vijzelstraat 68-78\n1017 HL Amsterdam\nThe Netherlands",
+    "address": "Vijzelstraat 68\n1017 HL Amsterdam\nThe Netherlands",
     "email": "support@soverin.net",
     "web": "https://soverin.net",
     "sources": [
-        "https://soverin.net/about",
-        "https://soverin.net/legal"
+        "https://soverin.com/about/privacy",
+        "https://soverin.com/about/general-terms-and-conditions"
     ],
     "required-elements": [
         {
@@ -31,6 +31,5 @@
             "optional": false
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
