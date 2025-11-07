@@ -1,0 +1,10 @@
+{
+    "slug": "sizmek",
+    "name": "Sizmek",
+    "reason": "company-merged",
+    "redirect-to": "amazon-de",
+    "sources": [
+        "https://advertising.amazon.com/blog/amazon-ad-server"
+    ],
+    "quality": "obsolete"
+}
