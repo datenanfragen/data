@@ -6,6 +6,7 @@
     "categories": [
         "social media"
     ],
+    "name": "Snap B.V.",
     "runs": [
         "Snapchat",
         "Bitmoji",
@@ -21,6 +22,5 @@
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "name": "Snap B.V."
+    "quality": "verified"
 }
