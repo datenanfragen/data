@@ -1,0 +1,10 @@
+{
+    "slug": "six-payment",
+    "name": "SIX Payment Services",
+    "reason": "company-merged",
+    "redirect-to": "payone",
+    "sources": [
+        "https://www.payone.com/AT-de/ueber-uns/presse/six-payment-services-wird-payone"
+    ],
+    "quality": "obsolete"
+}
