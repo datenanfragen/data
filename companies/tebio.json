@@ -16,8 +16,7 @@
     "email": "datenschutz@tebio.de",
     "web": "https://tebio.de",
     "sources": [
-        "https://tebio.de/de/content/article/data-privacy-de",
-        "https://tebio24.com/privacy",
+        "https://tebio.de/de/content/article/privacy-policy-de",
         "https://github.com/datenanfragen/data/pull/2487"
     ],
     "suggested-transport-medium": "email",
