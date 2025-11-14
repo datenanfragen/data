@@ -12,8 +12,8 @@
     "email": "datenschutz@bueromarkt-ag.de",
     "web": "https://www.bueromarkt-ag.de",
     "sources": [
-        "https://www.bueromarkt-ag.de/impressum/impressum.php",
         "https://www.bueromarkt-ag.de/datenschutz/datenschutz.php",
+        "https://www.bueromarkt-ag.de/impressum/impressum.php",
         "https://github.com/datenanfragen/data/pull/1677",
         "https://github.com/datenanfragen/data/pull/3289"
     ],
