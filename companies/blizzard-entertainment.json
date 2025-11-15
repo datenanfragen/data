@@ -8,14 +8,16 @@
     ],
     "name": "Blizzard Entertainment International",
     "runs": [
-        "Blizzard Entertainment, Inc."
+        "Blizzard Entertainment, Inc.",
+        "Battle.net"
     ],
     "address": "Prinses Beatrixlaan 582\nWTC The Hague\nTower E, 6th Floor\n2595 BM The Hague\nThe Netherlands",
     "email": "DPO@blizzard.com",
     "web": "https://www.blizzard.com",
     "sources": [
         "https://www.blizzard.com/legal/8c41e7e6-0b61-42c4-a674-c91d8e8d68d3/blizzard-entertainment-online-privacy-policy",
-        "https://github.com/datenanfragen/data/issues/265"
+        "https://github.com/datenanfragen/data/issues/265",
+        "https://github.com/datenanfragen/data/pull/3290"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
