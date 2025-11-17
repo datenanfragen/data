@@ -1,0 +1,11 @@
+{
+    "slug": "creditreform-boniversum",
+    "name": "Creditreform Boniversum GmbH",
+    "reason": "company-merged",
+    "redirect-to": "infoscore",
+    "sources": [
+        "https://www.northdata.de/?id=4887812606001152",
+        "https://www.lto.de/recht/kanzleien-unternehmen/k/experian-creditreform-strategische-partnerschaft-uebernahme-boniversum"
+    ],
+    "quality": "obsolete"
+}
