@@ -1,0 +1,20 @@
+{
+    "slug": "myheritage",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [],
+    "name": "MyHeritage Ltd.",
+    "address": "PO Box 50, Terminal Park\nOr Yehuda 6037606\nIsrael",
+    "phone": "+972 3 628 0000",
+    "fax": "+972 6280003",
+    "email": "contact@myheritage.com",
+    "web": "https://www.myheritage.de/",
+    "sources": [
+        "https://www.myheritage.de/FP/Company/company-information.php",
+        "https://www.myheritage.de/privacy-policy",
+        "https://www.myheritage.de/privacy-definitions",
+        "https://github.com/datenanfragen/data/pull/3252"
+    ],
+    "quality": "verified"
+}
