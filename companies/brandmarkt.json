@@ -6,17 +6,15 @@
     "categories": [
         "commerce"
     ],
-    "name": "Brandmarkt-Outlet",
-    "address": "Fachmarktzentrum Grüzepark Industriestrasse 43/44 \n8404 Winterthur Switzerland",
-    "phone": "+41 52 232 31 62",
+    "name": "BrandMarkt",
+    "address": "Fachmarktzentrum Grüzepark\nIndustriestrasse 43/44\n8404 Winterthur\nSchweiz",
+    "phone": "+41 79 531 13 63",
     "email": "store@brandmarkt.ch",
     "web": "https://brandmarkt.store/",
     "sources": [
-        "https://brandmarkt.store/marken/",
-        "https://brandmarkt.store/click-and-collect-service/",
-        "https://www.facebook.com/Brandmarkt.store/",
-        "https://www.instagram.com/brandmarkt_/",
-        "https://www.youtube.com/@brandmarkt7349",
+        "https://brandmarkt.store/kontact-uns/",
+        "https://github.com/datenanfragen/data/pull/1962",
+        "https://github.com/datenanfragen/data/pull/2576",
         "https://github.com/datenanfragen/data/pull/3296"
     ],
     "quality": "verified"
