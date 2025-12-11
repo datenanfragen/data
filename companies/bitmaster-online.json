@@ -1,7 +1,8 @@
 {
     "slug": "bitmaster-online",
     "relevant-countries": [
-        "all"
+        "all",
+        "fr"
     ],
     "categories": [
         "ads"
@@ -25,7 +26,8 @@
         "https://www.provoziermich.com/privacy",
         "https://www.monsecretsensuel.com/privacy",
         "https://www.versautesverlangen.com/company",
-        "https://github.com/datenanfragen/data/pull/2475"
+        "https://github.com/datenanfragen/data/pull/2475",
+        "https://github.com/datenanfragen/data/pull/3300"
     ],
     "quality": "verified",
     "nsfw": true
