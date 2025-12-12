@@ -6,6 +6,7 @@
     "categories": [
         "addresses"
     ],
+    "name": "Trulioo (Ireland) Limited",
     "runs": [
         "Trulioo Information Services Inc."
     ],
@@ -20,6 +21,5 @@
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "name": "Trulioo (Ireland) Limited"
+    "quality": "verified"
 }
