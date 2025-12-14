@@ -1,0 +1,15 @@
+{
+    "slug": "fahrschule-phoenix",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Fahrschule Phoenix",
+    "address": "Klaus Hilke\nRuppstein 15\n99100 Dachwig\nDeutschland",
+    "phone": "+49 36206 23701",
+    "email": "info@fs-phoenix.de",
+    "sources": [
+        "http://www.fs-phoenix.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2849"
+    ],
+    "quality": "verified"
+}
