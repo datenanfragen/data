@@ -8,10 +8,11 @@
     ],
     "name": "Kinguin Digital Limited",
     "address": "8 / F On Hing Building\nOn Hing Terrace\nCentral\nHong Kong",
-    "email": "gdpr@kinguin.io",
+    "email": "gdpr@kinguin.net",
     "web": "https://www.kinguin.net",
     "sources": [
-        "https://www.kinguin.net/privacy-policy-cookie-restriction-mode"
+        "https://www.kinguin.net/privacy-policy-cookie-restriction-mode",
+        "https://github.com/datenanfragen/data/pull/3302"
     ],
     "required-elements": [
         {
