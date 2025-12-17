@@ -7,7 +7,7 @@
         "entertainment"
     ],
     "name": "Kinguin Digital Limited",
-    "address": "8 / F On Hing Building\nOn Hing Terrace\nCentral\nHong Kong",
+    "address": "5/F Chung Nam Building\n1 Lockhart Road\nWan Chai\nHong Kong",
     "email": "gdpr@kinguin.net",
     "web": "https://www.kinguin.net",
     "sources": [
@@ -18,10 +18,6 @@
         {
             "desc": "Name",
             "type": "name"
-        },
-        {
-            "desc": "Address",
-            "type": "address"
         },
         {
             "desc": "Email",
