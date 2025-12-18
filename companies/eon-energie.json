@@ -14,14 +14,15 @@
         "innogy (ehem.)"
     ],
     "address": "Brüsseler Platz 1\n45131 Essen\nDeutschland",
-    "phone": "+49 871 95 38 62 00",
-    "fax": "+49 871 95 38 62 20",
-    "email": "edg-datenschutz@eon.com",
+    "phone": "+49 871 95386200",
+    "fax": "+49 871 95386220",
+    "email": "datenschutzbeauftragter@eon.de",
     "web": "https://www.eon.de",
     "sources": [
         "https://www.eon.de/de/pk/datenschutz.html",
         "https://www.eon.de/de/pk/impressum.html",
-        "https://www.eon.de/de/innogy.html"
+        "https://www.eon.de/de/innogy.html",
+        "https://github.com/datenanfragen/data/pull/3306"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
