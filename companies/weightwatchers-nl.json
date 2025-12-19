@@ -1,21 +1,19 @@
 {
     "slug": "weightwatchers-nl",
     "relevant-countries": [
-        "nl"
-    ],
-    "categories": [
-        "health"
+        "all"
     ],
     "name": "WW Netherlands B.V.",
-    "runs": [
-        "Weight Watchers"
-    ],
     "address": "Bijster 12\n4817 HX Breda\nThe Netherlands",
+    "phone": "01222333",
+    "fax": "011232312234",
     "email": "info.nl@ww.com",
+    "webform": "haus12  Hamburg",
     "web": "https://www.weightwatchers.com/nl/",
     "sources": [
-        "https://www.weightwatchers.com/nl/privacy-policy",
-        "https://github.com/datenanfragen/data/pull/1955"
+        "https://github.com/datenanfragen/data/pull/1955",
+        "https://github.com/datenanfragen/data/pull/3307"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
