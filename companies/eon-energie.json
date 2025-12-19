@@ -8,19 +8,16 @@
     ],
     "name": "E.ON Energie Deutschland GmbH",
     "runs": [
-        "Mein E.ON",
-        "SmartCheck",
-        "Mein E.ON App",
         "innogy (ehem.)"
     ],
-    "address": "Brüsseler Platz 1\n45131 Essen\nDeutschland",
+    "address": "Postfach 14 75\n84001 Landshut\nDeutschland",
     "phone": "+49 871 95386200",
-    "fax": "+49 871 95386220",
-    "email": "datenschutzbeauftragter@eon.de",
+    "email": "betroffenenanfrage@eon.de",
+    "webform": "https://www.eon.de/de/pk/service/kontakt/email/betroffenenrechte.html",
     "web": "https://www.eon.de",
     "sources": [
-        "https://www.eon.de/de/pk/datenschutz.html",
-        "https://www.eon.de/de/pk/impressum.html",
+        "https://www.eon.de/de/pk/datenschutz/betroffenenrechte.html",
+        "https://www.eon.de/de/pk/datenschutz/vertrag.html",
         "https://www.eon.de/de/innogy.html",
         "https://github.com/datenanfragen/data/pull/3306"
     ],
