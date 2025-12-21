@@ -14,8 +14,8 @@
         "Fluggastdatenzentrale"
     ],
     "address": "65173 Wiesbaden\nDeutschland",
-    "phone": "+49 611 55 0",
-    "fax": "+49 611 55 45641",
+    "phone": "+49 611 550",
+    "fax": "+49 611 5545641",
     "email": "ds-petenten@bka.bund.de",
     "webform": "https://www.bka.de/DE/KontaktAufnehmen/DatenschutzIFG/DatenschutzIFG_node.html",
     "web": "https://www.bka.de",
@@ -25,10 +25,11 @@
         "https://www.bka.de/DE/KontaktAufnehmen/DatenschutzIFG/AuskunftserteilungSIS/auskunftserteilungSIS_node.html",
         "https://www.bka.de/DE/KontaktAufnehmen/DatenschutzIFG/Fluggastdaten/fluggastdaten_node.html",
         "https://www.bfdi.bund.de/DE/Buerger/Inhalte/Polizei-Strafjustiz/National/ATD.html",
-        "https://www.bfdi.bund.de/DE/Buerger/Inhalte/Polizei-Strafjustiz/National/DasPolizeilicheInformationssystem-INPOL.html"
+        "https://www.bfdi.bund.de/DE/Buerger/Inhalte/Polizei-Strafjustiz/National/DasPolizeilicheInformationssystem-INPOL.html",
+        "https://github.com/datenanfragen/data/pull/3308"
     ],
     "request-language": "de",
     "needs-id-document": true,
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "letter",
     "quality": "verified"
 }
