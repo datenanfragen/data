@@ -1,13 +1,13 @@
 /**
  * A single record of the Datenanfragen.de company database. It represents the contact
  * information of a company (or other organization) specifically for privacy-related
- * inquires and requests.
+ * inquiries and requests.
  * More information and access to the whole database at:
  * https://github.com/datenanfragen/data
  */
 export interface CompanyRecord {
     /**
-     * The address where the company can be reached for privacy-related inquires and requests.
+     * The address where the company can be reached for privacy-related inquiries and requests.
      * Has to include the country (either in the country's native language or in English) in the
      * last line and should be formatted according to the standards of the respective country.
      */
@@ -40,7 +40,7 @@ export interface CompanyRecord {
      */
     "custom-rectification-template"?: string;
     /**
-     * An email address where the company can be reached for privacy-related inquires and
+     * An email address where the company can be reached for privacy-related inquiries and
      * requests. Preferably a specific privacy@[domain.tld] address if available.
      */
     email?: string;
@@ -51,7 +51,7 @@ export interface CompanyRecord {
      */
     "facet-group"?: FacetGroup;
     /**
-     * A fax number where the company can be reached for privacy-related inquires and requests.
+     * A fax number where the company can be reached for privacy-related inquiries and requests.
      * Has to be in the standard international format and include the country code.
      */
     fax?: string;
@@ -71,20 +71,20 @@ export interface CompanyRecord {
      */
     nsfw?: boolean;
     /**
-     * Fingerprint of the PGP key of the email address used to send privacy-related inquires and
-     * requests to the company. The PGP key should be found by this key on public keyservers.
-     * Please check the key thoroughly before entering it.
+     * Fingerprint of the PGP key of the email address used to send privacy-related inquiries
+     * and requests to the company. The PGP key should be found by this key on public
+     * keyservers. Please check the key thoroughly before entering it.
      */
     "pgp-fingerprint"?: string;
     /**
-     * URL, where the PGP key of the email address used to send privacy-related inquires and
+     * URL, where the PGP key of the email address used to send privacy-related inquiries and
      * requests to the company can be downloaded. The protocol *must* be https and the domain
      * has to belong to the repective authority. Please check the key thoroughly before entering
      * it.
      */
     "pgp-url"?: string;
     /**
-     * A phone number where the company can be reached for privacy-related inquires and
+     * A phone number where the company can be reached for privacy-related inquiries and
      * requests. Has to be in the standard international format and include the country code.
      */
     phone?: string;
@@ -132,7 +132,7 @@ export interface CompanyRecord {
      */
     sources: string[];
     /**
-     * The transport medium a user should use for their privacy-related inquires and requests.
+     * The transport medium a user should use for their privacy-related inquiries and requests.
      * If a specific privacy@[domain.tld] email address is available, 'email' should be
      * specified. If no value is specified, the default is 'email' if the record has an email
      * address specified or 'letter' otherwise.
@@ -142,6 +142,14 @@ export interface CompanyRecord {
      * The company's main website. Include the protocol, e.g. `https://`.
      */
     web?: string;
+    /**
+     * A URL to a web form where the company can be reached for privacy-related inquiries and
+     * requests. This should only be used for web forms specifically for privacy-related
+     * inquiries and requests (or ones which at least offer that as an option). General contact
+     * forms should only be entered here in rare cases, e.g. if the company has neither an email
+     * address nor a privacy-related web form.
+     */
+    webform?: string;
 }
 
 export enum Category {
@@ -255,7 +263,7 @@ export enum Type {
 }
 
 /**
- * The transport medium a user should use for their privacy-related inquires and requests.
+ * The transport medium a user should use for their privacy-related inquiries and requests.
  * If a specific privacy@[domain.tld] email address is available, 'email' should be
  * specified. If no value is specified, the default is 'email' if the record has an email
  * address specified or 'letter' otherwise.
@@ -264,4 +272,5 @@ export enum SuggestedTransportMedium {
     Email = "email",
     Fax = "fax",
     Letter = "letter",
+    Webform = "webform",
 }
