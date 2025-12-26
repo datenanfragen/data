@@ -1,0 +1,19 @@
+{
+    "slug": "seb",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Skandinaviska Enskilda Banken",
+    "address": "Dataskyddsombud\n106 40 Stockholm\nSweden",
+    "email": "dsr@seb.se",
+    "web": "https://seb.se/",
+    "sources": [
+        "https://seb.se/juridik-och-sakerhet/sebs-integritetspolicyer/integritetspolicy-for-privatpersoner",
+        "https://github.com/datenanfragen/data/pull/3327"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
