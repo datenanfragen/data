@@ -1,0 +1,19 @@
+{
+    "slug": "euzopiclon",
+    "relevant-countries": [
+        "nl"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "EU Zopiclon",
+    "address": "Geldersekade, De Waag,",
+    "phone": "097010580450",
+    "email": "euzopiclon@gmail.com",
+    "webform": "Nederland",
+    "web": "https://euzopiclon.com/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3295"
+    ]
+}
