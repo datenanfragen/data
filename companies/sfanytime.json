@@ -1,0 +1,19 @@
+{
+    "slug": "sfanytime",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "SF Anytime AB",
+    "address": "Solnavägen 3H\n113 63 Stockholm\nSweden",
+    "email": "support@sanytime.com",
+    "web": "https://www.sfanytime.com/",
+    "sources": [
+        "https://www.sfanytime.com/sv/page/personuppgiftspolicy",
+        "https://github.com/datenanfragen/data/pull/3320"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
