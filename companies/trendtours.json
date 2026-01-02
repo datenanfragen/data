@@ -1,6 +1,7 @@
 {
     "slug": "trendtours",
     "relevant-countries": [
+        "de",
         "de"
     ],
     "categories": [
@@ -15,7 +16,8 @@
     "sources": [
         "https://www.trendtours.de/datenschutz",
         "https://www.trendtours.de/impressum",
-        "https://github.com/datenanfragen/data/pull/1945"
+        "https://github.com/datenanfragen/data/pull/1945",
+        "https://github.com/datenanfragen/data/pull/3329"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
