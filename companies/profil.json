@@ -1,0 +1,19 @@
+{
+    "slug": "profil",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Profil Institut für Stoffwechselforschung GmbH",
+    "address": "Hellersbergstraße 9\n41460 Neuss",
+    "email": "datenschutz@profil.com",
+    "web": "https://www.profil.de/datenschutz",
+    "sources": [
+        "https://www.profil.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3330"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
