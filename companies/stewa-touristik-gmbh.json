@@ -1,0 +1,20 @@
+{
+    "slug": "stewa-touristik-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel",
+        "ads"
+    ],
+    "name": "STEWA Touristik GmbH",
+    "address": "Lindigstr. 2\n63801 Kleinostheim",
+    "phone": "06027 409721",
+    "fax": "06027 40972440",
+    "email": "info@stewa.de",
+    "sources": [
+        "https://stewa.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/3309"
+    ],
+    "quality": "verified"
+}
