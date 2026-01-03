@@ -1,0 +1,25 @@
+{
+    "slug": "schibsted-news-media-ab",
+    "relevant-countries": [
+        "se",
+        "fi"
+    ],
+    "name": "Schibsted News Media AB",
+    "runs": [
+        "Aftonbladet",
+        "Svenska Dagbladet",
+        "Klart",
+        "Omni",
+        "TV.nu",
+        "Godare",
+        "Podme"
+    ],
+    "address": "Västra Järnvägsgatan 21\n111 64 Stockholm\nSweden",
+    "webform": "https://docs.google.com/forms/d/e/1FAIpQLSeKXUCazOGIzWHd70cCze2xH3zqD1vl6jOGlu3v4b25zBzGig/viewform",
+    "sources": [
+        "https://info.privacy.schibsted.com/se/schibsted-sverige-personuppgiftspolicy/",
+        "https://github.com/datenanfragen/data/pull/3315"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
