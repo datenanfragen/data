@@ -1,0 +1,18 @@
+{
+    "slug": "kaprifol-services-limited",
+    "relevant-countries": [
+        "se"
+    ],
+    "name": "Kaprifol Services Limited",
+    "runs": [
+        "Unibet"
+    ],
+    "email": "dpo@kindredgroup.com",
+    "webform": "https://kindred-privacy.my.onetrust.com/webform/d467003c-a2fe-4518-aa7a-02b5b6c63777/1a4cfa1f-6634-45e9-b6bc-4d105a24d457",
+    "sources": [
+        "https://www.unibet.se/general-info/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3321"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
