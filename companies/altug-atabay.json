@@ -1,0 +1,14 @@
+{
+    "slug": "altug-atabay",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Altug atabay",
+    "address": "Ahorn str 19",
+    "phone": "01776540610",
+    "email": "Atabay1972@hotmail.de",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3142"
+    ]
+}
