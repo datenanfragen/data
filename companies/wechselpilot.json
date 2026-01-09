@@ -1,0 +1,23 @@
+{
+    "slug": "wechselpilot",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Wechselpilot GmbH",
+    "runs": [
+        "wechselpilot.com"
+    ],
+    "address": "Reimersbrücke 5\n20457 Hamburg\nDeutschland",
+    "phone": "+49 40 882156650",
+    "email": "info@wechselpilot.com",
+    "web": "https://www.wechselpilot.com/",
+    "sources": [
+        "https://www.wechselpilot.com/datenschutzbedingungen/",
+        "https://github.com/datenanfragen/data/pull/3202"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
