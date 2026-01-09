@@ -1,0 +1,21 @@
+{
+    "slug": "roblox",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "social media"
+    ],
+    "name": "Roblox Corporation",
+    "address": "DP-Dock GmbH\nAttn: Roblox Corporation\nBallindamm 39 / Ecke Jungfernstieg\n20095 Hamburg, Germany",
+    "email": "mailto:roblox@gdpr-rep.com",
+    "webform": "https://www.roblox.com/support",
+    "web": "https://roblox.com",
+    "sources": [
+        "https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy",
+        "https://github.com/datenanfragen/data/pull/3333"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
