@@ -1,0 +1,21 @@
+{
+    "slug": "locowin-casino-de",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "locowin",
+    "address": "Max Mustermann\nMusterstraße 12\n345 Berlin\nGermany",
+    "phone": "+49 170 1234567",
+    "email": "support@locowin.com",
+    "web": "https://locowin-casino-de.de/",
+    "comments": [
+        "LocoWin GE ist eine innovative Online-Casino-Plattform, die Spielern eine breite Auswahl an Spielen und exklusiven Bonusangeboten bietet. Mit Tausenden von Spielen, von klassischen Spielautomaten bis hin zu aufregenden Live-Tischen, stellt das Unternehmen sicher, dass für jeden etwas dabei ist. Das Casino legt großen Wert auf Sicherheit und Datenschutz, was durch die Lizenz der Kahnawake Gaming Commission bestätigt wird. LocoWin GE bietet eine benutzerfreundliche Erfahrung sowohl für Anfänger als auch für erfahrene Spieler und sorgt so für ein unvergessliches Spielerlebnis."
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3021"
+    ]
+}
