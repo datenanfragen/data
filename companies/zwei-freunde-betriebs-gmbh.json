@@ -1,0 +1,21 @@
+{
+    "slug": "zwei-freunde-betriebs-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Zwei Freunde Betriebs-GmbH",
+    "runs": [
+        "ASTOR Grand Cinema Hannover"
+    ],
+    "address": "c/o Vater Solution GmbH\nBoschstr. 5\n24118 Kiel\nDeutschland",
+    "email": "colange@vater-gruppe.de",
+    "sources": [
+        "https://hannover.premiumkino.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3341"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
