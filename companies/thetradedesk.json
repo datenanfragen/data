@@ -7,6 +7,9 @@
         "ads"
     ],
     "name": "The UK Trade Desk Ltd.",
+    "runs": [
+        "Adbrain (formerly)"
+    ],
     "address": "10th Floor\n1 Bartholomew Close\nLondon\nEC1A 7BL\nUnited Kingdom",
     "email": "dpo@thetradedesk.com",
     "webform": "https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/61b81601-fe65-4dfe-a922-e1c5a68fa8cb",
@@ -17,8 +20,5 @@
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "runs": [
-        "Adbrain (formerly)"
-    ]
+    "quality": "verified"
 }
