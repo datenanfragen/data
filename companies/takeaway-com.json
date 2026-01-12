@@ -1,5 +1,8 @@
 {
     "slug": "takeaway-com",
+    "relevant-countries": [
+        "all"
+    ],
     "name": "Takeaway.com Group B.V.",
     "runs": [
         "БГменю ЕООД",
@@ -43,8 +46,5 @@
     ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested",
-    "relevant-countries": [
-        "all"
-    ]
+    "quality": "tested"
 }
