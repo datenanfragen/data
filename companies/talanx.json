@@ -6,6 +6,7 @@
     "categories": [
         "insurance"
     ],
+    "name": "HDI AG",
     "runs": [
         "HDI Lebensversicherung AG",
         "HDI Versicherung AG",
@@ -32,6 +33,5 @@
         "https://www.targoversicherung.de/html/Datenschutz.html"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "name": "HDI AG"
+    "quality": "verified"
 }
