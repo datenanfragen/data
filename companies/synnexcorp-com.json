@@ -3,22 +3,13 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "SYNNEX Corporation",
-    "runs": [
-        "Concentrix Corporation",
-        "Hyve Solutions Corporation",
-        "New Age Electronics"
-    ],
-    "address": "44201 Nobel Drive\nFremont\nCA 94538\nUnited States of America",
-    "phone": "+1 510 656 3333",
-    "fax": "+1 510 668 3777",
-    "email": "cshelp@synnex.com",
-    "web": "https://www.synnexcorp.com",
+    "name": "TD SYNNEX Corporation",
+    "address": "Tech Data Dr.\nClearwater, FL 33760\nUnited States of America",
+    "email": "Privacy@TDSYNNEX.com",
+    "webform": "https://gdprrequest.tdsynnex.eu/",
+    "web": "https://www.tdsynnex.com/",
     "sources": [
-        "https://www.synnexcorp.com/contact-us/",
-        "https://www.synnexcorp.com/copyright-policy/",
-        "https://www.synnexcorp.com/us/about/contacts/",
-        "https://www.synnexcorp.com/newageelectronics/about-us/"
+        "https://www.tdsynnex.com/content/dam/tds-site/tds-site-shared/docs/privacy/2025/global/2025-global-privacy-statement-english.pdf"
     ],
     "required-elements": [
         {

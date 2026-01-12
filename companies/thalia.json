@@ -10,12 +10,10 @@
     "name": "Thalia Bücher GmbH",
     "address": "Batheyer Straße 115 – 117\n58099 Hagen\nDeutschland",
     "phone": "+49 251 5309 330",
-    "fax": "+49 251 5309 199",
     "email": "datenschutz@thalia.de",
     "web": "https://www.thalia.de",
     "sources": [
-        "https://www.thalia.de/shop/hilfe-datenschutz/show/",
-        "https://www.thalia.de/shop/hilfe-impressum"
+        "https://www.thalia.de/hilfe/rechtliches/datenschutz"
     ],
     "required-elements": [
         {

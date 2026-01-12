@@ -8,14 +8,13 @@
     "categories": [
         "ads"
     ],
-    "name": "Täglich Angebote UG",
-    "address": "Kurfürstenstraße 1\n34117 Kassel\nDeutschland",
-    "email": "datenschutz@taeglich-angebote.online",
-    "web": "https://www.taeglich-angebote.online",
+    "name": "Täglich Angebote UG (haftungsbeschränkt)",
+    "address": "Talstraße 27\n41751 Viersen\nDeutschland",
+    "webform": "https://taeglich-angebote.de/kontakt.html",
+    "web": "https://taeglich-angebote.de/",
     "sources": [
-        "https://www.taeglich-angebote.online/datenschutz.html",
+        "https://taeglich-angebote.de/datenschutz.html",
         "https://github.com/datenanfragen/data/issues/71"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

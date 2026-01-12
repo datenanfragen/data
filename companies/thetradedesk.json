@@ -6,24 +6,19 @@
     "categories": [
         "ads"
     ],
-    "name": "The Trade Desk, Inc.",
+    "name": "The UK Trade Desk Ltd.",
     "runs": [
-        "Adbrain (www.adbrain.com)",
-        "The UK Trade Desk Ltd."
+        "Adbrain (formerly)"
     ],
-    "address": "2 Park Avenue\n5th Floor\nNew York\nNY 10016\nUnited States of America",
-    "phone": "+1 646 868 6300",
+    "address": "10th Floor\n1 Bartholomew Close\nLondon\nEC1A 7BL\nUnited Kingdom",
     "email": "dpo@thetradedesk.com",
+    "webform": "https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/61b81601-fe65-4dfe-a922-e1c5a68fa8cb",
     "web": "https://www.thetradedesk.com/",
     "sources": [
-        "https://www.adbrain.com/",
-        "https://www.thetradedesk.com/general/privacy",
-        "https://www.thetradedesk.com/contact-us"
+        "https://www.thetradedesk.com/legal/privacy",
+        "https://investors.thetradedesk.com/news-and-events/news/news-details/2017/The-Trade-Desk-Acquires-The-Assets-of-Adbrain-Ltd.-10-20-2017/default.aspx"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
-    "comments": [
-        "Address in the UK: The UK Trade Desk Ltd., 20 Farringdon Rd, 5th Floor, London, EC1M 3HE, United Kingdom"
-    ],
     "quality": "verified"
 }
