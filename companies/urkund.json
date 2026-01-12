@@ -3,19 +3,16 @@
     "relevant-countries": [
         "all"
     ],
-    "name": "Prio Infocenter AB",
+    "name": "Prio InfoCenter AB",
     "runs": [
         "Ouriginal",
         "Urkund (formerly)"
     ],
-    "address": "Gustavslundsvägen 135\nSE-167 15 Bromma\nSweden",
-    "phone": "+46 8 738 52 20",
-    "email": "dataprotection@ouriginal.com",
+    "address": "6th Floor\nWellbar Central 36\nGallowgate\nNewcastle upon Tyne\nNE1 4TD\nUnited Kingdom",
+    "email": "dpo@ouriginal.com",
     "web": "https://www.ouriginal.com/",
     "sources": [
         "https://www.ouriginal.com/privacy-and-personal-data-protection-policy/",
-        "https://www.ouriginal.com/wp-content/uploads/2021/03/Ouriginal-TC-2021-1.pdf",
-        "https://www.ouriginal.com/offices/",
         "https://github.com/datenanfragen/data/issues/521"
     ],
     "suggested-transport-medium": "email",
