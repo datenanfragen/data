@@ -1,0 +1,11 @@
+{
+    "slug": "twoo",
+    "name": "Twoo",
+    "reason": "company-defunct",
+    "redirect-to": "match-group",
+    "sources": [
+        "https://www.twoo.com/",
+        "https://en.wikipedia.org/wiki/Twoo.com"
+    ],
+    "quality": "obsolete"
+}
