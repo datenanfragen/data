@@ -4,14 +4,15 @@
         "all"
     ],
     "categories": [
-        "ads"
+        "social media"
     ],
-    "name": "Optimizely, Inc.",
-    "address": "631 Howard Street\nSuite 100\nSan Francisco, CA 94105\nUnited States of America",
-    "email": "privacy@optimizely.com",
-    "web": "https://www.optimizely.com/",
+    "name": "SEO Strategi",
+    "address": "Åsenveien 1, 1400 Ski, Norway",
+    "email": "post@seostrategi.no",
+    "web": "https://seostrategi.no/",
     "sources": [
-        "https://www.optimizely.com/privacy/"
+        "https://seostrategi.no/",
+        "https://github.com/datenanfragen/data/pull/3348"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
