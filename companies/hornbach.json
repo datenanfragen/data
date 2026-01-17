@@ -1,27 +1,15 @@
 {
     "slug": "hornbach",
-    "categories": [
-        "commerce"
-    ],
-    "name": "HORNBACH Baumarkt AG",
-    "runs": [
-        "HORNBACH ProjektWelt-Karte",
-        "HORNBACH ProfiService"
-    ],
-    "address": "Hornbachstraße\n76879 Bornheim/Pfalz\nDeutschland",
-    "phone": "+49 6348 60 00",
-    "fax": "+49 6348 60 4000",
-    "email": "datenschutz@hornbach.com",
-    "web": "https://www.hornbach.de/",
-    "sources": [
-        "https://www.hornbach.de/cms/de/de/datenschutz.html",
-        "https://www.hornbach.de/cms/de/de/impressum.html"
-    ],
-    "comments": [
-        "Externer Datenschutzbeauftragter: Herr Markus Kirsch, intersoft consulting services AG, Beim Strohhause 17, 20097 Hamburg, Deutschland."
-    ],
     "relevant-countries": [
-        "de"
+        "se"
+    ],
+    "name": "HORNBACH Byggmarknad AB",
+    "address": "Grimbodalen 4\n417 05 Göteborg\nSweden",
+    "email": "dataskydd@hornbach.com",
+    "web": "https://www.hornbach.se/",
+    "sources": [
+        "https://www.hornbach.se/service/integritets-och-personuppgiftspolicy/",
+        "https://github.com/datenanfragen/data/pull/3318"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
