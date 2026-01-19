@@ -1,0 +1,17 @@
+{
+    "slug": "wunschgutschein",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Wunschgutschein GmbH",
+    "address": "Rosental 6\n80331 München",
+    "phone": "+49 211 78175830",
+    "email": "datenschutz@wunschgutschein.com",
+    "web": "https://www.wunschgutschein.de",
+    "sources": [
+        "https://www.wunschgutschein.de/policies/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3303"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
