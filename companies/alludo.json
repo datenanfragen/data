@@ -1,0 +1,24 @@
+{
+    "slug": "alludo",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Cascade Parent Limited",
+    "runs": [
+        "Parallels International GmbH",
+        "Corel Corporation"
+    ],
+    "address": "2nd Floor Sir Walter Raleigh House 48-50 Esplanade \nSt Helier \nJersey JE2 3QB",
+    "phone": "1 844 759 9903",
+    "email": "privacy@alludo.com",
+    "webform": "https://www.alludo.com/de/legal/privacy/form/",
+    "web": "https://www.alludo.com/de/",
+    "sources": [
+        "https://www.alludo.com/de/legal/privacy/",
+        "https://www.alludo.com/de/brands/",
+        "https://www.alludo.com/de/legal/imprint/",
+        "https://github.com/datenanfragen/data/pull/3277"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
