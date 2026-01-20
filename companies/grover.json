@@ -1,0 +1,16 @@
+{
+    "slug": "grover",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Grover Deutschland GmbH",
+    "address": "Potsdamer Str. 125, 10783 Berlin, Deutschland",
+    "webform": "https://privacyportal-de.onetrust.com/webform/9be984a4-af86-4625-9e33-e85cdddcd4d3/bb8f8266-f2b2-4dc2-86e1-c93a2a955b38",
+    "web": "https://www.grover.com/de-de",
+    "sources": [
+        "https://www.grover.com/de-de/g-about/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/2956"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
