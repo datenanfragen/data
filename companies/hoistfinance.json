@@ -1,0 +1,28 @@
+{
+    "slug": "hoistfinance",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Hoist Finance AB (publ) Niederlassung Deutschland",
+    "address": "Schifferstr. 80\n47059 Duisburg",
+    "phone": "0203 7569-10",
+    "fax": "0203 8048-1794",
+    "email": "service@hoistfinance.com",
+    "web": "http://www.hoistfinance.de",
+    "sources": [
+        "Anschreiben",
+        "https://github.com/datenanfragen/data/pull/2945"
+    ],
+    "required-elements": [
+        {
+            "type": "input"
+        }
+    ],
+    "comments": [
+        "übernimmt Forderungen der Deutschen Bank, Postbank"
+    ],
+    "quality": "verified"
+}
