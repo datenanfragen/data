@@ -1,0 +1,17 @@
+{
+    "slug": "jysk-se",
+    "relevant-countries": [
+        "dk",
+        "de"
+    ],
+    "name": "JYSK SE",
+    "address": "IBS data protection\nGeschäftsführer Dr. Michael Foth.\nZirkusweg 1\n20359 Hamburg",
+    "email": "privacy@jysk.com",
+    "comments": [
+        "Auch Videoüberwachung in den Räumen:\n    Kameraaufzeichnungen\n\n\tUnser berechtigtes Interesse an der Sicherheit unserer Räumlichkeiten, Mitarbeiter und Kunden (DSGVO, Artikel 6 Absatz 1 Buchstabe f). Weitere Datenschutzhinweise finden sie in unseren Informationspflichten zur Videoüberwachung hier"
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3167"
+    ]
+}
