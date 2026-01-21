@@ -1,0 +1,18 @@
+{
+    "slug": "wewash-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "WeWash GmbH",
+    "address": "Sendlinger-Tor-Platz 10\n80336 München\nDeutschland",
+    "phone": "+49 800 9392742",
+    "email": "datenschutz@we-wash.com",
+    "sources": [
+        "https://we-wash.com/wp-content/uploads/2023/07/PRV_DE_1224.pdf",
+        "https://we-wash.com/privacy-policy/",
+        "https://we-wash.com/impressum/",
+        "https://github.com/datenanfragen/data/pull/3096"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
