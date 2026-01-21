@@ -1,0 +1,17 @@
+{
+    "slug": "viebrockhaus",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Viebrockhaus AG",
+    "address": "Grashofweg 11B\n21698 Harsefeld",
+    "phone": "0416489910",
+    "email": "datenschutz@viebrockhaus.de",
+    "web": "https://www.viebrockhaus.de/",
+    "sources": [
+        "https://www.viebrockhaus.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2984"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
