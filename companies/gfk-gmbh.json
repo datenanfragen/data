@@ -1,0 +1,14 @@
+{
+    "slug": "gfk-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "GfK GmbH",
+    "address": "Sophie-Germain-Str. 3-5\n90443 Nürnberg\nGermany",
+    "email": "dpo_germany@gfk.com",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3051"
+    ]
+}
