@@ -1,0 +1,14 @@
+{
+    "slug": "aral-aktiengesellschaft",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Aral Aktiengesellschaft",
+    "address": "Wittener Straße 45\n44789 Bochum\nDeutschland",
+    "email": "datens@de.bp.com",
+    "sources": [
+        "https://www.aral.de/de/global/retail/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/2848"
+    ],
+    "quality": "verified"
+}
