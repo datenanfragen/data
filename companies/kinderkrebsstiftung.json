@@ -1,0 +1,18 @@
+{
+    "slug": "kinderkrebsstiftung",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Deutsche Kinderkrebsstiftung",
+    "address": "Adenauerallee 134\n53113 Bonn",
+    "phone": "+49 228 688460",
+    "email": "info@kinderkrebsstiftung.de",
+    "web": "https://www.kinderkrebsstiftung.de",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3156"
+    ]
+}
