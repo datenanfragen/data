@@ -1,0 +1,20 @@
+{
+    "slug": "expert-e-commerce-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "expert e-Commerce GmbH",
+    "runs": [
+        "expert.de"
+    ],
+    "address": "Bayernstr. 4\n30855 Langenhagen\nDeutschland",
+    "email": "datenschutz@expert.de",
+    "sources": [
+        "https://www.expert.de/Footer/Website/Datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/2810"
+    ],
+    "quality": "verified"
+}
