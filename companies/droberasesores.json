@@ -1,0 +1,21 @@
+{
+    "slug": "droberasesores",
+    "relevant-countries": [
+        "es"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "DROBER ASESORES ENERGÉTICOS",
+    "runs": [
+        "Torres Peralias Bernardo"
+    ],
+    "address": "C. Diseño, 9, 41927 Mairena del Aljarafe, Sevilla, Spain\n\nPlaza De La Ermita 1C P 41804. 41804, Olivares (Sevilla). España",
+    "phone": "+34854630090/  911094129",
+    "web": "https://droberasesores.com/",
+    "suggested-transport-medium": "letter",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3281"
+    ]
+}
