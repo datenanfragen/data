@@ -1,0 +1,23 @@
+{
+    "slug": "sh-promotion-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "SH-Promotion GmbH",
+    "runs": [
+        "MetalMerch"
+    ],
+    "address": "HABEWI GmbH & Co. KG, Palmaille 96, 22767 Hamburg, Germany",
+    "phone": "040/18189800",
+    "fax": "040/181898099",
+    "email": "datenschutz@habewi.de",
+    "sources": [
+        "https://www.metalmerch.com/policies/legal-notice",
+        "https://github.com/datenanfragen/data/pull/3351"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
