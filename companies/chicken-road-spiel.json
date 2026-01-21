@@ -1,0 +1,27 @@
+{
+    "slug": "chicken-road-spiel",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "ChickenRoad",
+    "address": "Hamburg",
+    "phone": "+49 40 43281651",
+    "email": "th414388@gmail.com",
+    "web": "https://chicken-road-spiel.de/",
+    "sources": [
+        "https://chicken-road-spiel.de/",
+        "https://github.com/datenanfragen/data/pull/3019"
+    ],
+    "required-elements": [
+        {
+            "type": "input"
+        }
+    ],
+    "comments": [
+        "Chicken Road: Das aufregende Casino-Spiel für deutsche Spieler\n\nChicken Road ist eines der beliebtesten Casinospiele in Deutschland im Jahr 2025 und begeistert Spieler mit seiner einfachen, aber spannenden Spielmechanik. Entwickelt von InOut, bietet dieses innovative Spiel eine einzigartige Kombination aus Geschicklichkeit und Glück, die sowohl Anfänger als auch erfahrene Spieler in ihren Bann zieht. Mit einer beeindruckenden RTP-Rate von 98 % gehört es zu den lukrativsten Online-Slots auf dem Markt.\n\nDas Hauptziel des Spiels ist es, eine mutige Henne durch einen gefährlichen Parcours voller Fallen und Hindernisse zu führen, um das begehrte goldene Ei zu erreichen. Je weiter die Henne kommt, desto höher wird der Multiplikator, wodurch die Gewinnchancen steigen. Diese aufregende Dynamik, gepaart mit der Crash-Game-Mechanik, macht Chicken Road zu einem wahren Nervenkitzel.\n\nDas Spiel bietet verschiedene Schwierigkeitsstufen: leicht, mittel, schwer und extrem. Spieler haben die Möglichkeit, ihre Einsätze flexibel anzupassen, von 0,10 € bis zu 200 €, wodurch es für alle Spielertypen geeignet ist. Darüber hinaus ist Chicken Road für mobile Endgeräte optimiert, sodass es jederzeit und überall gespielt werden kann, sei es über einen Browser oder eine Casino-App.\n\nWer das Spiel risikofrei testen möchte, kann dies im kostenlosen Demomodus tun, der in verschiedenen deutschen Online-Casinos ohne Registrierung verfügbar ist. Dies ermöglicht es Spielern, die Mechanik kennenzulernen und verschiedene Strategien auszuprobieren, bevor sie echtes Geld setzen.\n\nChicken Road ist nicht nur ein weiteres Casinospiel, sondern ein fesselndes Abenteuer voller Spannung, Strategie und großer Gewinnchancen. Probieren Sie es noch heute aus und führen Sie die tapfere Henne zum Erfolg!"
+    ],
+    "quality": "verified"
+}
