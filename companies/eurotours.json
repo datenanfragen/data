@@ -1,0 +1,23 @@
+{
+    "slug": "eurotours",
+    "relevant-countries": [
+        "at",
+        "de",
+        "ch"
+    ],
+    "name": "Eurotours",
+    "runs": [
+        "ALDI SUISSE TOURS"
+    ],
+    "address": "Eurotours Ges.m.b.H.\nKirchberger Str. 8\nA-6370 Kitzbühel",
+    "phone": "+43 5356 6060",
+    "email": "office@eurotours.at",
+    "sources": [
+        "https://eurotours.at/en/contact/",
+        "https://eurotours.at/en/imprint/",
+        "https://www.aldi-suisse-tours.ch/de/service/impressum-8413239",
+        "https://github.com/datenanfragen/data/pull/2942"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
