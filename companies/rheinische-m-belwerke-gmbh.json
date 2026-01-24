@@ -1,0 +1,17 @@
+{
+    "slug": "rheinische-m-belwerke-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Rheinische Möbelwerke GmbH",
+    "runs": [
+        "deinSchrank.de"
+    ],
+    "address": "Industriestraße 2\n53359 Rheinbach",
+    "email": "datenschutz@deinSchrank.de",
+    "sources": [
+        "https://www.deinschrank.de/datenschutz.php",
+        "https://github.com/datenanfragen/data/pull/3356"
+    ],
+    "quality": "verified"
+}
