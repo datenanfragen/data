@@ -1,0 +1,16 @@
+{
+    "slug": "we-are",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [],
+    "name": "we-are.travel GmbH",
+    "address": "Blumauerstraße 7\nA-4020 Linz\nÖsterreich",
+    "email": "info@we-are.travel",
+    "web": "https://www.we-are.travel/",
+    "sources": [
+        "https://www.we-are.travel/impressum",
+        "https://github.com/datenanfragen/data/pull/3357"
+    ],
+    "quality": "verified"
+}
