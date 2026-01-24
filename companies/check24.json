@@ -35,10 +35,10 @@
         "CHECK24 Services Personal GmbH",
         "CHECK24 Vergleichsportal Autoteile GmbH",
         "CHECK24 Vergleichsportal Elektronik & Haushalt GmbH",
-        "CHECK24 Vergleichsportal Fashion GmbH",
-        "CHECK24 Comparon GmbH",
+        "CHECK24 Vergleichsportal Fashion GmbH (ehem.)",
+        "CHECK24 Comparon GmbH (ehem.)",
         "CHECK24 Finanzservice GmbH",
-        "CHECK24 Kontomanager GmbH",
+        "CHECK24 Kontomanager GmbH (ehem.)",
         "CHECK24 GmbH",
         "TARIF CHECK24 GmbH",
         "CHECK24 Zahlungssysteme GmbH",
@@ -56,7 +56,8 @@
         "https://www.check24.de/popup/datenschutz-check24-gmbh/",
         "https://www.check24.de/unternehmen/impressum/",
         "https://github.com/datenanfragen/data/pull/697",
-        "https://github.com/datenanfragen/data/pull/2056"
+        "https://github.com/datenanfragen/data/pull/2056",
+        "https://github.com/datenanfragen/data/pull/3359"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
