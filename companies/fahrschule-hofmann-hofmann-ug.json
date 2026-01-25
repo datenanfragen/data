@@ -1,0 +1,15 @@
+{
+    "slug": "fahrschule-hofmann-hofmann-ug",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Fahrschule Hofmann & Hofmann UG",
+    "address": "99084 Erfurt\nJohannesstrasse 81\nDeutschland",
+    "email": "Fahrschulehofmann-hofmann@t-online.de",
+    "sources": [
+        "https://www.fahrschulehofmann-hofmann.de/impressum/",
+        "https://www.fahrschulehofmann-hofmann.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2840"
+    ],
+    "quality": "verified"
+}
