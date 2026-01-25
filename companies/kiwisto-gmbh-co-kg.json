@@ -1,0 +1,18 @@
+{
+    "slug": "kiwisto-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Kiwisto GmbH & Co. KG",
+    "address": "Am Zollstock 12\n32816 Schieder-Schwalenberg\nDeutschland",
+    "phone": "+49 5284 9438700",
+    "fax": "info@kiwisto.de",
+    "sources": [
+        "https://www.kiwisto.de/Shopservice/Datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/2838"
+    ],
+    "quality": "verified"
+}
