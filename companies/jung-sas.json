@@ -1,0 +1,30 @@
+{
+    "slug": "jung-sas",
+    "relevant-countries": [
+        "de",
+        "fr",
+        "at",
+        "be",
+        "es",
+        "fi",
+        "gr",
+        "ie",
+        "it",
+        "nl",
+        "pt",
+        "gb",
+        "sk",
+        "se"
+    ],
+    "name": "JUNG SAS",
+    "runs": [
+        "Back Market"
+    ],
+    "address": "199 Rue Championnet,\n75018 Paris,\nFrankreich",
+    "email": "legal@backmarket.com",
+    "sources": [
+        "https://www.backmarket.de/de-de/legal/data-protection",
+        "https://github.com/datenanfragen/data/pull/2854"
+    ],
+    "quality": "verified"
+}
