@@ -1,0 +1,25 @@
+{
+    "slug": "divibib",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "divibib GmbH",
+    "runs": [
+        "onleihe.de",
+        "onleihe.com"
+    ],
+    "address": "Lars-Holger-Krause\nals Datenschutzbeauftragter der divibib GmbH\nc/o Barton & Bluhm KG\nEschenallee 32\n14050 Berlin\nDeutschland",
+    "phone": "+49 7121 1478899",
+    "email": "datenschutz@ekz.de",
+    "web": "https://www.divibib.com/",
+    "sources": [
+        "https://www.onleihe.de/nbib24/frontend/content,0-0-0-105-0-0-0-0-0-0-0.html",
+        "https://github.com/datenanfragen/data/pull/2831"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
