@@ -1,0 +1,14 @@
+{
+    "slug": "dbb-beamtenbund-und-tarifunion",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "dbb beamtenbund und tarifunion",
+    "address": "c./o. Dienstleistungszentrum West\nDreizehnmorgenweg 36\n53175 Bonn\nDeutschland",
+    "email": "datenschutz@dbb.de",
+    "sources": [
+        "https://www.dbb.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/2823"
+    ],
+    "quality": "verified"
+}
