@@ -1,0 +1,15 @@
+{
+    "slug": "divibib-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "divibib GmbH",
+    "address": "c/o Barton & Bluhm KG\nEschenallee 32\n14050 Berlin\nDeutschland",
+    "fax": "+49 7121 1478899",
+    "email": "datenschutz@ekz.de",
+    "sources": [
+        "https://www.onleihe.de/thuebibnet/frontend/content,0-0-0-105-0-0-0-0-0-0-0.html",
+        "https://github.com/datenanfragen/data/pull/2807"
+    ],
+    "quality": "verified"
+}
