@@ -1,0 +1,16 @@
+{
+    "slug": "verbraucherzentrale-nordrhein-westfalen-e-v",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Verbraucherzentrale Nordrhein-Westfalen e.V.",
+    "address": "Mintropstr. 27\n40215 Düsseldorf\nDeutschland",
+    "phone": "+49 211 38090",
+    "fax": "+49 211 3809216",
+    "email": "datenschutz@verbraucherzentrale.nrw",
+    "sources": [
+        "https://www.verbraucherzentrale.nrw/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2814"
+    ],
+    "quality": "verified"
+}
