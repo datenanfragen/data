@@ -1,0 +1,20 @@
+{
+    "slug": "tomary",
+    "relevant-countries": [
+        "de",
+        "ch",
+        "at"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Tomary",
+    "address": "c/o Felix Klauke\nAm Kindergarten 16\n59872 Meschede\nDeutschland",
+    "email": "info@tomary.de",
+    "web": "https://www.tomary.info",
+    "sources": [
+        "https://www.tomary.info/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2798"
+    ],
+    "quality": "verified"
+}
