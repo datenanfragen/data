@@ -6,17 +6,16 @@
     "categories": [
         "addresses"
     ],
-    "name": "Global Group Dialog Solutions AG",
-    "address": "Telco Kreisel 1\n65510 Idstein\nDeutschland",
+    "name": "Global Group TDA Germany GmbH",
+    "address": "Serviceware-Kreisel 1\n65510 Idstein\nDeutschland",
     "phone": "+49 6126 9375 1765",
     "fax": "+49 6126 9375 93",
     "email": "datenschutz@global-group.de",
-    "webform": "https://www.global-group.de/de/unternehmen/datenschutz/widerspruch-auskunftsersuchen",
+    "webform": "https://global-group.de/de/weitere-betroffenenrechte",
     "web": "https://www.global-group.de",
     "sources": [
-        "https://www.global-group.de/de/unternehmen/datenschutz",
-        "https://www.global-group.de/datenschutzhinweise-fur-personen-im-auskunftsdatenbestand_gg.pdf",
-        "https://www.global-group.de/de/unternehmen/impressum"
+        "https://global-group.de/files/original/global-group-datenschutzhinweise-personen-mai-2024.pdf",
+        "https://global-group.de/de/footer/impressum"
     ],
     "required-elements": [
         {
