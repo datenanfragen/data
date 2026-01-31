@@ -6,15 +6,17 @@
     "categories": [
         "commerce"
     ],
-    "name": "Many Electronics GmbH",
+    "name": "many electronics GmbH",
     "runs": [
-        "dubaro"
+        "dubaro.de"
     ],
-    "address": "Am Schimmershof 7\n40880 Ratingen\nDeutschland",
-    "email": "info@keyed.de",
+    "address": "An der Feuerwehr 7\n26409 Wittmund\nDeutschland",
+    "phone": "+49 4462 9582525",
+    "email": "s.feldmann@prico.de",
     "sources": [
-        "https://www.dubaro.de/Privatsphaere-und-Datenschutz:_:2.html",
+        "https://www.dubaro.de/Datenschutz/",
         "https://github.com/datenanfragen/data/pull/2751"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
