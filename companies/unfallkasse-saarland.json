@@ -12,7 +12,7 @@
     "fax": "+49 6897 973337",
     "email": "datenschutz@uks.de",
     "sources": [
-        "https://www.uks.de/datenschutzerklaerung",
+        "https://www.uks.de/footernavigation/datenschutzerklaerung",
         "https://github.com/datenanfragen/data/pull/2759"
     ],
     "quality": "verified"
