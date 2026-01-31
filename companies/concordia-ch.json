@@ -13,9 +13,7 @@
     "email": "info@concordia.ch",
     "web": "https://www.concordia.li/",
     "sources": [
-        "https://www.concordia.li/de/ueber-uns/ueber-concordia/datenschutz.html",
-        "https://www.concordia.li/content/dam/concordia.ch/ueber-uns/Daten_Bearbeitungsreglement_de.pdf",
-        "https://www.concordia.li/de/impressum.html"
+        "https://www.concordia.li/de/datenschutz.html"
     ],
     "quality": "verified"
 }

@@ -12,8 +12,6 @@
         "Vodafone Community",
         "Vodafone Deutschland GmbH",
         "Vodafone Kabel Deutschland GmbH (ehem.)",
-        "EDEKA mobil (www.edeka-mobil.de)",
-        "Lidl Connect Deutschland",
         "otelo (www.otelo.de)",
         "ROSSMANN mobil (rossmann-mobil.de)",
         "Unitymedia GmbH (ehem.)",
@@ -40,10 +38,10 @@
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1753698&land_abk=nw",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754700&land_abk=nw",
         "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1754124&land_abk=nw",
-        "https://kundenkonto.lidl-connect.de/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/1816",
         "https://www.rossmann-mobil.de",
-        "https://github.com/datenanfragen/data/pull/2223"
+        "https://github.com/datenanfragen/data/pull/2223",
+        "https://github.com/datenanfragen/data/pull/3084"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

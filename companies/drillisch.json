@@ -1,29 +1,23 @@
 {
     "slug": "drillisch",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "telecommunication"
     ],
-    "name": "Drillisch Online AG",
+    "name": "Drillisch Online GmbH",
     "runs": [
-        "BILDconnect (www.bildconnect.de)",
-        "smartmobil (www.smartmobil.de)",
-        "yourfone (www.yourfone.de)",
-        "DeutschlandSIM (www.deutschlandsim.de)",
-        "winSIM (www.winsim.de)",
-        "maXXim (www.maxxim.de)",
-        "helloMobil (www.hellomobil.de)",
-        "discoTEL (www.discotel.de)",
-        "discoPLUS (www.discoplus.de)",
-        "discoSURF (www.discosurf.de)",
-        "simply (www.simplytel.de)",
-        "eteleon (www.eteleon.de)",
-        "sim.de (www.sim.de)",
-        "PremiumSIM (www.premiumsim.de)",
-        "M2M-mobil (www.m2m-mobil.de)",
-        "PHONEX (www.phonex.de)",
-        "McSIM (www.mcsim.de)",
-        "BigSIM (www.bigsim.de)",
-        "SimDiscount.de (www.simdiscount.de)"
+        "BILDconnect",
+        "smartmobil",
+        "yourfone",
+        "DeutschlandSIM",
+        "winSIM",
+        "maXXim",
+        "simply",
+        "sim.de",
+        "PremiumSIM",
+        "M2M-mobil"
     ],
     "address": "Wilhelm-Röntgen-Straße 1 – 5\n63477 Maintal\nDeutschland",
     "phone": "+49 6181 7074 070",
@@ -36,25 +30,13 @@
         "https://www.bildconnect.de/datenschutz",
         "https://www.smartmobil.de/datenschutz",
         "https://www.yourfone.de/datenschutz",
-        "https://www.deutschlandsim.de/info/data_security",
-        "https://www.winsim.de/info/data_security",
+        "https://service.deutschlandsim.de/public/impressum",
+        "https://www.winsim.de/datenschutz",
         "https://www.maxxim.de/datenschutz",
-        "https://www.hellomobil.de/datenschutz",
-        "https://www.discotel.de/info/data_security",
-        "https://www.discoplus.de/info/data_security",
-        "https://www.discosurf.de/info/data_security",
         "https://www.simplytel.de/datenschutz",
-        "https://www.eteleon.de/infos/data_security",
-        "https://www.sim.de/data_security",
-        "https://www.premiumsim.de/info/data_security",
-        "https://www.m2m-mobil.de/datenschutz-m2m-datensimkarte-sicherheit",
-        "https://www.phonex.de/datenschutz",
-        "https://www.mcsim.de/datenschutz",
-        "https://www.bigsim.de/datenschutz",
-        "https://www.simdiscount.de/datenschutz.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.sim.de/datenschutz",
+        "https://www.premiumsim.de/datenschutz",
+        "https://www.m2m-mobil.de/datenschutz"
     ],
     "quality": "verified"
 }

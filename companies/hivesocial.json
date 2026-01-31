@@ -12,6 +12,7 @@
     "web": "https://www.hivesocial.app",
     "sources": [
         "https://www.hivesocial.app/privacy",
+        "https://www.hivesocial.app/contact",
         "https://github.com/datenanfragen/data/pull/1957"
     ],
     "quality": "verified"

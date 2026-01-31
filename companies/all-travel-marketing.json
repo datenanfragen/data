@@ -9,13 +9,17 @@
     ],
     "name": "All Travel Marketing GmbH",
     "runs": [
-        "Travel Media Network GmbH"
+        "Travel Media Network GmbH (ehem.)"
     ],
-    "address": "Maarstr. 84\n53227 Bonn\nDeutschland",
+    "address": "Am Telegraph 26\n53773 Hennef\nDeutschland",
+    "email": "datenschutz@all-travel-marketing.de",
     "sources": [
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1657423&land_abk=nw",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1828661&land_abk=nw",
-        "https://github.com/datenanfragen/data/pull/1707"
+        "https://www.all-travel-marketing.de/datenschutz/",
+        "https://www.northdata.de/?id=5965084542",
+        "https://github.com/datenanfragen/data/pull/1707",
+        "https://github.com/datenanfragen/data/pull/2891",
+        "https://github.com/datenanfragen/data/pull/2917"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

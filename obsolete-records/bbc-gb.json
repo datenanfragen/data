@@ -1,0 +1,10 @@
+{
+    "slug": "bbc-gb",
+    "name": "BBC",
+    "reason": "duplicate",
+    "redirect-to": "bbc",
+    "sources": [
+        "https://github.com/datenanfragen/data/commit/a26d2122714629e8107194cf51e31a15766fb0c7"
+    ],
+    "quality": "obsolete"
+}

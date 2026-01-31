@@ -6,18 +6,20 @@
     "categories": [
         "social media"
     ],
-    "name": "Reddit, Inc.",
-    "address": "520 3rd Street\nSan Francisco\nCA 94107\nUnited States of America",
+    "name": "Reddit Netherlands B.V.",
+    "runs": [
+        "Reddit, Inc.",
+        "Reddit UK Limited"
+    ],
+    "address": "Euro Business Center\nKeizersgracht 62\n1015CS Amsterdam\nThe Netherlands",
     "email": "redditdatarequests@reddit.com",
+    "webform": "https://www.reddit.com/settings/data-request",
     "web": "https://www.reddit.com/",
     "sources": [
-        "https://www.redditinc.com/policies/privacy-policy",
-        "https://www.bloomberg.com/profiles/companies/0893288D:US-reddit-inc",
+        "https://www.reddit.com/policies/privacy-policy",
         "https://github.com/datenanfragen/data/issues/669",
-        "https://github.com/datenanfragen/data/pull/893"
-    ],
-    "comments": [
-        "Alternative email: eurepresentative@reddit.com"
+        "https://github.com/datenanfragen/data/pull/893",
+        "https://github.com/datenanfragen/data/pull/2551"
     ],
     "required-elements": [
         {
@@ -30,6 +32,5 @@
         }
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

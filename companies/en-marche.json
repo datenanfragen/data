@@ -6,16 +6,17 @@
     "categories": [
         "political party"
     ],
-    "name": "LAREM",
+    "name": "Renaissance",
     "runs": [
-        "LA REPUBLIQUE EN MARCHE"
+        "La République en marche (formerly)"
     ],
-    "address": "63, rue Sainte-Anne\n75002 Paris\nFrance",
-    "email": "dpo@en-marche.fr",
-    "web": "https://en-marche.fr/",
+    "address": "68 rue du Rocher\n75008 Paris\nFrance",
+    "email": "mes-donnees@parti-renaissance.fr",
+    "web": "https://parti-renaissance.fr/",
     "sources": [
-        "https://github.com/datenanfragen/data/issues/509",
-        "https://en-marche.fr/politique-protection-donnees"
+        "https://parti-renaissance.fr/politique-de-protection-des-donnees",
+        "https://www.lemonde.fr/politique/article/2022/09/18/renaissance-un-nouveau-parti-pour-reactiver-le-depassement-macroniste_6142086_823448.html",
+        "https://github.com/datenanfragen/data/issues/509"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

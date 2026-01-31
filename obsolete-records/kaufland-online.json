@@ -1,0 +1,10 @@
+{
+    "slug": "kaufland-online",
+    "name": "Kaufland e-commerce GmbH",
+    "reason": "duplicate",
+    "redirect-to": "kaufland",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/1455"
+    ],
+    "quality": "obsolete"
+}

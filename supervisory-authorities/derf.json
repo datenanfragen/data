@@ -3,15 +3,14 @@
     "relevant-countries": [
         "de"
     ],
-    "name": "Der Rundfunkdatenschutzbeauftragte von BR, HR, MDR, SR, SWR, WDR, Deutschlandradio und ZDF",
+    "name": "Der Rundfunkdatenschutzbeauftragte beim BR, HR, MDR, rbb, SR, SWR, WDR, Deutschlandradio und ZDF",
     "address": "Kantstr. 71-73\n04275 Leipzig\nDeutschland",
     "phone": "+49 341 300 6240",
-    "fax": "+49 341 300 29 6240",
     "email": "kontakt@rundfunkdatenschutz.de",
-    "webform": "https://www.rundfunkdatenschutz.de/buergerinnen-und-buerger/beschwerden/",
-    "web": "https://www.rundfunkdatenschutz.de/",
+    "webform": "https://www.mdr.de/rundfunkdatenschutz/buerger-innen/beschwerden/index.html",
+    "web": "https://www.mdr.de/rundfunkdatenschutz/index.html",
     "sources": [
-        "https://www.rundfunkdatenschutz.de/impressum/"
+        "https://www.mdr.de/rundfunkdatenschutz/impressum-102.html"
     ],
     "suggested-transport-medium": "email"
 }

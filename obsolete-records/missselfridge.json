@@ -1,0 +1,10 @@
+{
+    "slug": "missselfridge",
+    "name": "Miss Selfridge Retail Ltd.",
+    "reason": "company-merged",
+    "redirect-to": "asos-shop",
+    "sources": [
+        "https://www.missselfridge.com/"
+    ],
+    "quality": "obsolete"
+}

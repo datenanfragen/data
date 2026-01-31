@@ -10,13 +10,11 @@
     "address": "Eichenstrasse 2\n8808 Pfäffikon\nSwitzerland",
     "email": "privacy@1plusx.com",
     "web": "https://www.1plusx.com/",
-    "webform": "https://www.1plusx.com/battery-data-access",
     "sources": [
-        "https://www.1plusx.com/privacy-policy/",
-        "https://www.1plusx.com/impressum/"
+        "https://www.1plusx.com/privacy-policy/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "webform",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

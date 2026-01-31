@@ -13,7 +13,8 @@
     "email": "privacy.officer@LEGO.com",
     "web": "https://www.lego.com",
     "sources": [
-        "https://www.lego.com/en-de/legal/notices-and-policies/privacy-policy"
+        "https://www.lego.com/en-de/legal/notices-and-policies/privacy-policy",
+        "https://www.lego.com/en-gb/legal/privacy-policy/contact-us"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

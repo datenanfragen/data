@@ -10,26 +10,17 @@
     "runs": [
         "GASPOOL Balancing Services GmbH (ehem.)",
         "NetConnect Germany GmbH & Co. KG (ehem.)",
-        "NetConnect Germany Management GmbH (ehem.)",
-        "GASCADE Gastransport GmbH",
-        "Gastransport Nord GmbH",
-        "Gasunie Deutschland Transport Services GmbH",
-        "Nowega GmbH",
-        "ONTRAS Gastransport GmbH"
+        "NetConnect Germany Management GmbH (ehem.)"
     ],
-    "address": "Kaiserswerther Straße 115\n40880 Ratingen\nDeutschland",
+    "address": "EUREF-Campus 1\n40472 Düsseldorf\nDeutschland",
+    "phone": "+49 211 5420000",
     "email": "datenschutz@tradinghub.eu",
-    "web": "https://www.gaspool.de/",
+    "web": "https://www.tradinghub.eu/",
     "sources": [
-        "https://www.tradinghub.eu/en-gb/Home/Policy",
-        "https://www.tradinghub.eu/en-gb/Home/Imprint",
-        "https://www.gaspool.de/impressum/",
-        "https://github.com/datenanfragen/data/issues/575",
-        "https://www.gaspool.de/datenschutz",
-        "https://www.gaspool.de/pressemitteilung?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=278&cHash=95931a840a229f2d2018a755f6f72d43",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=643700&land_abk=be",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=643697&land_abk=be",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=643696&land_abk=be"
+        "https://www.tradinghub.eu/de-de/Start/Datenschutz",
+        "https://www.northdata.de/?id=6562278989",
+        "https://www.northdata.de/?id=6576746147",
+        "https://github.com/datenanfragen/data/issues/575"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

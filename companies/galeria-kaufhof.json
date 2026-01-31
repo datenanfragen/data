@@ -6,18 +6,19 @@
     "categories": [
         "commerce"
     ],
-    "name": "GALERIA Karstadt Kaufhof GmbH",
+    "name": "GALERIA S.à r.l. & Co. KG",
     "runs": [
         "GALERIA Kaufhof GmbH (ehem.)",
-        "Karstadt Warenhaus GmbH (ehem.)"
+        "Karstadt Warenhaus GmbH (ehem.)",
+        "GALERIA Karstadt Kaufhof (ehem)."
     ],
-    "address": "Theodor-Althoff-Straße 2\n45133 Essen\nDeutschland",
-    "phone": "+49 201 977 97 977",
-    "fax": "+49 201 977 97 999",
+    "address": "Völklinger Straße 4\n40219 Düsseldorf\nDeutschland",
+    "phone": "+49 201 7270",
+    "fax": "+49 211 46800000",
     "email": "datenschutz@galeria.de",
     "web": "https://www.galeria.de",
     "sources": [
-        "https://www.galeria.de/datenschutz.html"
+        "https://www.galeria.de/datenschutz"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

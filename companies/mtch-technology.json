@@ -6,15 +6,19 @@
     "categories": [
         "social media"
     ],
-    "name": "OkCupid",
+    "name": "MTCH Technology Services Limited",
     "runs": [
-        "Humor Rainbow, Inc."
+        "OkCupid"
     ],
-    "address": "c/o MTCH Technology Services Ltd.\nBlock D, Iveagh Court\nHarcourt Road\nDublin 2\nIreland",
-    "email": "support@okcupid.com",
+    "address": "1 Hatch Street Upper\nDublin 2\nD02 PY28\nIreland",
+    "webform": "https://okcupid-app.zendesk.com/hc/en-us/requests/new",
     "web": "https://www.okcupid.com",
     "sources": [
-        "https://www.okcupid.com/legal/privacy"
+        "https://www.okcupid.com/legal/privacy",
+        "https://github.com/datenanfragen/data/pull/3003"
+    ],
+    "comments": [
+        "Die Privacy-Seite ist nicht erreichbar. Anscheinend hat sich die Adresse geändert. Die Hauptseite von Okcupid verweist auf https://okcupid-app.zendesk.com/hc/de/articles/22780694078491-Datenschutzbestimmungen"
     ],
     "quality": "verified"
 }

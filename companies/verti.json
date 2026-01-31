@@ -7,6 +7,9 @@
         "insurance"
     ],
     "name": "Verti Versicherung AG",
+    "runs": [
+        "Direct Line (ehem.)"
+    ],
     "address": "Rheinstrasse 7A\n14513 Teltow\nDeutschland",
     "phone": "+49 30 890003003",
     "email": "datenschutz@verti.de",
@@ -14,7 +17,9 @@
     "sources": [
         "https://www.verti.de/impressum",
         "https://www.verti.de/datenschutz",
-        "https://github.com/datenanfragen/data/pull/1670"
+        "https://github.com/datenanfragen/data/pull/1670",
+        "https://github.com/datenanfragen/data/pull/2948",
+        "https://www.verti.de/presse/2017-07-25-directline-wird-verti/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

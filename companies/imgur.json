@@ -7,14 +7,12 @@
         "social media",
         "entertainment"
     ],
-    "name": "Imgur Inc.",
-    "address": "600 California St.\nFloor 11\nSan Francisco\nCA 94018-2727\nUnited States of America",
+    "name": "Imgur",
+    "address": "c/o DP-Dock GmbH\nBallindamm 39\n20095 Hamburg\nGermany",
     "email": "privacy@imgur.com",
     "web": "https://imgur.com/",
     "sources": [
         "https://imgur.com/privacy",
-        "https://imgur.com/tos",
-        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=252810438",
         "https://github.com/datenanfragen/data/issues/275",
         "https://github.com/datenanfragen/data/pull/844"
     ],

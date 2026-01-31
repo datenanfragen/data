@@ -6,18 +6,15 @@
     "categories": [
         "social media"
     ],
-    "name": "Planogram, Inc.",
+    "name": "Planogram, LLC",
     "runs": [
-        "Planoly (www.planoly.com)"
+        "Planoly"
     ],
-    "address": "5060 Addison Circle\nApartment 5830\nAddison\nTX 75001\nUnited States of America",
-    "phone": "+1 954 892 4691",
+    "address": "1606 Headway Circle\nSuite #9512\nAustin, TX 78754\nUnited States of America",
     "email": "support@planoly.com",
     "web": "https://www.planoly.com/",
     "sources": [
-        "https://www.planoly.com/privacy-policy",
-        "https://help.planoly.com/knowledge/itunes-view-in-app-subscription",
-        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=331327927"
+        "https://www.planoly.com/privacy-policy"
     ],
     "request-language": "en",
     "quality": "verified"

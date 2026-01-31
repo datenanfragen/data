@@ -7,13 +7,12 @@
         "social media"
     ],
     "name": "Disqus, Inc.",
-    "address": "717 Market Street\nSuite 700\nSan Francisco\nCA 94103\nUnited States of America",
+    "address": "3 Park Avenue\n33rd Floor\nNew York\nNY 10016\nUnited States of America",
     "phone": "+1 415 738 8848",
     "email": "privacy@disqus.com",
     "web": "https://disqus.com/",
     "sources": [
-        "https://help.disqus.com/terms-and-policies/disqus-privacy-policy",
-        "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=42625391"
+        "https://help.disqus.com/en/articles/1717103-disqus-privacy-policy"
     ],
     "required-elements": [
         {

@@ -6,18 +6,17 @@
     "categories": [
         "collection agency"
     ],
-    "name": "Hillesden Securities Ltd.",
+    "name": "Cabot Credit Management Group Ltd.",
     "runs": [
-        "dlc credit agency",
-        "Cabot Credit Management Group Ltd."
+        "dlc"
     ],
-    "address": "Buckingham Road\nBrackley\nNorthants\nNN13 7DN\nUnited Kingdom",
-    "phone": "+44 20 7896 6300",
-    "email": "data.protection@dlcuk.com",
-    "web": "http://www.dlcuk.com/",
+    "address": "1 Kings Hill Avenue\nKings Hill\nKent\nME19 4UA\nUnited Kingdom",
+    "phone": "+44 344 556 0242",
+    "email": "dataprotection@cabotcm.com",
+    "web": "https://www.cabotcreditmanagement.com/",
     "sources": [
-        "http://www.dlcuk.com/privacy-policy/",
-        "https://www.mydlc.co.uk/contact",
+        "https://www.cabotcreditmanagement.com/privacy-and-cookie-policy/",
+        "https://www.cabotcreditmanagement.com/businesses/dlc/",
         "https://github.com/datenanfragen/data/issues/166"
     ],
     "suggested-transport-medium": "email",

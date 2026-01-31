@@ -7,23 +7,9 @@
         "commerce"
     ],
     "name": "Esprit Europe GmbH",
-    "runs": [
-        "Esprit Retail B.V. & Co. KG",
-        "Esprit Global Image GmbH",
-        "Esprit Friends",
-        "Esprit App"
-    ],
-    "address": "Esprit-Allee 1\n40882 Ratingen\nDeutschland",
-    "phone": "+49 30 22 380 663",
-    "fax": "+49 30 22 380 664",
-    "email": "dp@esprit.com",
-    "web": "https://www.esprit.de/",
+    "address": "Voisweg 10\n40878 Ratingen\nDeutschland",
     "sources": [
-        "https://hilfe.esprit.de/datenschutzbestimmungen-newsletter/",
-        "https://hilfe.esprit.de/datenschutzerklaerung-esprit-friends/",
-        "https://www.esprit.de/support?p=datenschutz",
-        "https://www.esprit.de/support?p=Impressum"
+        "https://www.northdata.de/Esprit%20Europe%20GmbH,%20Ratingen/Amtsgericht%20D%C3%BCsseldorf%20HRB%2028967"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -3,30 +3,25 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [
-        "commerce"
-    ],
     "name": "Deutsche Post AG",
     "runs": [
-        "Efiliale (efiliale.de)",
-        "Shop der Deutschen Post (shop.deutschepost.de)",
-        "E-Post (epost.de)",
-        "DHL (dhl.de)",
-        "DHL Express",
-        "DHL Packstation"
+        "shop.deutschepost.de",
+        "E-POST",
+        "Internetmarke (internetmarke.de)",
+        "Portokasse (portokasse.deutschepost.de)",
+        "POSTIDENT"
     ],
-    "address": "53250 Bonn\nDeutschland",
+    "address": "Charles-de-Gaulle-Straße 20\n53113 Bonn\nDeutschland",
     "phone": "+49 228 1820",
-    "fax": "+49 228 1827099",
     "email": "datenschutz@dpdhl.com",
+    "webform": "https://www.deutschepost.de/de/hilfe-kundenservice/formulare/datenschutz.html",
     "web": "https://www.deutschepost.de",
     "sources": [
-        "https://shop.deutschepost.de/shop/infocenter/datenschutz.jsp",
+        "https://www.deutschepost.de/de/f/footer/datenschutz.html",
         "https://www.deutschepost.de/de/f/footer/impressum.html",
-        "https://www.dhl.de/de/toolbar/footer/datenschutz.html",
-        "https://www.dhl.de/de/toolbar/footer/impressum/vertragspartner-impressum.html",
-        "http://www.dpdhl.com/reports/2010/zwischenbericht-q3/files/pdf/5.pdf",
-        "https://github.com/datenanfragen/data/pull/1697"
+        "https://github.com/datenanfragen/data/pull/1697",
+        "https://github.com/datenanfragen/data/pull/2890",
+        "https://github.com/datenanfragen/data/pull/2918"
     ],
     "required-elements": [
         {
@@ -40,7 +35,6 @@
             "optional": false
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }

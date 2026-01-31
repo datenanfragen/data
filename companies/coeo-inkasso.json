@@ -1,5 +1,8 @@
 {
     "slug": "coeo-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "collection agency"
     ],
@@ -10,11 +13,8 @@
     "email": "datenschutz@coeo-inkasso.de",
     "web": "http://www.coeo-inkasso.de",
     "sources": [
-        "http://www.coeo-inkasso.de/de/datenschutz-2.html",
-        "http://www.coeo-inkasso.de/de/impressum.html"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.coeo-inkasso.de/privacy",
+        "https://www.coeo-inkasso.de/legal-notice"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

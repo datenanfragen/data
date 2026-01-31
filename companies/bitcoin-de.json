@@ -8,8 +8,7 @@
     ],
     "name": "futurum bank AG",
     "runs": [
-        "Bitcoin.de",
-        "Bitcoin Deutschland AG (ehem.)"
+        "Bitcoin.de"
     ],
     "address": "Hochstraße 35-37\n60313 Frankfurt am Main\nDeutschland",
     "phone": "+49 5221 85411 25",
@@ -18,8 +17,7 @@
     "web": "https://www.bitcoin.de/",
     "sources": [
         "https://www.bitcoin.de/de/impressum",
-        "https://www.bitcoin.de/de/datenschutzerklaerung",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1853840&land_abk=nw"
+        "https://www.bitcoin.de/de/datenschutzerklaerung"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

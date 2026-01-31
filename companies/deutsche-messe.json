@@ -5,12 +5,10 @@
     ],
     "name": "Deutsche Messe AG",
     "runs": [
-        "CEBIT (www.cebit.de)",
-        "CeAMT (www.cemat.de)",
-        "HANNOVER MESSE (www.hannovermesse.de)",
-        "DOMOTEX (www.domotex.de)",
-        "INTERSCHUTZ (www.interschutz.de)",
-        "LIGNA (www.ligna.de)"
+        "HANNOVER MESSE",
+        "DOMOTEX",
+        "INTERSCHUTZ",
+        "LIGNA"
     ],
     "address": "Messegelände\n30521 Hannover\nDeutschland",
     "phone": "+49 511 890",
@@ -18,14 +16,12 @@
     "email": "datenschutz@messe.de",
     "web": "http://www.messe.de",
     "sources": [
-        "http://www.messe.de/de/datenschutz/datenschutz.xhtml",
-        "http://www.messe.de/de/impressum/",
-        "https://www.cebit.de/de/deutsche-messe-ag/datenschutz",
-        "http://www.cemat.de/de/datenschutz/",
-        "http://www.hannovermesse.de/de/datenschutz/",
-        "http://www.domotex.de/de/datenschutz/",
-        "http://www.interschutz.de/de/datenschutz/",
-        "http://www.ligna.de/de/datenschutz/",
+        "https://www.messe.de/de/deutsche-messe/datenschutz",
+        "https://www.messe.de/de/deutsche-messe/",
+        "https://www.hannovermesse.de/de/deutsche-messe/datenschutz/",
+        "https://www.domotex.de/de/deutsche-messe/datenschutz/",
+        "https://www.interschutz.de/de/deutsche-messe/datenschutz/",
+        "https://www.ligna.de/de/deutsche-messe/datenschutz",
         "https://github.com/datenanfragen/data/pull/1656"
     ],
     "required-elements": [

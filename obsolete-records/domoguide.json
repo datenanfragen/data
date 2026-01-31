@@ -1,0 +1,9 @@
+{
+    "slug": "domoguide",
+    "name": "Domoguide",
+    "reason": "out-of-scope",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/3206"
+    ],
+    "quality": "obsolete"
+}

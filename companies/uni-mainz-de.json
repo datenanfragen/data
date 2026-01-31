@@ -8,14 +8,13 @@
         "public body"
     ],
     "name": "Johannes Gutenberg-Universität Mainz",
-    "address": "55099 Mainz\nDeutschland",
-    "phone": "+49 6131 3922109",
-    "fax": "+49 6131 3925131",
+    "address": "Saarstr. 21\n55122 Mainz\nDeutschland",
+    "phone": "+49 6131 3920065",
+    "fax": "+49 6131 3952202",
     "email": "datenschutz@uni-mainz.de",
     "web": "http://www.uni-mainz.de/",
     "sources": [
-        "https://organisation.uni-mainz.de/datenschutzbeauftragter/",
-        "https://www.uni-mainz.de/144.php",
+        "https://www.uni-mainz.de/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2021"
     ],
     "required-elements": [

@@ -1,0 +1,10 @@
+{
+    "slug": "preis24-de",
+    "name": "preis24.de",
+    "reason": "company-merged",
+    "redirect-to": "verivox",
+    "sources": [
+        "https://www.preis24.de/"
+    ],
+    "quality": "obsolete"
+}

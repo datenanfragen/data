@@ -8,16 +8,13 @@
     ],
     "name": "CYBERservices Europe SA.",
     "runs": [
-        "PAYMILL",
-        "Klik & Pay",
-        "PAYMILL GmbH"
+        "PAYMILL"
     ],
     "address": "285 route de Longwy\nLU-1941 Luxembourg\nLuxembourg",
     "email": "privacy@klikandpay.com",
-    "web": "https://www.paymill.com",
+    "web": "https://www.paymill.org",
     "sources": [
-        "https://www.paymill.com/de/datenschutz",
-        "https://www.paymill.com/de/impressum"
+        "https://www.paymill.org/de/datenschutz/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

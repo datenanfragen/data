@@ -14,7 +14,8 @@
     "web": "https://www.mastercard.de",
     "sources": [
         "https://www.mastercard.de/de-de/datenschutz.html",
-        "https://www.mastercard.de/de-de/datenschutz/impressum.html"
+        "https://www.mastercard.de/de-de/datenschutz/impressum.html",
+        "https://github.com/datenanfragen/data/pull/3000"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

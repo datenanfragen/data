@@ -1,3 +1,4 @@
+import { checkAllStringsRecursive } from '../../common/util';
 import { Check } from '../../types/checks';
 
 const check: Check = {
@@ -6,18 +7,15 @@ const check: Check = {
     url: 'https://github.com/datenanfragen/data#data-formats',
     severity: 'ERROR',
     run: (json) => {
-        return (Object.keys(json) as (keyof typeof json)[]).map((key) => {
-            const value = json[key];
-            if (typeof value === 'string' && value !== value.trim())
-                return {
-                    message: `Value of string field \`${key}\` is not trimmed (it contains leading or trailing whitespace).`,
-                    json_pointer: `/${key}`,
-                    suggestions: [value.trim()],
-                };
-
-            return;
-            // TODO: Also deal with arrays and nested string fields.
-        });
+        return checkAllStringsRecursive(
+            json,
+            (value) => value !== value.trim(),
+            (value, path) => ({
+                message: `Value of string field \`${path}\` is not trimmed (it contains leading or trailing whitespace).`,
+                json_pointer: path,
+                suggestions: [value.trim()],
+            })
+        );
     },
 };
 export default check;

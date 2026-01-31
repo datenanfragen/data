@@ -8,23 +8,13 @@
         "Samsung Electronics Co., Ltd."
     ],
     "address": "Samsung House\n2000 Hillswood Drive\nChertsey, Surrey\nKT16 0RS\nUnited Kingdom",
+    "email": "dataprotection@samsung.com",
     "webform": "https://www.samsung.com/request-desk/",
     "web": "https://www.samsung.com/",
     "sources": [
-        "https://www.samsung.com/de/info/privacy/",
-        "https://github.com/datenanfragen/data/pull/2440"
-    ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name",
-            "optional": false
-        },
-        {
-            "desc": "E-Mail",
-            "type": "email",
-            "optional": false
-        }
+        "https://www.samsung.com/uk/info/privacy/",
+        "https://github.com/datenanfragen/data/pull/2440",
+        "https://github.com/datenanfragen/data/pull/2842"
     ],
     "suggested-transport-medium": "webform",
     "quality": "verified"

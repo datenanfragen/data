@@ -8,14 +8,14 @@
         "ads"
     ],
     "name": "RocketReach",
-    "address": "135 100th Ave NE\nBellevue\nWA 98004\nUnited States of America",
-    "phone": "+1 415 669 0604",
-    "email": "privacy@rocketreach.co",
+    "address": "144 N 7th St\nPO #421\nBrooklyn, NY 11211\nUnited States of America",
+    "phone": "+1 833 212 3828",
+    "email": "article27@verasafe.com",
     "web": "https://rocketreach.co",
     "sources": [
-        "https://rocketreach.co/gdpr",
         "https://rocketreach.co/privacy",
-        "https://github.com/datenanfragen/data/issues/493"
+        "https://github.com/datenanfragen/data/issues/493",
+        "https://github.com/datenanfragen/data/pull/2835"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

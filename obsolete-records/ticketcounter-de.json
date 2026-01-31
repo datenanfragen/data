@@ -1,0 +1,10 @@
+{
+    "slug": "ticketcounter-de",
+    "name": "Ticketcounter OS GmbH",
+    "reason": "duplicate",
+    "redirect-to": "ticketcounter-nl",
+    "sources": [
+        "https://ticketcounter.eu/de/datenschutzerklaerung/"
+    ],
+    "quality": "obsolete"
+}

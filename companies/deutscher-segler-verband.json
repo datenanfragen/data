@@ -13,9 +13,8 @@
     "fax": "+49 40 63200928",
     "email": "datenschutz@dsv.org",
     "sources": [
-        "https://www.dsv.org/app/uploads/Informationspflichten-nach-Artikel-12-13-und-14-DS-GVO_DSV.pdf",
-        "https://github.com/datenanfragen/data/pull/1480",
-        "https://www.dsv.org/dsv/impressum/"
+        "https://www.dsv.org/datenschutz/datenschutzerklaerung/",
+        "https://github.com/datenanfragen/data/pull/1480"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

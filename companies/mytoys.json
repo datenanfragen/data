@@ -1,32 +1,26 @@
 {
     "slug": "mytoys",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
     "name": "myToys.de GmbH",
     "runs": [
-        "mirapodo Online-Schuh-Shop (www.mirapodo.de)",
-        "ambellis Online-Damenmode-Shop (www.ambellis.de)",
-        "yomonda Online-Haushaltartikel-Shop (www.yomonda.de)"
+        "mirapodo",
+        "ambellis (ehem.)",
+        "yomonda (ehem.)"
     ],
-    "address": "Potsdamer Straße 192\n10783 Berlin\nDeutschland",
-    "phone": "+49 30 726 201 0",
-    "fax": "+49 30 726 201 444",
-    "email": "datenschutz@myToys.de",
-    "web": "https://www.mytoys.de/",
+    "address": "Werner-Otto-Str. 1-7\n22179 Hamburg\nDeutschland",
+    "phone": "+49 30 726201201",
+    "email": "datenschutz@mytoys.de",
+    "web": "https://www.otto.de/mytoys/",
     "sources": [
-        "https://www.mytoys.de/c/datenschutz.html",
-        "https://www.mytoys.de/c/impressum.html",
-        "https://www.mirapodo.de/c/datenschutz.html",
-        "https://www.ambellis.de/c/datenschutz.html",
-        "https://www.yomonda.de/c/datenschutz.html",
-        "http://images.mytoys.com/mytoys/images/misc/oeffentliches_verfahrensverzeichnis_aktuell_1_2_2016.pdf"
-    ],
-    "comments": [
-        "Telefonnummer laut Impressum: +49 1806 698697 (Festnetz 20 Cent/Anruf, Mobilfunk max. 60 Cent/Anruf). Alternative Nummer übernommen von https://www.0180.info/suche.html?s=01806698697"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://www.otto.de/shoppages/mytoys-compliance-datenschutz",
+        "https://www.otto.de/shoppages/mirapodo-compliance-datenschutz",
+        "https://www.textilwirtschaft.de/business/news/e-commerce-mytoys-ambellis-wandert-unter-das-dach-von-mirapodo-214120",
+        "https://www.ottogroup.com/de/medien/newsroom/meldungen/mytoys-group-schliesst-home-living-shop-yomonda.php"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

@@ -1,0 +1,10 @@
+{
+    "slug": "karstadt-shop",
+    "name": "Karstadt Warenhaus GmbH",
+    "reason": "company-merged",
+    "redirect-to": "galeria-kaufhof",
+    "sources": [
+        "https://www.galeria.de/unternehmen/ueber-galeria"
+    ],
+    "quality": "obsolete"
+}

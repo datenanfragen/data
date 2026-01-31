@@ -1,0 +1,9 @@
+{
+    "slug": "v12data",
+    "name": "V12",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1509#issuecomment-950386450"
+    ],
+    "quality": "obsolete"
+}

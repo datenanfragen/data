@@ -8,17 +8,14 @@
     ],
     "name": "hagebau connect GmbH & Co. KG",
     "runs": [
-        "baumarkt direkt GmbH & Co. KG (ehem.)"
+        "hagebau Handelsgesellschaft für Baustoffe mbH & Co. KG"
     ],
     "address": "Alter Teichweg 25\n22081 Hamburg\nDeutschland",
     "phone": "+49 40 600 235 505",
-    "email": "datenschutz@hagebau.com",
-    "webform": "https://www.dsextern.de/anfragen",
+    "email": "datenschutz@hagebau.de",
     "web": "https://www.hagebau.de/",
     "sources": [
-        "https://www.hagebau.de/datenschutz/",
-        "https://www.hagebau.de/impressum/",
-        "https://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=464305&land_abk=hh"
+        "https://www.hagebau.de/datenschutz/"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

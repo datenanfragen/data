@@ -3,30 +3,15 @@
     "relevant-countries": [
         "de",
         "at",
-        "ch",
-        "hr"
+        "ch"
     ],
-    "name": "Immowelt Holding AG",
-    "runs": [
-        "Immowelt AG",
-        "Immowelt Hamburg GmbH",
-        "Umzugsauktion GmbH & Co. KG",
-        "Digitalni klik d.o.o.",
-        "Immosolve GmbH"
-    ],
-    "address": "Nordostpark 3-5\n90411 Nürnberg\nDeutschland",
+    "address": "c/o AVIV Germany GmbH\nOstendstraße 113\n90482 Nürnberg\nDeutschland",
     "phone": "+49 911 520250",
     "fax": "+49 911 5202525",
-    "email": "datenschutz@immowelt-group.com",
-    "web": "https://www.immowelt-group.com",
+    "email": "datenschutz@immowelt.de",
+    "web": "https://www.immowelt.de",
     "sources": [
-        "https://www.immowelt-group.com/datenschutz/",
-        "https://www.immowelt-group.com/marken/portale/",
-        "https://www.immowelt.de/immoweltag/datenschutz/",
-        "https://www.immonet.de/datenschutz/",
-        "https://www.umzugsauktion.de/datenschutz-sicherheit/",
-        "https://www.crozilla-nekretnine.com/de/impressum/",
-        "https://www.immowelt-group.com/marken/software/"
+        "https://www.immowelt.de/immoweltag/datenschutz"
     ],
     "required-elements": [
         {
@@ -43,5 +28,6 @@
         }
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "name": "immowelt.de"
 }

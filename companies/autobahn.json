@@ -9,15 +9,13 @@
         "utility"
     ],
     "name": "Die Autobahn GmbH des Bundes",
-    "address": "Friedrichstraße 71\n10117 Berlin\nDeutschland",
-    "phone": "+49 30 403680800",
-    "fax": "+49 30 403680810",
+    "address": "Heidestr. 15\n10557 Berlin\nDeutschland",
+    "fax": "+49 30 03680810",
     "email": "datenschutz@autobahn.de",
     "web": "https://www.autobahn.de",
     "sources": [
-        "https://www.autobahn.de/datenschutzerklaerung/",
-        "https://github.com/datenanfragen/data/pull/927",
-        "https://www.autobahn.de/impressum/"
+        "https://www.autobahn.de/datenschutz/zustandserfassung",
+        "https://github.com/datenanfragen/data/pull/927"
     ],
     "request-language": "de",
     "suggested-transport-medium": "email",

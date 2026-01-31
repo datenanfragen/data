@@ -7,15 +7,18 @@
         "telecommunication",
         "commerce"
     ],
-    "name": "1&1 Internet Ltd.",
-    "address": "Discovery House\n154 Southgate Street\nGloucester\nGL1 2EX\nUnited Kingdom",
-    "phone": "+44 333 336 5691",
-    "email": "privacypolicy@1and1.co.uk",
-    "web": "https://www.1and1.co.uk",
+    "name": "IONOS Cloud Ltd.",
+    "runs": [
+        "1&1 Internet Ltd. (formerly)"
+    ],
+    "address": "No.2 Cathedral Walk\nThe Forum\nGloucester\nGL1 1AU\nUnited Kingdom",
+    "phone": "+44 800 021 1693",
+    "email": "privacypolicy@ionos.co.uk",
+    "web": "https://www.ionos.co.uk/",
     "sources": [
-        "https://www.1and1.co.uk/terms-gtc/fileadmin/Terms/PDF_UK/2017_UK_Privacy_policy.pdf",
-        "https://contact.1and1.co.uk/contact",
-        "https://beta.companieshouse.gov.uk/company/03953678"
+        "https://www.ionos.co.uk/terms-gtc/privacy-policy/",
+        "https://www.ionos.co.uk/contact",
+        "https://find-and-update.company-information.service.gov.uk/company/03953678"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",

@@ -9,28 +9,13 @@
         "ads"
     ],
     "name": "Inside Lead GmbH",
-    "runs": [
-        "dein-sport-gutschein.com",
-        "snackpaket-gewinnen.com",
-        "energy-gewinnen.com",
-        "dein-wunschauto24.com",
-        "mein-tiny-house.com"
-    ],
-    "address": "Hanauer Landstrasse 291B\n60314 Frankfurt\nDeutschland",
-    "phone": "+49 800 2404810",
-    "email": "dsb@inside-lead.com",
+    "address": "Hanauer Landstrasse 291 B\n60314 Frankfurt\nDeutschland",
+    "email": "service@inside-lead.com",
     "web": "https://www.inside-lead.com",
     "sources": [
         "https://www.inside-lead.com/#datenschutz",
-        "https://github.com/datenanfragen/data/issues/50",
-        "https://dein-sport-gutschein.com/info/imprint",
-        "https://dein-sport-gutschein.com/info/privacy",
-        "https://snackpaket-gewinnen.com/info/privacy",
-        "https://energy-gewinnen.com/info/privacy",
-        "https://dein-wunschauto24.com/info/privacy",
-        "https://mein-tiny-house.com/info/privacy"
+        "https://github.com/datenanfragen/data/issues/50"
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

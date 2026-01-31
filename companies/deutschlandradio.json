@@ -6,12 +6,11 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Deutschlandradio",
+    "name": "Deutschlandradio K. d. ö. R.",
     "runs": [
         "Deutschlandfunk (www.deutschlandfunk.de)",
         "Deutschlandfunk Kultur (www.deutschlandfunkkultur.de)",
-        "Deutschlandfunk Nova (www.deutschlandfunknova.de)",
-        "Dlf24"
+        "Deutschlandfunk Nova (www.deutschlandfunknova.de)"
     ],
     "address": "Raderberggürtel 40\n50968 Köln\nDeutschland",
     "phone": "+49 221 345 3501",
@@ -22,8 +21,7 @@
         "https://www.deutschlandradio.de/datenschutzerklaerung.1828.de.html",
         "https://www.deutschlandfunk.de/datenschutzerklaerung.3553.de.html",
         "https://www.deutschlandfunkkultur.de/datenschutzerklaerung.3513.de.html",
-        "https://www.deutschlandfunknova.de/info/datenschutz",
-        "http://www.ard.de/kinder/Datenschutz/3436692/index.html"
+        "https://www.deutschlandfunknova.de/info/datenschutzerklaerung"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

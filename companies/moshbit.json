@@ -7,16 +7,12 @@
         "school"
     ],
     "name": "Moshbit GmbH",
-    "runs": [
-        "Studo"
-    ],
     "address": "Joanneumring 3\n8010 Graz\nÖsterreich",
     "phone": "+43 664 8351081",
     "email": "datenschutz@moshbit.com",
     "web": "https://moshbit.com",
     "sources": [
-        "https://moshbit.com/privacypolicy.html",
-        "https://studo.co/impressum",
+        "https://moshbit.com/privacy-policy",
         "https://github.com/datenanfragen/data/issues/206",
         "https://github.com/datenanfragen/data/pull/916"
     ],

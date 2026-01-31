@@ -8,18 +8,15 @@
     ],
     "name": "Saarländischer Rundfunk",
     "runs": [
-        "UNSERDING.de (www.unserding.de)",
-        "SR Mediathek (www.sr-mediathek.de)"
+        "UNSERDING.de"
     ],
     "address": "Funkhaus Halberg\n66100 Saarbrücken\nDeutschland",
-    "phone": "+49 681 602 2054",
-    "fax": "+49 681 602 2059",
+    "phone": "+49 681 6023705",
     "email": "datenschutz@sr.de",
     "web": "https://www.sr.de",
     "sources": [
-        "https://www.sr.de/sr/home/der_sr/unternehmen/datenschutzerklarung/index.html",
-        "https://www.unserding.de/unserding/datenschutz_100.html",
-        "http://www.ard.de/kinder/Datenschutz/3436692/index.html"
+        "https://www.sr.de/sr/home/der_sr/so_sind_wir/unternehmen/datenschutzerklarung/index.html",
+        "https://www.unserding.de/unserding/datenschutzbestimmungen100.html"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

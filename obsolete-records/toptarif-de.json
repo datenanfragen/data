@@ -1,0 +1,10 @@
+{
+    "slug": "toptarif-de",
+    "name": "TopTarif.de",
+    "reason": "company-merged",
+    "redirect-to": "verivox",
+    "sources": [
+        "https://www.toptarif.de/"
+    ],
+    "quality": "obsolete"
+}

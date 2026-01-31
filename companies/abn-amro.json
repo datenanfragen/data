@@ -15,7 +15,7 @@
     "email": "privacy.office@nl.abnamro.com",
     "web": "https://www.abnamro.com",
     "sources": [
-        "https://www.abnamro.com/nl/home/product/privacy-statement-com",
+        "https://www.abnamro.com/en/home/information/privacy-statement",
         "https://www.moneyou.de/datenschutz",
         "https://github.com/datenanfragen/data/pull/1554"
     ],

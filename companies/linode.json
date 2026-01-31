@@ -6,13 +6,16 @@
     "categories": [
         "telecommunication"
     ],
-    "name": "Linode, LLC",
-    "address": "249 Arch St\nPhiladelphia, PA 19106\nUnited States of America",
-    "phone": "+1 855 454 6633",
-    "email": "privacy@linode.com",
-    "web": "https://www.linode.com/",
+    "name": "Akamai Technologies GmbH",
+    "runs": [
+        "Linode"
+    ],
+    "address": "Parkring 22\n85748 Garching\nGermany",
+    "email": "privacy@akamai.com",
+    "web": "https://www.akamai.com",
     "sources": [
-        "https://www.linode.com/legal-privacy/",
+        "https://www.akamai.com/legal/privacy-statement",
+        "https://www.akamai.com/company/akamai-affiliates",
         "https://github.com/datenanfragen/data/pull/1887"
     ],
     "suggested-transport-medium": "email",

@@ -8,7 +8,8 @@
     ],
     "name": "Vinted UAB",
     "runs": [
-        "vinted.de"
+        "Vinted.de",
+        "Kleiderkreisel.de (ehem.)"
     ],
     "address": "Švitrigailos Str. 13\nLT-03228 Vilnius\nLithuania",
     "email": "dpo@vinted.de",
@@ -16,6 +17,7 @@
     "sources": [
         "https://www.vinted.de/privacy-policy",
         "https://www.vinted.de/impressum",
+        "https://www.kleiderkreisel.de/",
         "https://github.com/datenanfragen/data/pull/2350"
     ],
     "suggested-transport-medium": "email",

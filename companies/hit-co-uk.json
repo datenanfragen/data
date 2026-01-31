@@ -6,19 +6,12 @@
     "categories": [
         "commerce"
     ],
-    "name": "Online Commerce Limited",
-    "runs": [
-        "Hit.co.uk",
-        "base.com (formerly)"
-    ],
+    "name": "HITCOUK Limited",
     "address": "1 A P Ellis Road\nUpper Rissington\nCheltenham\nGL54 2QB\nUnited Kingdom",
-    "phone": "+44 330 123 3903",
-    "email": "dataprotection@onlinecommerceltd.com",
-    "web": "https://www.hit.co.uk/",
+    "email": "dataprotection@hit.co.uk",
+    "web": "https://hit.co.uk/",
     "sources": [
-        "https://www.hit.co.uk/help/pg385/privacy-policy.htm",
-        "https://www.hit.co.uk/contact/dp12/default.htm",
-        "https://www.hit.co.uk/notice/pg887/notice.htm",
+        "https://hit.co.uk/policies/privacy-policy",
         "https://github.com/datenanfragen/data/pull/1847"
     ],
     "suggested-transport-medium": "email",

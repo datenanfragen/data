@@ -6,21 +6,23 @@
     "categories": [
         "finance"
     ],
-    "name": "Prepaid Services Company Limited",
+    "name": "Paysafe Group Holdings Limited",
     "runs": [
-        "paysafecard",
-        "Paysafe",
-        "Payolution",
+        "Incomeaccess",
+        "Pago wallet",
+        "Paysafecard",
+        "PaysafeCash",
         "Skrill",
-        "Neteller"
+        "Neteller",
+        "Viafintech",
+        "Openbucks"
     ],
-    "address": "Floor 27\n25 Canada Square\nLondon\nE17 4AU\nUnited Kingdom",
-    "email": "info@paysafecard.com",
+    "address": "2 Gresham Street\n1st Floor\nLondon\nEC2V 7AD\nUnited Kingdom",
+    "webform": "https://www.paysafe.com/en/personal-data-requests/",
     "web": "https://www.paysafecard.com",
     "sources": [
-        "https://www.paysafecard.com/de-de/impressum/",
-        "https://github.com/datenanfragen/data/issues/372",
-        "https://www.paysafecard.com/de-de/datenschutz/"
+        "https://www.paysafecard.com/en-de/privacy-notice/",
+        "https://github.com/datenanfragen/data/issues/372"
     ],
     "quality": "verified"
 }

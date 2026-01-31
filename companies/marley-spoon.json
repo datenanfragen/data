@@ -7,16 +7,12 @@
         "commerce"
     ],
     "name": "Marley Spoon SE",
-    "runs": [
-        "Dinnerly"
-    ],
-    "address": "Paul-Lincke-Ufer 39-40\n10999 Berlin\nDeutschland",
+    "address": "Wrangelstr. 100\n10997 Berlin\nDeutschland",
     "email": "privacy@marleyspoon.de",
     "web": "https://marleyspoon.de",
     "sources": [
-        "https://legal.marleyspoon.de/dsgvo/",
+        "https://marleyspoon.de/privacy",
         "https://github.com/datenanfragen/data/pull/1577",
-        "https://dinnerly.de/privacy",
         "https://github.com/datenanfragen/data/pull/2298"
     ],
     "suggested-transport-medium": "email",

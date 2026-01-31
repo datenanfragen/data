@@ -1,0 +1,10 @@
+{
+    "slug": "liveramp",
+    "name": "LiveRamp",
+    "reason": "duplicate",
+    "redirect-to": "liveramp-gb",
+    "sources": [
+        "https://github.com/datenanfragen/data/commit/dc6c82b6e01c4c95af17c489c5370d23d3bd30dd"
+    ],
+    "quality": "obsolete"
+}

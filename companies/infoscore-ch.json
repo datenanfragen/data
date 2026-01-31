@@ -8,11 +8,11 @@
     ],
     "name": "infoscore AG",
     "address": "Ifangstrasse 8\n8952 Schlieren\nSchweiz",
-    "phone": "+41 44 738 68 88",
-    "fax": "+41 44 738 68 35",
-    "web": "https://www.arvato.com/ch-de/solutions/financial-solutions.html",
+    "email": "dataprotection@infoscore.ch",
+    "web": "https://www.infoscoreag.ch/",
     "sources": [
-        "https://finance.arvato.com/de/ueber-uns/impressum.html"
+        "https://www.infoscoreag.ch/"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

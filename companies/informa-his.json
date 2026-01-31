@@ -6,19 +6,19 @@
     "categories": [
         "credit agency"
     ],
-    "name": "informa HIS GmbH",
+    "name": "Besurance HIS GmbH",
     "runs": [
         "Hinweis- und Informationssystem der deutschen Versicherungswirtschaft (HIS)"
     ],
-    "address": "Kreuzberger Ring 68\n65205 Wiesbaden\nDeutschland",
-    "phone": "+49 611 880870 0",
-    "email": "datenschutz@informa-his.de",
-    "webform": "https://www.informa-his.de/selbstauskunft/selbstauskunft/online-formular",
+    "address": "Daimlerring 4\n65205 Wiesbaden\nDeutschland",
+    "phone": "+49 1515 0691844",
+    "email": "datenschutz@besurance-his.de",
+    "webform": "https://besurance-his.de/selbstauskunft",
     "web": "https://www.informa-his.de",
     "sources": [
-        "https://www.informa-his.de/fileadmin/user_upload/informationsblatt_eu-dsgvo_anfrage.pdf",
-        "https://www.informa-his.de/selbstauskunft/selbstauskunft/",
-        "https://www.informa-his.de/service/kontakt"
+        "https://besurance-his.de/datenschutz",
+        "https://besurance-his.de/selbstauskunft",
+        "https://besurance-his.de/kontakt"
     ],
     "required-elements": [
         {
@@ -34,16 +34,26 @@
             "type": "birthdate"
         },
         {
-            "desc": "Vorherige Adresse",
+            "desc": "Vorherige Adresse(n)",
             "type": "address",
+            "optional": true
+        },
+        {
+            "desc": "Fahrzeugidentifikationsnummer (FIN)",
+            "type": "input",
+            "optional": true
+        },
+        {
+            "desc": "Kfz-Kennzeichen",
+            "type": "input",
             "optional": true
         }
     ],
     "request-language": "de",
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
     "comments": [
         "Bitten um Angabe der vorherigen Adressen für die letzten fünf Jahre, um vollständigere Auskunft erteilen zu können."
     ],
-    "needs-id-document": false,
-    "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }

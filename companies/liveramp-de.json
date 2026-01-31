@@ -6,17 +6,15 @@
     "categories": [
         "ads"
     ],
-    "name": "LiveRamp Netherlands B.V.",
-    "address": "c/o ePrivacy GmbH\nGroße Bleichen 21\n20354 Hamburg\nDeutschland",
+    "name": "LiveRamp France SAS",
+    "address": "25 rue Anatole France\n92300 Levallois-Perret\nFrance",
     "phone": "+44 20 3966 4150",
     "email": "privacy.de@liveramp.com",
-    "web": "https://liveramp.com/",
+    "web": "https://liveramp.de/",
     "sources": [
-        "https://liveramp.com/privacy/service-privacy-policy/",
-        "https://liveramp.com/contact/",
-        "https://liveramp.uk/privacy-policy-germany/"
+        "https://liveramp.de/privacy/"
     ],
-    "suggested-transport-medium": "email",
     "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

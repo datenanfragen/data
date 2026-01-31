@@ -14,8 +14,7 @@
     "email": "datenschutz@az-direct.com",
     "web": "https://www.az-direct.com",
     "sources": [
-        "https://www.az-direct.com/site/datenschutz-dialogmarketing/",
-        "https://www.az-direct.com/site/impressum/",
+        "https://www.az-direct.com/site/dm",
         "https://github.com/datenanfragen/data/pull/1179"
     ],
     "required-elements": [

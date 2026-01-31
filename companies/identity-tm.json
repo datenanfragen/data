@@ -1,17 +1,16 @@
 {
     "slug": "identity-tm",
-    "name": "identity Trust Management AG",
-    "address": "Lierenfelderstraße 51\n40231 Düsseldorf\nDeutschland",
-    "phone": "+49 211 68 77 3 0",
-    "email": "datenschutz@identity.tm",
-    "web": "https://www.identity.tm",
-    "sources": [
-        "https://www.identity.tm/download/Datenschutzerklaerung_iTM-ident.pdf",
-        "https://www.identity.tm/download/Datenschutzerklaerung_iTM-website.pdf",
-        "https://www.identity.tm/impressum.html"
-    ],
     "relevant-countries": [
         "de"
+    ],
+    "name": "IDnow GmbH",
+    "address": "Auenstr. 100\n80469 München\nDeutschland",
+    "phone": "+49 89 41324600",
+    "email": "info@idnow.de",
+    "web": "https://www.idnow.io/",
+    "sources": [
+        "https://www.idnow.io/de/datenschutzerklaerung/",
+        "https://www.idnow.io/de/impressum/"
     ],
     "required-elements": [
         {
@@ -24,6 +23,5 @@
             "type": "input"
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

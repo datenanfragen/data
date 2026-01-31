@@ -6,15 +6,17 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Joyn GmbH",
-    "address": "Ridlerstrasse 57\n80339 München\nGermany",
+    "name": "Joyn",
+    "runs": [
+        "sixx.de"
+    ],
+    "address": "c/o Seven.One Entertainment Group GmbH\nMedienallee 7\n85774 Unterföhring\nGermany",
     "phone": "+49 800 4395696",
-    "fax": "+49 89 943977199",
     "email": "datenschutz@joyn.de",
     "web": "https://www.joyn.de",
     "sources": [
-        "https://www.dnb.com/business-directory/company-profiles.joyn_gmbh.f143f509f00a953c9dcdd20d095632f9.html",
-        "https://www.joyn.de/impressum"
+        "https://www.joyn.de/datenschutz",
+        "https://www.joyn.de/mediatheken/sixx"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

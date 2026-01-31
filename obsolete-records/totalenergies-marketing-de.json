@@ -1,0 +1,10 @@
+{
+    "slug": "totalenergies-marketing-de",
+    "name": "TotalEnergies Marketing Deutschland GmbH",
+    "reason": "duplicate",
+    "redirect-to": "services-totalenergies",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/3265"
+    ],
+    "quality": "obsolete"
+}

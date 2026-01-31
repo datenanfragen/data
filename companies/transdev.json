@@ -6,9 +6,9 @@
     "categories": [
         "travel"
     ],
-    "name": "Transdev GmbH",
+    "name": "Transdev Vertrieb GmbH",
     "runs": [
-        "Transdev Vertrieb GmbH",
+        "Transdev GmbH",
         "Transdev Service GmbH",
         "VRR-Abo-Service",
         "Rhein-Main-Verkehrsverbund (RMV) Verkaufsstellen",
@@ -61,19 +61,22 @@
         "Württembergische Eisenbahn-Gesellschaft mbH",
         "Regionalverkehr Westsachsen GmbH",
         "Moselweinbahn / Hunsrückbahn",
-        "Transdev Rhein-Ruhr GmbH"
+        "Transdev Rhein-Ruhr GmbH",
+        "Deutschlandticket.de"
     ],
-    "address": "Georgenstraße 22\n10117 Berlin\nDeutschland",
+    "address": "Markt 10\n04109 Leipzig\nDeutschland",
     "phone": "+49 30 20073599",
     "email": "datenschutz@transdev.de",
     "webform": "https://www.transdev.de/de/ds-kontakt",
     "web": "https://www.transdev.de",
     "sources": [
         "https://www.transdev.de/de/datenschutzerklaerung-transdev-vertrieb-gmbh",
-        "https://www.transdev-vrr-tickets.de",
+        "https://www.transdev-vrr-tickets.de/de/datenschutz",
         "https://www.transdev.de/de/de-datenschutz",
         "https://www.transdev.de/de/ueber-uns/unternehmensprofil/unsere-unternehmen",
-        "https://github.com/datenanfragen/data/pull/2059"
+        "https://github.com/datenanfragen/data/pull/2059",
+        "https://deutschlandticket.de/legal/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3070"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

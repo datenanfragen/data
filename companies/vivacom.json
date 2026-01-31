@@ -18,7 +18,7 @@
     "needs-id-document": true,
     "suggested-transport-medium": "email",
     "comments": [
-        "The request should be digitally signed. "
+        "The request should be digitally signed."
     ],
     "quality": "verified"
 }

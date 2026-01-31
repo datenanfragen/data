@@ -7,19 +7,14 @@
         "commerce"
     ],
     "name": "Catprint Media GmbH",
-    "runs": [
-        "ulistein.de"
-    ],
-    "address": "Hauptstraße 101\n30826 Garbsen\nDeutschland",
+    "address": "Postfach 12 01 09\n30808 Garbsen\nDeutschland",
     "phone": "+49 5131 9066835",
     "fax": "+49 5131 9066837",
     "email": "info@catprint.de",
     "web": "http://www.catprint.de",
     "sources": [
-        "https://www.ulistein.de/datenschutz.html",
-        "https://www.ulistein.de/impressum.html",
+        "https://www.catprint.de/kontakt/datenschutz/",
         "https://github.com/datenanfragen/data/pull/1342"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }

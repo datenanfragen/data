@@ -8,8 +8,12 @@
         "Panasonic Deutschland"
     ],
     "address": "Hagenauer Straße 43\n65203 Wiesbaden\nDeutschland",
-    "email": "datenschutz@eu.panasonic.com",
+    "email": "data_protection@eu.panasonic.com",
     "web": "https://www.panasonic.com/de",
+    "sources": [
+        "https://www.panasonic.com/de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/1395"
+    ],
     "required-elements": [
         {
             "desc": "Name",
@@ -26,11 +30,7 @@
             "type": "address"
         }
     ],
-    "sources": [
-        "https://www.panasonic.com/de/datenschutz.html",
-        "https://github.com/datenanfragen/data/pull/1395"
-    ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }

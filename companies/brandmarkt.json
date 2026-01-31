@@ -6,16 +6,16 @@
     "categories": [
         "commerce"
     ],
-    "name": "Brandmarkt-Outlet",
-    "address": "Rosenbergstrasse 46\n9000 St. Gallen\nSwitzerland",
-    "phone": "+41 79 773 87 12",
+    "name": "BrandMarkt",
+    "address": "Fachmarktzentrum Grüzepark\nIndustriestrasse 43/44\n8404 Winterthur\nSchweiz",
+    "phone": "+41 79 531 13 63",
     "email": "store@brandmarkt.ch",
     "web": "https://brandmarkt.store/",
     "sources": [
-        "https://brandmarkt.store/terms-and-conditions/",
         "https://brandmarkt.store/kontact-uns/",
         "https://github.com/datenanfragen/data/pull/1962",
-        "https://github.com/datenanfragen/data/pull/2576"
+        "https://github.com/datenanfragen/data/pull/2576",
+        "https://github.com/datenanfragen/data/pull/3296"
     ],
     "quality": "verified"
 }

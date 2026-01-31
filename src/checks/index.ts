@@ -9,6 +9,7 @@ import passRecordSchemaCheck from './record/pass-schema';
 import suggestedMediumExistsCheck from './record/suggested-medium-exists';
 import trimAddressLinesCheck from './record/trim-address-lines';
 import trimStringFieldsCheck from './record/trim-string-fields';
+import unusualWhitespaceCheck from './record/unusual-whitespace';
 
 import customTemplateExistenceCheck from './company/custom-template-existence';
 import nameInRequiredElementsCheck from './company/name-in-required-elements';
@@ -20,6 +21,12 @@ import trackingCompanyRequiredElementsCheck from './company/tracking-company-req
 
 import companyExistenceCheck from './pack/company-existence';
 import passPackSchemaCheck from './pack/pass-schema';
+
+import passObsoleteSchemaCheck from './obsolete-record/pass-schema';
+import originalRecordDeletedCheck from './obsolete-record/original-record-deleted';
+import matchFilenameSlugObsoleteCheck from './obsolete-record/match-filename-slug';
+import redirectToExistsCheck from './obsolete-record/redirect-to-exists';
+import shouldRedirectCheck from './obsolete-record/should-redirect';
 
 const linters = {
     recordlint: {
@@ -33,6 +40,7 @@ const linters = {
             suggestedMediumExistsCheck,
             trimAddressLinesCheck,
             trimStringFieldsCheck,
+            unusualWhitespaceCheck,
         ] as Check[],
         url: 'https://github.com/datenanfragen/data/blob/master/src/checks/record',
         path_filter: (path: string) => path.startsWith('companies/') || path.startsWith('supervisory-authorities/'),
@@ -55,6 +63,17 @@ const linters = {
         checks: [companyExistenceCheck, passPackSchemaCheck] as unknown as Check[],
         url: 'https://github.com/datenanfragen/data/blob/master/src/checks/pack',
         path_filter: (path: string) => path.startsWith('company-packs/'),
+    },
+    obsoletelint: {
+        checks: [
+            passObsoleteSchemaCheck,
+            originalRecordDeletedCheck,
+            matchFilenameSlugObsoleteCheck,
+            redirectToExistsCheck,
+            shouldRedirectCheck,
+        ] as Check[],
+        url: 'https://github.com/datenanfragen/data/blob/master/src/checks/obsolete-record',
+        path_filter: (path: string) => path.startsWith('obsolete-records/'),
     },
 };
 export default linters;

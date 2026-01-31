@@ -7,7 +7,7 @@
         "commerce",
         "school"
     ],
-    "name": "Verlag C.H.BECK oHG",
+    "name": "Verlag C.H. Beck GmbH & Co. KG",
     "runs": [
         "beck-online.DIE DATENBANK",
         "beck-shop.de",
@@ -24,7 +24,7 @@
         "https://www.beck-shop.de/datenschutz/content/4952/",
         "https://www.chbeck.de/meta/datenschutz/",
         "https://www.beck-stellenmarkt.de/datenschutz",
-        "http://www.beck-seminare.de/datenschutz"
+        "https://www.beck-seminare.de/content/datenschutzerklaerung"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

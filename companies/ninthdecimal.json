@@ -10,12 +10,13 @@
     "runs": [
         "NinthDecimal, Inc. (formerly)"
     ],
-    "address": "11111 Jefferson Blvd #5243\nCulver City, CA 90231\nUnited States of America",
+    "address": "1530 P B Ln #P5446\nWichita Falls, TX 76302-2612\nUnited States of America",
+    "phone": "+1 877 782 0530",
     "email": "privacy@inmarket.com",
     "web": "https://inmarket.com",
     "sources": [
         "https://inmarket.com/privacy/",
-        "https://businesssearch.sos.ca.gov/Document/RetrievePDF?Id=201013910005-29193174",
+        "https://inmarket.com/terms-of-service/",
         "https://www.prnewswire.com/news-releases/inmarket-acquires-assets-from-ninthdecimal-creating-the-definitive-leader-in-real-time-data-driven-marketing-301126032.html"
     ],
     "custom-access-template": "access-tracking",

@@ -6,13 +6,14 @@
     "categories": [
         "finance"
     ],
-    "name": "The Retail Equation",
-    "address": "Box 112\n155 Minories\nLondon\nEC3N 1AD\nUnited Kingdom",
-    "phone": "+44 800 689 0283",
-    "email": "info@theretailequation.com",
+    "name": "The Retail Equation, Inc.",
+    "address": "220 Progress\nSuite 175\nIrvine, CA 92618\nUnited States of America",
+    "phone": "+1 888 588 0671",
+    "email": "privacy@theretailequation.com",
+    "webform": "https://theretailequation.atlassian.net/servicedesk/customer/portals",
     "web": "https://www.theretailequation.com",
     "sources": [
-        "https://www.theretailequation.com/privacy-policy-eu/"
+        "https://www.theretailequation.com/privacy-policies/"
     ],
     "required-elements": [
         {
@@ -28,5 +29,6 @@
             "type": "email"
         }
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }

@@ -7,16 +7,17 @@
     "runs": [
         "GitLab Inc."
     ],
-    "address": "Ondiep 108\nUtrecht, 3552 EK\nThe Netherlands",
+    "address": "2Amsterdam Tower\n12th Floor\nEduard van Beinumstraat 28\n1077 CZ Amsterdam\nThe Netherlands",
+    "phone": "+1 415 761 1791",
     "email": "DPO@gitlab.com",
-    "webform": "https://support.gitlab.io/account-deletion/",
+    "webform": "https://support.gitlab.io/personal-data-request/",
     "web": "https://gitlab.com",
     "sources": [
         "https://about.gitlab.com/privacy/",
-        "https://about.gitlab.com/handbook/gdpr/",
-        "https://www.bloomberg.com/profiles/companies/1295950D:NA-gitlab-bv",
-        "https://github.com/datenanfragen/data/issues/628",
-        "https://github.com/datenanfragen/data/pull/1902"
+        "https://about.gitlab.com/de-de/impressum/",
+        "https://about.gitlab.com/company/visiting/",
+        "https://github.com/datenanfragen/data/pull/1902",
+        "https://github.com/datenanfragen/data/issues/628"
     ],
     "required-elements": [
         {
@@ -25,7 +26,7 @@
             "optional": false
         },
         {
-            "desc": "E-Mail",
+            "desc": "Email",
             "type": "email",
             "optional": false
         }

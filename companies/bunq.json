@@ -12,11 +12,11 @@
         "finance"
     ],
     "name": "bunq B.V.",
-    "address": "Naritaweg 131-133\n1043 BS Amsterdam\nThe Netherlands",
+    "address": "Basisweg 32\n1043 AP Amsterdam\nThe Netherlands",
     "email": "privacy@bunq.com",
     "web": "https://www.bunq.com",
     "sources": [
-        "https://www.bunq.com/assets/media/legal/en/20210601_Privacy_Statement_EN.pdf",
+        "https://www.bunq.com/en-de/documents/privacy-policy",
         "https://github.com/datenanfragen/data/pull/778"
     ],
     "required-elements": [

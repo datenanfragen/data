@@ -1,23 +1,34 @@
 {
     "slug": "flip4new",
     "relevant-countries": [
-        "de",
-        "at",
-        "ch"
+        "all"
     ],
     "categories": [
         "commerce"
     ],
-    "name": "Flip4 GmbH",
+    "name": "Foxway AB",
     "runs": [
-        "FLIP4NEW (www.flip4new.de)"
+        "Foxway AS",
+        "Foxway Circular UK Ltd.",
+        "Foxway A/S",
+        "Foxway OÜ",
+        "Foxway GmbH",
+        "Foxway Remanufacturing ApS",
+        "Foxway Latvia SIA",
+        "Foxway Distribution Germany GmbH",
+        "Foxway Distribution Spain SL",
+        "Foxway Poland Sp. z o.o.",
+        "Foxway France SAS",
+        "FLIP4NEW (formerly)",
+        "Flip4 GmbH (formerly)"
     ],
-    "address": "Industriestraße 21\n61381 Friedrichsdorf\nDeutschland",
-    "phone": "+49 800 354 74639",
-    "email": "datenschutz@flip4new.de",
-    "web": "https://www.flip4new.de",
+    "address": "Grusåsvägen 7\n352 45 Växjö\nSweden",
+    "email": "privacy@foxway.com",
+    "webform": "https://portals.dporganizer.com/f805a9ba-1914-4338-9e32-d5a94fd37feb",
+    "web": "https://www.foxway.com/de/",
     "sources": [
-        "https://www.flip4new.de/pages/8-datenschutz"
+        "https://www.foxway.com/de/privacy-policy/",
+        "https://www.northdata.de/?id=4927198498127872"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"

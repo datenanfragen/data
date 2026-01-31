@@ -1,0 +1,9 @@
+{
+    "slug": "cognitiv-ai",
+    "name": "Cognitiv Corp.",
+    "reason": "gdpr-not-applicable",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/1509#issuecomment-950387186"
+    ],
+    "quality": "obsolete"
+}

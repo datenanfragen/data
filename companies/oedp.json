@@ -12,7 +12,7 @@
     "email": "datenschutz@oedp.de",
     "web": "https://www.oedp.de",
     "sources": [
-        "https://www.oedp.de/service/datenschutz/"
+        "https://www.oedp.de/datenschutz"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
