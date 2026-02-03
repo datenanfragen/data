@@ -1,0 +1,18 @@
+{
+    "slug": "maxvalue",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "MaxValue Media",
+    "address": "Headquater: 1309 Coffeen Avenue STE 10810 Sheridan, Wyoming 82801, USA",
+    "email": "mobeen@maxvalue.media",
+    "web": "https://maxvalue.media/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3364"
+    ]
+}
