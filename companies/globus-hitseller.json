@@ -1,5 +1,8 @@
 {
     "slug": "globus-hitseller",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -14,8 +17,5 @@
         "https://www.globus-baumarkt.de/datenschutz/"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "relevant-countries": [
-        "de"
-    ]
+    "quality": "verified"
 }
