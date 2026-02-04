@@ -1,5 +1,5 @@
 {
-    "slug": "universit-tsklinikum-jena",
+    "slug": "universitaetsklinikum-jena",
     "relevant-countries": [
         "de"
     ],
@@ -15,5 +15,6 @@
         "https://www.uniklinikum-jena.de/Datenschutz.html",
         "https://github.com/datenanfragen/data/pull/2803"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
