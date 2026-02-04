@@ -28,12 +28,6 @@ The company data is located in the `companies` folder. Every company (or other o
 
 If a company requires a special template for requests under the GDPR, these can be stored in the `templates` folder and referenced by their filename in the company JSON record.
 
-<details>
-<summary>The <code>suggested-companies</code> are deprecated and will be removed soon.</summary>
-The <code>suggested-companies</code> folder contains suggestions on which companies users should send access requests to. It is grouped by country (where each country is represented by a file with the ISO 3166-1 alpha-2 country code as the filename). The list should only contain companies that the user should definitely request because they are relevant to pretty much every citizen of that country (e.g. collection agencies and credit agencies). It should not contain companies that are relevant for many but not all users (like Amazon, Facebook etc.)  
-A list for a country is represented by a JSON array of the slugs representing the corresponding companies.
-</details>
-
 The `company-packs` folder contains bundles of related companies that are relevant to many users, grouped by country. See [below](#company-packs) for more details.
 
 Finally, the `supervisory-authorities` folder contains data on supervisory data protection authorities. They are structured similarly to the company records, following the schema in the `schema-supervisory-authorities.json` file.
