@@ -1,5 +1,5 @@
 {
-    "slug": "bauhaus-universit-t-weimar",
+    "slug": "bauhaus-universitaet-weimar",
     "relevant-countries": [
         "de"
     ],
@@ -10,9 +10,11 @@
     "address": "Belvederer Allee 6\n99423 Weimar\nDeutschland",
     "phone": "+49 3643 581222",
     "email": "datenschutz@uni-weimar.de",
+    "web": "https://www.uni-weimar.de",
     "sources": [
         "https://www.uni-weimar.de/de/fs/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2800"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
