@@ -15,6 +15,12 @@
     "sources": [
         "https://www.barmer.de/consent/bestmoeglicher-schutz-fuer-ihre-daten-1366092"
     ],
+    "required-elements": [
+        {
+            "desc": "Krankenkassennummer",
+            "type": "input"
+        }
+    ],
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
