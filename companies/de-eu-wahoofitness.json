@@ -1,0 +1,16 @@
+{
+    "slug": "de-eu-wahoofitness",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Wahoo Fitness, LLC",
+    "address": "Wahoo Fitness, LLC\nAttn: Datenschutzrichtlinie\n90 West Wieuca Rd NE #110\nAtlanta, Georgia 30342\nUSA",
+    "email": "privacy@wahoofitness.com.",
+    "web": "https://de-eu.wahoofitness.com",
+    "sources": [
+        "https://de-eu.wahoofitness.com/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3368"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
