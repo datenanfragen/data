@@ -1,0 +1,21 @@
+{
+    "slug": "caats",
+    "relevant-countries": [
+        "fr",
+        "be",
+        "lu"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Caats",
+    "address": "260 rue du faubourg saint martin 7\n5010 \nParis",
+    "email": "contact@caats.co",
+    "web": "https://caats.co",
+    "sources": [
+        "https://caats.co/mentions-legales/",
+        "https://github.com/datenanfragen/data/pull/3365"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
