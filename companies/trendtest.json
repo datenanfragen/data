@@ -10,7 +10,8 @@
     "web": "https://www.trendtest.de",
     "sources": [
         "https://www.trendtest.de/datenschutzerklaerung/",
-        "https://github.com/datenanfragen/data/pull/2238"
+        "https://github.com/datenanfragen/data/pull/2238",
+        "https://github.com/datenanfragen/data/pull/3371"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
