@@ -1,0 +1,11 @@
+{
+    "slug": "doener-aufladen-de",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "döner-âufladen.de",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3372"
+    ]
+}
