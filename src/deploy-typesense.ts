@@ -1,7 +1,7 @@
 import Typesense from 'typesense';
 import { CollectionFieldSchema, FieldType } from 'typesense/lib/Typesense/Collection';
 import chunk_array from 'chunk';
-import glob from 'glob';
+import {globSync} from 'glob';
 import path from 'path';
 import fs from 'fs/promises';
 
@@ -64,8 +64,7 @@ const deploy = async function (
     await setupCollection(collection_name, schema_filename);
 
     // Grab records and prepare for Typesense.
-    const records = glob
-        .sync(`./${directory}/*.json`)
+    const records = globSync(`./${directory}/*.json`)
         .map((file) => require(path.resolve(file)))
         .map((obj) => ({ ...obj, 'sort-index': 1 }));
 

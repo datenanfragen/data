@@ -1,4 +1,4 @@
-import { MergeExclusive, PartialDeep } from 'type-fest';
+import type { MergeExclusive, PartialDeep } from 'type-fest';
 import { AuthorityRecord, CompanyRecord, GenericRecord, CompanyPack, ObsoleteRecord } from '../types/records';
 
 export type Position = { line?: number; column?: number };

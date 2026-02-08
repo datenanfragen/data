@@ -75,6 +75,13 @@ export interface AuthorityRecord {
      * The authority's main website.
      */
     web?: string;
+    /**
+     * A URL to a web form that can be used to lodge complaints with the authority. This should
+     * only be used for web forms specifically for complaints. General contact forms should only
+     * be entered here in rare cases, e.g. if the authority has neither an email address nor a
+     * complaint web form.
+     */
+    webform?: string;
 }
 
 /**
