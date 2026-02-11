@@ -1,0 +1,21 @@
+{
+    "slug": "no-coffee",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "The Good Caf GmbH",
+    "address": "Regierungsstraße 28\n99084 Erfurt\nDeutschland",
+    "phone": "+49 361 34947761",
+    "email": "info@no-coffee.de",
+    "web": "https://no-coffee.de/",
+    "sources": [
+        "https://no-coffee.de/impressum/",
+        "https://no-coffee.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/3342"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
