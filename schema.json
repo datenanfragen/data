@@ -1,19 +1,21 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "Datenanfragen.de company database record",
-    "description": "A single record of the Datenanfragen.de company database. It represents the contact information of a company (or other organization) specifically for privacy-related inquiries and requests.\nMore information and access to the whole database at: https://github.com/datenanfragen/data",
+    "description": "A single record of the Datenanfragen.de company database. It represents the contact information of a company (or other organization) specifically for GDPR requests.\nMore information and access to the whole database at: https://github.com/datenanfragen/data\nReference with full descriptions of all fields: https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md",
     "type": "object",
     "properties": {
         "slug": {
             "type": "string",
             "title": "Slug",
             "pattern": "^[a-z0-9-]+$",
-            "description": "A unique identifier for the company record. Also defines the filename."
+            "description": "A unique identifier for the company record.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#slug"
         },
         "relevant-countries": {
             "type": "array",
             "title": "Relevant countries",
-            "description": "A list of countries the record is relevant for. The countries can either be an ISO 3166-1 alpha-2 country code or 'all'. If a company has branches in different countries with unique contact data, separate records should be created for those. If a company branch offers its services in English and isn't explicitly restricted to certain countries, 'all' should be specified.",
+            "description": "A list of countries the record is relevant for.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#relevant-countries",
             "uniqueItems": true,
             "minItems": 1,
             "items": {
@@ -24,7 +26,8 @@
         "categories": {
             "type": "array",
             "title": "Categories",
-            "description": "A list of categories that the company fits into. These are purposefully fairly vague and may be applied generously.",
+            "description": "A list of categories that the company fits into.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#categories",
             "uniqueItems": true,
             "items": {
                 "type": "string",
@@ -33,7 +36,8 @@
         },
         "name": {
             "type": "string",
-            "description": "The company's official name, including suffixes like 'Ltd.', 'LLC', 'GmbH' etc.",
+            "description": "The name of the company or service, usually the company's official name.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#name",
             "title": "Name",
             "pattern": "^\\S.*\\S$"
         },
@@ -41,6 +45,7 @@
             "type": "array",
             "title": "Runs",
             "description": "A list of other services and companies the parent company is responsible (as defined in Article 4(7) GDPR) for.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#runs",
             "uniqueItems": true,
             "items": {
                 "type": "string"
@@ -49,55 +54,64 @@
         "address": {
             "type": "string",
             "title": "Address",
-            "description": "The address where the company can be reached for privacy-related inquiries and requests. Has to include the country (either in the country's native language or in English) in the last line and should be formatted according to the standards of the respective country.",
+            "description": "The address where the company can be reached for GDPR requests.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#contact-details",
             "format": "text"
         },
         "phone": {
             "type": "string",
             "title": "Phone",
-            "description": "A phone number where the company can be reached for privacy-related inquiries and requests. Has to be in the standard international format and include the country code.",
+            "description": "A phone number where the company can be reached for GDPR requests.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#contact-details",
             "pattern": "^\\+\\d+ \\d+ (?:\\d+ )*\\d+(?: ext\\. \\d+)?$"
         },
         "fax": {
             "type": "string",
             "title": "Fax",
-            "description": "A fax number where the company can be reached for privacy-related inquiries and requests. Has to be in the standard international format and include the country code.",
+            "description": "A fax number where the company can be reached for GDPR requests.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#contact-details",
             "pattern": "^\\+\\d+ \\d+ (?:\\d+ )*\\d+(?: ext\\. \\d+)?$"
         },
         "email": {
             "type": "string",
             "title": "Email",
-            "description": "An email address where the company can be reached for privacy-related inquiries and requests. Preferably a specific privacy@[domain.tld] address if available.",
+            "description": "An email address where the company can be reached for GDPR requests.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#contact-details",
             "format": "idn-email"
         },
         "webform": {
             "type": "string",
             "title": "Web form",
-            "description": "A URL to a web form where the company can be reached for privacy-related inquiries and requests. This should only be used for web forms specifically for privacy-related inquiries and requests (or ones which at least offer that as an option). General contact forms should only be entered here in rare cases, e.g. if the company has neither an email address nor a privacy-related web form.",
+            "description": "A URL to a web form where the company can be reached for GDPR requests.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#webform",
             "format": "uri"
         },
         "pgp-fingerprint": {
             "type": "string",
             "title": "PGP fingerprint",
-            "description": "Fingerprint of the PGP key of the email address used to send privacy-related inquiries and requests to the company. The PGP key should be found by this key on public keyservers. Please check the key thoroughly before entering it.",
+            "description": "Fingerprint of the PGP key of the email address used to send GDPR requests to the company.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#pgp-key-fingerprint-and-url",
             "pattern": "^([0-9A-F]{4} ){5}( [0-9A-F]{4}){5}$"
         },
         "pgp-url": {
             "type": "string",
             "title": "PGP URL",
-            "description": "URL, where the PGP key of the email address used to send privacy-related inquiries and requests to the company can be downloaded. The protocol *must* be https and the domain has to belong to the repective authority. Please check the key thoroughly before entering it.",
+            "description": "URL, where the PGP key of the email address used to send GDPR requests to the company can be downloaded.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#pgp-key-fingerprint-and-url",
             "format": "uri"
         },
         "web": {
             "type": "string",
             "title": "Website",
-            "description": "The company's main website. Include the protocol, e.g. `https://`.",
+            "description": "The company's main website.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#website",
             "format": "uri"
         },
         "sources": {
             "type": "array",
             "title": "Sources",
             "description": "A list of sources for the record. Preferably from the company's official website.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#sources",
             "uniqueItems": true,
             "minItems": 1,
             "items": {
@@ -108,7 +122,8 @@
         "required-elements": {
             "type": "array",
             "title": "Required elements",
-            "description": "A list of identification elements the user has to provide for requests to the company. Only to be filled in if they have been confirmed. This should be the absolute minimum the user has to specify.",
+            "description": "A list of identification elements the user has to provide for requests to the company.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#required-elements",
             "uniqueItems": true,
             "items": {
                 "type": "object",
@@ -116,7 +131,7 @@
                     "desc": {
                         "type": "string",
                         "title": "Description",
-                        "description": "A clear description of the identification element."
+                        "description": "A clear label for the identification element."
                     },
                     "type": {
                         "type": "string",
@@ -138,44 +153,52 @@
         "request-language": {
             "type": "string",
             "title": "Request language",
-            "description": "The language requests to the company (or specifically its branch as specified in the respective record) should be in. Has to be an ISO 639-1 language code. If not specified, fallback to the interface language.",
+            "description": "The language requests to the company should be in.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#request-language",
             "pattern": "^[a-z]{2}$"
         },
         "custom-access-template": {
             "type": "string",
             "title": "Custom access template",
-            "description": "The path to a custom template for data access requests to this company, if necessary."
+            "description": "The path to a custom template for data access requests to this company, if necessary.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#custom-templates"
         },
         "custom-erasure-template": {
             "type": "string",
             "title": "Custom erasure template",
-            "description": "The path to a custom template for data erasure requests to this company, if necessary."
+            "description": "The path to a custom template for data erasure requests to this company, if necessary.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#custom-templates"
         },
         "custom-rectification-template": {
             "type": "string",
             "title": "Custom rectification template",
-            "description": "The path to a custom template for data rectification requests to this company, if necessary."
+            "description": "The path to a custom template for data rectification requests to this company, if necessary.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#custom-templates"
         },
         "custom-objection-template": {
             "type": "string",
             "title": "Custom objection template",
-            "description": "The path to a custom template for direct marketing objection requests to this company, if necessary."
+            "description": "The path to a custom template for direct marketing objection requests to this company, if necessary.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#custom-templates"
         },
         "needs-id-document": {
             "type": "boolean",
             "title": "Needs ID document?",
-            "description": "Whether an ID document is necessary for all requests to this company. Only to be set to `true` if an ID document is confirmed to be required in all circumstances. Default is `false`."
+            "description": "Whether an ID document is necessary for all requests to this company.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#needs-id-document"
         },
         "suggested-transport-medium": {
             "type": "string",
             "title": "Suggested transport medium",
-            "description": "The transport medium a user should use for their privacy-related inquiries and requests. If a specific privacy@[domain.tld] email address is available, 'email' should be specified. If no value is specified, the default is 'email' if the record has an email address specified or 'letter' otherwise.",
+            "description": "The transport medium a user should use for their GDPR requests.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#suggested-transport-medium",
             "enum": [ "fax", "letter", "email", "webform" ]
         },
         "comments": {
             "type": "array",
             "title": "Comments",
             "description": "A list of notes relevant to the record.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#comments",
             "items": {
                 "type": "string",
                 "format": "text"
@@ -184,20 +207,23 @@
         "quality": {
             "type": "string",
             "title": "Quality",
-            "description": "The quality of the record based on how it was compiled. The following are the allowed values (in order of descending quality): 'tested' (someone has successfully sent a request using the details in the record), 'verified' (a human has checked the data and confirmed it, likely by observing it on the company's website), 'imported' (the record was acquired from an existing data set that may not specifically collect privacy contacts but was still verified by a human who is not part of the project), 'scraped' (the record was created by a machine and has not been verified).",
+            "description": "The quality of the record based on how it was compiled.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#quality",
             "enum": [ "tested", "verified", "imported", "scraped" ],
             "default": "verified"
         },
         "facet-group": {
             "type": "string",
             "title": "Facet group",
-            "description": "If the record falls into one of the listed groups, choose that one. Otherwise, leave this field blank. This allows us to limit the amount of records of which there are many (churches, schools, etc.) returned in searches.",
+            "description": "If the record falls into one of the listed groups, choose that one. Otherwise, leave this field blank.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#facet-group",
             "enum": [ "church", "school" ]
         },
         "nsfw": {
             "type": "boolean",
             "title": "NSFW",
             "description": "Is this company “not safe for work“, i.e. does it offer content or services that fall under applicable youth protection laws and are only meant for adults? Only set if `true`.",
+            "datenanfragenReference": "https://github.com/datenanfragen/data/blob/master/docs/reference/companies.md#nsfw",
             "enum": [ true ]
         }
     },

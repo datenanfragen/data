@@ -10,3 +10,7 @@ addFormats(ajv, { mode: 'fast' });
 addMoreFormats(ajv);
 // json-forms uses the `text` format for multi-line strings.
 ajv.addFormat('text', { validate: () => true, type: 'string' });
+
+// We use the custom keyword `datenanfragenReference` to make it possible for our (also custom) JSON schema forms
+// library to link the fields to our reference docs.
+ajv.addKeyword({ keyword: 'datenanfragenReference', schemaType: 'string' });
