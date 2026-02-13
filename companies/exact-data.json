@@ -1,0 +1,15 @@
+{
+    "slug": "exact-data",
+    "relevant-countries": [
+        "cz"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Exact Data",
+    "address": "info@exactdata.com",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3260"
+    ]
+}
