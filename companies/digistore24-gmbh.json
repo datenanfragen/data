@@ -1,0 +1,22 @@
+{
+    "slug": "digistore24-gmbh",
+    "relevant-countries": [
+        "de",
+        "es",
+        "dk",
+        "nl"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Digistore24 GmbH",
+    "address": "St.-Godehard-Straße 32\n31139 Hildesheim\nGermany",
+    "phone": "+49 511 547470",
+    "email": "datenschutz@digistore24.com",
+    "sources": [
+        "https://www.digistore24.com/page/privacy/en",
+        "https://github.com/datenanfragen/data/pull/3196"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
