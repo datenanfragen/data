@@ -1,0 +1,22 @@
+{
+    "slug": "bybit",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Bybit EU GmbH",
+    "runs": [
+        "Bybit"
+    ],
+    "address": "Wagramer Straße 19/33, Wien, 1220, Austria",
+    "email": "support@bybit.com",
+    "web": "https://www.bybit.com/",
+    "sources": [
+        "https://lei.bloomberg.com/leis/view/5299005V5GBSN2A4C303",
+        "https://github.com/datenanfragen/data/pull/3190"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
