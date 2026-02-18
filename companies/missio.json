@@ -1,0 +1,19 @@
+{
+    "slug": "missio",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "missio -- Internationales Katholisches Missionswerk",
+    "address": "missio\nPettenkofer-Str. 26-28\n80336 München",
+    "phone": "+49 89 54195961",
+    "fax": "+49 89 51625701",
+    "email": "info@missio.de",
+    "web": "https://www.missio.com",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3157"
+    ]
+}
