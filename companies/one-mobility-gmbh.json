@@ -1,0 +1,22 @@
+{
+    "slug": "one-mobility-gmbh",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "One Mobility GmbH",
+    "runs": [
+        "ÖBB Personenverkehr AG",
+        "OÖ Verkehrsverbund-Organisations GmbH Nfg. & Co KG"
+    ],
+    "address": "Schwindgasse 4/3, 1040 Wien",
+    "email": "datenschutz@one-mobility.at",
+    "sources": [
+        "datenschutz@one-mobility.at",
+        "https://github.com/datenanfragen/data/pull/3375"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
