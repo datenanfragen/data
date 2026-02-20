@@ -65,5 +65,8 @@
         "*.ts": [
             "bash -c 'tsc' # See: https://github.com/okonet/lint-staged/issues/825#issuecomment-674575655"
         ]
+    },
+    "dependencies": {
+        "libphonenumber-js": "^1.12.37"
     }
 }
