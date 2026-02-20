@@ -1,0 +1,27 @@
+{
+    "slug": "skon",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication",
+        "ads"
+    ],
+    "name": "SKON",
+    "runs": [
+        "S-KON New Business AG",
+        "S-KON Gruppe",
+        "S-KON Management Kontor GmbH",
+        "S-KON Sales Kontor Hamburg GmbH",
+        "S-KON eKontor 24 GmbH",
+        "Gethandy.de"
+    ],
+    "address": "Gasstraße 4c 22761 Hamburg",
+    "email": "datenschutz@skon.de",
+    "web": "https://skon.de/",
+    "sources": [
+        "https://skon.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/3369"
+    ],
+    "quality": "verified"
+}
