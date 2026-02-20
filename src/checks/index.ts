@@ -6,6 +6,7 @@ import finalNewlineCheck from './record/final-newline';
 import matchFilenameSlugCheck from './record/match-filename-slug';
 import nameInAddressCheck from './record/name-in-address';
 import passRecordSchemaCheck from './record/pass-schema';
+import phoneNumberFormatCheck from './record/phone-number-format';
 import suggestedMediumExistsCheck from './record/suggested-medium-exists';
 import trimAddressLinesCheck from './record/trim-address-lines';
 import trimStringFieldsCheck from './record/trim-string-fields';
@@ -37,6 +38,7 @@ const linters = {
             matchFilenameSlugCheck,
             nameInAddressCheck,
             passRecordSchemaCheck,
+            phoneNumberFormatCheck,
             suggestedMediumExistsCheck,
             trimAddressLinesCheck,
             trimStringFieldsCheck,

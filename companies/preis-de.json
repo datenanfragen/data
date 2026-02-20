@@ -1,20 +1,20 @@
 {
-  "slug": "preis-de",
-  "relevant-countries": [
-    "de"
-  ],
-  "categories": [
-    "commerce"
-  ],
-  "name": "comparado GmbH",
-  "address": "Auf der Hude 87\n21339 Lüneburg\nDeutschland",
-  "phone": "+49 4131 99 93 280",
-  "fax": "+49 4131 99 93 281",
-  "email": "datenschutz@comparado.de",
-  "web": "https://www.preis.de",
-  "sources": [
-    "https://www.preis.de/impressum/#datenschutz"
-  ],
-  "suggested-transport-medium": "email",
-  "quality": "verified"
+    "slug": "preis-de",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "comparado GmbH",
+    "address": "Auf der Hude 87\n21339 Lüneburg\nDeutschland",
+    "phone": "+49 4131 9993280",
+    "fax": "+49 4131 9993281",
+    "email": "datenschutz@comparado.de",
+    "web": "https://www.preis.de",
+    "sources": [
+        "https://www.preis.de/impressum/#datenschutz"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
