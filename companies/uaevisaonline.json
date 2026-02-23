@@ -1,0 +1,19 @@
+{
+    "slug": "uaevisaonline",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "UAE Visa Online Center",
+    "address": "Office 300, 3rd Floor, Bin Fahad Building",
+    "email": "social@uaevisaonline.center",
+    "web": "https://www.uaevisaonline.center",
+    "sources": [
+        "UAE Visa Online",
+        "https://github.com/datenanfragen/data/pull/3101"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
