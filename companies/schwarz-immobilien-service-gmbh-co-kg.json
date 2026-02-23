@@ -1,0 +1,17 @@
+{
+    "slug": "schwarz-immobilien-service-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Schwarz Immobilien Service GmbH & Co. KG",
+    "address": "Stiftsbergstraße 1\n74172 Neckarsulm\nDeutschland",
+    "phone": "+49 7132 30486100",
+    "email": "datenschutz@mail.schwarz",
+    "sources": [
+        "https://rosenberg-quartier.de/datenschutz?hidebanner=true",
+        "https://rosenberg-quartier.de/impressum?hidebanner=true",
+        "https://github.com/datenanfragen/data/pull/3090"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
