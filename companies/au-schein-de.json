@@ -8,13 +8,14 @@
     ],
     "name": "Dr. Ansay AU-Schein GmbH",
     "address": "Hartungstraße 14\n20146 Hamburg\nDeutschland",
-    "phone": "+49 40 445589",
+    "phone": "+49 6150 2475",
     "email": "datenschutz@AU-Schein.de",
     "web": "https://www.au-schein.de",
     "sources": [
         "https://www.dransay.com/datenschutz/",
-        "https://github.com/datenanfragen/data/pull/1551"
+        "https://github.com/datenanfragen/data/pull/1551",
+        "https://github.com/datenanfragen/data/pull/3386"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "letter",
     "quality": "verified"
 }
