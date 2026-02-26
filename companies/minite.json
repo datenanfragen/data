@@ -1,0 +1,17 @@
+{
+    "slug": "minite",
+    "relevant-countries": [
+        "nl"
+    ],
+    "name": "Minite Works B.V.",
+    "address": "Burgemeester Oudlaan 50, 3062 PA Rotterdam",
+    "email": "hello@minite.works",
+    "webform": "https://www.minite.works/en/contact",
+    "web": "https://www.minite.works/",
+    "sources": [
+        "https://www.minite.works/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3002"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
