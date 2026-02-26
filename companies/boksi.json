@@ -1,0 +1,21 @@
+{
+    "slug": "boksi",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Boksi Solutions Oy",
+    "address": "Lönnrotinkatu 18 A\n00100, Helsinki\nFinland",
+    "phone": "+358 44 9833155",
+    "email": "gdpr@boksi.com",
+    "web": "https://boksi.com/",
+    "sources": [
+        "https://boksi.com/privacy-policy",
+        "https://boksi.com/de/impressum",
+        "https://github.com/datenanfragen/data/pull/2995"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
