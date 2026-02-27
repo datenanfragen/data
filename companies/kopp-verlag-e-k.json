@@ -1,0 +1,15 @@
+{
+    "slug": "kopp-verlag-e-k",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Kopp Verlag e.K.",
+    "address": "Bertha-Benz-Straße 10\n72108 Rottenburg\nDeutschland",
+    "phone": "+49 7472 98060",
+    "email": "datenschutzbeauftragter@kopp.de",
+    "sources": [
+        "https://www.kopp-verlag.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2976"
+    ],
+    "quality": "verified"
+}
