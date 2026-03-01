@@ -1,0 +1,20 @@
+{
+    "slug": "kronansapotek",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Kronans Apotek AB",
+    "address": "Box 30094\n104 25 Stockholm\nSweden",
+    "phone": "+46 77 161 26 12",
+    "email": "gdpr@kronansapotek.se",
+    "web": "https://kronansapotek.se",
+    "sources": [
+        "https://www.kronansapotek.se/villkor/integritetspolicy/",
+        "https://github.com/datenanfragen/data/pull/3324"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
