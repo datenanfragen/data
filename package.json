@@ -1,48 +1,47 @@
 {
     "engines": {
-        "node": ">=14.0.0"
+        "node": ">=20.19.0"
     },
     "devDependencies": {
         "@babel/runtime": "^7.11.0",
         "@baltpeter/tsconfig": "^3.0.0",
         "@segment/ajv-human-errors": "^2.0.0",
         "@types/all-the-cities": "^3.1.0",
-        "@types/chunk": "^0.0.0",
-        "@types/glob": "^7.1.4",
-        "@types/marked": "^4.0.2",
-        "@types/marked-terminal": "^3.1.2",
-        "@types/node": "^14.14.20",
-        "@typescript-eslint/eslint-plugin": "^4.12.0",
-        "@typescript-eslint/parser": "^4.12.0",
+        "@types/chunk": "^0.0.2",
+        "@types/marked": "^6.0.0",
+        "@types/marked-terminal": "^6.1.1",
+        "@types/node": "^20",
+        "@typescript-eslint/eslint-plugin": "^8.46.2",
+        "@typescript-eslint/parser": "^8.46.2",
         "ajv": "^8.6.3",
-        "ajv-formats": "^2.1.1",
+        "ajv-formats": "^3.0.1",
         "ajv-formats-draft2019": "^1.6.1",
         "all-the-cities": "^3.1.0",
         "arg": "^5.0.1",
         "as-table": "^1.0.55",
         "babel-eslint": "^10.1.0",
-        "chunk": "^0.0.2",
-        "countries-list": "^2.6.1",
-        "eslint": "^7.17.0",
-        "eslint-config-prettier": "^7.1.0",
+        "chunk": "^0.0.3",
+        "countries-list": "^3.2.0",
+        "eslint": "^9.38.0",
+        "eslint-config-prettier": "^10.1.8",
         "eslint-plugin-eslint-comments": "^3.2.0",
-        "eslint-plugin-import": "^2.22.1",
-        "eslint-plugin-json": "^3.1.0",
+        "eslint-plugin-import": "^2.32.0",
+        "eslint-plugin-json": "^4.0.1",
         "eslint-plugin-optimize-regex": "^1.2.1",
         "filter-anything": "^2.2.1",
-        "glob": "^7.1.6",
+        "glob": "^11",
         "husky": "^4.3.7",
         "json-source-map": "^0.6.1",
         "jsonpointer": "^5.0.0",
-        "lint-staged": "^10.5.3",
-        "marked": "^4.0.12",
-        "marked-terminal": "^4.2.0",
+        "lint-staged": "^16.2.6",
+        "marked": "^16.4.1",
+        "marked-terminal": "^7.3.0",
         "picocolors": "^1.0.0",
         "prettier": "^2.2.1",
-        "quicktype": "^16.0.12",
+        "quicktype": "^23.2.6",
         "ts-node": "^10.2.1",
-        "type-fest": "^2.5.1",
-        "typescript": "5.1.6",
+        "type-fest": "^5.1.0",
+        "typescript": "^5.9.3",
         "typesense": "^1.2.2"
     },
     "scripts": {
@@ -65,5 +64,11 @@
         "*.ts": [
             "bash -c 'tsc' # See: https://github.com/okonet/lint-staged/issues/825#issuecomment-674575655"
         ]
+    },
+    "dependencies": {
+        "@eslint/compat": "^1.4.0",
+        "@eslint/eslintrc": "^3.3.1",
+        "@eslint/js": "^9.38.0",
+        "globals": "^16.4.0"
     }
 }
