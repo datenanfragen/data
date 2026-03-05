@@ -1,0 +1,18 @@
+{
+    "slug": "lastpass",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "LastPass Ireland Limited",
+    "address": "Ella House, 41.2 Merrion Square, Dublin 2 D02 NP96, Irland",
+    "email": "privacy@lastpass.com",
+    "web": "https://www.lastpass.com",
+    "sources": [
+        "https://www.lastpass.com/de/legal-center/privacy-notice",
+        "https://github.com/datenanfragen/data/pull/3393"
+    ],
+    "quality": "verified"
+}
