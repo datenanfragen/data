@@ -12,12 +12,15 @@
     ],
     "address": "Schiphol Boulevard 195\n1118 BG Schiphol\nThe Netherlands",
     "email": "privacy@discord.com",
+    "webform": "https://support.discord.com/hc/en-us/articles/360004027692-Requesting-a-Copy-of-your-Data",
     "web": "https://discord.com",
     "sources": [
         "https://discord.com/privacy",
-        "https://github.com/datenanfragen/data/pull/1159"
+        "https://github.com/datenanfragen/data/pull/1159",
+        "https://support.discord.com/hc/en-us/articles/360004027692-Requesting-a-Copy-of-your-Data",
+        "https://github.com/datenanfragen/data/pull/3361"
     ],
     "request-language": "en",
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
