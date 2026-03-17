@@ -7,13 +7,16 @@
     "categories": [
         "commerce"
     ],
-    "name": "Picnic Technologien B.V.",
+    "name": "Picnic Technologies B.V.",
     "address": "Van Marwijk Kooystraat 15\n1114 AG Amsterdam\nThe Netherlands",
     "email": "privacy@picnic.nl",
-    "web": "https://picnic.app/de/",
+    "web": "https://picnic.app",
     "sources": [
         "https://picnic.app/de/datenschutz/",
-        "https://github.com/datenanfragen/data/pull/2300"
+        "https://github.com/datenanfragen/data/pull/2300",
+        "https://picnic.app/nl/privacyverklaring/",
+        "https://picnic.app/fr/politique-de-confidentialite/",
+        "https://github.com/datenanfragen/data/pull/3398"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
