@@ -1,0 +1,19 @@
+{
+    "slug": "quickbookintegration",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "QuickBooks Integrations",
+    "address": "15500 Voss Road,Suite #636 Sugar Land, TX 77498",
+    "phone": "2345678911",
+    "email": "theinfo155@gmail.com",
+    "web": "https://www.quickbookintegration.com/",
+    "sources": [
+        "QBIS",
+        "https://github.com/datenanfragen/data/pull/3404"
+    ],
+    "quality": "verified"
+}
