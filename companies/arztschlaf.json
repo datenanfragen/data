@@ -1,0 +1,18 @@
+{
+    "slug": "arztschlaf",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Arztschlaf.com",
+    "address": "Buchsteinweg, Mariendorf, Berlin,  12107",
+    "phone": "31647198559",
+    "web": "https://arztschlaf.com/",
+    "sources": [
+        "https://arztschlaf.com/datenschutzerklarung/",
+        "https://github.com/datenanfragen/data/pull/3405"
+    ],
+    "quality": "verified"
+}
