@@ -10,13 +10,13 @@
     "runs": [
         "Fidor Bank AG (ehem.)"
     ],
-    "address": "Maximilianstr. 27\n80539 München\nDeutschland",
+    "address": "Maximilianstraße 2\n80539 München\nDeutschland",
     "email": "fidor-treuhand@legaldata.law",
     "webform": "https://fidor-datentreuhand.legaldata.law/",
     "web": "https://fgmanagement.de/",
     "sources": [
         "https://fgmanagement.de/",
-        "https://legaldata.law/impressum/",
+        "https://fidor-datentreuhand.legaldata.law",
         "https://github.com/datenanfragen/data/pull/3407"
     ],
     "required-elements": [
