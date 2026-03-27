@@ -1,0 +1,18 @@
+{
+    "slug": "cleverbuy-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Cleverbuy GmbH",
+    "address": "Höffgeshofweg 17\n47807 Krefeld\nDeutschland",
+    "phone": "021511541560",
+    "email": "info@cleverbuy.de",
+    "sources": [
+        "https://www.cleverbuy.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/3100"
+    ],
+    "quality": "verified"
+}
