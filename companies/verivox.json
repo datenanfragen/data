@@ -21,7 +21,7 @@
     "address": "Max-Jarecki-Straße 21\n69115 Heidelberg\nDeutschland",
     "phone": "+49 6221 7961100",
     "fax": "+49 6221 79618669",
-    "email": "service@verivox.de",
+    "email": "datenschutz@verivox.de",
     "web": "https://www.verivox.de/",
     "sources": [
         "https://www.verivox.de/company/datenschutz/",
@@ -30,7 +30,8 @@
         "https://www.preis24.de/",
         "https://www.toptarif.de/",
         "https://www.verivox.de/company/impressum/",
-        "https://github.com/datenanfragen/data/pull/1859"
+        "https://github.com/datenanfragen/data/pull/1859",
+        "https://github.com/datenanfragen/data/pull/3408"
     ],
     "required-elements": [
         {
