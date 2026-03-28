@@ -6,13 +6,15 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Nintendo of Europe GmbH",
+    "name": "Nintendo of Europe SE",
     "address": "Goldsteinstraße 235\n60528 Frankfurt am Main\nGermany",
     "email": "dataprotectionofficer@nintendo.de",
     "web": "https://www.nintendo.de/",
     "sources": [
         "https://www.nintendo.de/Rechtliche-Informationen/Webseiten-und-My-Nintendo-Store-Datenschutzerklarung/Webseiten-und-My-Nintendo-Store-Datenschutzerklarung-637785.html",
-        "https://github.com/datenanfragen/data/issues/424"
+        "https://github.com/datenanfragen/data/issues/424",
+        "https://www.nintendo.co.jp/ir/pdf/2022/221108_6e.pdf",
+        "https://github.com/datenanfragen/data/pull/3410"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
