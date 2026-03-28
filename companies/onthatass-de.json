@@ -1,5 +1,8 @@
 {
     "slug": "onthatass-de",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
@@ -8,12 +11,8 @@
     "phone": "+31 73 303 5855",
     "email": "hello-de@onthatass.com",
     "web": "https://onthatass.com/de-de/",
-    "sources": [
-        "https://onthatass.com/de-de/imprint",
-        "https://github.com/datenanfragen/data/pull/1969"
-    ],
     "quality": "verified",
-    "relevant-countries": [
-        "de"
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3409"
     ]
 }
