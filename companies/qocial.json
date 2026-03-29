@@ -1,0 +1,16 @@
+{
+    "slug": "qocial",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Qocial",
+    "address": "Qocial.com",
+    "sources": [
+        "https://qocial.com",
+        "https://github.com/datenanfragen/data/pull/3412"
+    ],
+    "quality": "verified"
+}
