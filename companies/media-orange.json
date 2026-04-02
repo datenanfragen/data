@@ -1,0 +1,18 @@
+{
+    "slug": "media-orange",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Media Orange International®",
+    "address": "Schmiedestraße 13\n29525 Uelzen",
+    "phone": "+49 581 9735171",
+    "fax": "+49 581 9735170",
+    "email": "info@media-orange.de",
+    "webform": "https://media-orange.de/kontakt/",
+    "web": "https://media-orange.de",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3415"
+    ]
+}
