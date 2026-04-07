@@ -1,7 +1,7 @@
 {
     "slug": "glovo",
     "relevant-countries": [
-        "all"
+        "es"
     ],
     "categories": [
         "commerce"
@@ -20,18 +20,17 @@
     "web": "https://glovoapp.com/",
     "sources": [
         "https://glovoapp.com/en/legal/privacy/",
-        "https://github.com/datenanfragen/data/pull/1149"
+        "https://github.com/datenanfragen/data/pull/1149",
+        "https://github.com/datenanfragen/data/pull/3416"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Email",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "email",
