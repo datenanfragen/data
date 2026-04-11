@@ -1,17 +1,19 @@
 {
-    "slug": "aplus-energy-gmbh",
+    "slug": "ostrom-de",
     "relevant-countries": [
         "de"
     ],
-    "name": "Aplus Energy GmbH",
-    "runs": [
-        "Ostrom.de"
+    "categories": [
+        "utility"
     ],
-    "address": "c./o. heyData GmbH\nGormann Straße 14\n10119 Berlin",
+    "name": "Ostrom GmbH",
+    "address": "Straßburger Str. 55\n10405 Berlin\nDeutschland",
     "email": "datenschutz@ostrom.de",
+    "web": "https://www.ostrom.de/",
     "sources": [
         "https://www.ostrom.de/privacy-policy",
         "https://github.com/datenanfragen/data/pull/2856"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
