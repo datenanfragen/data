@@ -4,7 +4,7 @@
         "all"
     ],
     "categories": [
-        "entertainment"
+        "finance"
     ],
     "name": "Cognosphere Pte. Ltd.",
     "runs": [
@@ -17,7 +17,8 @@
     "sources": [
         "https://account.hoyoverse.com/#/about/privacy",
         "https://genshin.hoyoverse.com/en/company/privacy",
-        "https://github.com/datenanfragen/data/pull/1717"
+        "https://github.com/datenanfragen/data/pull/1717",
+        "https://github.com/datenanfragen/data/pull/3420"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
