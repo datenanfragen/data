@@ -1,0 +1,24 @@
+{
+    "slug": "xxxlutz",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "BDSK Handels GmbH & Co. KG",
+    "runs": [
+        "XXXLutz"
+    ],
+    "address": "Mergentheimer Str. 59\n97084 Würzburg\nDeutschland",
+    "email": "datenschutzbeauftragter@xxxlutz.de",
+    "web": "https://www.xxxlutz.de/c/privacy",
+    "sources": [
+        "https://www.xxxlutz.de/c/privacy",
+        "https://github.com/datenanfragen/data/pull/3166"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [],
+    "quality": "verified"
+}
