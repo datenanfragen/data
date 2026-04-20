@@ -1,0 +1,19 @@
+{
+    "slug": "emma-matratze",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Emma Matratzen GmbH",
+    "address": "zu Händen: Datenschutzbeauftragter\nWilhelm-Leuschner-Str. 78\n60329 Frankfurt am Main\nDeutschland",
+    "email": "privacy@emma-sleep.com",
+    "web": "https://www.emma-matratze.de/datenschutz/",
+    "sources": [
+        "https://www.emma-matratze.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/3179"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
