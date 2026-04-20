@@ -1,0 +1,21 @@
+{
+    "slug": "abuntis",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Abuntis GmbH & Co. KG",
+    "address": "Spitaler Straße 16\n20095 Hamburg\nDeutschland",
+    "phone": "040/30954391",
+    "email": "service@abuntis.com",
+    "web": "https://abuntis.com/impressum/",
+    "sources": [
+        "https://abuntis.com/impressum/",
+        "https://www.ddv.de/unternehmen/abuntis-gmbh-co-kg.html",
+        "https://github.com/datenanfragen/data/pull/3001"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
