@@ -1,13 +1,15 @@
 {
     "slug": "dailymotion",
     "relevant-countries": [
+        "all",
         "all"
     ],
     "categories": [
         "social media",
-        "ads"
+        "social media"
     ],
     "name": "Dailymotion Inc.",
+    "runs": [],
     "address": "140 Boulevard Malesherbes\n75017 Paris\nFrance",
     "phone": "+33 1 77 35 11 00",
     "email": "feedback@dailymotion.com",
@@ -16,7 +18,9 @@
         "https://www.dailymotion.com/legal/privacy",
         "https://www.dailymotion.com/de/about",
         "https://www.dailymotion.com/legal",
-        "https://github.com/datenanfragen/data/issues/430"
+        "https://github.com/datenanfragen/data/issues/430",
+        "https://github.com/datenanfragen/data/pull/3423"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
