@@ -1,0 +1,32 @@
+{
+    "slug": "corp-roblox",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media",
+        "entertainment"
+    ],
+    "name": "Roblox Corporation",
+    "runs": [
+        "Guilded Inc."
+    ],
+    "address": "3150 S. Delaware St.\nSan Mateo, California, 94403",
+    "phone": "(888) 858-2569",
+    "email": "privacy@roblox.com",
+    "webform": "http://roblox.com/support",
+    "web": "https://corp.roblox.com/",
+    "sources": [
+        "https://en.help.roblox.com/hc/en-us/articles/4402871541140-US-State-Privacy-Policy-Addendum",
+        "https://github.com/datenanfragen/data/pull/3194"
+    ],
+    "required-elements": [
+        {
+            "desc": "Email",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
