@@ -1,0 +1,21 @@
+{
+    "slug": "eternelexperiences",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Eternel Experiences",
+    "address": "5333 Avenue Casgrain Unit 1103, Montreal, QC H2T 1X3, Canada",
+    "phone": "5148620619",
+    "fax": "5148620619",
+    "email": "eternelexperience1@gmail.com",
+    "webform": "Eternel Experiences",
+    "web": "https://eternelexperiences.com/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3424"
+    ]
+}
