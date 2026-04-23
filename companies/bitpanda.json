@@ -1,0 +1,20 @@
+{
+    "slug": "bitpanda",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Bitpanda GmbH",
+    "address": "Stella-Klein-Löw Weg 17\n1020 Wien\nÖsterreich",
+    "email": "privacy@bitpanda.com",
+    "web": "https://www.bitpanda.com/",
+    "sources": [
+        "https://cdn.bitpanda.com/terms-and-conditions/bitpanda-group-privacy-notice-bitpanda-de-2.0.0.pdf",
+        "https://www.bitpanda.com/de/legal/bitpanda-group-privacy-notice",
+        "https://github.com/datenanfragen/data/pull/3018"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
