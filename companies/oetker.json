@@ -1,0 +1,16 @@
+{
+    "slug": "oetker",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Dr. August Oetker Nahrungsmittel KG",
+    "address": "Dr. August Oetker Nahrungsmittel KG\nDatenschutzbeauftragter\nLutterstraße 14\n33617 Bielefeld",
+    "phone": "+49 521 1550",
+    "email": "oetker-nm@corporate-data-protection.com",
+    "web": "https://www.oetker.de",
+    "sources": [
+        "https://www.oetker.de/datenschutzhinweis",
+        "https://github.com/datenanfragen/data/pull/2908"
+    ],
+    "quality": "verified"
+}
