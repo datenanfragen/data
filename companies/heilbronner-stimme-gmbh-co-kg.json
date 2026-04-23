@@ -1,0 +1,20 @@
+{
+    "slug": "heilbronner-stimme-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Heilbronner Stimme GmbH & Co. KG",
+    "address": "Allee 2\n74072 Heilbronn",
+    "phone": "+49 7131 6150",
+    "fax": "+49 7131 615200",
+    "email": "datenschutz@stimme-mediengruppe.de",
+    "sources": [
+        "https://www.stimme.de/service/ueberuns/datenschutz/datenschutzerklaerung-art-2188299",
+        "https://www.stimme.de/service/ueberuns/impressum/impressum-art-1284151",
+        "https://github.com/datenanfragen/data/pull/3089"
+    ],
+    "quality": "verified"
+}
