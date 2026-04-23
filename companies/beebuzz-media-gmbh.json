@@ -1,0 +1,18 @@
+{
+    "slug": "beebuzz-media-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "beebuzz media GmbH",
+    "runs": [
+        "Inside-Digital"
+    ],
+    "address": "Kölnstraße 50\n50321 Brühl\nDeutschland",
+    "phone": "+49 2232 5044660",
+    "email": "datenschutz@inside-digital.de",
+    "sources": [
+        "https://www.inside-digital.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2845"
+    ],
+    "quality": "verified"
+}
