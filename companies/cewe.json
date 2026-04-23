@@ -1,0 +1,16 @@
+{
+    "slug": "cewe",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "CEWE Stiftung & Co. KGaA",
+    "address": "Meerweg 30-32\n26133 Oldenburg",
+    "phone": "+49 441 404299",
+    "email": "datenschutz@cewe.de",
+    "web": "https://www.cewe.de/",
+    "sources": [
+        "https://www.cewe.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/2964"
+    ],
+    "quality": "verified"
+}
