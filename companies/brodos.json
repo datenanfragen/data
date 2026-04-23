@@ -1,0 +1,27 @@
+{
+    "slug": "brodos",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Brodos AG",
+    "runs": [
+        "aktionspromotion.de"
+    ],
+    "address": "Erlanger Str. 9-13\n91083 Baiersdorf\nDeutschland",
+    "phone": "+49 9133 7777",
+    "fax": "+49 9133 7770149",
+    "email": "datenschutz@brodos.de",
+    "web": "https://brodos.com",
+    "sources": [
+        "https://brodos.com/impressum/",
+        "https://brodos.com/datenschutz/",
+        "https://aktionspromotion.de/datenschutz/",
+        "https://aktionspromotion.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/2997"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
