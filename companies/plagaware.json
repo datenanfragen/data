@@ -7,14 +7,14 @@
         "school"
     ],
     "name": "PlagAware GmbH",
-    "address": "Brumersweg 35/1\n89233 Neu-Ulm\nGermany",
+    "address": "Brumersweg 35/1\n89233 Neu-Ulm\nDeutschland",
     "phone": "+49 731 80159900",
     "email": "datenschutz@plagaware.com",
-    "webform": "https://my.plagaware.com/contact",
     "web": "https://www.plagaware.com/de",
-    "suggested-transport-medium": "email",
-    "quality": "verified",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/3426"
-    ]
+        "https://www.plagaware.com/de/service/datenschutz",
+        "https://www.plagaware.com/de/service/impressum"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
