@@ -30,7 +30,9 @@
     "sources": [
         "https://legal.yahoo.com/ie/en/yahoo/privacy/index.html",
         "https://www.yahooinc.com/our-brands/",
-        "https://github.com/datenanfragen/data/pull/2162"
+        "https://github.com/datenanfragen/data/pull/2162",
+        "https://github.com/datenanfragen/data/pull/3429"
     ],
+    "suggested-transport-medium": "fax",
     "quality": "verified"
 }
