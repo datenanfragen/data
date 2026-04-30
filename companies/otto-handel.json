@@ -6,30 +6,28 @@
     "categories": [
         "commerce"
     ],
-    "name": "Otto (GmbH & Co KG)",
+    "name": "Otto GmbH & Co. KGaA",
     "address": "Werner-Otto-Straße 1 – 7\n22179 Hamburg\nDeutschland",
     "phone": "+49 40 64610",
     "fax": "+49 40 64618571",
-    "email": "datenschutzauskunft@otto.de",
+    "email": "datenschutzauskunft@info.otto.de",
     "web": "https://www.otto.de/",
     "sources": [
         "https://www.otto.de/shoppages/service/datenschutz",
         "https://www.otto.de/shoppages/service/impressum",
-        "https://github.com/datenanfragen/data/pull/2215"
+        "https://github.com/datenanfragen/data/pull/2215",
+        "https://github.com/datenanfragen/data/pull/3432"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "E-Mail-Adresse",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
