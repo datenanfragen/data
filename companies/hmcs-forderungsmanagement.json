@@ -1,0 +1,21 @@
+{
+    "slug": "hmcs-forderungsmanagement",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "HmcS Gesellschaft für Forderungsmanagement mbH",
+    "address": "Brüsseler Straße 7\n30539 Hannover\nDeutschland",
+    "phone": "+49 511 7633330",
+    "fax": "+49 511 76333390",
+    "email": "datenschutz@hmcs.com",
+    "web": "https://hmcs.com",
+    "sources": [
+        "https://hmcs.com/impressum.php",
+        "https://hmcs.com/datenschutz.php"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "tested"
+}
