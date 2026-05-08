@@ -1,0 +1,18 @@
+{
+    "slug": "euro-fh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Europäische Fernhochschule Hamburg GmbH",
+    "address": "Doberaner Weg 20, 22143 Hamburg, Deutschland",
+    "email": "datenschutz@euro-fh.de",
+    "web": "https://www.euro-fh.de/datenschutz/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3436"
+    ]
+}
