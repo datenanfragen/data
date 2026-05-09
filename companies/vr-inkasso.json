@@ -1,0 +1,21 @@
+{
+    "slug": "vr-inkasso",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "VR Inkasso GmbH",
+    "address": "Brüsseler Straße 7\n30539 Hannover\nDeutschland",
+    "phone": "+49 511 7633320",
+    "fax": "+49 511 76333290",
+    "email": "datenschutz@vr-inkasso.de",
+    "web": "https://www.vr-inkasso.de",
+    "sources": [
+        "https://www.vr-inkasso.de/impressum.html",
+        "https://www.vr-inkasso.de/datenschutz.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "tested"
+}
