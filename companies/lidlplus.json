@@ -1,0 +1,18 @@
+{
+    "slug": "lidlplus",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Lidl Plus",
+    "address": "Lidl Stiftung & Co. KG\nStiftsbergstraße 1\n74167 Neckarsulm\nDeutschland",
+    "email": "datenschutz@lidlplus.de",
+    "web": "https://www.lidlplus.de",
+    "sources": [
+        "https://www.lidl.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2396"
+    ],
+    "quality": "verified"
+}
