@@ -1,0 +1,18 @@
+{
+    "slug": "verbraucherzentrale-bayern-e-v",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Verbraucherzentrale Bayern e. V.",
+    "address": "Mozartstraße 9\n80336 München\nDeutschland",
+    "phone": "+49 89 5527940",
+    "email": "info@vzbayern.de",
+    "sources": [
+        "https://www.verbraucherzentrale-bayern.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2813"
+    ],
+    "quality": "verified"
+}
