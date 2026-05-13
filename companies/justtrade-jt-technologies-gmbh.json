@@ -1,0 +1,18 @@
+{
+    "slug": "justtrade-jt-technologies-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "justTRADE – JT Technologies GmbH",
+    "address": "justTRADE – JT Technologies GmbH\nHamburger Allee 14\n60486 Frankfurt am Main",
+    "email": "datenschutz@justtrade.com",
+    "sources": [
+        "https://www.justtrade.com/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3440"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
