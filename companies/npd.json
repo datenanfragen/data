@@ -7,13 +7,13 @@
         "political party"
     ],
     "name": "Nationaldemokratische Partei Deutschlands (NPD)",
-    "address": "Seelenbinderstraße 42\n12555 Berlin\nDeutschland",
-    "phone": "+49 30 650110",
-    "fax": "+49 30 65011140",
-    "email": "datenschutz@npd.de",
+    "address": "Postfach: 90 23 04\n21057 Hamburg",
+    "phone": "+49 1520 5772171",
+    "email": "post@npd-voran.de",
     "web": "https://npd.de/",
     "sources": [
-        "https://npd.de/datenschutz/"
+        "https://npd-voran.de/Impressum.php",
+        "https://github.com/datenanfragen/data/pull/3442"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
