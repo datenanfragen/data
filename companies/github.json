@@ -5,12 +5,13 @@
     ],
     "name": "GitHub, Inc.",
     "address": "88 Colin P Kelly Jr St\nSan Francisco\nCA 94107\nUnited States of America",
-    "phone": "+1 877 448 4820",
+    "phone": "0781586888",
     "email": "privacy@github.com",
     "web": "https://github.com/",
     "sources": [
         "https://help.github.com/articles/github-privacy-statement/",
-        "https://enterprise.github.com/contact"
+        "https://enterprise.github.com/contact",
+        "https://github.com/datenanfragen/data/pull/3447"
     ],
     "request-language": "en",
     "suggested-transport-medium": "email",
