@@ -1,0 +1,14 @@
+{
+    "slug": "venize-trading-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Venize Trading GmbH",
+    "address": "Dortmunder Straße 34\n28199 Bremen",
+    "email": "info@venize.de",
+    "sources": [
+        "https://www.venize.de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/3355"
+    ],
+    "quality": "verified"
+}
