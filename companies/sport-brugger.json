@@ -1,0 +1,25 @@
+{
+    "slug": "sport-brugger",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Sport - Brugger GmbH",
+    "runs": [
+        "Filiale Sportlife Brugger"
+    ],
+    "address": "Dorfstraße 98\n6540 Sölden/Ötztal\nÖsterreich",
+    "phone": "++43 (0) 5254 30062",
+    "fax": "++43 (0) 5254 30062-2",
+    "email": "info@sport-brugger.at",
+    "web": "https://www.sport-brugger.at",
+    "sources": [
+        "https://www.sport-brugger.at/impressum.html",
+        "https://www.sport-brugger.at/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3305"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
