@@ -8,13 +8,14 @@
     ],
     "name": "Revolut Ltd.",
     "address": "9th Floor\n107 Cheapside\nLondon\nEC2V 6DN\nUnited Kingdom",
-    "phone": "+44 20 3322 8352",
+    "phone": "+353 1 443 4342",
     "email": "dpo@revolut.com",
     "web": "https://www.revolut.com",
     "sources": [
         "https://github.com/datenanfragen/data/issues/401",
         "https://www.revolut.com/en-DE/legal/privacy",
-        "https://github.com/datenanfragen/data/pull/2305"
+        "https://github.com/datenanfragen/data/pull/2305",
+        "https://github.com/datenanfragen/data/pull/3451"
     ],
     "required-elements": [
         {
@@ -30,8 +31,8 @@
             "type": "email"
         },
         {
-            "type": "birthdate",
-            "desc": "Date of birth"
+            "desc": "Date of birth",
+            "type": "birthdate"
         },
         {
             "desc": "Phone number",
