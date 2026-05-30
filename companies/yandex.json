@@ -31,11 +31,12 @@
         "AppMetrica"
     ],
     "address": "c/o Global DC Oy\nMoreenikatu 6\n04600 Mantsala\nFinland",
-    "webform": "https://yandex.com/support/common/en/troubleshooting/main.html",
+    "webform": "https://yandex.com/support/abuse/en/troubleshooting/other",
     "web": "https://yandex.com/",
     "sources": [
         "https://yandex.com/legal/confidential/?lang=en",
-        "https://yandex.com/dev/appmetrica/index/"
+        "https://yandex.com/dev/appmetrica/index/",
+        "https://github.com/datenanfragen/data/pull/3453"
     ],
     "quality": "verified"
 }
