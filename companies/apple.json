@@ -22,12 +22,15 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Email or Apple ID",
-            "type": "email"
+            "type": "email",
+            "optional": false
         }
     ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
