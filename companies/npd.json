@@ -7,14 +7,13 @@
         "political party"
     ],
     "name": "Nationaldemokratische Partei Deutschlands (NPD)",
-    "address": "Postfach: 90 23 04\n21057 Hamburg",
+    "address": "Postfach 90 23 04\n21057 Hamburg\nDeutschland",
     "phone": "+49 1520 5772171",
-    "email": "post@npd-voran.de",
-    "web": "https://npd.de/",
+    "email": "e-post@npd-voran.de",
     "sources": [
+        "https://npd-voran.de/Datenschutz.php",
         "https://npd-voran.de/Impressum.php",
         "https://github.com/datenanfragen/data/pull/3442"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
