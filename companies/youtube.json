@@ -1,0 +1,18 @@
+{
+    "slug": "youtube",
+    "relevant-countries": [
+        "ie"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Benjie Simmons",
+    "address": "Sacramento county\nUS, Sacramento, Sacramento county",
+    "phone": "7686796789",
+    "web": "https://www.youtube.com/",
+    "sources": [
+        "https://www.youtube.com/",
+        "https://github.com/datenanfragen/data/pull/3455"
+    ],
+    "quality": "verified"
+}
