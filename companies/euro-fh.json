@@ -7,12 +7,18 @@
         "school"
     ],
     "name": "Europäische Fernhochschule Hamburg GmbH",
-    "address": "Doberaner Weg 20, 22143 Hamburg, Deutschland",
+    "runs": [
+        "Institut für Lern- und Bildungssysteme GmbH",
+        "HAF Hamburger Akademie für Fernstudien GmbH",
+        "Fernakademie für Erwachsenenbildung GmbH"
+    ],
+    "address": "Doberaner Weg 20\n22143 Hamburg\nDeutschland",
     "email": "datenschutz@euro-fh.de",
-    "web": "https://www.euro-fh.de/datenschutz/",
-    "suggested-transport-medium": "email",
-    "quality": "verified",
+    "web": "https://www.euro-fh.de",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/3436"
-    ]
+        "https://github.com/datenanfragen/data/pull/3436",
+        "https://www.euro-fh.de/datenschutz/"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
