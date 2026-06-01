@@ -1,0 +1,18 @@
+{
+    "slug": "youtube",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "yocima2959",
+    "address": "Boryny 29/5, 70-017 Szczecin, Poland",
+    "phone": "7686796789",
+    "email": "yocima2959@ukr.net",
+    "webform": "https://www.youtube.com/",
+    "web": "https://www.youtube.com/",
+    "sources": [
+        "56776565775",
+        "https://github.com/datenanfragen/data/pull/3454"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
