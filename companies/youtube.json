@@ -1,0 +1,15 @@
+{
+    "slug": "youtube",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Vazivskiy44",
+    "address": "Doornhoek 4265, 5465 TG Veghel, NL",
+    "phone": "7686796789",
+    "email": "pr1vatbank@ukr.net",
+    "web": "https://www.youtube.com/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3456"
+    ]
+}
