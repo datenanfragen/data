@@ -14,8 +14,9 @@
     "sources": [
         "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/privacy-policy",
         "https://www.adyen.com/de_DE/richtlinien-und-haftungsausschluss/impressum",
-        "https://github.com/datenanfragen/data/pull/3095"
+        "https://github.com/datenanfragen/data/pull/3095",
+        "https://github.com/datenanfragen/data/pull/3457"
     ],
-    "suggested-transport-medium": "webform",
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
