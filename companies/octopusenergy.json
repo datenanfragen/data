@@ -1,0 +1,24 @@
+{
+    "slug": "octopusenergy",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses",
+        "commerce"
+    ],
+    "name": "Octopus Energy Germany GmbH",
+    "runs": [
+        "Strom und Gas"
+    ],
+    "address": "August-Everding-Straße 25, 81671 München",
+    "phone": "0800 400 8010",
+    "fax": "089 1250364 91",
+    "email": "hallo@­octopusenergy.de",
+    "web": "https://octopusenergy.de",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3381"
+    ]
+}
