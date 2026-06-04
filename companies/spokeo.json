@@ -1,0 +1,17 @@
+{
+    "slug": "spokeo",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Spokeo, Inc.",
+    "runs": [
+        "That'sThem"
+    ],
+    "address": "Spokeo, Inc.\n556 S. Fair Oaks Ave.\nSuite # 101-179\nPasadena, CA USA 91105",
+    "web": "https://www.spokeo.com/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3414"
+    ]
+}
