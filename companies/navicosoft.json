@@ -1,0 +1,22 @@
+{
+    "slug": "navicosoft",
+    "relevant-countries": [
+        "at",
+        "all"
+    ],
+    "categories": [
+        "commerce",
+        "telecommunication"
+    ],
+    "name": "navicosoft",
+    "address": "Level 23, Tower 5/727 Collins St, Docklands VIC 3008",
+    "phone": "61493515704",
+    "email": "sales@navicosoft.com",
+    "web": "https://www.navicosoft.com/",
+    "sources": [
+        "https://www.navicosoft.com/",
+        "https://github.com/datenanfragen/data/pull/3441"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
