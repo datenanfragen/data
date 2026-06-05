@@ -1,0 +1,21 @@
+{
+    "slug": "rsd-reisen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "RSD Reise Service Deutschland GmbH",
+    "address": "Elsenheimerstraße 61\n80687 München \nGermany",
+    "web": "https://www.rsd-reisen.de/",
+    "sources": [
+        "Direktwerbung per Post",
+        "https://github.com/datenanfragen/data/pull/3192"
+    ],
+    "suggested-transport-medium": "letter",
+    "comments": [
+        "Regelmäßige Direktwerbung per Post durch die RSD Reise Service Deutschland GmbH"
+    ],
+    "quality": "verified"
+}
