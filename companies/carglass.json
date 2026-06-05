@@ -1,0 +1,19 @@
+{
+    "slug": "carglass",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Carglass",
+    "runs": [],
+    "address": "Carglass Schweiz AG\nBeschwerde Datenschutz\nRue des Fléchères 7A\n1274 Signy-Centre",
+    "email": "privacy@carglass.ch",
+    "sources": [
+        "https://www.carglass.ch/de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3458"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
