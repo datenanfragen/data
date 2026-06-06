@@ -1,0 +1,17 @@
+{
+    "slug": "electronic-arts-limited",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Electronic Arts Limited",
+    "runs": [
+        "EA Play"
+    ],
+    "address": "Electronic Arts\nOnslow House\nOnslow Street\nGuildford\nGU1 4TN",
+    "email": "dpo@ea.com",
+    "sources": [
+        "https://ico.org.uk/ESDWebPages/Entry/Z1855358",
+        "https://github.com/datenanfragen/data/pull/3292"
+    ],
+    "quality": "verified"
+}
