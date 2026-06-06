@@ -1,0 +1,21 @@
+{
+    "slug": "anita",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Anita Dr. Helbig GmbH",
+    "address": "Anita Dr. Helbig GmbH\ndiese vertr. d. d. Geschäftsführer Georg Weber-Unger, Georg (jun.) Weber-Unger, Johannes Weber-Unger\nEndach 40\n6330 Kufstein\nÖsterreich",
+    "phone": "0800 - 20 24 44",
+    "email": "privacy.eu@anita.net",
+    "web": "https://www.anita.com/de/cms/kontakt-rechtliches/impressum",
+    "comments": [
+        "Hat bisher alle Datenanfragen und Löschersuchen ignoriert!"
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3086"
+    ]
+}
