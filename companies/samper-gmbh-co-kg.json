@@ -1,0 +1,16 @@
+{
+    "slug": "samper-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "Samper GmbH & Co. KG",
+    "address": "Juri-Gagarin-Ring 37\n99084 Erfurt\nDeutschland",
+    "phone": "+49 361 740860",
+    "email": "Web_Auftrag@RSamper.de",
+    "sources": [
+        "https://www.rsamper.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/2851"
+    ],
+    "quality": "verified"
+}
