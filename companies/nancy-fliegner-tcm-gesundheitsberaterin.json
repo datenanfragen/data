@@ -1,0 +1,18 @@
+{
+    "slug": "nancy-fliegner-tcm-gesundheitsberaterin",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Nancy Fliegner TCM Gesundheitsberaterin",
+    "address": "Rudolstädter Straße 119\n99099 Erfurt\nDeutschland",
+    "phone": "+49 176 30789943",
+    "email": "nancyfliegnertcm@gmail.com",
+    "sources": [
+        "https://www.gesund-mit-fliegner.de/",
+        "https://github.com/datenanfragen/data/pull/2781"
+    ],
+    "quality": "verified"
+}
