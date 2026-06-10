@@ -1,0 +1,18 @@
+{
+    "slug": "az-delivery",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "AZ-Delivery Vertriebs GmbH",
+    "address": "AZ-Delivery Vertriebs GmbH\nz.H.: Datenschutzbeauftragter \nLärchenstraße 10\n94469 Deggendorf",
+    "phone": "+49 991 99927827",
+    "email": "support@az-delivery.com",
+    "web": "https://www.az-delivery.de",
+    "sources": [
+        "https://www.az-delivery.de/pages/impressum",
+        "https://www.az-delivery.de/pages/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3394"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
