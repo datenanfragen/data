@@ -1,0 +1,19 @@
+{
+    "slug": "linea-global",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "linea global",
+    "address": "302 Roundhay Road, Leeds, United Kingdom\n302 Roundhay Road, Leeds, United Kingdom",
+    "phone": "08000548305",
+    "email": "avabrandon111@gmail.com",
+    "webform": "https://lineaglobal.co.uk/",
+    "sources": [
+        "financail services",
+        "https://github.com/datenanfragen/data/pull/3145"
+    ],
+    "quality": "verified"
+}
