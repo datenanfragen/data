@@ -1,0 +1,22 @@
+{
+    "slug": "hunqz",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "HUNQZ B.V.",
+    "runs": [
+        "ROMEO B.V."
+    ],
+    "address": "De Ruijterkade 7 \n1013AA Amsterdam",
+    "email": "legal@hunqz.com",
+    "web": "https://www.hunqz.com",
+    "sources": [
+        "https://www.hunqz.com/en/privacy/",
+        "https://github.com/datenanfragen/data/pull/2867"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
