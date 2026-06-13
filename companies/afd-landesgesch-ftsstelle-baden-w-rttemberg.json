@@ -1,0 +1,23 @@
+{
+    "slug": "afd-landesgesch-ftsstelle-baden-w-rttemberg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "political party"
+    ],
+    "name": "AfD-Landesgeschäftsstelle Baden-Württemberg",
+    "address": "Postfach 70 05 46\n70574 Stuttgart\nDeutschland",
+    "phone": "0711  72 60 54 00",
+    "fax": "0711  72 60 54 25",
+    "email": "datenschutz@afd-bw.de",
+    "sources": [
+        "https://afd-bw.de/datenschutz",
+        "https://afd-bw.de/partei/kontakt",
+        "https://github.com/datenanfragen/data/pull/2996"
+    ],
+    "comments": [
+        "Telefon und Fax sind von genereller Kontakt-Seite"
+    ],
+    "quality": "verified"
+}
