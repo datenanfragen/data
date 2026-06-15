@@ -46,6 +46,6 @@
             "type": "email"
         }
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
