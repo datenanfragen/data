@@ -11,7 +11,7 @@
     "name": "Apple Distribution International Ltd.",
     "address": "Hollyhill Industrial Estate\nHollyhill, Cork\nIreland",
     "email": "contactus.de@euro.apple.com",
-    "webform": "https://www.apple.com/privacy/contact/",
+    "webform": "https://www.apple.com/legal/privacy/contact/",
     "web": "https://www.apple.com",
     "sources": [
         "https://www.apple.com/legal/privacy/de-ww/",
@@ -23,11 +23,13 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Email or Apple ID",
-            "type": "email"
+            "type": "email",
+            "optional": false
         }
     ],
     "suggested-transport-medium": "webform",
