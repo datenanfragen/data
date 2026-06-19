@@ -17,18 +17,17 @@
         "https://www.apple.com/legal/privacy/de-ww/",
         "https://www.apple.com/legal/privacy/en-ww/",
         "https://www.apple.com/de/contact/",
-        "https://github.com/datenanfragen/data/pull/3450"
+        "https://github.com/datenanfragen/data/pull/3450",
+        "https://github.com/datenanfragen/data/pull/3465"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Email or Apple ID",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
     "suggested-transport-medium": "webform",
