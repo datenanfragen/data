@@ -1,7 +1,7 @@
 {
     "slug": "arvato-infoscore",
     "relevant-countries": [
-        "de"
+        "ch"
     ],
     "categories": [
         "collection agency"
@@ -17,18 +17,17 @@
     "sources": [
         "https://www.riverty.com/de/impressum/",
         "https://www.northdata.de/Riverty%20Group%20GmbH,%20Baden-Baden/Amtsgericht%20Mannheim%20HRB%20202547",
-        "https://github.com/datenanfragen/data/issues/276"
+        "https://github.com/datenanfragen/data/issues/276",
+        "https://github.com/datenanfragen/data/pull/3466"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
     "suggested-transport-medium": "email",
