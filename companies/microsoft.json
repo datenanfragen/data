@@ -34,14 +34,15 @@
         "Xbox and gaming (z.B. www.xbox.com)"
     ],
     "address": "One Microsoft Place\nSouth County Business Park\nLeopardstown\nDublin 18\nIreland",
-    "phone": "+353 1 706 3117",
+    "phone": "+353 1 443 4342",
     "webform": "https://www.microsoft.com/en-us/concern/privacyrequest-msa",
     "web": "https://www.microsoft.com",
     "sources": [
         "https://privacy.microsoft.com/privacystatement",
         "https://www.microsoft.com/de-de/concern/privacy",
         "https://github.com/datenanfragen/data/pull/2187",
-        "https://github.com/datenanfragen/data/pull/2294"
+        "https://github.com/datenanfragen/data/pull/2294",
+        "https://github.com/datenanfragen/data/pull/3468"
     ],
     "quality": "verified"
 }
