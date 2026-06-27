@@ -1,0 +1,20 @@
+{
+    "slug": "naild",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "NAILD DR Department GmbH",
+    "address": "Eresburgstr. 24-29\n12103 Berlin\nDeutschland",
+    "phone": "+49 170 6279938",
+    "email": "service@naild.de",
+    "web": "https://www.naild.de/",
+    "sources": [
+        "https://www.naild.de/",
+        "https://github.com/datenanfragen/data/pull/3469"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
