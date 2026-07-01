@@ -4,7 +4,7 @@
         "de"
     ],
     "categories": [
-        "finance"
+        "commerce"
     ],
     "name": "PayPal (Europe) S.à r.l. et Cie, S.C.A.",
     "address": "22 – 24 Boulevard Royal\nL-2449 Luxembourg\nLuxembourg",
@@ -14,7 +14,8 @@
     "web": "https://www.paypal.com",
     "sources": [
         "https://www.paypal.com/de/webapps/mpp/ua/privacy-full",
-        "https://www.paypal.com/de/webapps/mpp/imprint"
+        "https://www.paypal.com/de/webapps/mpp/imprint",
+        "https://github.com/datenanfragen/data/pull/3475"
     ],
     "required-elements": [
         {
