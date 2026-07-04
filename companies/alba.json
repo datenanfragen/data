@@ -1,21 +1,21 @@
 {
-  "slug": "alba",
-  "relevant-countries": [
-    "de"
-  ],
-  "categories": [
-    "utility"
-  ],
-  "name": "ALBA Group plc & Co. KG",
-  "address": "Knesebeckstr. 56 – 58\n10719 Berlin\nDeutschland",
-  "phone": "+49 30 351823260",
-  "fax": "+49 30 351829398",
-  "email": "datenschutz@alba.info",
-  "web": "https://www.alba.info",
-  "sources": [
-    "https://www.alba.info/datenschutz.html",
-    "https://www.alba.info/impressum.html"
-  ],
-  "suggested-transport-medium": "email",
-  "quality": "verified"
+    "slug": "alba",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "ALBA Group plc & Co. KG",
+    "address": "Knesebeckstr. 56 – 58\n10719 Berlin\nDeutschland",
+    "phone": "+49 30 351823260",
+    "fax": "+49 30 351829398",
+    "email": "datenschutz@alba.info",
+    "web": "https://www.alba.info",
+    "sources": [
+        "https://www.alba.info/datenschutz.html",
+        "https://www.alba.info/impressum.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
 }
