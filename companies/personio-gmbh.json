@@ -8,7 +8,7 @@
     ],
     "name": "Personio GmbH",
     "address": "Rundfunkplatz 4\n80335 München\nDeutschland",
-    "email": "datenschutz@personio.de",
+    "email": "privacy@personio.com",
     "sources": [
         "https://www.personio.de/datenschutzerklaerung/",
         "https://github.com/datenanfragen/data/pull/1147"
