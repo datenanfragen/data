@@ -10,12 +10,13 @@
     "address": "Hanauer Landstraße 164\n60314 Frankfurt am Main\nDeutschland",
     "phone": "+49 69 42091325",
     "fax": "+49 69 42091353",
-    "email": "datenschutz@universum-group.de",
+    "email": "datenschutz@universum-inkasso.de",
     "webform": "https://www.universum-group.de/datenschutz/selbstauskunft/",
     "web": "https://www.universum-group.de",
     "sources": [
         "https://www.universum-group.de/datenschutz/",
-        "https://www.universum-group.de/impressum/"
+        "https://www.universum-group.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/3805"
     ],
     "required-elements": [
         {
@@ -27,9 +28,9 @@
             "type": "address"
         }
     ],
+    "suggested-transport-medium": "email",
     "comments": [
         "Erbitten frühere Anschriften nur, wenn Änderung in den letzten 36 Monaten stattgefunden hat."
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
