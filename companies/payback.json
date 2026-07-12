@@ -9,11 +9,6 @@
         "finance"
     ],
     "name": "PAYBACK GmbH",
-    "runs": [
-        "PAYBACK Internet Assistent (PIA)",
-        "PAYBACK PAY",
-        "PAYBACK App"
-    ],
     "address": "Theresienhöhe 12\n80339 München\nDeutschland",
     "phone": "+49 89 540208020",
     "fax": "+49 180 5 055108",
@@ -30,17 +25,20 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Kundenummer",
-            "type": "input"
+            "type": "input",
+            "optional": false
         },
         {
             "desc": "Adresse",
             "type": "address"
         }
     ],
+    "needs-id-document": false,
     "suggested-transport-medium": "webform",
     "comments": [
         "Achtung: Faxnummer ist kostenpflichtig (0,14 €/Min. aus dem deutschen Festnetz, max. 0,42 €/Min. aus dem Mobilfunknetz)!"
