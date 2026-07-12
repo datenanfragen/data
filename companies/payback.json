@@ -9,22 +9,18 @@
         "finance"
     ],
     "name": "PAYBACK GmbH",
-    "runs": [
-        "PAYBACK American Express-Karte",
-        "PAYBACK Internet Assistent",
-        "PAYBACK Partner Services",
-        "PAYBACK Prämienshop"
-    ],
     "address": "Theresienhöhe 12\n80339 München\nDeutschland",
     "phone": "+49 89 540208020",
     "fax": "+49 180 5 055108",
     "email": "datenschutz@payback.de",
+    "webform": "https://www.payback.de/info/mein-payback/kontakt",
     "web": "https://www.payback.de",
     "sources": [
         "https://www.payback.de/info/datenschutz-paybackde",
         "https://www.payback.de/info/impressum",
         "https://github.com/datenanfragen/data/issues/217",
-        "https://github.com/datenanfragen/data/pull/2747"
+        "https://github.com/datenanfragen/data/pull/2747",
+        "https://github.com/datenanfragen/data/pull/3804"
     ],
     "required-elements": [
         {
@@ -43,7 +39,7 @@
         }
     ],
     "needs-id-document": false,
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "comments": [
         "Achtung: Faxnummer ist kostenpflichtig (0,14 €/Min. aus dem deutschen Festnetz, max. 0,42 €/Min. aus dem Mobilfunknetz)!"
     ],
