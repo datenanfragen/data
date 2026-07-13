@@ -1,0 +1,18 @@
+{
+    "slug": "tink",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Tink Germany GmbH",
+    "address": "Tink Germany GmbH\nDer Datenschutzbeauftragte\nGottfried-Keller-Strasse 33\n81245 München\nDeutschland",
+    "email": "datenschutz@tink-germany.com",
+    "web": "https://tink.com/",
+    "sources": [
+        "https://tink.com/de/impressum/",
+        "https://github.com/datenanfragen/data/pull/3430"
+    ],
+    "quality": "verified"
+}
