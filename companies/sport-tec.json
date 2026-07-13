@@ -1,0 +1,26 @@
+{
+    "slug": "sport-tec",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Sport-Tec GmbH",
+    "address": "Lemberger Straße 255\nD-66955 Pirmasens",
+    "phone": "+49 6331 14800",
+    "email": "datenschutz@sport-tec.de",
+    "web": "https://www.sport-tec.de",
+    "sources": [
+        "https://www.sport-tec.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3009"
+    ],
+    "required-elements": [
+        {
+            "desc": "Kunden-Nr.",
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
