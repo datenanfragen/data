@@ -1,0 +1,16 @@
+{
+    "slug": "bliq",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Bliq GmbH",
+    "address": "Mariendorfer Damm 1\n12099 Berlin",
+    "email": "dpo@bliq.app",
+    "web": "https://www.bliq.app/",
+    "sources": [
+        "https://www.bliq.app/policy-drv-en",
+        "https://github.com/datenanfragen/data/pull/3035"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
