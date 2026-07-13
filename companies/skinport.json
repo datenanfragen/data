@@ -1,0 +1,16 @@
+{
+    "slug": "skinport",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Skinport GmbH",
+    "address": "Steiermärker Straße 3-5\n70469 Stuttgart",
+    "phone": "+49 711 25269444",
+    "email": "info@skinport.com",
+    "web": "https://skinport.com/",
+    "sources": [
+        "https://skinport.com/privacy",
+        "https://github.com/datenanfragen/data/pull/3332"
+    ],
+    "quality": "verified"
+}
