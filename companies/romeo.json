@@ -1,0 +1,22 @@
+{
+    "slug": "romeo",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "ROMEO B.V.",
+    "runs": [
+        "HUNQZ B.V."
+    ],
+    "address": "De Ruijterkade 7 \n1013AA Amsterdam",
+    "email": "legal@planetromeo.com",
+    "web": "https://www.romeo.com",
+    "sources": [
+        "https://www.romeo.com/en/privacy/",
+        "https://github.com/datenanfragen/data/pull/2866"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
