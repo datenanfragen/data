@@ -5,7 +5,7 @@
     ],
     "name": "DHL Hub Leipzig GmbH",
     "address": "Hermann-Koehl-Str. 1\n04435 Schkeuditz\nDeutschland",
-    "email": "lejhubdatenschutz@dhl.com",
+    "email": "datenschutz@dpdhl.com",
     "web": "https://www.dhl.de",
     "sources": [
         "https://www.dhl.de/de/toolbar/footer/datenschutz.html",
