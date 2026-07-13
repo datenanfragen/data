@@ -1,24 +1,21 @@
 {
     "slug": "lidl",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "commerce"
     ],
-    "name": "Lidl Digital International GmbH & Co. KG",
+    "name": "Lidl Stiftung & Co. KG",
     "runs": [
-        "Lidl Online-Shop (lidl-shop.de)"
+        "Lidl Dienstleistung GmbH & Co. KG"
     ],
-    "address": "Stiftsbergstraße 1\n74172 Neckarsulm\nDeutschland",
-    "phone": "+49 800 4353361",
-    "fax": "+49 33055 200331",
-    "email": "datenschutz@lidl-shop.de",
-    "web": "https://www.lidl.de/",
+    "address": "Bonfelder Straße 2, 74206 Bad Wimpfen",
+    "email": "datenschutz@lidl.de",
+    "web": "https://lidl.de",
     "sources": [
-        "https://www.lidl.de/de/datenschutz/s21",
-        "https://www.lidl.de/de/impressum/s5",
-        "https://www.lidl.de/de/gesetzliche-zusatzinformationen/s9"
-    ],
-    "relevant-countries": [
-        "de"
+        "https://unternehmen.lidl.de/datenschutz?hidebanner=true",
+        "https://github.com/datenanfragen/data/pull/3480"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
