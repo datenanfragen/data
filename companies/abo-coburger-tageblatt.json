@@ -1,0 +1,18 @@
+{
+    "slug": "abo-coburger-tageblatt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Coburger Tageblatt",
+    "address": "mgo Lokale Medien GmbH & Co. KG\nHindenburgstr. 3a\n96450 Coburg",
+    "phone": "0800 / 188 2992",
+    "email": "kundenservice@coburger-tageblatt.de",
+    "web": "https://abo.coburger-tageblatt.de/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3159"
+    ]
+}
