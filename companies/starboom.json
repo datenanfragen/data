@@ -1,0 +1,19 @@
+{
+    "slug": "starboom",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "StarBoom",
+    "address": "Yumnam Leikai Leirembi Maning\nleirembi maning",
+    "phone": "08729992567",
+    "email": "starboomteam@gmail.com",
+    "web": "https://starboom.in",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2884"
+    ]
+}
