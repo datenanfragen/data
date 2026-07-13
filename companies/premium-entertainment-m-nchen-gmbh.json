@@ -1,0 +1,29 @@
+{
+    "slug": "premium-entertainment-m-nchen-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "PREMIUM Entertainment München GmbH",
+    "runs": [
+        "ASTOR Film Lounge im ARRI München",
+        "ASTOR Film Lounge Berlin",
+        "ASTOR Film Lounge MyZeil Frankfurt",
+        "Residenz Köln - eine ASTOR Film Lounge",
+        "Zoo Palast Berlin"
+    ],
+    "address": "c/o Vater Solution GmbH\nBoschstr. 5\n24118 Kiel",
+    "email": "colange@vater-gruppe.de",
+    "sources": [
+        "https://muenchen.premiumkino.de/datenschutz",
+        "https://berlin.premiumkino.de/datenschutz",
+        "https://frankfurt.premiumkino.de/datenschutz",
+        "https://koeln.premiumkino.de/datenschutz",
+        "https://zoopalast.premiumkino.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3338"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
