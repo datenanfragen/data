@@ -1,0 +1,25 @@
+{
+    "slug": "casinoallianz",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "CasinoAllianz",
+    "address": "Marienplatz 28, 80331 München",
+    "phone": "089264256",
+    "email": "hilfe@casinoallianz.com",
+    "webform": "https://casinoallianz.com/datenschutzerklarung/",
+    "web": "https://casinoallianz.com/",
+    "sources": [
+        "https://casinoallianz.com/nutzungsbedingungen/",
+        "https://casinoallianz.com/uber-uns/",
+        "https://casinoallianz.com/impressum/",
+        "https://casinoallianz.com/kontakt/",
+        "https://github.com/datenanfragen/data/pull/2832"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
