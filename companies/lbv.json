@@ -1,0 +1,22 @@
+{
+    "slug": "lbv",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "LBV -- Landesbund für Vogel- und Naturschutz in Bayern e.V.",
+    "address": "Eisvogelweg 1\n91161 Hilpoltstein",
+    "phone": "+49 9174 47755000",
+    "fax": "+49 9174 47757075",
+    "email": "datenschutz@lbv.de",
+    "web": "https://www.lbv.de/",
+    "comments": [
+        "Datenschutzbeauftragter\nStephan Eschenbacher\nEschenbacher IT-Consulting & Service\nEckenstraße 50\n90480 Nürnberg\n\nTelefon: +49 911 401823\nE-Mail: datenschutz@lbv.de"
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3160"
+    ]
+}
