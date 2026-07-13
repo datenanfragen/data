@@ -1,0 +1,14 @@
+{
+    "slug": "eisenbahn-und-verkehrsgewerkschaft-evg",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Eisenbahn- und Verkehrsgewerkschaft (EVG)",
+    "address": "Weilburger Straße 24\n60326 Frankfurt am Main\nDeutschland",
+    "email": "datenschutz@evg-online.org",
+    "sources": [
+        "https://www.evg-online.org/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2820"
+    ],
+    "quality": "verified"
+}
