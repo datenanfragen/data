@@ -1,0 +1,30 @@
+{
+    "slug": "imtron",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "Imtron GmbH",
+    "runs": [
+        "ISY (isy-online.eu)",
+        "KOENIC (koenic-online.com)",
+        "OK (ok-online.com)",
+        "PEAQ (peaq-online.com)"
+    ],
+    "address": "- Datenschutz -\nMedia-Saturn-Straße 1\n85053 Ingolstadt\nDeutschland",
+    "email": "datenschutz@imtron.eu",
+    "web": "https://www.imtron.eu",
+    "sources": [
+        "https://www.imtron.eu",
+        "https://www.imtron.eu/datenschutz",
+        "https://www.isy-online.eu/datenschutz",
+        "https://www.koenic-online.com/datenschutz",
+        "https://www.ok-online.com/datenschutz",
+        "https://www.peaq-online.com/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2916"
+    ],
+    "comments": [
+        "Die Imtron GmbH ist eine Tochtergesellschaft der Media-Saturn-Holding GmbH und für Herstellung und Vertrieb der Eigenmarken ISY, KOENIC, OK und PEAQ der Handelsketten Media Markt und Saturn verantwortlich."
+    ],
+    "quality": "verified"
+}
