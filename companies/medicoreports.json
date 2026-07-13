@@ -6,17 +6,15 @@
     "categories": [
         "health"
     ],
-    "name": "Medqon Limited",
-    "runs": [
-        "Medico Reports"
-    ],
-    "address": "Alison Business Centre\n39-40 Alison Crescent\nSheffield\nS2 1AS\nUnited Kingdom",
-    "phone": "+44 330 001 0805",
-    "email": "info@medqon.co.uk",
+    "name": "Medico Reports",
+    "address": "medqon ltd 435 london road, Sheffield, S2 4HJ, United Kingdom",
+    "phone": "03300010805",
+    "email": "amendawilliams1@gmail.com",
     "web": "https://medicoreports.com/",
     "sources": [
-        "https://github.com/datenanfragen/data/pull/2636",
-        "https://medicoreports.com/privacy-policy/"
+        "info@medicoreports.com",
+        "https://github.com/datenanfragen/data/pull/3088"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
