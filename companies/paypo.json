@@ -1,0 +1,19 @@
+{
+    "slug": "paypo",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "PayPo Sp. z o.o.",
+    "address": "ul. Domaniewska 39, 02-672 Warszawa",
+    "email": "ado@paypo.pl",
+    "web": "https://paypo.pl/",
+    "sources": [
+        "https://paypo.pl/polityka-prywatnosci-i-cookies",
+        "https://github.com/datenanfragen/data/pull/2892"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
