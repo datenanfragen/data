@@ -1,0 +1,20 @@
+{
+    "slug": "cinestar",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "CMS Cinema Management Services GmbH & Co. KG",
+    "address": "Mühlenbrücke 9\n23552 Lübeck\nDeutschland",
+    "email": "datenschutz@cinestar.de",
+    "web": "https://www.cinestar.de/",
+    "sources": [
+        "https://www.cinestar.de/datenschutzbestimmungen",
+        "https://www.cinestar.de/impressum",
+        "https://github.com/datenanfragen/data/pull/3284"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
