@@ -1,0 +1,18 @@
+{
+    "slug": "muenchener-verein",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "münchener verein",
+    "address": "Pettenkoferstraße 19, 80336 München",
+    "phone": "089 / 51 52 - 10 00",
+    "fax": "089 / 51 52 - 15 01",
+    "web": "https://www.muenchener-verein.de/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3125"
+    ]
+}
