@@ -1,0 +1,23 @@
+{
+    "slug": "malteser",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Malteser Hilfsdienst e.V.",
+    "runs": [
+        "Malteser Deutschland gGmbH"
+    ],
+    "address": "Erna-Scheffler-Straße 2\n51103 Köln\nDeutschland",
+    "phone": "+49 221 98220",
+    "email": "datenschutz@malteser.org",
+    "web": "https://www.malteser.de/",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2657",
+        "https://www.malteser.de/datenschutz.html"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
