@@ -8,17 +8,19 @@
     ],
     "name": "Besurance HIS GmbH",
     "runs": [
-        "Hinweis- und Informationssystem der deutschen Versicherungswirtschaft (HIS)"
+        "Hinweis- und Informationssystem der deutschen Versicherungswirtschaft (HIS)",
+        "informa HIS (ehem.)"
     ],
     "address": "Daimlerring 4\n65205 Wiesbaden\nDeutschland",
     "phone": "+49 1515 0691844",
     "email": "datenschutz@besurance-his.de",
     "webform": "https://besurance-his.de/selbstauskunft",
-    "web": "https://www.informa-his.de",
+    "web": "https://besurance-his.de/",
     "sources": [
         "https://besurance-his.de/datenschutz",
         "https://besurance-his.de/selbstauskunft",
-        "https://besurance-his.de/kontakt"
+        "https://besurance-his.de/kontakt",
+        "https://github.com/datenanfragen/data/pull/3817"
     ],
     "required-elements": [
         {
@@ -50,7 +52,6 @@
         }
     ],
     "request-language": "de",
-    "needs-id-document": false,
     "suggested-transport-medium": "email",
     "comments": [
         "Bitten um Angabe der vorherigen Adressen für die letzten fünf Jahre, um vollständigere Auskunft erteilen zu können."
