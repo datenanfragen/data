@@ -3,28 +3,12 @@
     "relevant-countries": [
         "de"
     ],
-    "categories": [
-        "addresses"
-    ],
     "name": "Ikadis Finance GmbH",
     "address": "Hanauer Landstraße 164\n60314 Frankfurt am Main\nDeutschland",
     "sources": [
         "https://www.northdata.de/IKADIS%20Finance%20GmbH,%20Frankfurt%20a·%20Main/Amtsgericht%20Frankfurt%20am%20Main%20HRB%2015133",
         "https://github.com/datenanfragen/data/pull/3818"
     ],
-    "required-elements": [
-        {
-            "desc": "Name",
-            "type": "name"
-        },
-        {
-            "desc": "Adresse",
-            "type": "address"
-        }
-    ],
     "suggested-transport-medium": "letter",
-    "comments": [
-        "Erbitten frühere Anschriften nur, wenn Änderung in den letzten 36 Monaten stattgefunden hat."
-    ],
     "quality": "verified"
 }
