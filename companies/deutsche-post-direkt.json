@@ -12,6 +12,7 @@
     "phone": "+49 228 18915990",
     "fax": "+49 69 65301500072",
     "email": "datenschutz@postdirekt.de",
+    "webform": "https://www.deutschepost.de/de/d/deutsche-post-direkt/kontakt.html?thema=Datenschutz%20%28z.B.%20Widerspruch%20zur%20Datenverwendung%29",
     "web": "https://service.postdirekt.de/portal/",
     "sources": [
         "https://service.postdirekt.de/portal/datenschutz",
