@@ -14,7 +14,8 @@
     "web": "https://www.paypal.com",
     "sources": [
         "https://www.paypal.com/de/webapps/mpp/ua/privacy-full",
-        "https://www.paypal.com/de/webapps/mpp/imprint"
+        "https://www.paypal.com/de/webapps/mpp/imprint",
+        "https://github.com/datenanfragen/data/pull/3811"
     ],
     "required-elements": [
         {
@@ -30,5 +31,6 @@
             "type": "input"
         }
     ],
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
