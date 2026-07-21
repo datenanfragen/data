@@ -23,6 +23,7 @@
     "sources": [
         "https://www.crif.de/konsumenten/selbstauskunft/",
         "https://www.crif.de/datenschutz",
+        "https://www.crif.com/news-events/press/deltavista-gmbh-renamed-crif-gmbh/",
         "https://github.com/datenanfragen/data/issues/636",
         "https://github.com/datenanfragen/data/pull/3815"
     ],
@@ -36,6 +37,7 @@
             "type": "address"
         }
     ],
-    "suggested-transport-medium": "webform",
+    "needs-id-document": false,
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
