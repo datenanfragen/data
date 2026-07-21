@@ -1,5 +1,8 @@
 {
     "slug": "crifbuergel",
+    "relevant-countries": [
+        "de"
+    ],
     "categories": [
         "credit agency",
         "addresses"
@@ -8,17 +11,21 @@
     "runs": [
         "HYBRIGHT",
         "KYC MORE",
-        "CRIF Bürgel (ehem.)"
+        "CRIF Bürgel (ehem.)",
+        "Deltavista (ehem.)"
     ],
     "address": "Leopoldstraße 244\n80807 München\nDeutschland",
     "phone": "+49 40 898030",
     "fax": "+49 40 89803309",
     "email": "datenschutz.de@crif.com",
+    "webform": "https://selbstauskunft.crif.de/onlineForm",
     "web": "https://www.crif.de",
     "sources": [
         "https://www.crif.de/konsumenten/selbstauskunft/",
         "https://www.crif.de/datenschutz",
-        "https://github.com/datenanfragen/data/issues/636"
+        "https://www.crif.com/news-events/press/deltavista-gmbh-renamed-crif-gmbh/",
+        "https://github.com/datenanfragen/data/issues/636",
+        "https://github.com/datenanfragen/data/pull/3815"
     ],
     "required-elements": [
         {
@@ -30,10 +37,7 @@
             "type": "address"
         }
     ],
-    "relevant-countries": [
-        "de"
-    ],
     "needs-id-document": false,
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "verified"
 }
