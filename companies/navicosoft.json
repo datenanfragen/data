@@ -1,0 +1,20 @@
+{
+    "slug": "navicosoft",
+    "relevant-countries": [
+        "at"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Navicosoft Pty Ltd",
+    "address": "Level 23, Tower 5/727 Collins St, Docklands VIC 3008",
+    "phone": "+61 493 515 704",
+    "email": "asifnavicosoft@gmail.com",
+    "web": "https://www.navicosoft.com/",
+    "sources": [
+        "https://www.navicosoft.com/",
+        "https://github.com/datenanfragen/data/pull/3820"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
