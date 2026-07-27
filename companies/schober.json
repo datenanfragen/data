@@ -7,13 +7,17 @@
         "addresses"
     ],
     "name": "Capaneo GmbH",
+    "runs": [
+        "Schober Information Group Deutschland GmbH (ehem.)"
+    ],
     "address": "Meisenweg 37\n70771 Leinfelden-Echterdingen\nDeutschland",
-    "phone": "+49 7156 3040",
-    "fax": "+49 7156 304369",
+    "phone": "+49 711 9535840",
+    "fax": "+49 711 953584369",
     "email": "datenschutz@capaneo.de",
     "web": "https://capaneo.de",
     "sources": [
         "https://capaneo.de/datenschutz/",
+        "https://capaneo.de/news/aus-schober-wird-capaneo/",
         "https://github.com/datenanfragen/data/pull/775",
         "https://github.com/datenanfragen/data/pull/3824"
     ],
