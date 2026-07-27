@@ -7,6 +7,9 @@
         "collection agency"
     ],
     "name": "Ideal Inkasso UG",
+    "runs": [
+        "Ideal inkasso"
+    ],
     "address": "Huttropstr. 60\n45138 Essen\nDeutschland",
     "phone": "+49 521 44815246",
     "fax": "+49 521 448152461",
@@ -15,7 +18,8 @@
     "sources": [
         "https://www.idealinkasso.de/datenschutz/",
         "https://www.idealinkasso.de/impressum/",
-        "https://github.com/datenanfragen/data/pull/2385"
+        "https://github.com/datenanfragen/data/pull/2385",
+        "https://github.com/datenanfragen/data/pull/3822"
     ],
     "quality": "verified"
 }
