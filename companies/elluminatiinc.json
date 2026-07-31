@@ -1,0 +1,20 @@
+{
+    "slug": "elluminatiinc",
+    "relevant-countries": [
+        "sk"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "Elluminati",
+    "address": "800 Columbia St, Seattle, WA 98104, United States",
+    "phone": "+1 646 585 0540",
+    "email": "digital@elluminatiinc.com",
+    "web": "https://www.elluminatiinc.com",
+    "sources": [
+        "On-demand app development",
+        "https://github.com/datenanfragen/data/pull/3829"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
