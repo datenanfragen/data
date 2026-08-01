@@ -8,6 +8,9 @@
         "ads"
     ],
     "name": "eGENTIC GmbH",
+    "runs": [
+        "Planet49 GmbH"
+    ],
     "address": "Am Unisys-Park 1\n65843 Sulzbach/Ts\nDeutschland",
     "fax": "+49 6151 9503201",
     "email": "info@egentic.com",
@@ -16,18 +19,17 @@
         "https://www.egentic.com/datenschutz/",
         "https://github.com/datenanfragen/data/issues/52",
         "https://github.com/datenanfragen/data/pull/2661",
-        "https://github.com/datenanfragen/data/pull/3169"
+        "https://github.com/datenanfragen/data/pull/3169",
+        "https://github.com/datenanfragen/data/pull/3831"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Adresse",
-            "type": "address",
-            "optional": false
+            "type": "address"
         }
     ],
     "quality": "verified"
