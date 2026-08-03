@@ -12,11 +12,15 @@
         "DisonsDemain.be"
     ],
     "address": "c/o Meetic SAS\n53 rue de Châteaudun\nParis 9\nFrance",
+    "phone": "+33 6 09 23 13 73",
+    "email": "ipanevska@yahoo.fr",
     "webform": "https://www.disonsdemain.fr/faq/#privacyRequest",
     "web": "https://www.disonsdemain.fr",
     "sources": [
         "https://www.disonsdemain.fr/pages/misc/privacy",
-        "https://www.disonsdemain.be/pages/misc/privacy"
+        "https://www.disonsdemain.be/pages/misc/privacy",
+        "https://github.com/datenanfragen/data/pull/3832"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
