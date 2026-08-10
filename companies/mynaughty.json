@@ -1,0 +1,19 @@
+{
+    "slug": "mynaughty",
+    "relevant-countries": [
+        "ie"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Naughty Ai",
+    "address": "12 Harcourt Street, Suite 4B, Suite 4B",
+    "phone": "+353 1 264 7321",
+    "email": "yatodurazes@gmail.com",
+    "web": "https://mynaughty.ai/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3834"
+    ]
+}
