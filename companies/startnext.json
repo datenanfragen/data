@@ -4,16 +4,17 @@
         "de"
     ],
     "categories": [
-        "commerce",
-        "social media"
+        "finance",
+        "telecommunication"
     ],
-    "name": "Startnext Crowdfunding GmbH",
-    "address": "c/o PragmaProtect GmbH\nStörmthaler Str. 12\n04288 Leipzig\nDeutschland",
-    "email": "datenschutz@startnext.com",
+    "name": "Startnext GmbH",
+    "address": "heyData GmbH\nSchützenstraße 5\n10117 Berlin\nDeutschland",
+    "email": "datenschutz@heydata.eu",
     "web": "https://www.startnext.com",
     "sources": [
         "https://github.com/datenanfragen/data/issues/422",
-        "https://www.startnext.com/info/agb/datenschutz.html"
+        "https://www.startnext.com/info/agb/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/3836"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
