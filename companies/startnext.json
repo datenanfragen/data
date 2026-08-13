@@ -4,11 +4,10 @@
         "de"
     ],
     "categories": [
-        "finance",
-        "telecommunication"
+        "finance"
     ],
     "name": "Startnext GmbH",
-    "address": "heyData GmbH\nSchützenstraße 5\n10117 Berlin\nDeutschland",
+    "address": "c/o heyData GmbH\nSchützenstraße 5\n10117 Berlin\nDeutschland",
     "email": "datenschutz@heydata.eu",
     "web": "https://www.startnext.com",
     "sources": [
