@@ -1,5 +1,8 @@
 {
     "slug": "nitrado",
+    "relevant-countries": [
+        "all"
+    ],
     "categories": [
         "telecommunication"
     ],
@@ -7,16 +10,14 @@
     "runs": [
         "nitrado"
     ],
-    "address": "Griesbachstraße 10\n76185 Karlsruhe\nGermany",
+    "address": "Brauerstr. 12A\n76135 Karlsruhe\nGermany",
     "email": "datenschutz@marbis.net",
     "web": "https://server.nitrado.net",
     "sources": [
         "https://server.nitrado.net/en-GB/legal/privacy-policy",
-        "https://github.com/datenanfragen/data/pull/1965"
+        "https://github.com/datenanfragen/data/pull/1965",
+        "https://github.com/datenanfragen/data/pull/3843"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified",
-    "relevant-countries": [
-        "all"
-    ]
+    "quality": "verified"
 }
