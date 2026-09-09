@@ -1,0 +1,9 @@
+{
+    "slug": "lindnerit",
+    "name": "Lindner IT UG (haftungsbeschränkt)",
+    "reason": "out-of-scope",
+    "sources": [
+        "https://github.com/datenanfragen/data/issues/3850"
+    ],
+    "quality": "obsolete"
+}
