@@ -1,0 +1,18 @@
+{
+    "slug": "s-dharz-klinikum-nordhausen-ggmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Südharz Klinikum Nordhausen gGmbH",
+    "address": "Dr.-Robert-Koch-Straße 39\n99734 Nordhausen\nDeutschland",
+    "phone": "+49 3631 412212",
+    "email": "datenschutzbeauftragter@shk-ndh.de",
+    "sources": [
+        "https://www.shk-ndh.de/index-c.php?ID=22790#ID22794",
+        "https://github.com/datenanfragen/data/pull/2819"
+    ],
+    "quality": "verified"
+}
