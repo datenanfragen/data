@@ -1,0 +1,15 @@
+{
+    "slug": "credit-agricole",
+    "relevant-countries": [
+        "fr"
+    ],
+    "name": "Crédit Agricole",
+    "address": "Crédit Agricole S.A. \nDélégué à la Protection des Données\nDirection De la Conformité \n12 Place des Etats-Unis \n92127 Montrouge Cedex",
+    "email": "donnees.personnelles@credit-agricole-sa.fr",
+    "web": "https://www.credit-agricole.fr/",
+    "sources": [
+        "https://www.credit-agricole.com/footer/politique-de-protection-des-donnees-a-caractere-personnel",
+        "https://github.com/datenanfragen/data/pull/2898"
+    ],
+    "quality": "verified"
+}
