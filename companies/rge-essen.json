@@ -1,0 +1,16 @@
+{
+    "slug": "rge-essen",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "RGE Servicegesellschaft Essen mbH",
+    "address": "Datenschutzbeauftragter\nAm Lichtbogen 8\n45141 Essen",
+    "email": "datenschutz@rge-essen.de",
+    "web": "https://www.rge-essen.de",
+    "sources": [
+        "https://www.rge-essen.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2871"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
