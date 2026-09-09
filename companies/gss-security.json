@@ -1,0 +1,16 @@
+{
+    "slug": "gss-security",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "GSS German Security Service GmbH",
+    "address": "Friedrich-Ebert Str. 4\n42103 Wuppertal",
+    "email": "info@gss-security.de",
+    "web": "https://gss-security.de",
+    "sources": [
+        "https://gss-security.de/kontakt/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2886"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
