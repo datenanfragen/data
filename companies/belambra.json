@@ -1,0 +1,22 @@
+{
+    "slug": "belambra",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Belambra",
+    "runs": [
+        "Belambra Clubs"
+    ],
+    "address": "Belambra Clubs\n8 rue François Ory\n92120 Montrouge",
+    "email": "dpo@belambra.fr",
+    "web": "https://www.belambra.fr/",
+    "sources": [
+        "https://www.belambra.fr/protection-donnees",
+        "https://github.com/datenanfragen/data/pull/3396"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
