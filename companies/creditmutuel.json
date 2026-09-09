@@ -1,0 +1,17 @@
+{
+    "slug": "creditmutuel",
+    "relevant-countries": [
+        "fr"
+    ],
+    "name": "Crédit Mutuel",
+    "address": "Crédit Mutuel\n34, rue du Wacken\n67000 Strasbourg",
+    "email": "dpdcncm@creditmutuel.fr",
+    "webform": "https://www.creditmutuel.com/fr/nous-contacter.html",
+    "web": "https://www.creditmutuel.com/",
+    "sources": [
+        "https://www.creditmutuel.com/fr/politique-de-protection-des-donnees-personnelles.html",
+        "https://github.com/datenanfragen/data/pull/2899"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
