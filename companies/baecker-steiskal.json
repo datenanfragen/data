@@ -1,0 +1,19 @@
+{
+    "slug": "baecker-steiskal",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Steiskal GmbH & Co. KG",
+    "address": "Steiskal GmbH & Co. KG\nRadewisch 160\n24145 Kiel",
+    "email": "datenschutz@baecker-steiskal.de",
+    "web": "https://www.baecker-steiskal.de",
+    "sources": [
+        "https://www.baecker-steiskal.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/3806"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
