@@ -1,0 +1,21 @@
+{
+    "slug": "alldent-frankfurt",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "AllDent Zahnzentrum Frankfurt MVZ",
+    "address": "c/o Swetlana Winter\nCompanyCheck Deutschland GmbH\nSchillerstr. 47/49\n22767 Hamburg",
+    "phone": "+49 69 92883070",
+    "fax": "+49 69 928830710",
+    "email": "datenschutz@ccd-mail.de",
+    "web": "https://www.alldent-frankfurt.de",
+    "sources": [
+        "https://www.alldent-frankfurt.de/datenschutz.html",
+        "https://github.com/datenanfragen/data/pull/2950"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
