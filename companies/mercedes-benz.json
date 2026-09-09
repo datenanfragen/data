@@ -1,0 +1,25 @@
+{
+    "slug": "mercedes-benz",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Mercedes-Benz Group AG",
+    "runs": [
+        "Mercedes-Benz AG",
+        "Mercedes-Benz Mobility AG",
+        "Mercedes-Benz Bank AG",
+        "Mercedes-Benz Leasing Deutschland GmbH",
+        "Mercedes-Benz Automotive Mobility GmbH"
+    ],
+    "address": "Konzernbeauftragter für den Datenschutz\nHPC W079\n70546 Stuttgart\nDeutschland",
+    "phone": "+49 711 170",
+    "email": "data.protection@mercedes-benz.com",
+    "web": "https://www.mercedes-benz.de",
+    "sources": [
+        "https://www.mercedes-benz.de/passengercars/content-pool/tool-pages/legal/privacy-statement.html",
+        "https://www.mercedes-benz.de/passengercars/content-pool/tool-pages/legal/copyright.html",
+        "https://github.com/datenanfragen/data/pull/3304"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
