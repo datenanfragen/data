@@ -1,0 +1,16 @@
+{
+    "slug": "postnord",
+    "relevant-countries": [
+        "se"
+    ],
+    "name": "PostNord AB (publ)",
+    "address": "PostNord Sverige AB\nKundservice\n105 00 Stockholm\nSweden",
+    "email": "registerutdrag@postnord.com",
+    "web": "https://www.postnord.se",
+    "sources": [
+        "https://www.postnord.se/integritetspolicy",
+        "https://github.com/datenanfragen/data/pull/3336"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
