@@ -1,0 +1,22 @@
+{
+    "slug": "mindoktor",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "MD International AB",
+    "runs": [
+        "Min Doktor"
+    ],
+    "address": "Norra Vallgatan 64\n211 22 Malmö\nSweden",
+    "email": "privacy@mindoktor.se",
+    "web": "https://mindoktor.se",
+    "sources": [
+        "https://www.mindoktor.se/integritetspolicy/",
+        "https://github.com/datenanfragen/data/pull/3326"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
