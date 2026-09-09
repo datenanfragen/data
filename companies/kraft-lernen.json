@@ -1,0 +1,20 @@
+{
+    "slug": "kraft-lernen",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "KRAFT GmbH",
+    "address": "Von-Humboldt-Straße 9\n74592 Kirchberg an der Jagst",
+    "phone": "00497904943600",
+    "email": "info@kraft-lernen.de",
+    "web": "https://kraft-lernen.de",
+    "sources": [
+        "https://kraft-lernen.de/datenschutz-postalischer-werbung",
+        "https://github.com/datenanfragen/data/pull/2924"
+    ],
+    "quality": "verified"
+}
