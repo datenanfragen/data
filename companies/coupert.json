@@ -1,0 +1,23 @@
+{
+    "slug": "coupert",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Coupert",
+    "runs": [
+        "COUPERT PTE.LTD."
+    ],
+    "address": "987 SERANGOON ROAD\nSINGAPORE (328147)",
+    "email": "service@coupert.com",
+    "web": "https://www.coupert.com/",
+    "sources": [
+        "https://www.coupert.com/",
+        "https://www.sgpbusiness.com/company/Coupert-Pte-Ltd",
+        "https://github.com/datenanfragen/data/pull/3311"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
