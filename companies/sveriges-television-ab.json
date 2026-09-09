@@ -1,0 +1,19 @@
+{
+    "slug": "sveriges-television-ab",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "entertainment",
+        "public body"
+    ],
+    "name": "Sveriges Television AB",
+    "email": "dataskydd@svt.se",
+    "sources": [
+        "https://www.svtplay.se/allmannavillkor",
+        "https://www.svt.se/kontakt/cookies-och-personuppgifter",
+        "https://github.com/datenanfragen/data/pull/3319"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
