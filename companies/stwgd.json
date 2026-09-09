@@ -1,0 +1,19 @@
+{
+    "slug": "stwgd",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Stadtwerke Schwäbisch Gmünd GmbH",
+    "address": "Bürgerstraße 5\n73525 Schwäbisch Gmünd",
+    "phone": "07171 603-803",
+    "email": "info@stwgd.de",
+    "web": "https://www.stwgd.de/",
+    "sources": [
+        "https://www.stwgd.de/impressum.html",
+        "https://github.com/datenanfragen/data/pull/3297"
+    ],
+    "quality": "verified"
+}
