@@ -1,0 +1,17 @@
+{
+    "slug": "mypapik",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "MyPapik",
+    "address": "66 Laurel Road, Hampton, TW12 1JH, England",
+    "email": "seomypapik@gmail.com",
+    "web": "https://mypapik.com/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2874"
+    ]
+}
