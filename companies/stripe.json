@@ -9,9 +9,11 @@
     "name": "Stripe Inc.",
     "address": "510 Townsend Street\nSan Francisco\nCA 94103\nUnited States of America",
     "email": "privacy@stripe.com",
+    "webform": "https://privacy.stripe.com/access",
     "sources": [
         "https://stripe.com/de/privacy",
-        "https://github.com/datenanfragen/data/pull/888"
+        "https://github.com/datenanfragen/data/pull/888",
+        "https://github.com/datenanfragen/data/pull/3839"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
