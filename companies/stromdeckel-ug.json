@@ -1,0 +1,17 @@
+{
+    "slug": "stromdeckel-ug",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "stromdeckel UG",
+    "address": "stromdeckel UG \nPrinz-Handjery-Straße 4\n14167 Berlin",
+    "sources": [
+        "https://www.stromdeckel.de/",
+        "https://github.com/datenanfragen/data/pull/2868"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
