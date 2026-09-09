@@ -1,0 +1,13 @@
+{
+    "slug": "michael-schiffer-dialog-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Michael Schiffer Dialog GmbH",
+    "address": "Industriestraße 6\n47495 Rheinberg",
+    "sources": [
+        "https://www.michaelschiffer.com/18/impressum.htm",
+        "https://github.com/datenanfragen/data/pull/3060"
+    ],
+    "quality": "verified"
+}
