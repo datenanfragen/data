@@ -1,0 +1,18 @@
+{
+    "slug": "3-for-finance",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "3For-Finance Performance Media GmbH",
+    "address": "c/o Büro+Service im Rathaus-Carrée\nBahnhofstrasse 28\n66111 Saarbrücken\nDeutschland",
+    "email": "datenschutz@3-for-finance.de",
+    "webform": "https://3-for-finance.de/kontakt/",
+    "web": "https://3-for-finance.de/kontakt/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2880"
+    ]
+}
