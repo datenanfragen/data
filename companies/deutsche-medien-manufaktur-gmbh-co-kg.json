@@ -1,0 +1,27 @@
+{
+    "slug": "deutsche-medien-manufaktur-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Deutsche Medien-Manufaktur GmbH & Co. KG",
+    "runs": [
+        "Landlust"
+    ],
+    "address": "Hülsebrockstraße 2-8\n48165 Münster",
+    "phone": "025018013110",
+    "email": "service@landlust.de",
+    "sources": [
+        "Brief",
+        "https://github.com/datenanfragen/data/pull/3029"
+    ],
+    "required-elements": [
+        {
+            "type": "input"
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
