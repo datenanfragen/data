@@ -1,0 +1,17 @@
+{
+    "slug": "viaplay-group-sweden-ab",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Viaplay Group Sweden AB",
+    "webform": "https://viaplay.se/se-sv/privacy/rights#_gl=1*1qmcttp*_gcl_au*NzQ3MjU5MDgzLjE3NjA4OTYwMjc.",
+    "sources": [
+        "https://viaplay.se/se-sv/privacy",
+        "https://github.com/datenanfragen/data/pull/3317"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
