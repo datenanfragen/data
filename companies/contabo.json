@@ -1,0 +1,19 @@
+{
+    "slug": "contabo",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Contabo GmbH",
+    "address": "c/o Herrn Dr. Karsten Kinast\nKINAST Rechtsanwaltsgesellschaft mbH\nHohenzollernring 54\n50672 Köln\nDeutschland",
+    "email": "datenschutzbeauftragter@contabo.de",
+    "web": "https://contabo.com/",
+    "sources": [
+        "https://contabo.com/de/legal/privacy/",
+        "https://github.com/datenanfragen/data/pull/2885"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
