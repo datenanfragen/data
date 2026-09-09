@@ -1,0 +1,40 @@
+{
+    "slug": "kbb",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment",
+        "nonprofit",
+        "public body"
+    ],
+    "name": "Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH",
+    "runs": [
+        "Internationale Filmfestspiele Berlin (Berlinale) / Berlin International Film Festival",
+        "European Film Market (EFM)",
+        "Berlinale Talents",
+        "World Cinema Fund",
+        "Berlinale Co-Production Market",
+        "Berliner Festspiele",
+        "Gropius Bau",
+        "Haus der Kulturen der Welt (HKW)",
+        "Theatertreffen, Jazzfest Berlin, Maerz Musik, Musikfest Berlin, Treffen junge Szene und weitere Projekte der Berliner Festspiele"
+    ],
+    "address": "c/o der Datenschutzbeauftragte\nSchöneberger Straße 15\n10963 Berlin\nDeutschland",
+    "phone": "+49 30 26397550",
+    "fax": "+49 30 26397397",
+    "email": "datenschutz@kbb.eu",
+    "web": "https://www.kbb.eu/",
+    "sources": [
+        "https://www.kbb.eu/datenschutz",
+        "https://www.kbb.eu/ueber-die-kbb/haeuser",
+        "https://www.berlinale.de/",
+        "https://www.berlinale-talents.de/",
+        "https://www.efm-berlinale.de/",
+        "https://www.berlinerfestspiele.de/",
+        "https://www.hkw.de/",
+        "https://github.com/datenanfragen/data/pull/3286"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
