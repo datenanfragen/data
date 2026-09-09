@@ -1,0 +1,13 @@
+{
+    "slug": "avi-dat-software-technology-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "AVI.DAT Software & Technology GmbH",
+    "address": "Altenburger Straße 5\n04275 Leipzig",
+    "sources": [
+        "https://avidat.com/impressum/",
+        "https://github.com/datenanfragen/data/pull/3059"
+    ],
+    "quality": "verified"
+}
