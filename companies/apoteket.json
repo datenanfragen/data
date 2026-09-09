@@ -1,0 +1,20 @@
+{
+    "slug": "apoteket",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Apoteket AB",
+    "address": "Dataskyddsombudet\nBox 3001\n169 56 Solna\nSweden",
+    "phone": "+46 10 447 50 00",
+    "email": "dataskyddsombud@apoteket.se",
+    "web": "https://apoteket.se",
+    "sources": [
+        "https://www.apoteket.se/kundservice/integritetspolicy/",
+        "https://github.com/datenanfragen/data/pull/3323"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
