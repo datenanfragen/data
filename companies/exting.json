@@ -1,0 +1,19 @@
+{
+    "slug": "exting",
+    "relevant-countries": [
+        "lt"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "ExTing",
+    "address": "Šilutės pl. 51, LT-94105 Klaipėda",
+    "email": "info@exting.lt",
+    "webform": "https://www.exting.lt/contact-us",
+    "web": "https://www.exting.lt",
+    "sources": [
+        "ExTing",
+        "https://github.com/datenanfragen/data/pull/3054"
+    ],
+    "quality": "verified"
+}
