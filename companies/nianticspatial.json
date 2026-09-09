@@ -1,0 +1,19 @@
+{
+    "slug": "nianticspatial",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Niantic Spatial, Inc.",
+    "address": "1 Ferry Building Suite 200\nSan Francisco\nCA 94111\nUnited States of America",
+    "email": "privacy@nianticspatial.com",
+    "web": "https://www.nianticspatial.com",
+    "sources": [
+        "https://www.nianticspatial.com/privacy",
+        "https://github.com/datenanfragen/data/pull/3331"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
