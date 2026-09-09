@@ -1,0 +1,19 @@
+{
+    "slug": "thingiverse",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Thingiverse Industries, LLC",
+    "address": "c/o Ultimaker, 55 Water Street, 51st Floor, New York, NY, 10041",
+    "email": "legal@thingiverse.com",
+    "web": "https://thingiverse.com",
+    "sources": [
+        "https://www.thingiverse.com/legal/privacy",
+        "https://www.bizprofile.net/ny/new-york/thingiverse-llc?__cf_chl_f_tk=dOiBHGBhzZMlBYxTjzT.0B7GuFt6GulSqHaD5b.dAG8-1783430164-1.0.1.1-80D2KQOcH1ais1U06.CHsmu0aLGKJZLarqujGOlOnnY",
+        "https://github.com/datenanfragen/data/pull/3803"
+    ],
+    "quality": "verified"
+}
