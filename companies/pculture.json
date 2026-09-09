@@ -1,0 +1,25 @@
+{
+    "slug": "pculture",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Participatory Culture Foundation",
+    "runs": [
+        "Amara",
+        "Amara.org",
+        "Amara On Demand",
+        "Amara Community",
+        "Amara Plus",
+        "Amara Pro",
+        "Amara Enterprise"
+    ],
+    "address": "Attn: Legal Notices - Privacy\n68 Harrison Ave #605\nPMB 20335\nBoston, MA 02111-1929\nUSA",
+    "email": "support@amara.org",
+    "web": "https://pculture.org/",
+    "sources": [
+        "https://pculture.org/privacy",
+        "https://github.com/datenanfragen/data/pull/3335"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
