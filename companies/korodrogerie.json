@@ -1,0 +1,21 @@
+{
+    "slug": "korodrogerie",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "KoRo Handels GmbH",
+    "address": "c/o  ISiCO GmbH, Alina Bernhardt \nAm Hamburger Bahnhof 4\n10557 Berlin\nDeutschland",
+    "phone": "+49 30 921079070",
+    "email": "info@isico-datenschutz.de",
+    "web": "https://www.korodrogerie.de/",
+    "sources": [
+        "https://www.korodrogerie.de/datenschutz",
+        "https://www.korodrogerie.de/impressum",
+        "https://github.com/datenanfragen/data/pull/3299"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
