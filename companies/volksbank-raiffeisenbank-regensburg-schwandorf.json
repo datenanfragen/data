@@ -1,0 +1,20 @@
+{
+    "slug": "volksbank-raiffeisenbank-regensburg-schwandorf",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Volksbank Raiffeisenbank Regensburg-Schwandorf eG",
+    "address": "Pfauengasse 1\n93047 Regensburg",
+    "phone": "0941 58470",
+    "fax": "0941 5847 2990",
+    "email": "info@vr-rs.de",
+    "web": "https://www.volksbank-raiffeisenbank-regensburg-schwandorf.de/",
+    "sources": [
+        "https://www.volksbank-raiffeisenbank-regensburg-schwandorf.de/service/rechtliche-hinweise/impressum.html",
+        "https://github.com/datenanfragen/data/pull/2951"
+    ],
+    "quality": "verified"
+}
