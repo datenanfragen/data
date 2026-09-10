@@ -1,0 +1,33 @@
+{
+    "slug": "corp-roblox",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media",
+        "entertainment"
+    ],
+    "name": "Roblox Corporation",
+    "runs": [
+        "Guilded",
+        "Bloxlink"
+    ],
+    "address": "2850 S Delaware St, San Mateo, CA 94403",
+    "phone": "(888) 858-2569",
+    "email": "support-en@roblox.com",
+    "webform": "https://www.roblox.com/support",
+    "web": "https://corp.roblox.com",
+    "sources": [
+        "https://corporation.directory/",
+        "https://github.com/datenanfragen/data/pull/3111"
+    ],
+    "required-elements": [
+        {
+            "desc": "Email Address",
+            "type": "email",
+            "optional": false
+        }
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
