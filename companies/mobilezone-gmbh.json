@@ -1,0 +1,17 @@
+{
+    "slug": "mobilezone-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "mobilezone GmbH",
+    "runs": [
+        "high mobile"
+    ],
+    "address": "Richmodstr. 10,\n50667 Köln\nDeutschland",
+    "email": "Datenschutz@mobilezone.org",
+    "sources": [
+        "https://www.high-mobile.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2857"
+    ],
+    "quality": "verified"
+}
