@@ -1,0 +1,21 @@
+{
+    "slug": "particulier-edf",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "Electricité de France, Société Anonyme",
+    "runs": [
+        "EDF Particuliers"
+    ],
+    "address": "EDF SERVICE CLIENTS TSA 21941 – 62978 ARRAS CEDEX 9",
+    "email": "mesdonnees@edf.fr",
+    "web": "https://particulier.edf.fr/",
+    "sources": [
+        "https://particulier.edf.fr/fr/accueil/charte-donnees-personnelles.html",
+        "https://github.com/datenanfragen/data/pull/2970"
+    ],
+    "quality": "verified"
+}
