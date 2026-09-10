@@ -1,0 +1,23 @@
+{
+    "slug": "wirleben-apotheken",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "wirleben Apotheken",
+    "runs": [
+        "Onlineshop"
+    ],
+    "address": "Elbuferstraße 86A\nObermarschacht\n21436 Marschacht\nDeutschland",
+    "phone": "+49 4176 9487810",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Ich habe einen Brief von der Onlineapotheke 'wirleben' mit der Aufforderung zur Unterschrift inkl. freigemachten Rücksendeumschlag erhalten:\n\nEinverständniserklärung zur Speicherung gesundheitsbezogener Daten des Patienten\n\nDie wir leben • Apotheke versorgt mich (Anmerkung: NEIN - meine Arztpraxis) mit den von mir benötigten Medikamenten auf\nmeinen Wunsch (Anmerkung: NEIN - auf Bestellung / Wunsch der Arztpraxis!)\n\nIch bin damit einverstanden, dass die wir leben • Apotheke zu diesem Zweck meine persönlichen Daten (Anmerkung: Name, Geburtsdatum, Anschrift, behandelnder Arzt liegen (offensichtlich vom Arzt übermittelt?) schon vor), die Einzelheiten meiner Medikation sowie dazugehörende Daten zu meinem Gesundheitszustand (z.B.\nAllergien) und zur Anwendung der Arzneimittel speichert.\nIch bin darüber informiert, dass ich jederzeit Einsicht oder schriftlich Auskunft über meine erfassten Daten erhalten kann und entscheiden darf, ob und welche Daten gegebenenfalls gelöscht werden sollen. Soweit gesetzliche Vorschriften Keine längeren Aufbewahrungspflichten vorsehen, werden meine Daten fünf Jahre nach der letzten Eintragung von der wir leben • Apotheke gelöscht.\nDie Einwilligung kann von mir jederzeit ohne Angaben von Gründen widerrufen werden.\n\nAnmerkung von mir:\nObendrein besteht in diesem Anschreiben 'der Einfachheit halber' die Möglichkeit der Zustimmung zum SEPA-Lastschriftverfahren unter Angabe der Bankverbindung.\n\n\nIch bin NICHT der Kunde der Onlineapotheke sondern meine Arztpraxis! Eine Durchsicht der Datenschutzbestimmungen schwurbelt von ‚berechtigtem Interesse‘ und verweist u.a. auf die Datenschutzbestimmungen der beauftragten Partnerunternehmen (u.a. SuperChat und Tochterunternehmen von WhatsApp) wo man nach langer Zeit des Einlesens erfährt, daß viele dieser Partnerunternehmen die Daten außerhalb der EU speichern und man somit für DSVGO konforme Verwendung der Daten natürlich keine Gewähr mehr übernehmen kann!"
+    ],
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/2900"
+    ]
+}
