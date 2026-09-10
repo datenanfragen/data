@@ -8,7 +8,7 @@
     ],
     "name": "Lufthansa AirPlus Servicekarten GmbH",
     "address": "Dornhofstraße 10\n63263 Neu-Isenburg\nDeutschland",
-    "email": "datenschutz@airplus.com",
+    "email": "dataprotection@airplus.com",
     "sources": [
         "https://www.airplus.com/de/de/rechtliches/datenschutz/",
         "https://github.com/datenanfragen/data/pull/2488"
