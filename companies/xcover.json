@@ -1,0 +1,23 @@
+{
+    "slug": "xcover",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Cover Genius Pty Ltd",
+    "runs": [
+        "XCover.com"
+    ],
+    "address": "Level 19, 45 Clarence Street, Sydney 2000, Australia.",
+    "email": "privacy@xcover.com",
+    "webform": "https://covergenius.com/privacy-policy/data-privacy-request-form/",
+    "web": "https://www.xcover.com/",
+    "sources": [
+        "https://www.xcover.com/en/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2972"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
