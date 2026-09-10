@@ -1,0 +1,24 @@
+{
+    "slug": "mtw",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "MTW Oślizło & Magiera s.c.",
+    "runs": [
+        "PixelSnap",
+        "CleanShot X",
+        "TopNotch"
+    ],
+    "address": "Wałowa 49, 44‐300 Wodzisław Śląski (Poland)",
+    "email": "hello@cleanshot.com",
+    "webform": "https://cleanshot.com/faq",
+    "web": "https://mtw.team/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3427"
+    ]
+}
