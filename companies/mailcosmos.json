@@ -1,0 +1,22 @@
+{
+    "slug": "mailcosmos",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "mailcosmos ltd. Nachfolgegesellschaft GbR",
+    "runs": [
+        "https://absolutnachrichten.de/imprint/",
+        "https://gewuenschte-zukunft.de/"
+    ],
+    "address": "mailcosmos ltd. Nachfolgegesellschaft GbR\nKirchweg 49\n24558 Henstedt-Ulzburg\n\nLt Werbe Mail\nMailCosmos ltd.\nLangenhorner Chaussee 385\n22419 Hamburg",
+    "email": "service@mailcosmos.eu",
+    "web": "https://www.mailcosmos.de",
+    "sources": [
+        "https://www.mailcosmos.de/#Impressum",
+        "https://github.com/datenanfragen/data/pull/3358"
+    ],
+    "quality": "verified"
+}
