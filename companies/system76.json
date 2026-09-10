@@ -1,0 +1,18 @@
+{
+    "slug": "system76",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "System76, Inc.",
+    "address": "4240 Carson Street, \nSuite 101, \nDenver, CO 80239\nUnited States",
+    "phone": "+1 720 226 9269",
+    "email": "privacy@system76.com",
+    "web": "https://system76.com",
+    "sources": [
+        "https://system76.com/privacy/",
+        "https://system76.com/contact/",
+        "https://github.com/datenanfragen/data/pull/3399"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
