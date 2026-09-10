@@ -1,0 +1,20 @@
+{
+    "slug": "exantrix",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Exantrix",
+    "address": "allée des colchiques 72300 sablé sur sarthe",
+    "phone": "0775663314",
+    "email": "coucou@exantrix.com",
+    "web": "https://exantrix.com",
+    "sources": [
+        "exantrix.com",
+        "https://github.com/datenanfragen/data/pull/3360"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
