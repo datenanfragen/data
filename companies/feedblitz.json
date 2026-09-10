@@ -1,0 +1,18 @@
+{
+    "slug": "feedblitz",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "FeedBlitz",
+    "address": "650 E. Palisade Avenue Suite 2\nPO BOX 173\nEnglewood Cliffs, NJ 07632, USA",
+    "email": "support@feedblitz.com",
+    "sources": [
+        "https://www.feedblitz.com",
+        "https://github.com/datenanfragen/data/pull/3153"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
