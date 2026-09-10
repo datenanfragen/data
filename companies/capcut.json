@@ -1,0 +1,33 @@
+{
+    "slug": "capcut",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Bytedance Pte. Ltd.",
+    "runs": [
+        "CapCut"
+    ],
+    "email": "capcut_support@bytedance.com",
+    "web": "https://capcut.com",
+    "sources": [
+        "https://capcut.com/clause/terms-of-service",
+        "https://github.com/datenanfragen/data/pull/3144"
+    ],
+    "required-elements": [
+        {
+            "desc": "Benutzername",
+            "type": "input",
+            "optional": true
+        },
+        {
+            "desc": "E-Mail",
+            "type": "email",
+            "optional": true
+        }
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
