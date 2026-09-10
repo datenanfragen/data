@@ -1,0 +1,21 @@
+{
+    "slug": "openkreishaus-lkleer",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body"
+    ],
+    "name": "Landkreis Leer",
+    "address": "Bergmannstraße 37\n26789 Leer",
+    "phone": "0491 926 - 0",
+    "fax": "0491 926 – 13 88",
+    "email": "datenschutzbeauftragter@lkleer.de",
+    "web": "https://openkreishaus.lkleer.de",
+    "sources": [
+        "https://openkreishaus.lkleer.de/datenschutzerklaerung",
+        "https://github.com/datenanfragen/data/pull/2829"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
