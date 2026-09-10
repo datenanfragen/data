@@ -1,0 +1,19 @@
+{
+    "slug": "conda-capital-gmbh",
+    "relevant-countries": [
+        "at",
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "CONDA Capital GmbH",
+    "address": "CONDA Capital GmbH\nNeulinggasse 29/14\n1030 Wien",
+    "phone": "+43 1 2676000",
+    "email": "gdpr@conda.eu",
+    "sources": [
+        "https://conda-capital.com/wp-content/uploads/2025/10/DataPrivacy_CONDACapitalMarket202411.pdf",
+        "https://github.com/datenanfragen/data/pull/3609"
+    ],
+    "quality": "verified"
+}
