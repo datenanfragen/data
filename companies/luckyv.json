@@ -1,0 +1,17 @@
+{
+    "slug": "luckyv",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "LuckyV",
+    "runs": [
+        "Heideltraut / Dennis Werth"
+    ],
+    "address": "C/O build a rocket GmbH\nGrüner Weg 10\n50825 Köln\nDeutschland",
+    "email": "info@luckyv.de",
+    "sources": [
+        "https://luckyv.de/impressum#data-protection",
+        "https://github.com/datenanfragen/data/pull/2791"
+    ],
+    "quality": "verified"
+}
