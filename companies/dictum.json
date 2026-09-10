@@ -1,0 +1,19 @@
+{
+    "slug": "dictum",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "DICTUM GmbH",
+    "address": "Gottlieb-Daimler-Str. 3\n94447 Plattling\nDeutschland",
+    "phone": "+49 9931 4058100",
+    "email": "privacy@dictum.com",
+    "web": "https://www.dictum.com/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3181"
+    ]
+}
