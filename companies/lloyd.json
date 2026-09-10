@@ -1,0 +1,21 @@
+{
+    "slug": "lloyd",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "LLOYD Lifestyle GmbH",
+    "address": "Hans-Hermann-Meyer-Str. 1\n27232 Sulingen\nDeutschland",
+    "phone": "+49 080018880000",
+    "email": "datenschutz@lloyd.com",
+    "web": "https://www.lloyd.com/de",
+    "sources": [
+        "https://www.lloyd.com/de/de/privacy-statement/",
+        "https://www.lloyd.com/de/de/imprint/",
+        "https://github.com/datenanfragen/data/pull/3276"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
