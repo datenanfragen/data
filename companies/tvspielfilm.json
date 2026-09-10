@@ -6,19 +6,17 @@
     "categories": [
         "entertainment"
     ],
-    "name": "TV Spielfilm",
+    "name": "TV SPIELFILM (BurdaForward GmbH)",
     "runs": [
-        "www.tvspielfilm.de",
-        "StreamPicker (streampicker.de)"
+        "TV SPIELFILM-App"
     ],
-    "address": "St.-Martin-Straße 66\n81541 München\nDeutschland",
-    "phone": "+49 89 92504500",
-    "email": "tvspielfilmonline@datenschutzanfrage.de",
-    "web": "https://www.tvspielfilm.de/",
+    "address": "St.-Martin-Straße 66\n81541 München",
+    "email": "tvspielfilmonline@datenschutzanfrage.de?subject=Datenschutz-Anfrage",
+    "webform": "https://datenschutzanfrage.de/?source=tvspielfilmonline&lang=de",
+    "web": "https://www.tvspielfilm.de",
     "sources": [
-        "https://www.tvspielfilm.de/datenschutz/",
-        "https://github.com/datenanfragen/data/pull/2011"
+        "https://www.tvspielfilm.de/datenschutz-apps",
+        "https://github.com/datenanfragen/data/pull/3147"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
