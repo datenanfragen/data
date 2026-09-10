@@ -1,0 +1,32 @@
+{
+    "slug": "gomibo",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Gomibo",
+    "runs": [
+        "gomibo.de",
+        "Gomibo.be",
+        "Gomibo.dk",
+        "Gomibo.fi",
+        "Gomibo.fr",
+        "Gomibo.ie",
+        "Gomibo.it",
+        "Gomibo.no",
+        "Gomibo.at",
+        "Gomibo.pl",
+        "Gomibo.es",
+        "Gomibo.cz",
+        "Gomibo.se",
+        "Gomibo.ch",
+        "Gomibo.co.uk"
+    ],
+    "address": "Waagstraat 1\n9712 JX Groningen\nNiederlande",
+    "email": "privacy@gomibo.de",
+    "sources": [
+        "https://www.gomibo.de/datenschutz",
+        "https://www.gomibo.de/impressum",
+        "https://github.com/datenanfragen/data/pull/2934"
+    ],
+    "quality": "verified"
+}
