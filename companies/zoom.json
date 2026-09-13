@@ -13,8 +13,9 @@
     "email": "privacy@zoom.us",
     "web": "https://zoom.us/",
     "sources": [
-        "https://zoom.us/privacy"
+        "https://zoom.us/privacy",
+        "https://github.com/datenanfragen/data/pull/3833"
     ],
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "letter",
     "quality": "verified"
 }
