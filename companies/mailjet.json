@@ -8,7 +8,7 @@
     ],
     "name": "Mailjet SAS",
     "address": "13-13 bis rue de l’Aubrac\n75012 Paris\nFrance",
-    "email": "privacy@mailgun.com",
+    "email": "dpo@sinch.com",
     "web": "https://www.mailjet.com/",
     "sources": [
         "https://www.mailjet.com/privacy-policy/"
