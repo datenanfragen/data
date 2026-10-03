@@ -1,0 +1,17 @@
+{
+    "slug": "aiskyla-gifting",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "AISkyla Gifting",
+    "address": "Ahirauli, Azamatgarh Azamgarh Uttar Prades India 27614",
+    "sources": [
+        "website",
+        "https://github.com/datenanfragen/data/pull/3865"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
