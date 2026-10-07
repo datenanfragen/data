@@ -1,0 +1,18 @@
+{
+    "slug": "hugoboss",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "HUGO BOSS AG",
+    "address": "Datenschutzbeauftragter\nHoly-Allee 3\n72555 Metzingen\nDeutschland",
+    "phone": "+49 7123 9480999",
+    "fax": "+49 7123 94880999",
+    "email": "datenschutz@hugoboss.com",
+    "web": "https://www.hugoboss.com",
+    "sources": [
+        "https://www.hugoboss.com/de/privacy-statement/privacy-statement.html",
+        "https://github.com/datenanfragen/data/pull/3446"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
