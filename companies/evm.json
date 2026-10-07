@@ -1,0 +1,21 @@
+{
+    "slug": "evm",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "EVM Energieversorgung Mittelrhein AG",
+    "address": "Adresse Datenschutzbeauftragter: TÜV Rheinland i-sec GmbH, Am Grauen Stein, 51105 Köln",
+    "phone": "0261 402-0",
+    "fax": "0261 402-61499",
+    "email": "datenschutz@evm.de.",
+    "web": "https://www.evm.de/privatkunden/",
+    "sources": [
+        "https://www.evm.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/3383"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
