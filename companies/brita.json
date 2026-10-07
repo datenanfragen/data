@@ -1,0 +1,19 @@
+{
+    "slug": "brita",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "BRITA SE",
+    "address": "Heinz-Hankammer-Straße 1\n65232 Taunusstein\nDeutschland",
+    "email": "DSB-BRITA@kinast.eu",
+    "web": "https://www.brita.de/",
+    "sources": [
+        "https://www.brita.de/datenschutzbestimmungen",
+        "https://github.com/datenanfragen/data/pull/3376"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
