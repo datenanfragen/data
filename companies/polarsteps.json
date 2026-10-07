@@ -1,0 +1,21 @@
+{
+    "slug": "polarsteps",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "travel",
+        "social media",
+        "telecommunication"
+    ],
+    "name": "Polarsteps",
+    "runs": [],
+    "address": "Vijzelgracht 53A\n1017 HP, Amsterdam\nThe Netherlands",
+    "email": "support@polarsteps.com",
+    "web": "https://www.polarsteps.com",
+    "sources": [
+        "https://support.polarsteps.com/hc/en-us/articles/24266264821138-How-can-I-export-a-copy-of-my-data",
+        "https://github.com/datenanfragen/data/pull/3362"
+    ],
+    "quality": "verified"
+}
