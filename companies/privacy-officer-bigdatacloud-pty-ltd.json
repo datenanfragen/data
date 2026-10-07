@@ -1,0 +1,21 @@
+{
+    "slug": "privacy-officer-bigdatacloud-pty-ltd",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Privacy officer BigDataCloud Pty Ltd",
+    "runs": [
+        "BigDataCloud Pty Ltd"
+    ],
+    "address": "U14 29-31 Compton Street, Adelaide SA 5000, Australia",
+    "email": "support@bigdatacloud.com",
+    "sources": [
+        "https://www.bigdatacloud.com/privacy-and-cookie-policy",
+        "https://github.com/datenanfragen/data/pull/3478"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
