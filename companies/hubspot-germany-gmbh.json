@@ -1,0 +1,14 @@
+{
+    "slug": "hubspot-germany-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "HubSpot Germany GmbH",
+    "address": "Am Postbahnhof 17, 10243, Berlin, Deutschland",
+    "email": "dataprivacy@hubspot.com",
+    "sources": [
+        "Email mit dem Betreff: \"Hinweis auf die Verarbeitung personenbezogener Daten\", die ich heute von dieser Firma bekommen habe.",
+        "https://github.com/datenanfragen/data/pull/3349"
+    ],
+    "quality": "verified"
+}
