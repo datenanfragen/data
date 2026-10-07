@@ -1,0 +1,19 @@
+{
+    "slug": "exantrix",
+    "relevant-countries": [
+        "fr"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "exantrix",
+    "address": "France",
+    "email": "coucou@exantrix.com",
+    "web": "https://exantrix.com",
+    "sources": [
+        "https://exantrix.com",
+        "https://github.com/datenanfragen/data/pull/3445"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
