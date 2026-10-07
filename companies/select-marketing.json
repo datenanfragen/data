@@ -1,0 +1,19 @@
+{
+    "slug": "select-marketing",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Select GmbH",
+    "address": "Am Telegraph 26\n53773 Hennef",
+    "email": "datenschutz@select-marketing.de",
+    "web": "https://select-marketing.de/",
+    "sources": [
+        "https://select-marketing.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/3461"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
