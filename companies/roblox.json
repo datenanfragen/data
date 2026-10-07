@@ -1,0 +1,16 @@
+{
+    "slug": "roblox",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Roblox Corporation",
+    "address": "DP-Dock GmbH\nAttn: Roblox Corporation\nBallindamm 39 / Ecke Jungfernstieg\n20095 Hamburg, Germany",
+    "email": "roblox@gdpr-rep.com",
+    "web": "https://www.roblox.com",
+    "sources": [
+        "https://www.roblox.com/info/privacy?locale=en_us",
+        "https://github.com/datenanfragen/data/pull/3388"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
