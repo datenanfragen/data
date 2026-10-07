@@ -1,0 +1,15 @@
+{
+    "slug": "surveysensum",
+    "relevant-countries": [
+        "fi"
+    ],
+    "name": "surveysensum",
+    "address": "Plot No. 270, Phase, 2, Udyog Vihar, Sector 20, Gurugram, Haryana 122016",
+    "phone": "91 99990 62749",
+    "email": "support@surveysensum.com",
+    "web": "https://www.surveysensum.com/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3403"
+    ]
+}
