@@ -1,0 +1,20 @@
+{
+    "slug": "paymonade",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Damoon Technology (Europe) AG",
+    "address": "Dr. Grass-Strasse 12, Vaduz 9490, Liechtenstein",
+    "email": "dpo@paymonade.tech",
+    "webform": "https://submit-irm.trustarc.eu/services/validation/01dd577e-fe3b-4393-ae98-4beb1d370e95/?brandId=b8690f99-e762-4e44-b9f7-56b2fed8233f",
+    "web": "https://www.paymonade.tech/",
+    "sources": [
+        "https://www.paymonade.tech/en/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3470"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
