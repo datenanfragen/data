@@ -1,0 +1,23 @@
+{
+    "slug": "skiftet",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "nonprofit"
+    ],
+    "name": "Skifte för Sverige",
+    "runs": [
+        "Skiftet.org",
+        "Mittskifte.org"
+    ],
+    "address": "Emågatan 50-52\nBagarmossen\nSverige",
+    "email": "mailto:dataskydd@skiftet.org",
+    "web": "https://skiftet.org/",
+    "sources": [
+        "https://skiftet.org/personuppgiftspolicy/",
+        "https://github.com/datenanfragen/data/pull/3353"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
