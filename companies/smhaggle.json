@@ -1,0 +1,24 @@
+{
+    "slug": "smhaggle",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce",
+        "ads"
+    ],
+    "name": "my-valueshopping Germany GmbH",
+    "runs": [
+        "smhaggle.com"
+    ],
+    "address": "Itzbachweg 16-20\n65510 Idstein",
+    "phone": "+49 6126 9374920",
+    "email": "datenschutz@smhaggle.com",
+    "web": "https://smhaggle.com/",
+    "sources": [
+        "https://smhaggle.com/datenschutzhinweis",
+        "https://github.com/datenanfragen/data/pull/3431"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
