@@ -1,0 +1,18 @@
+{
+    "slug": "nsysgroup",
+    "relevant-countries": [
+        "gb"
+    ],
+    "categories": [],
+    "name": "nsysgroup",
+    "address": "NSYS Group helps mobile businesses unlock greater efficiency with advanced tools for diagnostics, automation, and secure data erasure. Our intelligent phone diagnostic software and mobile diagnostics solutions improve device evaluation through accurate testing, AI-driven grading, and phone robot technology. Ideal for trade-ins and phone buyback programs, these solutions are complemented by reliable Android and iOS data wiping tools that support secure, compliant data removal. Created for retailers, recyclers, and mobile service providers, our platform delivers the performance, precision, and security modern businesses demand.",
+    "phone": "+1 646 851 0814",
+    "email": "nsysgroup@duck.com",
+    "web": "https://nsysgroup.com/",
+    "sources": [
+        "https://nsysgroup.com/",
+        "https://github.com/datenanfragen/data/pull/3467"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
