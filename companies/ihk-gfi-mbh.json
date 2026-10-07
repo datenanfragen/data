@@ -1,0 +1,18 @@
+{
+    "slug": "ihk-gfi-mbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "IHK GfI mbH",
+    "address": "Hörder Hafenstr. 5\n44263 Dortmund",
+    "email": "datenschutz@gfi.ihk.de",
+    "sources": [
+        "https://www.ihk-gfi.de",
+        "https://github.com/datenanfragen/data/pull/3443"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
