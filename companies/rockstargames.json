@@ -1,0 +1,24 @@
+{
+    "slug": "rockstargames",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Rockstar Games, Inc.",
+    "runs": [
+        "Rockstar",
+        "Take-Two"
+    ],
+    "address": "Take Two Interactive Software Europe Limited\nTake-Two House\n30 Cleveland Street, London W1T 4JD, UK\nAttn: Privacy Policy Administrator",
+    "email": "privacypolicy@take2games.com",
+    "webform": "https://www.take2games.com/data-request",
+    "web": "https://www.rockstargames.com",
+    "sources": [
+        "https://www.rockstargames.com/privacy",
+        "https://github.com/datenanfragen/data/pull/3471"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
