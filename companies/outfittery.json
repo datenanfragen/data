@@ -1,19 +1,19 @@
 {
     "slug": "outfittery",
     "relevant-countries": [
-        "de"
+        "all"
     ],
     "categories": [
         "commerce"
     ],
     "name": "OUTFITTERY GmbH",
     "address": "Mehringdamm 55\n10961 Berlin\nGermany",
+    "phone": "+49 30 255585250",
     "email": "help@outfittery.de",
     "web": "https://www.outfittery.com/",
     "sources": [
         "https://outfittery.de/terms-and-conds#privacy-policy",
         "https://github.com/datenanfragen/data/pull/3862"
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
