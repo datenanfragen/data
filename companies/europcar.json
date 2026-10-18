@@ -8,9 +8,7 @@
     ],
     "name": "EMobG Services Germany GmbH",
     "runs": [
-        "Europcar",
-        "Buchbinder",
-        "Europcar Autovermietung GmbH (ehem.)"
+        "Europcar"
     ],
     "address": "Anckelmannsplatz 1\n20537 Hamburg\nDeutschland",
     "phone": "+49 40 520180",
@@ -20,8 +18,6 @@
     "sources": [
         "https://www.europcar.de/de-de/p/datenschutzrichtlinie",
         "https://www.europcar.de/de-de/p/impressum",
-        "https://www.northdata.de/?id=6596977344",
-        "https://www.europcar.de/de-de/p/buchbinder",
         "https://github.com/datenanfragen/data/issues/259",
         "https://github.com/datenanfragen/data/pull/1930",
         "https://github.com/datenanfragen/data/pull/3871"
@@ -29,7 +25,8 @@
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "Driver ID",
@@ -40,6 +37,5 @@
             "type": "input"
         }
     ],
-    "suggested-transport-medium": "email",
     "quality": "verified"
 }
