@@ -19,7 +19,8 @@
         "https://www.reddit.com/policies/privacy-policy",
         "https://github.com/datenanfragen/data/issues/669",
         "https://github.com/datenanfragen/data/pull/893",
-        "https://github.com/datenanfragen/data/pull/2551"
+        "https://github.com/datenanfragen/data/pull/2551",
+        "https://github.com/datenanfragen/data/pull/3807"
     ],
     "required-elements": [
         {
@@ -32,5 +33,6 @@
         }
     ],
     "request-language": "en",
+    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
