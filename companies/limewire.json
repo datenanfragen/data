@@ -1,0 +1,18 @@
+{
+    "slug": "limewire",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Limewire",
+    "address": "New York, NY 10003, US",
+    "email": "support@limewire.com",
+    "webform": "https://help.limewire.com/hc/en-us",
+    "web": "https://limewire.com/",
+    "sources": [
+        "https://help.limewire.com/hc/en-us",
+        "https://contactout.com/company/Lime-Wire-LLC-31722",
+        "https://github.com/datenanfragen/data/pull/3844"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
