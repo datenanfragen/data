@@ -6,19 +6,17 @@
     "categories": [
         "commerce"
     ],
-    "name": "Westfalia Werkzeugcompany GmbH & Co KG",
-    "address": "Spinnereistraße 3\nDE-01591 Riesa\nDeutschland",
+    "name": "HAJUS AG",
+    "runs": [
+        "Westfalia"
+    ],
+    "address": "Spinnereistraße 3\n01591 Riesa\nDeutschland",
     "phone": "+49 5151 8779812",
-    "email": "datenschutz@westfalia.de",
+    "email": "info@westfalia.de",
     "web": "https://www.westfalia.de/",
     "sources": [
-        "https://www.westfalia.de/static/unternehmen/datenschutzerklaerung.html",
-        "https://www.westfalia.de/static/unternehmen/impressum.html",
+        "https://www.westfalia.de/datenschutz",
         "https://github.com/datenanfragen/data/pull/3870"
-    ],
-    "suggested-transport-medium": "email",
-    "comments": [
-        "Erbittet datenschutzspezifische Anfragen per E-Mail zu stellen."
     ],
     "quality": "verified"
 }
