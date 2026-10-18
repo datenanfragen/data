@@ -12,14 +12,16 @@
         "Proton Calendar",
         "Proton Drive",
         "Proton VPN",
-        "Proton Pass"
+        "Proton Pass",
+        "Proton Wallet"
     ],
     "address": "Route de la Galaise 32\n1228 Plan-les-Ouates\nGeneva\nSwitzerland",
     "webform": "https://proton.me/support/contact",
     "web": "https://proton.me",
     "sources": [
         "https://proton.me/legal/privacy",
-        "https://github.com/datenanfragen/data/pull/2281"
+        "https://github.com/datenanfragen/data/pull/2281",
+        "https://github.com/datenanfragen/data/pull/3068"
     ],
     "quality": "verified"
 }
