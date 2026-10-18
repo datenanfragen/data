@@ -6,15 +6,18 @@
     "categories": [
         "finance"
     ],
-    "name": "Stripe Inc.",
-    "address": "510 Townsend Street\nSan Francisco\nCA 94103\nUnited States of America",
+    "runs": [
+        "Stripe Inc."
+    ],
+    "address": "One Wilton Park\nWilton Place\nDublin 2\nD02 FX04\nIreland",
     "email": "privacy@stripe.com",
-    "webform": "https://privacy.stripe.com/access",
+    "webform": "https://support.stripe.com/contact/email?question=other&topic=other&subject=Privacy+Request",
     "sources": [
-        "https://stripe.com/de/privacy",
+        "https://stripe.com/en-de/legal/privacy-center",
         "https://github.com/datenanfragen/data/pull/888",
         "https://github.com/datenanfragen/data/pull/3839"
     ],
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "name": "Stripe Technology Company Limited"
 }
