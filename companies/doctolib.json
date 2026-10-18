@@ -8,12 +8,10 @@
     ],
     "name": "Doctolib GmbH",
     "address": "Friedrichstraße 11\n10117 Berlin\nDeutschland",
-    "phone": "+49 89 20702884",
     "email": "datenschutz@doctolib.de",
     "web": "https://www.doctolib.de",
     "sources": [
-        "https://media.doctolib.com/image/upload/v1690558649/legal/B2C-PrivacyPolicy-Aug-23-DE.pdf",
-        "https://media.doctolib.com/image/upload/v1691488871/legal/Legal-Mentions-Aug23-DE.pdf",
+        "https://media.doctolib.com/image/upload/v1784900253/legal/B2C-PrivacyPolicy-JULY_25-DE.pdf",
         "https://github.com/datenanfragen/data/pull/898",
         "https://github.com/datenanfragen/data/pull/2342",
         "https://github.com/datenanfragen/data/pull/3847"
