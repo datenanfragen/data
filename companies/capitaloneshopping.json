@@ -1,0 +1,21 @@
+{
+    "slug": "capitaloneshopping",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Capital One Shopping",
+    "address": "Capital One\n1680 Capital One Drive\nMcLean, VA 22102\nUSA",
+    "phone": "+1 888 480 3282",
+    "email": "privacy@capitalone.com",
+    "webform": "https://mydata.capitalone.com/",
+    "web": "https://capitaloneshopping.com",
+    "sources": [
+        "https://www.capitalone.com/privacy/ccpa-disclosure/",
+        "https://github.com/datenanfragen/data/pull/3869"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
