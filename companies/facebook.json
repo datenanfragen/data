@@ -9,18 +9,20 @@
     ],
     "name": "Meta Platforms Ireland Limited",
     "runs": [
-        "Facebook, Inc.",
-        "Messenger (www.messenger.com)",
-        "Facebook Audience Network",
-        "Meta Spark",
-        "Facebook Ireland Ltd. (formerly)"
+        "Facebook",
+        "Threads",
+        "Facebook Messenger",
+        "Meta Quest",
+        "Meta AI Glasses",
+        "Meta AI app and Vibes",
+        "Pocket"
     ],
-    "address": "4 Grand Canal Square\nGrand Canal Harbour\nDublin 2\nIreland",
+    "address": "Merrion Road\nDublin 4\nD04 X2K5\nIreland",
     "webform": "https://help.meta.com/support/privacy",
     "web": "https://www.facebook.com/",
     "sources": [
         "https://www.facebook.com/privacy/policy/",
-        "https://www.facebook.com/legal/terms",
+        "https://help.meta.com/support/privacy/",
         "https://github.com/datenanfragen/data/issues/92",
         "https://github.com/datenanfragen/data/issues/93",
         "https://github.com/datenanfragen/data/pull/974",
