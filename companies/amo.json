@@ -1,0 +1,18 @@
+{
+    "slug": "amo",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "AMO SAS",
+    "address": "29 Boulevard des Italiens, 75002, Paris, France",
+    "email": "love@amo.co",
+    "web": "https://amo.co",
+    "sources": [
+        "https://amo.co/terms-of-service/",
+        "https://amo.co/privacy-policy/",
+        "https://annuaire-entreprises.data.gouv.fr/entreprise/amo-922335393",
+        "https://github.com/datenanfragen/data/pull/3857"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
