@@ -1,0 +1,14 @@
+{
+    "slug": "dealsshutter",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Dealsshutter",
+    "address": "Ranjit Avenue Amritsar",
+    "web": "https://www.dealsshutter.com",
+    "sources": [
+        "https://www.dealsshutter.com",
+        "https://github.com/datenanfragen/data/pull/3878"
+    ],
+    "quality": "verified"
+}
