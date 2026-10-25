@@ -9,7 +9,7 @@
     "name": "VR Bank München Land eG",
     "address": "Bahnhofstr. 24\n82041 Oberhaching\nDeutschland",
     "phone": "+49 89 4445650",
-    "email": "daten­schut­z@vrbml.de",
+    "email": "datenschutz@vrbml.de",
     "sources": [
         "https://www.vr-bank-muenchen-land.de/datenschutz.html",
         "https://github.com/datenanfragen/data/pull/2785"
