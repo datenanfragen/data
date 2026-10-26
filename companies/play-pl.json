@@ -1,0 +1,25 @@
+{
+    "slug": "play-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "P4 sp. z o.o.",
+    "runs": [
+        "Play"
+    ],
+    "address": "ul. Wynalazek 1\n02-677 Warszawa\nPoland",
+    "email": "iod@pomocplay.pl",
+    "web": "https://www.play.pl",
+    "sources": [
+        "https://www.play.pl/pomoc/polityka-prywatnosci-i-cookies"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "The privacy policy asks to mark postal letters with \"Dane osobowe\"."
+    ],
+    "quality": "verified"
+}

@@ -1,0 +1,22 @@
+{
+    "slug": "allegro",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Allegro sp. z o.o.",
+    "runs": [
+        "Allegro.pl"
+    ],
+    "address": "ul. Wierzbięcice 1B\n61-569 Poznań\nPoland",
+    "email": "iod@allegro.pl",
+    "web": "https://allegro.pl",
+    "sources": [
+        "https://allegro.pl/regulaminy/polityka-ochrony-prywatnosci-dla-potencjalnych-sprzedajacych-7w770w24vt7"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

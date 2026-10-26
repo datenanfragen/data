@@ -1,0 +1,25 @@
+{
+    "slug": "payback-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "commerce",
+        "ads"
+    ],
+    "name": "Loyalty Partner Polska sp. z o.o.",
+    "runs": [
+        "PAYBACK Polska"
+    ],
+    "address": "ul. Towarowa 28\n00-839 Warszawa\nPoland",
+    "phone": "+48 801 044 440",
+    "email": "mojedane@payback.net",
+    "web": "https://www.payback.pl",
+    "sources": [
+        "https://www.payback.pl/ochrona-danych",
+        "https://www.payback.pl/regulamin"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

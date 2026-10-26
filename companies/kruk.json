@@ -1,0 +1,22 @@
+{
+    "slug": "kruk",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "KRUK S.A.",
+    "runs": [
+        "KRUK"
+    ],
+    "address": "ul. Bolkowska 3\n53-612 Wrocław\nPoland",
+    "email": "dpo@kruksa.pl",
+    "web": "https://pl.kruk.eu",
+    "sources": [
+        "https://pl.kruk.eu/dane-osobowe-klienta"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

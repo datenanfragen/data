@@ -1,0 +1,21 @@
+{
+    "slug": "erif-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "credit agency"
+    ],
+    "name": "ERIF Biuro Informacji Gospodarczej S.A.",
+    "address": "Aleje Jerozolimskie 100\n00-807 Warszawa\nPoland",
+    "phone": "+48 22 594 25 30",
+    "email": "dpo@erif.pl",
+    "web": "https://erif.pl",
+    "sources": [
+        "https://erif.pl/wp-content/uploads/klauzula-IG-Tracking.pdf",
+        "https://erif.pl/kontakt/"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

@@ -1,0 +1,25 @@
+{
+    "slug": "orlen",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "utility",
+        "commerce"
+    ],
+    "name": "ORLEN S.A.",
+    "runs": [
+        "VITAY",
+        "ORLEN ID"
+    ],
+    "address": "ul. Chemików 7\n09-411 Płock\nPoland",
+    "phone": "+48 24 256 00 00",
+    "email": "daneosobowe@orlen.pl",
+    "web": "https://www.orlen.pl",
+    "sources": [
+        "https://www.orlen.pl/pl/dane-osobowe"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
