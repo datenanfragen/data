@@ -6,19 +6,24 @@
     "categories": [
         "ads"
     ],
-    "name": "The Rubicon Project Ltd.",
+    "name": "Magnite, Inc.",
     "runs": [
-        "The Rubicon Project, Inc."
+        "The Rubicon Project, Inc.",
+        "SpringServe",
+        "Magnite Hopper, Inc."
     ],
-    "address": "Walmar House\n5th Floor\n296 Regent St.\nLondon\nW1B 3HR\nUnited Kingdom",
-    "phone": "+44 20 3206 2400",
-    "email": "privacy@rubiconproject.com",
-    "web": "https://rubiconproject.com/",
+    "address": "1250 Broadway\n15th Floor\nNew York, NY 10001\nUnited States",
+    "email": "privacy@magnite.com",
+    "web": "https://www.magnite.com/",
     "sources": [
-        "https://rubiconproject.com/privacy/",
-        "https://rubiconproject.com/contactus/"
+        "https://www.magnite.com/legal/advertising-platform-privacy-policy/",
+        "https://www.magnite.com/legal/user-choice-portal/"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "comments": [
+        "The Data Protection Officer is reachable at dpo@magnite.com.",
+        "EU representative: Lionheart Squared (Europe) Ltd (FAO - Magnite), 2 Pembroke House, Upper Pembroke Street 28-32, Dublin D02 EK84, Ireland, Magnite@lionheartsquared.eu."
+    ]
 }

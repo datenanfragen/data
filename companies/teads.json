@@ -6,8 +6,9 @@
     "categories": [
         "ads"
     ],
-    "name": "Teads France SA",
+    "name": "Teads UK Limited",
     "runs": [
+        "Teads France SA",
         "Teads SA",
         "Teads Deutschland GmbH",
         "Teads Italia srl",
@@ -15,16 +16,19 @@
         "Teads Studio SRL",
         "Teads Spain SLU"
     ],
-    "address": "97 rue du Cherche midi\n75006 Paris\nFrance",
-    "email": "dpo@teads.com",
+    "address": "70 New Oxford Street\n3rd Floor\nLondon WC1A 1EU\nUnited Kingdom",
+    "email": "privacy@teads.com",
     "web": "https://www.teads.com",
     "webform": "https://user-privacy.teads.tv",
     "sources": [
-        "https://privacy-policy.teads.com/privacy-policy/european-privacy-notice/",
+        "https://privacy-policy.teads.com/",
         "https://www.teads.com/teads-offices/"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
-    "quality": "verified"
+    "quality": "verified",
+    "comments": [
+        "The Data Protection Officer is reachable at dpo@teads.com."
+    ]
 }
