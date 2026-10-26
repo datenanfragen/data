@@ -1,0 +1,25 @@
+{
+    "slug": "olx-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Grupa OLX sp. z o.o.",
+    "runs": [
+        "OLX"
+    ],
+    "address": "ul. Królowej Jadwigi 43\n61-872 Poznań\nPoland",
+    "email": "dpo@olx.pl",
+    "web": "https://www.olx.pl",
+    "sources": [
+        "https://pomoc.olx.pl/olxplhelp/s/article/polityka-prywatno%C5%9Bci-V27-olx"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "For OLX services run internationally, the main controller is OLX Global B.V., Gustav Mahlerplein 5, 1082 MS Amsterdam."
+    ],
+    "quality": "verified"
+}

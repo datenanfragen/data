@@ -1,0 +1,20 @@
+{
+    "slug": "big-infomonitor-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "credit agency"
+    ],
+    "name": "Biuro Informacji Gospodarczej InfoMonitor S.A.",
+    "address": "ul. Zygmunta Modzelewskiego 77A\n02-679 Warszawa\nPoland",
+    "email": "iod@big.pl",
+    "web": "https://www.big.pl",
+    "sources": [
+        "https://www.bik.pl/_file/regulamin/Klauzula_informacyjna.pdf",
+        "https://www.bik.pl/rodo"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

@@ -1,0 +1,29 @@
+{
+    "slug": "wp-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "ads",
+        "entertainment"
+    ],
+    "name": "Wirtualna Polska Media S.A.",
+    "runs": [
+        "Wirtualna Polska Holding S.A.",
+        "WP"
+    ],
+    "address": "ul. Żwirki i Wigury 16\n02-092 Warszawa\nPoland",
+    "email": "iodo@grupawp.pl",
+    "webform": "https://holding.wp.pl/kontakt/formularz-rodo",
+    "web": "https://www.wp.pl",
+    "sources": [
+        "https://pomoc.wp.pl/polityka-prywatnosci",
+        "https://holding.wp.pl/kontakt/dane-spolek-grupy"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "The privacy policy names the controller as \"WP\", the group of companies around Wirtualna Polska Holding S.A. Requests can also go through the GDPR contact form."
+    ],
+    "quality": "verified"
+}

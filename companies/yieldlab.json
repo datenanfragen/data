@@ -1,0 +1,27 @@
+{
+    "slug": "yieldlab",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Virtual Minds GmbH",
+    "runs": [
+        "Yieldlab"
+    ],
+    "address": "Ellen-Gottlieb-Straße 16\n79106 Freiburg im Breisgau\nGermany",
+    "email": "data.privacy@virtualminds.com",
+    "web": "https://www.yieldlab.com",
+    "sources": [
+        "https://virtualminds.com/right-to-information/",
+        "https://virtualminds.com/imprint/"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "They ask for a proof of identity form and identify people by cookie ID or mobile advertising ID, not by name.",
+        "The same company also runs The ADEX (record theadex), which lists legal@theadex.com."
+    ],
+    "quality": "verified"
+}

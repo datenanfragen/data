@@ -1,0 +1,30 @@
+{
+    "slug": "panorama-firm",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "addresses",
+        "ads"
+    ],
+    "name": "WeNet sp. z o.o.",
+    "runs": [
+        "Panorama Firm",
+        "WeNet Group S.A."
+    ],
+    "address": "ul. Postępu 14\n02-676 Warszawa\nPoland",
+    "phone": "+48 22 457 30 95",
+    "email": "iod@wenet.pl",
+    "web": "https://panoramafirm.pl",
+    "sources": [
+        "https://panoramafirm.pl/inf/obowiazek-informacyjny.html",
+        "https://panoramafirm.pl/inf/polityka-prywatnosci.html",
+        "https://panoramafirm.pl/reklama.html"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "WeNet Group S.A. (same address) is a joint controller."
+    ],
+    "quality": "verified"
+}

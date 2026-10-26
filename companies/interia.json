@@ -1,0 +1,25 @@
+{
+    "slug": "interia",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "ads",
+        "entertainment"
+    ],
+    "name": "Interia.pl sp. z o.o.",
+    "runs": [
+        "Interia"
+    ],
+    "address": "ul. Kotlarska 11\n31-539 Kraków\nPoland",
+    "phone": "+48 12 646 27 00",
+    "email": "iod@firma.interia.pl",
+    "web": "https://www.interia.pl",
+    "sources": [
+        "https://prywatnosc.interia.pl/",
+        "https://prywatnosc.interia.pl/kontakt"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

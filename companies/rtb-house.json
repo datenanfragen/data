@@ -1,0 +1,21 @@
+{
+    "slug": "rtb-house",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "RTB House S.A.",
+    "address": "ul. Złota 61/101\n00-819 Warsaw\nPoland",
+    "phone": "+48 22 188 12 71",
+    "email": "dpo@rtbhouse.com",
+    "web": "https://www.rtbhouse.com",
+    "sources": [
+        "https://www.rtbhouse.com/privacy-notices/personal-data-processing-notice-email-signatures-usa",
+        "https://www.rtbhouse.com/contact"
+    ],
+    "custom-access-template": "access-tracking",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

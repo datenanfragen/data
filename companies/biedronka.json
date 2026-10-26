@@ -1,0 +1,26 @@
+{
+    "slug": "biedronka",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Jeronimo Martins Polska S.A.",
+    "runs": [
+        "Biedronka",
+        "Moja Biedronka"
+    ],
+    "address": "ul. Żniwna 5\n62-025 Kostrzyn\nPoland",
+    "phone": "+48 22 205 33 00",
+    "email": "dpo.polska@jeronimo-martins.com",
+    "web": "https://www.biedronka.pl",
+    "sources": [
+        "https://www.biedronka.pl/polityka-prywatnosci",
+        "https://moja.biedronka.pl/polityka-prywatnosci/",
+        "https://www.biedronka.pl/pl/kontakt"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

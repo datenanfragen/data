@@ -1,0 +1,27 @@
+{
+    "slug": "onet-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "ads",
+        "entertainment"
+    ],
+    "name": "Ringier Axel Springer Polska sp. z o.o.",
+    "runs": [
+        "Onet"
+    ],
+    "address": "ul. Domaniewska 49\n02-672 Warszawa\nPoland",
+    "phone": "+48 22 232 00 00",
+    "email": "IOD@ringieraxelspringer.pl",
+    "web": "https://www.onet.pl",
+    "sources": [
+        "https://polityka-prywatnosci.onet.pl/"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "One data protection officer for every Ringier Axel Springer Polska service. The controller is the group company named in the site footer."
+    ],
+    "quality": "verified"
+}

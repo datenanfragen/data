@@ -1,0 +1,25 @@
+{
+    "slug": "znanylekarz-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "ZnanyLekarz sp. z o.o.",
+    "runs": [
+        "Docplanner"
+    ],
+    "address": "ul. Kolejowa 5/7\n01-217 Warszawa\nPoland",
+    "email": "iod@znanylekarz.pl",
+    "web": "https://www.znanylekarz.pl",
+    "sources": [
+        "https://www.znanylekarz.pl/prywatnosc"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "May hold health data (Art. 9 GDPR)."
+    ],
+    "quality": "verified"
+}

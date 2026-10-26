@@ -1,0 +1,26 @@
+{
+    "slug": "plus-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Polkomtel sp. z o.o.",
+    "runs": [
+        "Plus"
+    ],
+    "address": "ul. Konstruktorska 4\n02-673 Warszawa\nPoland",
+    "phone": "+48 22 426 19 30",
+    "email": "iod@plus.pl",
+    "web": "https://www.plus.pl",
+    "sources": [
+        "https://www.plus.pl/polityka-prywatnosci"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "The phone number is the data protection officer's line from the privacy policy."
+    ],
+    "quality": "verified"
+}

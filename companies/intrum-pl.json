@@ -1,0 +1,22 @@
+{
+    "slug": "intrum-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Intrum Sp. z o.o.",
+    "address": "ul. Taśmowa 7\n02-677 Warszawa\nPoland",
+    "email": "iod@intrum.pl",
+    "web": "https://www.intrum.pl",
+    "sources": [
+        "https://www.intrum.pl/konsumenci/kontakt/"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Postal addresses differ by office (Warszawa, Wrocław, Białystok), so email is the safer channel."
+    ],
+    "quality": "verified"
+}

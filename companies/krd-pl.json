@@ -1,0 +1,20 @@
+{
+    "slug": "krd-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "credit agency"
+    ],
+    "name": "Krajowy Rejestr Długów Biuro Informacji Gospodarczej S.A.",
+    "address": "ul. Danuty Siedzikówny 12\n51-214 Wrocław\nPoland",
+    "phone": "+48 71 747 43 95",
+    "email": "iod@krd.pl",
+    "web": "https://krd.pl",
+    "sources": [
+        "https://krd.pl/polityka-prywatnosci"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

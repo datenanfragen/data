@@ -1,0 +1,22 @@
+{
+    "slug": "bik-pl",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "credit agency"
+    ],
+    "name": "Biuro Informacji Kredytowej S.A.",
+    "address": "ul. Zygmunta Modzelewskiego 77A\n02-679 Warszawa\nPoland",
+    "phone": "+48 22 348 44 44",
+    "email": "iod@bik.pl",
+    "web": "https://www.bik.pl",
+    "sources": [
+        "https://www.bik.pl/_file/regulamin/Klauzula_informacyjna.pdf",
+        "https://www.bik.pl/rodo",
+        "https://www.bik.pl/kontakt"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}

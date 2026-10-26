@@ -1,0 +1,26 @@
+{
+    "slug": "zabka",
+    "relevant-countries": [
+        "pl"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Żabka Polska sp. z o.o.",
+    "runs": [
+        "Żabka",
+        "Żappka"
+    ],
+    "address": "ul. Stanisława Matyi 8\n61-586 Poznań\nPoland",
+    "phone": "+48 61 856 37 00",
+    "email": "iod@zabka.pl",
+    "web": "https://www.zabka.pl",
+    "sources": [
+        "https://www.zabka.pl/polityka-prywatnosci",
+        "https://zappka.app/wp-content/uploads/2024/08/240813_ZPZappka-4.0_polityka_prywatnosci.pdf",
+        "https://www.zabka.pl/kontakt"
+    ],
+    "request-language": "pl",
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
