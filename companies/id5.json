@@ -7,11 +7,11 @@
         "ads"
     ],
     "name": "ID5 Technology Ltd.",
-    "address": "15 Bishopsgate\nLondon\nEC2N 3AR\nUnited Kingdom",
+    "address": "8 Devonshire Square\nLondon\nEC2M 4YJ\nUnited Kingdom",
     "email": "privacy@id5.io",
     "web": "https://id5.io/",
     "sources": [
-        "https://id5.io/platform-privacy-policy/",
+        "https://id5.io/legal/agreements/v4.4%20ID5%20Platform%20Privacy%20Policy%2020261019.pdf",
         "https://github.com/datenanfragen/data/pull/2923"
     ],
     "custom-access-template": "access-tracking",
