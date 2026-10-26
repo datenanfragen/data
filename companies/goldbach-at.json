@@ -6,15 +6,18 @@
     "categories": [
         "ads"
     ],
-    "name": "Goldbach Austria GmbH",
+    "name": "Azerion Austria GmbH",
+    "runs": [
+        "Goldbach Austria GmbH (formerly)"
+    ],
     "address": "Laimgrubengasse 14\n1060 Wien\nÖsterreich",
     "phone": "+43 1 3708808",
     "fax": "+43 1 370880820",
-    "email": "oba@at.goldbach.com",
-    "web": "https://goldbach.com/at/de",
+    "email": "privacy-austria@azerion.com",
+    "web": "https://azerion.at/",
     "sources": [
-        "https://goldbach.com/at/de/datenschutz/datenschutz-goldbach-austria",
-        "https://goldbach.com/at/de/impressum"
+        "https://azerion.at/datenschutz/",
+        "https://azerion.at/impressum/"
     ],
     "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
