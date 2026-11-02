@@ -1,0 +1,23 @@
+{
+    "slug": "refurbed",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Refurbed Marketplace GmbH",
+    "address": "Jakov-Lind-Straße 7, 1020 Wien Österreich",
+    "phone": "+43 1 8007001210",
+    "email": "service@refurbed.at",
+    "web": "https://www.refurbed.com",
+    "sources": [
+        "www.refurbed.com",
+        "https://www.refurbed.de/privacy/",
+        "https://www.refurbed.at/privacy/",
+        "https://github.com/datenanfragen/data/pull/3476"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
