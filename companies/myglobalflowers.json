@@ -1,0 +1,18 @@
+{
+    "slug": "myglobalflowers",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "MyGlobalFlowers",
+    "address": "C. Cueva de Menga, 3, 41020 Sevilla, España",
+    "phone": "+370 691 98938",
+    "email": "order@myglobalflowers.es",
+    "web": "https://myglobalflowers.es/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3477"
+    ]
+}
