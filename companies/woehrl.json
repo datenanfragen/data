@@ -1,0 +1,19 @@
+{
+    "slug": "woehrl",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Rudolf Wöhrl SE",
+    "address": "Rudolf Wöhrl SE\nBeuthener Straße 41\n90471 Nürnberg\nDeutschland",
+    "phone": "0911 / 8121-0",
+    "fax": "0911 / 8121-100",
+    "email": "kundenservice@woehrl.de",
+    "web": "https://woehrl.de/",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3161"
+    ]
+}
