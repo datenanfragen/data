@@ -3,9 +3,6 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "commerce"
-    ],
     "name": "Risk.Ident GmbH",
     "address": "Am Sandtorkai 50\n20457 Hamburg\nDeutschland",
     "phone": "+49 40 609452590",
@@ -15,5 +12,6 @@
         "https://riskident.com/en/legal-disclosure/",
         "https://github.com/datenanfragen/data/pull/3892"
     ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
