@@ -1,18 +1,17 @@
 {
     "slug": "riskident",
-    "categories": [
-        "credit agency"
+    "relevant-countries": [
+        "all"
     ],
     "name": "Risk.Ident GmbH",
     "address": "Am Sandtorkai 50\n20457 Hamburg\nDeutschland",
     "phone": "+49 40 609452590",
-    "email": "contact@riskident.com",
+    "email": "datenschutz@riskident.com",
     "web": "https://riskident.com",
     "sources": [
-        "https://riskident.com/en/legal-disclosure/"
+        "https://riskident.com/en/legal-disclosure/",
+        "https://github.com/datenanfragen/data/pull/3892"
     ],
-    "relevant-countries": [
-        "all"
-    ],
+    "suggested-transport-medium": "email",
     "quality": "verified"
 }
