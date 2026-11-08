@@ -13,28 +13,27 @@
     ],
     "address": "2nd Floor\n25 Lavington Street\nLondon\nSE1 0NZ\nUnited Kingdom",
     "phone": "+1 650 319 8930",
+    "fax": "0813706437",
     "email": "sar@cloudflare.com",
+    "webform": "https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1",
     "web": "https://www.cloudflare.com/",
-    "sources": [
-        "https://www.cloudflare.com/privacypolicy/"
-    ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name",
-            "optional": false
+            "type": "name"
         },
         {
             "desc": "Email",
-            "type": "email",
-            "optional": false
+            "type": "email"
         }
     ],
     "request-language": "en",
-    "needs-id-document": false,
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "webform",
     "comments": [
         "Alternative email: privacyquestions@cloudflare.com"
     ],
-    "quality": "tested"
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3894"
+    ]
 }
