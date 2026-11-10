@@ -13,11 +13,9 @@
         "Shopify (USA) Inc."
     ],
     "address": "c/o Intertrust Ireland\n2nd Floor 1–2 Victoria Buildings\nHaddington Road\nDublin 4, D04 XN32\nIreland",
-    "phone": "+1 571 409 6451",
     "web": "https://www.shopify.com",
     "sources": [
         "https://www.shopify.com/legal/privacy",
-        "https://www.privacyshield.gov/participant?id=a2zt0000000TNSNAA4&status=Active",
         "https://github.com/datenanfragen/data/pull/3895"
     ],
     "suggested-transport-medium": "email",
