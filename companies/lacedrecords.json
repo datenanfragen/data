@@ -1,0 +1,19 @@
+{
+    "slug": "lacedrecords",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Laced Records",
+    "address": "Laced Music Ltd of 4th Floor, 110 High Holborn, London, England, WC1V 6JS",
+    "email": "privacy@keywordsstudios.com",
+    "web": "https://www.lacedrecords.co",
+    "sources": [
+        "www.lacedrecords.co/pages/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3472"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
