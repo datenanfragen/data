@@ -1,21 +1,22 @@
 {
     "slug": "next14",
     "relevant-countries": [
-        "all"
+        "it"
     ],
     "categories": [
         "ads"
     ],
-    "name": "Next14 S.r.l.",
-    "address": "Via Tortona n. 37\n20144 Milano\nItaly",
-    "phone": "+39 02 5656 7365",
-    "email": "dpo@next14.com",
+    "name": "zero",
+    "address": "zero",
+    "phone": "zero",
+    "email": "pdo@notexisting.com",
     "web": "https://next14.com",
     "sources": [
-        "https://next14.com/informativa-privacy/"
+        "https://zerozero/",
+        "https://github.com/datenanfragen/data/pull/3909"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
-    "suggested-transport-medium": "email",
+    "suggested-transport-medium": "fax",
     "quality": "verified"
 }
