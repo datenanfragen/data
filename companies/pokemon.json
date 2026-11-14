@@ -1,0 +1,20 @@
+{
+    "slug": "pokemon",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "The Pokémon Company International, Inc.",
+    "address": "10770 NE 8th Street\nSuite 1500\nBellevue, WA 98004\nEstados Unidos",
+    "email": "privacyquestions@pokemon.com",
+    "webform": "https://support.pokemon.com/hc/es/requests/new?ticket_form_id=360000012406",
+    "web": "https://www.pokemon.com",
+    "sources": [
+        "https://www.pokemon.com/es/legal/aviso-de-privacidad",
+        "https://github.com/datenanfragen/data/pull/3846"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
