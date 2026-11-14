@@ -6,13 +6,10 @@
     "categories": [
         "commerce"
     ],
-    "name": "Grover Group GmbH",
-    "runs": [
-        "Grover Finance I GmbH",
-        "Grover Finance II GmbH"
-    ],
-    "address": "Potsdamer Str. 125\n10783 Berlin",
-    "email": "datenschutz@grover.de",
+    "name": "Grover Deutschland GmbH",
+    "address": "Potsdamer Str. 125\n10783 Berlin\nDeutschland",
+    "email": "imprint@grover.com",
+    "webform": "https://service.grover.com/hc/de/requests/new?ticket_form_id=19910676674706",
     "web": "https://www.grover.com",
     "sources": [
         "https://www.grover.com/de-de/g-about/datenschutzerklaerung",
@@ -20,6 +17,5 @@
         "https://github.com/datenanfragen/data/pull/1695",
         "https://github.com/datenanfragen/data/pull/3912"
     ],
-    "suggested-transport-medium": "webform",
     "quality": "verified"
 }
