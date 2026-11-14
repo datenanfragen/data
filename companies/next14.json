@@ -3,19 +3,18 @@
     "relevant-countries": [
         "all"
     ],
-    "categories": [
-        "ads"
+    "name": "Be Closer S.p.A.",
+    "runs": [
+        "Next14 (formerly)"
     ],
-    "name": "Next14 S.r.l.",
-    "address": "Via Tortona n. 37\n20144 Milano\nItaly",
-    "phone": "+39 02 5656 7365",
-    "email": "dpo@next14.com",
-    "web": "https://next14.com",
+    "address": "Via Monte Napoleone 8\n20121 Milano (MI)\nItaly",
+    "phone": "+39 02 0000 0000",
+    "email": "hello@becloser.it",
     "sources": [
-        "https://next14.com/informativa-privacy/"
+        "https://beclosergroup.com/en/contact-us/",
+        "https://en.ilsole24ore.com/art/be-closer-a-new-italian-communications-company-formed-from-the-merger-of-next14-and-different-backed-by-an-investment-of-20-million-AIaRdsxD",
+        "https://github.com/datenanfragen/data/pull/3910"
     ],
-    "request-language": "en",
-    "custom-access-template": "access-tracking",
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
