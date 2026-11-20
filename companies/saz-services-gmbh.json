@@ -1,0 +1,14 @@
+{
+    "slug": "saz-services-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "SAZ Services GmbH",
+    "address": "Datenschutz\nGutenbergstr. 1-3\n30823 Garbsen",
+    "email": "datenschutz.de@saz.com",
+    "sources": [
+        "https://www.saz.com/de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3062"
+    ],
+    "quality": "verified"
+}
