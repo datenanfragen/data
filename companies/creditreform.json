@@ -1,0 +1,19 @@
+{
+    "slug": "creditreform",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "collection agency"
+    ],
+    "name": "Creditreform Frankfurt Emil Vogt KG",
+    "address": "Bleichstraße 59\n60313 Frankfurt am Main",
+    "phone": "069 2991222",
+    "email": "info@frankfurt-main.creditreform.de",
+    "web": "https://creditreform.de/frankfurt-am-main",
+    "sources": [
+        "https://inkasso.de/mitglieder/mitgliederliste?tx_inkassomember_listview%5Baction%5D=list&tx_inkassomember_listview%5Bcontroller%5D=Member&cHash=c91e078cc9e3e0058192b09ee5a3058a",
+        "https://github.com/datenanfragen/data/pull/3258"
+    ],
+    "quality": "verified"
+}
