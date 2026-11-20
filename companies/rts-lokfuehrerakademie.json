@@ -1,0 +1,17 @@
+{
+    "slug": "rts-lokfuehrerakademie",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [],
+    "name": "RT&S Lokführer-Akademie GmbH",
+    "address": "RT&S Lokführer-Akademie GmbH\nMercatorstraße 1 a+b\n47051 Duisburg",
+    "email": "data-protection-rts@sbbcargoint.com",
+    "web": "https://www.rts-lokfuehrerakademie.com/de/meta/legallines/datenschutz.html?hidebanner=true",
+    "sources": [
+        "https://www.rts-lokfuehrerakademie.com/de/meta/legallines/datenschutz.html?hidebanner=true",
+        "https://github.com/datenanfragen/data/pull/3043"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
