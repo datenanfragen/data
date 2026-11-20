@@ -1,0 +1,14 @@
+{
+    "slug": "tp-link-deutschland-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "TP-Link Deutschland GmbH",
+    "address": "Am Trippelsberg 100\n40589 Düsseldorf\nDeutschland",
+    "email": "akirsch@goerg-dienstleistungen.de",
+    "sources": [
+        "https://privacy.tp-link.com/web/official/privacy-policy?region=DE#Verantwortlicher",
+        "https://github.com/datenanfragen/data/pull/2837"
+    ],
+    "quality": "verified"
+}
