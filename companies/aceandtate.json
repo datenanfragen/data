@@ -1,0 +1,21 @@
+{
+    "slug": "aceandtate",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Ace & Tate Germany GmbH",
+    "address": "Freiheitsstraße 15\n59759 Arnsberg\nDeutschland",
+    "phone": "+49 30 56796633",
+    "email": "hallo@aceandtate.de",
+    "web": "https://www.aceandtate.com/de",
+    "sources": [
+        "https://www.aceandtate.com/de/legal/datenschutzrichtlinie",
+        "https://www.aceandtate.com/de/legal/impressum",
+        "https://github.com/datenanfragen/data/pull/2968"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
