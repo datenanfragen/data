@@ -1,0 +1,23 @@
+{
+    "slug": "xavoy-filmtheater-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Xavoy Filmtheater GmbH",
+    "runs": [
+        "ASTOR Film Lounge HafenCity Hamburg",
+        "SAVOY movie theatre Hamburg"
+    ],
+    "address": "c/o Vater Solution GmbH\nBoschstr. 5\n24118 Kiel",
+    "email": "colange@vater-gruppe.de",
+    "sources": [
+        "https://hamburg.premiumkino.de/datenschutz",
+        "https://savoy.premiumkino.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3339"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
