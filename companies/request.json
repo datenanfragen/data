@@ -1,0 +1,19 @@
+{
+    "slug": "request",
+    "relevant-countries": [
+        "lv",
+        "ee",
+        "lt"
+    ],
+    "name": "SIA Request",
+    "address": "Stabu iela 109 - 1\nRiga, Latvia, LV-1009",
+    "phone": "+371 20 000 099",
+    "email": "info@request.lv",
+    "webform": "https://request.lv/privacy-policy/request",
+    "web": "https://request.lv",
+    "sources": [
+        "https://request.lv/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3136"
+    ],
+    "quality": "verified"
+}
