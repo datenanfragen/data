@@ -1,0 +1,13 @@
+{
+    "slug": "exasol-ag",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Exasol AG",
+    "address": "Neumeyerstraße 22 – 26\n90411 Nürnberg",
+    "sources": [
+        "https://www.exasol.com/legal-disclosure/",
+        "https://github.com/datenanfragen/data/pull/3064"
+    ],
+    "quality": "verified"
+}
