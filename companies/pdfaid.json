@@ -1,0 +1,23 @@
+{
+    "slug": "pdfaid",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "name": "TSFF Holdings Limited",
+    "runs": [
+        "PDFaid.com"
+    ],
+    "address": "Agias Zonis, 23, Kotsios Court A, 5th floor, flat/office 51, 3027, Limassol Cyprus",
+    "phone": "+44 808 501 2541",
+    "email": "support@pdfaid.com",
+    "web": "https://pdfaid.com",
+    "sources": [
+        "pdfaid.com",
+        "https://github.com/datenanfragen/data/pull/3172"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
