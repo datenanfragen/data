@@ -1,0 +1,18 @@
+{
+    "slug": "planic-gmbh",
+    "relevant-countries": [
+        "de",
+        "at"
+    ],
+    "name": "Planic GmbH",
+    "runs": [
+        "zave.it"
+    ],
+    "address": "Weintraubengasse 2\n90403 Nürnberg\nDeutschland",
+    "email": "info@zave.i",
+    "sources": [
+        "https://zave.it/de-de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2977"
+    ],
+    "quality": "verified"
+}
