@@ -1,0 +1,21 @@
+{
+    "slug": "papoo",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Papoo Software & Media GmbH - Agentur",
+    "runs": [
+        "CCM19"
+    ],
+    "address": "Auguststr. 4, 53229 Bonn",
+    "web": "https://www.papoo.de/",
+    "sources": [
+        "https://www.papoo.de/",
+        "https://github.com/datenanfragen/data/pull/2925"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
