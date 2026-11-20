@@ -1,0 +1,15 @@
+{
+    "slug": "flightradar24",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Flightradar24 AB",
+    "address": "Kungsgatan 12 9tr\n111 35 Stockholm\nSweden",
+    "web": "https://www.flightradar24.com/",
+    "sources": [
+        "https://www.flightradar24.com/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3352"
+    ],
+    "suggested-transport-medium": "letter",
+    "quality": "verified"
+}
