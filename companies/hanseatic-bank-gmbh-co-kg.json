@@ -1,0 +1,18 @@
+{
+    "slug": "hanseatic-bank-gmbh-co-kg",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "finance"
+    ],
+    "name": "Hanseatic Bank GmbH & Co KG",
+    "address": "Fuhlsbüttler Straße 437, 22309 Hamburg",
+    "email": "datenschutz@hanseaticbank.de",
+    "sources": [
+        "https://meine.hanseaticbank.de/de/data-privacy",
+        "https://github.com/datenanfragen/data/pull/3108"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
