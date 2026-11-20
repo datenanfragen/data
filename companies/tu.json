@@ -1,0 +1,21 @@
+{
+    "slug": "tu",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "school",
+        "public body"
+    ],
+    "name": "Technische Universität Berlin",
+    "address": "Straße des 17. Juni 135\n10623 Berlin",
+    "email": "info@datenschutz.tu-berlin.de",
+    "web": "https://www.tu.berlin/",
+    "sources": [
+        "https://www.tu.berlin/datenschutz",
+        "https://www.tu.berlin/footer/impressum",
+        "https://www.tu.berlin/k3/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3040"
+    ],
+    "quality": "verified"
+}
