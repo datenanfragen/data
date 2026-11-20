@@ -1,0 +1,19 @@
+{
+    "slug": "gameplug",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Gameplug LLC",
+    "address": "30 N Gould St\nSTE R\nSheridan\nWY 82801\nUnited States of America",
+    "email": "contact@gameplug.net",
+    "web": "https://gameplug.net/",
+    "sources": [
+        "https://gameplug.net/privacy",
+        "https://github.com/datenanfragen/data/pull/3861"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
