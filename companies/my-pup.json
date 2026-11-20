@@ -1,0 +1,16 @@
+{
+    "slug": "my-pup",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "MYPUP B.V.",
+    "address": "Kuiperbergweg 32\n1101 AG Amsterdam\nThe Netherlands",
+    "phone": "+31 (0)85 001 37 17, +44 (0)20 396 053 73, +353 (0)12 338 220",
+    "email": "info@my-pup.com",
+    "web": "https://www.my-pup.com/",
+    "sources": [
+        "https://www.my-pup.com/privacy",
+        "https://github.com/datenanfragen/data/pull/3392"
+    ],
+    "quality": "verified"
+}
