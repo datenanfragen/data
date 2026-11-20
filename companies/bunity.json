@@ -1,0 +1,20 @@
+{
+    "slug": "bunity",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Fuson Precision machining Co. Ltd",
+    "address": "Falcon Ridge Way, Los Angeles, Porter Ranch, California 91326, United States",
+    "phone": "86-15920434778",
+    "email": "fusoncncmachining@gmail.com",
+    "web": "https://www.bunity.com/fuson-precision-machining",
+    "sources": [
+        "google",
+        "https://github.com/datenanfragen/data/pull/2826"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
