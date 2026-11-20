@@ -1,0 +1,16 @@
+{
+    "slug": "kakservice",
+    "relevant-countries": [
+        "se"
+    ],
+    "name": "Kakservice",
+    "address": "Personuppgiftsansvarig\nBifrostgatan 44\n431 44 Mölndal\nSweden",
+    "phone": "+46 31 27 22 22",
+    "email": "mailto:mikael@kakservice.se",
+    "web": "https://www.kakservice.se/",
+    "sources": [
+        "https://www.kakservice.se/Integritetspolicy-och-information-om-cookies",
+        "https://github.com/datenanfragen/data/pull/3421"
+    ],
+    "quality": "verified"
+}
