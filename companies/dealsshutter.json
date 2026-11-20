@@ -1,0 +1,14 @@
+{
+    "slug": "dealsshutter",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Dealsshutter",
+    "address": "Ranjit Avenue",
+    "web": "https://www.dealsshutter.com",
+    "sources": [
+        "google",
+        "https://github.com/datenanfragen/data/pull/3905"
+    ],
+    "quality": "verified"
+}
