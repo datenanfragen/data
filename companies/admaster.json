@@ -1,0 +1,21 @@
+{
+    "slug": "admaster",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "AdMaster",
+    "address": "Ashburn, Virginia, 20147, United States",
+    "email": "privacypolicy@admaster.cc",
+    "webform": "https://www.admaster.cc/contact-us",
+    "web": "https://www.admaster.cc/",
+    "sources": [
+        "https://www.admaster.cc/contact-us",
+        "https://hypestat.com/info/admaster.cc",
+        "https://github.com/datenanfragen/data/pull/3328"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
