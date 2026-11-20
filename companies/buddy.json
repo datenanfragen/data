@@ -1,0 +1,18 @@
+{
+    "slug": "buddy",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "social media"
+    ],
+    "name": "Brodar B.V.",
+    "address": "Wim Duisenbergplantsoen 31\n6221 SE Maastricht\nNetherlands",
+    "email": "legal@buddy.net",
+    "web": "https://buddy.net/",
+    "suggested-transport-medium": "email",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/datenanfragen/data/pull/3856"
+    ]
+}
