@@ -1,0 +1,15 @@
+{
+    "slug": "allianz-pro-schiene-e-v",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Allianz pro Schiene e.V.",
+    "address": "Markt 9\n04109 Leipzig\nDeutschland",
+    "phone": "+49 341 26189373",
+    "email": "jm@datenschutzbeauftragter-leipzig.de",
+    "sources": [
+        "https://www.allianz-pro-schiene.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2822"
+    ],
+    "quality": "verified"
+}
