@@ -1,0 +1,14 @@
+{
+    "slug": "rehms-druck-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Rehms Druck GmbH",
+    "address": "Landwehr 52\n46325 Borken",
+    "email": "info@rehmsdruck.de",
+    "sources": [
+        "https://www.rehmsdruck.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/3061"
+    ],
+    "quality": "verified"
+}
