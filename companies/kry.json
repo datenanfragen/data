@@ -1,0 +1,22 @@
+{
+    "slug": "kry",
+    "relevant-countries": [
+        "se"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Kry International AB",
+    "runs": [
+        "Kry Primärvård AB"
+    ],
+    "address": "Torsgatan 21 \n113 21 Stockholm\nSweden",
+    "email": "privacy@kry.se",
+    "web": "https://kry.se",
+    "sources": [
+        "https://www.kry.se/legal/integritetspolicy/",
+        "https://github.com/datenanfragen/data/pull/3325"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
