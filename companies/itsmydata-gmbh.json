@@ -1,0 +1,19 @@
+{
+    "slug": "itsmydata-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "addresses"
+    ],
+    "name": "itsmydata GmbH",
+    "address": "c/o heydata GmbH\nSchützenstraße 5\n10117 Berlin\nDeutschland",
+    "phone": "08941325320",
+    "email": "datenschutz@heydata.eu",
+    "sources": [
+        "Website",
+        "https://github.com/datenanfragen/data/pull/2939"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
