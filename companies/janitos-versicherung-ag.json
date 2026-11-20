@@ -1,0 +1,20 @@
+{
+    "slug": "janitos-versicherung-ag",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "insurance"
+    ],
+    "name": "Janitos Versicherung AG",
+    "address": "Im Breitspiel 2-4\n69126 Heidelberg",
+    "email": "datenschutzbeauftragter@janitos.de",
+    "sources": [
+        "https://www.janitos.de/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2947"
+    ],
+    "comments": [
+        "scheint zur Gothaer Versicherungsgruppe zu gehören"
+    ],
+    "quality": "verified"
+}
