@@ -1,0 +1,23 @@
+{
+    "slug": "polster-pohl",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Polster & Pohl Reisen GmbH & Co. KG",
+    "address": "Friedrich-Ebert-Straße 33\n04105 Leipzig",
+    "phone": "0341 2617 0",
+    "email": "info@polster-pohl.de",
+    "web": "https://polster-pohl.de",
+    "sources": [
+        "https://polster-pohl.de",
+        "https://github.com/datenanfragen/data/pull/3186"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "Auch Filialen in Chemnitz, Dresden, Halle, Magdeburg und Zwickau; jeweils mit abweichender Postanschrift & Mail-Adresse (siehe Website)"
+    ],
+    "quality": "verified"
+}
