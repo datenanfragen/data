@@ -1,0 +1,19 @@
+{
+    "slug": "finance1-online",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "Finance1 Online Marketing GmbH",
+    "address": "Podbielskistr. 333\n30659 Hannover\nDeutschland",
+    "email": "info@finance1-online.de",
+    "web": "https://finance1-online.de",
+    "sources": [
+        "https://finance1-online.de/kontakt/",
+        "https://github.com/datenanfragen/data/pull/2879"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
