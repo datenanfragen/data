@@ -1,0 +1,18 @@
+{
+    "slug": "aktion-mensch",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [],
+    "name": "Aktion Mensch e. V.",
+    "address": "c/o MAGELLAN Säugling Rechtsanwaltsgesellschaft mbH Raiffeisenallee 9 \n82041 Oberhaching\nDeutschland",
+    "phone": "+49 228 2092300",
+    "email": "datenschutz_aktion_mensch@magellan-legal.de",
+    "web": "https://www.aktion-mensch.de/",
+    "sources": [
+        "https://www.aktion-mensch.de/lotterie/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2971"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
