@@ -1,0 +1,19 @@
+{
+    "slug": "holafly-limited",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "Holafly Limited",
+    "address": "Holafly Limited of 6th Floor, 2 Grand Canal Square, Dublin 2, D02 A342, Ireland",
+    "email": "dpo@group.holafly.com",
+    "webform": "https://esim.holafly.com/privacy-policy/",
+    "sources": [
+        "https://esim.holafly.com/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/3479"
+    ],
+    "suggested-transport-medium": "webform",
+    "quality": "verified"
+}
