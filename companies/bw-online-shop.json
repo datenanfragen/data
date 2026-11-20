@@ -1,0 +1,15 @@
+{
+    "slug": "bw-online-shop",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "bw-online-shop",
+    "address": "Zeppelinstr. 2\n98617 Meiningen\nDeutschland",
+    "phone": "+49 3693 508890",
+    "email": "service@bw-online-shop.de",
+    "sources": [
+        "https://www.bw-online-shop.com/datenschutz/",
+        "https://github.com/datenanfragen/data/pull/2975"
+    ],
+    "quality": "verified"
+}
