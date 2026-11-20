@@ -1,0 +1,22 @@
+{
+    "slug": "ngo-shoes",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "SAS N'GO SHOES",
+    "address": "12 allée du Port Maillard\n44000 NANTES\nFrance",
+    "phone": "+49 681 9963677",
+    "fax": "+49 681 9963111",
+    "email": "kundenservice@ngo-shoes.com",
+    "web": "https://ngo-shoes.de/",
+    "sources": [
+        "https://ngo-shoes.de/policies/privacy-policy",
+        "https://ngo-shoes.de/policies/legal-notice",
+        "https://github.com/datenanfragen/data/pull/3343"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
