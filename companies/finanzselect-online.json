@@ -1,0 +1,24 @@
+{
+    "slug": "finanzselect-online",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "FinanzSelect Online Marketing GmbH",
+    "address": "Pfaffenweg 15\n53227 Bonn\nDeutschland",
+    "phone": "0228-97274258",
+    "fax": "0228-688203-610",
+    "email": "datenschutz@finanzselect-online.de",
+    "web": "https://finanzselect-online.de",
+    "sources": [
+        "https://finanzselect-online.de/impressum/",
+        "https://github.com/datenanfragen/data/pull/2877"
+    ],
+    "suggested-transport-medium": "email",
+    "comments": [
+        "gleiche Adresse und FAX Nummer wie Finanz-Affiliate Marketing GmbH, gleicher Geschäftsführer"
+    ],
+    "quality": "verified"
+}
