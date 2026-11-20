@@ -1,0 +1,22 @@
+{
+    "slug": "beyondtheads",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "ads"
+    ],
+    "name": "BeyondTheAds UG",
+    "runs": [
+        "https://adepiccenterpro.net"
+    ],
+    "address": "Mittelweg 144\n20148 Hamburg\nDeutschland",
+    "email": "kontakt@beyondtheads.de",
+    "webform": "https://beyondtheads.de/#section-4",
+    "web": "https://beyondtheads.de",
+    "sources": [
+        "https://beyondtheads.de/impressum.html",
+        "https://github.com/datenanfragen/data/pull/2878"
+    ],
+    "quality": "verified"
+}
