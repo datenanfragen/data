@@ -1,0 +1,18 @@
+{
+    "slug": "ihk-digital-gmbh",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "telecommunication"
+    ],
+    "name": "IHK DIGITAL GmbH",
+    "address": "Leipziger Straße 51\n10117 Berlin",
+    "email": "datenschutz@ihkdigital.de",
+    "sources": [
+        "https://www.ihkdigital.de",
+        "https://github.com/datenanfragen/data/pull/3444"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
