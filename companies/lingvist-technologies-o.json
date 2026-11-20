@@ -1,0 +1,17 @@
+{
+    "slug": "lingvist-technologies-o",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "school"
+    ],
+    "name": "Lingvist Technologies OÜ",
+    "address": "J. Poska 10–17,\n10126 Tallinn,\nEstland.",
+    "email": "dpo@lingvist.io",
+    "sources": [
+        "https://lingvist.com/de/datenschutzrichtlinien/",
+        "https://github.com/datenanfragen/data/pull/2815"
+    ],
+    "quality": "verified"
+}
