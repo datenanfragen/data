@@ -1,0 +1,26 @@
+{
+    "slug": "kulturpass",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "public body",
+        "entertainment"
+    ],
+    "name": "Beauftragte(r) der Bundesregierung für Kultur und Medien (BKM)",
+    "runs": [
+        "kulturpass.de (Website)",
+        "KulturPass-App (Mobile Applikation)"
+    ],
+    "address": "Behördlicher Datenschutzbeauftragter\nGraurheindorfer Straße 198\n53117 Bonn\nDeutschland",
+    "phone": "+49 228 9968113655",
+    "fax": "+49 228 99681513655",
+    "email": "datenschutzbeauftragter@bkm.bund.de",
+    "web": "https://www.kulturpass.de/",
+    "sources": [
+        "https://www.kulturpass.de/datenschutz",
+        "https://www.kulturpass.de/datenschutz/jugendliche",
+        "https://github.com/datenanfragen/data/pull/3385"
+    ],
+    "quality": "verified"
+}
