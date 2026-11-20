@@ -9,11 +9,12 @@
     "name": "Mollie B.V.",
     "address": "Keizersgracht 313\n1016 EE Amsterdam\nThe Netherlands",
     "phone": "+31 20 820 2070",
-    "email": "dpo@mollie.com",
+    "email": "privacy@mollie.com",
     "web": "https://www.mollie.com",
     "sources": [
         "https://www.mollie.com/en/privacy",
-        "https://www.mollie.com/de/impressum"
+        "https://www.mollie.com/de/impressum",
+        "https://github.com/datenanfragen/data/pull/3920"
     ],
     "suggested-transport-medium": "email",
     "quality": "verified"
