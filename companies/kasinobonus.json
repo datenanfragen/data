@@ -1,0 +1,22 @@
+{
+    "slug": "kasinobonus",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Kasinobonus",
+    "address": "Maljalahdenkatu 25, 70100 Kuopio",
+    "email": "info@kasinobonus.io",
+    "web": "https://kasinobonus.io/de/",
+    "sources": [
+        "https://www.trustpilot.com/review/kasinobonus.io",
+        "https://x.com/Kasinobonus_io",
+        "https://790talknow.com/kasinobonus-io-a-new-leader-in-the-german-market/",
+        "https://www.linkedin.com/in/matti-slotte-26612033b/?originalSubdomain=fi",
+        "https://orcid.org/0009-0007-2889-1713",
+        "https://github.com/datenanfragen/data/pull/2980"
+    ],
+    "quality": "verified"
+}
