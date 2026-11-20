@@ -1,0 +1,23 @@
+{
+    "slug": "quanticdream",
+    "relevant-countries": [
+        "fr",
+        "de"
+    ],
+    "categories": [
+        "entertainment"
+    ],
+    "name": "Quantic Dream SAS",
+    "runs": [
+        "Detroit: Become Human"
+    ],
+    "address": "30 rue Raoul Wallenberg, 75019 Paris, France",
+    "phone": "+33 1 44 64 00 90",
+    "email": "contact@quanticdream.com",
+    "web": "https://www.quanticdream.com/en/legal-information",
+    "sources": [
+        "https://www.quanticdream.com/en/legal-information",
+        "https://github.com/datenanfragen/data/pull/3291"
+    ],
+    "quality": "verified"
+}
