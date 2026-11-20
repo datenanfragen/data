@@ -1,0 +1,21 @@
+{
+    "slug": "zwookaffee",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Tilman Böing  zwoo kaffeeröster e.K.",
+    "address": "Christian-Schult-Straße 5\n50823 Köln",
+    "phone": "017680481888",
+    "email": "hallo@zwookaffee.de",
+    "webform": "https://www.zwookaffee.de/pages/kontakt",
+    "web": "https://www.zwookaffee.de",
+    "sources": [
+        "https://www.zwookaffee.de/policies/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/3203"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
