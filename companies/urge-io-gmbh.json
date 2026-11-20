@@ -1,0 +1,17 @@
+{
+    "slug": "urge-io-gmbh",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "URGE IO GmbH",
+    "runs": [
+        "www.versus.com/"
+    ],
+    "address": "Urbanstraße 71\n10967 Berlin\nDeutschland",
+    "email": "datenschutz@versus.com",
+    "sources": [
+        "https://versus.com/privacy-policy",
+        "https://github.com/datenanfragen/data/pull/2858"
+    ],
+    "quality": "verified"
+}
