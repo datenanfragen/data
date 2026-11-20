@@ -1,0 +1,19 @@
+{
+    "slug": "dealsshutter",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Dealsshutter",
+    "address": "India",
+    "phone": "09878269711",
+    "email": "guest@dealsshutter.com",
+    "web": "https://www.dealsshutter.com",
+    "sources": [
+        "google",
+        "https://github.com/datenanfragen/data/pull/3904"
+    ],
+    "quality": "verified"
+}
