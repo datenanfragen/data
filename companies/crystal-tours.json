@@ -1,0 +1,23 @@
+{
+    "slug": "crystal-tours",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "travel"
+    ],
+    "name": "Crystal Collegium Travel GmbH",
+    "runs": [
+        "Crystal-Tours"
+    ],
+    "address": "Datenschutzbeauftragter\nLindwurmstraße 80\n80337 München\nGermany",
+    "email": "datenschutz@crystal-tours.de",
+    "web": "https://www.crystal-tours.de/",
+    "sources": [
+        "https://www.meineabireise.de/datenschutz?p=extra&extraPart=datenschutz",
+        "https://www.crystal-tours.de/index.php?p=extra&extraPart=datenschutz",
+        "https://github.com/datenanfragen/data/pull/3825"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
