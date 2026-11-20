@@ -1,0 +1,18 @@
+{
+    "slug": "zahnarzt-goettingen",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "health"
+    ],
+    "name": "Zahnarztpraxis Dr. Egert",
+    "address": "Riemannstraße 32\n37083 Göttingen",
+    "email": "info@zahnarzt-goettingen.eu",
+    "web": "https://zahnarzt-goettingen.eu/",
+    "sources": [
+        "https://zahnarzt-goettingen.eu/",
+        "https://github.com/datenanfragen/data/pull/2932"
+    ],
+    "quality": "verified"
+}
