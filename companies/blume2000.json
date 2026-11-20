@@ -1,0 +1,20 @@
+{
+    "slug": "blume2000",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "BLUME2000 SE",
+    "address": "Gutenbergring 53\n22848 Norderstedt",
+    "phone": "040 22636327",
+    "email": "service@blume2000.de",
+    "web": "https://www.blume2000.de",
+    "sources": [
+        "https://www.blume2000.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3350"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
