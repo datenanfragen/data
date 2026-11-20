@@ -1,0 +1,17 @@
+{
+    "slug": "peter-busse-sicherheitstechnik",
+    "relevant-countries": [
+        "de"
+    ],
+    "name": "Peter Busse - Sicherheitstechnik",
+    "runs": [
+        "Pitlock"
+    ],
+    "address": "Wilhelm-von-Siemens-Straße 23, Haus F\n12277 Berlin\nDeutschland",
+    "email": "info@pitlock.de",
+    "sources": [
+        "https://www.pitlock.de/de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/2824"
+    ],
+    "quality": "verified"
+}
