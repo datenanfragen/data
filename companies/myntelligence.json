@@ -11,11 +11,12 @@
         "Myntelligence (formerly)"
     ],
     "address": "Ripa di Porta Ticinese 113\n20143 Milan\nItaly",
-    "email": "dpo@mint.ai",
+    "email": "hello@mint.com",
     "web": "https://www.mint.ai/",
     "sources": [
         "https://www.mint.ai/privacy-policy",
-        "https://www.exchangewire.com/blog/2021/09/29/myntelligence-mint-creates-real-value-digital-business-world-adv-sustainable-accessible/"
+        "https://www.exchangewire.com/blog/2021/09/29/myntelligence-mint-creates-real-value-digital-business-world-adv-sustainable-accessible/",
+        "https://github.com/datenanfragen/data/pull/3914"
     ],
     "request-language": "en",
     "custom-access-template": "access-tracking",
