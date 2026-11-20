@@ -1,0 +1,18 @@
+{
+    "slug": "thg-nutrition-limited-myprotein",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "THG Nutrition Limited (MYPROTEIN)",
+    "address": "Icon 1,\n7-9 Sunbank Lane, Ringway,\nAltrincham,\nWA15 0AF,\nUnited Kingdom",
+    "email": "customer.experience@thehutgroup.com",
+    "sources": [
+        "https://de.myprotein.com/c/customer-services/privacy-and-security/",
+        "https://github.com/datenanfragen/data/pull/3026"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
