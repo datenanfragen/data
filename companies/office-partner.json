@@ -1,0 +1,22 @@
+{
+    "slug": "office-partner",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "OFFICE Partner GmbH",
+    "address": "c/o Ali Tschakari, LL.M.\nBitkom Servicegesellschaft mbH\nAlbrechtstraße 10\n10117 Berlin",
+    "phone": "+49 2542 9558250",
+    "fax": "+49 2542 9558234",
+    "email": "datenschutz@bitkom-consult.de",
+    "web": "https://www.office-partner.de/",
+    "sources": [
+        "https://www.office-partner.de/impressum",
+        "https://www.office-partner.de/datenschutz",
+        "https://github.com/datenanfragen/data/pull/3926"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
