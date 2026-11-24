@@ -1,0 +1,16 @@
+{
+    "slug": "repostit",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Repostit LLC",
+    "address": "254 Chapman Road Ste 208, Newark, DE 19702, United States",
+    "email": "support@repostit.io",
+    "web": "https://repostit.io/",
+    "sources": [
+        "https://repostit.io/privacy-policy/",
+        "https://github.com/datenanfragen/data/pull/3931"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
