@@ -7,14 +7,15 @@
         "health"
     ],
     "name": "Doctolib GmbH",
-    "address": "Friedrichstraße 11\n10117 Berlin\nDeutschland",
+    "address": "Friedrichstraße 111\n10117 Berlin\nDeutschland",
     "email": "datenschutz@doctolib.de",
     "web": "https://www.doctolib.de",
     "sources": [
         "https://media.doctolib.com/image/upload/v1784900253/legal/B2C-PrivacyPolicy-JULY_25-DE.pdf",
         "https://github.com/datenanfragen/data/pull/898",
         "https://github.com/datenanfragen/data/pull/2342",
-        "https://github.com/datenanfragen/data/pull/3847"
+        "https://github.com/datenanfragen/data/pull/3847",
+        "https://github.com/datenanfragen/data/pull/3937"
     ],
     "required-elements": [
         {
