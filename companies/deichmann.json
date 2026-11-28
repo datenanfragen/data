@@ -1,0 +1,21 @@
+{
+    "slug": "deichmann",
+    "relevant-countries": [
+        "de"
+    ],
+    "categories": [
+        "commerce"
+    ],
+    "name": "Deichmann SE",
+    "address": "Deichmannweg 9\n45359 Essen\nDeutschland",
+    "phone": "+49 800 5020500",
+    "email": "dsb@deichmann.com",
+    "web": "https://www.deichmann.com/de-de/",
+    "sources": [
+        "https://www.deichmann.com/de-de/privacypolicy",
+        "https://www.deichmann.com/de-de/impressum",
+        "https://github.com/datenanfragen/data/pull/3940"
+    ],
+    "suggested-transport-medium": "email",
+    "quality": "verified"
+}
